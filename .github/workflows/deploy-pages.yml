@@ -27,19 +27,14 @@ jobs:
         with:
           python-version: '3.14'
 
-      - name: Install project
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install .
-
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
       - name: Build public data
-        run: python -m hackerlinks.normalize
+        run: PYTHONPATH=src python -m hackerlinks.normalize
 
       - name: Build static site
-        run: python -m hackerlinks.build
+        run: PYTHONPATH=src python -m hackerlinks.build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
