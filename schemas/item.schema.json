@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HackerLinks Item",
+  "type": "object",
+  "required": ["id", "slug", "name", "mention_ids"],
+  "properties": {
+    "id": {"type": "string"},
+    "slug": {"type": "string"},
+    "name": {"type": "string"},
+    "thing_url": {"type": ["string", "null"]},
+    "mention_ids": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}

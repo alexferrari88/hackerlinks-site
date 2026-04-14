@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-14T13:41:27.313438+00:00",
+  "id": "tailscale",
+  "last_seen_at": "2026-04-14T13:41:27.313438+00:00",
+  "latest_mention_id": "2026-04-14:tailscale:47759341",
+  "mention_ids": [
+    "2026-04-14:tailscale:47759341"
+  ],
+  "name": "Tailscale",
+  "slug": "tailscale",
+  "summary": "Scaffold placeholder summary: richer editorial summaries should come from upstream HN scout artifacts.",
+  "thing_url": "https://tailscale.com",
+  "times_seen": 1,
+  "why_included": "Scaffold placeholder rationale: surfaced as an interesting concrete thing from HN discussion."
+}

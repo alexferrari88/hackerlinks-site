@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "cooldown_days": 90,
+  "products": [
+    {
+      "name": "DaVinci Resolve",
+      "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Jellyfin",
+      "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Infuse",
+      "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Tailscale",
+      "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "TanStack Start",
+      "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cloudflare CLI",
+      "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    }
+  ]
+}

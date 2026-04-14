@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HackerLinks Mention",
+  "type": "object",
+  "required": ["id", "issue_id", "item_id", "hn_url"],
+  "properties": {
+    "id": {"type": "string"},
+    "issue_id": {"type": "string"},
+    "item_id": {"type": "string"},
+    "hn_url": {"type": "string"},
+    "source_story_id": {"type": ["string", "null"]},
+    "source_story_title": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

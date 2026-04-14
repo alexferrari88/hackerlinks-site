@@ -1,0 +1,19 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T13:41:27.313438+00:00",
+  "headline": "6 interesting things surfaced from HN on 2026-04-14",
+  "id": "2026-04-14",
+  "mention_ids": [
+    "2026-04-14:davinci-resolve:47760529",
+    "2026-04-14:jellyfin:47759341",
+    "2026-04-14:infuse:47759341",
+    "2026-04-14:tailscale:47759341",
+    "2026-04-14:tanstack-start:47761609",
+    "2026-04-14:cloudflare-cli:47753689"
+  ],
+  "summary": {
+    "items_surfaced": 6,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

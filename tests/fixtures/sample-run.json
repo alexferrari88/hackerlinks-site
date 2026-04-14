@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "run_date": "2026-04-14",
+  "generated_at": "2026-04-14T13:41:27.313438+00:00",
+  "summary": "Extracted positive product mentions from HN frontpage stories.",
+  "items": [
+    {
+      "name": "DaVinci Resolve",
+      "thing_url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "hn_url": "https://news.ycombinator.com/item?id=47760529"
+    },
+    {
+      "name": "Jellyfin",
+      "thing_url": "https://jellyfin.org",
+      "hn_url": "https://news.ycombinator.com/item?id=47759341"
+    },
+    {
+      "name": "Infuse",
+      "thing_url": "https://firecore.com/infuse",
+      "hn_url": "https://news.ycombinator.com/item?id=47759341"
+    },
+    {
+      "name": "Tailscale",
+      "thing_url": "https://tailscale.com",
+      "hn_url": "https://news.ycombinator.com/item?id=47759341"
+    },
+    {
+      "name": "TanStack Start",
+      "thing_url": "https://tanstack.com/start",
+      "hn_url": "https://news.ycombinator.com/item?id=47761609"
+    },
+    {
+      "name": "Cloudflare CLI",
+      "thing_url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "hn_url": "https://news.ycombinator.com/item?id=47753689"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HackerLinks Issue",
+  "type": "object",
+  "required": ["id", "date", "generated_at", "summary", "mention_ids"],
+  "properties": {
+    "id": {"type": "string"},
+    "date": {"type": "string"},
+    "generated_at": {"type": "string"},
+    "summary": {"type": "object"},
+    "mention_ids": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}
