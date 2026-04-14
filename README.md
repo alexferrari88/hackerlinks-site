@@ -19,11 +19,11 @@ The core product question is:
 
 ## Current posture
 
-This repo is **review-first** and currently **inactive**:
-- no live deployment has been activated here
-- no DNS changes have been made here
+This repo is now **live on GitHub Pages** and remains **data-first**:
+- public deployment: `https://alexferrari88.github.io/hackerlinks-site/`
 - no runtime scraping or AI calls happen in the website repo
-- the website is intended to render only approved structured JSON
+- the website renders only structured JSON checked into the repo
+- private HN scout artifacts are synced in from Alex's local Hermes environment, then normalized and rendered deterministically
 
 ## MVP target
 
@@ -54,11 +54,34 @@ These are copied from the private HN Product Scout pipeline so the public site c
 
 ## Planned pipeline
 
-1. Normalize private scout artifacts into public JSON
-2. Render static HTML from public JSON
-3. Review output locally
-4. Publish to **GitHub Pages** once the local preview is approved
+1. Sync private scout artifacts into `data/source/`
+2. Normalize private scout artifacts into public JSON
+3. Render static HTML from public JSON
+4. Push repo updates to trigger **GitHub Pages** deploy
+
+## Automation
+
+Manual sync command:
+
+```bash
+cd /home/alex/src/hackerlinks
+PYTHONPATH=src python3 -m hackerlinks.sync
+```
+
+Publish sync command:
+
+```bash
+cd /home/alex/src/hackerlinks
+PYTHONPATH=src python3 -m hackerlinks.sync --push
+```
+
+The sync command:
+- copies `~/.hermes/hn-scout/product-history.json`
+- copies all available `~/.hermes/hn-scout/runs/*.json`
+- rebuilds `data/public/` and `dist/`
+- refuses to publish if unrelated repo files are dirty
+- commits and pushes only `data/source/` + `data/public/` when actual content changed
 
 ## Immediate next implementation step
 
-Implement `src/hackerlinks/normalize.py` so the thin source artifacts become a stable public contract for the renderer.
+Validate the scheduled local sync job and then point `hackerlinks.cc` at GitHub Pages when the content loop feels stable.
