@@ -8,8 +8,8 @@
   ],
   "name": "Cloudflare CLI",
   "slug": "cloudflare-cli",
-  "summary": "Scaffold placeholder summary: richer editorial summaries should come from upstream HN scout artifacts.",
+  "summary": "Cloudflare's new unified cf CLI stood out as an agent-friendly local entry point for managing Cloudflare services.",
   "thing_url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
   "times_seen": 1,
-  "why_included": "Scaffold placeholder rationale: surfaced as an interesting concrete thing from HN discussion."
+  "why_included": "The discussion centered on a concrete new tool rather than a vague platform announcement."
 }

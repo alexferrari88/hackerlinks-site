@@ -46,11 +46,16 @@ class BuildTests(unittest.TestCase):
             self.assertIn("2026-04-14", archive_html)
             self.assertIn("Issue 2026-04-14", issue_html)
             self.assertIn("Cloudflare CLI", issue_html)
+            self.assertIn("Building a CLI for all of Cloudflare", issue_html)
             self.assertIn("Proof trail", item_html)
+            self.assertIn("Adobe alternative", item_html)
+            self.assertIn("DaVinci Resolve – Photo", item_html)
+            self.assertIn("$295 perpetual license", item_html)
             self.assertIn("https://news.ycombinator.com/item?id=47760529", item_html)
             self.assertIn("canonical id", item_html.lower())
             self.assertIn("items rendered: 6", preview_notes)
-            self.assertIn("placeholder summaries: 6", preview_notes)
+            self.assertIn("placeholder summaries: 0", preview_notes)
+            self.assertIn("placeholder evidence rows: 0", preview_notes)
             self.assertTrue((dist_root / "site.css").exists())
 
 

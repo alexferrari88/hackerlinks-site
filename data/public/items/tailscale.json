@@ -8,8 +8,8 @@
   ],
   "name": "Tailscale",
   "slug": "tailscale",
-  "summary": "Scaffold placeholder summary: richer editorial summaries should come from upstream HN scout artifacts.",
+  "summary": "Zero-config mesh VPN HN users recommended for secure remote access to a home media server.",
   "thing_url": "https://tailscale.com",
   "times_seen": 1,
-  "why_included": "Scaffold placeholder rationale: surfaced as an interesting concrete thing from HN discussion."
+  "why_included": "It surfaced as the practical answer for exposing Jellyfin safely without opening it directly to the internet."
 }

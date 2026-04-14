@@ -8,8 +8,8 @@
   ],
   "name": "Jellyfin",
   "slug": "jellyfin",
-  "summary": "Scaffold placeholder summary: richer editorial summaries should come from upstream HN scout artifacts.",
+  "summary": "Open-source media server that HN users kept recommending as the escape hatch from Plex lock-in and forced accounts.",
   "thing_url": "https://jellyfin.org",
   "times_seen": 1,
-  "why_included": "Scaffold placeholder rationale: surfaced as an interesting concrete thing from HN discussion."
+  "why_included": "The WiiFin thread turned into a broader Jellyfin recommendation and comparison discussion."
 }

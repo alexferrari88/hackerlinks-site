@@ -8,8 +8,8 @@
   ],
   "name": "TanStack Start",
   "slug": "tanstack-start",
-  "summary": "Scaffold placeholder summary: richer editorial summaries should come from upstream HN scout artifacts.",
+  "summary": "TanStack Start's new React Server Components support triggered strong interest as a leaner alternative to Next.js.",
   "thing_url": "https://tanstack.com/start",
   "times_seen": 1,
-  "why_included": "Scaffold placeholder rationale: surfaced as an interesting concrete thing from HN discussion."
+  "why_included": "The thread focused on developer ergonomics and lower resource use, making Start the concrete tool people were evaluating."
 }

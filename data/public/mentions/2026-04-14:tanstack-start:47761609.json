@@ -1,5 +1,5 @@
 {
-  "evidence": "Scaffold placeholder evidence: this item was surfaced from an HN thread, but richer mention-level evidence still needs to be exported upstream.",
+  "evidence": "HN users compared TanStack plus Vite favorably against heavier Next.js setups and highlighted the new RSC support.",
   "hn_url": "https://news.ycombinator.com/item?id=47761609",
   "id": "2026-04-14:tanstack-start:47761609",
   "is_repeat": false,
@@ -8,5 +8,5 @@
   "rank": 5,
   "seen_at": "2026-04-14T13:41:27.313438+00:00",
   "source_story_id": "47761609",
-  "source_story_title": null
+  "source_story_title": "TanStack Start Now Support React Server Components"
 }

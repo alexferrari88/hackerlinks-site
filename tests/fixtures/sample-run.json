@@ -3,36 +3,62 @@
   "run_date": "2026-04-14",
   "generated_at": "2026-04-14T13:41:27.313438+00:00",
   "summary": "Extracted positive product mentions from HN frontpage stories.",
+  "stories_attempted": 24,
+  "stories_processed": 24,
   "items": [
     {
       "name": "DaVinci Resolve",
       "thing_url": "https://www.blackmagicdesign.com/products/davinciresolve",
-      "hn_url": "https://news.ycombinator.com/item?id=47760529"
+      "hn_url": "https://news.ycombinator.com/item?id=47760529",
+      "source_story_title": "DaVinci Resolve – Photo",
+      "summary": "Blackmagic expanded DaVinci Resolve with a photo workflow, and HN users framed it as a serious Adobe alternative with a one-time license.",
+      "why_included": "Repeated praise for Resolve's value and color workflow made it the clear concrete tool surfaced by the thread.",
+      "evidence": "Commenters highlighted the $295 perpetual license and said Resolve remains a go-to editor for high-quality video work."
     },
     {
       "name": "Jellyfin",
       "thing_url": "https://jellyfin.org",
-      "hn_url": "https://news.ycombinator.com/item?id=47759341"
+      "hn_url": "https://news.ycombinator.com/item?id=47759341",
+      "source_story_title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "summary": "Open-source media server that HN users kept recommending as the escape hatch from Plex lock-in and forced accounts.",
+      "why_included": "The WiiFin thread turned into a broader Jellyfin recommendation and comparison discussion.",
+      "evidence": "Multiple comments praised Jellyfin's self-hosted freedom while recommending a safe remote-access layer instead of exposing it directly."
     },
     {
       "name": "Infuse",
       "thing_url": "https://firecore.com/infuse",
-      "hn_url": "https://news.ycombinator.com/item?id=47759341"
+      "hn_url": "https://news.ycombinator.com/item?id=47759341",
+      "source_story_title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "summary": "Premium Apple-platform player repeatedly cited as the smoothest client for Jellyfin and Plex libraries.",
+      "why_included": "Mentioned as the client that fixes playback pain once the media server is already in place.",
+      "evidence": "HN users called Infuse the best premium Apple client and said it handled files that other apps struggled with."
     },
     {
       "name": "Tailscale",
       "thing_url": "https://tailscale.com",
-      "hn_url": "https://news.ycombinator.com/item?id=47759341"
+      "hn_url": "https://news.ycombinator.com/item?id=47759341",
+      "source_story_title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "summary": "Zero-config mesh VPN HN users recommended for secure remote access to a home media server.",
+      "why_included": "It surfaced as the practical answer for exposing Jellyfin safely without opening it directly to the internet.",
+      "evidence": "Commenters recommended Tailscale as the easiest safe remote-access layer for family media streaming."
     },
     {
       "name": "TanStack Start",
       "thing_url": "https://tanstack.com/start",
-      "hn_url": "https://news.ycombinator.com/item?id=47761609"
+      "hn_url": "https://news.ycombinator.com/item?id=47761609",
+      "source_story_title": "TanStack Start Now Support React Server Components",
+      "summary": "TanStack Start's new React Server Components support triggered strong interest as a leaner alternative to Next.js.",
+      "why_included": "The thread focused on developer ergonomics and lower resource use, making Start the concrete tool people were evaluating.",
+      "evidence": "HN users compared TanStack plus Vite favorably against heavier Next.js setups and highlighted the new RSC support."
     },
     {
       "name": "Cloudflare CLI",
       "thing_url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "hn_url": "https://news.ycombinator.com/item?id=47753689"
+      "hn_url": "https://news.ycombinator.com/item?id=47753689",
+      "source_story_title": "Building a CLI for all of Cloudflare",
+      "summary": "Cloudflare's new unified cf CLI stood out as an agent-friendly local entry point for managing Cloudflare services.",
+      "why_included": "The discussion centered on a concrete new tool rather than a vague platform announcement.",
+      "evidence": "Commenters focused on the new cf preview, permissions ergonomics, and the idea of a consistent CLI for humans and agents."
     }
   ]
 }

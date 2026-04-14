@@ -26,12 +26,15 @@ class NormalizeTests(unittest.TestCase):
         self.assertEqual(davinci["times_seen"], 1)
         self.assertEqual(davinci["first_seen_at"], "2026-04-14T13:41:27.313438+00:00")
         self.assertEqual(davinci["latest_mention_id"], "2026-04-14:davinci-resolve:47760529")
+        self.assertIn("Adobe alternative", davinci["summary"])
+        self.assertIn("color workflow", davinci["why_included"])
 
         jellyfin_mention = public["mentions"]["2026-04-14:jellyfin:47759341"]
         self.assertEqual(jellyfin_mention["source_story_id"], "47759341")
         self.assertEqual(jellyfin_mention["item_id"], "jellyfin")
+        self.assertEqual(jellyfin_mention["source_story_title"], "WiiFin – Jellyfin Client for Nintendo Wii")
         self.assertFalse(jellyfin_mention["is_repeat"])
-        self.assertIn("placeholder", jellyfin_mention["evidence"].lower())
+        self.assertIn("safe remote-access layer", jellyfin_mention["evidence"])
 
     def test_write_public_records_writes_expected_files(self) -> None:
         run_data = json.loads((FIXTURES / "sample-run.json").read_text())
