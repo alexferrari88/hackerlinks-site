@@ -38,7 +38,8 @@ def _write(path: Path, content: str) -> None:
     path.write_text(content)
 
 
-def _page(title: str, description: str, body: str) -> str:
+def _page(title: str, description: str, body: str, prefix: str) -> str:
+    stylesheet_href = _href(prefix, "site.css")
     return f"""<!doctype html>
 <html lang=\"en\">
   <head>
@@ -75,13 +76,19 @@ def _page(title: str, description: str, body: str) -> str:
         }}
       }}
     </script>
-    <link rel=\"stylesheet\" href=\"/site.css\" />
+    <link rel=\"stylesheet\" href=\"{escape(stylesheet_href)}\" />
   </head>
   <body class=\"theme-dark bg-canvas text-ink antialiased selection:bg-accent/30\">
 {body}
   </body>
 </html>
 """
+
+
+def _href(prefix: str, path: str = "") -> str:
+    if not prefix:
+        return path or "."
+    return f"{prefix}/{path}" if path else f"{prefix}/"
 
 
 def _safe_domain(url: str | None) -> str | None:
@@ -179,8 +186,10 @@ def _button(label: str, href: str, primary: bool = False) -> str:
     return f'<a class="{classes}" href="{escape(href)}">{escape(label)}</a>'
 
 
-def _nav() -> str:
-    return """    <header class=\"sticky top-0 z-20 border-b border-white/5 bg-canvas/80 backdrop-blur\">\n      <div class=\"mx-auto flex min-h-[68px] w-full max-w-6xl items-center justify-between px-4\">\n        <a class=\"inline-flex items-center gap-3 text-sm font-semibold tracking-tight text-zinc-100\" href=\"/\">\n          <span class=\"grid h-8 w-8 place-items-center rounded-xl bg-gradient-to-br from-accent to-accent2 text-white shadow-button\">H</span>\n          <span>HackerLinks</span>\n        </a>\n        <nav class=\"flex items-center gap-5 text-sm text-zinc-400\">\n          <a class=\"hover:text-white\" href=\"/\">Home</a>\n          <a class=\"hover:text-white\" href=\"/archive/\">Archive</a>\n        </nav>\n      </div>\n    </header>\n"""
+def _nav(prefix: str) -> str:
+    home_href = _href(prefix)
+    archive_href = _href(prefix, "archive/")
+    return f"""    <header class=\"sticky top-0 z-20 border-b border-white/5 bg-canvas/80 backdrop-blur\">\n      <div class=\"mx-auto flex min-h-[68px] w-full max-w-6xl items-center justify-between px-4\">\n        <a class=\"inline-flex items-center gap-3 text-sm font-semibold tracking-tight text-zinc-100\" href=\"{home_href}\">\n          <span class=\"grid h-8 w-8 place-items-center rounded-xl bg-gradient-to-br from-accent to-accent2 text-white shadow-button\">H</span>\n          <span>HackerLinks</span>\n        </a>\n        <nav class=\"flex items-center gap-5 text-sm text-zinc-400\">\n          <a class=\"hover:text-white\" href=\"{home_href}\">Home</a>\n          <a class=\"hover:text-white\" href=\"{archive_href}\">Archive</a>\n        </nav>\n      </div>\n    </header>\n"""
 
 
 def _section_header(kicker: str, title: str) -> str:
@@ -200,7 +209,7 @@ def _meta_list(rows: list[tuple[str, str]]) -> str:
     return f'<dl class="space-y-0">{items}</dl>'
 
 
-def _render_item_card(item: dict[str, Any], mention: dict[str, Any], *, compact: bool = False) -> str:
+def _render_item_card(item: dict[str, Any], mention: dict[str, Any], prefix: str, *, compact: bool = False) -> str:
     thing_url = item.get("thing_url") or mention.get("hn_url") or "#"
     hn_url = mention.get("hn_url") or "#"
     domain = _safe_domain(item.get("thing_url")) or "linked source"
@@ -212,7 +221,8 @@ def _render_item_card(item: dict[str, Any], mention: dict[str, Any], *, compact:
         if compact
         else f"{_chip(repeat_label, accent=True)}{_chip(_story_label(mention))}{_chip(domain)}"
     )
-    return f"""          <article class=\"rounded-xl2 border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <div class=\"flex flex-wrap gap-2\">{tag_markup}</div>\n            <h3 class=\"mt-4 text-xl font-semibold tracking-tight text-zinc-100\"><a class=\"hover:text-white\" href=\"/items/{escape(item['slug'])}/\">{escape(item['name'])}</a></h3>\n            <p class=\"mt-2 text-sm text-zinc-300\">{escape(summary)}</p>\n            <p class=\"mt-3 text-xs text-zinc-500\">{escape(_story_label(mention))} · {escape(proof_line)}</p>\n            <div class=\"mt-4 flex flex-wrap gap-4 text-sm text-accent\">\n              <a class=\"hover:text-indigo-300\" href=\"{escape(thing_url)}\">Open</a>\n              <a class=\"hover:text-indigo-300\" href=\"{escape(hn_url)}\">HN thread</a>\n            </div>\n          </article>\n"""
+    item_href = _href(prefix, f"items/{item['slug']}/")
+    return f"""          <article class=\"rounded-xl2 border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <div class=\"flex flex-wrap gap-2\">{tag_markup}</div>\n            <h3 class=\"mt-4 text-xl font-semibold tracking-tight text-zinc-100\"><a class=\"hover:text-white\" href=\"{item_href}\">{escape(item['name'])}</a></h3>\n            <p class=\"mt-2 text-sm text-zinc-300\">{escape(summary)}</p>\n            <p class=\"mt-3 text-xs text-zinc-500\">{escape(_story_label(mention))} · {escape(proof_line)}</p>\n            <div class=\"mt-4 flex flex-wrap gap-4 text-sm text-accent\">\n              <a class=\"hover:text-indigo-300\" href=\"{escape(thing_url)}\">Open</a>\n              <a class=\"hover:text-indigo-300\" href=\"{escape(hn_url)}\">HN thread</a>\n            </div>\n          </article>\n"""
 
 
 def _footer() -> str:
@@ -220,6 +230,7 @@ def _footer() -> str:
 
 
 def _render_home(records: dict[str, Any]) -> str:
+    prefix = ""
     issues = records["issues"]
     items = records["items"]
     mentions = records["mentions"]
@@ -227,35 +238,35 @@ def _render_home(records: dict[str, Any]) -> str:
     latest_mentions = [mentions[mention_id] for mention_id in latest_issue["mention_ids"]]
     featured_mention = latest_mentions[0]
     featured_item = items[featured_mention["item_id"]]
-    cards = "".join(_render_item_card(items[m["item_id"]], m, compact=True) for m in latest_mentions)
+    cards = "".join(_render_item_card(items[m["item_id"]], m, prefix, compact=True) for m in latest_mentions)
     recent_markup = "".join(
-        f'<li class="flex items-baseline justify-between gap-4 border-b border-white/5 pb-3 last:border-b-0 last:pb-0"><a class="text-zinc-100 hover:text-white" href="/items/{escape(item["slug"])}">{escape(item["name"])}</a><span class="text-xs text-zinc-500">{escape(_safe_domain(item.get("thing_url")) or "HN-linked")}</span></li>'
+        f'<li class="flex items-baseline justify-between gap-4 border-b border-white/5 pb-3 last:border-b-0 last:pb-0"><a class="text-zinc-100 hover:text-white" href="{_href(prefix, f"items/{item["slug"]}/")}">{escape(item["name"])}</a><span class="text-xs text-zinc-500">{escape(_safe_domain(item.get("thing_url")) or "HN-linked")}</span></li>'
         for item in sorted(items.values(), key=lambda item: item["name"])
     )
     repeat_items = [item for item in items.values() if item.get("times_seen", 0) > 1]
     repeat_markup = "".join(
-        f'<li class="flex items-baseline justify-between gap-4 border-b border-white/5 pb-3 last:border-b-0 last:pb-0"><a class="text-zinc-100 hover:text-white" href="/items/{escape(item["slug"])}">{escape(item["name"])}</a><span class="text-xs text-zinc-500">{item["times_seen"]} sightings</span></li>'
+        f'<li class="flex items-baseline justify-between gap-4 border-b border-white/5 pb-3 last:border-b-0 last:pb-0"><a class="text-zinc-100 hover:text-white" href="{_href(prefix, f"items/{item["slug"]}/")}">{escape(item["name"])}</a><span class="text-xs text-zinc-500">{item["times_seen"]} sightings</span></li>'
         for item in repeat_items
     ) or '<li class="text-sm text-zinc-500">No repeat items yet.</li>'
 
     body = (
-        _nav()
+        _nav(prefix)
         + "    <main class=\"mx-auto w-full max-w-6xl px-4 py-12\">\n"
         + "      <section class=\"grid gap-5 lg:grid-cols-[1.4fr_0.8fr]\">\n"
         + "        <div class=\"rounded-2xl border border-white/5 bg-panel/90 p-8 shadow-panel\">\n"
         + "          <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">HackerLinks</p>\n"
         + "          <h1 class=\"mt-3 max-w-[10ch] text-4xl font-semibold tracking-tight text-zinc-50 md:text-6xl\">HN finds useful things. HackerLinks keeps them.</h1>\n"
         + "          <p class=\"mt-4 max-w-2xl text-base text-zinc-300\">A dark, source-linked archive of tools, repos, talks, books, products, and other concrete things surfaced in HN discussion.</p>\n"
-        + f"          <div class=\"mt-6 flex flex-wrap gap-3\">{_button('Latest issue', f'/issues/{latest_issue['id']}/', primary=True)}{_button('Browse archive', '/archive/')}</div>\n"
+        + f"          <div class=\"mt-6 flex flex-wrap gap-3\">{_button('Latest issue', _href(prefix, f'issues/{latest_issue['id']}/'), primary=True)}{_button('Browse archive', _href(prefix, 'archive/'))}</div>\n"
         + "        </div>\n"
         + "        <aside class=\"rounded-2xl border border-white/5 bg-panel/90 p-6 shadow-panel\">\n"
         + "          <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Latest issue</p>\n"
-        + f"          <a class=\"mt-2 block text-2xl font-semibold tracking-tight text-zinc-50 hover:text-white\" href=\"/issues/{escape(latest_issue['id'])}/\">{escape(latest_issue['date'])}</a>\n"
+        + f"          <a class=\"mt-2 block text-2xl font-semibold tracking-tight text-zinc-50 hover:text-white\" href=\"{_href(prefix, f'issues/{latest_issue['id']}/')}\">{escape(latest_issue['date'])}</a>\n"
         + f"          <p class=\"mt-2 text-sm text-zinc-300\">{latest_issue['summary']['items_surfaced']} items from {_thread_count(latest_issue, mentions)} HN threads.</p>\n"
         + f"          <div class=\"mt-4 flex flex-wrap gap-2\">{_chip(f'{latest_issue['summary']['items_surfaced']} items', accent=True)}{_chip(f'{_thread_count(latest_issue, mentions)} threads')}{_chip(f'{_canonical_url_count(items)} pages')}</div>\n"
         + "          <div class=\"mt-5 border-t border-white/5 pt-4\">\n"
         + "            <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Featured pick</p>\n"
-        + f"            <a class=\"mt-2 block text-lg font-semibold text-zinc-100 hover:text-white\" href=\"/items/{escape(featured_item['slug'])}/\">{escape(featured_item['name'])}</a>\n"
+        + f"            <a class=\"mt-2 block text-lg font-semibold text-zinc-100 hover:text-white\" href=\"{_href(prefix, f'items/{featured_item['slug']}/')}\">{escape(featured_item['name'])}</a>\n"
         + f"            <p class=\"mt-2 text-sm text-zinc-300\">{escape(_friendly_summary(featured_item))}</p>\n"
         + "          </div>\n"
         + "        </aside>\n"
@@ -277,17 +288,18 @@ def _render_home(records: dict[str, Any]) -> str:
         + "    </main>\n"
         + _footer()
     )
-    return _page("HackerLinks", "Source-linked archive of concrete things surfaced from Hacker News discussion.", body)
+    return _page("HackerLinks", "Source-linked archive of concrete things surfaced from Hacker News discussion.", body, prefix)
 
 
 def _render_archive(records: dict[str, Any]) -> str:
+    prefix = ".."
     issues = sorted(records["issues"].values(), key=lambda issue: issue["date"], reverse=True)
     cards = "".join(
-        f"""          <article class=\"rounded-2xl border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Issue</p>\n            <h2 class=\"mt-2 text-2xl font-semibold tracking-tight text-zinc-50\"><a href=\"/issues/{escape(issue['id'])}/\">{escape(issue['date'])}</a></h2>\n            <p class=\"mt-2 text-sm text-zinc-300\">{issue['summary']['items_surfaced']} items captured.</p>\n            <div class=\"mt-4 text-sm text-accent\"><a href=\"/issues/{escape(issue['id'])}/\">Open issue</a></div>\n          </article>\n"""
+        f"""          <article class=\"rounded-2xl border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Issue</p>\n            <h2 class=\"mt-2 text-2xl font-semibold tracking-tight text-zinc-50\"><a href=\"{_href(prefix, f'issues/{issue['id']}/')}\">{escape(issue['date'])}</a></h2>\n            <p class=\"mt-2 text-sm text-zinc-300\">{issue['summary']['items_surfaced']} items captured.</p>\n            <div class=\"mt-4 text-sm text-accent\"><a href=\"{_href(prefix, f'issues/{issue['id']}/')}\">Open issue</a></div>\n          </article>\n"""
         for issue in issues
     )
     body = (
-        _nav()
+        _nav(prefix)
         + "    <main class=\"mx-auto w-full max-w-6xl px-4 py-12\">\n"
         + "      <section class=\"rounded-2xl border border-white/5 bg-panel/90 p-8 shadow-panel\">\n"
         + "        <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Archive</p>\n"
@@ -298,25 +310,26 @@ def _render_archive(records: dict[str, Any]) -> str:
         + "    </main>\n"
         + _footer()
     )
-    return _page("HackerLinks Archive", "Date-first archive of HackerLinks issues.", body)
+    return _page("HackerLinks Archive", "Date-first archive of HackerLinks issues.", body, prefix)
 
 
 def _render_issue(issue: dict[str, Any], records: dict[str, Any]) -> str:
+    prefix = "../.."
     mentions = records["mentions"]
     items = records["items"]
     issue_mentions = [mentions[mention_id] for mention_id in issue["mention_ids"]]
     featured_mention = issue_mentions[0]
     featured_item = items[featured_mention["item_id"]]
-    cards = "".join(_render_item_card(items[m["item_id"]], m, compact=True) for m in issue_mentions)
+    cards = "".join(_render_item_card(items[m["item_id"]], m, prefix, compact=True) for m in issue_mentions)
     body = (
-        _nav()
+        _nav(prefix)
         + "    <main class=\"mx-auto w-full max-w-6xl px-4 py-12\">\n"
         + "      <section class=\"grid gap-5 lg:grid-cols-[1.3fr_0.8fr]\">\n"
         + "        <div class=\"rounded-2xl border border-white/5 bg-panel/90 p-8 shadow-panel\">\n"
         + f"          <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Issue</p>\n"
         + f"          <h1 class=\"mt-3 text-4xl font-semibold tracking-tight text-zinc-50 md:text-5xl\">Issue {escape(issue['date'])}</h1>\n"
         + f"          <p class=\"mt-4 max-w-2xl text-base text-zinc-300\">{issue['summary']['items_surfaced']} items from {_thread_count(issue, mentions)} HN threads.</p>\n"
-        + f"          <div class=\"mt-6\">{_button('Back to archive', '/archive/')}</div>\n"
+        + f"          <div class=\"mt-6\">{_button('Back to archive', _href(prefix, 'archive/'))}</div>\n"
         + "        </div>\n"
         + "        <aside class=\"rounded-2xl border border-white/5 bg-panel/90 p-6 shadow-panel\">\n"
         + _meta_list([
@@ -326,7 +339,7 @@ def _render_issue(issue: dict[str, Any], records: dict[str, Any]) -> str:
         ])
         + "          <div class=\"mt-5 border-t border-white/5 pt-4\">\n"
         + "            <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Lead item</p>\n"
-        + f"            <a class=\"mt-2 block text-lg font-semibold text-zinc-100 hover:text-white\" href=\"/items/{escape(featured_item['slug'])}/\">{escape(featured_item['name'])}</a>\n"
+        + f"            <a class=\"mt-2 block text-lg font-semibold text-zinc-100 hover:text-white\" href=\"{_href(prefix, f'items/{featured_item['slug']}/')}\">{escape(featured_item['name'])}</a>\n"
         + f"            <p class=\"mt-2 text-sm text-zinc-300\">{escape(_friendly_summary(featured_item))}</p>\n"
         + "          </div>\n"
         + "        </aside>\n"
@@ -338,21 +351,22 @@ def _render_issue(issue: dict[str, Any], records: dict[str, Any]) -> str:
         + "    </main>\n"
         + _footer()
     )
-    return _page(f"HackerLinks Issue {issue['date']}", f"Issue {issue['date']} from HackerLinks.", body)
+    return _page(f"HackerLinks Issue {issue['date']}", f"Issue {issue['date']} from HackerLinks.", body, prefix)
 
 
 def _render_item(item: dict[str, Any], records: dict[str, Any]) -> str:
+    prefix = "../.."
     mentions = records["mentions"]
     item_mentions = [mentions[mention_id] for mention_id in item["mention_ids"]]
     latest_mention = item_mentions[0]
     domain = _safe_domain(item.get("thing_url")) or "linked source"
     thing_link = item.get("thing_url") or latest_mention.get("hn_url") or "#"
     history_rows = "".join(
-        f"""          <li class=\"rounded-2xl border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <div class=\"grid gap-3 md:grid-cols-[140px_1fr]\">\n              <div class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">{escape(_format_seen_at(mention['seen_at']))}</div>\n              <div class=\"space-y-3\">\n                <div class=\"flex flex-wrap gap-2\">{_chip(_story_label(mention))}<a class=\"text-sm text-accent hover:text-indigo-300\" href=\"/issues/{escape(mention['issue_id'])}/\">Issue page</a><a class=\"text-sm text-accent hover:text-indigo-300\" href=\"{escape(mention['hn_url'])}\">HN thread</a></div>\n                <p class=\"text-sm text-zinc-300\">{escape(_friendly_evidence(mention, item))}</p>\n              </div>\n            </div>\n          </li>\n"""
+        f"""          <li class=\"rounded-2xl border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <div class=\"grid gap-3 md:grid-cols-[140px_1fr]\">\n              <div class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">{escape(_format_seen_at(mention['seen_at']))}</div>\n              <div class=\"space-y-3\">\n                <div class=\"flex flex-wrap gap-2\">{_chip(_story_label(mention))}<a class=\"text-sm text-accent hover:text-indigo-300\" href=\"{_href(prefix, f'issues/{mention['issue_id']}/')}\">Issue page</a><a class=\"text-sm text-accent hover:text-indigo-300\" href=\"{escape(mention['hn_url'])}\">HN thread</a></div>\n                <p class=\"text-sm text-zinc-300\">{escape(_friendly_evidence(mention, item))}</p>\n              </div>\n            </div>\n          </li>\n"""
         for mention in item_mentions
     )
     body = (
-        _nav()
+        _nav(prefix)
         + "    <main class=\"mx-auto w-full max-w-6xl px-4 py-12\">\n"
         + "      <section class=\"grid gap-5 lg:grid-cols-[1.3fr_0.8fr]\">\n"
         + "        <div class=\"rounded-2xl border border-white/5 bg-panel/90 p-8 shadow-panel\">\n"
@@ -360,7 +374,7 @@ def _render_item(item: dict[str, Any], records: dict[str, Any]) -> str:
         + f"          <h1 class=\"mt-3 text-4xl font-semibold tracking-tight text-zinc-50 md:text-5xl\">{escape(item['name'])}</h1>\n"
         + f"          <p class=\"mt-4 text-base text-zinc-300\">{escape(_friendly_summary(item))}</p>\n"
         + f"          <p class=\"mt-3 text-sm text-zinc-500\">{escape(_friendly_why(item))}</p>\n"
-        + f"          <div class=\"mt-6 flex flex-wrap gap-3\">{_button('Open source', thing_link, primary=True)}{_button('HN thread', latest_mention['hn_url'])}{_button('Back to archive', '/archive/')}</div>\n"
+        + f"          <div class=\"mt-6 flex flex-wrap gap-3\">{_button('Open source', thing_link, primary=True)}{_button('HN thread', latest_mention['hn_url'])}{_button('Back to archive', _href(prefix, 'archive/'))}</div>\n"
         + "        </div>\n"
         + "        <aside class=\"rounded-2xl border border-white/5 bg-panel/90 p-6 shadow-panel\">\n"
         + _meta_list([
@@ -379,7 +393,7 @@ def _render_item(item: dict[str, Any], records: dict[str, Any]) -> str:
         + "    </main>\n"
         + _footer()
     )
-    return _page(f"HackerLinks Item {item['name']}", f"Canonical page for {item['name']} on HackerLinks.", body)
+    return _page(f"HackerLinks Item {item['name']}", f"Canonical page for {item['name']} on HackerLinks.", body, prefix)
 
 
 def _copy_static_assets(static_root: Path, dist_root: Path) -> None:
