@@ -13,6 +13,7 @@ from urllib.parse import urlparse
 _PLACEHOLDER_SUMMARY_PREFIX = "Scaffold placeholder summary"
 _PLACEHOLDER_EVIDENCE_PREFIX = "Scaffold placeholder evidence"
 _PLACEHOLDER_WHY_PREFIX = "Scaffold placeholder rationale"
+SITE_URL = "https://alexferrari88.github.io/hackerlinks-site"
 
 
 def _load_json_dir(path: Path) -> dict[str, dict[str, Any]]:
@@ -91,6 +92,13 @@ def _href(prefix: str, path: str = "") -> str:
     return f"{prefix}/{path}" if path else f"{prefix}/"
 
 
+def _absolute_url(path: str = "") -> str:
+    normalized = path.lstrip("/")
+    if not normalized:
+        return f"{SITE_URL}/"
+    return f"{SITE_URL}/{normalized}"
+
+
 def _safe_domain(url: str | None) -> str | None:
     if not url:
         return None
@@ -160,6 +168,57 @@ def _friendly_evidence(mention: dict[str, Any], item: dict[str, Any]) -> str:
     story_label = _story_label(mention)
     seen_at = _format_seen_at(mention.get("seen_at"))
     return f"Surfaced in {story_label} on {seen_at} for {item['name']}."
+
+
+def _sort_recent_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return sorted(
+        sorted(items, key=lambda item: str(item.get("name") or "").lower()),
+        key=lambda item: item.get("first_seen_at") or "",
+        reverse=True,
+    )
+
+
+def _sort_repeat_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    repeat_items = [item for item in items if item.get("times_seen", 0) > 1]
+    repeat_items = sorted(repeat_items, key=lambda item: str(item.get("name") or "").lower())
+    repeat_items = sorted(repeat_items, key=lambda item: int(item.get("times_seen", 0)), reverse=True)
+    return sorted(repeat_items, key=lambda item: item.get("last_seen_at") or "", reverse=True)
+
+
+def _sort_mentions_newest_first(mentions: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return sorted(
+        mentions,
+        key=lambda mention: (mention.get("seen_at") or "", mention.get("id") or ""),
+        reverse=True,
+    )
+
+
+def _issue_preview_names(issue: dict[str, Any], records: dict[str, Any], limit: int = 3) -> list[str]:
+    items = records["items"]
+    mentions = records["mentions"]
+    preview_names: list[str] = []
+    for mention_id in issue.get("mention_ids", []):
+        mention = mentions.get(mention_id)
+        if not mention:
+            continue
+        item = items.get(mention["item_id"])
+        if not item:
+            continue
+        name = str(item.get("name") or "").strip()
+        if name and name not in preview_names:
+            preview_names.append(name)
+        if len(preview_names) >= limit:
+            break
+    return preview_names
+
+
+def _issue_neighbors(issue: dict[str, Any], records: dict[str, Any]) -> tuple[dict[str, Any] | None, dict[str, Any] | None]:
+    ordered_issues = sorted(records["issues"].values(), key=lambda issue_record: issue_record["date"])
+    issue_ids = [issue_record["id"] for issue_record in ordered_issues]
+    current_index = issue_ids.index(issue["id"])
+    previous_issue = ordered_issues[current_index - 1] if current_index > 0 else None
+    next_issue = ordered_issues[current_index + 1] if current_index < len(ordered_issues) - 1 else None
+    return previous_issue, next_issue
 
 
 def _chip(text: str, accent: bool = False) -> str:
@@ -241,12 +300,11 @@ def _render_home(records: dict[str, Any]) -> str:
     cards = "".join(_render_item_card(items[m["item_id"]], m, prefix, compact=True) for m in latest_mentions)
     recent_markup = "".join(
         f'<li class="flex items-baseline justify-between gap-4 border-b border-white/5 pb-3 last:border-b-0 last:pb-0"><a class="text-zinc-100 hover:text-white" href="{_href(prefix, f"items/{item["slug"]}/")}">{escape(item["name"])}</a><span class="text-xs text-zinc-500">{escape(_safe_domain(item.get("thing_url")) or "HN-linked")}</span></li>'
-        for item in sorted(items.values(), key=lambda item: item["name"])
+        for item in _sort_recent_items(list(items.values()))
     )
-    repeat_items = [item for item in items.values() if item.get("times_seen", 0) > 1]
     repeat_markup = "".join(
         f'<li class="flex items-baseline justify-between gap-4 border-b border-white/5 pb-3 last:border-b-0 last:pb-0"><a class="text-zinc-100 hover:text-white" href="{_href(prefix, f"items/{item["slug"]}/")}">{escape(item["name"])}</a><span class="text-xs text-zinc-500">{item["times_seen"]} sightings</span></li>'
-        for item in repeat_items
+        for item in _sort_repeat_items(list(items.values()))
     ) or '<li class="text-sm text-zinc-500">No repeat items yet.</li>'
 
     body = (
@@ -295,7 +353,7 @@ def _render_archive(records: dict[str, Any]) -> str:
     prefix = ".."
     issues = sorted(records["issues"].values(), key=lambda issue: issue["date"], reverse=True)
     cards = "".join(
-        f"""          <article class=\"rounded-2xl border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Issue</p>\n            <h2 class=\"mt-2 text-2xl font-semibold tracking-tight text-zinc-50\"><a href=\"{_href(prefix, f'issues/{issue['id']}/')}\">{escape(issue['date'])}</a></h2>\n            <p class=\"mt-2 text-sm text-zinc-300\">{issue['summary']['items_surfaced']} items captured.</p>\n            <div class=\"mt-4 text-sm text-accent\"><a href=\"{_href(prefix, f'issues/{issue['id']}/')}\">Open issue</a></div>\n          </article>\n"""
+        f"""          <article class=\"rounded-2xl border border-white/5 bg-panel/90 p-5 shadow-panel\">\n            <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Issue</p>\n            <h2 class=\"mt-2 text-2xl font-semibold tracking-tight text-zinc-50\"><a href=\"{_href(prefix, f'issues/{issue['id']}/')}\">{escape(issue['date'])}</a></h2>\n            <p class=\"mt-2 text-sm text-zinc-300\">{issue['summary']['items_surfaced']} items captured.</p>\n            <p class=\"mt-3 text-sm text-zinc-500\">{escape(', '.join(_issue_preview_names(issue, records)) or 'No preview items yet.')}</p>\n            <div class=\"mt-4 text-sm text-accent\"><a href=\"{_href(prefix, f'issues/{issue['id']}/')}\">Open issue</a></div>\n          </article>\n"""
         for issue in issues
     )
     body = (
@@ -320,6 +378,12 @@ def _render_issue(issue: dict[str, Any], records: dict[str, Any]) -> str:
     issue_mentions = [mentions[mention_id] for mention_id in issue["mention_ids"]]
     featured_mention = issue_mentions[0]
     featured_item = items[featured_mention["item_id"]]
+    previous_issue, next_issue = _issue_neighbors(issue, records)
+    navigation_buttons = [_button('Back to archive', _href(prefix, 'archive/'))]
+    if previous_issue:
+        navigation_buttons.append(_button('Previous issue', _href(prefix, f"issues/{previous_issue['id']}/")))
+    if next_issue:
+        navigation_buttons.append(_button('Next issue', _href(prefix, f"issues/{next_issue['id']}/")))
     cards = "".join(_render_item_card(items[m["item_id"]], m, prefix, compact=True) for m in issue_mentions)
     body = (
         _nav(prefix)
@@ -329,7 +393,7 @@ def _render_issue(issue: dict[str, Any], records: dict[str, Any]) -> str:
         + f"          <p class=\"text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-500\">Issue</p>\n"
         + f"          <h1 class=\"mt-3 text-4xl font-semibold tracking-tight text-zinc-50 md:text-5xl\">Issue {escape(issue['date'])}</h1>\n"
         + f"          <p class=\"mt-4 max-w-2xl text-base text-zinc-300\">{issue['summary']['items_surfaced']} items from {_thread_count(issue, mentions)} HN threads.</p>\n"
-        + f"          <div class=\"mt-6\">{_button('Back to archive', _href(prefix, 'archive/'))}</div>\n"
+        + f"          <div class=\"mt-6 flex flex-wrap gap-3\">{''.join(navigation_buttons)}</div>\n"
         + "        </div>\n"
         + "        <aside class=\"rounded-2xl border border-white/5 bg-panel/90 p-6 shadow-panel\">\n"
         + _meta_list([
@@ -357,7 +421,7 @@ def _render_issue(issue: dict[str, Any], records: dict[str, Any]) -> str:
 def _render_item(item: dict[str, Any], records: dict[str, Any]) -> str:
     prefix = "../.."
     mentions = records["mentions"]
-    item_mentions = [mentions[mention_id] for mention_id in item["mention_ids"]]
+    item_mentions = _sort_mentions_newest_first([mentions[mention_id] for mention_id in item["mention_ids"]])
     latest_mention = item_mentions[0]
     domain = _safe_domain(item.get("thing_url")) or "linked source"
     thing_link = item.get("thing_url") or latest_mention.get("hn_url") or "#"
@@ -425,6 +489,59 @@ def _write_preview_notes(records: dict[str, Any], dist_root: Path) -> None:
     _write(dist_root / "preview-notes.txt", notes)
 
 
+def _write_feed(records: dict[str, Any], dist_root: Path) -> None:
+    items = records["items"]
+    mentions = records["mentions"]
+    ordered_mentions = _sort_mentions_newest_first(list(mentions.values()))
+    entries = []
+    for mention in ordered_mentions:
+        item = items.get(mention["item_id"])
+        if not item:
+            continue
+        item_url = _absolute_url(f"items/{item['slug']}/")
+        issue_url = _absolute_url(f"issues/{mention['issue_id']}/")
+        summary = escape(_friendly_summary(item))
+        evidence = escape(_friendly_evidence(mention, item))
+        entries.append(
+            "    <item>\n"
+            f"      <title>{escape(item['name'])}</title>\n"
+            f"      <link>{escape(item_url)}</link>\n"
+            f"      <guid>{escape(item_url)}#{escape(mention['id'])}</guid>\n"
+            f"      <pubDate>{escape(mention.get('seen_at') or '')}</pubDate>\n"
+            f"      <description>{summary} {evidence} Issue: {escape(issue_url)}</description>\n"
+            "    </item>"
+        )
+    feed = (
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+        "<rss version=\"2.0\">\n"
+        "  <channel>\n"
+        "    <title>HackerLinks</title>\n"
+        f"    <link>{escape(_absolute_url())}</link>\n"
+        "    <description>Source-linked archive of concrete things surfaced from Hacker News discussion.</description>\n"
+        + "\n".join(entries)
+        + "\n  </channel>\n"
+        "</rss>\n"
+    )
+    _write(dist_root / "feed.xml", feed)
+
+
+def _write_sitemap(records: dict[str, Any], dist_root: Path) -> None:
+    urls = [
+        _absolute_url(),
+        _absolute_url("archive/"),
+        *[_absolute_url(f"issues/{issue['id']}/") for issue in records["issues"].values()],
+        *[_absolute_url(f"items/{item['slug']}/") for item in records["items"].values()],
+    ]
+    unique_urls = list(dict.fromkeys(urls))
+    sitemap = (
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+        "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n"
+        + "\n".join(f"  <url><loc>{escape(url)}</loc></url>" for url in unique_urls)
+        + "\n</urlset>\n"
+    )
+    _write(dist_root / "sitemap.xml", sitemap)
+
+
 def build_public_site(public_root: Path, dist_root: Path, static_root: Path | None = None) -> None:
     records = load_public_records(public_root)
     dist_root.mkdir(parents=True, exist_ok=True)
@@ -440,6 +557,8 @@ def build_public_site(public_root: Path, dist_root: Path, static_root: Path | No
 
     _copy_static_assets(static_root or Path(), dist_root)
     _write_preview_notes(records, dist_root)
+    _write_feed(records, dist_root)
+    _write_sitemap(records, dist_root)
 
 
 def main() -> None:

@@ -1,3 +1,4 @@
+import copy
 import json
 import subprocess
 import tempfile
@@ -40,6 +41,69 @@ class SyncTests(unittest.TestCase):
             self.assertTrue((repo_root / "data" / "public" / "items" / "davinci-resolve.json").exists())
             self.assertTrue((repo_root / "dist" / "index.html").exists())
             self.assertGreaterEqual(len(result["copied_files"]), 2)
+
+    def test_sync_repo_accumulates_item_mentions_across_multiple_runs(self) -> None:
+        sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
+        sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            private_root = root / "private"
+            repo_root = root / "repo"
+
+            (private_root / "runs").mkdir(parents=True, exist_ok=True)
+            (repo_root / "data" / "source" / "runs").mkdir(parents=True, exist_ok=True)
+            (repo_root / "static").mkdir(parents=True, exist_ok=True)
+            (repo_root / "static" / "site.css").write_text("body { color: black; }\n")
+
+            first_run = copy.deepcopy(sample_run)
+            first_run["generated_at"] = "2026-04-14T13:41:27.313438+00:00"
+
+            second_run = {
+                "version": 2,
+                "run_date": "2026-04-15",
+                "generated_at": "2026-04-15T13:41:27.313438+00:00",
+                "summary": "Later run.",
+                "stories_attempted": 24,
+                "stories_processed": 24,
+                "items": [
+                    {
+                        "name": "DaVinci Resolve",
+                        "thing_url": "https://www.blackmagicdesign.com/products/davinciresolve",
+                        "hn_url": "https://news.ycombinator.com/item?id=48888888",
+                        "source_story_title": "Resolve again",
+                        "summary": "Later summary.",
+                        "why_included": "Still relevant later.",
+                        "evidence": "A second thread praised Resolve again."
+                    }
+                ]
+            }
+
+            for product in sample_history["products"]:
+                if product["name"] == "DaVinci Resolve":
+                    product["last_reported_at"] = "2026-04-15T13:41:27.313438+00:00"
+                    product["times_reported"] = 2
+
+            (private_root / "runs" / "2026-04-14.json").write_text(json.dumps(first_run, indent=2) + "\n")
+            (private_root / "runs" / "2026-04-15.json").write_text(json.dumps(second_run, indent=2) + "\n")
+            (private_root / "product-history.json").write_text(json.dumps(sample_history, indent=2) + "\n")
+
+            sync_repo(private_root=private_root, repo_root=repo_root)
+
+            item_payload = json.loads((repo_root / "data" / "public" / "items" / "davinci-resolve.json").read_text())
+            item_html = (repo_root / "dist" / "items" / "davinci-resolve" / "index.html").read_text()
+
+            self.assertEqual(item_payload["latest_mention_id"], "2026-04-15:davinci-resolve:48888888")
+            self.assertEqual(
+                item_payload["mention_ids"],
+                [
+                    "2026-04-14:davinci-resolve:47760529",
+                    "2026-04-15:davinci-resolve:48888888",
+                ],
+            )
+            self.assertIn("DaVinci Resolve – Photo", item_html)
+            self.assertIn("Resolve again", item_html)
+            self.assertIn("A second thread praised Resolve again.", item_html)
 
     def test_blocking_dirty_paths_flags_unrelated_repo_changes(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:

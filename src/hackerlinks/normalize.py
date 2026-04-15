@@ -116,12 +116,52 @@ def _write_json(path: Path, payload: dict[str, Any]) -> None:
     path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
 
 
+def _load_json(path: Path) -> dict[str, Any]:
+    return json.loads(path.read_text())
+
+
+def _prefer_value(new_value: Any, old_value: Any, *, placeholder_prefix: str | None = None) -> Any:
+    if new_value in (None, "", []):
+        return old_value
+    if placeholder_prefix and isinstance(new_value, str) and new_value.startswith(placeholder_prefix):
+        if isinstance(old_value, str) and old_value and not old_value.startswith(placeholder_prefix):
+            return old_value
+    return new_value
+
+
+def _merge_item_payload(existing: dict[str, Any], incoming: dict[str, Any]) -> dict[str, Any]:
+    mention_ids: list[str] = []
+    for mention_id_value in [*existing.get("mention_ids", []), *incoming.get("mention_ids", [])]:
+        if mention_id_value not in mention_ids:
+            mention_ids.append(mention_id_value)
+
+    merged = dict(existing)
+    merged.update(incoming)
+    merged["thing_url"] = _prefer_value(incoming.get("thing_url"), existing.get("thing_url"))
+    merged["summary"] = _prefer_value(
+        incoming.get("summary"), existing.get("summary"), placeholder_prefix=_PLACEHOLDER_SUMMARY
+    )
+    merged["why_included"] = _prefer_value(
+        incoming.get("why_included"), existing.get("why_included"), placeholder_prefix=_PLACEHOLDER_WHY
+    )
+    merged["first_seen_at"] = min(existing.get("first_seen_at", incoming["first_seen_at"]), incoming["first_seen_at"])
+    merged["last_seen_at"] = max(existing.get("last_seen_at", incoming["last_seen_at"]), incoming["last_seen_at"])
+    merged["times_seen"] = max(int(existing.get("times_seen", 0)), int(incoming.get("times_seen", 0)), len(mention_ids))
+    merged["latest_mention_id"] = incoming.get("latest_mention_id") or existing.get("latest_mention_id")
+    merged["mention_ids"] = mention_ids
+    return merged
+
+
 def write_public_records(root: Path, public: dict[str, Any]) -> None:
     issue = public["issue"]
     _write_json(root / "issues" / f"{issue['id']}.json", issue)
 
     for slug, item_payload in public["items"].items():
-        _write_json(root / "items" / f"{slug}.json", item_payload)
+        item_path = root / "items" / f"{slug}.json"
+        merged_item = item_payload
+        if item_path.exists():
+            merged_item = _merge_item_payload(_load_json(item_path), item_payload)
+        _write_json(item_path, merged_item)
 
     for mention_key, mention_payload in public["mentions"].items():
         _write_json(root / "mentions" / f"{mention_key}.json", mention_payload)
