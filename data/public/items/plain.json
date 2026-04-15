@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T03:02:00+00:00",
+  "id": "plain",
+  "last_seen_at": "2026-04-15T03:02:00+00:00",
+  "latest_mention_id": "2026-04-15:plain:47768750",
+  "mention_ids": [
+    "2026-04-15:plain:47768750"
+  ],
+  "name": "Plain",
+  "slug": "plain",
+  "summary": "A full-stack Python framework forked from Django, optimized for AI agent readability and review.",
+  "thing_url": "https://github.com/dropseed/plain",
+  "times_seen": 1,
+  "why_included": "An opinionated framework explicitly targeting the agentic era, creating a focused discussion on agent-framework utility."
+}

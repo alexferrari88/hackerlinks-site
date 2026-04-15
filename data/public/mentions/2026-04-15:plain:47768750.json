@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters debated its necessity as a new framework versus just using standard Django/Python ecosystems that agents are already trained on.",
+  "hn_url": "https://news.ycombinator.com/item?id=47768750",
+  "id": "2026-04-15:plain:47768750",
+  "is_repeat": false,
+  "issue_id": "2026-04-15",
+  "item_id": "plain",
+  "rank": 1,
+  "seen_at": "2026-04-15T03:02:00+00:00",
+  "source_story_id": "47768750",
+  "source_story_title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents"
+}

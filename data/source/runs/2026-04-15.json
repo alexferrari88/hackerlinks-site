@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "run_date": "2026-04-15",
+  "generated_at": "2026-04-15T03:02:00+00:00",
+  "summary": "Scanned top HN stories for new product mentions.",
+  "items": [
+    {
+      "name": "Plain",
+      "thing_url": "https://github.com/dropseed/plain",
+      "hn_url": "https://news.ycombinator.com/item?id=47768750",
+      "source_story_title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+      "summary": "A full-stack Python framework forked from Django, optimized for AI agent readability and review.",
+      "why_included": "An opinionated framework explicitly targeting the agentic era, creating a focused discussion on agent-framework utility.",
+      "evidence": "Commenters debated its necessity as a new framework versus just using standard Django/Python ecosystems that agents are already trained on."
+    },
+    {
+      "name": "LangAlpha",
+      "thing_url": "https://github.com/ginlix-ai/langalpha",
+      "hn_url": "https://news.ycombinator.com/item?id=47766370",
+      "source_story_title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+      "summary": "An open-source agent harness designed for persistent, domain-aware investment research.",
+      "why_included": "Addresses core limitations of current agent harnesses like context bloat and session persistence for complex research.",
+      "evidence": "Users appreciated the persistent sandbox approach for iterative research but raised significant regulatory/compliance auditability concerns."
+    },
+    {
+      "name": "Jujutsu (jj)",
+      "thing_url": "https://github.com/martinvonz/jj",
+      "hn_url": "https://news.ycombinator.com/item?id=47763759",
+      "source_story_title": "jj – the CLI for Jujutsu",
+      "summary": "A version control CLI using Git as a backend with a mutable working-copy mental model.",
+      "why_included": "Offers a distinct workflow that simplifies history rewriting and commit management compared to traditional Git.",
+      "evidence": "Commenters highlighted the 'jj undo' feature as a major safety improvement and praised the anonymous branching workflow."
+    }
+  ]
+}

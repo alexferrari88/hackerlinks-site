@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T03:02:00+00:00",
+  "id": "langalpha",
+  "last_seen_at": "2026-04-15T03:02:00+00:00",
+  "latest_mention_id": "2026-04-15:langalpha:47766370",
+  "mention_ids": [
+    "2026-04-15:langalpha:47766370"
+  ],
+  "name": "LangAlpha",
+  "slug": "langalpha",
+  "summary": "An open-source agent harness designed for persistent, domain-aware investment research.",
+  "thing_url": "https://github.com/ginlix-ai/langalpha",
+  "times_seen": 1,
+  "why_included": "Addresses core limitations of current agent harnesses like context bloat and session persistence for complex research."
+}

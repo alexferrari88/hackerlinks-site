@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T03:02:00+00:00",
+  "id": "jujutsu-jj",
+  "last_seen_at": "2026-04-15T03:02:00+00:00",
+  "latest_mention_id": "2026-04-15:jujutsu-jj:47763759",
+  "mention_ids": [
+    "2026-04-15:jujutsu-jj:47763759"
+  ],
+  "name": "Jujutsu (jj)",
+  "slug": "jujutsu-jj",
+  "summary": "A version control CLI using Git as a backend with a mutable working-copy mental model.",
+  "thing_url": "https://github.com/martinvonz/jj",
+  "times_seen": 1,
+  "why_included": "Offers a distinct workflow that simplifies history rewriting and commit management compared to traditional Git."
+}

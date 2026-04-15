@@ -37,6 +37,24 @@
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "times_reported": 1
+    },
+    {
+      "name": "Plain",
+      "first_reported_at": "2026-04-15T03:02:00+00:00",
+      "last_reported_at": "2026-04-15T03:02:00+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "LangAlpha",
+      "first_reported_at": "2026-04-15T03:02:00+00:00",
+      "last_reported_at": "2026-04-15T03:02:00+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Jujutsu (jj)",
+      "first_reported_at": "2026-04-15T03:02:00+00:00",
+      "last_reported_at": "2026-04-15T03:02:00+00:00",
+      "times_reported": 1
     }
   ]
 }
