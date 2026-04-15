@@ -1,5 +1,25 @@
 {% extends "base.html" %}
+
 {% block content %}
-<h1>Archive</h1>
-<p>Archive scaffold placeholder.</p>
+<div class="section-title">
+  <h2>SYSTEM ARCHIVE</h2>
+</div>
+
+<div class="grid">
+  {% for issue in issues %}
+    <article class="item-card">
+      <h3><a href="/issues/{{ issue.id }}.html">ISSUE // {{ issue.date }}</a></h3>
+      <div class="meta">
+        <span class="seen-count">ITEMS: {{ issue.summary.unique_items }}</span>
+        <span class="last-seen">NEW: {{ issue.summary.new_items }}</span>
+      </div>
+      <p class="summary">{{ issue.headline | truncate(100) }}</p>
+      <div class="tags">
+        <span class="tag">ID: {{ issue.id[:8] }}</span>
+      </div>
+    </article>
+  {% else %}
+    <p>No archives found.</p>
+  {% endfor %}
+</div>
 {% endblock %}
