@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T04:39:17+00:00",
+  "id": "sbb-mobile",
+  "last_seen_at": "2026-04-15T04:39:17+00:00",
+  "latest_mention_id": "2026-04-15:sbb-mobile:47707382",
+  "mention_ids": [
+    "2026-04-15:sbb-mobile:47707382"
+  ],
+  "name": "SBB Mobile",
+  "slug": "sbb-mobile",
+  "summary": "Swiss Federal Railways' trip-planning app for routes, tickets, and smooth point-to-point travel.",
+  "thing_url": "https://apps.apple.com/us/app/sbb-mobile/id294855237",
+  "times_seen": 1,
+  "why_included": "The thread praised it as a polished, stress-free companion for getting around Switzerland."
+}

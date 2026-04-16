@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "cal-diy",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:cal-diy:47780456",
+  "mention_ids": [
+    "2026-04-16:cal-diy:47780456"
+  ],
+  "name": "cal.diy",
+  "slug": "cal-diy",
+  "summary": "The Cal.com fork commenters pointed to as the obvious alternative.",
+  "thing_url": "https://cal.diy",
+  "times_seen": 1,
+  "why_included": "It was directly recommended as the thing people who care should use instead."
+}

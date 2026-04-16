@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "schedyou",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:schedyou:47780456",
+  "mention_ids": [
+    "2026-04-16:schedyou:47780456"
+  ],
+  "name": "schedyou",
+  "slug": "schedyou",
+  "summary": "Small self-hosted scheduling tool built to replace a Cal.com instance.",
+  "thing_url": "https://git.sr.ht/~bsprague/schedyou",
+  "times_seen": 1,
+  "why_included": "A commenter described it as a simpler self-hosted Cal.com replacement they built themselves."
+}

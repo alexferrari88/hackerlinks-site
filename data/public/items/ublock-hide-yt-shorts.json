@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "ublock-hide-yt-shorts",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:ublock-hide-yt-shorts:47786791",
+  "mention_ids": [
+    "2026-04-16:ublock-hide-yt-shorts:47786791"
+  ],
+  "name": "ublock-hide-yt-shorts",
+  "slug": "ublock-hide-yt-shorts",
+  "summary": "A uBlock Origin filter repo for hiding YouTube Shorts.",
+  "thing_url": "https://github.com/i5heu/ublock-hide-yt-shorts",
+  "times_seen": 1,
+  "why_included": "The thread pointed to it as a practical filter-based workaround."
+}

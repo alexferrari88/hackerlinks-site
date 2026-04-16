@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "smarttube",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:smarttube:47786791",
+  "mention_ids": [
+    "2026-04-16:smarttube:47786791"
+  ],
+  "name": "SmartTube",
+  "slug": "smarttube",
+  "summary": "An Android/TV YouTube client people use specifically to avoid Shorts.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "A commenter said it was the reason they switched away from YouTube on Chromecast."
+}

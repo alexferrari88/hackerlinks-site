@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "gemini-app",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:gemini-app:47782256",
+  "mention_ids": [
+    "2026-04-16:gemini-app:47782256"
+  ],
+  "name": "Gemini app",
+  "slug": "gemini-app",
+  "summary": "Google\u2019s Gemini app on macOS drew positive comparisons to Claude.",
+  "thing_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+  "times_seen": 1,
+  "why_included": "A commenter said the launch was enough to make them try Gemini over Claude."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T04:39:17+00:00",
+  "id": "openseadragon",
+  "last_seen_at": "2026-04-15T04:39:17+00:00",
+  "latest_mention_id": "2026-04-15:openseadragon:47728662",
+  "mention_ids": [
+    "2026-04-15:openseadragon:47728662"
+  ],
+  "name": "OpenSeadragon",
+  "slug": "openseadragon",
+  "summary": "An open-source deep-zoom viewer for tiled images, maps, and other high-resolution visuals.",
+  "thing_url": "https://openseadragon.github.io/",
+  "times_seen": 1,
+  "why_included": "The thread called it an under-appreciated tool and pointed to it as the right building block for tiled-image viewers."
+}

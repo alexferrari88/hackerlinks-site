@@ -1,15 +1,18 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T03:02:00+00:00",
-  "headline": "3 interesting things surfaced from HN on 2026-04-15",
+  "generated_at": "2026-04-15T04:39:17+00:00",
+  "headline": "6 interesting things surfaced from HN on 2026-04-15",
   "id": "2026-04-15",
   "mention_ids": [
-    "2026-04-15:plain:47768750",
-    "2026-04-15:langalpha:47766370",
-    "2026-04-15:jujutsu-jj:47763759"
+    "2026-04-15:google-arts-culture:47728662",
+    "2026-04-15:openseadragon:47728662",
+    "2026-04-15:wikivoyage:47707382",
+    "2026-04-15:sbb-mobile:47707382",
+    "2026-04-15:codex:47768133",
+    "2026-04-15:openssl-4-0-0:47768788"
   ],
   "summary": {
-    "items_surfaced": 3,
+    "items_surfaced": 6,
     "stories_attempted": null,
     "stories_processed": null
   }

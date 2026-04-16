@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T01:11:43+00:00",
+  "headline": "20 interesting things surfaced from HN on 2026-04-16",
+  "id": "2026-04-16",
+  "mention_ids": [
+    "2026-04-16:thunderbird-appointment:47780456",
+    "2026-04-16:schedyou:47780456",
+    "2026-04-16:cal-diy:47780456",
+    "2026-04-16:picore:47784244",
+    "2026-04-16:picoreplayer:47784244",
+    "2026-04-16:smarttube:47786791",
+    "2026-04-16:sponsorblock:47786791",
+    "2026-04-16:dearrow:47786791",
+    "2026-04-16:unhook:47786791",
+    "2026-04-16:ublock-hide-yt-shorts:47786791",
+    "2026-04-16:invidious:47786791",
+    "2026-04-16:libredirect:47786791",
+    "2026-04-16:openclaw:47783940",
+    "2026-04-16:hermes-agent:47783940",
+    "2026-04-16:claude-cowork-for-powerpoint:47785397",
+    "2026-04-16:claude-for-excel:47785397",
+    "2026-04-16:chatgpt-for-excel:47785397",
+    "2026-04-16:gemini-app:47782256",
+    "2026-04-16:dragon-book:47776796",
+    "2026-04-16:compilers-by-niklaus-wirth:47776796"
+  ],
+  "summary": {
+    "items_surfaced": 20,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

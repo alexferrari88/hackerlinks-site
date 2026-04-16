@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T04:39:17+00:00",
+  "id": "codex",
+  "last_seen_at": "2026-04-15T04:39:17+00:00",
+  "latest_mention_id": "2026-04-15:codex:47768133",
+  "mention_ids": [
+    "2026-04-15:codex:47768133"
+  ],
+  "name": "Codex",
+  "slug": "codex",
+  "summary": "OpenAI's coding agent was cited as a durable fallback for longer-running development tasks.",
+  "thing_url": "https://openai.com/index/introducing-codex/",
+  "times_seen": 1,
+  "why_included": "Commenters framed it as a more thorough alternative in the Claude ecosystem debate."
+}

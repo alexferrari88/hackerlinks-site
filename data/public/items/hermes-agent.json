@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "hermes-agent",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:hermes-agent:47783940",
+  "mention_ids": [
+    "2026-04-16:hermes-agent:47783940"
+  ],
+  "name": "Hermes Agent",
+  "slug": "hermes-agent",
+  "summary": "An AI agent platform praised for being easier to keep working than predecessors.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "A commenter said it was the first one that did not feel like constant repair work."
+}

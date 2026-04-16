@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "picoreplayer",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:picoreplayer:47784244",
+  "mention_ids": [
+    "2026-04-16:picoreplayer:47784244"
+  ],
+  "name": "PiCorePlayer",
+  "slug": "picoreplayer",
+  "summary": "A Pi-based Squeezebox/Lyrion client/server setup that commenters love.",
+  "thing_url": "https://picoreplayer.org/",
+  "times_seen": 1,
+  "why_included": "It was explicitly called a favorite and a practical use case for PiCore."
+}

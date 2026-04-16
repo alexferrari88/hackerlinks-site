@@ -1,35 +1,68 @@
 {
   "version": 2,
   "run_date": "2026-04-15",
-  "generated_at": "2026-04-15T03:02:00+00:00",
-  "summary": "Scanned top HN stories for new product mentions.",
+  "generated_at": "2026-04-15T04:39:17+00:00",
+  "summary": "6 concrete product references surfaced from 25 qualifying HN stories, with broad coverage across art tools, travel resources, AI dev tools, and infra.",
   "items": [
     {
-      "name": "Plain",
-      "thing_url": "https://github.com/dropseed/plain",
-      "hn_url": "https://news.ycombinator.com/item?id=47768750",
-      "source_story_title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
-      "summary": "A full-stack Python framework forked from Django, optimized for AI agent readability and review.",
-      "why_included": "An opinionated framework explicitly targeting the agentic era, creating a focused discussion on agent-framework utility.",
-      "evidence": "Commenters debated its necessity as a new framework versus just using standard Django/Python ecosystems that agents are already trained on."
+      "category": "🖼️ Art & Imaging",
+      "name": "Google Arts & Culture",
+      "thing_url": "https://artsandculture.google.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47728662",
+      "source_story_title": "Picasso's Guernica (Gigapixel)",
+      "summary": "Google's art-and-museum platform is a handy companion for exploring ultra-high-resolution artwork and exhibits.",
+      "why_included": "A commenter explicitly recommended it as a great resource for seeing and learning about art around the world.",
+      "evidence": "In the Guernica gigapixel thread, a commenter said artsandculture.google.com is 'a great resource to see and learn about art around the world.'"
     },
     {
-      "name": "LangAlpha",
-      "thing_url": "https://github.com/ginlix-ai/langalpha",
-      "hn_url": "https://news.ycombinator.com/item?id=47766370",
-      "source_story_title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
-      "summary": "An open-source agent harness designed for persistent, domain-aware investment research.",
-      "why_included": "Addresses core limitations of current agent harnesses like context bloat and session persistence for complex research.",
-      "evidence": "Users appreciated the persistent sandbox approach for iterative research but raised significant regulatory/compliance auditability concerns."
+      "category": "🖼️ Art & Imaging",
+      "name": "OpenSeadragon",
+      "thing_url": "https://openseadragon.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=47728662",
+      "source_story_title": "Picasso's Guernica (Gigapixel)",
+      "summary": "An open-source deep-zoom viewer for tiled images, maps, and other high-resolution visuals.",
+      "why_included": "The thread called it an under-appreciated tool and pointed to it as the right building block for tiled-image viewers.",
+      "evidence": "A commenter said someone forked OpenSeadragon and called it 'such an under-appreciated tool,' adding that VIPS can handle tile generation."
     },
     {
-      "name": "Jujutsu (jj)",
-      "thing_url": "https://github.com/martinvonz/jj",
-      "hn_url": "https://news.ycombinator.com/item?id=47763759",
-      "source_story_title": "jj – the CLI for Jujutsu",
-      "summary": "A version control CLI using Git as a backend with a mutable working-copy mental model.",
-      "why_included": "Offers a distinct workflow that simplifies history rewriting and commit management compared to traditional Git.",
-      "evidence": "Commenters highlighted the 'jj undo' feature as a major safety improvement and praised the anonymous branching workflow."
+      "category": "🧭 Travel & Transit",
+      "name": "Wikivoyage",
+      "thing_url": "https://www.wikivoyage.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47707382",
+      "source_story_title": "guide.world: A compendium of travel guides",
+      "summary": "A community-edited travel guide wiki that works well as a living alternative to static trip notes.",
+      "why_included": "A commenter suggested it as the wiki version worth using and updating during trip research.",
+      "evidence": "One commenter wrote, 'For the wiki version, you have Wikivoyage... It can be a bit outdated, but then you just update it as you do your research.'"
+    },
+    {
+      "category": "🧭 Travel & Transit",
+      "name": "SBB Mobile",
+      "thing_url": "https://apps.apple.com/us/app/sbb-mobile/id294855237",
+      "hn_url": "https://news.ycombinator.com/item?id=47707382",
+      "source_story_title": "guide.world: A compendium of travel guides",
+      "summary": "Swiss Federal Railways' trip-planning app for routes, tickets, and smooth point-to-point travel.",
+      "why_included": "The thread praised it as a polished, stress-free companion for getting around Switzerland.",
+      "evidence": "A commenter said the SBB Mobile app was 'god-sent' and 'so well made,' noting that its design system makes travel up and down the country stress-free."
+    },
+    {
+      "category": "🤖 AI & Dev Tools",
+      "name": "Codex",
+      "thing_url": "https://openai.com/index/introducing-codex/",
+      "hn_url": "https://news.ycombinator.com/item?id=47768133",
+      "source_story_title": "Claude Code Routines",
+      "summary": "OpenAI's coding agent was cited as a durable fallback for longer-running development tasks.",
+      "why_included": "Commenters framed it as a more thorough alternative in the Claude ecosystem debate.",
+      "evidence": "In the Claude Code Routines thread, one commenter said they were finding Codex 'more thorough' on the high plan, and another named OpenCode/Codex as the first fallback if Anthropic goes bad."
+    },
+    {
+      "category": "🔐 Security & Infra",
+      "name": "OpenSSL 4.0.0",
+      "thing_url": "https://www.openssl.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47768788",
+      "source_story_title": "OpenSSL 4.0.0",
+      "summary": "The new major OpenSSL release drew interest for long-awaited TLS feature work.",
+      "why_included": "A top comment reacted positively to one of the new protocol features, marking the release as noteworthy.",
+      "evidence": "A commenter celebrated 'Finally encrypted client hello support \u03bf/,' showing enthusiasm for the new OpenSSL release."
     }
   ]
 }

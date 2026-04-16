@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "dearrow",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:dearrow:47786791",
+  "mention_ids": [
+    "2026-04-16:dearrow:47786791"
+  ],
+  "name": "DeArrow",
+  "slug": "dearrow",
+  "summary": "A tool for making YouTube thumbnails less clickbait-y.",
+  "thing_url": "https://dearrow.ajay.app",
+  "times_seen": 1,
+  "why_included": "Commenters recommended it for reducing clickbait on YouTube."
+}

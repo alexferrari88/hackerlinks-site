@@ -55,6 +55,162 @@
       "first_reported_at": "2026-04-15T03:02:00+00:00",
       "last_reported_at": "2026-04-15T03:02:00+00:00",
       "times_reported": 1
+    },
+    {
+      "name": "Google Arts & Culture",
+      "first_reported_at": "2026-04-15T04:39:17+00:00",
+      "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenSeadragon",
+      "first_reported_at": "2026-04-15T04:39:17+00:00",
+      "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Wikivoyage",
+      "first_reported_at": "2026-04-15T04:39:17+00:00",
+      "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SBB Mobile",
+      "first_reported_at": "2026-04-15T04:39:17+00:00",
+      "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Codex",
+      "first_reported_at": "2026-04-15T04:39:17+00:00",
+      "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenSSL 4.0.0",
+      "first_reported_at": "2026-04-15T04:39:17+00:00",
+      "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Thunderbird Appointment",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "schedyou",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "cal.diy",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PiCore",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PiCorePlayer",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SmartTube",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SponsorBlock",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DeArrow",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Unhook",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ublock-hide-yt-shorts",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Invidious",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "LibRedirect",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenClaw",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hermes Agent",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Claude Cowork for PowerPoint",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Claude for Excel",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ChatGPT for Excel",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gemini app",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dragon Book",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Compilers by Niklaus Wirth",
+      "first_reported_at": "2026-04-16T01:11:43+00:00",
+      "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
     }
   ]
 }

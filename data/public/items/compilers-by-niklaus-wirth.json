@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "compilers-by-niklaus-wirth",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:compilers-by-niklaus-wirth:47776796",
+  "mention_ids": [
+    "2026-04-16:compilers-by-niklaus-wirth:47776796"
+  ],
+  "name": "Compilers by Niklaus Wirth",
+  "slug": "compilers-by-niklaus-wirth",
+  "summary": "A short compiler book praised for clarity and completeness.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "A commenter called it a fantastic intro with pristine clarity."
+}

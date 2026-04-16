@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-15T04:39:17+00:00",
+  "id": "wikivoyage",
+  "last_seen_at": "2026-04-15T04:39:17+00:00",
+  "latest_mention_id": "2026-04-15:wikivoyage:47707382",
+  "mention_ids": [
+    "2026-04-15:wikivoyage:47707382"
+  ],
+  "name": "Wikivoyage",
+  "slug": "wikivoyage",
+  "summary": "A community-edited travel guide wiki that works well as a living alternative to static trip notes.",
+  "thing_url": "https://www.wikivoyage.org/",
+  "times_seen": 1,
+  "why_included": "A commenter suggested it as the wiki version worth using and updating during trip research."
+}

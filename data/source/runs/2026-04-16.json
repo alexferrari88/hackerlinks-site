@@ -1,0 +1,233 @@
+{
+  "version": 2,
+  "run_date": "2026-04-16",
+  "generated_at": "2026-04-16T01:11:43+00:00",
+  "summary": {
+    "stories_attempted": 22,
+    "stories_with_reported_items": 7,
+    "items_reported": 20,
+    "filtered_by_history": 0
+  },
+  "items": [
+    {
+      "name": "Thunderbird Appointment",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_id": 47780456,
+      "source_story_title": "Cal.com is going closed source",
+      "hn_url": "https://news.ycombinator.com/item?id=47780456",
+      "thing_url": "https://github.com/thunderbird/appointment",
+      "summary": "Open-source scheduling tool positioned as a Cal.com replacement.",
+      "why_included": "A Thunderbird maintainer explicitly pitched it as the open-source replacement path.",
+      "evidence": "“Our scheduling tool, Thunderbird Appointment, will always be open source” and “We’ll help you replace Cal.com”."
+    },
+    {
+      "name": "schedyou",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_id": 47780456,
+      "source_story_title": "Cal.com is going closed source",
+      "hn_url": "https://news.ycombinator.com/item?id=47780456",
+      "thing_url": "https://git.sr.ht/~bsprague/schedyou",
+      "summary": "Small self-hosted scheduling tool built to replace a Cal.com instance.",
+      "why_included": "A commenter described it as a simpler self-hosted Cal.com replacement they built themselves.",
+      "evidence": "“replace my Cal.com instance with a smaller, simpler self-hosted tool”."
+    },
+    {
+      "name": "cal.diy",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_id": 47780456,
+      "source_story_title": "Cal.com is going closed source",
+      "hn_url": "https://news.ycombinator.com/item?id=47780456",
+      "thing_url": "https://cal.diy",
+      "summary": "The Cal.com fork commenters pointed to as the obvious alternative.",
+      "why_included": "It was directly recommended as the thing people who care should use instead.",
+      "evidence": "“anyone who cares would just use cal.diy as they were prior to this announcement”."
+    },
+    {
+      "name": "PiCore",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_id": 47784244,
+      "source_story_title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "hn_url": "https://news.ycombinator.com/item?id=47784244",
+      "thing_url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+      "summary": "An immutable Tiny Core Linux port for Raspberry Pi hardware.",
+      "why_included": "Commenters praised the distro itself as a clever immutable Linux build.",
+      "evidence": "“A very clever immutable Linux distro”."
+    },
+    {
+      "name": "PiCorePlayer",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_id": 47784244,
+      "source_story_title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "hn_url": "https://news.ycombinator.com/item?id=47784244",
+      "thing_url": "https://picoreplayer.org/",
+      "summary": "A Pi-based Squeezebox/Lyrion client/server setup that commenters love.",
+      "why_included": "It was explicitly called a favorite and a practical use case for PiCore.",
+      "evidence": "“the basis for the excellent PiCorePlayer, a favourite of mine to run Squeezebox clients (and/or Lyrion music server) on any Pi”."
+    },
+    {
+      "name": "SmartTube",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": null,
+      "summary": "An Android/TV YouTube client people use specifically to avoid Shorts.",
+      "why_included": "A commenter said it was the reason they switched away from YouTube on Chromecast.",
+      "evidence": "“#1 reason I switched to the SmartTube app on my Chromecast. No more Shorts.”"
+    },
+    {
+      "name": "SponsorBlock",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": "https://sponsor.ajay.app",
+      "summary": "Crowd-sourced sponsor skipping for YouTube.",
+      "why_included": "It was recommended as a clean way to skip sponsor segments.",
+      "evidence": "“SponsorBlock - Crowd-sourced skip sponsored segments”."
+    },
+    {
+      "name": "DeArrow",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": "https://dearrow.ajay.app",
+      "summary": "A tool for making YouTube thumbnails less clickbait-y.",
+      "why_included": "Commenters recommended it for reducing clickbait on YouTube.",
+      "evidence": "“DeArrow - Make thumbnails not clickbait”."
+    },
+    {
+      "name": "Unhook",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": "https://unhook.app/",
+      "summary": "A Firefox extension for hiding Shorts and tailoring YouTube’s UI.",
+      "why_included": "It was directly recommended as a YouTube customization layer.",
+      "evidence": "“I use the ‘Unhook’ Firefox extension to customize the YouTube page. You can hide shorts…”."
+    },
+    {
+      "name": "ublock-hide-yt-shorts",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": "https://github.com/i5heu/ublock-hide-yt-shorts",
+      "summary": "A uBlock Origin filter repo for hiding YouTube Shorts.",
+      "why_included": "The thread pointed to it as a practical filter-based workaround.",
+      "evidence": "“Just use uBlock origin and this filter: https://github.com/i5heu/ublock-hide-yt-shorts”."
+    },
+    {
+      "name": "Invidious",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": null,
+      "summary": "A privacy-friendly YouTube frontend used as an alternative to the main site.",
+      "why_included": "A commenter said they use it to watch YouTube videos after dropping Google services.",
+      "evidence": "“I deleted my Google account and now occasionally use Invidious with LibRedirect”."
+    },
+    {
+      "name": "LibRedirect",
+      "category": "🎥 Media & Web Cleanups",
+      "source_story_id": 47786791,
+      "source_story_title": "YouTube now lets you turn off Shorts",
+      "hn_url": "https://news.ycombinator.com/item?id=47786791",
+      "thing_url": "https://libredirect.github.io/",
+      "summary": "A browser extension that redirects services to privacy-friendly frontends.",
+      "why_included": "It was part of a concrete YouTube-alternative setup.",
+      "evidence": "“use Invidious with LibRedirect to watch YT videos”."
+    },
+    {
+      "name": "OpenClaw",
+      "category": "🤖 AI & Local Models",
+      "source_story_id": 47783940,
+      "source_story_title": "Ask HN: Who is using OpenClaw?",
+      "hn_url": "https://news.ycombinator.com/item?id=47783940",
+      "thing_url": null,
+      "summary": "An AI tool with active users saying it remains helpful and compelling.",
+      "why_included": "Multiple commenters reported real use and positive experience with it.",
+      "evidence": "Users said they “still use it and find it helpful” and that it is “compelling”."
+    },
+    {
+      "name": "Hermes Agent",
+      "category": "🤖 AI & Local Models",
+      "source_story_id": 47783940,
+      "source_story_title": "Ask HN: Who is using OpenClaw?",
+      "hn_url": "https://news.ycombinator.com/item?id=47783940",
+      "thing_url": null,
+      "summary": "An AI agent platform praised for being easier to keep working than predecessors.",
+      "why_included": "A commenter said it was the first one that did not feel like constant repair work.",
+      "evidence": "“it didn’t feel like I was constantly needing to fix it, so at the moment I’m happy with it”."
+    },
+    {
+      "name": "Claude Cowork for PowerPoint",
+      "category": "🤖 AI & Local Models",
+      "source_story_id": 47785397,
+      "source_story_title": "ChatGPT for Excel",
+      "hn_url": "https://news.ycombinator.com/item?id=47785397",
+      "thing_url": null,
+      "summary": "A deck-generation tool praised for both content and design quality.",
+      "why_included": "A commenter was genuinely surprised by how strong the slides looked.",
+      "evidence": "“I was stunned by the content as well as design quality of the deck it produced”."
+    },
+    {
+      "name": "Claude for Excel",
+      "category": "🤖 AI & Local Models",
+      "source_story_id": 47785397,
+      "source_story_title": "ChatGPT for Excel",
+      "hn_url": "https://news.ycombinator.com/item?id=47785397",
+      "thing_url": null,
+      "summary": "A spreadsheet assistant commenters say is already very capable.",
+      "why_included": "It was described as good enough for real junior-level spreadsheet work.",
+      "evidence": "“Claude for excel is already amazing. Fully capable of doing junior work.”"
+    },
+    {
+      "name": "ChatGPT for Excel",
+      "category": "🤖 AI & Local Models",
+      "source_story_id": 47785397,
+      "source_story_title": "ChatGPT for Excel",
+      "hn_url": "https://news.ycombinator.com/item?id=47785397",
+      "thing_url": "https://chatgpt.com/apps/spreadsheets/",
+      "summary": "A spreadsheet-oriented ChatGPT experience that commenters want to try and like on complex sheets.",
+      "why_included": "The thread contained positive anticipation and concrete praise of its spreadsheet handling.",
+      "evidence": "One commenter said they were looking forward to trying it, and another said it “does really well on complex sheets.”"
+    },
+    {
+      "name": "Gemini app",
+      "category": "🤖 AI & Local Models",
+      "source_story_id": 47782256,
+      "source_story_title": "The Gemini app is now on Mac",
+      "hn_url": "https://news.ycombinator.com/item?id=47782256",
+      "thing_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+      "summary": "Google’s Gemini app on macOS drew positive comparisons to Claude.",
+      "why_included": "A commenter said the launch was enough to make them try Gemini over Claude.",
+      "evidence": "“This is enough to make me try Gemini over Claude.”"
+    },
+    {
+      "name": "Dragon Book",
+      "category": "📚 Books & Learning",
+      "source_story_id": 47776796,
+      "source_story_title": "Want to write a compiler? Just read these two papers (2008)",
+      "hn_url": "https://news.ycombinator.com/item?id=47776796",
+      "thing_url": null,
+      "summary": "Classic compiler text recommended as a good introductory book.",
+      "why_included": "Commenters praised it as a self-sufficient introduction and a good place to start.",
+      "evidence": "“Chapter 2 is a self-sufficient introduction into compilers” and “I found it to be a good introductory text.”"
+    },
+    {
+      "name": "Compilers by Niklaus Wirth",
+      "category": "📚 Books & Learning",
+      "source_story_id": 47776796,
+      "source_story_title": "Want to write a compiler? Just read these two papers (2008)",
+      "hn_url": "https://news.ycombinator.com/item?id=47776796",
+      "thing_url": null,
+      "summary": "A short compiler book praised for clarity and completeness.",
+      "why_included": "A commenter called it a fantastic intro with pristine clarity.",
+      "evidence": "“Another fantastic intro to compiler writing is the short little book ‘Compilers’ by Niklaus Wirth” with “pristine clarity”."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "claude-cowork-for-powerpoint",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:claude-cowork-for-powerpoint:47785397",
+  "mention_ids": [
+    "2026-04-16:claude-cowork-for-powerpoint:47785397"
+  ],
+  "name": "Claude Cowork for PowerPoint",
+  "slug": "claude-cowork-for-powerpoint",
+  "summary": "A deck-generation tool praised for both content and design quality.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "A commenter was genuinely surprised by how strong the slides looked."
+}

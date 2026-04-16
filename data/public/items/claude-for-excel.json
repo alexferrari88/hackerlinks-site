@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "claude-for-excel",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:claude-for-excel:47785397",
+  "mention_ids": [
+    "2026-04-16:claude-for-excel:47785397"
+  ],
+  "name": "Claude for Excel",
+  "slug": "claude-for-excel",
+  "summary": "A spreadsheet assistant commenters say is already very capable.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "It was described as good enough for real junior-level spreadsheet work."
+}

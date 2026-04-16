@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "thunderbird-appointment",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:thunderbird-appointment:47780456",
+  "mention_ids": [
+    "2026-04-16:thunderbird-appointment:47780456"
+  ],
+  "name": "Thunderbird Appointment",
+  "slug": "thunderbird-appointment",
+  "summary": "Open-source scheduling tool positioned as a Cal.com replacement.",
+  "thing_url": "https://github.com/thunderbird/appointment",
+  "times_seen": 1,
+  "why_included": "A Thunderbird maintainer explicitly pitched it as the open-source replacement path."
+}

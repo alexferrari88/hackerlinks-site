@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-16T01:11:43+00:00",
+  "id": "picore",
+  "last_seen_at": "2026-04-16T01:11:43+00:00",
+  "latest_mention_id": "2026-04-16:picore:47784244",
+  "mention_ids": [
+    "2026-04-16:picore:47784244"
+  ],
+  "name": "PiCore",
+  "slug": "picore",
+  "summary": "An immutable Tiny Core Linux port for Raspberry Pi hardware.",
+  "thing_url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+  "times_seen": 1,
+  "why_included": "Commenters praised the distro itself as a clever immutable Linux build."
+}
