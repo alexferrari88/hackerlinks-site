@@ -7,22 +7,22 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/utils";
 
 const buttonVariants = cva(
-  "inline-flex items-center justify-center gap-2 whitespace-nowrap border-2 font-semibold uppercase tracking-[0.16em] transition-transform duration-150 ease-out disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 shrink-0 outline-none focus-visible:ring-2 focus-visible:ring-[var(--ring)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--background)]",
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap border-[3px] border-[var(--border)] font-bold uppercase tracking-[0.1em] transition-all duration-150 ease-out disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 shrink-0 outline-none focus-visible:ring-2 focus-visible:ring-[var(--ring)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--background)]",
   {
     variants: {
       variant: {
         solid:
-          "border-[var(--accent)] bg-[var(--accent)] text-[var(--accent-ink)] shadow-[6px_6px_0_0_var(--shadow-hard)] hover:-translate-y-0.5 hover:translate-x-0.5 hover:shadow-[3px_3px_0_0_var(--shadow-hard)]",
+          "bg-[var(--primary)] text-white shadow-[var(--shadow-offset)_var(--shadow-offset)_0_0_var(--shadow-color)] hover:-translate-y-0.5 hover:-translate-x-0.5 hover:shadow-[calc(var(--shadow-offset)*1.5)_calc(var(--shadow-offset)*1.5)_0_0_var(--shadow-color)] active:translate-y-[2px] active:translate-x-[2px] active:shadow-[2px_2px_0_0_var(--shadow-color)]",
         frame:
-          "border-[var(--line-strong)] bg-[var(--panel)] text-[var(--foreground)] shadow-[6px_6px_0_0_var(--shadow-hard)] hover:-translate-y-0.5 hover:translate-x-0.5 hover:border-[var(--accent)] hover:shadow-[3px_3px_0_0_var(--shadow-hard)]",
+          "bg-[var(--surface)] text-[var(--foreground)] shadow-[var(--shadow-offset)_var(--shadow-offset)_0_0_var(--shadow-color)] hover:-translate-y-0.5 hover:-translate-x-0.5 hover:bg-[var(--muted)] hover:shadow-[calc(var(--shadow-offset)*1.5)_calc(var(--shadow-offset)*1.5)_0_0_var(--shadow-color)] active:translate-y-[2px] active:translate-x-[2px] active:shadow-[2px_2px_0_0_var(--shadow-color)]",
         ghost:
-          "border-transparent bg-transparent text-[var(--muted-foreground)] hover:border-[var(--line)] hover:bg-[var(--panel)] hover:text-[var(--foreground)]",
+          "border-transparent bg-transparent text-[var(--foreground)] hover:border-[var(--border)] hover:bg-[var(--surface)] hover:shadow-[4px_4px_0_0_var(--shadow-color)] active:translate-y-[2px] active:translate-x-[2px] active:shadow-none",
       },
       size: {
-        sm: "h-10 px-4 text-[0.72rem]",
-        md: "h-12 px-5 text-[0.76rem]",
-        lg: "h-14 px-6 text-[0.8rem]",
-        icon: "size-11",
+        sm: "h-10 px-4 text-xs",
+        md: "h-12 px-6 text-sm",
+        lg: "h-14 px-8 text-base",
+        icon: "size-12",
       },
     },
     defaultVariants: {

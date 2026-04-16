@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Chakra_Petch, Public_Sans } from "next/font/google";
+import { Bricolage_Grotesque, Public_Sans, Space_Mono } from "next/font/google";
 
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
@@ -8,16 +8,22 @@ import { SITE_DESCRIPTION, SITE_NAME } from "@/lib/site-config";
 
 import "./globals.css";
 
-const display = Chakra_Petch({
+const display = Bricolage_Grotesque({
   subsets: ["latin"],
   variable: "--font-display",
-  weight: ["400", "500", "600", "700"],
+  weight: ["200", "300", "400", "500", "600", "700", "800"],
 });
 
 const body = Public_Sans({
   subsets: ["latin"],
   variable: "--font-body",
   weight: ["400", "500", "600", "700"],
+});
+
+const mono = Space_Mono({
+  subsets: ["latin"],
+  variable: "--font-mono",
+  weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
@@ -31,7 +37,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${display.variable} ${body.variable}`}>
+      <body className={`${display.variable} ${body.variable} ${mono.variable}`}>
         <ThemeProvider>
           <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
             <div className="background-grid" />
