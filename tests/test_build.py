@@ -2,7 +2,9 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
+from hackerlinks import build as build_module
 from hackerlinks.build import build_public_site
 from hackerlinks.normalize import normalize_artifacts, write_public_records
 
@@ -10,6 +12,38 @@ FIXTURES = Path(__file__).parent / "fixtures"
 
 
 class BuildTests(unittest.TestCase):
+    def test_npm_executable_falls_back_to_node_sibling_when_npm_missing_on_path(self) -> None:
+        with patch("hackerlinks.build.shutil.which") as mock_which:
+            mock_which.side_effect = lambda name: {
+                "npm": None,
+                "node": "/home/alex/.nvm/versions/node/v25.6.0/bin/node",
+            }.get(name)
+
+            resolved = build_module._npm_executable()
+
+        self.assertEqual(resolved, "/home/alex/.nvm/versions/node/v25.6.0/bin/npm")
+
+    def test_npm_executable_resolves_real_node_path_when_node_on_path_is_symlink(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            real_bin = root / "real-bin"
+            link_bin = root / "link-bin"
+            real_bin.mkdir()
+            link_bin.mkdir()
+            (real_bin / "node").write_text("node")
+            (real_bin / "npm").write_text("npm")
+            (link_bin / "node").symlink_to(real_bin / "node")
+
+            with patch("hackerlinks.build.shutil.which") as mock_which:
+                mock_which.side_effect = lambda name: {
+                    "npm": None,
+                    "node": str(link_bin / "node"),
+                }.get(name)
+
+                resolved = build_module._npm_executable()
+
+        self.assertEqual(resolved, str(real_bin / "npm"))
+
     def test_build_public_site_exports_core_routes_and_artifacts(self) -> None:
         run_data = json.loads((FIXTURES / "sample-run.json").read_text())
         history_data = json.loads((FIXTURES / "sample-history.json").read_text())

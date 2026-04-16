@@ -195,6 +195,25 @@ def _write_sitemap(records: dict[str, Any], dist_root: Path, *, site_url: str) -
     _write(dist_root / "sitemap.xml", sitemap)
 
 
+def _npm_executable() -> str:
+    npm_path = shutil.which("npm")
+    if npm_path:
+        return npm_path
+
+    node_path = shutil.which("node")
+    if node_path:
+        node_candidates = [Path(node_path)]
+        resolved_node = Path(node_path).resolve()
+        if resolved_node not in node_candidates:
+            node_candidates.append(resolved_node)
+        for candidate_node in node_candidates:
+            sibling_npm = candidate_node.with_name("npm")
+            if sibling_npm.exists():
+                return str(sibling_npm)
+
+    raise FileNotFoundError("npm executable not found on PATH and no sibling npm was found next to node")
+
+
 def _run_next_export(*, public_root: Path, frontend_root: Path, site_url: str) -> Path:
     output_root = frontend_root / "out"
     if output_root.exists():
@@ -210,7 +229,7 @@ def _run_next_export(*, public_root: Path, frontend_root: Path, site_url: str) -
     )
 
     subprocess.run(
-        ["npm", "run", "build"],
+        [_npm_executable(), "run", "build"],
         cwd=frontend_root,
         check=True,
         env=env,
