@@ -27,8 +27,8 @@ export function PageIntro({ eyebrow, title, summary, meta, className }: PageIntr
           <div className="mt-4 flex flex-wrap gap-2">
             {meta.map((entry) => (
               <Badge key={entry.label} variant={entry.accent ? "accent" : "default"} className="gap-2">
-                <span className="text-[var(--muted-foreground)]">{entry.label}</span>
-                <span className="text-[var(--foreground)]">{entry.value}</span>
+                <span className={entry.accent ? "text-white/80" : "text-[var(--muted-foreground)]"}>{entry.label}</span>
+                <span className={entry.accent ? "text-white" : "text-[var(--foreground)]"}>{entry.value}</span>
               </Badge>
             ))}
           </div>

@@ -33,10 +33,10 @@ export function IssueRow({ mention }: { mention: MentionRecord }) {
           {mention.is_repeat ? <Badge variant="accent">{item.times_seen} sightings</Badge> : null}
           {domain ? <Badge variant="muted">{domain}</Badge> : null}
         </div>
-        <p className="mt-3 max-w-[72ch] text-sm leading-6 text-[var(--muted-foreground)] md:text-[0.98rem]">
+        <p className="mt-3 max-w-[72ch] text-base leading-relaxed text-[var(--muted-foreground)] md:text-lg">
           {item.summary}
         </p>
-        <p className="mt-4 text-sm leading-6 text-[var(--foreground)]/92">{mention.evidence}</p>
+        <p className="mt-4 text-base leading-relaxed text-[var(--foreground)]/92">{mention.evidence}</p>
       </div>
       <div className="board-meta">
         <Badge variant="default">{formatDate(mention.seen_at)}</Badge>
