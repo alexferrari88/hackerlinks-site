@@ -7,6 +7,7 @@ import json
 import os
 import shutil
 import subprocess
+import sys
 from datetime import datetime
 from html import escape
 from pathlib import Path
@@ -233,6 +234,8 @@ def _run_next_export(*, public_root: Path, frontend_root: Path, site_url: str) -
         cwd=frontend_root,
         check=True,
         env=env,
+        stdout=sys.stderr,
+        stderr=sys.stderr,
     )
     return output_root
 

@@ -1,4 +1,5 @@
 import json
+import sys
 import tempfile
 import unittest
 from pathlib import Path
@@ -43,6 +44,27 @@ class BuildTests(unittest.TestCase):
                 resolved = build_module._npm_executable()
 
         self.assertEqual(resolved, str(real_bin / "npm"))
+
+    def test_run_next_export_routes_build_logs_to_stderr(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            public_root = root / "public"
+            frontend_root = root / "frontend"
+            public_root.mkdir()
+            frontend_root.mkdir()
+
+            with patch("hackerlinks.build._npm_executable", return_value="/opt/npm"), patch(
+                "hackerlinks.build.subprocess.run"
+            ) as mock_run:
+                build_module._run_next_export(
+                    public_root=public_root,
+                    frontend_root=frontend_root,
+                    site_url="https://example.com/hackerlinks-site",
+                )
+
+        _, kwargs = mock_run.call_args
+        self.assertIs(kwargs["stdout"], sys.stderr)
+        self.assertIs(kwargs["stderr"], sys.stderr)
 
     def test_build_public_site_exports_core_routes_and_artifacts(self) -> None:
         run_data = json.loads((FIXTURES / "sample-run.json").read_text())
