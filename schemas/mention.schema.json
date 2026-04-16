@@ -2,14 +2,29 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "HackerLinks Mention",
   "type": "object",
-  "required": ["id", "issue_id", "item_id", "hn_url"],
+  "required": [
+    "id",
+    "issue_id",
+    "item_id",
+    "seen_at",
+    "hn_url",
+    "source_story_id",
+    "source_story_title",
+    "evidence",
+    "rank",
+    "is_repeat"
+  ],
   "properties": {
     "id": {"type": "string"},
     "issue_id": {"type": "string"},
     "item_id": {"type": "string"},
+    "seen_at": {"type": "string"},
     "hn_url": {"type": "string"},
     "source_story_id": {"type": ["string", "null"]},
-    "source_story_title": {"type": ["string", "null"]}
+    "source_story_title": {"type": ["string", "null"]},
+    "evidence": {"type": "string"},
+    "rank": {"type": ["integer", "null"]},
+    "is_repeat": {"type": "boolean"}
   },
   "additionalProperties": true
 }

@@ -12,6 +12,7 @@ from .build import build_public_site
 from .normalize import normalize_artifacts, write_public_records
 
 PUBLISHABLE_PREFIXES = ("data/source/", "data/public/")
+IGNORED_DIRTY_PREFIXES = ("dist/", ".next/", "out/", "node_modules/")
 
 
 def _load_json(path: Path) -> dict[str, Any]:
@@ -118,7 +119,7 @@ def blocking_dirty_paths(repo_root: Path, allowed_prefixes: tuple[str, ...] = PU
     for line in _git_status_lines(repo_root):
         path = _normalize_status_path(line)
         normalized = path.replace("\\", "/")
-        if normalized.startswith("dist/"):
+        if any(normalized.startswith(prefix) for prefix in IGNORED_DIRTY_PREFIXES):
             continue
         if not any(normalized.startswith(prefix) for prefix in allowed_prefixes):
             blocked.append(normalized)

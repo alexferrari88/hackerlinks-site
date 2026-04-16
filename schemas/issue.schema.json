@@ -2,12 +2,22 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "HackerLinks Issue",
   "type": "object",
-  "required": ["id", "date", "generated_at", "summary", "mention_ids"],
+  "required": ["id", "date", "generated_at", "headline", "summary", "mention_ids"],
   "properties": {
     "id": {"type": "string"},
     "date": {"type": "string"},
     "generated_at": {"type": "string"},
-    "summary": {"type": "object"},
+    "headline": {"type": "string"},
+    "summary": {
+      "type": "object",
+      "required": ["items_surfaced", "stories_processed", "stories_attempted"],
+      "properties": {
+        "items_surfaced": {"type": "integer"},
+        "stories_processed": {"type": ["integer", "null"]},
+        "stories_attempted": {"type": ["integer", "null"]}
+      },
+      "additionalProperties": true
+    },
     "mention_ids": {"type": "array", "items": {"type": "string"}}
   },
   "additionalProperties": true

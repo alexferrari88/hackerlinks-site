@@ -1,0 +1,27 @@
+import Link from "next/link";
+
+import { SITE_BASE_PATH } from "@/lib/site-config";
+
+export function SiteFooter() {
+  return (
+    <footer className="site-shell pb-10 pt-14">
+      <div className="frame grid gap-6 px-4 py-6 md:grid-cols-[1.2fr_0.8fr] md:px-6">
+        <div>
+          <p className="eyebrow">HackerLinks / End matter</p>
+          <p className="mt-3 max-w-[44ch] text-sm leading-6 text-[var(--muted-foreground)]">
+            A static archive of concrete things surfaced by Hacker News readers, designed to stay
+            fast, legible, and worth revisiting.
+          </p>
+        </div>
+        <div className="flex flex-wrap items-start gap-3 md:justify-end">
+          <Link href={`${SITE_BASE_PATH}/issues`} className="nav-chip">
+            Browse issues
+          </Link>
+          <Link href={`${SITE_BASE_PATH}/archive`} className="nav-chip">
+            Open archive
+          </Link>
+        </div>
+      </div>
+    </footer>
+  );
+}

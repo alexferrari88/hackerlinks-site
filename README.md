@@ -1,6 +1,6 @@
 # HackerLinks
 
-Static, data-first website scaffold for a **serendipity-first public archive** of interesting concrete things surfaced from Hacker News discussions.
+Static, data-first website for a **serendipity-first public archive** of interesting concrete things surfaced from Hacker News discussions.
 
 ## Product intent recovered from earlier discussion
 
@@ -22,8 +22,8 @@ The core product question is:
 This repo is now **live on GitHub Pages** and remains **data-first**:
 - public deployment: `https://alexferrari88.github.io/hackerlinks-site/`
 - no runtime scraping or AI calls happen in the website repo
-- the website renders only structured JSON checked into the repo
-- private HN scout artifacts are synced in from Alex's local Hermes environment, then normalized and rendered deterministically
+- the site reads only structured JSON checked into the repo
+- private HN scout artifacts are synced in from Alex's local Hermes environment, normalized by Python, then rendered by a static Next.js 16 export
 
 ## MVP target
 
@@ -56,10 +56,17 @@ These are copied from the private HN Product Scout pipeline so the public site c
 
 1. Sync private scout artifacts into `data/source/`
 2. Normalize private scout artifacts into public JSON
-3. Render static HTML from public JSON
+3. Export static HTML from public JSON through the Next.js frontend
 4. Push repo updates to trigger **GitHub Pages** deploy
 
 ## Automation
+
+Frontend/tooling prerequisites:
+
+```bash
+cd /home/alex/src/hackerlinks
+npm ci
+```
 
 Manual sync command:
 
@@ -78,7 +85,7 @@ PYTHONPATH=src python3 -m hackerlinks.sync --push
 The sync command:
 - copies `~/.hermes/hn-scout/product-history.json`
 - copies all available `~/.hermes/hn-scout/runs/*.json`
-- rebuilds `data/public/` and `dist/`
+- rebuilds `data/public/` and then exports `dist/` via Next.js
 - refuses to publish if unrelated repo files are dirty
 - commits and pushes only `data/source/` + `data/public/` when actual content changed
 

@@ -27,8 +27,17 @@ jobs:
         with:
           python-version: '3.14'
 
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: 'npm'
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+
+      - name: Install frontend dependencies
+        run: npm ci
 
       - name: Build public data
         run: PYTHONPATH=src python -m hackerlinks.normalize

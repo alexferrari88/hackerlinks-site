@@ -22,8 +22,6 @@ class SyncTests(unittest.TestCase):
 
             (private_root / "runs").mkdir(parents=True, exist_ok=True)
             (repo_root / "data" / "source" / "runs").mkdir(parents=True, exist_ok=True)
-            (repo_root / "static").mkdir(parents=True, exist_ok=True)
-            (repo_root / "static" / "site.css").write_text("body { color: black; }\n")
 
             older_run = dict(sample_run)
             older_run["run_date"] = "2026-04-13"
@@ -40,6 +38,8 @@ class SyncTests(unittest.TestCase):
             self.assertTrue((repo_root / "data" / "source" / "product-history.json").exists())
             self.assertTrue((repo_root / "data" / "public" / "items" / "davinci-resolve.json").exists())
             self.assertTrue((repo_root / "dist" / "index.html").exists())
+            self.assertTrue((repo_root / "dist" / "issues" / "index.html").exists())
+            self.assertTrue((repo_root / "dist" / "archive" / "index.html").exists())
             self.assertGreaterEqual(len(result["copied_files"]), 2)
 
     def test_sync_repo_accumulates_item_mentions_across_multiple_runs(self) -> None:
@@ -53,8 +53,6 @@ class SyncTests(unittest.TestCase):
 
             (private_root / "runs").mkdir(parents=True, exist_ok=True)
             (repo_root / "data" / "source" / "runs").mkdir(parents=True, exist_ok=True)
-            (repo_root / "static").mkdir(parents=True, exist_ok=True)
-            (repo_root / "static" / "site.css").write_text("body { color: black; }\n")
 
             first_run = copy.deepcopy(sample_run)
             first_run["generated_at"] = "2026-04-14T13:41:27.313438+00:00"
@@ -101,7 +99,8 @@ class SyncTests(unittest.TestCase):
                     "2026-04-15:davinci-resolve:48888888",
                 ],
             )
-            self.assertIn("DaVinci Resolve – Photo", item_html)
+            self.assertIn("Canonical item page", item_html)
+            self.assertIn("DaVinci Resolve", item_html)
             self.assertIn("Resolve again", item_html)
             self.assertIn("A second thread praised Resolve again.", item_html)
 
