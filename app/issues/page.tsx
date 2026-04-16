@@ -14,12 +14,11 @@ export default function IssuesPage() {
   return (
     <div className="content-grid">
       <PageIntro
-        eyebrow="Issue index"
-        title="Every captured issue, kept in chronological order."
+        eyebrow="Issue Index"
+        title="Every tool recommendation, saved chronologically."
         summary={
           <p>
-            The archive stays date-first here: each issue preserves the concrete things surfaced in
-            a specific day&apos;s reading, with direct paths into the canonical item pages.
+            Browse the historical archive of everything we&apos;ve discovered. Each issue collects the best tools, libraries, and discussions from Hacker News on that day.
           </p>
         }
         meta={[

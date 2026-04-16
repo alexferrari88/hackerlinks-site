@@ -55,7 +55,7 @@ export default async function ItemPage({
   return (
     <div className="content-grid">
       <PageIntro
-        eyebrow="Canonical item page"
+        eyebrow="Tool Profile"
         title={item.name}
         summary={<p>{item.summary}</p>}
         meta={[
@@ -87,19 +87,19 @@ export default async function ItemPage({
 
           <div className="dossier-grid mt-8">
             <article className="frame px-4 py-4 md:px-5">
-              <p className="eyebrow">Why it matters</p>
+              <p className="eyebrow">Why developers recommend it</p>
               <p className="mt-4 text-sm leading-7 text-[var(--muted-foreground)] md:text-base">
                 {item.why_included}
               </p>
             </article>
             <article className="frame px-4 py-4 md:px-5">
-              <p className="eyebrow">Canonical id</p>
+              <p className="eyebrow">Reference ID</p>
               <p className="mt-4 font-display text-2xl uppercase tracking-[0.06em]">{item.slug}</p>
             </article>
           </div>
 
           <article className="frame mt-8 px-4 py-4 md:px-5">
-            <p className="eyebrow">Sighting log</p>
+            <p className="eyebrow">Hacker News Mentions</p>
             <div className="mt-4">
               {mentions.map((mention, index) => (
                 <div key={mention.id}>
@@ -133,15 +133,14 @@ export default async function ItemPage({
 
         <aside className="rail-stack">
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Status</p>
+            <p className="eyebrow">About this page</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="text-sm leading-6 text-[var(--muted-foreground)]">
-              This page is the long-term reference point for the item. Daily issues show when it
-              surfaced; this dossier keeps the cumulative thread history intact.
+              This page tracks every time this tool is recommended on Hacker News. We collect the context and links so you can see exactly how the community uses it.
             </p>
           </section>
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Coverage window</p>
+            <p className="eyebrow">History</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="text-sm leading-6 text-[var(--muted-foreground)]">
               {item.times_seen > 1

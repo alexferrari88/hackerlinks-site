@@ -25,13 +25,11 @@ export default function HomePage() {
   return (
     <div className="content-grid">
       <PageIntro
-        eyebrow="Live issue board"
-        title="Surfaced from the signal."
+        eyebrow="Hacker News Distilled"
+        title="Find the tools developers actually use."
         summary={
           <p>
-            HackerLinks turns Hacker News threads into a permanent ledger of specific tools,
-            libraries, apps, and references worth finding later. No puffery, no launch-copy, just
-            links and evidence.
+            We extract the signal from the noise. HackerLinks is a searchable archive of the most recommended tools, libraries, and apps—saved directly from real Hacker News discussions.
           </p>
         }
         meta={[
@@ -64,7 +62,7 @@ export default function HomePage() {
 
         <aside className="rail-stack">
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Repeat sightings</p>
+            <p className="eyebrow">Most recommended</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <div className="space-y-3">
               {repeatItems.map((item) => (
@@ -77,7 +75,7 @@ export default function HomePage() {
           </section>
 
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Recent additions</p>
+            <p className="eyebrow">Newly discovered</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <div className="space-y-3">
               {recentItems.map((item) => (

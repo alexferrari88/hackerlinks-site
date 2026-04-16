@@ -1,6 +1,6 @@
 export const SITE_NAME = "HackerLinks";
 export const SITE_DESCRIPTION =
-  "A source-linked archive of concrete things surfaced from Hacker News discussion.";
+  "Discover the most recommended tools, libraries, and apps from Hacker News. A searchable archive of real developer favorites.";
 export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ||
   "https://alexferrari88.github.io/hackerlinks-site";

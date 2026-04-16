@@ -23,7 +23,7 @@ export function SiteHeader() {
             </span>
           </Link>
           <Badge variant="accent" className="hidden md:inline-flex">
-            Signal Ledger
+            Curated Tools
           </Badge>
         </div>
         <nav className="hidden items-center gap-2 md:flex">
