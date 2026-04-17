@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "macmind",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:macmind:47792525",
+  "mention_ids": [
+    "2026-04-17:macmind:47792525"
+  ],
+  "name": "MacMind",
+  "slug": "macmind",
+  "summary": "HyperCard demo of a transformer neural net running on a 1989 Macintosh.",
+  "thing_url": "https://github.com/SeanFDZ/macmind",
+  "times_seen": 1,
+  "why_included": "Retro AI-on-old-hardware is exactly the kind of delightful constraint play HN latches onto."
+}

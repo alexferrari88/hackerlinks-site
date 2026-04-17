@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "qwen3-6-35b-a3b",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:qwen3-6-35b-a3b:47792764",
+  "mention_ids": [
+    "2026-04-17:qwen3-6-35b-a3b:47792764"
+  ],
+  "name": "Qwen3.6-35B-A3B",
+  "slug": "qwen3-6-35b-a3b",
+  "summary": "Open-weight 35B model aimed at agentic coding, with commenters comparing it favorably to Opus 4.7.",
+  "thing_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+  "times_seen": 1,
+  "why_included": "It drew strong local-run and benchmark chatter, making it the clearest open-model pickup of the day."
+}

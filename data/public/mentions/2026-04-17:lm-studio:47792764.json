@@ -1,0 +1,12 @@
+{
+  "evidence": "A Qwen commenter said they were running the model on their laptop in LM Studio.",
+  "hn_url": "https://news.ycombinator.com/item?id=47792764",
+  "id": "2026-04-17:lm-studio:47792764",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "lm-studio",
+  "rank": 2,
+  "seen_at": "2026-04-17T01:28:36Z",
+  "source_story_id": "47792764",
+  "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all"
+}

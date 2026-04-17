@@ -1,0 +1,12 @@
+{
+  "evidence": "A CodeBurn commenter said they have Claude write plans before every coding session, and another said they had a fun Claude Code experience driving a Bluetooth device.",
+  "hn_url": "https://news.ycombinator.com/item?id=47759035",
+  "id": "2026-04-17:claude-code:47759035",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "claude-code",
+  "rank": 7,
+  "seen_at": "2026-04-17T01:28:36Z",
+  "source_story_id": "47759035",
+  "source_story_title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task"
+}

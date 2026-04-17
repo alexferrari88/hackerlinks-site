@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "tree-sitter",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:tree-sitter:47799573",
+  "mention_ids": [
+    "2026-04-17:tree-sitter:47799573"
+  ],
+  "name": "Tree-sitter",
+  "slug": "tree-sitter",
+  "summary": "Incremental parsing library that powers richer editor intelligence across languages.",
+  "thing_url": "https://tree-sitter.github.io/",
+  "times_seen": 1,
+  "why_included": "The thread drew explicit praise for the project's broad utility and engineering quality."
+}

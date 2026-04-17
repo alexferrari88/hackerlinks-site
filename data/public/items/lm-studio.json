@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "lm-studio",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:lm-studio:47792764",
+  "mention_ids": [
+    "2026-04-17:lm-studio:47792764"
+  ],
+  "name": "LM Studio",
+  "slug": "lm-studio",
+  "summary": "Local AI desktop app for running models privately on your own machine.",
+  "thing_url": "https://lmstudio.ai/",
+  "times_seen": 1,
+  "why_included": "It surfaced as the practical way commenters were actually running the new Qwen model locally."
+}

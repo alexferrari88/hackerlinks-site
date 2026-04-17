@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "playdate",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:playdate:47798176",
+  "mention_ids": [
+    "2026-04-17:playdate:47798176"
+  ],
+  "name": "Playdate",
+  "slug": "playdate",
+  "summary": "Panic's quirky handheld game console, now being used in a game-design classroom.",
+  "thing_url": "https://play.date/",
+  "times_seen": 1,
+  "why_included": "The discussion mixed hands-on praise with real product tradeoffs and classroom use."
+}

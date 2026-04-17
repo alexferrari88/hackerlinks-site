@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T01:28:36Z",
+  "headline": "11 interesting things surfaced from HN on 2026-04-17",
+  "id": "2026-04-17",
+  "mention_ids": [
+    "2026-04-17:qwen3-6-35b-a3b:47792764",
+    "2026-04-17:lm-studio:47792764",
+    "2026-04-17:unsloth:47792764",
+    "2026-04-17:android-cli:47797665",
+    "2026-04-17:kampala:47794514",
+    "2026-04-17:artifacts:47792374",
+    "2026-04-17:claude-code:47759035",
+    "2026-04-17:codeburn:47759035",
+    "2026-04-17:tree-sitter:47799573",
+    "2026-04-17:macmind:47792525",
+    "2026-04-17:playdate:47798176"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

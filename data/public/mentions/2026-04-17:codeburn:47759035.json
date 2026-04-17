@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters called it cool, liked the terminal UI approach, and suggested adding inefficiency detection.",
+  "hn_url": "https://news.ycombinator.com/item?id=47759035",
+  "id": "2026-04-17:codeburn:47759035",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "codeburn",
+  "rank": 8,
+  "seen_at": "2026-04-17T01:28:36Z",
+  "source_story_id": "47759035",
+  "source_story_title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task"
+}

@@ -211,6 +211,72 @@
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
       "times_reported": 1
+    },
+    {
+      "name": "Qwen3.6-35B-A3B",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "LM Studio",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Unsloth",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Android CLI",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kampala",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Artifacts",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Claude Code",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CodeBurn",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Tree-sitter",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MacMind",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Playdate",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "claude-code",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:claude-code:47759035",
+  "mention_ids": [
+    "2026-04-17:claude-code:47759035"
+  ],
+  "name": "Claude Code",
+  "slug": "claude-code",
+  "summary": "Anthropic's agentic coding system for terminal and web workflows.",
+  "thing_url": "https://www.anthropic.com/product/claude-code",
+  "times_seen": 1,
+  "why_included": "It kept surfacing as the coding agent people are actually using in the wild."
+}

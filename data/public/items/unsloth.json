@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "unsloth",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:unsloth:47792764",
+  "mention_ids": [
+    "2026-04-17:unsloth:47792764"
+  ],
+  "name": "Unsloth",
+  "slug": "unsloth",
+  "summary": "Open-source tooling for quantizing and running models locally.",
+  "thing_url": "https://unsloth.ai/",
+  "times_seen": 1,
+  "why_included": "It was singled out as the tool that made the new Qwen release easy to use locally."
+}

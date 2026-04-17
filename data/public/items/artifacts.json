@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "artifacts",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:artifacts:47792374",
+  "mention_ids": [
+    "2026-04-17:artifacts:47792374"
+  ],
+  "name": "Artifacts",
+  "slug": "artifacts",
+  "summary": "Cloudflare's Git-flavored versioned storage for agent artifacts.",
+  "thing_url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+  "times_seen": 1,
+  "why_included": "The discussion focused on real tradeoffs like backend compatibility, batching, and storage costs."
+}

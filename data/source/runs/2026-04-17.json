@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "run_date": "2026-04-17",
+  "generated_at": "2026-04-17T01:28:36Z",
+  "summary": "Broad HN scout pass highlighting agentic coding, local model tooling, and a few retro/education gems.",
+  "items": [
+    {
+      "category": "AI & Local Models",
+      "name": "Qwen3.6-35B-A3B",
+      "thing_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "hn_url": "https://news.ycombinator.com/item?id=47792764",
+      "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "summary": "Open-weight 35B model aimed at agentic coding, with commenters comparing it favorably to Opus 4.7.",
+      "why_included": "It drew strong local-run and benchmark chatter, making it the clearest open-model pickup of the day.",
+      "evidence": "A commenter said they were running it on a laptop in LM Studio and that it drew a better pelican than Opus 4.7; others praised the Qwen team for still shipping open weights."
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "LM Studio",
+      "thing_url": "https://lmstudio.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47792764",
+      "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "summary": "Local AI desktop app for running models privately on your own machine.",
+      "why_included": "It surfaced as the practical way commenters were actually running the new Qwen model locally.",
+      "evidence": "A Qwen commenter said they were running the model on their laptop in LM Studio."
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "Unsloth",
+      "thing_url": "https://unsloth.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47792764",
+      "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "summary": "Open-source tooling for quantizing and running models locally.",
+      "why_included": "It was singled out as the tool that made the new Qwen release easy to use locally.",
+      "evidence": "A commenter noted that Qwen was already quantized and converted into a sane format by Unsloth."
+    },
+    {
+      "category": "Dev Tools & Agent Workflows",
+      "name": "Android CLI",
+      "thing_url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47797665",
+      "source_story_title": "Android CLI: Build Android apps 3x faster using any agent",
+      "summary": "Google's CLI for building Android apps faster with agents.",
+      "why_included": "Commenters immediately mapped it to real workflows and asked for the same thing on Apple.",
+      "evidence": "People asked how to use it with Claude Code, praised the promise of proper requirements and flexible tooling, and one wished Apple had an equivalent."
+    },
+    {
+      "category": "Dev Tools & Agent Workflows",
+      "name": "Kampala",
+      "thing_url": "https://www.zatanna.ai/kampala",
+      "hn_url": "https://news.ycombinator.com/item?id=47794514",
+      "source_story_title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "summary": "Tool for reverse-engineering web apps into APIs and OpenAPI specs.",
+      "why_included": "The comments showed concrete agent workflows around SPA scraping, HAR analysis, and API extraction.",
+      "evidence": "Commenters described using it to connect Claude Code to third-party web apps and to analyze HAR files into OpenAPI specs; others asked about SSL pinning."
+    },
+    {
+      "category": "Dev Tools & Agent Workflows",
+      "name": "Artifacts",
+      "thing_url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "hn_url": "https://news.ycombinator.com/item?id=47792374",
+      "source_story_title": "Artifacts: Versioned storage that speaks Git",
+      "summary": "Cloudflare's Git-flavored versioned storage for agent artifacts.",
+      "why_included": "The discussion focused on real tradeoffs like backend compatibility, batching, and storage costs.",
+      "evidence": "Commenters liked the ArtifactFS demos, wanted an S3-compatible backend, and noted the PUT/POST cost difference versus S3."
+    },
+    {
+      "category": "Dev Tools & Agent Workflows",
+      "name": "Claude Code",
+      "thing_url": "https://www.anthropic.com/product/claude-code",
+      "hn_url": "https://news.ycombinator.com/item?id=47759035",
+      "source_story_title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+      "summary": "Anthropic's agentic coding system for terminal and web workflows.",
+      "why_included": "It kept surfacing as the coding agent people are actually using in the wild.",
+      "evidence": "A CodeBurn commenter said they have Claude write plans before every coding session, and another said they had a fun Claude Code experience driving a Bluetooth device."
+    },
+    {
+      "category": "Dev Tools & Agent Workflows",
+      "name": "CodeBurn",
+      "thing_url": "https://github.com/AgentSeal/codeburn",
+      "hn_url": "https://news.ycombinator.com/item?id=47759035",
+      "source_story_title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+      "summary": "Small tool for analyzing Claude Code token usage by task.",
+      "why_included": "People immediately saw the value in visibility and started discussing next-step analytics.",
+      "evidence": "Commenters called it cool, liked the terminal UI approach, and suggested adding inefficiency detection."
+    },
+    {
+      "category": "Languages, Retro & Media",
+      "name": "Tree-sitter",
+      "thing_url": "https://tree-sitter.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=47799573",
+      "source_story_title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "summary": "Incremental parsing library that powers richer editor intelligence across languages.",
+      "why_included": "The thread drew explicit praise for the project's broad utility and engineering quality.",
+      "evidence": "A commenter called Tree-sitter one of the finer engineering products out there and said it enables so much."
+    },
+    {
+      "category": "Languages, Retro & Media",
+      "name": "MacMind",
+      "thing_url": "https://github.com/SeanFDZ/macmind",
+      "hn_url": "https://news.ycombinator.com/item?id=47792525",
+      "source_story_title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "summary": "HyperCard demo of a transformer neural net running on a 1989 Macintosh.",
+      "why_included": "Retro AI-on-old-hardware is exactly the kind of delightful constraint play HN latches onto.",
+      "evidence": "Commenters called it quietly impressive, loved the old-HyperCard feel, and said it reminded them of early backprop days."
+    },
+    {
+      "category": "Languages, Retro & Media",
+      "name": "Playdate",
+      "thing_url": "https://play.date/",
+      "hn_url": "https://news.ycombinator.com/item?id=47798176",
+      "source_story_title": "Playdate’s handheld changed how Duke University teaches game design",
+      "summary": "Panic's quirky handheld game console, now being used in a game-design classroom.",
+      "why_included": "The discussion mixed hands-on praise with real product tradeoffs and classroom use.",
+      "evidence": "A commenter said the developer experience has been fantastic, while others debated the lack of backlight and the price."
+    }
+  ]
+}

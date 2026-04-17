@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "android-cli",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:android-cli:47797665",
+  "mention_ids": [
+    "2026-04-17:android-cli:47797665"
+  ],
+  "name": "Android CLI",
+  "slug": "android-cli",
+  "summary": "Google's CLI for building Android apps faster with agents.",
+  "thing_url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+  "times_seen": 1,
+  "why_included": "Commenters immediately mapped it to real workflows and asked for the same thing on Apple."
+}

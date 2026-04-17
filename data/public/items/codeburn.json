@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T01:28:36Z",
+  "id": "codeburn",
+  "last_seen_at": "2026-04-17T01:28:36Z",
+  "latest_mention_id": "2026-04-17:codeburn:47759035",
+  "mention_ids": [
+    "2026-04-17:codeburn:47759035"
+  ],
+  "name": "CodeBurn",
+  "slug": "codeburn",
+  "summary": "Small tool for analyzing Claude Code token usage by task.",
+  "thing_url": "https://github.com/AgentSeal/codeburn",
+  "times_seen": 1,
+  "why_included": "People immediately saw the value in visibility and started discussing next-step analytics."
+}

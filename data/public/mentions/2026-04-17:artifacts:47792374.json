@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters liked the ArtifactFS demos, wanted an S3-compatible backend, and noted the PUT/POST cost difference versus S3.",
+  "hn_url": "https://news.ycombinator.com/item?id=47792374",
+  "id": "2026-04-17:artifacts:47792374",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "artifacts",
+  "rank": 6,
+  "seen_at": "2026-04-17T01:28:36Z",
+  "source_story_id": "47792374",
+  "source_story_title": "Artifacts: Versioned storage that speaks Git"
+}

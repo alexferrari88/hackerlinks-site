@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters described using it to connect Claude Code to third-party web apps and to analyze HAR files into OpenAPI specs; others asked about SSL pinning.",
+  "hn_url": "https://news.ycombinator.com/item?id=47794514",
+  "id": "2026-04-17:kampala:47794514",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "kampala",
+  "rank": 5,
+  "seen_at": "2026-04-17T01:28:36Z",
+  "source_story_id": "47794514",
+  "source_story_title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs"
+}
