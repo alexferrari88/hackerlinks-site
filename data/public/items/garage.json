@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "garage",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:garage:47806348",
+  "mention_ids": [
+    "2026-04-17:garage:47806348"
+  ],
+  "name": "Garage",
+  "slug": "garage",
+  "summary": "Open-source, self-hosted S3-compatible object storage recommended in the Healthchecks discussion.",
+  "thing_url": "https://garagehq.deuxfleurs.fr",
+  "times_seen": 1,
+  "why_included": "It was a concrete infrastructure recommendation people could adopt immediately."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "The founder described it as a Docker replacement with Firecracker-inspired isolation, and commenters praised the comparison table, self-contained binary packaging, and overall design.",
+  "hn_url": "https://news.ycombinator.com/item?id=47808268",
+  "id": "2026-04-17:smol-machines:47808268",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "smol-machines",
+  "rank": 2,
+  "seen_at": "2026-04-17T21:19:50Z",
+  "source_story_id": "47808268",
+  "source_story_title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines"
+}

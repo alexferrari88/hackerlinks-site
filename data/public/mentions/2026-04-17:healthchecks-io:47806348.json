@@ -1,0 +1,12 @@
+{
+  "evidence": "Users called Healthchecks.io fantastic, praised the one-person two-drive rsync setup, and pointed to Garage and Versity S3 as viable self-hosted storage options.",
+  "hn_url": "https://news.ycombinator.com/item?id=47806348",
+  "id": "2026-04-17:healthchecks-io:47806348",
+  "is_repeat": false,
+  "issue_id": "2026-04-17",
+  "item_id": "healthchecks-io",
+  "rank": 3,
+  "seen_at": "2026-04-17T21:19:50Z",
+  "source_story_id": "47806348",
+  "source_story_title": "Healthchecks.io now uses self-hosted object storage"
+}

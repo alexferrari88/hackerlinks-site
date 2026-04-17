@@ -1,118 +1,82 @@
 {
-  "version": 2,
+  "version": 1,
   "run_date": "2026-04-17",
-  "generated_at": "2026-04-17T01:28:36Z",
-  "summary": "Broad HN scout pass highlighting agentic coding, local model tooling, and a few retro/education gems.",
+  "generated_at": "2026-04-17T21:19:50Z",
+  "summary": {
+    "stories_attempted": 22,
+    "items_reported": 7,
+    "notes": "Broad serendipity scan of HN comment recommendations; deduped against ~/.hermes/hn-scout/product-history.json."
+  },
   "items": [
     {
-      "category": "AI & Local Models",
-      "name": "Qwen3.6-35B-A3B",
-      "thing_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "hn_url": "https://news.ycombinator.com/item?id=47792764",
-      "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "summary": "Open-weight 35B model aimed at agentic coding, with commenters comparing it favorably to Opus 4.7.",
-      "why_included": "It drew strong local-run and benchmark chatter, making it the clearest open-model pickup of the day.",
-      "evidence": "A commenter said they were running it on a laptop in LM Studio and that it drew a better pelican than Opus 4.7; others praised the Qwen team for still shipping open weights."
+      "category": "🤖 AI & Local Models",
+      "name": "Claude Design",
+      "thing_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "hn_url": "https://news.ycombinator.com/item?id=47806725",
+      "source_story_title": "Claude Design",
+      "summary": "Anthropic's design-generation feature that turns prompts into mockups and layouts.",
+      "why_included": "Commenters treated it as a genuinely useful way to communicate intent quickly, not just a novelty demo.",
+      "evidence": "Agency users said it can replace long reference-hunting and 45-minute calls by producing a usable mockup in about 30 seconds, though several noted it still will not replace Figma."
     },
     {
-      "category": "AI & Local Models",
-      "name": "LM Studio",
-      "thing_url": "https://lmstudio.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=47792764",
-      "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "summary": "Local AI desktop app for running models privately on your own machine.",
-      "why_included": "It surfaced as the practical way commenters were actually running the new Qwen model locally.",
-      "evidence": "A Qwen commenter said they were running the model on their laptop in LM Studio."
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Smol machines",
+      "thing_url": "https://github.com/smol-machines/smolvm",
+      "hn_url": "https://news.ycombinator.com/item?id=47808268",
+      "source_story_title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "summary": "Portable VMs with container-like ergonomics and subsecond cold starts.",
+      "why_included": "The thread read like an enthusiastic early-adopter discussion of a genuinely new runtime and packaging approach.",
+      "evidence": "The founder described it as a Docker replacement with Firecracker-inspired isolation, and commenters praised the comparison table, self-contained binary packaging, and overall design."
     },
     {
-      "category": "AI & Local Models",
-      "name": "Unsloth",
-      "thing_url": "https://unsloth.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=47792764",
-      "source_story_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "summary": "Open-source tooling for quantizing and running models locally.",
-      "why_included": "It was singled out as the tool that made the new Qwen release easy to use locally.",
-      "evidence": "A commenter noted that Qwen was already quantized and converted into a sane format by Unsloth."
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Healthchecks.io",
+      "thing_url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+      "hn_url": "https://news.ycombinator.com/item?id=47806348",
+      "source_story_title": "Healthchecks.io now uses self-hosted object storage",
+      "summary": "A long-running monitoring service moved to self-hosted object storage to keep infrastructure simple.",
+      "why_included": "The discussion highlighted a pragmatic, low-drama backend choice that other self-hosters can copy.",
+      "evidence": "Users called Healthchecks.io fantastic, praised the one-person two-drive rsync setup, and pointed to Garage and Versity S3 as viable self-hosted storage options."
     },
     {
-      "category": "Dev Tools & Agent Workflows",
-      "name": "Android CLI",
-      "thing_url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "hn_url": "https://news.ycombinator.com/item?id=47797665",
-      "source_story_title": "Android CLI: Build Android apps 3x faster using any agent",
-      "summary": "Google's CLI for building Android apps faster with agents.",
-      "why_included": "Commenters immediately mapped it to real workflows and asked for the same thing on Apple.",
-      "evidence": "People asked how to use it with Claude Code, praised the promise of proper requirements and flexible tooling, and one wished Apple had an equivalent."
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Garage",
+      "thing_url": "https://garagehq.deuxfleurs.fr",
+      "hn_url": "https://news.ycombinator.com/item?id=47806348",
+      "source_story_title": "Healthchecks.io now uses self-hosted object storage",
+      "summary": "Open-source, self-hosted S3-compatible object storage recommended in the Healthchecks discussion.",
+      "why_included": "It was a concrete infrastructure recommendation people could adopt immediately.",
+      "evidence": "A commenter explicitly told S3 self-hosters to check out Garage and linked the project as a viable alternative."
     },
     {
-      "category": "Dev Tools & Agent Workflows",
-      "name": "Kampala",
-      "thing_url": "https://www.zatanna.ai/kampala",
-      "hn_url": "https://news.ycombinator.com/item?id=47794514",
-      "source_story_title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-      "summary": "Tool for reverse-engineering web apps into APIs and OpenAPI specs.",
-      "why_included": "The comments showed concrete agent workflows around SPA scraping, HAR analysis, and API extraction.",
-      "evidence": "Commenters described using it to connect Claude Code to third-party web apps and to analyze HAR files into OpenAPI specs; others asked about SSL pinning."
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "PanicLock",
+      "thing_url": "https://github.com/paniclock/paniclock/",
+      "hn_url": "https://news.ycombinator.com/item?id=47807809",
+      "source_story_title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "summary": "A small macOS utility that disables Touch ID after lid close so password unlock is required.",
+      "why_included": "Commenters saw it as a real security and privacy workflow, not a gimmick.",
+      "evidence": "People called it a great idea and a 2026 version of a boss key; one comment said it solves the discomfort of typing passwords in public."
     },
     {
-      "category": "Dev Tools & Agent Workflows",
-      "name": "Artifacts",
-      "thing_url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "hn_url": "https://news.ycombinator.com/item?id=47792374",
-      "source_story_title": "Artifacts: Versioned storage that speaks Git",
-      "summary": "Cloudflare's Git-flavored versioned storage for agent artifacts.",
-      "why_included": "The discussion focused on real tradeoffs like backend compatibility, batching, and storage costs.",
-      "evidence": "Commenters liked the ArtifactFS demos, wanted an S3-compatible backend, and noted the PUT/POST cost difference versus S3."
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Stage",
+      "thing_url": "https://stagereview.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=47796818",
+      "source_story_title": "Show HN: Stage – Putting humans back in control of code review",
+      "summary": "An AI-assisted code review app that keeps humans in the loop while summarizing changes.",
+      "why_included": "The thread connected directly to a real pain point in AI-assisted dev workflows.",
+      "evidence": "Commenters compared it with devon.ai and ReviewStack, debated whether local tools beat SaaS, and said they still wanted the code itself more than another AI summary."
     },
     {
-      "category": "Dev Tools & Agent Workflows",
-      "name": "Claude Code",
-      "thing_url": "https://www.anthropic.com/product/claude-code",
-      "hn_url": "https://news.ycombinator.com/item?id=47759035",
-      "source_story_title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
-      "summary": "Anthropic's agentic coding system for terminal and web workflows.",
-      "why_included": "It kept surfacing as the coding agent people are actually using in the wild.",
-      "evidence": "A CodeBurn commenter said they have Claude write plans before every coding session, and another said they had a fun Claude Code experience driving a Bluetooth device."
-    },
-    {
-      "category": "Dev Tools & Agent Workflows",
-      "name": "CodeBurn",
-      "thing_url": "https://github.com/AgentSeal/codeburn",
-      "hn_url": "https://news.ycombinator.com/item?id=47759035",
-      "source_story_title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
-      "summary": "Small tool for analyzing Claude Code token usage by task.",
-      "why_included": "People immediately saw the value in visibility and started discussing next-step analytics.",
-      "evidence": "Commenters called it cool, liked the terminal UI approach, and suggested adding inefficiency detection."
-    },
-    {
-      "category": "Languages, Retro & Media",
-      "name": "Tree-sitter",
-      "thing_url": "https://tree-sitter.github.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=47799573",
-      "source_story_title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "summary": "Incremental parsing library that powers richer editor intelligence across languages.",
-      "why_included": "The thread drew explicit praise for the project's broad utility and engineering quality.",
-      "evidence": "A commenter called Tree-sitter one of the finer engineering products out there and said it enables so much."
-    },
-    {
-      "category": "Languages, Retro & Media",
-      "name": "MacMind",
-      "thing_url": "https://github.com/SeanFDZ/macmind",
-      "hn_url": "https://news.ycombinator.com/item?id=47792525",
-      "source_story_title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "summary": "HyperCard demo of a transformer neural net running on a 1989 Macintosh.",
-      "why_included": "Retro AI-on-old-hardware is exactly the kind of delightful constraint play HN latches onto.",
-      "evidence": "Commenters called it quietly impressive, loved the old-HyperCard feel, and said it reminded them of early backprop days."
-    },
-    {
-      "category": "Languages, Retro & Media",
-      "name": "Playdate",
-      "thing_url": "https://play.date/",
-      "hn_url": "https://news.ycombinator.com/item?id=47798176",
-      "source_story_title": "Playdate’s handheld changed how Duke University teaches game design",
-      "summary": "Panic's quirky handheld game console, now being used in a game-design classroom.",
-      "why_included": "The discussion mixed hands-on praise with real product tradeoffs and classroom use.",
-      "evidence": "A commenter said the developer experience has been fantastic, while others debated the lack of backlight and the price."
+      "category": "🕹️ Hardware & Retro",
+      "name": "NeoGeo AES+",
+      "thing_url": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47808770",
+      "source_story_title": "NeoGeo AES+: SNK announces reissue of retro console without emulation",
+      "summary": "SNK is reissuing the Neo Geo AES without emulation, reviving a classic cartridge-based console.",
+      "why_included": "It drew the kind of hardware nostalgia and technical scrutiny that makes retro launches worth surfacing.",
+      "evidence": "Commenters called it extremely cool, discussed cartridge pricing versus the used market, and compared the approach with FPGA alternatives like MISTerFPGA."
     }
   ]
 }

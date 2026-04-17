@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "smol-machines",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:smol-machines:47808268",
+  "mention_ids": [
+    "2026-04-17:smol-machines:47808268"
+  ],
+  "name": "Smol machines",
+  "slug": "smol-machines",
+  "summary": "Portable VMs with container-like ergonomics and subsecond cold starts.",
+  "thing_url": "https://github.com/smol-machines/smolvm",
+  "times_seen": 1,
+  "why_included": "The thread read like an enthusiastic early-adopter discussion of a genuinely new runtime and packaging approach."
+}

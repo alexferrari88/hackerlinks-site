@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "healthchecks-io",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:healthchecks-io:47806348",
+  "mention_ids": [
+    "2026-04-17:healthchecks-io:47806348"
+  ],
+  "name": "Healthchecks.io",
+  "slug": "healthchecks-io",
+  "summary": "A long-running monitoring service moved to self-hosted object storage to keep infrastructure simple.",
+  "thing_url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+  "times_seen": 1,
+  "why_included": "The discussion highlighted a pragmatic, low-drama backend choice that other self-hosters can copy."
+}

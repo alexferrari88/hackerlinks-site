@@ -1,23 +1,19 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T01:28:36Z",
-  "headline": "11 interesting things surfaced from HN on 2026-04-17",
+  "generated_at": "2026-04-17T21:19:50Z",
+  "headline": "7 interesting things surfaced from HN on 2026-04-17",
   "id": "2026-04-17",
   "mention_ids": [
-    "2026-04-17:qwen3-6-35b-a3b:47792764",
-    "2026-04-17:lm-studio:47792764",
-    "2026-04-17:unsloth:47792764",
-    "2026-04-17:android-cli:47797665",
-    "2026-04-17:kampala:47794514",
-    "2026-04-17:artifacts:47792374",
-    "2026-04-17:claude-code:47759035",
-    "2026-04-17:codeburn:47759035",
-    "2026-04-17:tree-sitter:47799573",
-    "2026-04-17:macmind:47792525",
-    "2026-04-17:playdate:47798176"
+    "2026-04-17:claude-design:47806725",
+    "2026-04-17:smol-machines:47808268",
+    "2026-04-17:healthchecks-io:47806348",
+    "2026-04-17:garage:47806348",
+    "2026-04-17:paniclock:47807809",
+    "2026-04-17:stage:47796818",
+    "2026-04-17:neogeo-aes:47808770"
   ],
   "summary": {
-    "items_surfaced": 11,
+    "items_surfaced": 7,
     "stories_attempted": null,
     "stories_processed": null
   }

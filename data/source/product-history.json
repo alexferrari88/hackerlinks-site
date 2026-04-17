@@ -277,6 +277,48 @@
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
       "times_reported": 1
+    },
+    {
+      "name": "Claude Design",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Smol machines",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Healthchecks.io",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Garage",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "PanicLock",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Stage",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NeoGeo AES+",
+      "first_reported_at": "2026-04-17T21:19:50Z",
+      "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
     }
   ]
 }

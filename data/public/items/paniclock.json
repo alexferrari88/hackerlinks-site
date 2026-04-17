@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "paniclock",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:paniclock:47807809",
+  "mention_ids": [
+    "2026-04-17:paniclock:47807809"
+  ],
+  "name": "PanicLock",
+  "slug": "paniclock",
+  "summary": "A small macOS utility that disables Touch ID after lid close so password unlock is required.",
+  "thing_url": "https://github.com/paniclock/paniclock/",
+  "times_seen": 1,
+  "why_included": "Commenters saw it as a real security and privacy workflow, not a gimmick."
+}

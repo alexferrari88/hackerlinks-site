@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "stage",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:stage:47796818",
+  "mention_ids": [
+    "2026-04-17:stage:47796818"
+  ],
+  "name": "Stage",
+  "slug": "stage",
+  "summary": "An AI-assisted code review app that keeps humans in the loop while summarizing changes.",
+  "thing_url": "https://stagereview.app/",
+  "times_seen": 1,
+  "why_included": "The thread connected directly to a real pain point in AI-assisted dev workflows."
+}

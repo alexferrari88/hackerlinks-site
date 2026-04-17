@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "neogeo-aes",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:neogeo-aes:47808770",
+  "mention_ids": [
+    "2026-04-17:neogeo-aes:47808770"
+  ],
+  "name": "NeoGeo AES+",
+  "slug": "neogeo-aes",
+  "summary": "SNK is reissuing the Neo Geo AES without emulation, reviving a classic cartridge-based console.",
+  "thing_url": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html",
+  "times_seen": 1,
+  "why_included": "It drew the kind of hardware nostalgia and technical scrutiny that makes retro launches worth surfacing."
+}

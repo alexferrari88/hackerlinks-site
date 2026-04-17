@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-17T21:19:50Z",
+  "id": "claude-design",
+  "last_seen_at": "2026-04-17T21:19:50Z",
+  "latest_mention_id": "2026-04-17:claude-design:47806725",
+  "mention_ids": [
+    "2026-04-17:claude-design:47806725"
+  ],
+  "name": "Claude Design",
+  "slug": "claude-design",
+  "summary": "Anthropic's design-generation feature that turns prompts into mockups and layouts.",
+  "thing_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a genuinely useful way to communicate intent quickly, not just a novelty demo."
+}
