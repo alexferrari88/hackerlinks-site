@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "marp",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:marp:47816629",
+  "mention_ids": [
+    "2026-04-18:marp:47816629"
+  ],
+  "name": "Marp",
+  "slug": "marp",
+  "summary": "A simple Markdown-to-slides tool with self-hostable HTML/PDF output that commenters already use in practice.",
+  "thing_url": "https://marp.app/",
+  "times_seen": 1,
+  "why_included": "It was the most directly recommended slide-generation alternative in the MDV discussion."
+}

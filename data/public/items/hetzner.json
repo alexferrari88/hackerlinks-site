@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "hetzner",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:hetzner:47815774",
+  "mention_ids": [
+    "2026-04-18:hetzner:47815774"
+  ],
+  "name": "Hetzner",
+  "slug": "hetzner",
+  "summary": "A lower-cost hosting provider that people described as a good migration target from DO and Linode.",
+  "thing_url": "https://www.hetzner.com/",
+  "times_seen": 1,
+  "why_included": "The thread surfaced direct migration experience and savings, making it a useful infra recommendation."
+}

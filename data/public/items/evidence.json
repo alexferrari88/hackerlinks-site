@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "evidence",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:evidence:47816629",
+  "mention_ids": [
+    "2026-04-18:evidence:47816629"
+  ],
+  "name": "Evidence",
+  "slug": "evidence",
+  "summary": "A Markdown + ClickHouse BI/dashboarding tool that commenters highlighted as easy for both models and humans to work with.",
+  "thing_url": "https://www.evidence.dev/",
+  "times_seen": 1,
+  "why_included": "It came up as a concrete, battle-tested alternative in the MDV thread."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "mdv",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:mdv:47816629",
+  "mention_ids": [
+    "2026-04-18:mdv:47816629"
+  ],
+  "name": "MDV",
+  "slug": "mdv",
+  "summary": "A Markdown superset for docs, dashboards, and slides that HN readers compared to other Markdown-powered publishing tools.",
+  "thing_url": "https://github.com/drasimwagan/mdv",
+  "times_seen": 1,
+  "why_included": "The thread surfaced several concrete adjacent tools, signaling real interest in the space."
+}

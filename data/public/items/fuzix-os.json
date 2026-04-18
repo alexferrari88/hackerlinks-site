@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "fuzix-os",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:fuzix-os:47816625",
+  "mention_ids": [
+    "2026-04-18:fuzix-os:47816625"
+  ],
+  "name": "Fuzix OS",
+  "slug": "fuzix-os",
+  "summary": "A micro-Unix aimed at old and resource-constrained systems.",
+  "thing_url": "https://www.fuzix.org/",
+  "times_seen": 1,
+  "why_included": "Commenters saw room for it on very small hardware and said it keeps making steady progress."
+}

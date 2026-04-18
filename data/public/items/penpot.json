@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "penpot",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:penpot:47818700",
+  "mention_ids": [
+    "2026-04-18:penpot:47818700"
+  ],
+  "name": "Penpot",
+  "slug": "penpot",
+  "summary": "A design tool commenters thought fits the agentic era because it treats designs as markup instead of opaque canvas state.",
+  "thing_url": "https://penpot.app",
+  "times_seen": 1,
+  "why_included": "It was named directly as a promising alternative in the Claude Design discussion."
+}

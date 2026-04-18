@@ -319,6 +319,66 @@
       "first_reported_at": "2026-04-17T21:19:50Z",
       "last_reported_at": "2026-04-17T21:19:50Z",
       "times_reported": 1
+    },
+    {
+      "name": "Penpot",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MDV",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "sdocs.dev",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Evidence",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Marp",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Djot",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Hetzner",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Fuzix OS",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Interval Calculator",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kdenlive",
+      "first_reported_at": "2026-04-18T21:11:46Z",
+      "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
     }
   ]
 }

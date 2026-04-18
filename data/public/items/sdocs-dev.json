@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "sdocs-dev",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:sdocs-dev:47816629",
+  "mention_ids": [
+    "2026-04-18:sdocs-dev:47816629"
+  ],
+  "name": "sdocs.dev",
+  "slug": "sdocs-dev",
+  "summary": "A similar CLI + web Markdown publishing tool that got a shout-out in the MDV discussion.",
+  "thing_url": "https://sdocs.dev",
+  "times_seen": 1,
+  "why_included": "It was surfaced as a real-world adjacent solution by a commenter building comparable tooling."
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T21:11:46Z",
+  "headline": "10 interesting things surfaced from HN on 2026-04-18",
+  "id": "2026-04-18",
+  "mention_ids": [
+    "2026-04-18:penpot:47818700",
+    "2026-04-18:mdv:47816629",
+    "2026-04-18:sdocs-dev:47816629",
+    "2026-04-18:evidence:47816629",
+    "2026-04-18:marp:47816629",
+    "2026-04-18:djot:47816629",
+    "2026-04-18:hetzner:47815774",
+    "2026-04-18:fuzix-os:47816625",
+    "2026-04-18:interval-calculator:47812341",
+    "2026-04-18:kdenlive:47815118"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

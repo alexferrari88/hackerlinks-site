@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "interval-calculator",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:interval-calculator:47812341",
+  "mention_ids": [
+    "2026-04-18:interval-calculator:47812341"
+  ],
+  "name": "Interval Calculator",
+  "slug": "interval-calculator",
+  "summary": "A calculator for interval arithmetic over disjoint sets that tries to preserve the inclusion property.",
+  "thing_url": "https://victorpoughon.github.io/interval-calculator/",
+  "times_seen": 1,
+  "why_included": "Commenters liked the math angle and suggested related interval-visualization tools."
+}

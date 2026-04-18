@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-18T21:11:46Z",
+  "id": "djot",
+  "last_seen_at": "2026-04-18T21:11:46Z",
+  "latest_mention_id": "2026-04-18:djot:47816629",
+  "mention_ids": [
+    "2026-04-18:djot:47816629"
+  ],
+  "name": "Djot",
+  "slug": "djot",
+  "summary": "A clean Markdown superset that commenters described as a well-designed extension path for richer document syntax.",
+  "thing_url": "https://djot.net/",
+  "times_seen": 1,
+  "why_included": "It was praised as an extensible alternative alongside the Show HN itself."
+}

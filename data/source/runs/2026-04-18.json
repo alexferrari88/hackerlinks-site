@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "run_date": "2026-04-18",
+  "generated_at": "2026-04-18T21:11:46Z",
+  "summary": "10 novel product mentions surfaced from 21 scraped stories, filtered against the 90-day history.",
+  "items": [
+    {
+      "name": "Penpot",
+      "thing_url": "https://penpot.app",
+      "hn_url": "https://news.ycombinator.com/item?id=47818700",
+      "source_story_title": "Thoughts and feelings around Claude Design",
+      "category": "Design & Prototyping",
+      "summary": "A design tool commenters thought fits the agentic era because it treats designs as markup instead of opaque canvas state.",
+      "why_included": "It was named directly as a promising alternative in the Claude Design discussion.",
+      "evidence": "A commenter said PenPot might be sitting pretty in this new agentic era because it uses designs as actual markup rather than a pure canvas model."
+    },
+    {
+      "name": "MDV",
+      "thing_url": "https://github.com/drasimwagan/mdv",
+      "hn_url": "https://news.ycombinator.com/item?id=47816629",
+      "source_story_title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "category": "Dev Tools & Workflows",
+      "summary": "A Markdown superset for docs, dashboards, and slides that HN readers compared to other Markdown-powered publishing tools.",
+      "why_included": "The thread surfaced several concrete adjacent tools, signaling real interest in the space.",
+      "evidence": "Commenters immediately compared it with Marp, Djot, Evidence, and a similar CLI/web solution, sdocs.dev."
+    },
+    {
+      "name": "sdocs.dev",
+      "thing_url": "https://sdocs.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=47816629",
+      "source_story_title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "category": "Dev Tools & Workflows",
+      "summary": "A similar CLI + web Markdown publishing tool that got a shout-out in the MDV discussion.",
+      "why_included": "It was surfaced as a real-world adjacent solution by a commenter building comparable tooling.",
+      "evidence": "One commenter said their own 'similar cli + web based solution' was sdocs.dev and linked it as a reference point."
+    },
+    {
+      "name": "Evidence",
+      "thing_url": "https://www.evidence.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47816629",
+      "source_story_title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "category": "Dev Tools & Workflows",
+      "summary": "A Markdown + ClickHouse BI/dashboarding tool that commenters highlighted as easy for both models and humans to work with.",
+      "why_included": "It came up as a concrete, battle-tested alternative in the MDV thread.",
+      "evidence": "A commenter said they work on Evidence, a dashboarding/BI solution built around Markdown and ClickHouse, and that models are good at writing it."
+    },
+    {
+      "name": "Marp",
+      "thing_url": "https://marp.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=47816629",
+      "source_story_title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "category": "Dev Tools & Workflows",
+      "summary": "A simple Markdown-to-slides tool with self-hostable HTML/PDF output that commenters already use in practice.",
+      "why_included": "It was the most directly recommended slide-generation alternative in the MDV discussion.",
+      "evidence": "A commenter said they often use Marp for Markdown slides and liked its mostly syntax-light approach plus HTML/PDF export."
+    },
+    {
+      "name": "Djot",
+      "thing_url": "https://djot.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=47816629",
+      "source_story_title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "category": "Dev Tools & Workflows",
+      "summary": "A clean Markdown superset that commenters described as a well-designed extension path for richer document syntax.",
+      "why_included": "It was praised as an extensible alternative alongside the Show HN itself.",
+      "evidence": "One commenter said they had been enjoying djot.net as a superset of Markdown with front matter, schemas, and code-fence metadata."
+    },
+    {
+      "name": "Hetzner",
+      "thing_url": "https://www.hetzner.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47815774",
+      "source_story_title": "Migrating from DigitalOcean to Hetzner",
+      "category": "Infra & Open Source",
+      "summary": "A lower-cost hosting provider that people described as a good migration target from DO and Linode.",
+      "why_included": "The thread surfaced direct migration experience and savings, making it a useful infra recommendation.",
+      "evidence": "One commenter said they moved two servers from Linode/DO to Hetzner and got similar savings."
+    },
+    {
+      "name": "Fuzix OS",
+      "thing_url": "https://www.fuzix.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47816625",
+      "source_story_title": "Fuzix OS",
+      "category": "Infra & Open Source",
+      "summary": "A micro-Unix aimed at old and resource-constrained systems.",
+      "why_included": "Commenters saw room for it on very small hardware and said it keeps making steady progress.",
+      "evidence": "A commenter said it may pop up on Raspberry Pi Picos and 8-bit micros even though the docs are rough."
+    },
+    {
+      "name": "Interval Calculator",
+      "thing_url": "https://victorpoughon.github.io/interval-calculator/",
+      "hn_url": "https://news.ycombinator.com/item?id=47812341",
+      "source_story_title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "category": "Dev Tools & Workflows",
+      "summary": "A calculator for interval arithmetic over disjoint sets that tries to preserve the inclusion property.",
+      "why_included": "Commenters liked the math angle and suggested related interval-visualization tools.",
+      "evidence": "The author explained the inclusion-property approach, and another commenter called it great while linking a related interval arithmetic graphing calculator."
+    },
+    {
+      "name": "Kdenlive",
+      "thing_url": "https://kdenlive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47815118",
+      "source_story_title": "State of Kdenlive",
+      "category": "Media & Creative Tools",
+      "summary": "A FOSS video editor that commenters said hits a sweet spot between basic editors and DaVinci Resolve.",
+      "why_included": "The thread had multiple strong endorsements from people using it in real production workflows.",
+      "evidence": "One commenter called Kdenlive the perfect sweet spot and said it pairs well with OBS and Audacity for a full FOSS media stack."
+    }
+  ]
+}
