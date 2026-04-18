@@ -19,9 +19,11 @@ The core product question is:
 
 ## Current posture
 
-This repo is now prepared for **Cloudflare Pages** deployment and remains **data-first**:
-- public deployment target: `https://hackerlinks.cc/`
-- current GitHub Pages setup can remain as fallback until Cloudflare cutover is complete
+This repo is now **live on Cloudflare Pages** and remains **data-first**:
+- public deployment: `https://hackerlinks.cc/`
+- Pages preview/origin: `https://hackerlinks.pages.dev/`
+- GitHub Actions direct-upload `dist/` to Cloudflare Pages on push to `main`
+- GitHub Pages has been detached from the custom domain and remains available only at the GitHub-owned fallback URL
 - no runtime scraping or AI calls happen in the website repo
 - the site reads only structured JSON checked into the repo
 - private HN scout artifacts are synced in from Alex's local Hermes environment, normalized by Python, then rendered by a static Next.js 16 export
@@ -117,4 +119,4 @@ Custom domain note:
 
 ## Immediate next implementation step
 
-Create the Cloudflare Pages project, add the 1 repo variable + 2 repo secrets, then move `hackerlinks.cc` nameservers to Cloudflare and attach the domain to the Pages project.
+Keep using the existing sync pipeline; pushes to `main` now rebuild and publish the site to Cloudflare Pages automatically.
