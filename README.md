@@ -19,8 +19,9 @@ The core product question is:
 
 ## Current posture
 
-This repo is now **live on GitHub Pages** and remains **data-first**:
-- public deployment: `https://hackerlinks.cc/`
+This repo is now prepared for **Cloudflare Pages** deployment and remains **data-first**:
+- public deployment target: `https://hackerlinks.cc/`
+- current GitHub Pages setup can remain as fallback until Cloudflare cutover is complete
 - no runtime scraping or AI calls happen in the website repo
 - the site reads only structured JSON checked into the repo
 - private HN scout artifacts are synced in from Alex's local Hermes environment, normalized by Python, then rendered by a static Next.js 16 export
@@ -57,7 +58,7 @@ These are copied from the private HN Product Scout pipeline so the public site c
 1. Sync private scout artifacts into `data/source/`
 2. Normalize private scout artifacts into public JSON
 3. Export static HTML from public JSON through the Next.js frontend
-4. Push repo updates to trigger **GitHub Pages** deploy
+4. Push repo updates to trigger static deployment
 
 ## Automation
 
@@ -89,6 +90,31 @@ The sync command:
 - refuses to publish if unrelated repo files are dirty
 - commits and pushes only `data/source/` + `data/public/` when actual content changed
 
+## Cloudflare Pages deployment
+
+Recommended path: let GitHub Actions build the site, then direct-upload `dist/` to Cloudflare Pages with Wrangler.
+
+Repository files already added for this:
+- `.python-version` → `3.14.3`
+- `.nvmrc` → `22`
+- `.github/workflows/deploy-cloudflare-pages.yml`
+
+Required GitHub repository config before the workflow can publish:
+- repository variable: `CLOUDFLARE_PAGES_PROJECT`
+- repository secret: `CLOUDFLARE_ACCOUNT_ID`
+- repository secret: `CLOUDFLARE_API_TOKEN`
+
+Cloudflare token scope needed:
+- Account / Cloudflare Pages / Edit
+
+Workflow behavior:
+- builds public JSON with Python
+- exports static HTML into `dist/`
+- deploys `dist/` with `wrangler pages deploy`
+
+Custom domain note:
+- for apex `hackerlinks.cc`, Cloudflare Pages requires the domain to be on Cloudflare nameservers
+
 ## Immediate next implementation step
 
-Validate the scheduled local sync job and then point `hackerlinks.cc` at GitHub Pages when the content loop feels stable.
+Create the Cloudflare Pages project, add the 1 repo variable + 2 repo secrets, then move `hackerlinks.cc` nameservers to Cloudflare and attach the domain to the Pages project.
