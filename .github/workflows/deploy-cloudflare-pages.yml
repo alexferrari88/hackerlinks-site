@@ -15,35 +15,67 @@ concurrency:
 
 jobs:
   deploy:
-    if: ${{ vars.CLOUDFLARE_PAGES_PROJECT != '' && secrets.CLOUDFLARE_ACCOUNT_ID != '' && secrets.CLOUDFLARE_API_TOKEN != '' }}
     runs-on: ubuntu-latest
     steps:
+      - name: Preflight Cloudflare config
+        id: preflight
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT }}
+        run: |
+          deploy_enabled=true
+          if [ -z "$CLOUDFLARE_PAGES_PROJECT" ]; then
+            echo "Missing repo variable: CLOUDFLARE_PAGES_PROJECT"
+            deploy_enabled=false
+          fi
+          if [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "Missing repo secret: CLOUDFLARE_ACCOUNT_ID"
+            deploy_enabled=false
+          fi
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "Missing repo secret: CLOUDFLARE_API_TOKEN"
+            deploy_enabled=false
+          fi
+          echo "deploy_enabled=$deploy_enabled" >> "$GITHUB_OUTPUT"
+
+      - name: Skip deploy until Cloudflare is configured
+        if: steps.preflight.outputs.deploy_enabled != 'true'
+        run: echo "Cloudflare Pages deploy skipped until repo variable/secrets are configured."
+
       - name: Checkout
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         uses: actions/checkout@v5
 
       - name: Setup Python
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         uses: actions/setup-python@v5
         with:
           python-version-file: .python-version
 
       - name: Setup Node
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         uses: actions/setup-node@v5
         with:
           node-version-file: .nvmrc
           cache: npm
 
       - name: Install frontend dependencies
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         run: npm ci
 
       - name: Build public data
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         run: PYTHONPATH=src python -m hackerlinks.normalize
 
       - name: Build static site
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         env:
           HACKERLINKS_SITE_URL: https://hackerlinks.cc
         run: PYTHONPATH=src python -m hackerlinks.build
 
       - name: Deploy to Cloudflare Pages
+        if: steps.preflight.outputs.deploy_enabled == 'true'
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
