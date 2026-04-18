@@ -43,6 +43,8 @@ jobs:
         run: PYTHONPATH=src python -m hackerlinks.normalize
 
       - name: Build static site
+        env:
+          HACKERLINKS_SITE_URL: https://hackerlinks.cc
         run: PYTHONPATH=src python -m hackerlinks.build
 
       - name: Upload Pages artifact

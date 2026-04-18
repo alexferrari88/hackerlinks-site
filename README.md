@@ -20,7 +20,7 @@ The core product question is:
 ## Current posture
 
 This repo is now **live on GitHub Pages** and remains **data-first**:
-- public deployment: `https://alexferrari88.github.io/hackerlinks-site/`
+- public deployment: `https://hackerlinks.cc/`
 - no runtime scraping or AI calls happen in the website repo
 - the site reads only structured JSON checked into the repo
 - private HN scout artifacts are synced in from Alex's local Hermes environment, normalized by Python, then rendered by a static Next.js 16 export

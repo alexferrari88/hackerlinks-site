@@ -17,7 +17,7 @@ from urllib.parse import urlparse
 _PLACEHOLDER_SUMMARY_PREFIX = "Scaffold placeholder summary"
 _PLACEHOLDER_EVIDENCE_PREFIX = "Scaffold placeholder evidence"
 _PLACEHOLDER_WHY_PREFIX = "Scaffold placeholder rationale"
-DEFAULT_SITE_URL = "https://alexferrari88.github.io/hackerlinks-site"
+DEFAULT_SITE_URL = "https://hackerlinks.cc"
 FRONTEND_ROOT = Path(__file__).resolve().parents[2]
 
 
