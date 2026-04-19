@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "writerdeckos",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:writerdeckos:47818485",
+  "mention_ids": [
+    "2026-04-19:writerdeckos:47818485"
+  ],
+  "name": "writerdeckOS",
+  "slug": "writerdeckos",
+  "summary": "A laptop-to-typewriter OS for distraction-free writing.",
+  "thing_url": "https://writerdeckos.com/",
+  "times_seen": 1,
+  "why_included": "A concrete personal endorsement from someone actually using it."
+}

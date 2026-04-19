@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T21:01:46.609636+00:00",
+  "headline": "20 interesting things surfaced from HN on 2026-04-19",
+  "id": "2026-04-19",
+  "mention_ids": [
+    "2026-04-19:playball:47826104",
+    "2026-04-19:notion:47824945",
+    "2026-04-19:outline:47824945",
+    "2026-04-19:trilium:47824945",
+    "2026-04-19:docmost:47824945",
+    "2026-04-19:writerdeckos:47818485",
+    "2026-04-19:shader-lab:47796759",
+    "2026-04-19:hdajackretask:47822805",
+    "2026-04-19:pi-dev:47816960",
+    "2026-04-19:e2b:47823460",
+    "2026-04-19:hmmsim-2:47815395",
+    "2026-04-19:gemma-models:47823460",
+    "2026-04-19:byte-magazine-archive:47806096",
+    "2026-04-19:common-lisp-a-gentle-introduction-to-symbolic-computation:47822486",
+    "2026-04-19:starting-forth:47822486",
+    "2026-04-19:paip:47822486",
+    "2026-04-19:simply-scheme:47822486",
+    "2026-04-19:nanopass-framework:47777715",
+    "2026-04-19:the-high-price-of-free-parking:47815395",
+    "2026-04-19:curiousmarc-videos:47817132"
+  ],
+  "summary": {
+    "items_surfaced": 20,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

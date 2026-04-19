@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "run_date": "2026-04-19",
+  "generated_at": "2026-04-19T21:01:46.609636+00:00",
+  "summary": {
+    "items_reported": 20,
+    "stories_attempted": 22,
+    "stories_with_reported_items": 12,
+    "duplicates_skipped": 0
+  },
+  "items": [
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47826104,
+      "source_story_title": "Show HN: Faceoff – A terminal UI for following NHL games",
+      "name": "Playball",
+      "thing_url": "https://github.com/paaatrick/playball",
+      "hn_url": "https://news.ycombinator.com/item?id=47826104",
+      "summary": "A terminal app for following MLB games.",
+      "why_included": "A direct inspiration for another terminal sports scoreboard app.",
+      "evidence": "The Faceoff author said the project was inspired by Playball, a similar terminal application for following MLB games."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47824945,
+      "source_story_title": "Notion leaks email addresses of all editors of any public page",
+      "name": "Notion",
+      "thing_url": "https://www.notion.so/",
+      "hn_url": "https://news.ycombinator.com/item?id=47824945",
+      "summary": "A note workspace praised for heavy use and integrations.",
+      "why_included": "Strong positive endorsement in a thread about a widely used product.",
+      "evidence": "A commenter said they love Notion, use it heavily, and have built integrations for it."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47824945,
+      "source_story_title": "Notion leaks email addresses of all editors of any public page",
+      "name": "Outline",
+      "thing_url": "https://www.getoutline.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47824945",
+      "summary": "A self-hosted Notion alternative for docs and wikis.",
+      "why_included": "Recommended as a capable self-hosted replacement.",
+      "evidence": "A commenter said Outline has everything they could ask for from a Notion alternative."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47824945,
+      "source_story_title": "Notion leaks email addresses of all editors of any public page",
+      "name": "Trilium",
+      "thing_url": "https://triliumnotes.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47824945",
+      "summary": "An open-source note app with SQLite and automatic backups.",
+      "why_included": "Recommended as a robust self-hosted option without the collaboration layer.",
+      "evidence": "The comment explicitly recommended Trilium and called out SQLite plus daily and weekly backups."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47824945,
+      "source_story_title": "Notion leaks email addresses of all editors of any public page",
+      "name": "Docmost",
+      "thing_url": "https://github.com/docmost/docmost",
+      "hn_url": "https://news.ycombinator.com/item?id=47824945",
+      "summary": "A self-hosted Notion and Confluence alternative.",
+      "why_included": "Positive self-hosted alternative with clear product fit.",
+      "evidence": "The author said Docmost is open-source, easy to self-host, and feature-packed."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47818485,
+      "source_story_title": "College instructor turns to typewriters to curb AI-written work",
+      "name": "writerdeckOS",
+      "thing_url": "https://writerdeckos.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47818485",
+      "summary": "A laptop-to-typewriter OS for distraction-free writing.",
+      "why_included": "A concrete personal endorsement from someone actually using it.",
+      "evidence": "A commenter said they flashed an old MacBook Air with writerdeckOS and it feels like a digital typewriter."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47796759,
+      "source_story_title": "Show HN: Shader Lab, like Photoshop but for shaders",
+      "name": "Shader Lab",
+      "thing_url": "https://eng.basement.studio/tools/shader-lab",
+      "hn_url": "https://news.ycombinator.com/item?id=47796759",
+      "summary": "A Photoshop-like web playground for shaders.",
+      "why_included": "Explicitly recommended alongside another shader resource.",
+      "evidence": "A commenter said to check out Shader Lab and shaders.com for creative shader effects."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47822805,
+      "source_story_title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "name": "hdajackretask",
+      "thing_url": "https://github.com/alsa-project/alsa-tools/tree/master/hdajackretask",
+      "hn_url": "https://news.ycombinator.com/item?id=47822805",
+      "summary": "An ALSA utility for retasking audio jacks.",
+      "why_included": "Direct tool recommendation in a hardware-hack discussion.",
+      "evidence": "A comment said to use hdajackretask from alsa-tools to retask the jacks."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47816960,
+      "source_story_title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "name": "pi.dev",
+      "thing_url": "https://pi.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47816960",
+      "summary": "A minimal terminal coding harness with extensions and skills.",
+      "why_included": "Named as a strong alternative in the model-comparison thread.",
+      "evidence": "A commenter said pi-coding-agent / pi.dev is also great."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47823460,
+      "source_story_title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "name": "E2B",
+      "thing_url": "https://e2b.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47823460",
+      "summary": "Secure cloud sandboxes for AI agents and code execution.",
+      "why_included": "A practical platform mentioned positively in a browser-demo thread.",
+      "evidence": "A commenter said they used E2B to do some basic research."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "story_id": 47815395,
+      "source_story_title": "Why Japan has such good railways",
+      "name": "Hmmsim 2",
+      "thing_url": "https://jeminie.kr/Hmmsim-2",
+      "hn_url": "https://news.ycombinator.com/item?id=47815395",
+      "summary": "A train simulator recommended in the Japan railways thread.",
+      "why_included": "A concrete game/app resurfaced as a fun rail-adjacent recommendation.",
+      "evidence": "The railways discussion pointed to Hmmsim 2 as a notable simulator."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "story_id": 47823460,
+      "source_story_title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "name": "Gemma models",
+      "thing_url": "https://deepmind.google/models/gemma/",
+      "hn_url": "https://news.ycombinator.com/item?id=47823460",
+      "summary": "Google’s open model family for lightweight AI apps.",
+      "why_included": "Praised directly in a comment about browser-based model demos.",
+      "evidence": "A commenter said the Gemma models really are amazing."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47806096,
+      "source_story_title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+      "name": "BYTE magazine archive",
+      "thing_url": "https://archive.org/details/BYTE-MAGAZINE-COMPLETE",
+      "hn_url": "https://news.ycombinator.com/item?id=47806096",
+      "summary": "A complete BYTE magazine scan archive starting in 1975.",
+      "why_included": "The archive triggered nostalgic praise and learning memories.",
+      "evidence": "A commenter called BYTE their favourite magazine and said they learned a tremendous deal from it."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47822486,
+      "source_story_title": "The seven programming ur-languages (2022)",
+      "name": "Common Lisp: A Gentle Introduction to Symbolic Computation",
+      "thing_url": "https://archive.org/details/common-lisp-a-gentle-introduction-to-symbolic-computation_touretzky",
+      "hn_url": "https://news.ycombinator.com/item?id=47822486",
+      "summary": "A beginner-friendly Common Lisp book for symbolic computation.",
+      "why_included": "Recommended as a starting point for Lisp learning.",
+      "evidence": "The comment suggested starting with Common Lisp: A Gentle Introduction to Symbolic Computation."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47822486,
+      "source_story_title": "The seven programming ur-languages (2022)",
+      "name": "Starting Forth",
+      "thing_url": "https://www.forth.com/starting-forth/",
+      "hn_url": "https://news.ycombinator.com/item?id=47822486",
+      "summary": "A classic book for learning Forth.",
+      "why_included": "Explicitly recommended as a core Forth resource.",
+      "evidence": "A commenter named Starting Forth as an ANS-version recommendation."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47822486,
+      "source_story_title": "The seven programming ur-languages (2022)",
+      "name": "PAIP",
+      "thing_url": "https://norvig.github.io/paip-lisp/",
+      "hn_url": "https://news.ycombinator.com/item?id=47822486",
+      "summary": "Peter Norvig’s AI programming textbook and code companion.",
+      "why_included": "Suggested as the natural next step after foundational Lisp/Forth books.",
+      "evidence": "A commenter said they would jump into PAIP, Paradigms of AI Programming."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47822486,
+      "source_story_title": "The seven programming ur-languages (2022)",
+      "name": "Simply Scheme",
+      "thing_url": "https://people.eecs.berkeley.edu/~bh/pdf/",
+      "hn_url": "https://news.ycombinator.com/item?id=47822486",
+      "summary": "A beginner-friendly Scheme textbook.",
+      "why_included": "Recommended as one of the newbie books before SICP.",
+      "evidence": "The comment listed Simply Scheme among the starter Scheme books."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47777715,
+      "source_story_title": "Nanopass Framework: Clean Compiler Creation Language",
+      "name": "Nanopass Framework",
+      "thing_url": "https://nanopass.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47777715",
+      "summary": "A compiler framework for clean language implementation.",
+      "why_included": "A direct positive endorsement from someone who used it in grad school.",
+      "evidence": "A commenter said they used the Nanopass framework and loved it."
+    },
+    {
+      "category": "📚 Books & Learning",
+      "story_id": 47815395,
+      "source_story_title": "Why Japan has such good railways",
+      "name": "The High Price of Free Parking",
+      "thing_url": "http://shoup.bol.ucla.edu/PrefaceHighCostFreeParking.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=47815395",
+      "summary": "Donald Shoup’s parking policy book and preface PDF.",
+      "why_included": "Strongly recommended as a useful urban-policy read.",
+      "evidence": "A commenter pointed readers to the free preface PDF for The High Price of Free Parking."
+    },
+    {
+      "category": "🎥 Watch & Learn",
+      "story_id": 47817132,
+      "source_story_title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "name": "CuriousMarc videos",
+      "thing_url": "https://www.youtube.com/c/CuriousMarc/videos",
+      "hn_url": "https://news.ycombinator.com/item?id=47817132",
+      "summary": "YouTube restorations of vintage electronics and early computers.",
+      "why_included": "A concrete video channel recommended for hardware-history fans.",
+      "evidence": "A commenter linked CuriousMarc’s videos as a relevant follow-up."
+    }
+  ]
+}

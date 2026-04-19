@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "hdajackretask",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:hdajackretask:47822805",
+  "mention_ids": [
+    "2026-04-19:hdajackretask:47822805"
+  ],
+  "name": "hdajackretask",
+  "slug": "hdajackretask",
+  "summary": "An ALSA utility for retasking audio jacks.",
+  "thing_url": "https://github.com/alsa-project/alsa-tools/tree/master/hdajackretask",
+  "times_seen": 1,
+  "why_included": "Direct tool recommendation in a hardware-hack discussion."
+}

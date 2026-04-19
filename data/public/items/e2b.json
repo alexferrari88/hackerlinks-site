@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "e2b",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:e2b:47823460",
+  "mention_ids": [
+    "2026-04-19:e2b:47823460"
+  ],
+  "name": "E2B",
+  "slug": "e2b",
+  "summary": "Secure cloud sandboxes for AI agents and code execution.",
+  "thing_url": "https://e2b.dev/",
+  "times_seen": 1,
+  "why_included": "A practical platform mentioned positively in a browser-demo thread."
+}

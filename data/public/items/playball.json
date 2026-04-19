@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "playball",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:playball:47826104",
+  "mention_ids": [
+    "2026-04-19:playball:47826104"
+  ],
+  "name": "Playball",
+  "slug": "playball",
+  "summary": "A terminal app for following MLB games.",
+  "thing_url": "https://github.com/paaatrick/playball",
+  "times_seen": 1,
+  "why_included": "A direct inspiration for another terminal sports scoreboard app."
+}

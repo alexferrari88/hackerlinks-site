@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "pi-dev",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:pi-dev:47816960",
+  "mention_ids": [
+    "2026-04-19:pi-dev:47816960"
+  ],
+  "name": "pi.dev",
+  "slug": "pi-dev",
+  "summary": "A minimal terminal coding harness with extensions and skills.",
+  "thing_url": "https://pi.dev/",
+  "times_seen": 1,
+  "why_included": "Named as a strong alternative in the model-comparison thread."
+}

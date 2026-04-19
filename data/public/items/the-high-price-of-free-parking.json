@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "the-high-price-of-free-parking",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:the-high-price-of-free-parking:47815395",
+  "mention_ids": [
+    "2026-04-19:the-high-price-of-free-parking:47815395"
+  ],
+  "name": "The High Price of Free Parking",
+  "slug": "the-high-price-of-free-parking",
+  "summary": "Donald Shoup\u2019s parking policy book and preface PDF.",
+  "thing_url": "http://shoup.bol.ucla.edu/PrefaceHighCostFreeParking.pdf",
+  "times_seen": 1,
+  "why_included": "Strongly recommended as a useful urban-policy read."
+}

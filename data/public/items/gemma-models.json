@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "gemma-models",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:gemma-models:47823460",
+  "mention_ids": [
+    "2026-04-19:gemma-models:47823460"
+  ],
+  "name": "Gemma models",
+  "slug": "gemma-models",
+  "summary": "Google\u2019s open model family for lightweight AI apps.",
+  "thing_url": "https://deepmind.google/models/gemma/",
+  "times_seen": 1,
+  "why_included": "Praised directly in a comment about browser-based model demos."
+}

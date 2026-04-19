@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "id": "byte-magazine-archive",
+  "last_seen_at": "2026-04-19T21:01:46.609636+00:00",
+  "latest_mention_id": "2026-04-19:byte-magazine-archive:47806096",
+  "mention_ids": [
+    "2026-04-19:byte-magazine-archive:47806096"
+  ],
+  "name": "BYTE magazine archive",
+  "slug": "byte-magazine-archive",
+  "summary": "A complete BYTE magazine scan archive starting in 1975.",
+  "thing_url": "https://archive.org/details/BYTE-MAGAZINE-COMPLETE",
+  "times_seen": 1,
+  "why_included": "The archive triggered nostalgic praise and learning memories."
+}

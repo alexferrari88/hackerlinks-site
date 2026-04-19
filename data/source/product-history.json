@@ -379,6 +379,126 @@
       "first_reported_at": "2026-04-18T21:11:46Z",
       "last_reported_at": "2026-04-18T21:11:46Z",
       "times_reported": 1
+    },
+    {
+      "name": "Playball",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Notion",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Outline",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Trilium",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Docmost",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "writerdeckOS",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Shader Lab",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "hdajackretask",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "pi.dev",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "E2B",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hmmsim 2",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gemma models",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BYTE magazine archive",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Common Lisp: A Gentle Introduction to Symbolic Computation",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Starting Forth",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PAIP",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Simply Scheme",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nanopass Framework",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The High Price of Free Parking",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CuriousMarc videos",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
     }
   ]
 }
