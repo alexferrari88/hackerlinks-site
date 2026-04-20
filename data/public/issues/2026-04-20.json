@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T21:28:51Z",
+  "headline": "11 interesting things surfaced from HN on 2026-04-20",
+  "id": "2026-04-20",
+  "mention_ids": [
+    "2026-04-20:ggsql:47833558",
+    "2026-04-20:glm-5-1:47834565",
+    "2026-04-20:minimax-m2-5:47834565",
+    "2026-04-20:flatpak:47831437",
+    "2026-04-20:ir-sauna-bags:47834184",
+    "2026-04-20:calibre:47835775",
+    "2026-04-20:kobo:47835775",
+    "2026-04-20:koreader:47835775",
+    "2026-04-20:libby:47835775",
+    "2026-04-20:bookshelves:47835775",
+    "2026-04-20:xteink-x4:47835775"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

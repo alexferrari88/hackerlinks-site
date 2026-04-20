@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "ggsql",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:ggsql:47833558",
+  "mention_ids": [
+    "2026-04-20:ggsql:47833558"
+  ],
+  "name": "ggsql",
+  "slug": "ggsql",
+  "summary": "A SQL-based visualization DSL that commenters found compelling and worth trying.",
+  "thing_url": "https://ggsql.org/get_started/grammar.html",
+  "times_seen": 1,
+  "why_included": "Multiple commenters gave direct positive reactions and said they would try it."
+}

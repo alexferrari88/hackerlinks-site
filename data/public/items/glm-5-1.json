@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "glm-5-1",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:glm-5-1:47834565",
+  "mention_ids": [
+    "2026-04-20:glm-5-1:47834565"
+  ],
+  "name": "GLM-5.1",
+  "slug": "glm-5-1",
+  "summary": "A low-cost coding model family praised for strong results and good price/performance.",
+  "thing_url": "https://z.ai/blog/glm-5.1",
+  "times_seen": 1,
+  "why_included": "Clear praise for coding quality and value, with concrete first-hand use."
+}

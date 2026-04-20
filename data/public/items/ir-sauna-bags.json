@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "ir-sauna-bags",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:ir-sauna-bags:47834184",
+  "mention_ids": [
+    "2026-04-20:ir-sauna-bags:47834184"
+  ],
+  "name": "IR sauna bags",
+  "slug": "ir-sauna-bags",
+  "summary": "Portable infrared sauna bag alternative.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "Concrete product class explicitly described as working well as a sauna substitute."
+}

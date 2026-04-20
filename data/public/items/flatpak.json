@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "flatpak",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:flatpak:47831437",
+  "mention_ids": [
+    "2026-04-20:flatpak:47831437"
+  ],
+  "name": "Flatpak",
+  "slug": "flatpak",
+  "summary": "Linux app sandboxing and packaging system.",
+  "thing_url": "https://flatpak.org/",
+  "times_seen": 1,
+  "why_included": "Direct preference for a specific Linux app distribution and sandboxing solution."
+}

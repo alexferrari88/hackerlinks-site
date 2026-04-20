@@ -499,6 +499,72 @@
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "times_reported": 1
+    },
+    {
+      "name": "ggsql",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GLM-5.1",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MiniMax M2.5",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Flatpak",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "IR sauna bags",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Calibre",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kobo",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "KOReader",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Libby",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "BookShelves",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "xteink X4",
+      "first_reported_at": "2026-04-20T21:28:51Z",
+      "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
     }
   ]
 }

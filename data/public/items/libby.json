@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "libby",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:libby:47835775",
+  "mention_ids": [
+    "2026-04-20:libby:47835775"
+  ],
+  "name": "Libby",
+  "slug": "libby",
+  "summary": "Library borrowing app for instant ebook checkout.",
+  "thing_url": "https://libbyapp.com/",
+  "times_seen": 1,
+  "why_included": "Strong positive recommendation of a library-borrowing app."
+}

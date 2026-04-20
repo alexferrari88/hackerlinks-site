@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "bookshelves",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:bookshelves:47835775",
+  "mention_ids": [
+    "2026-04-20:bookshelves:47835775"
+  ],
+  "name": "BookShelves",
+  "slug": "bookshelves",
+  "summary": "EPUB and comics reader with Calibre wireless sync.",
+  "thing_url": "https://getbookshelves.app/",
+  "times_seen": 1,
+  "why_included": "Concrete app recommendation with clear positive use."
+}

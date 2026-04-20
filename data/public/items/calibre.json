@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "calibre",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:calibre:47835775",
+  "mention_ids": [
+    "2026-04-20:calibre:47835775"
+  ],
+  "name": "Calibre",
+  "slug": "calibre",
+  "summary": "Open-source ebook library manager and format converter.",
+  "thing_url": "https://calibre-ebook.com/",
+  "times_seen": 1,
+  "why_included": "Clear positive endorsement of a concrete ebook tool."
+}

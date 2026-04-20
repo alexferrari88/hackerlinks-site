@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-20T21:28:51Z",
+  "id": "koreader",
+  "last_seen_at": "2026-04-20T21:28:51Z",
+  "latest_mention_id": "2026-04-20:koreader:47835775",
+  "mention_ids": [
+    "2026-04-20:koreader:47835775"
+  ],
+  "name": "KOReader",
+  "slug": "koreader",
+  "summary": "Customizable ebook reader app for dedicated e-readers.",
+  "thing_url": "https://koreader.rocks/",
+  "times_seen": 1,
+  "why_included": "Positive report on a concrete alternative reading app."
+}

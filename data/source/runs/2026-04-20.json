@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "run_date": "2026-04-20",
+  "generated_at": "2026-04-20T21:28:51Z",
+  "summary": {
+    "stories_attempted": 25,
+    "stories_processed": 25,
+    "stories_with_items": 5,
+    "items_reported": 11,
+    "cooldown_days": 90
+  },
+  "items": [
+    {
+      "story_id": 47833558,
+      "name": "ggsql",
+      "thing_url": "https://ggsql.org/get_started/grammar.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47833558",
+      "source_story_title": "ggsql: A Grammar of Graphics for SQL",
+      "summary": "A SQL-based visualization DSL that commenters found compelling and worth trying.",
+      "why_included": "Multiple commenters gave direct positive reactions and said they would try it.",
+      "evidence": "Commenters said ggsql looked awesome, liked it, and would try it soon."
+    },
+    {
+      "story_id": 47834565,
+      "name": "GLM-5.1",
+      "thing_url": "https://z.ai/blog/glm-5.1",
+      "hn_url": "https://news.ycombinator.com/item?id=47834565",
+      "source_story_title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "summary": "A low-cost coding model family praised for strong results and good price/performance.",
+      "why_included": "Clear praise for coding quality and value, with concrete first-hand use.",
+      "evidence": "One commenter said GLM-5 is really good, especially on pricing, and another used GLM-5.1 with Claude Code."
+    },
+    {
+      "story_id": 47834565,
+      "name": "MiniMax M2.5",
+      "thing_url": "https://www.minimax.io/news/minimax-m25",
+      "hn_url": "https://news.ycombinator.com/item?id=47834565",
+      "source_story_title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "summary": "A budget-friendly coding model that one commenter says they rely on heavily.",
+      "why_included": "Strong positive endorsement with specific usage and pricing details.",
+      "evidence": "A commenter said they get all their coding done with MiniMax M2.5 in parallel sessions for $10/month."
+    },
+    {
+      "story_id": 47831437,
+      "name": "Flatpak",
+      "thing_url": "https://flatpak.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47831437",
+      "source_story_title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "summary": "Linux app sandboxing and packaging system.",
+      "why_included": "Direct preference for a specific Linux app distribution and sandboxing solution.",
+      "evidence": "A commenter preferred the Flatpak solution because it gives very detailed, fine-grained control."
+    },
+    {
+      "story_id": 47834184,
+      "name": "IR sauna bags",
+      "thing_url": null,
+      "hn_url": "https://news.ycombinator.com/item?id=47834184",
+      "source_story_title": "Sauna effect on heart rate",
+      "summary": "Portable infrared sauna bag alternative.",
+      "why_included": "Concrete product class explicitly described as working well as a sauna substitute.",
+      "evidence": "A commenter said IR sauna bags you can buy online work great and give the same effects as a sauna."
+    },
+    {
+      "story_id": 47835775,
+      "name": "Calibre",
+      "thing_url": "https://calibre-ebook.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835775",
+      "source_story_title": "Not buying another Kindle",
+      "summary": "Open-source ebook library manager and format converter.",
+      "why_included": "Clear positive endorsement of a concrete ebook tool.",
+      "evidence": "A comment called Calibre the escape hatch and the best tool for getting a library out of Amazon's format."
+    },
+    {
+      "story_id": 47835775,
+      "name": "Kobo",
+      "thing_url": "https://www.kobo.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835775",
+      "source_story_title": "Not buying another Kindle",
+      "summary": "Alternative e-reader ecosystem with broad reader support.",
+      "why_included": "Explicit positive switch away from Kindle to Kobo.",
+      "evidence": "A user said they switched to the Kobo ecosystem and have been pretty happy."
+    },
+    {
+      "story_id": 47835775,
+      "name": "KOReader",
+      "thing_url": "https://koreader.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835775",
+      "source_story_title": "Not buying another Kindle",
+      "summary": "Customizable ebook reader app for dedicated e-readers.",
+      "why_included": "Positive report on a concrete alternative reading app.",
+      "evidence": "A user said they use KOReader and the UI is now stable and tailored to their taste."
+    },
+    {
+      "story_id": 47835775,
+      "name": "Libby",
+      "thing_url": "https://libbyapp.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835775",
+      "source_story_title": "Not buying another Kindle",
+      "summary": "Library borrowing app for instant ebook checkout.",
+      "why_included": "Strong positive recommendation of a library-borrowing app.",
+      "evidence": "A user said Libby hooks into many US library systems and feels hugely convenient and magical."
+    },
+    {
+      "story_id": 47835775,
+      "name": "BookShelves",
+      "thing_url": "https://getbookshelves.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835775",
+      "source_story_title": "Not buying another Kindle",
+      "summary": "EPUB and comics reader with Calibre wireless sync.",
+      "why_included": "Concrete app recommendation with clear positive use.",
+      "evidence": "A user said they ended up on BookShelves after trying a few options; it reads EPUBs and comics and has Calibre sync."
+    },
+    {
+      "story_id": 47835775,
+      "name": "xteink X4",
+      "thing_url": "https://www.xteink.com/products/xteink-x4",
+      "hn_url": "https://news.ycombinator.com/item?id=47835775",
+      "source_story_title": "Not buying another Kindle",
+      "summary": "Pocketable e-ink reader praised for portability.",
+      "why_included": "Direct praise for a specific e-ink device.",
+      "evidence": "A user said they bought the xteink X4 and called it a great little device."
+    }
+  ]
+}
