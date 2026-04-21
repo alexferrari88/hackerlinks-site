@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-04-21",
+  "generated_at": "2026-04-21T21:17:50Z",
+  "summary": "9 items surfaced | 21/21 stories covered | history + run artifact updated",
+  "items": [
+    {
+      "name": "Britannica11.org",
+      "category": "Knowledge & Reference",
+      "thing_url": "https://britannica11.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47851885",
+      "source_story_title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "summary": "A structured, searchable reconstruction of the 1911 Encyclopædia Britannica.",
+      "why_included": "HN liked the reconstruction work and the site’s usefulness as a reference.",
+      "evidence": "Commenters praised the 37k-article reconstruction, clickable sections, linked scans, and search; they also asked for easier scan/text comparison."
+    },
+    {
+      "name": "Framework Laptop 13 Pro",
+      "category": "Hardware & Devices",
+      "thing_url": "https://frame.work/laptop13pro",
+      "hn_url": "https://news.ycombinator.com/item?id=47852177",
+      "source_story_title": "Framework Laptop 13 Pro",
+      "summary": "A modular 13-inch laptop with deep backward compatibility and upgradeable parts.",
+      "why_included": "HN was unusually enthusiastic about the compatibility story and repairability.",
+      "evidence": "Comments highlighted hot-swappable upgrades into older Framework 13 machines and debated battery life, Linux support, and pricing."
+    },
+    {
+      "name": "GoModel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/ENTERPILOT/GOModel/",
+      "hn_url": "https://news.ycombinator.com/item?id=47849097",
+      "source_story_title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "summary": "An open-source Go AI gateway for model routing, usage tracking, and caching.",
+      "why_included": "HN saw it as a compact alternative amid LiteLLM supply-chain worries.",
+      "evidence": "The thread discussed its tiny Docker image, OpenAI-compatible API, and comparisons to LiteLLM and other Go-based gateways."
+    },
+    {
+      "name": "VidStudio",
+      "category": "Creative Tools",
+      "thing_url": "https://vidstudio.app/video-editor",
+      "hn_url": "https://news.ycombinator.com/item?id=47847558",
+      "source_story_title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "summary": "A local-first browser video editor that keeps projects on your machine.",
+      "why_included": "HN liked the privacy angle and the fully client-side pipeline.",
+      "evidence": "Comments praised no-upload, no-account editing while debating FFmpeg WASM licensing and the browser-only architecture."
+    },
+    {
+      "name": "MNT Reform",
+      "category": "Hardware & Devices",
+      "thing_url": "http://mnt.stanleylieber.com/reform/",
+      "hn_url": "https://news.ycombinator.com/item?id=47834689",
+      "source_story_title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "summary": "An open-hardware laptop built for repairability and long-term modification.",
+      "why_included": "HN praised the full openness and the repair-first design philosophy.",
+      "evidence": "Commenters highlighted source code, schematics, BOMs, modular parts, and compared its philosophy against Framework."
+    },
+    {
+      "name": "Ctx",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dchu917/ctx",
+      "hn_url": "https://news.ycombinator.com/item?id=47836740",
+      "source_story_title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
+      "summary": "A local SQLite-backed resume system that carries context across Claude Code and Codex.",
+      "why_included": "HN was interested in cross-agent continuity and self-built harnesses.",
+      "evidence": "Discussion focused on resuming workstreams between providers, local storage, and the value of a custom harness."
+    },
+    {
+      "name": "Mediator.ai",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://mediator.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835411",
+      "source_story_title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "summary": "An LLM-assisted negotiation tool that searches for agreements using Nash bargaining.",
+      "why_included": "HN engaged with the novelty of applying LLMs to mediation.",
+      "evidence": "Comments debated whether it was mediation or arbitration, while the author explained it generates and scores candidate agreements."
+    },
+    {
+      "name": "Daemons",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://charlielabs.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47850907",
+      "source_story_title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
+      "summary": "Repository-local background routines that clean up drift from agent-created code.",
+      "why_included": "HN liked the repo-local maintenance angle for agent-heavy workflows.",
+      "evidence": "The thread compared it with Claude hooks and routines and focused on keeping PRs mergeable, docs current, and dependencies clean."
+    },
+    {
+      "name": "Fusion Power Plant Simulator",
+      "category": "Simulators & Science",
+      "thing_url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=47849315",
+      "source_story_title": "Fusion Power Plant Simulator",
+      "summary": "A simulator for exploring fusion plant design, power recirculation, and economics.",
+      "why_included": "HN found it useful for understanding the engineering and economic tradeoffs of fusion.",
+      "evidence": "Comments praised the recirculating-power model and suggested adding plant cost, electricity price, and more realistic economics."
+    }
+  ]
+}

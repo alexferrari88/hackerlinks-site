@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "daemons",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:daemons:47850907",
+  "mention_ids": [
+    "2026-04-21:daemons:47850907"
+  ],
+  "name": "Daemons",
+  "slug": "daemons",
+  "summary": "Repository-local background routines that clean up drift from agent-created code.",
+  "thing_url": "https://charlielabs.ai/",
+  "times_seen": 1,
+  "why_included": "HN liked the repo-local maintenance angle for agent-heavy workflows."
+}

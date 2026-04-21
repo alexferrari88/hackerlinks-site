@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread compared it with Claude hooks and routines and focused on keeping PRs mergeable, docs current, and dependencies clean.",
+  "hn_url": "https://news.ycombinator.com/item?id=47850907",
+  "id": "2026-04-21:daemons:47850907",
+  "is_repeat": false,
+  "issue_id": "2026-04-21",
+  "item_id": "daemons",
+  "rank": 8,
+  "seen_at": "2026-04-21T21:17:50Z",
+  "source_story_id": "47850907",
+  "source_story_title": "Show HN: Daemons \u2013 we pivoted from building agents to cleaning up after them"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "mnt-reform",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:mnt-reform:47834689",
+  "mention_ids": [
+    "2026-04-21:mnt-reform:47834689"
+  ],
+  "name": "MNT Reform",
+  "slug": "mnt-reform",
+  "summary": "An open-hardware laptop built for repairability and long-term modification.",
+  "thing_url": "http://mnt.stanleylieber.com/reform/",
+  "times_seen": 1,
+  "why_included": "HN praised the full openness and the repair-first design philosophy."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "ctx",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:ctx:47836740",
+  "mention_ids": [
+    "2026-04-21:ctx:47836740"
+  ],
+  "name": "Ctx",
+  "slug": "ctx",
+  "summary": "A local SQLite-backed resume system that carries context across Claude Code and Codex.",
+  "thing_url": "https://github.com/dchu917/ctx",
+  "times_seen": 1,
+  "why_included": "HN was interested in cross-agent continuity and self-built harnesses."
+}

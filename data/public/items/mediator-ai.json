@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "mediator-ai",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:mediator-ai:47835411",
+  "mention_ids": [
+    "2026-04-21:mediator-ai:47835411"
+  ],
+  "name": "Mediator.ai",
+  "slug": "mediator-ai",
+  "summary": "An LLM-assisted negotiation tool that searches for agreements using Nash bargaining.",
+  "thing_url": "https://mediator.ai/",
+  "times_seen": 1,
+  "why_included": "HN engaged with the novelty of applying LLMs to mediation."
+}

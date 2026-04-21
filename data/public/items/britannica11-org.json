@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "britannica11-org",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:britannica11-org:47851885",
+  "mention_ids": [
+    "2026-04-21:britannica11-org:47851885"
+  ],
+  "name": "Britannica11.org",
+  "slug": "britannica11-org",
+  "summary": "A structured, searchable reconstruction of the 1911 Encyclop\u00e6dia Britannica.",
+  "thing_url": "https://britannica11.org/",
+  "times_seen": 1,
+  "why_included": "HN liked the reconstruction work and the site\u2019s usefulness as a reference."
+}

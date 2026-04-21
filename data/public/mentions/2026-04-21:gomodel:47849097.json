@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread discussed its tiny Docker image, OpenAI-compatible API, and comparisons to LiteLLM and other Go-based gateways.",
+  "hn_url": "https://news.ycombinator.com/item?id=47849097",
+  "id": "2026-04-21:gomodel:47849097",
+  "is_repeat": false,
+  "issue_id": "2026-04-21",
+  "item_id": "gomodel",
+  "rank": 3,
+  "seen_at": "2026-04-21T21:17:50Z",
+  "source_story_id": "47849097",
+  "source_story_title": "Show HN: GoModel \u2013 an open-source AI gateway in Go"
+}

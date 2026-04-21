@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "vidstudio",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:vidstudio:47847558",
+  "mention_ids": [
+    "2026-04-21:vidstudio:47847558"
+  ],
+  "name": "VidStudio",
+  "slug": "vidstudio",
+  "summary": "A local-first browser video editor that keeps projects on your machine.",
+  "thing_url": "https://vidstudio.app/video-editor",
+  "times_seen": 1,
+  "why_included": "HN liked the privacy angle and the fully client-side pipeline."
+}

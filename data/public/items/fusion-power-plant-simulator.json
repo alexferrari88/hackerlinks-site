@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "fusion-power-plant-simulator",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:fusion-power-plant-simulator:47849315",
+  "mention_ids": [
+    "2026-04-21:fusion-power-plant-simulator:47849315"
+  ],
+  "name": "Fusion Power Plant Simulator",
+  "slug": "fusion-power-plant-simulator",
+  "summary": "A simulator for exploring fusion plant design, power recirculation, and economics.",
+  "thing_url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+  "times_seen": 1,
+  "why_included": "HN found it useful for understanding the engineering and economic tradeoffs of fusion."
+}

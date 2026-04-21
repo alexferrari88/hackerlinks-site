@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "gomodel",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:gomodel:47849097",
+  "mention_ids": [
+    "2026-04-21:gomodel:47849097"
+  ],
+  "name": "GoModel",
+  "slug": "gomodel",
+  "summary": "An open-source Go AI gateway for model routing, usage tracking, and caching.",
+  "thing_url": "https://github.com/ENTERPILOT/GOModel/",
+  "times_seen": 1,
+  "why_included": "HN saw it as a compact alternative amid LiteLLM supply-chain worries."
+}

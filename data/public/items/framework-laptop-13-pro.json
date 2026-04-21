@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-21T21:17:50Z",
+  "id": "framework-laptop-13-pro",
+  "last_seen_at": "2026-04-21T21:17:50Z",
+  "latest_mention_id": "2026-04-21:framework-laptop-13-pro:47852177",
+  "mention_ids": [
+    "2026-04-21:framework-laptop-13-pro:47852177"
+  ],
+  "name": "Framework Laptop 13 Pro",
+  "slug": "framework-laptop-13-pro",
+  "summary": "A modular 13-inch laptop with deep backward compatibility and upgradeable parts.",
+  "thing_url": "https://frame.work/laptop13pro",
+  "times_seen": 1,
+  "why_included": "HN was unusually enthusiastic about the compatibility story and repairability."
+}
