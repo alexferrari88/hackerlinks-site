@@ -309,11 +309,10 @@ a {
   background: var(--card);
   padding: 1.25rem;
   box-shadow: 6px 6px 0 0 var(--shadow-color);
-  transition: transform 150ms ease-out, box-shadow 150ms ease-out;
+  transition: background 150ms ease-out;
 }
 .board-row:hover {
-  transform: translate(-2px, -2px);
-  box-shadow: 8px 8px 0 0 var(--shadow-color);
+  background: var(--muted);
 }
 
 .board-rank {

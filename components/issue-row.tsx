@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowUpRight, MessageSquareQuote } from "lucide-react";
+import { ArrowUpRight, MessageSquareQuote, History } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -36,10 +36,20 @@ export function IssueRow({ mention }: { mention: MentionRecord }) {
         <p className="mt-3 max-w-[72ch] text-base leading-relaxed text-[var(--muted-foreground)] md:text-lg">
           {item.summary}
         </p>
-        <p className="mt-4 text-base leading-relaxed text-[var(--foreground)]/92">{mention.evidence}</p>
+        {mention.evidence && (
+          <details className="group mt-4 cursor-pointer">
+            <summary className="flex w-fit items-center gap-1 text-sm font-bold uppercase tracking-wider text-[var(--primary)] hover:underline">
+              <span className="group-open:hidden">Show Evidence</span>
+              <span className="hidden group-open:inline">Hide Evidence</span>
+            </summary>
+            <p className="mt-3 border-l-4 border-[var(--primary)] pl-4 text-base leading-relaxed text-[var(--foreground)]/92">
+              {mention.evidence}
+            </p>
+          </details>
+        )}
       </div>
       <div className="board-meta">
-        <Badge variant="default">{formatDate(mention.seen_at)}</Badge>
+        <Badge variant="default" className="w-fit">{formatDate(mention.seen_at)}</Badge>
         <div className="board-actions">
           <Button asChild variant="solid" size="sm">
             <Link href={item.thing_url || mention.hn_url} target="_blank" rel="noreferrer">
@@ -47,14 +57,17 @@ export function IssueRow({ mention }: { mention: MentionRecord }) {
               <ArrowUpRight />
             </Link>
           </Button>
-          <Button asChild variant="frame" size="sm">
+          <Button asChild variant="ghost" size="sm">
             <Link href={mention.hn_url} target="_blank" rel="noreferrer">
               HN
               <MessageSquareQuote />
             </Link>
           </Button>
           <Button asChild variant="ghost" size="sm">
-            <Link href={issueHref(mention.issue_id)}>Issue log</Link>
+            <Link href={issueHref(mention.issue_id)}>
+              Issue log
+              <History />
+            </Link>
           </Button>
         </div>
       </div>
