@@ -40,7 +40,7 @@ export default function HomePage() {
       />
 
       <section className="grid gap-8 xl:grid-cols-[1.55fr_0.75fr]">
-        <div className="stack-frame">
+        <div className="space-y-6">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
               <p className="eyebrow">Latest issue</p>
@@ -53,7 +53,7 @@ export default function HomePage() {
               </Link>
             </Button>
           </div>
-          <div className="mt-6 space-y-4">
+          <div className="space-y-4">
             {listing.mentions.map((mention) => (
               <IssueRow key={mention.id} mention={mention} />
             ))}

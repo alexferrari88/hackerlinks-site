@@ -50,25 +50,23 @@ export function IssueRow({ mention }: { mention: MentionRecord }) {
       </div>
       <div className="board-meta">
         <Badge variant="default" className="w-fit">{formatDate(mention.seen_at)}</Badge>
-        <div className="board-actions">
-          <Button asChild variant="solid" size="sm">
+        <div className="board-actions flex-col items-start gap-3">
+          <Button asChild variant="solid" size="sm" className="w-full justify-between">
             <Link href={item.thing_url || mention.hn_url} target="_blank" rel="noreferrer">
               Source
-              <ArrowUpRight />
+              <ArrowUpRight className="ml-2 h-4 w-4" />
             </Link>
           </Button>
-          <Button asChild variant="ghost" size="sm">
-            <Link href={mention.hn_url} target="_blank" rel="noreferrer">
+          <div className="flex w-full items-center justify-between gap-4 px-1">
+            <Link href={mention.hn_url} target="_blank" rel="noreferrer" className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)] hover:text-[var(--primary)] hover:underline">
+              <MessageSquareQuote className="h-3.5 w-3.5" />
               HN
-              <MessageSquareQuote />
             </Link>
-          </Button>
-          <Button asChild variant="ghost" size="sm">
-            <Link href={issueHref(mention.issue_id)}>
+            <Link href={issueHref(mention.issue_id)} className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)] hover:text-[var(--primary)] hover:underline">
+              <History className="h-3.5 w-3.5" />
               Issue log
-              <History />
             </Link>
-          </Button>
+          </div>
         </div>
       </div>
     </article>
