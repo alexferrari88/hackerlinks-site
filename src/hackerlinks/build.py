@@ -9,6 +9,7 @@ import shutil
 import subprocess
 import sys
 from datetime import datetime
+from email.utils import format_datetime as format_rfc2822_datetime
 from html import escape
 from pathlib import Path
 from typing import Any
@@ -18,6 +19,10 @@ _PLACEHOLDER_SUMMARY_PREFIX = "Scaffold placeholder summary"
 _PLACEHOLDER_EVIDENCE_PREFIX = "Scaffold placeholder evidence"
 _PLACEHOLDER_WHY_PREFIX = "Scaffold placeholder rationale"
 DEFAULT_SITE_URL = "https://hackerlinks.cc"
+SITE_NAME = "HackerLinks"
+SITE_DESCRIPTION = (
+    "Source-linked archive of concrete things surfaced from Hacker News discussion."
+)
 FRONTEND_ROOT = Path(__file__).resolve().parents[2]
 
 
@@ -90,6 +95,27 @@ def _story_label(mention: dict[str, Any]) -> str:
     return "HN thread"
 
 
+def _parse_datetime(value: str | None) -> datetime | None:
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+
+def _rss_pub_date(value: str | None) -> str:
+    dt = _parse_datetime(value)
+    if not dt:
+        return value or ""
+    return format_rfc2822_datetime(dt)
+
+
+def _sitemap_lastmod(value: str | None) -> str | None:
+    dt = _parse_datetime(value)
+    return dt.isoformat() if dt else value
+
+
 def _friendly_summary(item: dict[str, Any]) -> str:
     raw_summary = str(item.get("summary") or "").strip()
     if raw_summary and not raw_summary.startswith(_PLACEHOLDER_SUMMARY_PREFIX):
@@ -160,17 +186,19 @@ def _write_feed(records: dict[str, Any], dist_root: Path, *, site_url: str) -> N
             f"      <title>{escape(item['name'])}</title>\n"
             f"      <link>{escape(item_url)}</link>\n"
             f"      <guid>{escape(item_url)}#{escape(mention['id'])}</guid>\n"
-            f"      <pubDate>{escape(mention.get('seen_at') or '')}</pubDate>\n"
+            f"      <pubDate>{escape(_rss_pub_date(mention.get('seen_at')))}</pubDate>\n"
             f"      <description>{summary} {evidence} Issue: {escape(issue_url)}</description>\n"
             "    </item>"
         )
+    latest_generated_at = records.get("manifests", {}).get("latest", {}).get("generated_at")
     feed = (
         "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
         "<rss version=\"2.0\">\n"
         "  <channel>\n"
-        "    <title>HackerLinks</title>\n"
+        f"    <title>{SITE_NAME}</title>\n"
         f"    <link>{escape(_absolute_url(site_url=site_url))}</link>\n"
-        "    <description>Source-linked archive of concrete things surfaced from Hacker News discussion.</description>\n"
+        f"    <description>{escape(SITE_DESCRIPTION)}</description>\n"
+        f"    <lastBuildDate>{escape(_rss_pub_date(latest_generated_at))}</lastBuildDate>\n"
         + "\n".join(entries)
         + "\n  </channel>\n"
         "</rss>\n"
@@ -179,21 +207,139 @@ def _write_feed(records: dict[str, Any], dist_root: Path, *, site_url: str) -> N
 
 
 def _write_sitemap(records: dict[str, Any], dist_root: Path, *, site_url: str) -> None:
-    urls = [
-        _absolute_url(site_url=site_url),
-        _absolute_url("issues/", site_url=site_url),
-        _absolute_url("archive/", site_url=site_url),
-        *[_absolute_url(f"issues/{issue['id']}/", site_url=site_url) for issue in records["issues"].values()],
-        *[_absolute_url(f"items/{item['slug']}/", site_url=site_url) for item in records["items"].values()],
+    latest_generated_at = records.get("manifests", {}).get("latest", {}).get("generated_at")
+    url_entries = [
+        (_absolute_url(site_url=site_url), latest_generated_at),
+        (_absolute_url("issues/", site_url=site_url), latest_generated_at),
+        (_absolute_url("archive/", site_url=site_url), latest_generated_at),
+        (_absolute_url("about/", site_url=site_url), latest_generated_at),
+        (_absolute_url("methodology/", site_url=site_url), latest_generated_at),
+        *[
+            (_absolute_url(f"issues/{issue['id']}/", site_url=site_url), issue.get("generated_at"))
+            for issue in records["issues"].values()
+        ],
+        *[
+            (_absolute_url(f"items/{item['slug']}/", site_url=site_url), item.get("last_seen_at"))
+            for item in records["items"].values()
+        ],
     ]
-    unique_urls = list(dict.fromkeys(urls))
+    unique_urls = list(dict.fromkeys(url_entries))
     sitemap = (
         "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
         "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n"
-        + "\n".join(f"  <url><loc>{escape(url)}</loc></url>" for url in unique_urls)
+        + "\n".join(
+            (
+                f"  <url><loc>{escape(url)}</loc>"
+                + (
+                    f"<lastmod>{escape(lastmod)}</lastmod>"
+                    if (lastmod := _sitemap_lastmod(last_seen_at))
+                    else ""
+                )
+                + "</url>"
+            )
+            for url, last_seen_at in unique_urls
+        )
         + "\n</urlset>\n"
     )
     _write(dist_root / "sitemap.xml", sitemap)
+
+
+def _write_robots(dist_root: Path, *, site_url: str) -> None:
+    robots_txt = (
+        "User-agent: *\n"
+        "Allow: /\n\n"
+        f"Sitemap: {_absolute_url('sitemap.xml', site_url=site_url)}\n"
+    )
+    _write(dist_root / "robots.txt", robots_txt)
+
+
+def _write_public_data_exports(records: dict[str, Any], public_root: Path, dist_root: Path, *, site_url: str) -> None:
+    data_root = dist_root / "data"
+    shutil.copytree(public_root, data_root)
+
+    latest_generated_at = records.get("manifests", {}).get("latest", {}).get("generated_at")
+    site_manifest = {
+        "name": SITE_NAME,
+        "url": _absolute_url(site_url=site_url),
+        "description": SITE_DESCRIPTION,
+        "generated_at": latest_generated_at,
+        "counts": {
+            "issues": len(records["issues"]),
+            "items": len(records["items"]),
+            "mentions": len(records["mentions"]),
+        },
+        "collections": {
+            "home": _absolute_url(site_url=site_url),
+            "issues": _absolute_url("issues/", site_url=site_url),
+            "archive": _absolute_url("archive/", site_url=site_url),
+            "about": _absolute_url("about/", site_url=site_url),
+            "methodology": _absolute_url("methodology/", site_url=site_url),
+            "feed": _absolute_url("feed.xml", site_url=site_url),
+            "sitemap": _absolute_url("sitemap.xml", site_url=site_url),
+            "llms": _absolute_url("llms.txt", site_url=site_url),
+            "archive_manifest": _absolute_url("data/manifests/archive.json", site_url=site_url),
+            "latest_manifest": _absolute_url("data/manifests/latest.json", site_url=site_url),
+            "items_manifest": _absolute_url("data/manifests/items.json", site_url=site_url),
+        },
+    }
+    items_manifest = {
+        "generated_at": latest_generated_at,
+        "items": sorted(
+            [
+                {
+                    "id": item["id"],
+                    "slug": item["slug"],
+                    "name": item["name"],
+                    "url": _absolute_url(f"items/{item['slug']}/", site_url=site_url),
+                    "json_url": _absolute_url(f"data/items/{item['slug']}.json", site_url=site_url),
+                    "thing_url": item.get("thing_url"),
+                    "times_seen": item.get("times_seen"),
+                    "first_seen_at": item.get("first_seen_at"),
+                    "last_seen_at": item.get("last_seen_at"),
+                }
+                for item in records["items"].values()
+            ],
+            key=lambda item: (
+                int(item.get("times_seen") or 0),
+                str(item.get("last_seen_at") or ""),
+                str(item.get("name") or ""),
+            ),
+            reverse=True,
+        ),
+    }
+    _write(data_root / "manifests" / "site.json", json.dumps(site_manifest, indent=2, sort_keys=True) + "\n")
+    _write(data_root / "manifests" / "items.json", json.dumps(items_manifest, indent=2, sort_keys=True) + "\n")
+
+
+def _write_llms(dist_root: Path, *, site_url: str) -> None:
+    llms_txt = "\n".join(
+        [
+            f"# {SITE_NAME}",
+            "",
+            f"> {SITE_DESCRIPTION}",
+            "",
+            "## Canonical pages",
+            f"- Home: {_absolute_url(site_url=site_url)}",
+            f"- Issues: {_absolute_url('issues/', site_url=site_url)}",
+            f"- Archive: {_absolute_url('archive/', site_url=site_url)}",
+            f"- About: {_absolute_url('about/', site_url=site_url)}",
+            f"- Methodology: {_absolute_url('methodology/', site_url=site_url)}",
+            "",
+            "## Machine-readable endpoints",
+            f"- Sitemap: {_absolute_url('sitemap.xml', site_url=site_url)}",
+            f"- Feed: {_absolute_url('feed.xml', site_url=site_url)}",
+            f"- Site manifest: {_absolute_url('data/manifests/site.json', site_url=site_url)}",
+            f"- Archive manifest: {_absolute_url('data/manifests/archive.json', site_url=site_url)}",
+            f"- Latest manifest: {_absolute_url('data/manifests/latest.json', site_url=site_url)}",
+            f"- Items manifest: {_absolute_url('data/manifests/items.json', site_url=site_url)}",
+            "",
+            "## JSON collections",
+            f"- Items JSON: {_absolute_url('data/items/', site_url=site_url)}",
+            f"- Issues JSON: {_absolute_url('data/issues/', site_url=site_url)}",
+            f"- Mentions JSON: {_absolute_url('data/mentions/', site_url=site_url)}",
+        ]
+    )
+    _write(dist_root / "llms.txt", llms_txt + "\n")
 
 
 def _npm_executable() -> str:
@@ -260,7 +406,10 @@ def build_public_site(
     if leaked_static_dir.exists():
         shutil.rmtree(leaked_static_dir)
     _write(dist_root / ".nojekyll", "")
+    _write_public_data_exports(records, public_root, dist_root, site_url=site_url)
     _write_preview_notes(records, dist_root)
+    _write_robots(dist_root, site_url=site_url)
+    _write_llms(dist_root, site_url=site_url)
     _write_feed(records, dist_root, site_url=site_url)
     _write_sitemap(records, dist_root, site_url=site_url)
 

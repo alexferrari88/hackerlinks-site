@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
+import { JsonLd } from "@/components/json-ld";
 import { IssueRow } from "@/components/issue-row";
 import { PageIntro } from "@/components/page-intro";
 import { Button } from "@/components/ui/button";
@@ -15,21 +16,35 @@ import {
   issueHref,
   itemHref,
 } from "@/lib/site-data";
+import { buildPageMetadata, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
+import { SITE_TAGLINE } from "@/lib/site-config";
+
+export const metadata = buildPageMetadata({
+  description:
+    "Find source-linked tools, libraries, apps, books, and other concrete things that keep surfacing in Hacker News discussions.",
+  path: "/",
+});
 
 export default function HomePage() {
   const latestIssue = getLatestIssue();
   const listing = getIssueListing(latestIssue);
   const repeatItems = getRepeatItems();
   const recentItems = getRecentItems();
+  const homeJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [websiteJsonLd(), organizationJsonLd()],
+  };
 
   return (
     <div className="content-grid">
+      <JsonLd data={homeJsonLd} />
       <PageIntro
         eyebrow="Hacker News Distilled"
-        title="Find the tools developers actually use."
+        title={SITE_TAGLINE}
         summary={
           <p>
-            We extract the signal from the noise. HackerLinks is a searchable archive of the most recommended tools, libraries, and apps—saved directly from real Hacker News discussions.
+            HackerLinks is a source-linked archive of tools, libraries, apps, books, and other
+            concrete things that developers keep surfacing in real Hacker News threads.
           </p>
         }
         meta={[

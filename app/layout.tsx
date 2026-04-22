@@ -4,7 +4,8 @@ import { Bricolage_Grotesque, Public_Sans, Space_Mono } from "next/font/google";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { ThemeProvider } from "@/components/theme-provider";
-import { SITE_DESCRIPTION, SITE_NAME } from "@/lib/site-config";
+import { buildPageMetadata } from "@/lib/seo";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site-config";
 
 import "./globals.css";
 
@@ -26,12 +27,23 @@ const mono = Space_Mono({
   weight: ["400", "700"],
 });
 
+const baseMetadata = buildPageMetadata({
+  description: SITE_DESCRIPTION,
+  path: "/",
+});
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+  applicationName: SITE_NAME,
   title: {
     default: SITE_NAME,
     template: `%s | ${SITE_NAME}`,
   },
   description: SITE_DESCRIPTION,
+  alternates: baseMetadata.alternates,
+  robots: baseMetadata.robots,
+  openGraph: baseMetadata.openGraph,
+  twitter: baseMetadata.twitter,
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

@@ -6,6 +6,8 @@ import {
   getIssuesNewestFirst,
   getLatestIssue,
   getRepeatItems,
+  issueHref,
+  itemHref,
   loadPublicRecords,
 } from "@/lib/site-data";
 
@@ -23,4 +25,9 @@ test("repeat items loader only returns resurfaced items", () => {
   for (const item of getRepeatItems(50)) {
     assert.ok(item.times_seen > 1);
   }
+});
+
+test("public href helpers emit trailing-slash canonicals", () => {
+  assert.equal(issueHref("2026-04-21"), "/issues/2026-04-21/");
+  assert.equal(itemHref("claude-code"), "/items/claude-code/");
 });

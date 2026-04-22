@@ -17,8 +17,10 @@ import { SITE_BASE_PATH } from "@/lib/site-config";
 
 const links = [
   { href: `${SITE_BASE_PATH}/`, label: "Front page" },
-  { href: `${SITE_BASE_PATH}/issues`, label: "Issues" },
-  { href: `${SITE_BASE_PATH}/archive`, label: "Archive" },
+  { href: `${SITE_BASE_PATH}/issues/`, label: "Issues" },
+  { href: `${SITE_BASE_PATH}/archive/`, label: "Archive" },
+  { href: `${SITE_BASE_PATH}/about/`, label: "About" },
+  { href: `${SITE_BASE_PATH}/methodology/`, label: "Methodology" },
 ];
 
 export function MobileNav() {

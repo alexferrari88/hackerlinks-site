@@ -3,7 +3,10 @@ import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 import { notFound } from "next/navigation";
 
+import { BreadcrumbTrail } from "@/components/breadcrumb-trail";
+import { JsonLd } from "@/components/json-ld";
 import { PageIntro } from "@/components/page-intro";
+import { ProvenanceNote } from "@/components/provenance-note";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import {
@@ -13,6 +16,7 @@ import {
   getMentionsForItem,
   issueHref,
 } from "@/lib/site-data";
+import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
 
 export async function generateStaticParams() {
   const { loadPublicRecords } = await import("@/lib/site-data");
@@ -31,10 +35,11 @@ export async function generateMetadata({
     return { title: "Item not found" };
   }
 
-  return {
+  return buildPageMetadata({
     title: item.name,
-    description: item.summary,
-  };
+    description: `${item.summary} Source-linked record of how Hacker News users referenced ${item.name}.`,
+    path: `/items/${item.slug}/`,
+  });
 }
 
 export default async function ItemPage({
@@ -51,9 +56,46 @@ export default async function ItemPage({
   const mentions = getMentionsForItem(item);
   const latestMention = mentions[0];
   const domain = domainFromUrl(item.thing_url);
+  const itemPath = `/items/${item.slug}/`;
+  const itemJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      breadcrumbJsonLd([
+        { name: "Home", path: "/" },
+        { name: "Archive", path: "/archive/" },
+        { name: item.name, path: itemPath },
+      ]),
+      {
+        "@type": "WebPage",
+        "@id": absoluteUrl(itemPath, "webpage"),
+        url: absoluteUrl(itemPath),
+        name: item.name,
+        description: item.summary,
+        datePublished: item.first_seen_at,
+        dateModified: item.last_seen_at,
+        mainEntity: {
+          "@type": "Thing",
+          "@id": absoluteUrl(itemPath, "thing"),
+          identifier: item.slug,
+          name: item.name,
+          description: item.summary,
+          url: absoluteUrl(itemPath),
+          ...(item.thing_url ? { sameAs: item.thing_url } : {}),
+        },
+      },
+    ],
+  };
 
   return (
     <div className="content-grid">
+      <JsonLd data={itemJsonLd} />
+      <BreadcrumbTrail
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Archive", href: "/archive/" },
+          { label: item.name },
+        ]}
+      />
       <PageIntro
         eyebrow="Tool Profile"
         title={item.name}
@@ -87,19 +129,21 @@ export default async function ItemPage({
 
           <div className="dossier-grid mt-8">
             <article className="frame px-4 py-4 md:px-5">
+              <p className="eyebrow">What it is</p>
+              <p className="mt-4 text-sm leading-7 text-[var(--muted-foreground)] md:text-base">
+                {item.summary}
+              </p>
+            </article>
+            <article className="frame px-4 py-4 md:px-5">
               <p className="eyebrow">Why developers recommend it</p>
               <p className="mt-4 text-sm leading-7 text-[var(--muted-foreground)] md:text-base">
                 {item.why_included}
               </p>
             </article>
-            <article className="frame px-4 py-4 md:px-5">
-              <p className="eyebrow">Reference ID</p>
-              <p className="mt-4 font-display text-2xl uppercase tracking-[0.06em]">{item.slug}</p>
-            </article>
           </div>
 
           <article className="frame mt-8 px-4 py-4 md:px-5">
-            <p className="eyebrow">Hacker News Mentions</p>
+            <p className="eyebrow">Hacker News evidence</p>
             <div className="mt-4">
               {mentions.map((mention, index) => (
                 <div key={mention.id}>
@@ -132,13 +176,7 @@ export default async function ItemPage({
         </div>
 
         <aside className="rail-stack">
-          <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">About this page</p>
-            <Separator className="my-4 bg-[var(--line-strong)]" />
-            <p className="text-sm leading-6 text-[var(--muted-foreground)]">
-              This page tracks every time this tool is recommended on Hacker News. We collect the context and links so you can see exactly how the community uses it.
-            </p>
-          </section>
+          <ProvenanceNote title="Why this record is trustworthy" />
           <section className="frame px-4 py-4 md:px-5">
             <p className="eyebrow">History</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
@@ -147,6 +185,11 @@ export default async function ItemPage({
                 ? `Seen ${item.times_seen} times between ${formatDate(item.first_seen_at)} and ${formatDate(item.last_seen_at)}.`
                 : `Seen once in the current dataset on ${formatDate(item.first_seen_at)}.`}
             </p>
+          </section>
+          <section className="frame px-4 py-4 md:px-5">
+            <p className="eyebrow">Reference ID</p>
+            <Separator className="my-4 bg-[var(--line-strong)]" />
+            <p className="font-display text-2xl uppercase tracking-[0.06em]">{item.slug}</p>
           </section>
         </aside>
       </section>

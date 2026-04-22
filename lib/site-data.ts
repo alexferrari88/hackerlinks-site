@@ -286,9 +286,9 @@ export function domainFromUrl(value: string | null | undefined) {
 }
 
 export function itemHref(slug: string) {
-  return `${SITE_BASE_PATH}/items/${slug}`;
+  return `${SITE_BASE_PATH}/items/${slug}/`;
 }
 
 export function issueHref(date: string) {
-  return `${SITE_BASE_PATH}/issues/${date}`;
+  return `${SITE_BASE_PATH}/issues/${date}/`;
 }

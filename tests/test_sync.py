@@ -99,7 +99,7 @@ class SyncTests(unittest.TestCase):
                     "2026-04-15:davinci-resolve:48888888",
                 ],
             )
-            self.assertIn("Hacker News Mentions", item_html)
+            self.assertIn("Hacker News evidence", item_html)
             self.assertIn("DaVinci Resolve", item_html)
             self.assertIn("Resolve again", item_html)
             self.assertIn("A second thread praised Resolve again.", item_html)

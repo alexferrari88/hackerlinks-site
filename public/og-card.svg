@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdfaf6"/>
+      <stop offset="100%" stop-color="#f4f4f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="550" fill="#ffffff" stroke="#000000" stroke-width="10"/>
+  <rect x="90" y="90" width="170" height="170" fill="#ff6600" stroke="#000000" stroke-width="10"/>
+  <path d="M135 118h26v48h78v-48h26v114h-26v-44h-78v44h-26z" fill="#ffffff"/>
+  <text x="90" y="350" fill="#09090b" font-family="Arial, sans-serif" font-size="88" font-weight="800">
+    HackerLinks
+  </text>
+  <text x="90" y="430" fill="#09090b" font-family="Arial, sans-serif" font-size="40" font-weight="700">
+    Source-linked archive of concrete things surfaced from
+  </text>
+  <text x="90" y="480" fill="#09090b" font-family="Arial, sans-serif" font-size="40" font-weight="700">
+    real Hacker News discussions.
+  </text>
+  <rect x="90" y="515" width="320" height="56" fill="#09090b"/>
+  <text x="112" y="553" fill="#ff6600" font-family="Arial, sans-serif" font-size="28" font-weight="800">
+    tools, libraries, apps, books
+  </text>
+</svg>
