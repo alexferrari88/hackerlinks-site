@@ -46,6 +46,8 @@ jobs:
       - name: Checkout
         if: steps.preflight.outputs.deploy_enabled == 'true'
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         if: steps.preflight.outputs.deploy_enabled == 'true'
@@ -80,3 +82,20 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: npx wrangler@4 pages deploy dist --project-name="${{ vars.CLOUDFLARE_PAGES_PROJECT }}" --branch="${{ github.ref_name }}"
+
+      - name: Capture changed paths
+        if: steps.preflight.outputs.deploy_enabled == 'true'
+        run: |
+          if [ "${{ github.event_name }}" != "push" ] || [ -z "${{ github.event.before }}" ] || [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            : > changed-paths.txt
+          else
+            git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" > changed-paths.txt
+          fi
+
+      - name: Notify IndexNow
+        if: steps.preflight.outputs.deploy_enabled == 'true'
+        env:
+          HACKERLINKS_SITE_URL: https://hackerlinks.cc
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          INDEXNOW_KEY_LOCATION: ${{ vars.INDEXNOW_KEY_LOCATION }}
+        run: PYTHONPATH=src python -m hackerlinks.indexnow --changes-file changed-paths.txt

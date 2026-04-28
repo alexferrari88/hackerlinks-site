@@ -106,6 +106,12 @@ Required GitHub repository config before the workflow can publish:
 - repository secret: `CLOUDFLARE_ACCOUNT_ID`
 - repository secret: `CLOUDFLARE_API_TOKEN`
 
+Optional GEO freshness config:
+- repository secret: `INDEXNOW_KEY`
+- repository variable: `INDEXNOW_KEY_LOCATION`
+
+If the optional IndexNow config is present, the deploy workflow will submit changed live URLs after a successful Cloudflare Pages deploy. `INDEXNOW_KEY_LOCATION` should point at the public verification file URL already served from `hackerlinks.cc`.
+
 Cloudflare token scope needed:
 - Account / Cloudflare Pages / Edit
 
