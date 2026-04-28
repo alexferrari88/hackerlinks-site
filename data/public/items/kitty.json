@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-28T21:25:41+00:00",
+  "id": "kitty",
+  "last_seen_at": "2026-04-28T21:25:41+00:00",
+  "latest_mention_id": "2026-04-28:kitty:47937349",
+  "mention_ids": [
+    "2026-04-28:kitty:47937349"
+  ],
+  "name": "kitty",
+  "slug": "kitty",
+  "summary": "Fast terminal emulator commenters told others to check out.",
+  "thing_url": "https://sw.kovidgoyal.net/kitty/",
+  "times_seen": 1,
+  "why_included": "A direct recommendation made it stand out from the terminal discussion."
+}

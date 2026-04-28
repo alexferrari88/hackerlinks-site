@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T21:25:41+00:00",
+  "headline": "8 interesting things surfaced from HN on 2026-04-28",
+  "id": "2026-04-28",
+  "mention_ids": [
+    "2026-04-28:warp:47937349",
+    "2026-04-28:kitty:47937349",
+    "2026-04-28:lazygit:47906651",
+    "2026-04-28:runs-on:47933257",
+    "2026-04-28:localsend:47933208",
+    "2026-04-28:pairdrop:47933208",
+    "2026-04-28:veritasium-video:47901064",
+    "2026-04-28:asianometry-channel:47901064"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

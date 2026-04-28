@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-28T21:25:41+00:00",
+  "id": "asianometry-channel",
+  "last_seen_at": "2026-04-28T21:25:41+00:00",
+  "latest_mention_id": "2026-04-28:asianometry-channel:47901064",
+  "mention_ids": [
+    "2026-04-28:asianometry-channel:47901064"
+  ],
+  "name": "Asianometry channel",
+  "slug": "asianometry-channel",
+  "summary": "Deep ASML and chip-supply-chain videos commenters recommended.",
+  "thing_url": "https://m.youtube.com/c/Asianometry/videos?ra=m",
+  "times_seen": 1,
+  "why_included": "It came up as a strong follow-up for deeper semiconductor coverage."
+}

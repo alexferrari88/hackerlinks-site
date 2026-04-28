@@ -27,9 +27,21 @@
       "times_reported": 1
     },
     {
+      "name": "Asianometry channel",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Azure Bastion",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Barman",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     },
     {
@@ -78,6 +90,12 @@
       "name": "Calibre",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Carbon Copy Cloner",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     },
     {
@@ -207,6 +225,12 @@
       "times_reported": 1
     },
     {
+      "name": "Dirac",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "Djot",
       "first_reported_at": "2026-04-18T21:11:46Z",
       "last_reported_at": "2026-04-18T21:11:46Z",
@@ -228,6 +252,12 @@
       "name": "E2B",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Easyduino",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     },
     {
@@ -270,6 +300,12 @@
       "name": "flipbook.page",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Flipdiscs",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     },
     {
@@ -471,6 +507,12 @@
       "times_reported": 1
     },
     {
+      "name": "kitty",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Kloak",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -495,6 +537,12 @@
       "times_reported": 1
     },
     {
+      "name": "Lazygit",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Libby",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
@@ -510,6 +558,12 @@
       "name": "LM Studio",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "LocalSend",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
       "times_reported": 1
     },
     {
@@ -579,6 +633,12 @@
       "times_reported": 1
     },
     {
+      "name": "Netatalk",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "Niri",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -609,6 +669,12 @@
       "times_reported": 1
     },
     {
+      "name": "OpenRouter",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "OpenSeadragon",
       "first_reported_at": "2026-04-15T04:39:17+00:00",
       "last_reported_at": "2026-04-15T04:39:17+00:00",
@@ -630,6 +696,12 @@
       "name": "PAIP",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PairDrop",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
       "times_reported": 1
     },
     {
@@ -693,6 +765,12 @@
       "times_reported": 1
     },
     {
+      "name": "Quarkdown",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "Qwen3.6-27B",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
@@ -705,9 +783,21 @@
       "times_reported": 1
     },
     {
+      "name": "restic",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "RTIC",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "runs-on",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
       "times_reported": 1
     },
     {
@@ -792,6 +882,12 @@
       "name": "Starting Forth",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Super ZSNES",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     },
     {
@@ -897,6 +993,18 @@
       "times_reported": 1
     },
     {
+      "name": "Utilyze",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Veritasium video",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "VidStudio",
       "first_reported_at": "2026-04-21T21:17:50Z",
       "last_reported_at": "2026-04-21T21:17:50Z",
@@ -906,6 +1014,18 @@
       "name": "VolSplat",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "WAL-G",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Warp",
+      "first_reported_at": "2026-04-28T21:25:41+00:00",
+      "last_reported_at": "2026-04-28T21:25:41+00:00",
       "times_reported": 1
     },
     {
@@ -954,78 +1074,6 @@
       "name": "Zometool",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Easyduino",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Super ZSNES",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Utilyze",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Quarkdown",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Flipdiscs",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Dirac",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Barman",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "WAL-G",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Carbon Copy Cloner",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "restic",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Netatalk",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OpenRouter",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     }
   ]

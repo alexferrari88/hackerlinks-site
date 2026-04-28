@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "run_date": "2026-04-28",
+  "generated_at": "2026-04-28T21:25:41+00:00",
+  "summary": "8 items surfaced from 23 qualifying stories; full comment-tree scan completed.",
+  "items": [
+    {
+      "name": "Warp",
+      "thing_url": "https://www.warp.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47937349",
+      "source_story_title": "Warp is now Open-Source",
+      "category": "Dev Tools & Workflows",
+      "summary": "Open-source terminal with customizable Agents workflows.",
+      "why_included": "Commenters described the Agents layout and customization as genuinely useful.",
+      "evidence": "One commenter said the Agents layout fits their workflow so well; others praised the recent open-source move and new controls."
+    },
+    {
+      "name": "kitty",
+      "thing_url": "https://sw.kovidgoyal.net/kitty/",
+      "hn_url": "https://news.ycombinator.com/item?id=47937349",
+      "source_story_title": "Warp is now Open-Source",
+      "category": "Dev Tools & Workflows",
+      "summary": "Fast terminal emulator commenters told others to check out.",
+      "why_included": "A direct recommendation made it stand out from the terminal discussion.",
+      "evidence": "A commenter simply said, “Check out kitty if you haven’t yet.”"
+    },
+    {
+      "name": "Lazygit",
+      "thing_url": "https://github.com/jesseduffield/lazygit",
+      "hn_url": "https://news.ycombinator.com/item?id=47906651",
+      "source_story_title": "I have officially retired from Emacs",
+      "category": "Dev Tools & Workflows",
+      "summary": "Terminal Git UI praised as a Magit replacement on remote hosts.",
+      "why_included": "The thread surfaced it as the closest practical substitute for editor-bound Git workflows.",
+      "evidence": "A commenter called Lazygit the closest thing they had seen and said they use it on remote hosts when Magit is too painful."
+    },
+    {
+      "name": "runs-on",
+      "thing_url": "https://runs-on.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47933257",
+      "source_story_title": "GitHub Actions is the weakest link",
+      "category": "Dev Tools & Workflows",
+      "summary": "Managed GitHub Actions runners people said worked well for AWS instances.",
+      "why_included": "It was explicitly recommended as a useful CI runner alternative.",
+      "evidence": "One commenter said their team has been using runs-on and that it had been great for AWS instance runners."
+    },
+    {
+      "name": "LocalSend",
+      "thing_url": "https://github.com/localsend/localsend",
+      "hn_url": "https://news.ycombinator.com/item?id=47933208",
+      "source_story_title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "category": "Apps & Side Projects",
+      "summary": "Cross-platform AirDrop-style file transfer app praised for reliability and speed.",
+      "why_included": "Many commenters described it as their go-to local file-transfer app.",
+      "evidence": "Commenters said they use LocalSend across devices, called it great and interoperable, and described it as fast and useful."
+    },
+    {
+      "name": "PairDrop",
+      "thing_url": "https://pairdrop.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=47933208",
+      "source_story_title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "category": "Apps & Side Projects",
+      "summary": "Browser-based file sharing PWA commenters urged others to try.",
+      "why_included": "It appeared as a direct “also try” recommendation in the LocalSend discussion.",
+      "evidence": "A commenter told readers to also try PairDrop and described it as a polished PWA with WebRTC peer-to-peer sharing."
+    },
+    {
+      "name": "Veritasium video",
+      "thing_url": "https://www.youtube.com/watch?v=MiUHjLxm3V0",
+      "hn_url": "https://news.ycombinator.com/item?id=47901064",
+      "source_story_title": "ASML became the chokepoint for cutting-edge chips",
+      "category": "Watch & Learn",
+      "summary": "ASML/EUV explainer recommended for understanding lithography.",
+      "why_included": "The discussion pointed people to a clear, accessible explainer.",
+      "evidence": "Two commenters recommended the Veritasium video as a good way to grasp EUV lithography and the machine’s complexity."
+    },
+    {
+      "name": "Asianometry channel",
+      "thing_url": "https://m.youtube.com/c/Asianometry/videos?ra=m",
+      "hn_url": "https://news.ycombinator.com/item?id=47901064",
+      "source_story_title": "ASML became the chokepoint for cutting-edge chips",
+      "category": "Watch & Learn",
+      "summary": "Deep ASML and chip-supply-chain videos commenters recommended.",
+      "why_included": "It came up as a strong follow-up for deeper semiconductor coverage.",
+      "evidence": "A commenter recommended Asianometry for ASML, TSMC, and chip-fab supply-chain videos."
+    }
+  ]
+}

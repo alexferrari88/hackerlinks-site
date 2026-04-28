@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-28T21:25:41+00:00",
+  "id": "localsend",
+  "last_seen_at": "2026-04-28T21:25:41+00:00",
+  "latest_mention_id": "2026-04-28:localsend:47933208",
+  "mention_ids": [
+    "2026-04-28:localsend:47933208"
+  ],
+  "name": "LocalSend",
+  "slug": "localsend",
+  "summary": "Cross-platform AirDrop-style file transfer app praised for reliability and speed.",
+  "thing_url": "https://github.com/localsend/localsend",
+  "times_seen": 1,
+  "why_included": "Many commenters described it as their go-to local file-transfer app."
+}

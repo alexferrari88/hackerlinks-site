@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-28T21:25:41+00:00",
+  "id": "runs-on",
+  "last_seen_at": "2026-04-28T21:25:41+00:00",
+  "latest_mention_id": "2026-04-28:runs-on:47933257",
+  "mention_ids": [
+    "2026-04-28:runs-on:47933257"
+  ],
+  "name": "runs-on",
+  "slug": "runs-on",
+  "summary": "Managed GitHub Actions runners people said worked well for AWS instances.",
+  "thing_url": "https://runs-on.com/",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as a useful CI runner alternative."
+}
