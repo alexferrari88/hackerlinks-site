@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "quarkdown",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:quarkdown:47919240",
+  "mention_ids": [
+    "2026-04-27:quarkdown:47919240"
+  ],
+  "name": "Quarkdown",
+  "slug": "quarkdown",
+  "summary": "Markdown-based document system pushing text docs toward typesetting.",
+  "thing_url": "https://quarkdown.com/",
+  "times_seen": 1,
+  "why_included": "Commenters compared it favorably with Typst, Quarto, Pandoc, and LaTeX workflows."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-24T21:13:46.420401Z",
+  "id": "spinel",
+  "last_seen_at": "2026-04-24T21:13:46.420401Z",
+  "latest_mention_id": "2026-04-24:spinel:47887334",
+  "mention_ids": [
+    "2026-04-24:spinel:47887334"
+  ],
+  "name": "Spinel",
+  "slug": "spinel",
+  "summary": "Spinel \u2014 Experimental Ruby AOT compiler that emits native code.",
+  "thing_url": "https://github.com/matz/spinel",
+  "times_seen": 1,
+  "why_included": "HN spent real time on its subset tradeoffs and what Ruby loses without metaprogramming."
+}

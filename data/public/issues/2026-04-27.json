@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T21:27:33Z",
+  "headline": "12 interesting things surfaced from HN on 2026-04-27",
+  "id": "2026-04-27",
+  "mention_ids": [
+    "2026-04-27:easyduino:47924813",
+    "2026-04-27:super-zsnes:47924877",
+    "2026-04-27:utilyze:47921626",
+    "2026-04-27:quarkdown:47919240",
+    "2026-04-27:flipdiscs:47875795",
+    "2026-04-27:dirac:47920787",
+    "2026-04-27:barman:47919997",
+    "2026-04-27:wal-g:47919997",
+    "2026-04-27:carbon-copy-cloner:47923010",
+    "2026-04-27:restic:47923010",
+    "2026-04-27:netatalk:47923010",
+    "2026-04-27:openrouter:47923357"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

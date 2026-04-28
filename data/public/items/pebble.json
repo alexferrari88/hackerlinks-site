@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-23T21:17:00Z",
+  "id": "pebble",
+  "last_seen_at": "2026-04-23T21:17:00Z",
+  "latest_mention_id": "2026-04-23:pebble:47846307",
+  "mention_ids": [
+    "2026-04-23:pebble:47846307"
+  ],
+  "name": "Pebble",
+  "slug": "pebble",
+  "summary": "Comeback smartwatch with e-paper screens and unusually long battery life.",
+  "thing_url": "https://repebble.com/watch",
+  "times_seen": 1,
+  "why_included": "The watch thread singled it out as nearly ideal for people who want a simple smartwatch."
+}

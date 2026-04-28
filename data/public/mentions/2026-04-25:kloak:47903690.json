@@ -1,0 +1,12 @@
+{
+  "evidence": "\u201cIdea is good though, wish you luck.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=47903690",
+  "id": "2026-04-25:kloak:47903690",
+  "is_repeat": false,
+  "issue_id": "2026-04-25",
+  "item_id": "kloak",
+  "rank": 8,
+  "seen_at": "2026-04-25T21:08:06Z",
+  "source_story_id": "47903690",
+  "source_story_title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets"
+}

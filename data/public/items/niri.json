@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "niri",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:niri:47902416",
+  "mention_ids": [
+    "2026-04-25:niri:47902416"
+  ],
+  "name": "Niri",
+  "slug": "niri",
+  "summary": "Scrollable-tiling Wayland compositor praised for ultrawide workflows.",
+  "thing_url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+  "times_seen": 1,
+  "why_included": "The thread was overwhelmingly positive about its desktop ergonomics."
+}

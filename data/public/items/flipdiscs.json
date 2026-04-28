@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "flipdiscs",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:flipdiscs:47875795",
+  "mention_ids": [
+    "2026-04-27:flipdiscs:47875795"
+  ],
+  "name": "Flipdiscs",
+  "slug": "flipdiscs",
+  "summary": "Flip-disc display project that turns real-time data into kinetic visuals.",
+  "thing_url": "https://flipdisc.io/",
+  "times_seen": 1,
+  "why_included": "HN comments praised the sound, the art installations, and the live tide-driven animation."
+}

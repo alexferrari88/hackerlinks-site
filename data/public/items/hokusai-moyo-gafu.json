@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "hokusai-moyo-gafu",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:hokusai-moyo-gafu:47902993",
+  "mention_ids": [
+    "2026-04-25:hokusai-moyo-gafu:47902993"
+  ],
+  "name": "Hokusai Moyo Gafu",
+  "slug": "hokusai-moyo-gafu",
+  "summary": "Hokusai pattern book shared as a concrete tessellation source.",
+  "thing_url": "https://www.ndl.go.jp/en/imagebank/theme/hokusaimoyo",
+  "times_seen": 1,
+  "why_included": "The thread surfaced an actual book copy and accessible scans."
+}

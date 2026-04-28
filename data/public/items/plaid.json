@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-24T21:13:46.420401Z",
+  "id": "plaid",
+  "last_seen_at": "2026-04-24T21:13:46.420401Z",
+  "latest_mention_id": "2026-04-24:plaid:47894690",
+  "mention_ids": [
+    "2026-04-24:plaid:47894690"
+  ],
+  "name": "Plaid",
+  "slug": "plaid",
+  "summary": "Plaid \u2014 Financial-data platform that now has a self-serve path for hobbyists.",
+  "thing_url": "https://plaid.com/",
+  "times_seen": 1,
+  "why_included": "A Plaid rep stepped in to clarify non-business onboarding in the thread."
+}

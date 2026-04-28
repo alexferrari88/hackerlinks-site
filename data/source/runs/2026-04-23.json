@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "run_date": "2026-04-23",
+  "generated_at": "2026-04-23T21:17:00Z",
+  "summary": "7 items surfaced from today's HN comment threads.",
+  "items": [
+    {
+      "name": "Honker",
+      "thing_url": "https://github.com/russellromney/honker",
+      "hn_url": "https://news.ycombinator.com/item?id=47874647",
+      "source_story_title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "summary": "SQLite extension that adds Postgres-style NOTIFY/LISTEN and durable queues.",
+      "why_included": "Show HN with strong practical appeal and concrete discussion of low-latency, atomic messaging.",
+      "evidence": "HN comments praised the \"one db and no daemon\" model, low-latency reactivity, and atomic rollback with durable work queues.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "Kamal",
+      "thing_url": "https://kamal-deploy.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47872324",
+      "source_story_title": "I am building a cloud",
+      "summary": "Deployment tool for shipping web apps to VMs and bare metal.",
+      "why_included": "A commenter gave a concrete Kubernetes alternative they actually use in practice.",
+      "evidence": "One commenter said they nuked Kubernetes, moved to a single Debian VM, and used Kamal with Docker.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "SourceHut",
+      "thing_url": "https://sourcehut.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47877644",
+      "source_story_title": "Incident with multple GitHub services",
+      "summary": "Email-first open-source forge for git repos, CI, and collaboration.",
+      "why_included": "A reliability thread surfaced it as a practical GitHub alternative people are considering now.",
+      "evidence": "A commenter said they would move to SourceHut because it supports contributions by email without an account requirement.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "ImHex",
+      "thing_url": "https://imhex.werwolv.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=47846688",
+      "source_story_title": "Your hex editor should color-code bytes",
+      "summary": "Open-source hex editor with structured overlays and parser support.",
+      "why_included": "The hex-editor thread repeatedly recommended it for real reverse-engineering workflows.",
+      "evidence": "Commenters praised ImHex for structured overlays, built-in parsers, a pattern language, and active maintenance.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "NixOS",
+      "thing_url": "https://nixos.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47877644",
+      "source_story_title": "Incident with multple GitHub services",
+      "summary": "Declarative Linux platform for reproducible builds and homelabs.",
+      "why_included": "A reliability thread highlighted it as a strong baseline for self-hosted infrastructure.",
+      "evidence": "A commenter said \"NixOS really is that good, particularly for homelabs\" amid the GitHub outage discussion.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "Pebble",
+      "thing_url": "https://repebble.com/watch",
+      "hn_url": "https://news.ycombinator.com/item?id=47846307",
+      "source_story_title": "A DIY Watch You Can Actually Wear",
+      "summary": "Comeback smartwatch with e-paper screens and unusually long battery life.",
+      "why_included": "The watch thread singled it out as nearly ideal for people who want a simple smartwatch.",
+      "evidence": "A commenter called the new Pebble nearly perfect and said the main miss was no O2 sensor.",
+      "category": "⌚ Hardware & Maker"
+    },
+    {
+      "name": "GPT-5.5",
+      "thing_url": "https://openai.com/index/introducing-gpt-5-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=47879092",
+      "source_story_title": "GPT-5.5",
+      "summary": "OpenAI's latest model release for coding, research, and long tasks.",
+      "why_included": "Major AI launch with comment-level praise beyond simple benchmark chatter.",
+      "evidence": "Commenters said it feels strong at long-horizon tasks and discussed Codex workflow improvements and pricing.",
+      "category": "🤖 AI & Models"
+    }
+  ]
+}

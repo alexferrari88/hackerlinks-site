@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "run_date": "2026-04-27",
+  "generated_at": "2026-04-27T21:27:33Z",
+  "summary": {
+    "stories_scanned": 26,
+    "stories_qualifying": 26,
+    "items_surfaced": 12,
+    "mode": "broad_serendipity"
+  },
+  "items": [
+    {
+      "name": "Easyduino",
+      "thing_url": "https://github.com/Hanqaqa/Easyduino",
+      "hn_url": "https://news.ycombinator.com/item?id=47924813",
+      "source_story_title": "Easyduino: Open Source PCB Devboards for KiCad",
+      "summary": "Open-source KiCad devboard templates for remixing existing PCB designs.",
+      "why_included": "Commenters praised it as a reusable PCB design system for fast board tweaks.",
+      "evidence": "The thread said it was the kind of PCB design base people had wanted for years and noted how agonizing Eagle-to-KiCad import can be."
+    },
+    {
+      "name": "Super ZSNES",
+      "thing_url": "https://zsnes.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47924877",
+      "source_story_title": "Super ZSNES – GPU Powered SNES Emulator",
+      "summary": "GPU-powered SNES emulator focused on visual upgrades and modern rendering.",
+      "why_included": "HN commenters dug into the emulator’s rendering tricks, accuracy tradeoffs, and Unity implementation.",
+      "evidence": "The discussion highlighted high-res Mode 7, texture replacements, shaders, and the accuracy bar set by CPU emulators like higan."
+    },
+    {
+      "name": "Utilyze",
+      "thing_url": "https://www.systalyze.com/utilyze",
+      "hn_url": "https://news.ycombinator.com/item?id=47921626",
+      "source_story_title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+      "summary": "Open-source GPU monitor that measures real throughput instead of raw utilization.",
+      "why_included": "HN discussion liked the clearer compute-versus-memory view and the planned process and power stats.",
+      "evidence": "The thread said nvidia-smi and nvtop-style utilization can show 100% while actual compute is far lower."
+    },
+    {
+      "name": "Quarkdown",
+      "thing_url": "https://quarkdown.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47919240",
+      "source_story_title": "Quarkdown – Markdown with Superpowers",
+      "summary": "Markdown-based document system pushing text docs toward typesetting.",
+      "why_included": "Commenters compared it favorably with Typst, Quarto, Pandoc, and LaTeX workflows.",
+      "evidence": "HN said Quarkdown is a strict upgrade over typing LaTeX directly and placed it alongside Typst, Quarto, MyST, and Pandoc."
+    },
+    {
+      "name": "Flipdiscs",
+      "thing_url": "https://flipdisc.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=47875795",
+      "source_story_title": "Flipdiscs",
+      "summary": "Flip-disc display project that turns real-time data into kinetic visuals.",
+      "why_included": "HN comments praised the sound, the art installations, and the live tide-driven animation.",
+      "evidence": "Commenters highlighted BREAKFAST installations and the real-time API data driving the wave-like motion."
+    },
+    {
+      "name": "Dirac",
+      "thing_url": "https://github.com/dirac-run/dirac",
+      "hn_url": "https://news.ycombinator.com/item?id=47920787",
+      "source_story_title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "summary": "Open-source agent CLI harness that scored well on TerminalBench.",
+      "why_included": "Commenters were impressed by the benchmark result and the no-cheating setup.",
+      "evidence": "The thread said Dirac scored 65.2% on TerminalBench 2.0, beating Google’s official result and Junie CLI."
+    },
+    {
+      "name": "Barman",
+      "thing_url": "https://pgbarman.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47919997",
+      "source_story_title": "Pgbackrest is no longer being maintained",
+      "summary": "PostgreSQL backup manager commenters praised as a mature disaster-recovery tool.",
+      "why_included": "The pgBackRest thread repeatedly pointed people toward Barman as a dependable alternative.",
+      "evidence": "Commenters said Barman had worked successfully at scale and handled long-term restore testing well."
+    },
+    {
+      "name": "WAL-G",
+      "thing_url": "https://github.com/wal-g/wal-g",
+      "hn_url": "https://news.ycombinator.com/item?id=47919997",
+      "source_story_title": "Pgbackrest is no longer being maintained",
+      "summary": "PostgreSQL backup and restore tool discussed as a common pgBackRest alternative.",
+      "why_included": "HN commenters compared it directly with pgBackRest for PITR and compressed backups.",
+      "evidence": "The thread described WAL-G as a streaming backup option with praise for portability and non-exclusive base backups."
+    },
+    {
+      "name": "Carbon Copy Cloner",
+      "thing_url": "https://bombich.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47923010",
+      "source_story_title": "Networking changes coming in macOS 27",
+      "summary": "macOS backup app commenters use for Time Machine replacements.",
+      "why_included": "The macOS 27 thread cited it as a practical backup path when AFP and Time Machine setups break.",
+      "evidence": "Users said they had success with Synology NAS plus Carbon Copy Cloner and other modern backup workflows."
+    },
+    {
+      "name": "restic",
+      "thing_url": "https://restic.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=47923010",
+      "source_story_title": "Networking changes coming in macOS 27",
+      "summary": "Cross-platform backup program suggested as a modern Time Machine alternative.",
+      "why_included": "HN commenters named restic-based backups as a working replacement for legacy AFP setups.",
+      "evidence": "The macOS thread grouped restic with SMB/ext4 and other successful backup workflows."
+    },
+    {
+      "name": "Netatalk",
+      "thing_url": "https://netatalk.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=47923010",
+      "source_story_title": "Networking changes coming in macOS 27",
+      "summary": "Open-source AFP file server used for legacy Mac backup compatibility.",
+      "why_included": "Commenters brought it up as the legacy bridge for older Time Machine and AFP environments.",
+      "evidence": "The macOS discussion explicitly mentioned Netatalk/AFP-based backups as the old setup people may need to migrate away from."
+    },
+    {
+      "name": "OpenRouter",
+      "thing_url": "https://openrouter.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47923357",
+      "source_story_title": "GitHub Copilot is moving to usage-based billing",
+      "summary": "Unified model gateway cited as a cheaper Copilot alternative.",
+      "why_included": "The Copilot billing thread repeatedly compared GitHub Copilot against OpenRouter and direct model APIs.",
+      "evidence": "Commenters said the new pricing makes Copilot much less attractive than OpenRouter, direct APIs, and other alternatives."
+    }
+  ]
+}

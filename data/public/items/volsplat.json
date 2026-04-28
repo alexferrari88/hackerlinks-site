@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "volsplat",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:volsplat:47876071",
+  "mention_ids": [
+    "2026-04-26:volsplat:47876071"
+  ],
+  "name": "VolSplat",
+  "slug": "volsplat",
+  "summary": "A voxelize-and-mesh workflow for turning Gaussian splats into usable geometry.",
+  "thing_url": "https://github.com/ziplab/VolSplat",
+  "times_seen": 1,
+  "why_included": "Commenters pointed to it as a promising bridge from splats to editable 3D pipelines."
+}

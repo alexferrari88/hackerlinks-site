@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "wsl9x",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:wsl9x:47861270",
+  "mention_ids": [
+    "2026-04-22:wsl9x:47861270"
+  ],
+  "name": "WSL9x",
+  "slug": "wsl9x",
+  "summary": "A retro project that runs a modern Linux kernel inside Windows 9x.",
+  "thing_url": "https://codeberg.org/hails/wsl9x",
+  "times_seen": 1,
+  "why_included": "It\u2019s a rare, technical cross-OS hack with strong retro-computing appeal."
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T21:17:00Z",
+  "headline": "7 interesting things surfaced from HN on 2026-04-23",
+  "id": "2026-04-23",
+  "mention_ids": [
+    "2026-04-23:honker:47874647",
+    "2026-04-23:kamal:47872324",
+    "2026-04-23:sourcehut:47877644",
+    "2026-04-23:imhex:47846688",
+    "2026-04-23:nixos:47877644",
+    "2026-04-23:pebble:47846307",
+    "2026-04-23:gpt-5-5:47879092"
+  ],
+  "summary": {
+    "items_surfaced": 7,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

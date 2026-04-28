@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-24T21:13:46.420401Z",
+  "id": "endless-toil",
+  "last_seen_at": "2026-04-24T21:13:46.420401Z",
+  "latest_mention_id": "2026-04-24:endless-toil:47888465",
+  "mention_ids": [
+    "2026-04-24:endless-toil:47888465"
+  ],
+  "name": "Endless Toil",
+  "slug": "endless-toil",
+  "summary": "Endless Toil \u2014 Audio feedback layer that turns AI code smell into sounds.",
+  "thing_url": "https://github.com/AndrewVos/endless-toil",
+  "times_seen": 1,
+  "why_included": "The thread framed it as a real developer-tool product, not just a joke."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "wal-g",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:wal-g:47919997",
+  "mention_ids": [
+    "2026-04-27:wal-g:47919997"
+  ],
+  "name": "WAL-G",
+  "slug": "wal-g",
+  "summary": "PostgreSQL backup and restore tool discussed as a common pgBackRest alternative.",
+  "thing_url": "https://github.com/wal-g/wal-g",
+  "times_seen": 1,
+  "why_included": "HN commenters compared it directly with pgBackRest for PITR and compressed backups."
+}

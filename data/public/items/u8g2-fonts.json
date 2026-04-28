@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "u8g2-fonts",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:u8g2-fonts:47824943",
+  "mention_ids": [
+    "2026-04-22:u8g2-fonts:47824943"
+  ],
+  "name": "u8g2 fonts",
+  "slug": "u8g2-fonts",
+  "summary": "A font collection for embedded displays and other tiny UI surfaces.",
+  "thing_url": "https://docs.rs/u8g2-fonts/latest/u8g2_fonts/fonts/index.html",
+  "times_seen": 1,
+  "why_included": "It\u2019s a practical source pack for small-screen and embedded projects."
+}

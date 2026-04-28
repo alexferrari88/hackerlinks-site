@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "run_date": "2026-04-22",
+  "generated_at": "2026-04-22T21:23:43Z",
+  "summary": "11 concrete items surfaced from 24 qualifying stories; 24/24 stories scraped; history updated.",
+  "items": [
+    {
+      "name": "Qwen3.6-27B",
+      "thing_url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=47863217",
+      "source_story_id": 47863217,
+      "source_story_title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "summary": "A 27B local coding model commenters found unusually strong in practice.",
+      "why_included": "It drew repeated praise as a serious local alternative for coding and audits.",
+      "evidence": "Commenters called the quantized build excellent, shared good security-audit results, and even said it beat an Opus 4.7 run for them."
+    },
+    {
+      "name": "Broccoli",
+      "thing_url": "https://github.com/besimple-oss/broccoli",
+      "hn_url": "https://news.ycombinator.com/item?id=47865642",
+      "source_story_id": 47865642,
+      "source_story_title": "Show HN: Broccoli, one shot coding agent on the cloud",
+      "summary": "An open-source cloud harness that runs coding tasks in isolated sandboxes.",
+      "why_included": "It solves the agent-harness problem instead of just shipping another model wrapper.",
+      "evidence": "The thread emphasized Linear tasks, sandboxed execution, and claims that non-developer PRs shipped through Broccoli."
+    },
+    {
+      "name": "Zed",
+      "thing_url": "https://zed.dev/blog/parallel-agents",
+      "hn_url": "https://news.ycombinator.com/item?id=47866750",
+      "source_story_id": 47866750,
+      "source_story_title": "Parallel Agents in Zed",
+      "summary": "A fast editor adding parallel agents and worktree-based AI workflows.",
+      "why_included": "It marries a beloved editor with a concrete multi-agent workflow.",
+      "evidence": "Commenters called Zed one of the best editors in years and debated the new parallel-agent layout."
+    },
+    {
+      "name": "flipbook.page",
+      "thing_url": "https://flipbook.page/",
+      "hn_url": "https://news.ycombinator.com/item?id=47867048",
+      "source_story_id": 47867048,
+      "source_story_title": "Website streamed live directly from a model",
+      "summary": "A live model-built website demo that commenters found unusually original.",
+      "why_included": "It stood out as a novel AI demo with clear educational potential.",
+      "evidence": "HN called it one of the more unique ideas and an amazing educational tool despite speed and hallucination issues."
+    },
+    {
+      "name": "Ursa Ag",
+      "thing_url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "hn_url": "https://news.ycombinator.com/item?id=47865868",
+      "source_story_id": 47865868,
+      "source_story_title": "Alberta startup sells no-tech tractors for half price",
+      "summary": "Mechanical no-tech tractors aimed at cutting complexity and repair costs.",
+      "why_included": "It taps the right-to-repair mood with a concrete physical product.",
+      "evidence": "Commenters asked for a straightforward mechanical machine and noted these tractors could last for decades."
+    },
+    {
+      "name": "WSL9x",
+      "thing_url": "https://codeberg.org/hails/wsl9x",
+      "hn_url": "https://news.ycombinator.com/item?id=47861270",
+      "source_story_id": 47861270,
+      "source_story_title": "Windows 9x Subsystem for Linux",
+      "summary": "A retro project that runs a modern Linux kernel inside Windows 9x.",
+      "why_included": "It’s a rare, technical cross-OS hack with strong retro-computing appeal.",
+      "evidence": "The thread compared it to Cygwin, CoLinux, flinux, WSL, Win4Lin, Interix, Wine, and Dosbox."
+    },
+    {
+      "name": "5x5 Pixel font",
+      "thing_url": "https://maurycyz.com/projects/mcufont/",
+      "hn_url": "https://news.ycombinator.com/item?id=47824943",
+      "source_story_id": 47824943,
+      "source_story_title": "5x5 Pixel font for tiny screens",
+      "summary": "A tiny 5x5 bitmap font designed for cramped embedded screens.",
+      "why_included": "It sparked practical recommendations for tiny-display typography.",
+      "evidence": "Commenters debated glyph readability and linked multiple related micro-font projects."
+    },
+    {
+      "name": "Spleen",
+      "thing_url": "https://github.com/fcambus/spleen",
+      "hn_url": "https://news.ycombinator.com/item?id=47824943",
+      "source_story_id": 47824943,
+      "source_story_title": "5x5 Pixel font for tiny screens",
+      "summary": "A compact 5x8 font commenters recommended for tiny readable text.",
+      "why_included": "It was explicitly praised as a practical alternative in the tiny-font discussion.",
+      "evidence": "One reply said, 'I'm quite fond of Spleen,' while comparing small-font options."
+    },
+    {
+      "name": "Tom Thumb",
+      "thing_url": "https://fontstruct.com/fontstructions/show/1656341/tom-thumb",
+      "hn_url": "https://news.ycombinator.com/item?id=47824943",
+      "source_story_id": 47824943,
+      "source_story_title": "5x5 Pixel font for tiny screens",
+      "summary": "A tiny 4x6 font suggested as a readable alternative for micro displays.",
+      "why_included": "It offers another concrete option for extremely constrained screens.",
+      "evidence": "The thread cited Tom Thumb as a 4x6 font with all ASCII coverage and one fewer pixel per character."
+    },
+    {
+      "name": "Tony Pai's 3x3 pixel font",
+      "thing_url": "https://tonypai.itch.io/3x3-pixel-font",
+      "hn_url": "https://news.ycombinator.com/item?id=47824943",
+      "source_story_id": 47824943,
+      "source_story_title": "5x5 Pixel font for tiny screens",
+      "summary": "A minimalist 3x3 uppercase pixel font for extremely small screens.",
+      "why_included": "It broadens the set of workable fonts for ultra-small UIs.",
+      "evidence": "A commenter linked Tony Pai's 3x3 font as a good uppercase-only option."
+    },
+    {
+      "name": "u8g2 fonts",
+      "thing_url": "https://docs.rs/u8g2-fonts/latest/u8g2_fonts/fonts/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47824943",
+      "source_story_id": 47824943,
+      "source_story_title": "5x5 Pixel font for tiny screens",
+      "summary": "A font collection for embedded displays and other tiny UI surfaces.",
+      "why_included": "It’s a practical source pack for small-screen and embedded projects.",
+      "evidence": "Comments pointed to u8g2 as a useful embedded-display font library."
+    }
+  ]
+}

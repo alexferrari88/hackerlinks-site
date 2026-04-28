@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "qwen3-6-27b",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:qwen3-6-27b:47863217",
+  "mention_ids": [
+    "2026-04-22:qwen3-6-27b:47863217"
+  ],
+  "name": "Qwen3.6-27B",
+  "slug": "qwen3-6-27b",
+  "summary": "A 27B local coding model commenters found unusually strong in practice.",
+  "thing_url": "https://qwen.ai/blog?id=qwen3.6-27b",
+  "times_seen": 1,
+  "why_included": "It drew repeated praise as a serious local alternative for coding and audits."
+}

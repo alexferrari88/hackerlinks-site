@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "easyduino",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:easyduino:47924813",
+  "mention_ids": [
+    "2026-04-27:easyduino:47924813"
+  ],
+  "name": "Easyduino",
+  "slug": "easyduino",
+  "summary": "Open-source KiCad devboard templates for remixing existing PCB designs.",
+  "thing_url": "https://github.com/Hanqaqa/Easyduino",
+  "times_seen": 1,
+  "why_included": "Commenters praised it as a reusable PCB design system for fast board tweaks."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "The macOS thread grouped restic with SMB/ext4 and other successful backup workflows.",
+  "hn_url": "https://news.ycombinator.com/item?id=47923010",
+  "id": "2026-04-27:restic:47923010",
+  "is_repeat": false,
+  "issue_id": "2026-04-27",
+  "item_id": "restic",
+  "rank": 10,
+  "seen_at": "2026-04-27T21:27:33Z",
+  "source_story_id": "47923010",
+  "source_story_title": "Networking changes coming in macOS 27"
+}

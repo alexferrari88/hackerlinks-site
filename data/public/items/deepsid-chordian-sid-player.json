@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "deepsid-chordian-sid-player",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:deepsid-chordian-sid-player:47900398",
+  "mention_ids": [
+    "2026-04-25:deepsid-chordian-sid-player:47900398"
+  ],
+  "name": "Deepsid / Chordian SID player",
+  "slug": "deepsid-chordian-sid-player",
+  "summary": "Browser SID player shared for listening to Wizball tunes directly.",
+  "thing_url": "https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Wizball.sid&subtune=4",
+  "times_seen": 1,
+  "why_included": "A concrete listening tool was directly shared in the comments."
+}

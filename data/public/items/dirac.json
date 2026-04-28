@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "dirac",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:dirac:47920787",
+  "mention_ids": [
+    "2026-04-27:dirac:47920787"
+  ],
+  "name": "Dirac",
+  "slug": "dirac",
+  "summary": "Open-source agent CLI harness that scored well on TerminalBench.",
+  "thing_url": "https://github.com/dirac-run/dirac",
+  "times_seen": 1,
+  "why_included": "Commenters were impressed by the benchmark result and the no-cheating setup."
+}

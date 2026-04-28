@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "slayradio",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:slayradio:47900398",
+  "mention_ids": [
+    "2026-04-25:slayradio:47900398"
+  ],
+  "name": "Slayradio",
+  "slug": "slayradio",
+  "summary": "C64 music radio site recommended as a longtime favorite.",
+  "thing_url": "https://slayradio.org/",
+  "times_seen": 1,
+  "why_included": "A commenter described it as a long-term listening staple."
+}

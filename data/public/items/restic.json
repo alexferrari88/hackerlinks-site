@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "restic",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:restic:47923010",
+  "mention_ids": [
+    "2026-04-27:restic:47923010"
+  ],
+  "name": "restic",
+  "slug": "restic",
+  "summary": "Cross-platform backup program suggested as a modern Time Machine alternative.",
+  "thing_url": "https://restic.net/",
+  "times_seen": 1,
+  "why_included": "HN commenters named restic-based backups as a working replacement for legacy AFP setups."
+}

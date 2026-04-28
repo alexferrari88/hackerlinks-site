@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "super-zsnes",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:super-zsnes:47924877",
+  "mention_ids": [
+    "2026-04-27:super-zsnes:47924877"
+  ],
+  "name": "Super ZSNES",
+  "slug": "super-zsnes",
+  "summary": "GPU-powered SNES emulator focused on visual upgrades and modern rendering.",
+  "thing_url": "https://zsnes.com/",
+  "times_seen": 1,
+  "why_included": "HN commenters dug into the emulator\u2019s rendering tricks, accuracy tradeoffs, and Unity implementation."
+}

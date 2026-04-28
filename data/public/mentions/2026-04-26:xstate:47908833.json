@@ -1,0 +1,12 @@
+{
+  "evidence": "The creator described XState as a JS/TS library, and commenters highlighted executable behavior, hierarchy, and visualization.",
+  "hn_url": "https://news.ycombinator.com/item?id=47908833",
+  "id": "2026-04-26:xstate:47908833",
+  "is_repeat": false,
+  "issue_id": "2026-04-26",
+  "item_id": "xstate",
+  "rank": 1,
+  "seen_at": "2026-04-26T21:02:52Z",
+  "source_story_id": "47908833",
+  "source_story_title": "Statecharts: hierarchical state machines"
+}

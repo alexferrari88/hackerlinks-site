@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "kloak",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:kloak:47903690",
+  "mention_ids": [
+    "2026-04-25:kloak:47903690"
+  ],
+  "name": "Kloak",
+  "slug": "kloak",
+  "summary": "Kubernetes secret manager that rewrites placeholders at runtime.",
+  "thing_url": "https://getkloak.io/",
+  "times_seen": 1,
+  "why_included": "A commenter clearly endorsed the idea and wished the author luck."
+}

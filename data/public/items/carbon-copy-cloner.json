@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "carbon-copy-cloner",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:carbon-copy-cloner:47923010",
+  "mention_ids": [
+    "2026-04-27:carbon-copy-cloner:47923010"
+  ],
+  "name": "Carbon Copy Cloner",
+  "slug": "carbon-copy-cloner",
+  "summary": "macOS backup app commenters use for Time Machine replacements.",
+  "thing_url": "https://bombich.com/",
+  "times_seen": 1,
+  "why_included": "The macOS 27 thread cited it as a practical backup path when AFP and Time Machine setups break."
+}

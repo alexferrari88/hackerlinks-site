@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-24T21:13:46.420401Z",
+  "id": "tiller",
+  "last_seen_at": "2026-04-24T21:13:46.420401Z",
+  "latest_mention_id": "2026-04-24:tiller:47894690",
+  "mention_ids": [
+    "2026-04-24:tiller:47894690"
+  ],
+  "name": "Tiller",
+  "slug": "tiller",
+  "summary": "Tiller \u2014 Spreadsheet sync service for bank and credit-card transactions.",
+  "thing_url": "https://tiller.com/",
+  "times_seen": 1,
+  "why_included": "It was recommended as a boring, dependable alternative to using Claude for finance monitoring."
+}

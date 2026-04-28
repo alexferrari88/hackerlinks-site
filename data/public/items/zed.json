@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "zed",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:zed:47866750",
+  "mention_ids": [
+    "2026-04-22:zed:47866750"
+  ],
+  "name": "Zed",
+  "slug": "zed",
+  "summary": "A fast editor adding parallel agents and worktree-based AI workflows.",
+  "thing_url": "https://zed.dev/blog/parallel-agents",
+  "times_seen": 1,
+  "why_included": "It marries a beloved editor with a concrete multi-agent workflow."
+}

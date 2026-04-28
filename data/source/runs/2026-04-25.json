@@ -1,0 +1,179 @@
+{
+  "version": 2,
+  "run_date": "2026-04-25",
+  "generated_at": "2026-04-25T21:08:06Z",
+  "summary": "19 concrete mentions surfaced across 21 qualifying stories.",
+  "items": [
+    {
+      "name": "Zometool",
+      "thing_url": null,
+      "hn_url": "https://news.ycombinator.com/item?id=47860198",
+      "source_story_title": "The Free Universal Construction Kit",
+      "summary": "Modular construction system praised for architecture workshops and creative builds.",
+      "why_included": "A commenter explicitly endorsed it as a fun, effective modular system.",
+      "evidence": "“Zometool rules!” and “I run workshops on modular systems in architecture using Zometool”"
+    },
+    {
+      "name": "Mikrotik 10 GbE switches",
+      "thing_url": null,
+      "hn_url": "https://news.ycombinator.com/item?id=47899053",
+      "source_story_title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "summary": "Affordable 10GbE switch options praised as a good-value upgrade.",
+      "why_included": "A commenter pointed to concrete Mikrotik hardware as a cheap path to 10GbE.",
+      "evidence": "“10 Gb is cheap! Mikrotik has a 4x10Gb + 1x1Gb port switch for $150 USD and an 8x10Gb version for about $275.”"
+    },
+    {
+      "name": "The Naked Ape",
+      "thing_url": null,
+      "hn_url": "https://news.ycombinator.com/item?id=47841141",
+      "source_story_title": "Desmond Morris has died",
+      "summary": "Desmond Morris anthropology book called a seminal work.",
+      "why_included": "The thread explicitly praised it as an important book.",
+      "evidence": "“The Naked Ape is seminal work.”"
+    },
+    {
+      "name": "Catwatching",
+      "thing_url": null,
+      "hn_url": "https://news.ycombinator.com/item?id=47841141",
+      "source_story_title": "Desmond Morris has died",
+      "summary": "Desmond Morris cat-observation book praised as thoughtful.",
+      "why_included": "A commenter recommended it as a concrete Morris title worth reading.",
+      "evidence": "“I know him from his book \"Catwatching\", which is a very thoughtful observational study of cats.”"
+    },
+    {
+      "name": "Godot",
+      "thing_url": "https://godotengine.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47902525",
+      "source_story_title": "Using coding assistance tools to revive projects you never were going to finish",
+      "summary": "Open-source game engine mentioned as a fun revival target.",
+      "why_included": "The thread framed it as a productive, enjoyable pairing with coding assistance.",
+      "evidence": "“Claude Code + Godot = fun. Going back to it.”"
+    },
+    {
+      "name": "Deepsid / Chordian SID player",
+      "thing_url": "https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Wizball.sid&subtune=4",
+      "hn_url": "https://news.ycombinator.com/item?id=47900398",
+      "source_story_title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "summary": "Browser SID player shared for listening to Wizball tunes directly.",
+      "why_included": "A concrete listening tool was directly shared in the comments.",
+      "evidence": "“You can listen to the Wizball tunes here: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Wizball.sid&subtune=4”"
+    },
+    {
+      "name": "Slayradio",
+      "thing_url": "https://slayradio.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47900398",
+      "source_story_title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "summary": "C64 music radio site recommended as a longtime favorite.",
+      "why_included": "A commenter described it as a long-term listening staple.",
+      "evidence": "“I’ve been listening this on and off for more than a decade: https://slayradio.org/”"
+    },
+    {
+      "name": "Kloak",
+      "thing_url": "https://getkloak.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=47903690",
+      "source_story_title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+      "summary": "Kubernetes secret manager that rewrites placeholders at runtime.",
+      "why_included": "A commenter clearly endorsed the idea and wished the author luck.",
+      "evidence": "“Idea is good though, wish you luck.”"
+    },
+    {
+      "name": "Hokusai Moyo Gafu",
+      "thing_url": "https://www.ndl.go.jp/en/imagebank/theme/hokusaimoyo",
+      "hn_url": "https://news.ycombinator.com/item?id=47902993",
+      "source_story_title": "Hokusai and Tesselations",
+      "summary": "Hokusai pattern book shared as a concrete tessellation source.",
+      "why_included": "The thread surfaced an actual book copy and accessible scans.",
+      "evidence": "“Found a copy of the book on Wikimedia.” and “the page has a British Museum version with an English interface.”"
+    },
+    {
+      "name": "Embassy",
+      "thing_url": "https://embassy.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47859442",
+      "source_story_title": "What async promised and what it delivered",
+      "summary": "Embedded Rust async framework recommended for safe concurrent code.",
+      "why_included": "Commenters framed it as a strong fit for embedded async work.",
+      "evidence": "“In embedded Rust, async is seen as especially strong when paired with frameworks like Embassy or RTIC.”"
+    },
+    {
+      "name": "RTIC",
+      "thing_url": "https://rtic.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=47859442",
+      "source_story_title": "What async promised and what it delivered",
+      "summary": "Real-time concurrency framework recommended alongside Embassy.",
+      "why_included": "The thread explicitly grouped it with Embassy as a recommended embedded framework.",
+      "evidence": "“In embedded Rust, async is seen as especially strong when paired with frameworks like Embassy or RTIC.”"
+    },
+    {
+      "name": "Azure Bastion",
+      "thing_url": "https://azure.microsoft.com/en-us/products/azure-bastion",
+      "hn_url": "https://news.ycombinator.com/item?id=47900440",
+      "source_story_title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "summary": "Managed browser-based RDP/SSH bastion praised for file and clipboard support.",
+      "why_included": "Commenters used it as a real-world benchmark for browser admin UX.",
+      "evidence": "Azure Bastion was praised as handling files and clipboards well and supporting console sessions."
+    },
+    {
+      "name": "Google Cloud SSH-in-browser",
+      "thing_url": "https://docs.cloud.google.com/compute/docs/ssh-in-browser",
+      "hn_url": "https://news.ycombinator.com/item?id=47900440",
+      "source_story_title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "summary": "Google Cloud’s in-browser SSH access for Compute Engine VMs.",
+      "why_included": "The thread praised it as a top-tier browser-based admin experience.",
+      "evidence": "GCP’s browser SSH was described as the best seen so far."
+    },
+    {
+      "name": "Conventional Comments",
+      "thing_url": "https://conventionalcomments.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47874613",
+      "source_story_title": "Commenting and approving pull requests",
+      "summary": "PR comment convention for marking blocking and non-blocking feedback.",
+      "why_included": "A commenter recommended it as a practical way to label review comments.",
+      "evidence": "“I make it clear what is non-blocking/blocking with Conventional Comments: https://conventionalcomments.org”"
+    },
+    {
+      "name": "Beancount",
+      "thing_url": "https://beancount.github.io/docs/",
+      "hn_url": "https://news.ycombinator.com/item?id=47897681",
+      "source_story_title": "Plain text has been around for decades and it’s here to stay",
+      "summary": "Plain-text accounting system praised as a QuickBooks replacement.",
+      "why_included": "A commenter described using it in a real accounting workflow.",
+      "evidence": "“replacing QuickBooks with Beancount + Fava for a sole proprietorship”"
+    },
+    {
+      "name": "Fava",
+      "thing_url": "https://beancount.github.io/fava/",
+      "hn_url": "https://news.ycombinator.com/item?id=47897681",
+      "source_story_title": "Plain text has been around for decades and it’s here to stay",
+      "summary": "Web UI for Beancount’s plain-text accounting workflow.",
+      "why_included": "The thread praised it as part of the QuickBooks replacement setup.",
+      "evidence": "“replacing QuickBooks with Beancount + Fava for a sole proprietorship; no ads, commit history proving when entries were made”"
+    },
+    {
+      "name": "Omarchy",
+      "thing_url": "https://omarchy.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47897681",
+      "source_story_title": "Plain text has been around for decades and it’s here to stay",
+      "summary": "Opinionated Linux desktop stack cited as a TUI renaissance example.",
+      "why_included": "Commenters held it up as evidence that TUIs are having a moment.",
+      "evidence": "Some argued the peak of TUIs is now, citing projects like Omarchy."
+    },
+    {
+      "name": "Zed Ask mode",
+      "thing_url": "https://zed.dev/docs/ai/agent-panel",
+      "hn_url": "https://news.ycombinator.com/item?id=47900506",
+      "source_story_title": "Lambda Calculus Benchmark for AI",
+      "summary": "Read-only AI mode for querying code and getting help without editing.",
+      "why_included": "A commenter described it as the right way to keep the human in charge.",
+      "evidence": "“example: Zed ‘ask’ mode useful as a rubber duck and can read code directly”"
+    },
+    {
+      "name": "Niri",
+      "thing_url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+      "hn_url": "https://news.ycombinator.com/item?id=47902416",
+      "source_story_title": "Niri 26.04: Scrollable-tiling Wayland compositor",
+      "summary": "Scrollable-tiling Wayland compositor praised for ultrawide workflows.",
+      "why_included": "The thread was overwhelmingly positive about its desktop ergonomics.",
+      "evidence": "Commenters said Niri is “so good” and especially strong on ultrawides."
+    }
+  ]
+}

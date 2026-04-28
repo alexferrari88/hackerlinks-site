@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-23T21:17:00Z",
+  "id": "honker",
+  "last_seen_at": "2026-04-23T21:17:00Z",
+  "latest_mention_id": "2026-04-23:honker:47874647",
+  "mention_ids": [
+    "2026-04-23:honker:47874647"
+  ],
+  "name": "Honker",
+  "slug": "honker",
+  "summary": "SQLite extension that adds Postgres-style NOTIFY/LISTEN and durable queues.",
+  "thing_url": "https://github.com/russellromney/honker",
+  "times_seen": 1,
+  "why_included": "Show HN with strong practical appeal and concrete discussion of low-latency, atomic messaging."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "Azure Bastion was praised as handling files and clipboards well and supporting console sessions.",
+  "hn_url": "https://news.ycombinator.com/item?id=47900440",
+  "id": "2026-04-25:azure-bastion:47900440",
+  "is_repeat": false,
+  "issue_id": "2026-04-25",
+  "item_id": "azure-bastion",
+  "rank": 12,
+  "seen_at": "2026-04-25T21:08:06Z",
+  "source_story_id": "47900440",
+  "source_story_title": "A web-based RDP client built with Go WebAssembly and grdp"
+}

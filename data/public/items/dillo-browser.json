@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "dillo-browser",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:dillo-browser:47911977",
+  "mention_ids": [
+    "2026-04-26:dillo-browser:47911977"
+  ],
+  "name": "Dillo Browser",
+  "slug": "dillo-browser",
+  "summary": "A lightweight browser release aimed at staying usable on a less JavaScript-heavy web.",
+  "thing_url": "https://dillo-browser.org/release/3.3.0/",
+  "times_seen": 1,
+  "why_included": "HN liked it as a small-browser counterpoint to modern web bloat."
+}

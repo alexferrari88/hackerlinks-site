@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-23T21:17:00Z",
+  "id": "nixos",
+  "last_seen_at": "2026-04-23T21:17:00Z",
+  "latest_mention_id": "2026-04-23:nixos:47877644",
+  "mention_ids": [
+    "2026-04-23:nixos:47877644"
+  ],
+  "name": "NixOS",
+  "slug": "nixos",
+  "summary": "Declarative Linux platform for reproducible builds and homelabs.",
+  "thing_url": "https://nixos.org/",
+  "times_seen": 1,
+  "why_included": "A reliability thread highlighted it as a strong baseline for self-hosted infrastructure."
+}

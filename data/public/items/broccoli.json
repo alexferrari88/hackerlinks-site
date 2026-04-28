@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "broccoli",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:broccoli:47865642",
+  "mention_ids": [
+    "2026-04-22:broccoli:47865642"
+  ],
+  "name": "Broccoli",
+  "slug": "broccoli",
+  "summary": "An open-source cloud harness that runs coding tasks in isolated sandboxes.",
+  "thing_url": "https://github.com/besimple-oss/broccoli",
+  "times_seen": 1,
+  "why_included": "It solves the agent-harness problem instead of just shipping another model wrapper."
+}

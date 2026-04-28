@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "5x5-pixel-font",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:5x5-pixel-font:47824943",
+  "mention_ids": [
+    "2026-04-22:5x5-pixel-font:47824943"
+  ],
+  "name": "5x5 Pixel font",
+  "slug": "5x5-pixel-font",
+  "summary": "A tiny 5x5 bitmap font designed for cramped embedded screens.",
+  "thing_url": "https://maurycyz.com/projects/mcufont/",
+  "times_seen": 1,
+  "why_included": "It sparked practical recommendations for tiny-display typography."
+}

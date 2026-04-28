@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T21:08:06Z",
+  "headline": "19 interesting things surfaced from HN on 2026-04-25",
+  "id": "2026-04-25",
+  "mention_ids": [
+    "2026-04-25:zometool:47860198",
+    "2026-04-25:mikrotik-10-gbe-switches:47899053",
+    "2026-04-25:the-naked-ape:47841141",
+    "2026-04-25:catwatching:47841141",
+    "2026-04-25:godot:47902525",
+    "2026-04-25:deepsid-chordian-sid-player:47900398",
+    "2026-04-25:slayradio:47900398",
+    "2026-04-25:kloak:47903690",
+    "2026-04-25:hokusai-moyo-gafu:47902993",
+    "2026-04-25:embassy:47859442",
+    "2026-04-25:rtic:47859442",
+    "2026-04-25:azure-bastion:47900440",
+    "2026-04-25:google-cloud-ssh-in-browser:47900440",
+    "2026-04-25:conventional-comments:47874613",
+    "2026-04-25:beancount:47897681",
+    "2026-04-25:fava:47897681",
+    "2026-04-25:omarchy:47897681",
+    "2026-04-25:zed-ask-mode:47900506",
+    "2026-04-25:niri:47902416"
+  ],
+  "summary": {
+    "items_surfaced": 19,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

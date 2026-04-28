@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread said nvidia-smi and nvtop-style utilization can show 100% while actual compute is far lower.",
+  "hn_url": "https://news.ycombinator.com/item?id=47921626",
+  "id": "2026-04-27:utilyze:47921626",
+  "is_repeat": false,
+  "issue_id": "2026-04-27",
+  "item_id": "utilyze",
+  "rank": 3,
+  "seen_at": "2026-04-27T21:27:33Z",
+  "source_story_id": "47921626",
+  "source_story_title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop"
+}

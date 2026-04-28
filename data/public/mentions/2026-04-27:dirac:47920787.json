@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread said Dirac scored 65.2% on TerminalBench 2.0, beating Google\u2019s official result and Junie CLI.",
+  "hn_url": "https://news.ycombinator.com/item?id=47920787",
+  "id": "2026-04-27:dirac:47920787",
+  "is_repeat": false,
+  "issue_id": "2026-04-27",
+  "item_id": "dirac",
+  "rank": 6,
+  "seen_at": "2026-04-27T21:27:33Z",
+  "source_story_id": "47920787",
+  "source_story_title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview"
+}

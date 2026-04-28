@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-24T21:13:46.420401Z",
+  "id": "cc-canary",
+  "last_seen_at": "2026-04-24T21:13:46.420401Z",
+  "latest_mention_id": "2026-04-24:cc-canary:47893620",
+  "mention_ids": [
+    "2026-04-24:cc-canary:47893620"
+  ],
+  "name": "CC-Canary",
+  "slug": "cc-canary",
+  "summary": "CC-Canary \u2014 Regression tracker for spotting Claude Code behavior drift.",
+  "thing_url": "https://github.com/delta-hq/cc-canary",
+  "times_seen": 1,
+  "why_included": "It drew practical discussion about prompt and skill changes affecting Claude Code quality."
+}

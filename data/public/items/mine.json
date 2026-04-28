@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "mine",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:mine:47894014",
+  "mention_ids": [
+    "2026-04-26:mine:47894014"
+  ],
+  "name": "Mine",
+  "slug": "mine",
+  "summary": "An old-school Common Lisp and Coalton IDE built for approachable editing.",
+  "thing_url": "https://coalton-lang.github.io/20260424-mine/",
+  "times_seen": 1,
+  "why_included": "Readers reacted to its QBASIC/Turbo-style friendliness."
+}

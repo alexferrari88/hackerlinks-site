@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "mikrotik-10-gbe-switches",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:mikrotik-10-gbe-switches:47899053",
+  "mention_ids": [
+    "2026-04-25:mikrotik-10-gbe-switches:47899053"
+  ],
+  "name": "Mikrotik 10 GbE switches",
+  "slug": "mikrotik-10-gbe-switches",
+  "summary": "Affordable 10GbE switch options praised as a good-value upgrade.",
+  "thing_url": null,
+  "times_seen": 1,
+  "why_included": "A commenter pointed to concrete Mikrotik hardware as a cheap path to 10GbE."
+}

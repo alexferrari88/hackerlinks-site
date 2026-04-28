@@ -1,0 +1,12 @@
+{
+  "evidence": "GCP\u2019s browser SSH was described as the best seen so far.",
+  "hn_url": "https://news.ycombinator.com/item?id=47900440",
+  "id": "2026-04-25:google-cloud-ssh-in-browser:47900440",
+  "is_repeat": false,
+  "issue_id": "2026-04-25",
+  "item_id": "google-cloud-ssh-in-browser",
+  "rank": 13,
+  "seen_at": "2026-04-25T21:08:06Z",
+  "source_story_id": "47900440",
+  "source_story_title": "A web-based RDP client built with Go WebAssembly and grdp"
+}

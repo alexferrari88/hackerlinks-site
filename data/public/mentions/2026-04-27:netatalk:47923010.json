@@ -1,0 +1,12 @@
+{
+  "evidence": "The macOS discussion explicitly mentioned Netatalk/AFP-based backups as the old setup people may need to migrate away from.",
+  "hn_url": "https://news.ycombinator.com/item?id=47923010",
+  "id": "2026-04-27:netatalk:47923010",
+  "is_repeat": false,
+  "issue_id": "2026-04-27",
+  "item_id": "netatalk",
+  "rank": 11,
+  "seen_at": "2026-04-27T21:27:33Z",
+  "source_story_id": "47923010",
+  "source_story_title": "Networking changes coming in macOS 27"
+}

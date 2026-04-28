@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "asahi-linux",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:asahi-linux:47909226",
+  "mention_ids": [
+    "2026-04-26:asahi-linux:47909226"
+  ],
+  "name": "Asahi Linux",
+  "slug": "asahi-linux",
+  "summary": "An Asahi Linux progress report covering Apple Silicon audio and M3 support.",
+  "thing_url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+  "times_seen": 1,
+  "why_included": "The thread focused on concrete platform advances for Linux on Apple hardware."
+}

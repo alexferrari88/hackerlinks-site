@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T21:13:46.420401Z",
+  "headline": "9 interesting things surfaced from HN on 2026-04-24",
+  "id": "2026-04-24",
+  "mention_ids": [
+    "2026-04-24:browser-harness:47890841",
+    "2026-04-24:endless-toil:47888465",
+    "2026-04-24:cc-canary:47893620",
+    "2026-04-24:spinel:47887334",
+    "2026-04-24:hx-dos-extender:47892291",
+    "2026-04-24:tiller:47894690",
+    "2026-04-24:lunch-money:47894690",
+    "2026-04-24:plaid:47894690",
+    "2026-04-24:filco:47892236"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

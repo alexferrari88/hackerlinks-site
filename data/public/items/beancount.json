@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "beancount",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:beancount:47897681",
+  "mention_ids": [
+    "2026-04-25:beancount:47897681"
+  ],
+  "name": "Beancount",
+  "slug": "beancount",
+  "summary": "Plain-text accounting system praised as a QuickBooks replacement.",
+  "thing_url": "https://beancount.github.io/docs/",
+  "times_seen": 1,
+  "why_included": "A commenter described using it in a real accounting workflow."
+}

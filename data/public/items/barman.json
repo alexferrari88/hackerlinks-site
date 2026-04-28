@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "barman",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:barman:47919997",
+  "mention_ids": [
+    "2026-04-27:barman:47919997"
+  ],
+  "name": "Barman",
+  "slug": "barman",
+  "summary": "PostgreSQL backup manager commenters praised as a mature disaster-recovery tool.",
+  "thing_url": "https://pgbarman.org/",
+  "times_seen": 1,
+  "why_included": "The pgBackRest thread repeatedly pointed people toward Barman as a dependable alternative."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "HN compared it with Playwright, agent-browser, and chrome devtools MCP, and praised the SKILL.md-plus-helper approach.",
+  "hn_url": "https://news.ycombinator.com/item?id=47890841",
+  "id": "2026-04-24:browser-harness:47890841",
+  "is_repeat": false,
+  "issue_id": "2026-04-24",
+  "item_id": "browser-harness",
+  "rank": 1,
+  "seen_at": "2026-04-24T21:13:46.420401Z",
+  "source_story_id": "47890841",
+  "source_story_title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "embassy",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:embassy:47859442",
+  "mention_ids": [
+    "2026-04-25:embassy:47859442"
+  ],
+  "name": "Embassy",
+  "slug": "embassy",
+  "summary": "Embedded Rust async framework recommended for safe concurrent code.",
+  "thing_url": "https://embassy.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters framed it as a strong fit for embedded async work."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "HN comments praised the \"one db and no daemon\" model, low-latency reactivity, and atomic rollback with durable work queues.",
+  "hn_url": "https://news.ycombinator.com/item?id=47874647",
+  "id": "2026-04-23:honker:47874647",
+  "is_repeat": false,
+  "issue_id": "2026-04-23",
+  "item_id": "honker",
+  "rank": 1,
+  "seen_at": "2026-04-23T21:17:00Z",
+  "source_story_id": "47874647",
+  "source_story_title": "Show HN: Honker \u2013 Postgres NOTIFY/LISTEN Semantics for SQLite"
+}

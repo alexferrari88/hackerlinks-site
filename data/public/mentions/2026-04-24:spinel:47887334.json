@@ -1,0 +1,12 @@
+{
+  "evidence": "Comments highlighted the no-eval/no-threads restrictions and noted Matz built it with Claude in about a month.",
+  "hn_url": "https://news.ycombinator.com/item?id=47887334",
+  "id": "2026-04-24:spinel:47887334",
+  "is_repeat": false,
+  "issue_id": "2026-04-24",
+  "item_id": "spinel",
+  "rank": 4,
+  "seen_at": "2026-04-24T21:13:46.420401Z",
+  "source_story_id": "47887334",
+  "source_story_title": "Spinel: Ruby AOT Native Compiler"
+}

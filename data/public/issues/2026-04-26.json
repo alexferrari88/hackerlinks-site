@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T21:02:52Z",
+  "headline": "10 interesting things surfaced from HN on 2026-04-26",
+  "id": "2026-04-26",
+  "mention_ids": [
+    "2026-04-26:xstate:47908833",
+    "2026-04-26:dillo-browser:47911977",
+    "2026-04-26:asahi-linux:47909226",
+    "2026-04-26:gnupg:47907018",
+    "2026-04-26:mine:47894014",
+    "2026-04-26:volsplat:47876071",
+    "2026-04-26:clay-pcb-tutorial:47911350",
+    "2026-04-26:the-visible-zorker:47911644",
+    "2026-04-26:free-textbook-on-engineering-thermodynamics:47911013",
+    "2026-04-26:usb-cheat-sheet:47904876"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

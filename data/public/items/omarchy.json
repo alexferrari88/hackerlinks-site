@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "omarchy",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:omarchy:47897681",
+  "mention_ids": [
+    "2026-04-25:omarchy:47897681"
+  ],
+  "name": "Omarchy",
+  "slug": "omarchy",
+  "summary": "Opinionated Linux desktop stack cited as a TUI renaissance example.",
+  "thing_url": "https://omarchy.org/",
+  "times_seen": 1,
+  "why_included": "Commenters held it up as evidence that TUIs are having a moment."
+}

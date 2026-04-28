@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread emphasized Linear tasks, sandboxed execution, and claims that non-developer PRs shipped through Broccoli.",
+  "hn_url": "https://news.ycombinator.com/item?id=47865642",
+  "id": "2026-04-22:broccoli:47865642",
+  "is_repeat": false,
+  "issue_id": "2026-04-22",
+  "item_id": "broccoli",
+  "rank": 2,
+  "seen_at": "2026-04-22T21:23:43Z",
+  "source_story_id": "47865642",
+  "source_story_title": "Show HN: Broccoli, one shot coding agent on the cloud"
+}

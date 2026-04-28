@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "rtic",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:rtic:47859442",
+  "mention_ids": [
+    "2026-04-25:rtic:47859442"
+  ],
+  "name": "RTIC",
+  "slug": "rtic",
+  "summary": "Real-time concurrency framework recommended alongside Embassy.",
+  "thing_url": "https://rtic.rs/",
+  "times_seen": 1,
+  "why_included": "The thread explicitly grouped it with Embassy as a recommended embedded framework."
+}

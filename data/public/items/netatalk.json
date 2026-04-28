@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "netatalk",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:netatalk:47923010",
+  "mention_ids": [
+    "2026-04-27:netatalk:47923010"
+  ],
+  "name": "Netatalk",
+  "slug": "netatalk",
+  "summary": "Open-source AFP file server used for legacy Mac backup compatibility.",
+  "thing_url": "https://netatalk.io/",
+  "times_seen": 1,
+  "why_included": "Commenters brought it up as the legacy bridge for older Time Machine and AFP environments."
+}

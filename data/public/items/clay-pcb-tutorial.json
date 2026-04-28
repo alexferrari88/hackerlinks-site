@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "clay-pcb-tutorial",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:clay-pcb-tutorial:47911350",
+  "mention_ids": [
+    "2026-04-26:clay-pcb-tutorial:47911350"
+  ],
+  "name": "Clay PCB Tutorial",
+  "slug": "clay-pcb-tutorial",
+  "summary": "A clay-circuit tutorial blending hardware craft, art, and ethical electronics.",
+  "thing_url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+  "times_seen": 1,
+  "why_included": "The discussion was unusually lively around the materials and feminist framing."
+}

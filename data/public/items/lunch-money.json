@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-24T21:13:46.420401Z",
+  "id": "lunch-money",
+  "last_seen_at": "2026-04-24T21:13:46.420401Z",
+  "latest_mention_id": "2026-04-24:lunch-money:47894690",
+  "mention_ids": [
+    "2026-04-24:lunch-money:47894690"
+  ],
+  "name": "Lunch Money",
+  "slug": "lunch-money",
+  "summary": "Lunch Money \u2014 Personal finance app with Plaid-backed transaction tracking.",
+  "thing_url": "https://lunchmoney.app/",
+  "times_seen": 1,
+  "why_included": "It surfaced as a real-world finance tool people already use alongside LLMs."
+}

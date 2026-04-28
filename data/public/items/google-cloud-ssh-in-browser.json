@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "google-cloud-ssh-in-browser",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:google-cloud-ssh-in-browser:47900440",
+  "mention_ids": [
+    "2026-04-25:google-cloud-ssh-in-browser:47900440"
+  ],
+  "name": "Google Cloud SSH-in-browser",
+  "slug": "google-cloud-ssh-in-browser",
+  "summary": "Google Cloud\u2019s in-browser SSH access for Compute Engine VMs.",
+  "thing_url": "https://docs.cloud.google.com/compute/docs/ssh-in-browser",
+  "times_seen": 1,
+  "why_included": "The thread praised it as a top-tier browser-based admin experience."
+}

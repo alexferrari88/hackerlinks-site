@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "spleen",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:spleen:47824943",
+  "mention_ids": [
+    "2026-04-22:spleen:47824943"
+  ],
+  "name": "Spleen",
+  "slug": "spleen",
+  "summary": "A compact 5x8 font commenters recommended for tiny readable text.",
+  "thing_url": "https://github.com/fcambus/spleen",
+  "times_seen": 1,
+  "why_included": "It was explicitly praised as a practical alternative in the tiny-font discussion."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "The discussion centered on the new PQC algorithm, Windows improvements, and the 2.4 line reaching end-of-life.",
+  "hn_url": "https://news.ycombinator.com/item?id=47907018",
+  "id": "2026-04-26:gnupg:47907018",
+  "is_repeat": false,
+  "issue_id": "2026-04-26",
+  "item_id": "gnupg",
+  "rank": 4,
+  "seen_at": "2026-04-26T21:02:52Z",
+  "source_story_id": "47907018",
+  "source_story_title": "GnuPG \u2013 post-quantum crypto landing in mainline"
+}

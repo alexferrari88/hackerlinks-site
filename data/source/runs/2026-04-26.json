@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "run_date": "2026-04-26",
+  "generated_at": "2026-04-26T21:02:52Z",
+  "summary": {
+    "stories_attempted": 23,
+    "stories_processed": 23,
+    "items_reported": 10
+  },
+  "items": [
+    {
+      "name": "XState",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/statelyai/xstate",
+      "hn_url": "https://news.ycombinator.com/item?id=47908833",
+      "source_story_title": "Statecharts: hierarchical state machines",
+      "summary": "A statechart library for authoring, executing, and visualizing complex app behavior.",
+      "why_included": "HN treated it as the practical implementation behind the statecharts discussion.",
+      "evidence": "The creator described XState as a JS/TS library, and commenters highlighted executable behavior, hierarchy, and visualization."
+    },
+    {
+      "name": "Dillo Browser",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://dillo-browser.org/release/3.3.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=47911977",
+      "source_story_title": "Dillo Browser Release 3.3.0",
+      "summary": "A lightweight browser release aimed at staying usable on a less JavaScript-heavy web.",
+      "why_included": "HN liked it as a small-browser counterpoint to modern web bloat.",
+      "evidence": "Comments praised Dillo while debating Google’s JS requirements and suggesting proxy search or HTML-only fallbacks."
+    },
+    {
+      "name": "Asahi Linux",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=47909226",
+      "source_story_title": "Asahi Linux Progress Linux 7.0",
+      "summary": "An Asahi Linux progress report covering Apple Silicon audio and M3 support.",
+      "why_included": "The thread focused on concrete platform advances for Linux on Apple hardware.",
+      "evidence": "HN comments zeroed in on sample-rate support, M3 compatibility, and whether upstreaming or separation made more sense."
+    },
+    {
+      "name": "GnuPG",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47907018",
+      "source_story_title": "GnuPG – post-quantum crypto landing in mainline",
+      "summary": "GnuPG 2.5.19, adding post-quantum Kyber/ML-KEM support.",
+      "why_included": "A noteworthy crypto release with immediate migration implications.",
+      "evidence": "The discussion centered on the new PQC algorithm, Windows improvements, and the 2.4 line reaching end-of-life."
+    },
+    {
+      "name": "Mine",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://coalton-lang.github.io/20260424-mine/",
+      "hn_url": "https://news.ycombinator.com/item?id=47894014",
+      "source_story_title": "Mine, a Coalton and Common Lisp IDE",
+      "summary": "An old-school Common Lisp and Coalton IDE built for approachable editing.",
+      "why_included": "Readers reacted to its QBASIC/Turbo-style friendliness.",
+      "evidence": "Commenters said it sounded awesome and compared it to beginner-friendly Borland Turbo Pascal and QuickBasic environments."
+    },
+    {
+      "name": "VolSplat",
+      "category": "Experiments & Creative",
+      "thing_url": "https://github.com/ziplab/VolSplat",
+      "hn_url": "https://news.ycombinator.com/item?id=47876071",
+      "source_story_title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "summary": "A voxelize-and-mesh workflow for turning Gaussian splats into usable geometry.",
+      "why_included": "Commenters pointed to it as a promising bridge from splats to editable 3D pipelines.",
+      "evidence": "The thread linked VolSplat while discussing taking splats, making voxels, and meshing them for BIM-style workflows."
+    },
+    {
+      "name": "Clay PCB Tutorial",
+      "category": "Experiments & Creative",
+      "thing_url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "hn_url": "https://news.ycombinator.com/item?id=47911350",
+      "source_story_title": "Clay PCB Tutorial",
+      "summary": "A clay-circuit tutorial blending hardware craft, art, and ethical electronics.",
+      "why_included": "The discussion was unusually lively around the materials and feminist framing.",
+      "evidence": "Commenters called it a stonepunk art project, debated firing and energy use, and argued over what the feminist label means."
+    },
+    {
+      "name": "The Visible Zorker",
+      "category": "Learning & Reference",
+      "thing_url": "https://eblong.com/infocom/visi/zork1/",
+      "hn_url": "https://news.ycombinator.com/item?id=47911644",
+      "source_story_title": "The Visible Zorker: Zork 1",
+      "summary": "An interactive Zork 1 visualizer that exposes Z-machine internals.",
+      "why_included": "HN commenters liked it as a neat way to inspect classic interactive fiction.",
+      "evidence": "People said it showed Z-machine internals without a debugger and shared Infocom nostalgia around the demo."
+    },
+    {
+      "name": "Free textbook on engineering thermodynamics",
+      "category": "Learning & Reference",
+      "thing_url": "https://thermodynamicsbook.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47911013",
+      "source_story_title": "Show HN: Free textbook on engineering thermodynamics",
+      "summary": "A free engineering thermodynamics textbook with a downloadable PDF.",
+      "why_included": "Readers engaged with the book itself and its self-publishing economics.",
+      "evidence": "The author joined the thread, and commenters discussed the 40 MB PDF, Lulu costs, and whether the book’s price point made sense."
+    },
+    {
+      "name": "USB Cheat Sheet",
+      "category": "Learning & Reference",
+      "thing_url": "https://fabiensanglard.net/usbcheat/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47904876",
+      "source_story_title": "USB Cheat Sheet (2022)",
+      "summary": "A USB reference cheat sheet that untangles version names and Thunderbolt overlap.",
+      "why_included": "HN turned it into a useful practical guide on modern USB naming.",
+      "evidence": "The thread spent most of its time correcting USB 3.x, USB4, and Thunderbolt terminology and clarifying real-world port capabilities."
+    }
+  ]
+}

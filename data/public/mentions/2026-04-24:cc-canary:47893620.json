@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters worried about self-measurement bias, debated drift, and shared tools for tracking Claude Code performance over time.",
+  "hn_url": "https://news.ycombinator.com/item?id=47893620",
+  "id": "2026-04-24:cc-canary:47893620",
+  "is_repeat": false,
+  "issue_id": "2026-04-24",
+  "item_id": "cc-canary",
+  "rank": 3,
+  "seen_at": "2026-04-24T21:13:46.420401Z",
+  "source_story_id": "47893620",
+  "source_story_title": "CC-Canary: Detect early signs of regressions in Claude Code"
+}

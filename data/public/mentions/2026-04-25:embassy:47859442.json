@@ -1,0 +1,12 @@
+{
+  "evidence": "\u201cIn embedded Rust, async is seen as especially strong when paired with frameworks like Embassy or RTIC.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=47859442",
+  "id": "2026-04-25:embassy:47859442",
+  "is_repeat": false,
+  "issue_id": "2026-04-25",
+  "item_id": "embassy",
+  "rank": 10,
+  "seen_at": "2026-04-25T21:08:06Z",
+  "source_story_id": "47859442",
+  "source_story_title": "What async promised and what it delivered"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-23T21:17:00Z",
+  "id": "kamal",
+  "last_seen_at": "2026-04-23T21:17:00Z",
+  "latest_mention_id": "2026-04-23:kamal:47872324",
+  "mention_ids": [
+    "2026-04-23:kamal:47872324"
+  ],
+  "name": "Kamal",
+  "slug": "kamal",
+  "summary": "Deployment tool for shipping web apps to VMs and bare metal.",
+  "thing_url": "https://kamal-deploy.org/",
+  "times_seen": 1,
+  "why_included": "A commenter gave a concrete Kubernetes alternative they actually use in practice."
+}

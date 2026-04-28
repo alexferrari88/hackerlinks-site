@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "tom-thumb",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:tom-thumb:47824943",
+  "mention_ids": [
+    "2026-04-22:tom-thumb:47824943"
+  ],
+  "name": "Tom Thumb",
+  "slug": "tom-thumb",
+  "summary": "A tiny 4x6 font suggested as a readable alternative for micro displays.",
+  "thing_url": "https://fontstruct.com/fontstructions/show/1656341/tom-thumb",
+  "times_seen": 1,
+  "why_included": "It offers another concrete option for extremely constrained screens."
+}

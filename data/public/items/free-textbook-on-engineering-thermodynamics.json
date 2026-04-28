@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "free-textbook-on-engineering-thermodynamics",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:free-textbook-on-engineering-thermodynamics:47911013",
+  "mention_ids": [
+    "2026-04-26:free-textbook-on-engineering-thermodynamics:47911013"
+  ],
+  "name": "Free textbook on engineering thermodynamics",
+  "slug": "free-textbook-on-engineering-thermodynamics",
+  "summary": "A free engineering thermodynamics textbook with a downloadable PDF.",
+  "thing_url": "https://thermodynamicsbook.com/",
+  "times_seen": 1,
+  "why_included": "Readers engaged with the book itself and its self-publishing economics."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "godot",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:godot:47902525",
+  "mention_ids": [
+    "2026-04-25:godot:47902525"
+  ],
+  "name": "Godot",
+  "slug": "godot",
+  "summary": "Open-source game engine mentioned as a fun revival target.",
+  "thing_url": "https://godotengine.org/",
+  "times_seen": 1,
+  "why_included": "The thread framed it as a productive, enjoyable pairing with coding assistance."
+}

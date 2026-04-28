@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "zed-ask-mode",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:zed-ask-mode:47900506",
+  "mention_ids": [
+    "2026-04-25:zed-ask-mode:47900506"
+  ],
+  "name": "Zed Ask mode",
+  "slug": "zed-ask-mode",
+  "summary": "Read-only AI mode for querying code and getting help without editing.",
+  "thing_url": "https://zed.dev/docs/ai/agent-panel",
+  "times_seen": 1,
+  "why_included": "A commenter described it as the right way to keep the human in charge."
+}

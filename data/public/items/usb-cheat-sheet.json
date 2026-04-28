@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "usb-cheat-sheet",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:usb-cheat-sheet:47904876",
+  "mention_ids": [
+    "2026-04-26:usb-cheat-sheet:47904876"
+  ],
+  "name": "USB Cheat Sheet",
+  "slug": "usb-cheat-sheet",
+  "summary": "A USB reference cheat sheet that untangles version names and Thunderbolt overlap.",
+  "thing_url": "https://fabiensanglard.net/usbcheat/index.html",
+  "times_seen": 1,
+  "why_included": "HN turned it into a useful practical guide on modern USB naming."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-23T21:17:00Z",
+  "id": "sourcehut",
+  "last_seen_at": "2026-04-23T21:17:00Z",
+  "latest_mention_id": "2026-04-23:sourcehut:47877644",
+  "mention_ids": [
+    "2026-04-23:sourcehut:47877644"
+  ],
+  "name": "SourceHut",
+  "slug": "sourcehut",
+  "summary": "Email-first open-source forge for git repos, CI, and collaboration.",
+  "thing_url": "https://sourcehut.org/",
+  "times_seen": 1,
+  "why_included": "A reliability thread surfaced it as a practical GitHub alternative people are considering now."
+}

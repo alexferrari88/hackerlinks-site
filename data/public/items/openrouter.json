@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "openrouter",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:openrouter:47923357",
+  "mention_ids": [
+    "2026-04-27:openrouter:47923357"
+  ],
+  "name": "OpenRouter",
+  "slug": "openrouter",
+  "summary": "Unified model gateway cited as a cheaper Copilot alternative.",
+  "thing_url": "https://openrouter.ai/",
+  "times_seen": 1,
+  "why_included": "The Copilot billing thread repeatedly compared GitHub Copilot against OpenRouter and direct model APIs."
+}

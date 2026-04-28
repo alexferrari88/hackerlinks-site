@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-22T21:23:43Z",
+  "id": "ursa-ag",
+  "last_seen_at": "2026-04-22T21:23:43Z",
+  "latest_mention_id": "2026-04-22:ursa-ag:47865868",
+  "mention_ids": [
+    "2026-04-22:ursa-ag:47865868"
+  ],
+  "name": "Ursa Ag",
+  "slug": "ursa-ag",
+  "summary": "Mechanical no-tech tractors aimed at cutting complexity and repair costs.",
+  "thing_url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+  "times_seen": 1,
+  "why_included": "It taps the right-to-repair mood with a concrete physical product."
+}

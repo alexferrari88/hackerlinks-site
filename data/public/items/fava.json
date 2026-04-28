@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "fava",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:fava:47897681",
+  "mention_ids": [
+    "2026-04-25:fava:47897681"
+  ],
+  "name": "Fava",
+  "slug": "fava",
+  "summary": "Web UI for Beancount\u2019s plain-text accounting workflow.",
+  "thing_url": "https://beancount.github.io/fava/",
+  "times_seen": 1,
+  "why_included": "The thread praised it as part of the QuickBooks replacement setup."
+}

@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "run_date": "2026-04-24",
+  "generated_at": "2026-04-24T21:13:46.420401Z",
+  "summary": {
+    "stories_qualified": 24,
+    "stories_attempted": 24,
+    "stories_summarized": 21,
+    "stories_timed_out": 3,
+    "items_reported": 9
+  },
+  "items": [
+    {
+      "name": "Browser Harness",
+      "thing_url": "https://github.com/browser-use/browser-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=47890841",
+      "source_story_title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+      "summary": "Browser Harness — Minimal browser harness that exposes raw Chrome DevTools to LLMs.",
+      "why_included": "Commenters treated it as a concrete browser-agent pattern worth trying, not just a wrapper demo.",
+      "evidence": "HN compared it with Playwright, agent-browser, and chrome devtools MCP, and praised the SKILL.md-plus-helper approach.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "Endless Toil",
+      "thing_url": "https://github.com/AndrewVos/endless-toil",
+      "hn_url": "https://news.ycombinator.com/item?id=47888465",
+      "source_story_title": "Hear your agent suffer through your code",
+      "summary": "Endless Toil — Audio feedback layer that turns AI code smell into sounds.",
+      "why_included": "The thread framed it as a real developer-tool product, not just a joke.",
+      "evidence": "Commenters debated its heuristic scans, asked for a Cursor plugin, and argued sound could act as observability.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "CC-Canary",
+      "thing_url": "https://github.com/delta-hq/cc-canary",
+      "hn_url": "https://news.ycombinator.com/item?id=47893620",
+      "source_story_title": "CC-Canary: Detect early signs of regressions in Claude Code",
+      "summary": "CC-Canary — Regression tracker for spotting Claude Code behavior drift.",
+      "why_included": "It drew practical discussion about prompt and skill changes affecting Claude Code quality.",
+      "evidence": "Commenters worried about self-measurement bias, debated drift, and shared tools for tracking Claude Code performance over time.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "Spinel",
+      "thing_url": "https://github.com/matz/spinel",
+      "hn_url": "https://news.ycombinator.com/item?id=47887334",
+      "source_story_title": "Spinel: Ruby AOT Native Compiler",
+      "summary": "Spinel — Experimental Ruby AOT compiler that emits native code.",
+      "why_included": "HN spent real time on its subset tradeoffs and what Ruby loses without metaprogramming.",
+      "evidence": "Comments highlighted the no-eval/no-threads restrictions and noted Matz built it with Claude in about a month.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "HX DOS Extender",
+      "thing_url": "https://github.com/Baron-von-Riedesel/HX",
+      "hn_url": "https://news.ycombinator.com/item?id=47892291",
+      "source_story_title": "SDL Now Supports DOS",
+      "summary": "HX DOS Extender — DOS compatibility layer that helped SDL run on DOS.",
+      "why_included": "It was cited as a practical predecessor for the new SDL-on-DOS work.",
+      "evidence": "Commenters said HXDOS already made the setup possible and compared it with FreeDOS and other legacy environments.",
+      "category": "🛠️ Dev Tools & Workflows"
+    },
+    {
+      "name": "Tiller",
+      "thing_url": "https://tiller.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47894690",
+      "source_story_title": "Could a Claude Code routine watch my finances?",
+      "summary": "Tiller — Spreadsheet sync service for bank and credit-card transactions.",
+      "why_included": "It was recommended as a boring, dependable alternative to using Claude for finance monitoring.",
+      "evidence": "A commenter said Tiller works well for sheet-based categorization and cashflow math, with no hallucinations.",
+      "category": "💸 Finance & Data"
+    },
+    {
+      "name": "Lunch Money",
+      "thing_url": "https://lunchmoney.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=47894690",
+      "source_story_title": "Could a Claude Code routine watch my finances?",
+      "summary": "Lunch Money — Personal finance app with Plaid-backed transaction tracking.",
+      "why_included": "It surfaced as a real-world finance tool people already use alongside LLMs.",
+      "evidence": "A commenter said they use Lunch Money for tracking and built an LLM-driven CLI around its API.",
+      "category": "💸 Finance & Data"
+    },
+    {
+      "name": "Plaid",
+      "thing_url": "https://plaid.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47894690",
+      "source_story_title": "Could a Claude Code routine watch my finances?",
+      "summary": "Plaid — Financial-data platform that now has a self-serve path for hobbyists.",
+      "why_included": "A Plaid rep stepped in to clarify non-business onboarding in the thread.",
+      "evidence": "The comments explained the new free-trial flow, the business sales path, and the support tradeoffs between them.",
+      "category": "💸 Finance & Data"
+    },
+    {
+      "name": "FILCO",
+      "thing_url": "https://thefilco.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47892236",
+      "source_story_title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "summary": "FILCO — Durable mechanical keyboards remembered for premium build quality.",
+      "why_included": "The closure thread turned into a long praise session for the brand’s keyboards.",
+      "evidence": "Commenters called the boards bulletproof and daily-driver reliable, even while criticizing Diatec’s stagnation.",
+      "category": "⌨️ Hardware"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-25T21:08:06Z",
+  "id": "conventional-comments",
+  "last_seen_at": "2026-04-25T21:08:06Z",
+  "latest_mention_id": "2026-04-25:conventional-comments:47874613",
+  "mention_ids": [
+    "2026-04-25:conventional-comments:47874613"
+  ],
+  "name": "Conventional Comments",
+  "slug": "conventional-comments",
+  "summary": "PR comment convention for marking blocking and non-blocking feedback.",
+  "thing_url": "https://conventionalcomments.org/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a practical way to label review comments."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-27T21:27:33Z",
+  "id": "utilyze",
+  "last_seen_at": "2026-04-27T21:27:33Z",
+  "latest_mention_id": "2026-04-27:utilyze:47921626",
+  "mention_ids": [
+    "2026-04-27:utilyze:47921626"
+  ],
+  "name": "Utilyze",
+  "slug": "utilyze",
+  "summary": "Open-source GPU monitor that measures real throughput instead of raw utilization.",
+  "thing_url": "https://www.systalyze.com/utilyze",
+  "times_seen": 1,
+  "why_included": "HN discussion liked the clearer compute-versus-memory view and the planned process and power stats."
+}

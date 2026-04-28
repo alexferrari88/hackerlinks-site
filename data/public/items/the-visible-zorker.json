@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-26T21:02:52Z",
+  "id": "the-visible-zorker",
+  "last_seen_at": "2026-04-26T21:02:52Z",
+  "latest_mention_id": "2026-04-26:the-visible-zorker:47911644",
+  "mention_ids": [
+    "2026-04-26:the-visible-zorker:47911644"
+  ],
+  "name": "The Visible Zorker",
+  "slug": "the-visible-zorker",
+  "summary": "An interactive Zork 1 visualizer that exposes Z-machine internals.",
+  "thing_url": "https://eblong.com/infocom/visi/zork1/",
+  "times_seen": 1,
+  "why_included": "HN commenters liked it as a neat way to inspect classic interactive fiction."
+}
