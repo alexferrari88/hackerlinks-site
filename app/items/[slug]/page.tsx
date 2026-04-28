@@ -16,7 +16,7 @@ import {
   getMentionsForItem,
   issueHref,
 } from "@/lib/site-data";
-import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
+import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata, WEBSITE_ID } from "@/lib/seo";
 
 export async function generateStaticParams() {
   const { loadPublicRecords } = await import("@/lib/site-data");
@@ -36,7 +36,7 @@ export async function generateMetadata({
   }
 
   return buildPageMetadata({
-    title: item.name,
+    title: `${item.name}: why developers mention it on Hacker News`,
     description: `${item.summary} Source-linked record of how Hacker News users referenced ${item.name}.`,
     path: `/items/${item.slug}/`,
   });
@@ -69,20 +69,56 @@ export default async function ItemPage({
         "@type": "WebPage",
         "@id": absoluteUrl(itemPath, "webpage"),
         url: absoluteUrl(itemPath),
-        name: item.name,
+        name: `${item.name}: why developers mention it on Hacker News`,
         description: item.summary,
         datePublished: item.first_seen_at,
         dateModified: item.last_seen_at,
-        mainEntity: {
-          "@type": "Thing",
+        isPartOf: {
+          "@id": absoluteUrl("/", WEBSITE_ID),
+        },
+        about: {
           "@id": absoluteUrl(itemPath, "thing"),
-          identifier: item.slug,
-          name: item.name,
-          description: item.summary,
-          url: absoluteUrl(itemPath),
-          ...(item.thing_url ? { sameAs: item.thing_url } : {}),
+        },
+        mainEntity: {
+          "@id": absoluteUrl(itemPath, "thing"),
         },
       },
+      {
+        "@type": "Thing",
+        "@id": absoluteUrl(itemPath, "thing"),
+        identifier: item.slug,
+        name: item.name,
+        description: item.summary,
+        url: absoluteUrl(itemPath),
+        mainEntityOfPage: {
+          "@id": absoluteUrl(itemPath, "webpage"),
+        },
+        subjectOf: mentions.map((mention) => ({
+          "@id": absoluteUrl(itemPath, `mention-${mention.id}`),
+        })),
+        ...(item.thing_url ? { sameAs: item.thing_url } : {}),
+      },
+      ...mentions.map((mention) => ({
+        "@type": "DiscussionForumPosting",
+        "@id": absoluteUrl(itemPath, `mention-${mention.id}`),
+        url: mention.hn_url,
+        datePublished: mention.seen_at,
+        headline: mention.source_story_title || `Hacker News thread ${mention.source_story_id ?? mention.id}`,
+        articleBody: mention.evidence,
+        publisher: {
+          "@type": "Organization",
+          name: "Hacker News",
+          url: "https://news.ycombinator.com/",
+        },
+        about: {
+          "@id": absoluteUrl(itemPath, "thing"),
+        },
+        isPartOf: {
+          "@type": "CollectionPage",
+          "@id": absoluteUrl(`/issues/${mention.issue_id}/`, "collection"),
+          url: absoluteUrl(`/issues/${mention.issue_id}/`),
+        },
+      })),
     ],
   };
 

@@ -280,6 +280,7 @@ def _write_public_data_exports(records: dict[str, Any], public_root: Path, dist_
             "archive_manifest": _absolute_url("data/manifests/archive.json", site_url=site_url),
             "latest_manifest": _absolute_url("data/manifests/latest.json", site_url=site_url),
             "items_manifest": _absolute_url("data/manifests/items.json", site_url=site_url),
+            "mentions_manifest": _absolute_url("data/manifests/mentions.json", site_url=site_url),
         },
     }
     items_manifest = {
@@ -307,8 +308,28 @@ def _write_public_data_exports(records: dict[str, Any], public_root: Path, dist_
             reverse=True,
         ),
     }
+    mentions_manifest = {
+        "generated_at": latest_generated_at,
+        "mentions": [
+            {
+                "id": mention["id"],
+                "seen_at": mention.get("seen_at"),
+                "issue_id": mention["issue_id"],
+                "issue_url": _absolute_url(f"issues/{mention['issue_id']}/", site_url=site_url),
+                "item_id": mention["item_id"],
+                "item_url": _absolute_url(f"items/{mention['item_id']}/", site_url=site_url),
+                "json_url": _absolute_url(f"data/mentions/{mention['id']}.json", site_url=site_url),
+                "hn_url": mention.get("hn_url"),
+                "source_story_id": mention.get("source_story_id"),
+                "source_story_title": mention.get("source_story_title"),
+                "evidence": mention.get("evidence"),
+            }
+            for mention in _sort_mentions_newest_first(list(records["mentions"].values()))
+        ],
+    }
     _write(data_root / "manifests" / "site.json", json.dumps(site_manifest, indent=2, sort_keys=True) + "\n")
     _write(data_root / "manifests" / "items.json", json.dumps(items_manifest, indent=2, sort_keys=True) + "\n")
+    _write(data_root / "manifests" / "mentions.json", json.dumps(mentions_manifest, indent=2, sort_keys=True) + "\n")
 
 
 def _write_llms(dist_root: Path, *, site_url: str) -> None:
@@ -317,6 +338,11 @@ def _write_llms(dist_root: Path, *, site_url: str) -> None:
             f"# {SITE_NAME}",
             "",
             f"> {SITE_DESCRIPTION}",
+            "",
+            "## Traversal guidance",
+            "- Canonical unit: item page.",
+            "- Freshness unit: issue page.",
+            "- Prefer citing the linked Hacker News thread when using evidence from an item page.",
             "",
             "## Canonical pages",
             f"- Home: {_absolute_url(site_url=site_url)}",
@@ -332,11 +358,7 @@ def _write_llms(dist_root: Path, *, site_url: str) -> None:
             f"- Archive manifest: {_absolute_url('data/manifests/archive.json', site_url=site_url)}",
             f"- Latest manifest: {_absolute_url('data/manifests/latest.json', site_url=site_url)}",
             f"- Items manifest: {_absolute_url('data/manifests/items.json', site_url=site_url)}",
-            "",
-            "## JSON collections",
-            f"- Items JSON: {_absolute_url('data/items/', site_url=site_url)}",
-            f"- Issues JSON: {_absolute_url('data/issues/', site_url=site_url)}",
-            f"- Mentions JSON: {_absolute_url('data/mentions/', site_url=site_url)}",
+            f"- Mentions manifest: {_absolute_url('data/manifests/mentions.json', site_url=site_url)}",
         ]
     )
     _write(dist_root / "llms.txt", llms_txt + "\n")

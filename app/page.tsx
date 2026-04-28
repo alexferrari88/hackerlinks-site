@@ -7,6 +7,7 @@ import { PageIntro } from "@/components/page-intro";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import {
+  loadPublicRecords,
   formatDate,
   getIssueListing,
   getLatestIssue,
@@ -16,23 +17,36 @@ import {
   issueHref,
   itemHref,
 } from "@/lib/site-data";
-import { buildPageMetadata, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
+import { buildPageMetadata, dataCatalogJsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
 import { SITE_TAGLINE } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
+  title: "Developer tools surfaced from Hacker News",
   description:
     "Find source-linked tools, libraries, apps, books, and other concrete things that keep surfacing in Hacker News discussions.",
   path: "/",
 });
 
 export default function HomePage() {
+  const records = loadPublicRecords();
   const latestIssue = getLatestIssue();
   const listing = getIssueListing(latestIssue);
   const repeatItems = getRepeatItems();
   const recentItems = getRecentItems();
   const homeJsonLd = {
     "@context": "https://schema.org",
-    "@graph": [websiteJsonLd(), organizationJsonLd()],
+    "@graph": [
+      websiteJsonLd(),
+      organizationJsonLd(),
+      ...dataCatalogJsonLd({
+        generatedAt: records.manifests.latest.generated_at,
+        counts: {
+          issues: Object.keys(records.issues).length,
+          items: Object.keys(records.items).length,
+          mentions: Object.keys(records.mentions).length,
+        },
+      })["@graph"],
+    ],
   };
 
   return (

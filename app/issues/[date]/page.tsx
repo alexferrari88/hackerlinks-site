@@ -17,7 +17,7 @@ import {
   getThreadCount,
   issueHref,
 } from "@/lib/site-data";
-import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
+import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata, WEBSITE_ID } from "@/lib/seo";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 export async function generateStaticParams() {
@@ -37,7 +37,7 @@ export async function generateMetadata({
   }
 
   return buildPageMetadata({
-    title: `Issue ${issue.date}`,
+    title: issue.headline,
     description: `${issue.headline}. Daily board of source-linked items surfaced from Hacker News on ${issue.date}.`,
     path: `/issues/${issue.date}/`,
   });
@@ -68,10 +68,13 @@ export default async function IssuePage({
         "@type": "CollectionPage",
         "@id": absoluteUrl(`/issues/${issue.date}/`, "collection"),
         url: absoluteUrl(`/issues/${issue.date}/`),
-        name: `Issue ${issue.date}`,
+        name: issue.headline,
         description: issue.headline,
         datePublished: issue.generated_at,
         dateModified: issue.generated_at,
+        isPartOf: {
+          "@id": absoluteUrl("/", WEBSITE_ID),
+        },
         mainEntity: {
           "@id": absoluteUrl(`/issues/${issue.date}/`, "list"),
         },
@@ -88,6 +91,12 @@ export default async function IssuePage({
             position: index + 1,
             url: absoluteUrl(`/items/${mention.item_id}/`),
             name: item?.name ?? mention.item_id,
+            item: {
+              "@type": "Thing",
+              "@id": absoluteUrl(`/items/${mention.item_id}/`, "thing"),
+              name: item?.name ?? mention.item_id,
+              mainEntityOfPage: absoluteUrl(`/items/${mention.item_id}/`),
+            },
           };
         }),
       },

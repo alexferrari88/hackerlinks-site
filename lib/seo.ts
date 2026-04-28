@@ -5,6 +5,8 @@ import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site-config";
 export const SOCIAL_IMAGE_PATH = "/og-card.svg";
 export const ORGANIZATION_ID = "organization";
 export const WEBSITE_ID = "website";
+export const DATA_CATALOG_ID = "data-catalog";
+export const DATASET_ID = "dataset";
 
 const siteUrl = new URL(SITE_URL);
 const sitePathPrefix = siteUrl.pathname === "/" ? "" : siteUrl.pathname.replace(/\/$/, "");
@@ -136,5 +138,124 @@ export function websiteJsonLd() {
     publisher: {
       "@id": absoluteUrl("/about/", ORGANIZATION_ID),
     },
+  };
+}
+
+export function dataCatalogJsonLd({
+  generatedAt,
+  counts,
+}: {
+  generatedAt?: string;
+  counts: {
+    issues: number;
+    items: number;
+    mentions: number;
+  };
+}) {
+  const catalogId = absoluteUrl("/", DATA_CATALOG_ID);
+  const datasetId = absoluteUrl("/", DATASET_ID);
+
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "DataCatalog",
+        "@id": catalogId,
+        name: `${SITE_NAME} Public Data Catalog`,
+        url: absoluteUrl("/"),
+        description: SITE_DESCRIPTION,
+        publisher: {
+          "@id": absoluteUrl("/about/", ORGANIZATION_ID),
+        },
+        dataset: {
+          "@id": datasetId,
+        },
+      },
+      {
+        "@type": "Dataset",
+        "@id": datasetId,
+        name: `${SITE_NAME} Public Archive Dataset`,
+        description: SITE_DESCRIPTION,
+        url: absoluteUrl("/"),
+        isAccessibleForFree: true,
+        creator: {
+          "@id": absoluteUrl("/about/", ORGANIZATION_ID),
+        },
+        publisher: {
+          "@id": absoluteUrl("/about/", ORGANIZATION_ID),
+        },
+        includedInDataCatalog: {
+          "@id": catalogId,
+        },
+        ...(generatedAt ? { dateModified: generatedAt } : {}),
+        distribution: [
+          {
+            "@type": "DataDownload",
+            name: "Site manifest",
+            encodingFormat: "application/json",
+            contentUrl: absoluteUrl("/data/manifests/site.json"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "Archive manifest",
+            encodingFormat: "application/json",
+            contentUrl: absoluteUrl("/data/manifests/archive.json"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "Latest manifest",
+            encodingFormat: "application/json",
+            contentUrl: absoluteUrl("/data/manifests/latest.json"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "Items manifest",
+            encodingFormat: "application/json",
+            contentUrl: absoluteUrl("/data/manifests/items.json"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "Mentions manifest",
+            encodingFormat: "application/json",
+            contentUrl: absoluteUrl("/data/manifests/mentions.json"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "RSS feed",
+            encodingFormat: "application/rss+xml",
+            contentUrl: absoluteUrl("/feed.xml"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "Sitemap",
+            encodingFormat: "application/xml",
+            contentUrl: absoluteUrl("/sitemap.xml"),
+          },
+          {
+            "@type": "DataDownload",
+            name: "LLMs manifest",
+            encodingFormat: "text/plain",
+            contentUrl: absoluteUrl("/llms.txt"),
+          },
+        ],
+        variableMeasured: [
+          {
+            "@type": "PropertyValue",
+            name: "issues",
+            value: counts.issues,
+          },
+          {
+            "@type": "PropertyValue",
+            name: "items",
+            value: counts.items,
+          },
+          {
+            "@type": "PropertyValue",
+            name: "mentions",
+            value: counts.mentions,
+          },
+        ],
+      },
+    ],
   };
 }

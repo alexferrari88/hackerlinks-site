@@ -89,6 +89,7 @@ class BuildTests(unittest.TestCase):
             llms_txt = (dist_root / "llms.txt").read_text()
             site_manifest = json.loads((dist_root / "data" / "manifests" / "site.json").read_text())
             items_manifest = json.loads((dist_root / "data" / "manifests" / "items.json").read_text())
+            mentions_manifest = json.loads((dist_root / "data" / "manifests" / "mentions.json").read_text())
             preview_notes = (dist_root / "preview-notes.txt").read_text()
 
             self.assertTrue((dist_root / ".nojekyll").exists())
@@ -123,8 +124,17 @@ class BuildTests(unittest.TestCase):
             self.assertIn("User-agent: *", robots_txt)
             self.assertIn("Sitemap: https://hackerlinks.cc/sitemap.xml", robots_txt)
             self.assertIn("Site manifest: https://hackerlinks.cc/data/manifests/site.json", llms_txt)
+            self.assertIn("Mentions manifest: https://hackerlinks.cc/data/manifests/mentions.json", llms_txt)
+            self.assertNotIn("https://hackerlinks.cc/data/items/", llms_txt)
+            self.assertNotIn("https://hackerlinks.cc/data/issues/", llms_txt)
+            self.assertNotIn("https://hackerlinks.cc/data/mentions/", llms_txt)
             self.assertEqual(site_manifest["counts"]["items"], 6)
+            self.assertEqual(
+                site_manifest["collections"]["mentions_manifest"],
+                "https://hackerlinks.cc/data/manifests/mentions.json",
+            )
             self.assertTrue(any(item["slug"] == "davinci-resolve" for item in items_manifest["items"]))
+            self.assertTrue(any(mention["item_id"] == "davinci-resolve" for mention in mentions_manifest["mentions"]))
             self.assertIn("items rendered: 6", preview_notes)
             self.assertIn("placeholder summaries: 0", preview_notes)
             self.assertIn("placeholder rationales: 0", preview_notes)
