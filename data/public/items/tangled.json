@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "tangled",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:tangled:47948603",
+  "mention_ids": [
+    "2026-04-29:tangled:47948603"
+  ],
+  "name": "Tangled",
+  "slug": "tangled",
+  "summary": "ATProto-based forge platform aiming for self-hostable, permanent software.",
+  "thing_url": "https://blog.tangled.org/federation/",
+  "times_seen": 1,
+  "why_included": "It was the clearest concrete product in the forge-federation thread."
+}

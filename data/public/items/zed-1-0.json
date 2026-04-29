@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "zed-1-0",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:zed-1-0:47949027",
+  "mention_ids": [
+    "2026-04-29:zed-1-0:47949027"
+  ],
+  "name": "Zed 1.0",
+  "slug": "zed-1-0",
+  "summary": "Open-source editor release praised for speed, polish, and SSH workflows.",
+  "thing_url": "https://zed.dev/blog/zed-1-0",
+  "times_seen": 1,
+  "why_included": "It was one of the most substantive product-launch threads on the front page."
+}

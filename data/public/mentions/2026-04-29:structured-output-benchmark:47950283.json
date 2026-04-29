@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters focused on value accuracy, modality-specific rankings, and the need to measure structured hallucinations.",
+  "hn_url": "https://news.ycombinator.com/item?id=47950283",
+  "id": "2026-04-29:structured-output-benchmark:47950283",
+  "is_repeat": false,
+  "issue_id": "2026-04-29",
+  "item_id": "structured-output-benchmark",
+  "rank": 2,
+  "seen_at": "2026-04-29T21:21:41Z",
+  "source_story_id": "47950283",
+  "source_story_title": "Show HN: A new benchmark for testing LLMs for deterministic outputs"
+}

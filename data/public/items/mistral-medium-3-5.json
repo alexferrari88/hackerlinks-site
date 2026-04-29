@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "mistral-medium-3-5",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:mistral-medium-3-5:47949642",
+  "mention_ids": [
+    "2026-04-29:mistral-medium-3-5:47949642"
+  ],
+  "name": "Mistral Medium 3.5",
+  "slug": "mistral-medium-3-5",
+  "summary": "128B model people weighed on local speed, cost, and quantization tradeoffs.",
+  "thing_url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+  "times_seen": 1,
+  "why_included": "It triggered serious debate about what local LLMs can realistically do."
+}

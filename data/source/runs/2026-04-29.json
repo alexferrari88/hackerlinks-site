@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "run_date": "2026-04-29",
+  "generated_at": "2026-04-29T21:21:41Z",
+  "summary": "12 concrete items surfaced from HN discussion threads; history updated and filtered against the current product archive.",
+  "items": [
+    {
+      "name": "Zed 1.0",
+      "thing_url": "https://zed.dev/blog/zed-1-0",
+      "hn_url": "https://news.ycombinator.com/item?id=47949027",
+      "source_story_title": "Zed 1.0",
+      "summary": "Open-source editor release praised for speed, polish, and SSH workflows.",
+      "why_included": "It was one of the most substantive product-launch threads on the front page.",
+      "evidence": "HN praised its low memory use and remote editing while arguing over AI defaults, search UX, and extensibility."
+    },
+    {
+      "name": "Structured Output Benchmark",
+      "thing_url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+      "hn_url": "https://news.ycombinator.com/item?id=47950283",
+      "source_story_title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+      "summary": "Open benchmark for deterministic structured outputs across text, image, and audio.",
+      "why_included": "It targets a real agent failure mode: valid JSON with wrong values.",
+      "evidence": "Commenters focused on value accuracy, modality-specific rankings, and the need to measure structured hallucinations."
+    },
+    {
+      "name": "Mistral Medium 3.5",
+      "thing_url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "hn_url": "https://news.ycombinator.com/item?id=47949642",
+      "source_story_title": "Mistral Medium 3.5",
+      "summary": "128B model people weighed on local speed, cost, and quantization tradeoffs.",
+      "why_included": "It triggered serious debate about what local LLMs can realistically do.",
+      "evidence": "HN compared its Pareto efficiency, local VRAM needs, and token throughput against Sonnet and other frontier models."
+    },
+    {
+      "name": "code.overheid.nl",
+      "thing_url": "https://code.overheid.nl/",
+      "hn_url": "https://news.ycombinator.com/item?id=47945918",
+      "source_story_title": "Soft launch of open-source code platform for government",
+      "summary": "Dutch government Forgejo pilot for shared open-source code hosting.",
+      "why_included": "Commenters treated it as a meaningful digital-sovereignty project, not a press-release toy.",
+      "evidence": "HN praised the open-source, European, sovereign alternative to GitHub and GitLab and discussed broader dependency concerns."
+    },
+    {
+      "name": "RegelRecht",
+      "thing_url": "https://code.overheid.nl/RegelRecht/regelrecht",
+      "hn_url": "https://news.ycombinator.com/item?id=47945918",
+      "source_story_title": "Soft launch of open-source code platform for government",
+      "summary": "Machine-readable law engine that executes Dutch regulations deterministically.",
+      "why_included": "It expands the thread from code hosting into executable public-sector logic.",
+      "evidence": "Commenters quoted the structured YAML / decision-logic description and discussed uses like automated policy checks and transparent benefits decisions."
+    },
+    {
+      "name": "Tangled",
+      "thing_url": "https://blog.tangled.org/federation/",
+      "hn_url": "https://news.ycombinator.com/item?id=47948603",
+      "source_story_title": "We need a federation of forges",
+      "summary": "ATProto-based forge platform aiming for self-hostable, permanent software.",
+      "why_included": "It was the clearest concrete product in the forge-federation thread.",
+      "evidence": "HN debated forge federation while Tangled supporters emphasized open development, social graph integration, and self-hosting."
+    },
+    {
+      "name": "AT Protocol",
+      "thing_url": "https://atproto.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47950575",
+      "source_story_title": "At Protocol: Building the Social Internet",
+      "summary": "Decentralized social protocol centered on user-owned data and portable graphs.",
+      "why_included": "Commenters kept returning to it as the architecture behind data portability and app interoperability.",
+      "evidence": "HN compared it to email and RSS, highlighted PDS hosting, and discussed moving social graphs between apps."
+    },
+    {
+      "name": "OpenTrafficMap",
+      "thing_url": "https://opentrafficmap.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47953541",
+      "source_story_title": "OpenTrafficMap",
+      "summary": "V2X traffic map built on cheap hardware and a modern OSM/Mapbox theme.",
+      "why_included": "It drew unusually concrete praise for design plus low-cost technical feasibility.",
+      "evidence": "Commenters loved the modern palette, noted the sub-£20 hardware angle, and debated coverage and docs."
+    },
+    {
+      "name": "Cursor Camp",
+      "thing_url": "https://neal.fun/cursor-camp/",
+      "hn_url": "https://news.ycombinator.com/item?id=47949939",
+      "source_story_title": "Cursor Camp",
+      "summary": "Neal.fun browser game with social, nostalgic, badge-hunt energy.",
+      "why_included": "It was one of the most positively received playful launches on the front page.",
+      "evidence": "HN called it adorable, Club Penguin-like, and fun, while trading clues about hidden badges and controls."
+    },
+    {
+      "name": "GliaX/Stethoscope",
+      "thing_url": "https://github.com/GliaX/Stethoscope",
+      "hn_url": "https://news.ycombinator.com/item?id=47949204",
+      "source_story_title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "summary": "Open-source stethoscope designed to cost just a few dollars to make.",
+      "why_included": "The thread turned a simple hardware project into a serious discussion about medical utility and manufacturing.",
+      "evidence": "Commenters compared it with Littmann scopes, argued over price versus quality, and raised sterilization and regulatory concerns."
+    },
+    {
+      "name": "Laws of UX",
+      "thing_url": "https://lawsofux.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47951137",
+      "source_story_title": "Laws of UX",
+      "summary": "UX reference site commenters used as a design checklist and AI review aid.",
+      "why_included": "It surfaced as a practical reference rather than just a design poster.",
+      "evidence": "HN commenters proposed using it to bulk-check screens with AI, though others criticized the page as shallow and overdesigned."
+    },
+    {
+      "name": "Agentic test harness for play-testing",
+      "thing_url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "hn_url": "https://news.ycombinator.com/item?id=47947525",
+      "source_story_title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "summary": "Play-testing harness for letting AI test games and surface regressions.",
+      "why_included": "The thread gave a concrete workflow for AI-assisted QA in game development.",
+      "evidence": "Commenters discussed headless simulation, browser snapshots, accessibility refs, and code-plus-browser tooling to catch regressions."
+    }
+  ]
+}

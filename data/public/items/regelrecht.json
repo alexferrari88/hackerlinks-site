@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "regelrecht",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:regelrecht:47945918",
+  "mention_ids": [
+    "2026-04-29:regelrecht:47945918"
+  ],
+  "name": "RegelRecht",
+  "slug": "regelrecht",
+  "summary": "Machine-readable law engine that executes Dutch regulations deterministically.",
+  "thing_url": "https://code.overheid.nl/RegelRecht/regelrecht",
+  "times_seen": 1,
+  "why_included": "It expands the thread from code hosting into executable public-sector logic."
+}

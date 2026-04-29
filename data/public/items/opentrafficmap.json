@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "opentrafficmap",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:opentrafficmap:47953541",
+  "mention_ids": [
+    "2026-04-29:opentrafficmap:47953541"
+  ],
+  "name": "OpenTrafficMap",
+  "slug": "opentrafficmap",
+  "summary": "V2X traffic map built on cheap hardware and a modern OSM/Mapbox theme.",
+  "thing_url": "https://opentrafficmap.org/",
+  "times_seen": 1,
+  "why_included": "It drew unusually concrete praise for design plus low-cost technical feasibility."
+}

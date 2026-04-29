@@ -9,6 +9,12 @@
       "times_reported": 1
     },
     {
+      "name": "Agentic test harness for play-testing",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "Android CLI",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
@@ -30,6 +36,12 @@
       "name": "Asianometry channel",
       "first_reported_at": "2026-04-28T21:25:41+00:00",
       "last_reported_at": "2026-04-28T21:25:41+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AT Protocol",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {
@@ -153,6 +165,12 @@
       "times_reported": 1
     },
     {
+      "name": "code.overheid.nl",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "CodeBurn",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
@@ -192,6 +210,12 @@
       "name": "CuriousMarc videos",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cursor Camp",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {
@@ -354,6 +378,12 @@
       "name": "ggsql",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GliaX/Stethoscope",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {
@@ -537,6 +567,12 @@
       "times_reported": 1
     },
     {
+      "name": "Laws of UX",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "Lazygit",
       "first_reported_at": "2026-04-28T21:25:41+00:00",
       "last_reported_at": "2026-04-28T21:25:41+00:00",
@@ -615,6 +651,12 @@
       "times_reported": 1
     },
     {
+      "name": "Mistral Medium 3.5",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "MNT Reform",
       "first_reported_at": "2026-04-21T21:17:50Z",
       "last_reported_at": "2026-04-21T21:17:50Z",
@@ -684,6 +726,12 @@
       "name": "OpenSSL 4.0.0",
       "first_reported_at": "2026-04-15T04:39:17+00:00",
       "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenTrafficMap",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {
@@ -780,6 +828,12 @@
       "name": "Qwen3.6-35B-A3B",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RegelRecht",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {
@@ -885,6 +939,12 @@
       "times_reported": 1
     },
     {
+      "name": "Structured Output Benchmark",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "Super ZSNES",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
@@ -894,6 +954,12 @@
       "name": "Tailscale",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Tangled",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {
@@ -1062,6 +1128,12 @@
       "name": "Zed",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Zed 1.0",
+      "first_reported_at": "2026-04-29T21:21:41Z",
+      "last_reported_at": "2026-04-29T21:21:41Z",
       "times_reported": 1
     },
     {

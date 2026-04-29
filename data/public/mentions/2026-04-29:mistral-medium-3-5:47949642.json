@@ -1,0 +1,12 @@
+{
+  "evidence": "HN compared its Pareto efficiency, local VRAM needs, and token throughput against Sonnet and other frontier models.",
+  "hn_url": "https://news.ycombinator.com/item?id=47949642",
+  "id": "2026-04-29:mistral-medium-3-5:47949642",
+  "is_repeat": false,
+  "issue_id": "2026-04-29",
+  "item_id": "mistral-medium-3-5",
+  "rank": 3,
+  "seen_at": "2026-04-29T21:21:41Z",
+  "source_story_id": "47949642",
+  "source_story_title": "Mistral Medium 3.5"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "laws-of-ux",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:laws-of-ux:47951137",
+  "mention_ids": [
+    "2026-04-29:laws-of-ux:47951137"
+  ],
+  "name": "Laws of UX",
+  "slug": "laws-of-ux",
+  "summary": "UX reference site commenters used as a design checklist and AI review aid.",
+  "thing_url": "https://lawsofux.com/",
+  "times_seen": 1,
+  "why_included": "It surfaced as a practical reference rather than just a design poster."
+}

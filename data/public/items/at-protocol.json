@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "at-protocol",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:at-protocol:47950575",
+  "mention_ids": [
+    "2026-04-29:at-protocol:47950575"
+  ],
+  "name": "AT Protocol",
+  "slug": "at-protocol",
+  "summary": "Decentralized social protocol centered on user-owned data and portable graphs.",
+  "thing_url": "https://atproto.com/",
+  "times_seen": 1,
+  "why_included": "Commenters kept returning to it as the architecture behind data portability and app interoperability."
+}

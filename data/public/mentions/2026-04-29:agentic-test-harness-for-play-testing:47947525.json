@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters discussed headless simulation, browser snapshots, accessibility refs, and code-plus-browser tooling to catch regressions.",
+  "hn_url": "https://news.ycombinator.com/item?id=47947525",
+  "id": "2026-04-29:agentic-test-harness-for-play-testing:47947525",
+  "is_repeat": false,
+  "issue_id": "2026-04-29",
+  "item_id": "agentic-test-harness-for-play-testing",
+  "rank": 12,
+  "seen_at": "2026-04-29T21:21:41Z",
+  "source_story_id": "47947525",
+  "source_story_title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing"
+}

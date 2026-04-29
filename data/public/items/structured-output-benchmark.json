@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "structured-output-benchmark",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:structured-output-benchmark:47950283",
+  "mention_ids": [
+    "2026-04-29:structured-output-benchmark:47950283"
+  ],
+  "name": "Structured Output Benchmark",
+  "slug": "structured-output-benchmark",
+  "summary": "Open benchmark for deterministic structured outputs across text, image, and audio.",
+  "thing_url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+  "times_seen": 1,
+  "why_included": "It targets a real agent failure mode: valid JSON with wrong values."
+}

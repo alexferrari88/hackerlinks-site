@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "gliax-stethoscope",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:gliax-stethoscope:47949204",
+  "mention_ids": [
+    "2026-04-29:gliax-stethoscope:47949204"
+  ],
+  "name": "GliaX/Stethoscope",
+  "slug": "gliax-stethoscope",
+  "summary": "Open-source stethoscope designed to cost just a few dollars to make.",
+  "thing_url": "https://github.com/GliaX/Stethoscope",
+  "times_seen": 1,
+  "why_included": "The thread turned a simple hardware project into a serious discussion about medical utility and manufacturing."
+}

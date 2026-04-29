@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "agentic-test-harness-for-play-testing",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:agentic-test-harness-for-play-testing:47947525",
+  "mention_ids": [
+    "2026-04-29:agentic-test-harness-for-play-testing:47947525"
+  ],
+  "name": "Agentic test harness for play-testing",
+  "slug": "agentic-test-harness-for-play-testing",
+  "summary": "Play-testing harness for letting AI test games and surface regressions.",
+  "thing_url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+  "times_seen": 1,
+  "why_included": "The thread gave a concrete workflow for AI-assisted QA in game development."
+}

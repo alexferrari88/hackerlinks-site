@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-29T21:21:41Z",
+  "id": "code-overheid-nl",
+  "last_seen_at": "2026-04-29T21:21:41Z",
+  "latest_mention_id": "2026-04-29:code-overheid-nl:47945918",
+  "mention_ids": [
+    "2026-04-29:code-overheid-nl:47945918"
+  ],
+  "name": "code.overheid.nl",
+  "slug": "code-overheid-nl",
+  "summary": "Dutch government Forgejo pilot for shared open-source code hosting.",
+  "thing_url": "https://code.overheid.nl/",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a meaningful digital-sovereignty project, not a press-release toy."
+}
