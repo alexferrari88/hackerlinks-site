@@ -1,0 +1,12 @@
+{
+  "evidence": "Multiple comments said switching to Firefox or another non-Chromium browser breaks the Chrome-extension scan.",
+  "hn_url": "https://news.ycombinator.com/item?id=47967262",
+  "id": "2026-04-30:firefox:47967262",
+  "is_repeat": false,
+  "issue_id": "2026-04-30",
+  "item_id": "firefox",
+  "rank": 6,
+  "seen_at": "2026-04-30T21:02:46Z",
+  "source_story_id": "47967262",
+  "source_story_title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request"
+}

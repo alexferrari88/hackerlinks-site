@@ -63,6 +63,12 @@
       "times_reported": 1
     },
     {
+      "name": "Bid Prowl",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
       "name": "BookShelves",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
@@ -315,6 +321,12 @@
       "times_reported": 1
     },
     {
+      "name": "Firefox",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
       "name": "Flatpak",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
@@ -429,6 +441,12 @@
       "times_reported": 1
     },
     {
+      "name": "Granite 4.1",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
       "name": "hdajackretask",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -467,8 +485,8 @@
     {
       "name": "Honker",
       "first_reported_at": "2026-04-23T21:17:00Z",
-      "last_reported_at": "2026-04-23T21:17:00Z",
-      "times_reported": 1
+      "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 2
     },
     {
       "name": "HX DOS Extender",
@@ -693,9 +711,27 @@
       "times_reported": 1
     },
     {
+      "name": "Noctua",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NoLimits 2",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
       "name": "Notion",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Oban",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
       "times_reported": 1
     },
     {
@@ -816,6 +852,12 @@
       "name": "Quarkdown",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen 3.6",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
       "times_reported": 1
     },
     {
@@ -1098,6 +1140,12 @@
       "name": "Wikivoyage",
       "first_reported_at": "2026-04-15T04:39:17+00:00",
       "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Wipr",
+      "first_reported_at": "2026-04-30T21:02:46Z",
+      "last_reported_at": "2026-04-30T21:02:46Z",
       "times_reported": 1
     },
     {

@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter called Oban a Postgres-side gold standard and noted SQLite support now exists.",
+  "hn_url": "https://news.ycombinator.com/item?id=47963316",
+  "id": "2026-04-30:oban:47963316",
+  "is_repeat": false,
+  "issue_id": "2026-04-30",
+  "item_id": "oban",
+  "rank": 3,
+  "seen_at": "2026-04-30T21:02:46Z",
+  "source_story_id": "47963316",
+  "source_story_title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file"
+}

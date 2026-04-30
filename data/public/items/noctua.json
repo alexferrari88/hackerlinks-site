@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "noctua",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:noctua:47947944",
+  "mention_ids": [
+    "2026-04-30:noctua:47947944"
+  ],
+  "name": "Noctua",
+  "slug": "noctua",
+  "summary": "Quiet fans commenters recommended to cool hot 10GbE copper modules.",
+  "thing_url": "https://www.noctua.at/en",
+  "times_seen": 1,
+  "why_included": "It was a practical hardware fix in a thread full of setup advice."
+}

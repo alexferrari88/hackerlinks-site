@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "wipr",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:wipr:47967262",
+  "mention_ids": [
+    "2026-04-30:wipr:47967262"
+  ],
+  "name": "Wipr",
+  "slug": "wipr",
+  "summary": "A Safari privacy blocker commenters praised as a quiet tracker shield.",
+  "thing_url": "https://apps.apple.com/us/app/wipr-2/id1662217862",
+  "times_seen": 1,
+  "why_included": "It was singled out as a concrete Safari-friendly privacy tool."
+}

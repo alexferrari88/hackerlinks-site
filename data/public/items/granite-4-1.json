@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "granite-4-1",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:granite-4-1:47960507",
+  "mention_ids": [
+    "2026-04-30:granite-4-1:47960507"
+  ],
+  "name": "Granite 4.1",
+  "slug": "granite-4-1",
+  "summary": "IBM's dense models drew praise for local inference and tool use.",
+  "thing_url": "https://www.ibm.com/granite/docs/models/granite4-1",
+  "times_seen": 1,
+  "why_included": "It was a fresh model launch with strong practical interest."
+}

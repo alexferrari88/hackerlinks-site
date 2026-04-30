@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "oban",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:oban:47963316",
+  "mention_ids": [
+    "2026-04-30:oban:47963316"
+  ],
+  "name": "Oban",
+  "slug": "oban",
+  "summary": "A background-job framework that now supports SQLite and Postgres.",
+  "thing_url": "https://hexdocs.pm/oban/Oban.html",
+  "times_seen": 1,
+  "why_included": "It surfaced as clear prior art in the Honker discussion."
+}

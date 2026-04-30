@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters debated the millisecond polling and compared it with Redis, Kine, and Oban.",
+  "hn_url": "https://news.ycombinator.com/item?id=47963316",
+  "id": "2026-04-30:honker:47963316",
+  "is_repeat": true,
+  "issue_id": "2026-04-30",
+  "item_id": "honker",
+  "rank": 2,
+  "seen_at": "2026-04-30T21:02:46Z",
+  "source_story_id": "47963316",
+  "source_story_title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file"
+}

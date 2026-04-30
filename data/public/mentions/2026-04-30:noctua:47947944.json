@@ -1,0 +1,12 @@
+{
+  "evidence": "HN users said 10G copper modules run hot and suggested a Noctua fan or small USB fan.",
+  "hn_url": "https://news.ycombinator.com/item?id=47947944",
+  "id": "2026-04-30:noctua:47947944",
+  "is_repeat": false,
+  "issue_id": "2026-04-30",
+  "item_id": "noctua",
+  "rank": 9,
+  "seen_at": "2026-04-30T21:02:46Z",
+  "source_story_id": "47947944",
+  "source_story_title": "10Gb/s Ethernet: what I did to get it working in my home"
+}

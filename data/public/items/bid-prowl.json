@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "bid-prowl",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:bid-prowl:47961378",
+  "mention_ids": [
+    "2026-04-30:bid-prowl:47961378"
+  ],
+  "name": "Bid Prowl",
+  "slug": "bid-prowl",
+  "summary": "Searches 28 US government auction sites in one place.",
+  "thing_url": "https://bidprowl.com/",
+  "times_seen": 1,
+  "why_included": "A concrete new product with obvious HN utility."
+}

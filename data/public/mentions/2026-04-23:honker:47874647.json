@@ -2,7 +2,7 @@
   "evidence": "HN comments praised the \"one db and no daemon\" model, low-latency reactivity, and atomic rollback with durable work queues.",
   "hn_url": "https://news.ycombinator.com/item?id=47874647",
   "id": "2026-04-23:honker:47874647",
-  "is_repeat": false,
+  "is_repeat": true,
   "issue_id": "2026-04-23",
   "item_id": "honker",
   "rank": 1,

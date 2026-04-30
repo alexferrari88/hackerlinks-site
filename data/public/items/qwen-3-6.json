@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "qwen-3-6",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:qwen-3-6:47960507",
+  "mention_ids": [
+    "2026-04-30:qwen-3-6:47960507"
+  ],
+  "name": "Qwen 3.6",
+  "slug": "qwen-3-6",
+  "summary": "Qwen 3.6 was repeatedly praised as a strong coding model.",
+  "thing_url": "https://qwen.ai/blog?id=qwen3.6",
+  "times_seen": 1,
+  "why_included": "HN kept returning to it as the better comparison point."
+}

@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-04-30",
+  "generated_at": "2026-04-30T21:02:46Z",
+  "summary": "9 items surfaced from 22 qualifying stories; 22/22 stories covered and history updated.",
+  "items": [
+    {
+      "name": "Bid Prowl",
+      "category": "apps_side_projects",
+      "thing_url": "https://bidprowl.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47961378",
+      "source_story_title": "I aggregated 28 US Government auction sites into one search",
+      "summary": "Searches 28 US government auction sites in one place.",
+      "why_included": "A concrete new product with obvious HN utility.",
+      "evidence": "The thread highlighted normalized listings, deal scoring, and weird inventory examples like helicopters and seized property."
+    },
+    {
+      "name": "Honker",
+      "category": "dev_tools_workflows",
+      "thing_url": "https://honker.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47963316",
+      "source_story_title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "summary": "A SQLite-backed queue, streams, pub/sub, and cron system.",
+      "why_included": "It drew direct comparison with established job-queue tools.",
+      "evidence": "Commenters debated the millisecond polling and compared it with Redis, Kine, and Oban."
+    },
+    {
+      "name": "Oban",
+      "category": "dev_tools_workflows",
+      "thing_url": "https://hexdocs.pm/oban/Oban.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47963316",
+      "source_story_title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "summary": "A background-job framework that now supports SQLite and Postgres.",
+      "why_included": "It surfaced as clear prior art in the Honker discussion.",
+      "evidence": "A commenter called Oban a Postgres-side gold standard and noted SQLite support now exists."
+    },
+    {
+      "name": "Granite 4.1",
+      "category": "ai_local_models",
+      "thing_url": "https://www.ibm.com/granite/docs/models/granite4-1",
+      "hn_url": "https://news.ycombinator.com/item?id=47960507",
+      "source_story_title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "summary": "IBM's dense models drew praise for local inference and tool use.",
+      "why_included": "It was a fresh model launch with strong practical interest.",
+      "evidence": "Readers called the 8B model impressive for size, fast inference, and structured tasks on local hardware."
+    },
+    {
+      "name": "Qwen 3.6",
+      "category": "ai_local_models",
+      "thing_url": "https://qwen.ai/blog?id=qwen3.6",
+      "hn_url": "https://news.ycombinator.com/item?id=47960507",
+      "source_story_title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "summary": "Qwen 3.6 was repeatedly praised as a strong coding model.",
+      "why_included": "HN kept returning to it as the better comparison point.",
+      "evidence": "Commenters said Qwen still wins on raw capability for coding and called it a pocket-sized frontier model."
+    },
+    {
+      "name": "Firefox",
+      "category": "privacy_browsers",
+      "thing_url": "https://www.firefox.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47967262",
+      "source_story_title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "summary": "The browser commenters recommended to blunt LinkedIn extension fingerprinting.",
+      "why_included": "The thread offered an immediate privacy workaround.",
+      "evidence": "Multiple comments said switching to Firefox or another non-Chromium browser breaks the Chrome-extension scan."
+    },
+    {
+      "name": "Wipr",
+      "category": "privacy_browsers",
+      "thing_url": "https://apps.apple.com/us/app/wipr-2/id1662217862",
+      "hn_url": "https://news.ycombinator.com/item?id=47967262",
+      "source_story_title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "summary": "A Safari privacy blocker commenters praised as a quiet tracker shield.",
+      "why_included": "It was singled out as a concrete Safari-friendly privacy tool.",
+      "evidence": "A commenter called Wipr a great Safari privacy extension during the LinkedIn discussion."
+    },
+    {
+      "name": "NoLimits 2",
+      "category": "creative_tools",
+      "thing_url": "https://www.nolimitscoaster.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47933934",
+      "source_story_title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
+      "summary": "A coaster simulator with curve tools commenters loved.",
+      "why_included": "The discussion called its newer track-building system transformative.",
+      "evidence": "One commenter said No Limits 2's curve system and G-force/banking controls were an absolute game changer."
+    },
+    {
+      "name": "Noctua",
+      "category": "hardware_networking",
+      "thing_url": "https://www.noctua.at/en",
+      "hn_url": "https://news.ycombinator.com/item?id=47947944",
+      "source_story_title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "summary": "Quiet fans commenters recommended to cool hot 10GbE copper modules.",
+      "why_included": "It was a practical hardware fix in a thread full of setup advice.",
+      "evidence": "HN users said 10G copper modules run hot and suggested a Noctua fan or small USB fan."
+    }
+  ]
+}

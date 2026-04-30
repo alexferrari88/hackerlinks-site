@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-04-30T21:02:46Z",
+  "id": "firefox",
+  "last_seen_at": "2026-04-30T21:02:46Z",
+  "latest_mention_id": "2026-04-30:firefox:47967262",
+  "mention_ids": [
+    "2026-04-30:firefox:47967262"
+  ],
+  "name": "Firefox",
+  "slug": "firefox",
+  "summary": "The browser commenters recommended to blunt LinkedIn extension fingerprinting.",
+  "thing_url": "https://www.firefox.com/",
+  "times_seen": 1,
+  "why_included": "The thread offered an immediate privacy workaround."
+}
