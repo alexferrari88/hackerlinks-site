@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "whohas",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:whohas:47975592",
+  "mention_ids": [
+    "2026-05-01:whohas:47975592"
+  ],
+  "name": "whohas",
+  "slug": "whohas",
+  "summary": "Cross-distro package-search CLI that reduces distro-hopping.",
+  "thing_url": "https://github.com/whohas/whohas",
+  "times_seen": 1,
+  "why_included": "Commenters called it a boring but useful tool and pointed to adjacent search resources."
+}

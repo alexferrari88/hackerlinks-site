@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "numworks",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:numworks:47979583",
+  "mention_ids": [
+    "2026-05-01:numworks:47979583"
+  ],
+  "name": "NumWorks",
+  "slug": "numworks",
+  "summary": "Graphing calculator users praised as cheaper and better than TI.",
+  "thing_url": "https://www.numworks.com/",
+  "times_seen": 1,
+  "why_included": "A strong alternative signal in the Ti-84 Evo thread."
+}

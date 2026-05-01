@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread cited Repology, pkgs.org, and nix-locate as alternatives or complements.",
+  "hn_url": "https://news.ycombinator.com/item?id=47975592",
+  "id": "2026-05-01:whohas:47975592",
+  "is_repeat": false,
+  "issue_id": "2026-05-01",
+  "item_id": "whohas",
+  "rank": 4,
+  "seen_at": "2026-05-01T21:05:24Z",
+  "source_story_id": "47975592",
+  "source_story_title": "whohas \u2013 Command-line utility for cross-distro, cross-repository package search"
+}

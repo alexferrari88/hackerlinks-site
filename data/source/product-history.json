@@ -1195,6 +1195,66 @@
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
       "times_reported": 1
+    },
+    {
+      "name": "WhatCable",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "AI CAD Harness",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "My Private GitHub on Postgres",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "whohas",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Fossil",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Homebrew on Linux",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Repology",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "pkgs.org",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "nix-index",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NumWorks",
+      "first_reported_at": "2026-05-01T21:05:24Z",
+      "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
     }
   ]
 }

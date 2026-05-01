@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "run_date": "2026-05-01",
+  "generated_at": "2026-05-01T21:05:24Z",
+  "summary": "10 items surfaced from HN comment threads.",
+  "items": [
+    {
+      "name": "WhatCable",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/darrylmorley/whatcable",
+      "hn_url": "https://news.ycombinator.com/item?id=47972511",
+      "source_story_title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "summary": "Tiny macOS utility that reads what USB-C cables can actually do.",
+      "why_included": "HN commenters immediately wanted ports and alternate packaging, showing real demand for the utility.",
+      "evidence": "The thread quickly turned into requests for CLI, KDE/GNOME, Homebrew, MacPorts, and regular-app modes."
+    },
+    {
+      "name": "AI CAD Harness",
+      "category": "AI & CAD",
+      "thing_url": "https://adam.new/",
+      "hn_url": "https://news.ycombinator.com/item?id=47977694",
+      "source_story_title": "Show HN: AI CAD Harness",
+      "summary": "CAD agent that edits existing Fusion and Onshape models.",
+      "why_included": "A rare in-CAD AI launch that generated genuine workflow discussion.",
+      "evidence": "Comments focused on CAD-as-code, feature-tree edits, and beta integrations for Fusion and Onshape."
+    },
+    {
+      "name": "My Private GitHub on Postgres",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/calebwin/gitgres",
+      "hn_url": "https://news.ycombinator.com/item?id=47977659",
+      "source_story_title": "Show HN: My Private GitHub on Postgres",
+      "summary": "Postgres-backed Git server designed around database backups.",
+      "why_included": "Interesting storage-model twist that prompted real self-hosting comparisons.",
+      "evidence": "Commenters liked the backup integration and kept comparing it to Fossil and GitLab/Forgejo/Gitea."
+    },
+    {
+      "name": "whohas",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/whohas/whohas",
+      "hn_url": "https://news.ycombinator.com/item?id=47975592",
+      "source_story_title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "summary": "Cross-distro package-search CLI that reduces distro-hopping.",
+      "why_included": "Commenters called it a boring but useful tool and pointed to adjacent search resources.",
+      "evidence": "The thread cited Repology, pkgs.org, and nix-locate as alternatives or complements."
+    },
+    {
+      "name": "Fossil",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://fossil-scm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47977659",
+      "source_story_title": "Show HN: My Private GitHub on Postgres",
+      "summary": "All-in-one SCM with hosting, tracking, wiki, and chat.",
+      "why_included": "Repeatedly recommended as the cleaner self-hosted Git alternative.",
+      "evidence": "Commenters said “Fossil really has it all” and “Just use Fossil at this point.”"
+    },
+    {
+      "name": "Homebrew on Linux",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://docs.brew.sh/Homebrew-on-Linux",
+      "hn_url": "https://news.ycombinator.com/item?id=47975592",
+      "source_story_title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "summary": "Package manager option people said now fits everyday Linux workflows.",
+      "why_included": "A practical distro-neutral fallback that changed one commenter’s setup.",
+      "evidence": "One comment said switching to Homebrew for Linux and Flatpak made distro choice mostly about desktop environment."
+    },
+    {
+      "name": "Repology",
+      "category": "Package Search & Linux Plumbing",
+      "thing_url": "https://repology.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47975592",
+      "source_story_title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "summary": "Package metadata index with an hourly-updated API.",
+      "why_included": "Mentioned as the structured package-search alternative in the whohas thread.",
+      "evidence": "A commenter said Repology provides an API, though unstable."
+    },
+    {
+      "name": "pkgs.org",
+      "category": "Package Search & Linux Plumbing",
+      "thing_url": "https://pkgs.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47975592",
+      "source_story_title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "summary": "Cross-distro package lookup site with broad repo coverage.",
+      "why_included": "Named alongside Repology as a useful fallback package search resource.",
+      "evidence": "The whohas thread explicitly linked pkgs.org right after discussing Repology."
+    },
+    {
+      "name": "nix-index",
+      "category": "Package Search & Linux Plumbing",
+      "thing_url": "https://github.com/nix-community/nix-index",
+      "hn_url": "https://news.ycombinator.com/item?id=47975592",
+      "source_story_title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "summary": "Nix package locator behind the nix-locate command.",
+      "why_included": "Suggested as the CLI answer when package names vary across distros.",
+      "evidence": "A commenter pointed to `nix-locate -r 'bin/foo$'` as the command-line alternative."
+    },
+    {
+      "name": "NumWorks",
+      "category": "Hardware & Education",
+      "thing_url": "https://www.numworks.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47979583",
+      "source_story_title": "Ti-84 Evo",
+      "summary": "Graphing calculator users praised as cheaper and better than TI.",
+      "why_included": "A strong alternative signal in the Ti-84 Evo thread.",
+      "evidence": "Multiple comments said NumWorks is similar but more reasonably priced, and one said it is much better."
+    }
+  ]
+}

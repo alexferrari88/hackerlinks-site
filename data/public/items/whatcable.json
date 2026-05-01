@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "whatcable",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:whatcable:47972511",
+  "mention_ids": [
+    "2026-05-01:whatcable:47972511"
+  ],
+  "name": "WhatCable",
+  "slug": "whatcable",
+  "summary": "Tiny macOS utility that reads what USB-C cables can actually do.",
+  "thing_url": "https://github.com/darrylmorley/whatcable",
+  "times_seen": 1,
+  "why_included": "HN commenters immediately wanted ports and alternate packaging, showing real demand for the utility."
+}

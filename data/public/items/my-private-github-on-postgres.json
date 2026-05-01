@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "my-private-github-on-postgres",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:my-private-github-on-postgres:47977659",
+  "mention_ids": [
+    "2026-05-01:my-private-github-on-postgres:47977659"
+  ],
+  "name": "My Private GitHub on Postgres",
+  "slug": "my-private-github-on-postgres",
+  "summary": "Postgres-backed Git server designed around database backups.",
+  "thing_url": "https://github.com/calebwin/gitgres",
+  "times_seen": 1,
+  "why_included": "Interesting storage-model twist that prompted real self-hosting comparisons."
+}

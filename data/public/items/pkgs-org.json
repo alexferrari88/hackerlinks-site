@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "pkgs-org",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:pkgs-org:47975592",
+  "mention_ids": [
+    "2026-05-01:pkgs-org:47975592"
+  ],
+  "name": "pkgs.org",
+  "slug": "pkgs-org",
+  "summary": "Cross-distro package lookup site with broad repo coverage.",
+  "thing_url": "https://pkgs.org/",
+  "times_seen": 1,
+  "why_included": "Named alongside Repology as a useful fallback package search resource."
+}

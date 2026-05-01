@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "ai-cad-harness",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:ai-cad-harness:47977694",
+  "mention_ids": [
+    "2026-05-01:ai-cad-harness:47977694"
+  ],
+  "name": "AI CAD Harness",
+  "slug": "ai-cad-harness",
+  "summary": "CAD agent that edits existing Fusion and Onshape models.",
+  "thing_url": "https://adam.new/",
+  "times_seen": 1,
+  "why_included": "A rare in-CAD AI launch that generated genuine workflow discussion."
+}

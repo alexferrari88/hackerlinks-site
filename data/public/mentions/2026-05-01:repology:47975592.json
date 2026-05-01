@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said Repology provides an API, though unstable.",
+  "hn_url": "https://news.ycombinator.com/item?id=47975592",
+  "id": "2026-05-01:repology:47975592",
+  "is_repeat": false,
+  "issue_id": "2026-05-01",
+  "item_id": "repology",
+  "rank": 7,
+  "seen_at": "2026-05-01T21:05:24Z",
+  "source_story_id": "47975592",
+  "source_story_title": "whohas \u2013 Command-line utility for cross-distro, cross-repository package search"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-01T21:05:24Z",
+  "id": "nix-index",
+  "last_seen_at": "2026-05-01T21:05:24Z",
+  "latest_mention_id": "2026-05-01:nix-index:47975592",
+  "mention_ids": [
+    "2026-05-01:nix-index:47975592"
+  ],
+  "name": "nix-index",
+  "slug": "nix-index",
+  "summary": "Nix package locator behind the nix-locate command.",
+  "thing_url": "https://github.com/nix-community/nix-index",
+  "times_seen": 1,
+  "why_included": "Suggested as the CLI answer when package names vary across distros."
+}
