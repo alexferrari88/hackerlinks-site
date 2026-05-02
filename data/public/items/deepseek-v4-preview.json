@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "deepseek-v4-preview",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:deepseek-v4-preview:47977026",
+  "mention_ids": [
+    "2026-05-02:deepseek-v4-preview:47977026"
+  ],
+  "name": "DeepSeek V4 Preview",
+  "slug": "deepseek-v4-preview",
+  "summary": "Preview MoE model with stronger agent and reasoning capabilities.",
+  "thing_url": "https://api-docs.deepseek.com/news/news260424",
+  "times_seen": 1,
+  "why_included": "The discussion focused on adoption, pricing, and coding workflows around the release."
+}

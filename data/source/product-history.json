@@ -1255,6 +1255,66 @@
       "first_reported_at": "2026-05-01T21:05:24Z",
       "last_reported_at": "2026-05-01T21:05:24Z",
       "times_reported": 1
+    },
+    {
+      "name": "DeepSeek V4 Preview",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cecli",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pollen",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DAC",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Vega-Lite",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Dotcl",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Databasus",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Ti-84 Evo",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NetHack 5.0.0",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NetHack 3D client",
+      "first_reported_at": "2026-05-02T21:13:23Z",
+      "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
     }
   ]
 }

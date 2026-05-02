@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "dotcl",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:dotcl:47964957",
+  "mention_ids": [
+    "2026-05-02:dotcl:47964957"
+  ],
+  "name": "Dotcl",
+  "slug": "dotcl",
+  "summary": "Common Lisp implementation running on .NET.",
+  "thing_url": "https://github.com/dotcl/dotcl",
+  "times_seen": 1,
+  "why_included": "Commenters reacted like it was a useful new toy and a plausible weekend project."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "dac",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:dac:47949066",
+  "mention_ids": [
+    "2026-05-02:dac:47949066"
+  ],
+  "name": "DAC",
+  "slug": "dac",
+  "summary": "Open-source dashboard-as-code tool for agents and humans.",
+  "thing_url": "https://github.com/bruin-data/dac",
+  "times_seen": 1,
+  "why_included": "The discussion surfaced useful alternatives and concrete workflow tradeoffs for LLM-built dashboards."
+}

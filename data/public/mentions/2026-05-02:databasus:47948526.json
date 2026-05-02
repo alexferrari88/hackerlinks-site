@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter called it a remarkably simple backup scheduler, said they use it in a homelab, and reported that it works great.",
+  "hn_url": "https://news.ycombinator.com/item?id=47948526",
+  "id": "2026-05-02:databasus:47948526",
+  "is_repeat": false,
+  "issue_id": "2026-05-02",
+  "item_id": "databasus",
+  "rank": 7,
+  "seen_at": "2026-05-02T21:13:23Z",
+  "source_story_id": "47948526",
+  "source_story_title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL"
+}

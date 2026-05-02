@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "cecli",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:cecli:47977026",
+  "mention_ids": [
+    "2026-05-02:cecli:47977026"
+  ],
+  "name": "Cecli",
+  "slug": "cecli",
+  "summary": "Open-source AI CLI coding assistant tuned for DeepSeek.",
+  "thing_url": "https://cecli.dev/",
+  "times_seen": 1,
+  "why_included": "It was mentioned positively as a useful companion tool in the DeepSeek thread."
+}

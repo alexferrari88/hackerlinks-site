@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "run_date": "2026-05-02",
+  "generated_at": "2026-05-02T21:13:23Z",
+  "summary": "10 items surfaced from 26 qualifying stories; full Firebase crawls completed where reachable.",
+  "items": [
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "DeepSeek V4 Preview",
+      "thing_url": "https://api-docs.deepseek.com/news/news260424",
+      "hn_url": "https://news.ycombinator.com/item?id=47977026",
+      "source_story_title": "DeepSeek V4—almost on the frontier",
+      "summary": "Preview MoE model with stronger agent and reasoning capabilities.",
+      "why_included": "The discussion focused on adoption, pricing, and coding workflows around the release.",
+      "evidence": "Commenters said DeepSeek 'just does what I ask,' discussed subsidized pricing, and referenced Cecli as an open-source coding assistant built to work well with DeepSeek."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Cecli",
+      "thing_url": "https://cecli.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47977026",
+      "source_story_title": "DeepSeek V4—almost on the frontier",
+      "summary": "Open-source AI CLI coding assistant tuned for DeepSeek.",
+      "why_included": "It was mentioned positively as a useful companion tool in the DeepSeek thread.",
+      "evidence": "A commenter said they are involved in Cecli, described it as designed to work well with DeepSeek, and called it efficient for agentic programming on a budget."
+    },
+    {
+      "category": "🛠️ Dev Tools & Infrastructure",
+      "name": "Pollen",
+      "thing_url": "https://github.com/sambigeara/pollen",
+      "hn_url": "https://news.ycombinator.com/item?id=47961935",
+      "source_story_title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
+      "summary": "Distributed WASM runtime in a single binary, with no control plane.",
+      "why_included": "Commenters called it impressive and discussed using it in place of Tailscale.",
+      "evidence": "A commenter called it incredible, another compared it to an AWS-style service catalog, and the maker said they use it in place of Tailscale for homelab applications."
+    },
+    {
+      "category": "🛠️ Dev Tools & Infrastructure",
+      "name": "DAC",
+      "thing_url": "https://github.com/bruin-data/dac",
+      "hn_url": "https://news.ycombinator.com/item?id=47949066",
+      "source_story_title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "summary": "Open-source dashboard-as-code tool for agents and humans.",
+      "why_included": "The discussion surfaced useful alternatives and concrete workflow tradeoffs for LLM-built dashboards.",
+      "evidence": "Commenters asked about Vega-Lite as a go-to data-viz DSL, debated YAML versus JSX, and discussed using LLMs to write dashboards."
+    },
+    {
+      "category": "🛠️ Dev Tools & Infrastructure",
+      "name": "Vega-Lite",
+      "thing_url": "https://vega.github.io/vega-lite/",
+      "hn_url": "https://news.ycombinator.com/item?id=47949066",
+      "source_story_title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "summary": "Declarative data-viz DSL for charts and dashboards.",
+      "why_included": "It was singled out as a favorite way to generate visualizations with Claude.",
+      "evidence": "A commenter called it their go-to data viz DSL with Claude, directly recommending it in the thread."
+    },
+    {
+      "category": "🛠️ Dev Tools & Infrastructure",
+      "name": "Dotcl",
+      "thing_url": "https://github.com/dotcl/dotcl",
+      "hn_url": "https://news.ycombinator.com/item?id=47964957",
+      "source_story_title": "Dotcl: Common Lisp Implementation on .NET",
+      "summary": "Common Lisp implementation running on .NET.",
+      "why_included": "Commenters reacted like it was a useful new toy and a plausible weekend project.",
+      "evidence": "People called it a new toy in their toolbox, said the timing was great, and pointed out MonoGame integration plus possible Unity or Godot use."
+    },
+    {
+      "category": "🛠️ Dev Tools & Infrastructure",
+      "name": "Databasus",
+      "thing_url": "https://databasus.com",
+      "hn_url": "https://news.ycombinator.com/item?id=47948526",
+      "source_story_title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "summary": "Tiny web interface for scheduling PostgreSQL backups.",
+      "why_included": "It stood out as a practical self-hosting utility in the Barman discussion.",
+      "evidence": "A commenter called it a remarkably simple backup scheduler, said they use it in a homelab, and reported that it works great."
+    },
+    {
+      "category": "🎮 Games & Retro Hardware",
+      "name": "Ti-84 Evo",
+      "thing_url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "hn_url": "https://news.ycombinator.com/item?id=47979583",
+      "source_story_title": "Ti-84 Evo",
+      "summary": "TI's new graphing calculator aimed at education and nostalgia.",
+      "why_included": "The thread drew enthusiastic hardware nostalgia and practical calculator talk.",
+      "evidence": "Commenters praised the interface, discussed RPN and calculator-app alternatives, and compared it with models like DM42n and HP 50G emulators."
+    },
+    {
+      "category": "🎮 Games & Retro Hardware",
+      "name": "NetHack 5.0.0",
+      "thing_url": "https://nethack.org/v500/release.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47988776",
+      "source_story_title": "NetHack 5.0.0",
+      "summary": "NetHack's new release with updated client and gameplay polish.",
+      "why_included": "HN users were excited enough to recommend companion clients and revisit the game.",
+      "evidence": "Commenters highly recommended the 3D client, described long-haul play on laptops, and called NetHack one of the best open source projects."
+    },
+    {
+      "category": "🎮 Games & Retro Hardware",
+      "name": "NetHack 3D client",
+      "thing_url": "https://github.com/JamesIV4/nethack-3d",
+      "hn_url": "https://news.ycombinator.com/item?id=47988776",
+      "source_story_title": "NetHack 5.0.0",
+      "summary": "3D NetHack client with a web demo and GitHub repo.",
+      "why_included": "It was explicitly recommended as a way to play the new NetHack release.",
+      "evidence": "A commenter said they highly recommend the 3D client because it works almost everywhere and hoped it would be updated for 5.0.0 soon."
+    }
+  ]
+}

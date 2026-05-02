@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "nethack-5-0-0",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:nethack-5-0-0:47988776",
+  "mention_ids": [
+    "2026-05-02:nethack-5-0-0:47988776"
+  ],
+  "name": "NetHack 5.0.0",
+  "slug": "nethack-5-0-0",
+  "summary": "NetHack's new release with updated client and gameplay polish.",
+  "thing_url": "https://nethack.org/v500/release.html",
+  "times_seen": 1,
+  "why_included": "HN users were excited enough to recommend companion clients and revisit the game."
+}

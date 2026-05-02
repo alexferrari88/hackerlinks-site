@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters asked about Vega-Lite as a go-to data-viz DSL, debated YAML versus JSX, and discussed using LLMs to write dashboards.",
+  "hn_url": "https://news.ycombinator.com/item?id=47949066",
+  "id": "2026-05-02:dac:47949066",
+  "is_repeat": false,
+  "issue_id": "2026-05-02",
+  "item_id": "dac",
+  "rank": 4,
+  "seen_at": "2026-05-02T21:13:23Z",
+  "source_story_id": "47949066",
+  "source_story_title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans"
+}

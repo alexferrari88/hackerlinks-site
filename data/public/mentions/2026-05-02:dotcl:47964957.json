@@ -1,0 +1,12 @@
+{
+  "evidence": "People called it a new toy in their toolbox, said the timing was great, and pointed out MonoGame integration plus possible Unity or Godot use.",
+  "hn_url": "https://news.ycombinator.com/item?id=47964957",
+  "id": "2026-05-02:dotcl:47964957",
+  "is_repeat": false,
+  "issue_id": "2026-05-02",
+  "item_id": "dotcl",
+  "rank": 6,
+  "seen_at": "2026-05-02T21:13:23Z",
+  "source_story_id": "47964957",
+  "source_story_title": "Dotcl: Common Lisp Implementation on .NET"
+}

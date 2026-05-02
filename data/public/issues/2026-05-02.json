@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T21:13:23Z",
+  "headline": "10 interesting things surfaced from HN on 2026-05-02",
+  "id": "2026-05-02",
+  "mention_ids": [
+    "2026-05-02:deepseek-v4-preview:47977026",
+    "2026-05-02:cecli:47977026",
+    "2026-05-02:pollen:47961935",
+    "2026-05-02:dac:47949066",
+    "2026-05-02:vega-lite:47949066",
+    "2026-05-02:dotcl:47964957",
+    "2026-05-02:databasus:47948526",
+    "2026-05-02:ti-84-evo:47979583",
+    "2026-05-02:nethack-5-0-0:47988776",
+    "2026-05-02:nethack-3d-client:47988776"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

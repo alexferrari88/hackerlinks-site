@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter called it incredible, another compared it to an AWS-style service catalog, and the maker said they use it in place of Tailscale for homelab applications.",
+  "hn_url": "https://news.ycombinator.com/item?id=47961935",
+  "id": "2026-05-02:pollen:47961935",
+  "is_repeat": false,
+  "issue_id": "2026-05-02",
+  "item_id": "pollen",
+  "rank": 3,
+  "seen_at": "2026-05-02T21:13:23Z",
+  "source_story_id": "47961935",
+  "source_story_title": "Show HN: Pollen \u2013 distributed WASM runtime, no control plane, single binary"
+}

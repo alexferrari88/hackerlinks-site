@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "pollen",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:pollen:47961935",
+  "mention_ids": [
+    "2026-05-02:pollen:47961935"
+  ],
+  "name": "Pollen",
+  "slug": "pollen",
+  "summary": "Distributed WASM runtime in a single binary, with no control plane.",
+  "thing_url": "https://github.com/sambigeara/pollen",
+  "times_seen": 1,
+  "why_included": "Commenters called it impressive and discussed using it in place of Tailscale."
+}

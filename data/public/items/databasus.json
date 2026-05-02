@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "databasus",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:databasus:47948526",
+  "mention_ids": [
+    "2026-05-02:databasus:47948526"
+  ],
+  "name": "Databasus",
+  "slug": "databasus",
+  "summary": "Tiny web interface for scheduling PostgreSQL backups.",
+  "thing_url": "https://databasus.com",
+  "times_seen": 1,
+  "why_included": "It stood out as a practical self-hosting utility in the Barman discussion."
+}

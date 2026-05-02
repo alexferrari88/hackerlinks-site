@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "ti-84-evo",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:ti-84-evo:47979583",
+  "mention_ids": [
+    "2026-05-02:ti-84-evo:47979583"
+  ],
+  "name": "Ti-84 Evo",
+  "slug": "ti-84-evo",
+  "summary": "TI's new graphing calculator aimed at education and nostalgia.",
+  "thing_url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+  "times_seen": 1,
+  "why_included": "The thread drew enthusiastic hardware nostalgia and practical calculator talk."
+}

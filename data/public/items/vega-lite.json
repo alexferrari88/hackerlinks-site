@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "vega-lite",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:vega-lite:47949066",
+  "mention_ids": [
+    "2026-05-02:vega-lite:47949066"
+  ],
+  "name": "Vega-Lite",
+  "slug": "vega-lite",
+  "summary": "Declarative data-viz DSL for charts and dashboards.",
+  "thing_url": "https://vega.github.io/vega-lite/",
+  "times_seen": 1,
+  "why_included": "It was singled out as a favorite way to generate visualizations with Claude."
+}

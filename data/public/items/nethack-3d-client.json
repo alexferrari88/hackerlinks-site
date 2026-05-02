@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-02T21:13:23Z",
+  "id": "nethack-3d-client",
+  "last_seen_at": "2026-05-02T21:13:23Z",
+  "latest_mention_id": "2026-05-02:nethack-3d-client:47988776",
+  "mention_ids": [
+    "2026-05-02:nethack-3d-client:47988776"
+  ],
+  "name": "NetHack 3D client",
+  "slug": "nethack-3d-client",
+  "summary": "3D NetHack client with a web demo and GitHub repo.",
+  "thing_url": "https://github.com/JamesIV4/nethack-3d",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as a way to play the new NetHack release."
+}
