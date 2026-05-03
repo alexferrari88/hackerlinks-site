@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread talked about a 2.4 GB ONNX model, WebGPU inference, browser memory crashes, and local-only processing.",
+  "hn_url": "https://news.ycombinator.com/item?id=47995037",
+  "id": "2026-05-03:apple-sharp:47995037",
+  "is_repeat": false,
+  "issue_id": "2026-05-03",
+  "item_id": "apple-sharp",
+  "rank": 4,
+  "seen_at": "2026-05-03T21:17:03Z",
+  "source_story_id": "47995037",
+  "source_story_title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web"
+}

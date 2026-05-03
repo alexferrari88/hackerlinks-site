@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "run_date": "2026-05-03",
+  "generated_at": "2026-05-03T21:17:03Z",
+  "summary": "6 items surfaced from 4 mined threads.",
+  "items": [
+    {
+      "name": "Ableton Live MCP",
+      "thing_url": "https://github.com/bschoepke/ableton-live-mcp",
+      "hn_url": "https://news.ycombinator.com/item?id=47999656",
+      "source_story_title": "Show HN: Ableton Live MCP",
+      "summary": "MCP server that lets Codex control Ableton Live.",
+      "why_included": "HN commenters treated it as a real AI-assisted music-production workflow, not just a toy.",
+      "evidence": "The thread discussed voice-driven composition, arrangement edits, dynamics changes, and iterative feedback inside Ableton with Codex/Claude."
+    },
+    {
+      "name": "Text-to-CAD",
+      "thing_url": "https://github.com/earthtojake/text-to-cad",
+      "hn_url": "https://news.ycombinator.com/item?id=47970497",
+      "source_story_title": "Text-to-CAD",
+      "summary": "Prompt-driven CAD pipeline that turns text into 3D geometry.",
+      "why_included": "Commenters kept comparing it to other serious text-to-CAD efforts and practical CAD backends.",
+      "evidence": "Replies mentioned Claude generating OpenSCAD, a separate cordyceps repo, and zoo.dev as a serious benchmark."
+    },
+    {
+      "name": "XSecureLock",
+      "thing_url": "https://github.com/google/xsecurelock",
+      "hn_url": "https://news.ycombinator.com/item?id=47997947",
+      "source_story_title": "A desktop made for one",
+      "summary": "Crash-safe X11 screen locker built for secure desktop locking.",
+      "why_included": "A commenter explicitly recommended it as the safer lock tool for custom desktop setups.",
+      "evidence": "The recommendation cited multiprocess design and avoiding an unprotected desktop if the locker crashes."
+    },
+    {
+      "name": "Apple SHARP",
+      "thing_url": "https://github.com/bring-shrubbery/ml-sharp-web",
+      "hn_url": "https://news.ycombinator.com/item?id=47995037",
+      "source_story_title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+      "summary": "Browser demo that runs Apple's SHARP 3D model locally.",
+      "why_included": "Commenters liked the client-side privacy story and spent time on the runtime limits.",
+      "evidence": "The thread talked about a 2.4 GB ONNX model, WebGPU inference, browser memory crashes, and local-only processing."
+    },
+    {
+      "name": "OpenSCAD",
+      "thing_url": "https://openscad.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47970497",
+      "source_story_title": "Text-to-CAD",
+      "summary": "Script-based CAD modeller people used with Claude for 3D printing.",
+      "why_included": "The comments showed a concrete prompt-to-CAD workflow, not abstract AI hype.",
+      "evidence": "One commenter said they use Claude to generate OpenSCAD for 3D printing; others discussed its limits for spatial reasoning."
+    },
+    {
+      "name": "zoo.dev",
+      "thing_url": "https://zoo.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47970497",
+      "source_story_title": "Text-to-CAD",
+      "summary": "Conversational CAD platform HN cited as a serious text-to-CAD effort.",
+      "why_included": "It came up as the heavyweight reference point for people building text-to-CAD systems.",
+      "evidence": "A commenter said text-to-CAD fans should mention zoo.dev and noted it had gone to extreme lengths on the problem."
+    }
+  ]
+}

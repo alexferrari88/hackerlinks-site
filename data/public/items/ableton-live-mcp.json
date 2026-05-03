@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-03T21:17:03Z",
+  "id": "ableton-live-mcp",
+  "last_seen_at": "2026-05-03T21:17:03Z",
+  "latest_mention_id": "2026-05-03:ableton-live-mcp:47999656",
+  "mention_ids": [
+    "2026-05-03:ableton-live-mcp:47999656"
+  ],
+  "name": "Ableton Live MCP",
+  "slug": "ableton-live-mcp",
+  "summary": "MCP server that lets Codex control Ableton Live.",
+  "thing_url": "https://github.com/bschoepke/ableton-live-mcp",
+  "times_seen": 1,
+  "why_included": "HN commenters treated it as a real AI-assisted music-production workflow, not just a toy."
+}

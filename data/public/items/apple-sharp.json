@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-03T21:17:03Z",
+  "id": "apple-sharp",
+  "last_seen_at": "2026-05-03T21:17:03Z",
+  "latest_mention_id": "2026-05-03:apple-sharp:47995037",
+  "mention_ids": [
+    "2026-05-03:apple-sharp:47995037"
+  ],
+  "name": "Apple SHARP",
+  "slug": "apple-sharp",
+  "summary": "Browser demo that runs Apple's SHARP 3D model locally.",
+  "thing_url": "https://github.com/bring-shrubbery/ml-sharp-web",
+  "times_seen": 1,
+  "why_included": "Commenters liked the client-side privacy story and spent time on the runtime limits."
+}

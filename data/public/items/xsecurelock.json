@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-03T21:17:03Z",
+  "id": "xsecurelock",
+  "last_seen_at": "2026-05-03T21:17:03Z",
+  "latest_mention_id": "2026-05-03:xsecurelock:47997947",
+  "mention_ids": [
+    "2026-05-03:xsecurelock:47997947"
+  ],
+  "name": "XSecureLock",
+  "slug": "xsecurelock",
+  "summary": "Crash-safe X11 screen locker built for secure desktop locking.",
+  "thing_url": "https://github.com/google/xsecurelock",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended it as the safer lock tool for custom desktop setups."
+}

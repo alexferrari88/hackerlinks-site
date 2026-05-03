@@ -1,0 +1,12 @@
+{
+  "evidence": "The recommendation cited multiprocess design and avoiding an unprotected desktop if the locker crashes.",
+  "hn_url": "https://news.ycombinator.com/item?id=47997947",
+  "id": "2026-05-03:xsecurelock:47997947",
+  "is_repeat": false,
+  "issue_id": "2026-05-03",
+  "item_id": "xsecurelock",
+  "rank": 3,
+  "seen_at": "2026-05-03T21:17:03Z",
+  "source_story_id": "47997947",
+  "source_story_title": "A desktop made for one"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-03T21:17:03Z",
+  "id": "text-to-cad",
+  "last_seen_at": "2026-05-03T21:17:03Z",
+  "latest_mention_id": "2026-05-03:text-to-cad:47970497",
+  "mention_ids": [
+    "2026-05-03:text-to-cad:47970497"
+  ],
+  "name": "Text-to-CAD",
+  "slug": "text-to-cad",
+  "summary": "Prompt-driven CAD pipeline that turns text into 3D geometry.",
+  "thing_url": "https://github.com/earthtojake/text-to-cad",
+  "times_seen": 1,
+  "why_included": "Commenters kept comparing it to other serious text-to-CAD efforts and practical CAD backends."
+}
