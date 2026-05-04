@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "perryts",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:perryts:48011184",
+  "mention_ids": [
+    "2026-05-04:perryts:48011184"
+  ],
+  "name": "PerryTS",
+  "slug": "perryts",
+  "summary": "Native TypeScript compiler that emits native executables.",
+  "thing_url": "https://www.perryts.com/",
+  "times_seen": 1,
+  "why_included": "A Bun-thread commenter called it a very promising competitor to Bun."
+}

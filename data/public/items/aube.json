@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "aube",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:aube:48011184",
+  "mention_ids": [
+    "2026-05-04:aube:48011184"
+  ],
+  "name": "Aube",
+  "slug": "aube",
+  "summary": "Fast Node.js package manager with a shared global store.",
+  "thing_url": "https://aube.en.dev/",
+  "times_seen": 1,
+  "why_included": "A Bun-thread commenter said it looked interesting and came from mise\u2019s creator."
+}

@@ -63,6 +63,12 @@
       "times_reported": 1
     },
     {
+      "name": "Aube",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "Azure Bastion",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -195,15 +201,15 @@
       "times_reported": 1
     },
     {
-      "name": "CodeBurn",
-      "first_reported_at": "2026-04-17T01:28:36Z",
-      "last_reported_at": "2026-04-17T01:28:36Z",
-      "times_reported": 1
-    },
-    {
       "name": "code.overheid.nl",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CodeBurn",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
       "times_reported": 1
     },
     {
@@ -348,6 +354,12 @@
       "name": "Endless Toil",
       "first_reported_at": "2026-04-24T21:13:46.420401Z",
       "last_reported_at": "2026-04-24T21:13:46.420401Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Equi-X",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
       "times_reported": 1
     },
     {
@@ -588,6 +600,12 @@
       "name": "Jellyfin",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "JS8Call",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
       "times_reported": 1
     },
     {
@@ -903,6 +921,18 @@
       "times_reported": 1
     },
     {
+      "name": "PerryTS",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "pi.dev",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "PiCore",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -912,12 +942,6 @@
       "name": "PiCorePlayer",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "pi.dev",
-      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
-      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "times_reported": 1
     },
     {
@@ -963,6 +987,12 @@
       "times_reported": 1
     },
     {
+      "name": "Quint",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "Qwen 3.6",
       "first_reported_at": "2026-04-30T21:02:46Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
@@ -978,6 +1008,18 @@
       "name": "Qwen3.6-35B-A3B",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Radionor CRE-2 series",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RandomX.js",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
       "times_reported": 1
     },
     {
@@ -1056,6 +1098,12 @@
       "name": "Smol machines",
       "first_reported_at": "2026-04-17T21:19:50Z",
       "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Social Animal",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
       "times_reported": 1
     },
     {
@@ -1182,6 +1230,12 @@
       "name": "Tree-sitter",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TrellisWare TSM waveform",
+      "first_reported_at": "2026-05-04T21:23:23Z",
+      "last_reported_at": "2026-05-04T21:23:23Z",
       "times_reported": 1
     },
     {

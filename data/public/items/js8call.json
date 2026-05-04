@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "js8call",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:js8call:47999636",
+  "mention_ids": [
+    "2026-05-04:js8call:47999636"
+  ],
+  "name": "JS8Call",
+  "slug": "js8call",
+  "summary": "Enhanced HF digital communication software for radio operators.",
+  "thing_url": "https://js8call.com/downloads.html",
+  "times_seen": 1,
+  "why_included": "A BYOMesh commenter listed it among emergency-communication alternatives."
+}

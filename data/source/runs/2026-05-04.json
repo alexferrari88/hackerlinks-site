@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-05-04",
+  "generated_at": "2026-05-04T21:23:23Z",
+  "summary": "9 product-like mentions surfaced from 26 qualifying HN stories.",
+  "items": [
+    {
+      "name": "PerryTS",
+      "thing_url": "https://www.perryts.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48011184",
+      "source_story_title": "I am worried about Bun",
+      "category": "Dev Tools & Workflows",
+      "summary": "Native TypeScript compiler that emits native executables.",
+      "why_included": "A Bun-thread commenter called it a very promising competitor to Bun.",
+      "evidence": "A commenter wrote: \"Regardless of Anthropic/ClaudeCode, PerryTS[1] looks like a very promising competitor to Bun.\""
+    },
+    {
+      "name": "Aube",
+      "thing_url": "https://aube.en.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48011184",
+      "source_story_title": "I am worried about Bun",
+      "category": "Dev Tools & Workflows",
+      "summary": "Fast Node.js package manager with a shared global store.",
+      "why_included": "A Bun-thread commenter said it looked interesting and came from mise’s creator.",
+      "evidence": "A commenter said: \"Don't fret; the creator of mise has released a faster alternative: https://github.com/endevco/aube\" and added that Aube \"seems interesting to me\"."
+    },
+    {
+      "name": "Quint",
+      "thing_url": "https://quint.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48009172",
+      "source_story_title": "Redis array: short story of a long development process",
+      "category": "Dev Tools & Workflows",
+      "summary": "Executable specification language for modeling and verification.",
+      "why_included": "A Redis-thread commenter pointed to Quint as a formal-modeling option.",
+      "evidence": "A commenter wrote: \"Have you considered incorporating formal modelling? Like: ... [2] https://quint.sh/\""
+    },
+    {
+      "name": "RandomX.js",
+      "thing_url": "https://github.com/l1mey112/randomx.js/",
+      "hn_url": "https://news.ycombinator.com/item?id=48009020",
+      "source_story_title": "How Monero's proof of work works",
+      "category": "Dev Tools & Workflows",
+      "summary": "JavaScript implementation of RandomX for CPU-mining experiments.",
+      "why_included": "A Monero-thread commenter highlighted a JavaScript RandomX implementation for web-mining use cases.",
+      "evidence": "A commenter said: \"RandomX has some interesting use cases beyond Monero RandomX in Javascript (web mining?) https://github.com/l1mey112/randomx.js/\""
+    },
+    {
+      "name": "Equi-X",
+      "thing_url": "https://github.com/tevador/equix",
+      "hn_url": "https://news.ycombinator.com/item?id=48009020",
+      "source_story_title": "How Monero's proof of work works",
+      "category": "Dev Tools & Workflows",
+      "summary": "CPU-friendly client puzzle used for Tor DoS protection.",
+      "why_included": "A Monero-thread commenter noted Tor now uses an Equi-X derivative.",
+      "evidence": "A commenter wrote: \"PoW is useful in far more situations than PoS. A derivative of RandomX is now used to protect TOR too (Equi-X).\""
+    },
+    {
+      "name": "TrellisWare TSM waveform",
+      "thing_url": "https://www.trellisware.com/waveforms/tsm-waveform/",
+      "hn_url": "https://news.ycombinator.com/item?id=47999636",
+      "source_story_title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "category": "Infra & Comms",
+      "summary": "Scalable MANET waveform for large tactical radio networks.",
+      "why_included": "A BYOMesh commenter said it would be a better fit for mesh networking.",
+      "evidence": "A commenter said: \"Something like Trellisware's TSM waveform would be a better fit: https://trellisware.wpengine.com/waveforms/tsm-waveform/ Nodes can cooperate to beamform and reach greater distances.\""
+    },
+    {
+      "name": "Radionor CRE-2 series",
+      "thing_url": "https://radionor.no/solution/cre-2-series/",
+      "hn_url": "https://news.ycombinator.com/item?id=47999636",
+      "source_story_title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "category": "Infra & Comms",
+      "summary": "Tactical broadband point-to-multipoint radio-link hardware.",
+      "why_included": "A BYOMesh commenter suggested it as a comparable radio option.",
+      "evidence": "A commenter added: \"Something like?: https://radionor.no/solution/cre-2-series/\""
+    },
+    {
+      "name": "JS8Call",
+      "thing_url": "https://js8call.com/downloads.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47999636",
+      "source_story_title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "category": "Infra & Comms",
+      "summary": "Enhanced HF digital communication software for radio operators.",
+      "why_included": "A BYOMesh commenter listed it among emergency-communication alternatives.",
+      "evidence": "A commenter wrote: \"For emergency communication? Iridium, zoleo, JS8Call, packet radio. Not LORA.\""
+    },
+    {
+      "name": "Social Animal",
+      "thing_url": "https://www.youtube.com/@socialanimal",
+      "hn_url": "https://news.ycombinator.com/item?id=48007438",
+      "source_story_title": "Talking to strangers at the gym",
+      "category": "Watch & Learn",
+      "summary": "Street-interview YouTube channel about talking to strangers.",
+      "why_included": "A gym-thread commenter recommended it as a useful social-skills channel.",
+      "evidence": "A commenter said: \"The author would probably love this YT channel which is all about helping others come to the same realization as he did: https://www.youtube.com/@socialanimal\""
+    }
+  ]
+}

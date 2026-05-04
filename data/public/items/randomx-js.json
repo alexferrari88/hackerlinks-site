@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "randomx-js",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:randomx-js:48009020",
+  "mention_ids": [
+    "2026-05-04:randomx-js:48009020"
+  ],
+  "name": "RandomX.js",
+  "slug": "randomx-js",
+  "summary": "JavaScript implementation of RandomX for CPU-mining experiments.",
+  "thing_url": "https://github.com/l1mey112/randomx.js/",
+  "times_seen": 1,
+  "why_included": "A Monero-thread commenter highlighted a JavaScript RandomX implementation for web-mining use cases."
+}

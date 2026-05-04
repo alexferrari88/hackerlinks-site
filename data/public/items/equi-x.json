@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "equi-x",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:equi-x:48009020",
+  "mention_ids": [
+    "2026-05-04:equi-x:48009020"
+  ],
+  "name": "Equi-X",
+  "slug": "equi-x",
+  "summary": "CPU-friendly client puzzle used for Tor DoS protection.",
+  "thing_url": "https://github.com/tevador/equix",
+  "times_seen": 1,
+  "why_included": "A Monero-thread commenter noted Tor now uses an Equi-X derivative."
+}

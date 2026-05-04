@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "radionor-cre-2-series",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:radionor-cre-2-series:47999636",
+  "mention_ids": [
+    "2026-05-04:radionor-cre-2-series:47999636"
+  ],
+  "name": "Radionor CRE-2 series",
+  "slug": "radionor-cre-2-series",
+  "summary": "Tactical broadband point-to-multipoint radio-link hardware.",
+  "thing_url": "https://radionor.no/solution/cre-2-series/",
+  "times_seen": 1,
+  "why_included": "A BYOMesh commenter suggested it as a comparable radio option."
+}

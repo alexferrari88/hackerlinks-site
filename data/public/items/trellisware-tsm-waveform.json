@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "trellisware-tsm-waveform",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:trellisware-tsm-waveform:47999636",
+  "mention_ids": [
+    "2026-05-04:trellisware-tsm-waveform:47999636"
+  ],
+  "name": "TrellisWare TSM waveform",
+  "slug": "trellisware-tsm-waveform",
+  "summary": "Scalable MANET waveform for large tactical radio networks.",
+  "thing_url": "https://www.trellisware.com/waveforms/tsm-waveform/",
+  "times_seen": 1,
+  "why_included": "A BYOMesh commenter said it would be a better fit for mesh networking."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "social-animal",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:social-animal:48007438",
+  "mention_ids": [
+    "2026-05-04:social-animal:48007438"
+  ],
+  "name": "Social Animal",
+  "slug": "social-animal",
+  "summary": "Street-interview YouTube channel about talking to strangers.",
+  "thing_url": "https://www.youtube.com/@socialanimal",
+  "times_seen": 1,
+  "why_included": "A gym-thread commenter recommended it as a useful social-skills channel."
+}

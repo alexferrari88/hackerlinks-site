@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-04T21:23:23Z",
+  "id": "quint",
+  "last_seen_at": "2026-05-04T21:23:23Z",
+  "latest_mention_id": "2026-05-04:quint:48009172",
+  "mention_ids": [
+    "2026-05-04:quint:48009172"
+  ],
+  "name": "Quint",
+  "slug": "quint",
+  "summary": "Executable specification language for modeling and verification.",
+  "thing_url": "https://quint.sh/",
+  "times_seen": 1,
+  "why_included": "A Redis-thread commenter pointed to Quint as a formal-modeling option."
+}
