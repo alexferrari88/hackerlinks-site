@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "clipper-dev",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:clipper-dev:47986331",
+  "mention_ids": [
+    "2026-05-05:clipper-dev:47986331"
+  ],
+  "name": "clipper.dev",
+  "slug": "clipper-dev",
+  "summary": "Container registry and pull client tuned for huge ML images.",
+  "thing_url": "https://clipper.dev",
+  "times_seen": 1,
+  "why_included": "The builder presented it as a direct fix for Docker\u2019s large-image sharing pain."
+}

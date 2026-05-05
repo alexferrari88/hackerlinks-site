@@ -1,0 +1,12 @@
+{
+  "evidence": "The author said clipper.dev breaks registry layers into content-addressed chunks so shared bytes are reused instead of redownloading whole layers.",
+  "hn_url": "https://news.ycombinator.com/item?id=47986331",
+  "id": "2026-05-05:clipper-dev:47986331",
+  "is_repeat": false,
+  "issue_id": "2026-05-05",
+  "item_id": "clipper-dev",
+  "rank": 3,
+  "seen_at": "2026-05-05T21:17:42.347177Z",
+  "source_story_id": "47986331",
+  "source_story_title": "Docker 29 has changed its default image store for new installs"
+}

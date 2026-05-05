@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T21:17:42.347177Z",
+  "headline": "8 interesting things surfaced from HN on 2026-05-05",
+  "id": "2026-05-05",
+  "mention_ids": [
+    "2026-05-05:invoke:48024859",
+    "2026-05-05:spectral:48024859",
+    "2026-05-05:clipper-dev:47986331",
+    "2026-05-05:pass4wallet:48021561",
+    "2026-05-05:vocaela:48026021",
+    "2026-05-05:waterfox:48019219",
+    "2026-05-05:big-clive:48024129",
+    "2026-05-05:van-gogh-studio:48026342"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

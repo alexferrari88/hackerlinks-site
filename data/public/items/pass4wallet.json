@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "pass4wallet",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:pass4wallet:48021561",
+  "mention_ids": [
+    "2026-05-05:pass4wallet:48021561"
+  ],
+  "name": "Pass4Wallet",
+  "slug": "pass4wallet",
+  "summary": "iPhone app for loyalty cards, IDs, and custom Wallet passes.",
+  "thing_url": "https://apps.apple.com/de/app/pass4wallet-store-cards/id1423106610",
+  "times_seen": 1,
+  "why_included": "A commenter said it still beats native passes for customization."
+}

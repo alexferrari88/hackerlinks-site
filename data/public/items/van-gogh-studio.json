@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "van-gogh-studio",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:van-gogh-studio:48026342",
+  "mention_ids": [
+    "2026-05-05:van-gogh-studio:48026342"
+  ],
+  "name": "Van Gogh Studio",
+  "slug": "van-gogh-studio",
+  "summary": "Article on the original colors behind Van Gogh\u2019s paintings.",
+  "thing_url": "https://www.vangoghstudio.com/what-were-the-original-colors-of-van-goghs-paintings/",
+  "times_seen": 1,
+  "why_included": "Commenters recommended it as context for why the palettes looked brownish."
+}

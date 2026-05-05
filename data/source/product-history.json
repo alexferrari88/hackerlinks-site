@@ -1405,6 +1405,54 @@
       "first_reported_at": "2026-05-03T21:17:03Z",
       "last_reported_at": "2026-05-03T21:17:03Z",
       "times_reported": 1
+    },
+    {
+      "name": "Invoke",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Spectral",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "clipper.dev",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pass4Wallet",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Vocaela",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Waterfox",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Big Clive",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Van Gogh Studio",
+      "first_reported_at": "2026-05-05T21:17:42.347177Z",
+      "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "spectral",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:spectral:48024859",
+  "mention_ids": [
+    "2026-05-05:spectral:48024859"
+  ],
+  "name": "Spectral",
+  "slug": "spectral",
+  "summary": "API-traffic capture tool that generates MCP tools from apps.",
+  "thing_url": "https://www.getspectral.sh/",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as a way to turn real app traffic into reusable agent tools."
+}

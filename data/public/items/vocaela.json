@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "vocaela",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:vocaela:48026021",
+  "mention_ids": [
+    "2026-05-05:vocaela:48026021"
+  ],
+  "name": "Vocaela",
+  "slug": "vocaela",
+  "summary": "Tiny 500M vision-language model for GUI clicking and control.",
+  "thing_url": "https://huggingface.co/vocaela/Vocaela-500M",
+  "times_seen": 1,
+  "why_included": "It stood out as a small model that actually handled x,y clicking well."
+}

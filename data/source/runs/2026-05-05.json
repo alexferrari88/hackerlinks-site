@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "run_date": "2026-05-05",
+  "generated_at": "2026-05-05T21:17:42.347177Z",
+  "summary": {
+    "items_surfaced": 8,
+    "stories_scraped": 25,
+    "stories_scraped_total": 25,
+    "coverage": "25/25 qualifying stories scraped"
+  },
+  "items": [
+    {
+      "name": "Invoke",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://getinvoke.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48024859",
+      "source_story_title": "Computer Use is 45x more expensive than structured APIs",
+      "summary": "macOS accessibility layer that turns app actions into workflows.",
+      "why_included": "Commenters framed it as a practical API over macOS apps, not a browser hack.",
+      "evidence": "A commenter said it gives agents a small set of tools for accessible macOS apps, writes repeatable workflows, and can run commands like `invoke chrome pinTab`."
+    },
+    {
+      "name": "Spectral",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://www.getspectral.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48024859",
+      "source_story_title": "Computer Use is 45x more expensive than structured APIs",
+      "summary": "API-traffic capture tool that generates MCP tools from apps.",
+      "why_included": "It was explicitly recommended as a way to turn real app traffic into reusable agent tools.",
+      "evidence": "A commenter said Spectral captures traffic while you browse, understands what each call does, and generates MCP tools any AI agent can call."
+    },
+    {
+      "name": "clipper.dev",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://clipper.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=47986331",
+      "source_story_title": "Docker 29 has changed its default image store for new installs",
+      "summary": "Container registry and pull client tuned for huge ML images.",
+      "why_included": "The builder presented it as a direct fix for Docker’s large-image sharing pain.",
+      "evidence": "The author said clipper.dev breaks registry layers into content-addressed chunks so shared bytes are reused instead of redownloading whole layers."
+    },
+    {
+      "name": "Pass4Wallet",
+      "category": "📱 Apps & Browsers",
+      "thing_url": "https://apps.apple.com/de/app/pass4wallet-store-cards/id1423106610",
+      "hn_url": "https://news.ycombinator.com/item?id=48021561",
+      "source_story_title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "summary": "iPhone app for loyalty cards, IDs, and custom Wallet passes.",
+      "why_included": "A commenter said it still beats native passes for customization.",
+      "evidence": "A commenter said they have used Pass4Wallet for years, like the custom gate-code support, and expect to keep using it."
+    },
+    {
+      "name": "Vocaela",
+      "category": "🤖 AI & Local Models",
+      "thing_url": "https://huggingface.co/vocaela/Vocaela-500M",
+      "hn_url": "https://news.ycombinator.com/item?id=48026021",
+      "source_story_title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "summary": "Tiny 500M vision-language model for GUI clicking and control.",
+      "why_included": "It stood out as a small model that actually handled x,y clicking well.",
+      "evidence": "A commenter said Vocaela, a tiny 500M model, is quite good at x,y clicking when larger models hallucinate coordinates."
+    },
+    {
+      "name": "Waterfox",
+      "category": "📱 Apps & Browsers",
+      "thing_url": "https://www.waterfox.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48019219",
+      "source_story_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "summary": "Firefox fork browser for people leaving Chrome and Mozilla.",
+      "why_included": "Several commenters named it as their Chrome escape hatch.",
+      "evidence": "Commenters said they switched to Waterfox after getting sick of Mozilla and framed it as a practical alternative to the Google browser monopoly."
+    },
+    {
+      "name": "Big Clive",
+      "category": "🎥 Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=jzNjFJdaw_I",
+      "hn_url": "https://news.ycombinator.com/item?id=48024129",
+      "source_story_title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "summary": "YouTube livestream celebrating the 555 timer’s 55th year.",
+      "why_included": "It was linked as the live birthday watch-along for the 555 milestone.",
+      "evidence": "A commenter posted Big Clive’s livestream and said it was the celebration for the 555’s birthday."
+    },
+    {
+      "name": "Van Gogh Studio",
+      "category": "🎥 Watch & Learn",
+      "thing_url": "https://www.vangoghstudio.com/what-were-the-original-colors-of-van-goghs-paintings/",
+      "hn_url": "https://news.ycombinator.com/item?id=48026342",
+      "source_story_title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "summary": "Article on the original colors behind Van Gogh’s paintings.",
+      "why_included": "Commenters recommended it as context for why the palettes looked brownish.",
+      "evidence": "A commenter linked Van Gogh Studio and noted that many old pigments were unstable, so the palettes in the show thread were misleadingly muted."
+    }
+  ]
+}

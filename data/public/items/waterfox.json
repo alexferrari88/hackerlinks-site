@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "waterfox",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:waterfox:48019219",
+  "mention_ids": [
+    "2026-05-05:waterfox:48019219"
+  ],
+  "name": "Waterfox",
+  "slug": "waterfox",
+  "summary": "Firefox fork browser for people leaving Chrome and Mozilla.",
+  "thing_url": "https://www.waterfox.com/",
+  "times_seen": 1,
+  "why_included": "Several commenters named it as their Chrome escape hatch."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-05T21:17:42.347177Z",
+  "id": "invoke",
+  "last_seen_at": "2026-05-05T21:17:42.347177Z",
+  "latest_mention_id": "2026-05-05:invoke:48024859",
+  "mention_ids": [
+    "2026-05-05:invoke:48024859"
+  ],
+  "name": "Invoke",
+  "slug": "invoke",
+  "summary": "macOS accessibility layer that turns app actions into workflows.",
+  "thing_url": "https://getinvoke.com",
+  "times_seen": 1,
+  "why_included": "Commenters framed it as a practical API over macOS apps, not a browser hack."
+}
