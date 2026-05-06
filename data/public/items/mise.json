@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-06T21:05:20Z",
+  "id": "mise",
+  "last_seen_at": "2026-05-06T21:05:20Z",
+  "latest_mention_id": "2026-05-06:mise:48038864",
+  "mention_ids": [
+    "2026-05-06:mise:48038864"
+  ],
+  "name": "Mise",
+  "slug": "mise",
+  "summary": "Lightweight dev-environment and task runner for polyglot projects.",
+  "thing_url": "https://mise.jdx.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters recommended it as the simpler default before reaching for Nix or Bazel."
+}

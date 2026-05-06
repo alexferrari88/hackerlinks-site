@@ -1,0 +1,12 @@
+{
+  "evidence": "Discussion repeatedly praised the own-database approach and warned that outsourcing auth adds reliability and lock-in risk.",
+  "hn_url": "https://news.ycombinator.com/item?id=48038827",
+  "id": "2026-05-06:better-auth:48038827",
+  "is_repeat": false,
+  "issue_id": "2026-05-06",
+  "item_id": "better-auth",
+  "rank": 1,
+  "seen_at": "2026-05-06T21:05:20Z",
+  "source_story_id": "48038827",
+  "source_story_title": "From Supabase to Clerk to Better Auth"
+}

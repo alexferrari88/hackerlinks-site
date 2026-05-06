@@ -1453,6 +1453,60 @@
       "first_reported_at": "2026-05-05T21:17:42.347177Z",
       "last_reported_at": "2026-05-05T21:17:42.347177Z",
       "times_reported": 1
+    },
+    {
+      "name": "Better Auth",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CARA 2.0",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "FreshRSS",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Inkscape 1.4.4",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Mise",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Micron 6600 ION Data Center SSD",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Proton Meet",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Steam Controller CAD files",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Templatical",
+      "first_reported_at": "2026-05-06T21:05:20Z",
+      "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
     }
   ]
 }

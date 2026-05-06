@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-06T21:05:20Z",
+  "id": "micron-6600-ion-data-center-ssd",
+  "last_seen_at": "2026-05-06T21:05:20Z",
+  "latest_mention_id": "2026-05-06:micron-6600-ion-data-center-ssd:48031867",
+  "mention_ids": [
+    "2026-05-06:micron-6600-ion-data-center-ssd:48031867"
+  ],
+  "name": "Micron 6600 ION Data Center SSD",
+  "slug": "micron-6600-ion-data-center-ssd",
+  "summary": "245TB enterprise SSD pushing extreme storage density.",
+  "thing_url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+  "times_seen": 1,
+  "why_included": "The thread was all about the density, price, and enterprise use case."
+}

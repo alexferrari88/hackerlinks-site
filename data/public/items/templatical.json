@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-06T21:05:20Z",
+  "id": "templatical",
+  "last_seen_at": "2026-05-06T21:05:20Z",
+  "latest_mention_id": "2026-05-06:templatical:48038019",
+  "mention_ids": [
+    "2026-05-06:templatical:48038019"
+  ],
+  "name": "Templatical",
+  "slug": "templatical",
+  "summary": "Self-hosted email builder that outputs MJML from a Vue editor.",
+  "thing_url": "https://play.templatical.com/",
+  "times_seen": 1,
+  "why_included": "HN liked the open-source, client-side approach and the alternative to commercial email builders."
+}

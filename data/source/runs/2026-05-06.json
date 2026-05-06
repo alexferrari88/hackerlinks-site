@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-05-06",
+  "generated_at": "2026-05-06T21:05:20Z",
+  "summary": "9 items surfaced from 26 qualifying stories, with strongest hits in dev tools, apps, and hardware.",
+  "items": [
+    {
+      "name": "Better Auth",
+      "thing_url": "https://better-auth.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48038827",
+      "source_story_title": "From Supabase to Clerk to Better Auth",
+      "category": "Dev Tools & Workflows",
+      "summary": "TypeScript auth framework that keeps users in your own database.",
+      "why_included": "HN commenters framed it as a lower-risk alternative to auth SaaS like Clerk, Supabase, and Auth0.",
+      "evidence": "Discussion repeatedly praised the own-database approach and warned that outsourcing auth adds reliability and lock-in risk."
+    },
+    {
+      "name": "Mise",
+      "thing_url": "https://mise.jdx.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48038864",
+      "source_story_title": "Going Full Time on Open Source",
+      "category": "Dev Tools & Workflows",
+      "summary": "Lightweight dev-environment and task runner for polyglot projects.",
+      "why_included": "Commenters recommended it as the simpler default before reaching for Nix or Bazel.",
+      "evidence": "The thread praised its caching, monorepo fit, and the maintainer going full time as good news for the project."
+    },
+    {
+      "name": "Templatical",
+      "thing_url": "https://play.templatical.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48038019",
+      "source_story_title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "category": "Dev Tools & Workflows",
+      "summary": "Self-hosted email builder that outputs MJML from a Vue editor.",
+      "why_included": "HN liked the open-source, client-side approach and the alternative to commercial email builders.",
+      "evidence": "Comments highlighted Vue 3 + TipTap, zero telemetry, custom blocks, and keeping sending with the user's own provider."
+    },
+    {
+      "name": "FreshRSS",
+      "thing_url": "https://freshrss.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48030964",
+      "source_story_title": "YouTube, your RSS feeds are broken",
+      "category": "Apps & Side Projects",
+      "summary": "Self-hosted RSS reader used to filter broken YouTube feeds.",
+      "why_included": "Commenters shared it as a practical workaround for feed cleanup and Shorts filtering.",
+      "evidence": "The discussion said FreshRSS can mark Shorts-related URLs read and help salvage YouTube subscriptions."
+    },
+    {
+      "name": "Inkscape 1.4.4",
+      "thing_url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48040622",
+      "source_story_title": "Inkscape 1.4.4",
+      "category": "Apps & Side Projects",
+      "summary": "Open-source vector editor for SVG cleanup, PDF extraction, and bitmap tracing.",
+      "why_included": "HN commenters described it as a mature, practical design tool despite a few SVG quirks.",
+      "evidence": "People praised its usefulness for extracting design elements from PDFs and vectorizing bitmaps while noting formatting and color limitations."
+    },
+    {
+      "name": "Proton Meet",
+      "thing_url": "https://proton.me/meet",
+      "hn_url": "https://news.ycombinator.com/item?id=48039674",
+      "source_story_title": "Proton Meet",
+      "category": "Apps & Side Projects",
+      "summary": "End-to-end encrypted video conferencing from Proton.",
+      "why_included": "The thread included real usage reports, not just product-positioning debate.",
+      "evidence": "Commenters said it works well in practice while others argued about Proton's product strategy and missing features."
+    },
+    {
+      "name": "Steam Controller CAD files",
+      "thing_url": "https://gitlab.steamos.cloud/SteamHardware/SteamController",
+      "hn_url": "https://news.ycombinator.com/item?id=48037555",
+      "source_story_title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "category": "Hardware & Makers",
+      "summary": "Valve's Creative Commons shell models for the Steam Controller and puck.",
+      "why_included": "Commenters were excited about open hardware files for modding, accessories, and replacement parts.",
+      "evidence": "Discussion centered on 3D-printed accessories, accessibility tweaks, and the practical value of the released CAD."
+    },
+    {
+      "name": "CARA 2.0",
+      "thing_url": "https://www.aaedmusa.com/projects/cara2",
+      "hn_url": "https://news.ycombinator.com/item?id=48005432",
+      "source_story_title": "CARA 2.0 – “I Built a Better Robot Dog”",
+      "category": "Hardware & Makers",
+      "summary": "Hobbyist quadruped robot dog built from cheap drone motors.",
+      "why_included": "HN discussion focused on the impressive hardware stack and the cost/performance tradeoffs.",
+      "evidence": "Commenters praised the motor/controller choices, the documentation, and the engineering limits around heat and budget."
+    },
+    {
+      "name": "Micron 6600 ION Data Center SSD",
+      "thing_url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "hn_url": "https://news.ycombinator.com/item?id=48031867",
+      "source_story_title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "category": "Hardware & Makers",
+      "summary": "245TB enterprise SSD pushing extreme storage density.",
+      "why_included": "The thread was all about the density, price, and enterprise use case.",
+      "evidence": "Commenters debated QLC NAND, write speed, rack density, and whether the economics make sense for datacenters."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-06T21:05:20Z",
+  "id": "inkscape-1-4-4",
+  "last_seen_at": "2026-05-06T21:05:20Z",
+  "latest_mention_id": "2026-05-06:inkscape-1-4-4:48040622",
+  "mention_ids": [
+    "2026-05-06:inkscape-1-4-4:48040622"
+  ],
+  "name": "Inkscape 1.4.4",
+  "slug": "inkscape-1-4-4",
+  "summary": "Open-source vector editor for SVG cleanup, PDF extraction, and bitmap tracing.",
+  "thing_url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+  "times_seen": 1,
+  "why_included": "HN commenters described it as a mature, practical design tool despite a few SVG quirks."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-06T21:05:20Z",
+  "id": "steam-controller-cad-files",
+  "last_seen_at": "2026-05-06T21:05:20Z",
+  "latest_mention_id": "2026-05-06:steam-controller-cad-files:48037555",
+  "mention_ids": [
+    "2026-05-06:steam-controller-cad-files:48037555"
+  ],
+  "name": "Steam Controller CAD files",
+  "slug": "steam-controller-cad-files",
+  "summary": "Valve's Creative Commons shell models for the Steam Controller and puck.",
+  "thing_url": "https://gitlab.steamos.cloud/SteamHardware/SteamController",
+  "times_seen": 1,
+  "why_included": "Commenters were excited about open hardware files for modding, accessories, and replacement parts."
+}
