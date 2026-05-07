@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "helium",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:helium:48050964",
+  "mention_ids": [
+    "2026-05-07:helium:48050964"
+  ],
+  "name": "Helium",
+  "slug": "helium",
+  "summary": "De-Googled Chromium fork with familiar DevTools.",
+  "thing_url": "https://helium.computer/",
+  "times_seen": 1,
+  "why_included": "A browser thread recommended it as a drop-in replacement."
+}

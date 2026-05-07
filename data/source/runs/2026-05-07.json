@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "run_date": "2026-05-07",
+  "generated_at": "2026-05-07T21:13:27Z",
+  "summary": "11 concrete items surfaced from high-signal HN comment threads.",
+  "items": [
+    {
+      "name": "DeepSeek 4 Flash",
+      "category": "🤖 AI & Local Models",
+      "thing_url": "https://github.com/antirez/ds4",
+      "hn_url": "https://news.ycombinator.com/item?id=48050751",
+      "source_story_title": "DeepSeek 4 Flash local inference engine for Metal",
+      "summary": "Local inference engine for DeepSeek 4 Flash on Metal Macs.",
+      "why_included": "Commenters treated it as a strong, cheap local option and wanted more optimization work.",
+      "evidence": "One commenter said they use DeepSeek V4 Flash all day because it is so cheap; another called the project \"so sick\" and praised the focused optimization effort."
+    },
+    {
+      "name": "Natural Language Autoencoders",
+      "category": "🤖 AI & Local Models",
+      "thing_url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "hn_url": "https://news.ycombinator.com/item?id=48052537",
+      "source_story_title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "summary": "Anthropic research release that turns model activations back into text.",
+      "why_included": "HN readers praised the interpretability release and the public code/models.",
+      "evidence": "Comments said Anthropic was \"going from strength to strength in interpretability\" and applauded the public code release for other labs."
+    },
+    {
+      "name": "TRUST",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/wojtczyk/trust",
+      "hn_url": "https://news.ycombinator.com/item?id=48045939",
+      "source_story_title": "Show HN: TRUST – Coding Rust like it's 1989",
+      "summary": "Retro Rust IDE for coding like it's 1989.",
+      "why_included": "The thread was unusually warm; commenters loved the polish and nostalgia.",
+      "evidence": "The OP got a direct \"I love your project\" and multiple commenters said it nailed Turbo Pascal vibes."
+    },
+    {
+      "name": "RaTeX",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://ratex.lites.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48010729",
+      "source_story_title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "summary": "KaTeX-compatible LaTeX renderer written in Rust.",
+      "why_included": "Readers were interested enough to compare it with Tectonic and ask about accessibility.",
+      "evidence": "One commenter said they use Tectonic personally for local PDF generation and \"really like the project\"; another said they would love to see how RaTeX evolves."
+    },
+    {
+      "name": "PySimpleGUI",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "hn_url": "https://news.ycombinator.com/item?id=48026412",
+      "source_story_title": "PySimpleGUI 6",
+      "summary": "Python GUI toolkit reboot with a paid-license reset.",
+      "why_included": "Longtime users still framed it as the quickest way to make simple desktop UIs.",
+      "evidence": "One commenter said \"PySimpleGUI is nice...you can make a button!\" and another described paying to keep legacy code working."
+    },
+    {
+      "name": "Parley",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://parley.cloudflavor.io",
+      "hn_url": "https://news.ycombinator.com/item?id=48050732",
+      "source_story_title": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
+      "summary": "TUI for reviewing AI-generated code diffs.",
+      "why_included": "A Stage CLI commenter said it solved the same code-review pain.",
+      "evidence": "The comment said they had the same AI-generated code-review issue and wrote Parley for it, then praised Stage's chapter-based review idea."
+    },
+    {
+      "name": "tuicr",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/agavra/tuicr",
+      "hn_url": "https://news.ycombinator.com/item?id=48050732",
+      "source_story_title": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
+      "summary": "Terminal-native PR review tool.",
+      "why_included": "Another commenter explicitly recommended it as the native CLI alternative.",
+      "evidence": "In the Stage CLI thread, a commenter wrote \"If you do want a native CLI in-terminal for this, try out github.com/agavra/tuicr\"."
+    },
+    {
+      "name": "Helium",
+      "category": "🌐 Browsers & Systems",
+      "thing_url": "https://helium.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050964",
+      "source_story_title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "summary": "De-Googled Chromium fork with familiar DevTools.",
+      "why_included": "A browser thread recommended it as a drop-in replacement.",
+      "evidence": "A commenter said it is \"a de-googled chrome and has the same devtools.\""
+    },
+    {
+      "name": "Asahi Alarm",
+      "category": "🌐 Browsers & Systems",
+      "thing_url": "https://asahi-alarm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48051025",
+      "source_story_title": "I switched from Mac to a Lenovo Chromebook",
+      "summary": "Fedora Remix for Apple silicon Macs.",
+      "why_included": "The thread pointed Apple-silicon users to a daily-driveable Linux option.",
+      "evidence": "A maintainer said M1/M2 users can install Asahi Alarm now and daily-drive it, with M3 support coming soon."
+    },
+    {
+      "name": "Tectonic",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/tectonic-typesetting/tectonic",
+      "hn_url": "https://news.ycombinator.com/item?id=48010729",
+      "source_story_title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "summary": "Rust-powered local PDF generator for TeX workflows.",
+      "why_included": "A commenter said it is their personal local PDF tool and praised it.",
+      "evidence": "The commenter said they use Tectonic personally for local PDF generation and \"really like the project.\""
+    },
+    {
+      "name": "Gapminder",
+      "category": "📚 Watch & Learn",
+      "thing_url": "https://www.gapminder.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049208",
+      "source_story_title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "summary": "Hans Rosling's data-literacy foundation and visualization site.",
+      "why_included": "A commenter cited it as a go-to resource for explaining development data.",
+      "evidence": "The comment paired Hans Rosling's foundation Gapminder with his TED talk and called him an excellent lecturer."
+    }
+  ]
+}

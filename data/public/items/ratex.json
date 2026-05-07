@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "ratex",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:ratex:48010729",
+  "mention_ids": [
+    "2026-05-07:ratex:48010729"
+  ],
+  "name": "RaTeX",
+  "slug": "ratex",
+  "summary": "KaTeX-compatible LaTeX renderer written in Rust.",
+  "thing_url": "https://ratex.lites.dev/",
+  "times_seen": 1,
+  "why_included": "Readers were interested enough to compare it with Tectonic and ask about accessibility."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "pysimplegui",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:pysimplegui:48026412",
+  "mention_ids": [
+    "2026-05-07:pysimplegui:48026412"
+  ],
+  "name": "PySimpleGUI",
+  "slug": "pysimplegui",
+  "summary": "Python GUI toolkit reboot with a paid-license reset.",
+  "thing_url": "https://github.com/PySimpleGUI/PySimpleGUI",
+  "times_seen": 1,
+  "why_included": "Longtime users still framed it as the quickest way to make simple desktop UIs."
+}

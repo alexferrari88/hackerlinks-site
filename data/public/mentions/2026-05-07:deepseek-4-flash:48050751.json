@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they use DeepSeek V4 Flash all day because it is so cheap; another called the project \"so sick\" and praised the focused optimization effort.",
+  "hn_url": "https://news.ycombinator.com/item?id=48050751",
+  "id": "2026-05-07:deepseek-4-flash:48050751",
+  "is_repeat": false,
+  "issue_id": "2026-05-07",
+  "item_id": "deepseek-4-flash",
+  "rank": 1,
+  "seen_at": "2026-05-07T21:13:27Z",
+  "source_story_id": "48050751",
+  "source_story_title": "DeepSeek 4 Flash local inference engine for Metal"
+}

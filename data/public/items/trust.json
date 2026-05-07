@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "trust",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:trust:48045939",
+  "mention_ids": [
+    "2026-05-07:trust:48045939"
+  ],
+  "name": "TRUST",
+  "slug": "trust",
+  "summary": "Retro Rust IDE for coding like it's 1989.",
+  "thing_url": "https://github.com/wojtczyk/trust",
+  "times_seen": 1,
+  "why_included": "The thread was unusually warm; commenters loved the polish and nostalgia."
+}

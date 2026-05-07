@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "parley",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:parley:48050732",
+  "mention_ids": [
+    "2026-05-07:parley:48050732"
+  ],
+  "name": "Parley",
+  "slug": "parley",
+  "summary": "TUI for reviewing AI-generated code diffs.",
+  "thing_url": "https://parley.cloudflavor.io",
+  "times_seen": 1,
+  "why_included": "A Stage CLI commenter said it solved the same code-review pain."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "gapminder",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:gapminder:48049208",
+  "mention_ids": [
+    "2026-05-07:gapminder:48049208"
+  ],
+  "name": "Gapminder",
+  "slug": "gapminder",
+  "summary": "Hans Rosling's data-literacy foundation and visualization site.",
+  "thing_url": "https://www.gapminder.org/",
+  "times_seen": 1,
+  "why_included": "A commenter cited it as a go-to resource for explaining development data."
+}

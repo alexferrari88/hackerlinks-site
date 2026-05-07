@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "deepseek-4-flash",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:deepseek-4-flash:48050751",
+  "mention_ids": [
+    "2026-05-07:deepseek-4-flash:48050751"
+  ],
+  "name": "DeepSeek 4 Flash",
+  "slug": "deepseek-4-flash",
+  "summary": "Local inference engine for DeepSeek 4 Flash on Metal Macs.",
+  "thing_url": "https://github.com/antirez/ds4",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a strong, cheap local option and wanted more optimization work."
+}

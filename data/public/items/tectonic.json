@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "tectonic",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:tectonic:48010729",
+  "mention_ids": [
+    "2026-05-07:tectonic:48010729"
+  ],
+  "name": "Tectonic",
+  "slug": "tectonic",
+  "summary": "Rust-powered local PDF generator for TeX workflows.",
+  "thing_url": "https://github.com/tectonic-typesetting/tectonic",
+  "times_seen": 1,
+  "why_included": "A commenter said it is their personal local PDF tool and praised it."
+}

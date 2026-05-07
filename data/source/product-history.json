@@ -1507,6 +1507,72 @@
       "first_reported_at": "2026-05-06T21:05:20Z",
       "last_reported_at": "2026-05-06T21:05:20Z",
       "times_reported": 1
+    },
+    {
+      "name": "DeepSeek 4 Flash",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Natural Language Autoencoders",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TRUST",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RaTeX",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "PySimpleGUI",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Parley",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "tuicr",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Helium",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Asahi Alarm",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Tectonic",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Gapminder",
+      "first_reported_at": "2026-05-07T21:13:27Z",
+      "last_reported_at": "2026-05-07T21:13:27Z",
+      "times_reported": 1
     }
   ]
 }

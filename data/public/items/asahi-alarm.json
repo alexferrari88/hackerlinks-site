@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "asahi-alarm",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:asahi-alarm:48051025",
+  "mention_ids": [
+    "2026-05-07:asahi-alarm:48051025"
+  ],
+  "name": "Asahi Alarm",
+  "slug": "asahi-alarm",
+  "summary": "Fedora Remix for Apple silicon Macs.",
+  "thing_url": "https://asahi-alarm.org/",
+  "times_seen": 1,
+  "why_included": "The thread pointed Apple-silicon users to a daily-driveable Linux option."
+}

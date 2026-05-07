@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-07T21:13:27Z",
+  "id": "natural-language-autoencoders",
+  "last_seen_at": "2026-05-07T21:13:27Z",
+  "latest_mention_id": "2026-05-07:natural-language-autoencoders:48052537",
+  "mention_ids": [
+    "2026-05-07:natural-language-autoencoders:48052537"
+  ],
+  "name": "Natural Language Autoencoders",
+  "slug": "natural-language-autoencoders",
+  "summary": "Anthropic research release that turns model activations back into text.",
+  "thing_url": "https://www.anthropic.com/research/natural-language-autoencoders",
+  "times_seen": 1,
+  "why_included": "HN readers praised the interpretability release and the public code/models."
+}
