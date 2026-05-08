@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "mojo",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:mojo:48057901",
+  "mention_ids": [
+    "2026-05-08:mojo:48057901"
+  ],
+  "name": "Mojo",
+  "slug": "mojo",
+  "summary": "A Python-like systems language for high-performance AI and heterogeneous compute.",
+  "thing_url": "https://mojolang.org/",
+  "times_seen": 1,
+  "why_included": "The beta drew sustained discussion around Python interop and the open-source roadmap."
+}

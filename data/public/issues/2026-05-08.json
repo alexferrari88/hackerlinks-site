@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T21:22:35Z",
+  "headline": "11 interesting things surfaced from HN on 2026-05-08",
+  "id": "2026-05-08",
+  "mention_ids": [
+    "2026-05-08:regent:48063548",
+    "2026-05-08:mojo:48057901",
+    "2026-05-08:meshtastic:48061566",
+    "2026-05-08:meshcore:48061566",
+    "2026-05-08:reticulum:48061566",
+    "2026-05-08:creepjs:48062178",
+    "2026-05-08:browserleaks:48062178",
+    "2026-05-08:cover-your-tracks:48062178",
+    "2026-05-08:am-i-unique:48062178",
+    "2026-05-08:ipleak-full-report:48062178",
+    "2026-05-08:flashpoint-archive:48065360"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

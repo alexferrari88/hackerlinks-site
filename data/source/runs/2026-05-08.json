@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "run_date": "2026-05-08",
+  "generated_at": "2026-05-08T21:22:35Z",
+  "summary": "11 concrete tools and sites surfaced from HN comments.",
+  "items": [
+    {
+      "name": "Regent",
+      "thing_url": "https://github.com/regent-vcs/re_gent",
+      "hn_url": "https://news.ycombinator.com/item?id=48063548",
+      "source_story_title": "Show HN: Git for AI Agents",
+      "summary": "Version control for AI agent activity — tracks why agents changed a repo.",
+      "why_included": "Show HN introduced a clear workflow layer for rewinding and bisecting agent sessions.",
+      "evidence": "Commenters called it “Version Control for AI agent activity” and discussed tracing deletions and rewinding compacted sessions."
+    },
+    {
+      "name": "Mojo",
+      "thing_url": "https://mojolang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48057901",
+      "source_story_title": "Mojo 1.0 Beta",
+      "summary": "A Python-like systems language for high-performance AI and heterogeneous compute.",
+      "why_included": "The beta drew sustained discussion around Python interop and the open-source roadmap.",
+      "evidence": "Comments focused on Python interop, the planned open-source release, and whether Mojo can replace bottlenecks without rewriting code."
+    },
+    {
+      "name": "Meshtastic",
+      "thing_url": "https://meshtastic.org/docs/introduction/",
+      "hn_url": "https://news.ycombinator.com/item?id=48061566",
+      "source_story_title": "An Introduction to Meshtastic",
+      "summary": "LoRa mesh messaging for off-grid text comms without internet or power.",
+      "why_included": "The thread praised its emergency and remote-use cases despite bandwidth limits.",
+      "evidence": "Commenters described it as off-grid messaging, compared it with MeshCore, and suggested cheap boards plus antennas."
+    },
+    {
+      "name": "MeshCore",
+      "thing_url": "https://meshcore.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48061566",
+      "source_story_title": "An Introduction to Meshtastic",
+      "summary": "A secure off-grid mesh communications system with a companion app.",
+      "why_included": "HN treated it as a serious alternative to Meshtastic for static repeater setups.",
+      "evidence": "Comments contrasted MeshCore’s static and dynamic layers with Meshtastic’s flood-routing model."
+    },
+    {
+      "name": "Reticulum",
+      "thing_url": "https://reticulum.network/",
+      "hn_url": "https://news.ycombinator.com/item?id=48061566",
+      "source_story_title": "An Introduction to Meshtastic",
+      "summary": "An open-source networking stack for resilient low-bandwidth mesh networks.",
+      "why_included": "Commenters repeatedly pointed to it as an adjacent mesh-networking option.",
+      "evidence": "The Meshtastic thread quoted Reticulum as a secure, decentralized stack that can run over readily available hardware."
+    },
+    {
+      "name": "CreepJS",
+      "thing_url": "https://abrahamjuliot.github.io/creepjs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48062178",
+      "source_story_title": "A web page that shows you everything the browser told it without asking",
+      "summary": "A browser fingerprinting demo that probes how uniquely your browser identifies itself.",
+      "why_included": "The privacy thread used it as a stronger comparison than the showcased page.",
+      "evidence": "Commenters explicitly listed CreepJS alongside better fingerprinting demos."
+    },
+    {
+      "name": "BrowserLeaks",
+      "thing_url": "https://browserleaks.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48062178",
+      "source_story_title": "A web page that shows you everything the browser told it without asking",
+      "summary": "A suite of browser privacy leak tests covering IP, WebRTC, DNS, and more.",
+      "why_included": "It was one of the main concrete alternatives cited for checking browser exposure.",
+      "evidence": "HN commenters compared the demo page to BrowserLeaks when discussing what browsers reveal automatically."
+    },
+    {
+      "name": "Cover Your Tracks",
+      "thing_url": "https://coveryourtracks.eff.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48062178",
+      "source_story_title": "A web page that shows you everything the browser told it without asking",
+      "summary": "EFF’s browser tracking test for fingerprinting resistance.",
+      "why_included": "The thread repeatedly used it as the benchmark privacy test.",
+      "evidence": "Commenters referenced Cover Your Tracks as a more useful, privacy-focused fingerprinting comparison."
+    },
+    {
+      "name": "Am I Unique?",
+      "thing_url": "https://amiunique.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48062178",
+      "source_story_title": "A web page that shows you everything the browser told it without asking",
+      "summary": "A browser fingerprint diversity test that shows how identifiable your browser is.",
+      "why_included": "It surfaced as another direct comparator in the fingerprinting discussion.",
+      "evidence": "The HN discussion grouped Am I Unique with other fingerprinting tests like BrowserLeaks and ipleak."
+    },
+    {
+      "name": "IPLeak full report",
+      "thing_url": "https://ipleak.com/full-report/",
+      "hn_url": "https://news.ycombinator.com/item?id=48062178",
+      "source_story_title": "A web page that shows you everything the browser told it without asking",
+      "summary": "An IP/DNS/WebRTC leak test for checking what a site can infer.",
+      "why_included": "It rounded out the privacy-testing tools named in the thread.",
+      "evidence": "Commenters cited the ipleak full report alongside BrowserLeaks and Cover Your Tracks as a comparable leak test."
+    },
+    {
+      "name": "Flashpoint archive",
+      "thing_url": "https://flashpointarchive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48065360",
+      "source_story_title": "Cartoon Network Flash Games",
+      "summary": "A preservation archive for old Flash games and web-era childhood classics.",
+      "why_included": "The Cartoon Network thread explicitly recommended it as the place to find more preserved games.",
+      "evidence": "A commenter told readers to check out the Flashpoint archive for more archived flash games."
+    }
+  ]
+}

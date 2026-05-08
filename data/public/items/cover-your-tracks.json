@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "cover-your-tracks",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:cover-your-tracks:48062178",
+  "mention_ids": [
+    "2026-05-08:cover-your-tracks:48062178"
+  ],
+  "name": "Cover Your Tracks",
+  "slug": "cover-your-tracks",
+  "summary": "EFF\u2019s browser tracking test for fingerprinting resistance.",
+  "thing_url": "https://coveryourtracks.eff.org/",
+  "times_seen": 1,
+  "why_included": "The thread repeatedly used it as the benchmark privacy test."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "flashpoint-archive",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:flashpoint-archive:48065360",
+  "mention_ids": [
+    "2026-05-08:flashpoint-archive:48065360"
+  ],
+  "name": "Flashpoint archive",
+  "slug": "flashpoint-archive",
+  "summary": "A preservation archive for old Flash games and web-era childhood classics.",
+  "thing_url": "https://flashpointarchive.org/",
+  "times_seen": 1,
+  "why_included": "The Cartoon Network thread explicitly recommended it as the place to find more preserved games."
+}

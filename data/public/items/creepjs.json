@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "creepjs",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:creepjs:48062178",
+  "mention_ids": [
+    "2026-05-08:creepjs:48062178"
+  ],
+  "name": "CreepJS",
+  "slug": "creepjs",
+  "summary": "A browser fingerprinting demo that probes how uniquely your browser identifies itself.",
+  "thing_url": "https://abrahamjuliot.github.io/creepjs/",
+  "times_seen": 1,
+  "why_included": "The privacy thread used it as a stronger comparison than the showcased page."
+}

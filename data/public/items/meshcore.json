@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "meshcore",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:meshcore:48061566",
+  "mention_ids": [
+    "2026-05-08:meshcore:48061566"
+  ],
+  "name": "MeshCore",
+  "slug": "meshcore",
+  "summary": "A secure off-grid mesh communications system with a companion app.",
+  "thing_url": "https://meshcore.io/",
+  "times_seen": 1,
+  "why_included": "HN treated it as a serious alternative to Meshtastic for static repeater setups."
+}

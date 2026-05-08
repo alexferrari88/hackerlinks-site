@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "browserleaks",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:browserleaks:48062178",
+  "mention_ids": [
+    "2026-05-08:browserleaks:48062178"
+  ],
+  "name": "BrowserLeaks",
+  "slug": "browserleaks",
+  "summary": "A suite of browser privacy leak tests covering IP, WebRTC, DNS, and more.",
+  "thing_url": "https://browserleaks.com/",
+  "times_seen": 1,
+  "why_included": "It was one of the main concrete alternatives cited for checking browser exposure."
+}

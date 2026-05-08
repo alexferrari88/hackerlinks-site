@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "regent",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:regent:48063548",
+  "mention_ids": [
+    "2026-05-08:regent:48063548"
+  ],
+  "name": "Regent",
+  "slug": "regent",
+  "summary": "Version control for AI agent activity \u2014 tracks why agents changed a repo.",
+  "thing_url": "https://github.com/regent-vcs/re_gent",
+  "times_seen": 1,
+  "why_included": "Show HN introduced a clear workflow layer for rewinding and bisecting agent sessions."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "reticulum",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:reticulum:48061566",
+  "mention_ids": [
+    "2026-05-08:reticulum:48061566"
+  ],
+  "name": "Reticulum",
+  "slug": "reticulum",
+  "summary": "An open-source networking stack for resilient low-bandwidth mesh networks.",
+  "thing_url": "https://reticulum.network/",
+  "times_seen": 1,
+  "why_included": "Commenters repeatedly pointed to it as an adjacent mesh-networking option."
+}

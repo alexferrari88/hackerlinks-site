@@ -1509,69 +1509,123 @@
       "times_reported": 1
     },
     {
+      "name": "Artifact Keeper",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Claude Mythos Preview",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "DeepSeek 4 Flash",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Komai",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
       "times_reported": 1
     },
     {
       "name": "Natural Language Autoencoders",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
       "times_reported": 1
     },
     {
-      "name": "TRUST",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "open-artisan",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
       "times_reported": 1
     },
     {
-      "name": "RaTeX",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "OpenEvolve",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
       "times_reported": 1
     },
     {
-      "name": "PySimpleGUI",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "OpenHands Software Agent SDK",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
       "times_reported": 1
     },
     {
-      "name": "Parley",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "Probity",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
       "times_reported": 1
     },
     {
-      "name": "tuicr",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "Regent",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
       "times_reported": 1
     },
     {
-      "name": "Helium",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "Mojo",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
       "times_reported": 1
     },
     {
-      "name": "Asahi Alarm",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "Meshtastic",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
       "times_reported": 1
     },
     {
-      "name": "Tectonic",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "MeshCore",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
       "times_reported": 1
     },
     {
-      "name": "Gapminder",
-      "first_reported_at": "2026-05-07T21:13:27Z",
-      "last_reported_at": "2026-05-07T21:13:27Z",
+      "name": "Reticulum",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CreepJS",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "BrowserLeaks",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cover Your Tracks",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Am I Unique?",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "IPLeak full report",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Flashpoint archive",
+      "first_reported_at": "2026-05-08T21:22:35Z",
+      "last_reported_at": "2026-05-08T21:22:35Z",
       "times_reported": 1
     }
   ]

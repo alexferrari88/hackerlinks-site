@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "am-i-unique",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:am-i-unique:48062178",
+  "mention_ids": [
+    "2026-05-08:am-i-unique:48062178"
+  ],
+  "name": "Am I Unique?",
+  "slug": "am-i-unique",
+  "summary": "A browser fingerprint diversity test that shows how identifiable your browser is.",
+  "thing_url": "https://amiunique.org/",
+  "times_seen": 1,
+  "why_included": "It surfaced as another direct comparator in the fingerprinting discussion."
+}

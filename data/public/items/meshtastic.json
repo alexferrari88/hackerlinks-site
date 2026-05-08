@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-08T21:22:35Z",
+  "id": "meshtastic",
+  "last_seen_at": "2026-05-08T21:22:35Z",
+  "latest_mention_id": "2026-05-08:meshtastic:48061566",
+  "mention_ids": [
+    "2026-05-08:meshtastic:48061566"
+  ],
+  "name": "Meshtastic",
+  "slug": "meshtastic",
+  "summary": "LoRa mesh messaging for off-grid text comms without internet or power.",
+  "thing_url": "https://meshtastic.org/docs/introduction/",
+  "times_seen": 1,
+  "why_included": "The thread praised its emergency and remote-use cases despite bandwidth limits."
+}
