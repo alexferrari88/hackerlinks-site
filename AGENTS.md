@@ -14,3 +14,7 @@ Repository-specific instructions for AI agents working in this repo.
 
 - Run the narrowest relevant verification before committing code changes.
 - Documentation-only changes do not require the full test suite unless they affect generated docs or build inputs.
+
+## Git hygiene
+
+- After committing changes in this repository, push the branch to its configured remote.
