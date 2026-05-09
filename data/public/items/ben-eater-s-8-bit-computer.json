@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-09T21:20:22Z",
+  "id": "ben-eater-s-8-bit-computer",
+  "last_seen_at": "2026-05-09T21:20:22Z",
+  "latest_mention_id": "2026-05-09:ben-eater-s-8-bit-computer:48045384",
+  "mention_ids": [
+    "2026-05-09:ben-eater-s-8-bit-computer:48045384"
+  ],
+  "name": "Ben Eater's 8-bit computer",
+  "slug": "ben-eater-s-8-bit-computer",
+  "summary": "Ben Eater's 8-bit computer \u2014 hands-on DIY CPU project for learning computer architecture.",
+  "thing_url": "https://eater.net/8bit",
+  "times_seen": 1,
+  "why_included": "The TD4 thread singled it out as one of the best beginner resources for understanding CPUs."
+}

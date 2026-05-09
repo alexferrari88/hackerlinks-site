@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-09T21:20:22Z",
+  "id": "bun",
+  "last_seen_at": "2026-05-09T21:20:22Z",
+  "latest_mention_id": "2026-05-09:bun:48073680",
+  "mention_ids": [
+    "2026-05-09:bun:48073680"
+  ],
+  "name": "Bun",
+  "slug": "bun",
+  "summary": "Bun runtime \u2014 experimental Rust rewrite reached 99.8% test compatibility on Linux x64 glibc.",
+  "thing_url": "https://bun.sh/",
+  "times_seen": 1,
+  "why_included": "Commenters were impressed that a huge runtime rewrite got this far this fast."
+}

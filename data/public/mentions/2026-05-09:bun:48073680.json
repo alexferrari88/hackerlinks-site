@@ -1,0 +1,12 @@
+{
+  "evidence": "HN comments called the result \u201cremarkable\u201d and highlighted the 99.8% test-suite compatibility after starting from thousands of compiler errors.",
+  "hn_url": "https://news.ycombinator.com/item?id=48073680",
+  "id": "2026-05-09:bun:48073680",
+  "is_repeat": false,
+  "issue_id": "2026-05-09",
+  "item_id": "bun",
+  "rank": 1,
+  "seen_at": "2026-05-09T21:20:22Z",
+  "source_story_id": "48073680",
+  "source_story_title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc"
+}

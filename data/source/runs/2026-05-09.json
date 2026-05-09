@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "run_date": "2026-05-09",
+  "generated_at": "2026-05-09T21:20:22Z",
+  "summary": "7 items surfaced from 23 qualifying stories; 2 story pages were blocked by anti-bot.",
+  "failed_stories": [
+    {
+      "id": 48042427,
+      "title": "Show HN: I wrote a flight simulator in my own programming language",
+      "reason": "web_extract anti-bot failure"
+    },
+    {
+      "id": 48037517,
+      "title": "What causes lightning? The answer keeps getting more interesting",
+      "reason": "web_extract anti-bot failure"
+    }
+  ],
+  "items": [
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Bun",
+      "thing_url": "https://bun.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48073680",
+      "source_story_title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "summary": "Bun runtime — experimental Rust rewrite reached 99.8% test compatibility on Linux x64 glibc.",
+      "why_included": "Commenters were impressed that a huge runtime rewrite got this far this fast.",
+      "evidence": "HN comments called the result “remarkable” and highlighted the 99.8% test-suite compatibility after starting from thousands of compiler errors."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Zed Editor Theme-Builder",
+      "thing_url": "https://zed.dev/theme-builder",
+      "hn_url": "https://news.ycombinator.com/item?id=48076651",
+      "source_story_title": "Zed Editor Theme-Builder",
+      "summary": "Zed theme builder — visual editor for high-contrast themes and fine-grained styling.",
+      "why_included": "Commenters liked the inspector-driven workflow and the ability to make Zed genuinely high-contrast.",
+      "evidence": "The thread praised the inspector as a game changer and said the theme builder finally made good high-contrast themes practical."
+    },
+    {
+      "category": "🔐 Privacy & Security",
+      "name": "GrapheneOS",
+      "thing_url": "https://grapheneos.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48075144",
+      "source_story_title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "summary": "GrapheneOS — Android security OS that patched a VPN leak Google refused to fix.",
+      "why_included": "The thread treated the fix as a real security win and discussed GrapheneOS as practical privacy infrastructure.",
+      "evidence": "Commenters praised GrapheneOS’s release 2026050400 fix and repeatedly recommended supported Pixels for people who want a hardened Android stack."
+    },
+    {
+      "category": "🔐 Privacy & Security",
+      "name": "Pixel 8",
+      "thing_url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-8-pro/",
+      "hn_url": "https://news.ycombinator.com/item?id=48075144",
+      "source_story_title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "summary": "Pixel 8 phone — recommended GrapheneOS hardware pick thanks to MTE support.",
+      "why_included": "The thread gave unusually concrete hardware advice for anyone buying a GrapheneOS-capable phone.",
+      "evidence": "A commenter said Pixel 8 is preferable because it adds MTE support, while others warned that carrier-sold Pixels often lack unlockable bootloaders."
+    },
+    {
+      "category": "📚 Learn & Build",
+      "name": "Ben Eater's 8-bit computer",
+      "thing_url": "https://eater.net/8bit",
+      "hn_url": "https://news.ycombinator.com/item?id=48045384",
+      "source_story_title": "Building the TD4 4-Bit CPU",
+      "summary": "Ben Eater's 8-bit computer — hands-on DIY CPU project for learning computer architecture.",
+      "why_included": "The TD4 thread singled it out as one of the best beginner resources for understanding CPUs.",
+      "evidence": "A commenter called it “the most excellent ben-eater’s 8bit-computer” and linked it as a strong learning resource."
+    },
+    {
+      "category": "📚 Learn & Build",
+      "name": "Nand to Tetris",
+      "thing_url": "https://www.nand2tetris.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48045384",
+      "source_story_title": "Building the TD4 4-Bit CPU",
+      "summary": "Nand to Tetris — from-first-principles systems course that builds a computer from logic gates.",
+      "why_included": "It was recommended alongside Ben Eater’s project as a strong route into computer fundamentals.",
+      "evidence": "Commenters grouped it with Ben Eater’s build as a top-tier path from simple gates to a working computer."
+    },
+    {
+      "category": "🎥 Watch & Learn",
+      "name": "Why It Was Almost Impossible to Make the Blue LED",
+      "thing_url": "https://www.youtube.com/watch?v=AF8d72mA41M",
+      "hn_url": "https://news.ycombinator.com/item?id=48048679",
+      "source_story_title": "How LEDs are made (2014)",
+      "summary": "YouTube explainer — the long road to making the blue LED.",
+      "why_included": "A commenter explicitly recommended it as a good companion watch to the LEDs article.",
+      "evidence": "The LED manufacturing thread described the video as “a non-frantic (related) video worth the watch.”"
+    }
+  ]
+}

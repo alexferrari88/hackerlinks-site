@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-09T21:20:22Z",
+  "id": "nand-to-tetris",
+  "last_seen_at": "2026-05-09T21:20:22Z",
+  "latest_mention_id": "2026-05-09:nand-to-tetris:48045384",
+  "mention_ids": [
+    "2026-05-09:nand-to-tetris:48045384"
+  ],
+  "name": "Nand to Tetris",
+  "slug": "nand-to-tetris",
+  "summary": "Nand to Tetris \u2014 from-first-principles systems course that builds a computer from logic gates.",
+  "thing_url": "https://www.nand2tetris.org/",
+  "times_seen": 1,
+  "why_included": "It was recommended alongside Ben Eater\u2019s project as a strong route into computer fundamentals."
+}

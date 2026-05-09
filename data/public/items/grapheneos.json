@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-09T21:20:22Z",
+  "id": "grapheneos",
+  "last_seen_at": "2026-05-09T21:20:22Z",
+  "latest_mention_id": "2026-05-09:grapheneos:48075144",
+  "mention_ids": [
+    "2026-05-09:grapheneos:48075144"
+  ],
+  "name": "GrapheneOS",
+  "slug": "grapheneos",
+  "summary": "GrapheneOS \u2014 Android security OS that patched a VPN leak Google refused to fix.",
+  "thing_url": "https://grapheneos.org/",
+  "times_seen": 1,
+  "why_included": "The thread treated the fix as a real security win and discussed GrapheneOS as practical privacy infrastructure."
+}
