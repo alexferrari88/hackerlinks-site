@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "prusa-core-one",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:prusa-core-one:48084432",
+  "mention_ids": [
+    "2026-05-10:prusa-core-one:48084432"
+  ],
+  "name": "Prusa CORE One",
+  "slug": "prusa-core-one",
+  "summary": "Enclosed CoreXY printer that commenters found worry-free and well built.",
+  "thing_url": "https://www.prusa3d.com/product/prusa-core-one/",
+  "times_seen": 1,
+  "why_included": "People praised it as a reliable, user-friendly alternative with strong openness and service."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "gemma-4",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:gemma-4:48085821",
+  "mention_ids": [
+    "2026-05-10:gemma-4:48085821"
+  ],
+  "name": "Gemma 4",
+  "slug": "gemma-4",
+  "summary": "Google\u2019s open-weight Gemma 4 model family for local inference.",
+  "thing_url": "https://deepmind.google/models/gemma/gemma-4/",
+  "times_seen": 1,
+  "why_included": "Commenters said it was fast enough and useful for private local search tasks."
+}

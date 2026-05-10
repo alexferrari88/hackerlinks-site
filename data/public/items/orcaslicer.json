@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "orcaslicer",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:orcaslicer:48084432",
+  "mention_ids": [
+    "2026-05-10:orcaslicer:48084432"
+  ],
+  "name": "OrcaSlicer",
+  "slug": "orcaslicer",
+  "summary": "Open-source 3D-printing slicer for Bambu and other printers.",
+  "thing_url": "https://www.orcaslicer.com/",
+  "times_seen": 1,
+  "why_included": "The Bambu legal-drama thread repeatedly recommended it as the slicer to use."
+}

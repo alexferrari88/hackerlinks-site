@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "wander",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:wander:48083580",
+  "mention_ids": [
+    "2026-05-10:wander:48083580"
+  ],
+  "name": "Wander",
+  "slug": "wander",
+  "summary": "Indie web/blog index for discovering smaller curated sites.",
+  "thing_url": "https://codeberg.org/susam/wander#readme",
+  "times_seen": 1,
+  "why_included": "Commenters said it was a good way to wander the independent web and bookmarked it."
+}

@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-05-10",
+  "generated_at": "2026-05-10T21:13:50.159568Z",
+  "summary": "10 concrete product mentions surfaced from 28 scraped HN stories.",
+  "items": [
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Gemma 4",
+      "thing_url": "https://deepmind.google/models/gemma/gemma-4/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085821",
+      "source_story_title": "Local AI needs to be the norm",
+      "summary": "Google’s open-weight Gemma 4 model family for local inference.",
+      "why_included": "Commenters said it was fast enough and useful for private local search tasks.",
+      "evidence": "One commenter said they were using gemma4 locally on an MBP M2 and it felt really good; another called Gemma4 crazy well trained for its size."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Lakebase",
+      "thing_url": "https://www.databricks.com/product/lakebase",
+      "hn_url": "https://news.ycombinator.com/item?id=48064789",
+      "source_story_title": "Lakebase architecture delivers faster Postgres writes",
+      "summary": "Databricks’ managed Postgres product with separated storage and compute.",
+      "why_included": "The thread treated the architecture as solid and compared it to familiar transactional databases.",
+      "evidence": "Commenters said Lakebase is for transactional use cases, compared it to AWS Aurora, and noted Databricks customers use it for many small Postgres instances."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Forgejo",
+      "thing_url": "https://forgejo.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085095",
+      "source_story_title": "GitHub is sinking",
+      "summary": "Self-hosted Git forge for repositories, issues, and collaboration.",
+      "why_included": "People praised it as a responsive GitHub alternative and said they never looked back.",
+      "evidence": "A commenter said they had been running a self-hosted Forgejo, found it extremely responsive, and were really happy with it; another said they installed Forgejo at home and never looked back."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "OneDev",
+      "thing_url": "https://onedev.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085095",
+      "source_story_title": "GitHub is sinking",
+      "summary": "Self-hosted DevOps platform with repo hosting, CI, and issue tracking.",
+      "why_included": "It got unusually strong praise as a forge people should not overlook.",
+      "evidence": "One commenter called OneDev a fantastic tool and said people should really consider it; another noted the OSS version and enterprise plugins, including a web terminal for CI/CD debugging."
+    },
+    {
+      "category": "🧰 Hardware & Makers",
+      "name": "OrcaSlicer",
+      "thing_url": "https://www.orcaslicer.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48084432",
+      "source_story_title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "summary": "Open-source 3D-printing slicer for Bambu and other printers.",
+      "why_included": "The Bambu legal-drama thread repeatedly recommended it as the slicer to use.",
+      "evidence": "Comments said “Buy a bambu; use Orcaslicer,” and others noted that Bambu printers still work with OrcaSlicer in local/LAN modes or after downgrades."
+    },
+    {
+      "category": "🌐 Web & Privacy",
+      "name": "ClearURLs",
+      "thing_url": "https://docs.clearurls.xyz/",
+      "hn_url": "https://news.ycombinator.com/item?id=48076173",
+      "source_story_title": "I’ve banned query strings",
+      "summary": "Browser extension that strips tracking junk from shared URLs.",
+      "why_included": "It came up as the clean fix while people argued about banning query strings.",
+      "evidence": "Commenters explicitly recommended the ClearURLs addon and pointed to Firefox’s Copy Clean Link feature as a cleaner-link workflow."
+    },
+    {
+      "category": "🌐 Web & Privacy",
+      "name": "Wander",
+      "thing_url": "https://codeberg.org/susam/wander#readme",
+      "hn_url": "https://news.ycombinator.com/item?id=48083580",
+      "source_story_title": "Show HN: An index of indie web/blog indexes",
+      "summary": "Indie web/blog index for discovering smaller curated sites.",
+      "why_included": "Commenters said it was a good way to wander the independent web and bookmarked it.",
+      "evidence": "In the indie-web-index thread, one comment linked Wander and said they really liked its take on discovery of smaller curated websites; another said they were happy to bookmark it."
+    },
+    {
+      "category": "📚 Reading & Learning",
+      "name": "Think Stats",
+      "thing_url": "https://allendowney.github.io/ThinkStats/",
+      "hn_url": "https://news.ycombinator.com/item?id=48082396",
+      "source_story_title": "Think Linear Algebra (2023)",
+      "summary": "Allen Downey’s free statistics book for Python programmers.",
+      "why_included": "People praised Downey’s books as clearer than the alternatives and recommended the whole series.",
+      "evidence": "Commenters said Think Stats bailed them out of a stats class and pointed readers at Think Complexity, Think DSP, Think Bayes, and ThinkPython."
+    },
+    {
+      "category": "🧰 Hardware & Makers",
+      "name": "Bambu Lab A1 mini",
+      "thing_url": "https://bambulab.com/en/a1-mini",
+      "hn_url": "https://news.ycombinator.com/item?id=48084432",
+      "source_story_title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "summary": "Consumer 3D printer that commenters called a standout value and easy win.",
+      "why_included": "Several commenters described it as the printer that made them stop tinkering and just print.",
+      "evidence": "The thread had repeated praise for the A1 mini as the first printer people loved, the printer that made them try 3D printing, and a model they’d recommend as a tool rather than a hobby."
+    },
+    {
+      "category": "🧰 Hardware & Makers",
+      "name": "Prusa CORE One",
+      "thing_url": "https://www.prusa3d.com/product/prusa-core-one/",
+      "hn_url": "https://news.ycombinator.com/item?id=48084432",
+      "source_story_title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "summary": "Enclosed CoreXY printer that commenters found worry-free and well built.",
+      "why_included": "People praised it as a reliable, user-friendly alternative with strong openness and service.",
+      "evidence": "Commenters said the pre-assembled Core One worked great out of the box, had been worry-free, and was the printer they’d recommend for a user-friendly setup."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "clearurls",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:clearurls:48076173",
+  "mention_ids": [
+    "2026-05-10:clearurls:48076173"
+  ],
+  "name": "ClearURLs",
+  "slug": "clearurls",
+  "summary": "Browser extension that strips tracking junk from shared URLs.",
+  "thing_url": "https://docs.clearurls.xyz/",
+  "times_seen": 1,
+  "why_included": "It came up as the clean fix while people argued about banning query strings."
+}

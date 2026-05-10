@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "think-stats",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:think-stats:48082396",
+  "mention_ids": [
+    "2026-05-10:think-stats:48082396"
+  ],
+  "name": "Think Stats",
+  "slug": "think-stats",
+  "summary": "Allen Downey\u2019s free statistics book for Python programmers.",
+  "thing_url": "https://allendowney.github.io/ThinkStats/",
+  "times_seen": 1,
+  "why_included": "People praised Downey\u2019s books as clearer than the alternatives and recommended the whole series."
+}

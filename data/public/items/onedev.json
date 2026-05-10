@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "onedev",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:onedev:48085095",
+  "mention_ids": [
+    "2026-05-10:onedev:48085095"
+  ],
+  "name": "OneDev",
+  "slug": "onedev",
+  "summary": "Self-hosted DevOps platform with repo hosting, CI, and issue tracking.",
+  "thing_url": "https://onedev.io/",
+  "times_seen": 1,
+  "why_included": "It got unusually strong praise as a forge people should not overlook."
+}

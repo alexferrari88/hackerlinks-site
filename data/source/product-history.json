@@ -1669,6 +1669,66 @@
       "first_reported_at": "2026-05-03T21:17:03Z",
       "last_reported_at": "2026-05-03T21:17:03Z",
       "times_reported": 1
+    },
+    {
+      "name": "Gemma 4",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Lakebase",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Forgejo",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OneDev",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OrcaSlicer",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ClearURLs",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Wander",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Think Stats",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Bambu Lab A1 mini",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Prusa CORE One",
+      "first_reported_at": "2026-05-10T21:13:50.159568Z",
+      "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
     }
   ]
 }

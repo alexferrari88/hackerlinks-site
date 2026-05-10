@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-10T21:13:50.159568Z",
+  "id": "forgejo",
+  "last_seen_at": "2026-05-10T21:13:50.159568Z",
+  "latest_mention_id": "2026-05-10:forgejo:48085095",
+  "mention_ids": [
+    "2026-05-10:forgejo:48085095"
+  ],
+  "name": "Forgejo",
+  "slug": "forgejo",
+  "summary": "Self-hosted Git forge for repositories, issues, and collaboration.",
+  "thing_url": "https://forgejo.org/",
+  "times_seen": 1,
+  "why_included": "People praised it as a responsive GitHub alternative and said they never looked back."
+}

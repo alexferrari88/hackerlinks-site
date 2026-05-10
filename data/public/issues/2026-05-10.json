@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T21:13:50.159568Z",
+  "headline": "10 interesting things surfaced from HN on 2026-05-10",
+  "id": "2026-05-10",
+  "mention_ids": [
+    "2026-05-10:gemma-4:48085821",
+    "2026-05-10:lakebase:48064789",
+    "2026-05-10:forgejo:48085095",
+    "2026-05-10:onedev:48085095",
+    "2026-05-10:orcaslicer:48084432",
+    "2026-05-10:clearurls:48076173",
+    "2026-05-10:wander:48083580",
+    "2026-05-10:think-stats:48082396",
+    "2026-05-10:bambu-lab-a1-mini:48084432",
+    "2026-05-10:prusa-core-one:48084432"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
