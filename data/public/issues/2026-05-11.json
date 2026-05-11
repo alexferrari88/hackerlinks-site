@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T21:14:25Z",
+  "headline": "11 interesting things surfaced from HN on 2026-05-11",
+  "id": "2026-05-11",
+  "mention_ids": [
+    "2026-05-11:reaper:48060077",
+    "2026-05-11:nsis:48060077",
+    "2026-05-11:ninjam:48060077",
+    "2026-05-11:typedmemory:48099616",
+    "2026-05-11:ratty:48093100",
+    "2026-05-11:cuda-oxide:48096692",
+    "2026-05-11:interfaze:48097078",
+    "2026-05-11:guitar-tuner-that-uses-phone-accelerometer:48058260",
+    "2026-05-11:ghostty:48099790",
+    "2026-05-11:timg:48099790",
+    "2026-05-11:yazi:48099790"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

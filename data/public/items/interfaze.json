@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-11T21:14:25Z",
+  "id": "interfaze",
+  "last_seen_at": "2026-05-11T21:14:25Z",
+  "latest_mention_id": "2026-05-11:interfaze:48097078",
+  "mention_ids": [
+    "2026-05-11:interfaze:48097078"
+  ],
+  "name": "Interfaze",
+  "slug": "interfaze",
+  "summary": "Task-specific model architecture for OCR, translation, and GUI detection.",
+  "thing_url": "https://interfaze.ai/",
+  "times_seen": 1,
+  "why_included": "A commenter reported unusually strong OCR on a hard scanned page, which made the thread feel concrete."
+}

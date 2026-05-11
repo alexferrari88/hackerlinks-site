@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters compared it with SBE, Span<T>, Graal, and Java memory APIs while discussing hidden classes and zero-reflection access.",
+  "hn_url": "https://news.ycombinator.com/item?id=48099616",
+  "id": "2026-05-11:typedmemory:48099616",
+  "is_repeat": false,
+  "issue_id": "2026-05-11",
+  "item_id": "typedmemory",
+  "rank": 4,
+  "seen_at": "2026-05-11T21:14:25Z",
+  "source_story_id": "48099616",
+  "source_story_title": "Library for fast mapping of Java records to native memory"
+}

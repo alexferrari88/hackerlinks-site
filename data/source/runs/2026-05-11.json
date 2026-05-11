@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "run_date": "2026-05-11",
+  "generated_at": "2026-05-11T21:14:25Z",
+  "summary": "11 concrete tools, models, and side projects surfaced from product-rich HN comment threads.",
+  "items": [
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "REAPER",
+      "thing_url": "https://www.reaper.fm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48060077",
+      "source_story_title": "Nullsoft, 1997-2004 (2004)",
+      "summary": "Lightweight cross-platform DAW that commenters praised for tiny installs and serious capability.",
+      "why_included": "HN turned a nostalgia thread into a strong recommendation for a still-relevant audio workstation.",
+      "evidence": "Commenters highlighted REAPER’s small installer, generous trial model, and lineage from Justin Frankel’s Nullsoft era."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "NSIS",
+      "thing_url": "https://nsis.sourceforge.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48060077",
+      "source_story_title": "Nullsoft, 1997-2004 (2004)",
+      "summary": "Scripted Windows installer system still favored for silent, practical deployments.",
+      "why_included": "Commenters treated it as a durable installer tool worth using instead of heavier commercial options.",
+      "evidence": "The thread praised its assembly-like scripting, Dialog Designer, and hands-on installer workflow."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "NINJAM",
+      "thing_url": "https://www.cockos.com/ninjam/",
+      "hn_url": "https://news.ycombinator.com/item?id=48060077",
+      "source_story_title": "Nullsoft, 1997-2004 (2004)",
+      "summary": "Internet jamming tool that turns latency into part of the musical workflow.",
+      "why_included": "HN treated it as a clever collaboration idea rather than a throwaway Nullsoft footnote.",
+      "evidence": "Comments described musicians jamming over the internet by leaning into delayed measures instead of fighting network lag."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "TypedMemory",
+      "thing_url": "https://github.com/mamba-studio/TypedMemory",
+      "hn_url": "https://news.ycombinator.com/item?id=48099616",
+      "source_story_title": "Library for fast mapping of Java records to native memory",
+      "summary": "Java library that maps records onto native memory for low-overhead access.",
+      "why_included": "The thread focused on its performance tradeoffs and the unusual bytecode-generation design.",
+      "evidence": "HN commenters compared it with SBE, Span<T>, Graal, and Java memory APIs while discussing hidden classes and zero-reflection access."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Ratty",
+      "thing_url": "https://ratty-term.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48093100",
+      "source_story_title": "Ratty – A terminal emulator with inline 3D graphics",
+      "summary": "Rust terminal emulator that renders inline 3D graphics.",
+      "why_included": "It drew both enthusiasm and serious debate about richer terminal UX.",
+      "evidence": "Comments tied it to TempleOS, kitty graphics, Ghostty, and the broader question of whether terminals should carry 3D context."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "CUDA-oxide",
+      "thing_url": "https://github.com/NVlabs/cuda-oxide",
+      "hn_url": "https://news.ycombinator.com/item?id=48096692",
+      "source_story_title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "summary": "NVIDIA’s Rust-to-CUDA compiler stack for GPU kernels.",
+      "why_included": "HN treated it as a serious Rust GPU path with a nontrivial safety model.",
+      "evidence": "The discussion covered the MIR-to-PTX pipeline, kernel-argument checks, and slice/safety abstractions like DisjointSlice."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Interfaze",
+      "thing_url": "https://interfaze.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48097078",
+      "source_story_title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "summary": "Task-specific model architecture for OCR, translation, and GUI detection.",
+      "why_included": "A commenter reported unusually strong OCR on a hard scanned page, which made the thread feel concrete.",
+      "evidence": "The HN discussion debated bounding boxes, structured output, and where specialized DNNs beat general-purpose LLMs."
+    },
+    {
+      "category": "🎸 Apps & Side Projects",
+      "name": "Guitar tuner that uses phone accelerometer",
+      "thing_url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48058260",
+      "source_story_title": "Guitar tuner that uses phone accelerometer",
+      "summary": "Web guitar tuner that reads phone vibrations with the accelerometer.",
+      "why_included": "HN liked the sensor trick even while questioning its tuning reliability.",
+      "evidence": "Comments discussed autocorrelation, aliasing, and the privacy implications of high-frequency sensor access."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Ghostty",
+      "thing_url": "https://ghostty.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48099790",
+      "source_story_title": "Linux Terminal Memory Usage",
+      "summary": "Modern terminal emulator suggested as a practical alternative.",
+      "why_included": "It was the clearest terminal alternative name-check in the discussion.",
+      "evidence": "A commenter asked “Why not try Ghostty?” and the follow-up debate centered on packaging availability and terminal tradeoffs."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "timg",
+      "thing_url": "https://github.com/hzeller/timg",
+      "hn_url": "https://news.ycombinator.com/item?id=48099790",
+      "source_story_title": "Linux Terminal Memory Usage",
+      "summary": "Terminal image and video viewer for quick shell-side previews.",
+      "why_included": "A commenter framed it as a practical way to show images directly in the terminal.",
+      "evidence": "The thread called out easy installation and immediate terminal previews with `brew install timg`."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "yazi",
+      "thing_url": "https://github.com/sxyazi/yazi",
+      "hn_url": "https://news.ycombinator.com/item?id=48099790",
+      "source_story_title": "Linux Terminal Memory Usage",
+      "summary": "TUI file browser with built-in image and file previews.",
+      "why_included": "HN pointed to it as a concrete workflow upgrade for terminal-heavy users.",
+      "evidence": "Comments recommended it for image previews and broader file browsing inside the shell."
+    }
+  ]
+}

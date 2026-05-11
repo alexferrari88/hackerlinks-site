@@ -1,0 +1,12 @@
+{
+  "evidence": "Comments tied it to TempleOS, kitty graphics, Ghostty, and the broader question of whether terminals should carry 3D context.",
+  "hn_url": "https://news.ycombinator.com/item?id=48093100",
+  "id": "2026-05-11:ratty:48093100",
+  "is_repeat": false,
+  "issue_id": "2026-05-11",
+  "item_id": "ratty",
+  "rank": 5,
+  "seen_at": "2026-05-11T21:14:25Z",
+  "source_story_id": "48093100",
+  "source_story_title": "Ratty \u2013 A terminal emulator with inline 3D graphics"
+}

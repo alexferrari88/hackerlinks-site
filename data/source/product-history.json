@@ -1729,6 +1729,72 @@
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
       "times_reported": 1
+    },
+    {
+      "name": "REAPER",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NSIS",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NINJAM",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TypedMemory",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Ratty",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CUDA-oxide",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Interfaze",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Guitar tuner that uses phone accelerometer",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Ghostty",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "timg",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "yazi",
+      "first_reported_at": "2026-05-11T21:14:25Z",
+      "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
     }
   ]
 }

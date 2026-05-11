@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-11T21:14:25Z",
+  "id": "cuda-oxide",
+  "last_seen_at": "2026-05-11T21:14:25Z",
+  "latest_mention_id": "2026-05-11:cuda-oxide:48096692",
+  "mention_ids": [
+    "2026-05-11:cuda-oxide:48096692"
+  ],
+  "name": "CUDA-oxide",
+  "slug": "cuda-oxide",
+  "summary": "NVIDIA\u2019s Rust-to-CUDA compiler stack for GPU kernels.",
+  "thing_url": "https://github.com/NVlabs/cuda-oxide",
+  "times_seen": 1,
+  "why_included": "HN treated it as a serious Rust GPU path with a nontrivial safety model."
+}

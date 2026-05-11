@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-11T21:14:25Z",
+  "id": "ghostty",
+  "last_seen_at": "2026-05-11T21:14:25Z",
+  "latest_mention_id": "2026-05-11:ghostty:48099790",
+  "mention_ids": [
+    "2026-05-11:ghostty:48099790"
+  ],
+  "name": "Ghostty",
+  "slug": "ghostty",
+  "summary": "Modern terminal emulator suggested as a practical alternative.",
+  "thing_url": "https://ghostty.org/",
+  "times_seen": 1,
+  "why_included": "It was the clearest terminal alternative name-check in the discussion."
+}

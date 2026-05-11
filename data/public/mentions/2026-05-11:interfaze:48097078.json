@@ -1,0 +1,12 @@
+{
+  "evidence": "The HN discussion debated bounding boxes, structured output, and where specialized DNNs beat general-purpose LLMs.",
+  "hn_url": "https://news.ycombinator.com/item?id=48097078",
+  "id": "2026-05-11:interfaze:48097078",
+  "is_repeat": false,
+  "issue_id": "2026-05-11",
+  "item_id": "interfaze",
+  "rank": 7,
+  "seen_at": "2026-05-11T21:14:25Z",
+  "source_story_id": "48097078",
+  "source_story_title": "Interfaze: A new model architecture built for high accuracy at scale"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-11T21:14:25Z",
+  "id": "yazi",
+  "last_seen_at": "2026-05-11T21:14:25Z",
+  "latest_mention_id": "2026-05-11:yazi:48099790",
+  "mention_ids": [
+    "2026-05-11:yazi:48099790"
+  ],
+  "name": "yazi",
+  "slug": "yazi",
+  "summary": "TUI file browser with built-in image and file previews.",
+  "thing_url": "https://github.com/sxyazi/yazi",
+  "times_seen": 1,
+  "why_included": "HN pointed to it as a concrete workflow upgrade for terminal-heavy users."
+}

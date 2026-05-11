@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-11T21:14:25Z",
+  "id": "typedmemory",
+  "last_seen_at": "2026-05-11T21:14:25Z",
+  "latest_mention_id": "2026-05-11:typedmemory:48099616",
+  "mention_ids": [
+    "2026-05-11:typedmemory:48099616"
+  ],
+  "name": "TypedMemory",
+  "slug": "typedmemory",
+  "summary": "Java library that maps records onto native memory for low-overhead access.",
+  "thing_url": "https://github.com/mamba-studio/TypedMemory",
+  "times_seen": 1,
+  "why_included": "The thread focused on its performance tradeoffs and the unusual bytecode-generation design."
+}

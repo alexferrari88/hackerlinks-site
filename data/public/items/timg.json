@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-11T21:14:25Z",
+  "id": "timg",
+  "last_seen_at": "2026-05-11T21:14:25Z",
+  "latest_mention_id": "2026-05-11:timg:48099790",
+  "mention_ids": [
+    "2026-05-11:timg:48099790"
+  ],
+  "name": "timg",
+  "slug": "timg",
+  "summary": "Terminal image and video viewer for quick shell-side previews.",
+  "thing_url": "https://github.com/hzeller/timg",
+  "times_seen": 1,
+  "why_included": "A commenter framed it as a practical way to show images directly in the terminal."
+}

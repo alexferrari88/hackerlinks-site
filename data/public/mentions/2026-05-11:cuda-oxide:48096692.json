@@ -1,0 +1,12 @@
+{
+  "evidence": "The discussion covered the MIR-to-PTX pipeline, kernel-argument checks, and slice/safety abstractions like DisjointSlice.",
+  "hn_url": "https://news.ycombinator.com/item?id=48096692",
+  "id": "2026-05-11:cuda-oxide:48096692",
+  "is_repeat": false,
+  "issue_id": "2026-05-11",
+  "item_id": "cuda-oxide",
+  "rank": 6,
+  "seen_at": "2026-05-11T21:14:25Z",
+  "source_story_id": "48096692",
+  "source_story_title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler"
+}
