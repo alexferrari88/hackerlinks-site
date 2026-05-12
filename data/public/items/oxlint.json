@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "oxlint",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:oxlint:48109970",
+  "mention_ids": [
+    "2026-05-12:oxlint:48109970"
+  ],
+  "name": "oxlint",
+  "slug": "oxlint",
+  "summary": "Fast JavaScript and TypeScript linter pitched as a simpler ESLint replacement.",
+  "thing_url": "https://oxc.rs/docs/guide/usage/linter.html",
+  "times_seen": 1,
+  "why_included": "It was a concrete developer-tool recommendation hidden inside a plugin review thread."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "spaceengine",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:spaceengine:48107997",
+  "mention_ids": [
+    "2026-05-12:spaceengine:48107997"
+  ],
+  "name": "SpaceEngine",
+  "slug": "spaceengine",
+  "summary": "Universe simulator recommended as a reference for sky and atmosphere rendering.",
+  "thing_url": "https://spaceengine.org/",
+  "times_seen": 1,
+  "why_included": "It was the strongest outside product reference in the graphics thread."
+}

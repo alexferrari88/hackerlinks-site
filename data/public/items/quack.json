@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "quack",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:quack:48111765",
+  "mention_ids": [
+    "2026-05-12:quack:48111765"
+  ],
+  "name": "Quack",
+  "slug": "quack",
+  "summary": "DuckDB client-server protocol for remote DuckDB and DuckLake use cases.",
+  "thing_url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+  "times_seen": 1,
+  "why_included": "It surfaced a concrete data-infra project with real catalog and server deployment questions."
+}

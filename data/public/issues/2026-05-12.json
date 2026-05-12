@@ -1,0 +1,22 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T21:14:38Z",
+  "headline": "9 interesting things surfaced from HN on 2026-05-12",
+  "id": "2026-05-12",
+  "mention_ids": [
+    "2026-05-12:needle:48111896",
+    "2026-05-12:quack:48111765",
+    "2026-05-12:stalwart:48111748",
+    "2026-05-12:oxlint:48109970",
+    "2026-05-12:scalyr:48109460",
+    "2026-05-12:prusa:48109224",
+    "2026-05-12:spaceengine:48107997",
+    "2026-05-12:victron-phoenix-charger:48110858",
+    "2026-05-12:micsig-mdp-probes:48110858"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

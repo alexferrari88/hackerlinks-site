@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "stalwart",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:stalwart:48111748",
+  "mention_ids": [
+    "2026-05-12:stalwart:48111748"
+  ],
+  "name": "Stalwart",
+  "slug": "stalwart",
+  "summary": "Mail and collaboration server suggested as an Exim replacement.",
+  "thing_url": "https://stalw.art/",
+  "times_seen": 1,
+  "why_included": "It was the strongest mail-infra alternative mentioned in the Exim security thread."
+}

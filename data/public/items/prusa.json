@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "prusa",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:prusa:48109224",
+  "mention_ids": [
+    "2026-05-12:prusa:48109224"
+  ],
+  "name": "Prusa",
+  "slug": "prusa",
+  "summary": "3D printer brand praised as plug-and-play and open compared with Bambu.",
+  "thing_url": "https://www.prusa3d.com/",
+  "times_seen": 1,
+  "why_included": "It was the clearest hardware alternative in the Bambu backlash thread."
+}

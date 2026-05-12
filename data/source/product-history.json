@@ -1795,6 +1795,60 @@
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
       "times_reported": 1
+    },
+    {
+      "name": "Needle",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Quack",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Stalwart",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "oxlint",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Scalyr",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Prusa",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SpaceEngine",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Victron Phoenix Charger",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Micsig MDP probes",
+      "first_reported_at": "2026-05-12T21:14:38Z",
+      "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters asked for a live Needle playground, suggested a small VPS demo, and discussed running it in Transformers.js.",
+  "hn_url": "https://news.ycombinator.com/item?id=48111896",
+  "id": "2026-05-12:needle:48111896",
+  "is_repeat": false,
+  "issue_id": "2026-05-12",
+  "item_id": "needle",
+  "rank": 1,
+  "seen_at": "2026-05-12T21:14:38Z",
+  "source_story_id": "48111896",
+  "source_story_title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
+}

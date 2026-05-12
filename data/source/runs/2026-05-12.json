@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "run_date": "2026-05-12",
+  "generated_at": "2026-05-12T21:14:38Z",
+  "summary": "9 products surfaced from HN comments across 23 qualifying stories.",
+  "items": [
+    {
+      "name": "Needle",
+      "story_id": 48111896,
+      "source_story_title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "hn_url": "https://news.ycombinator.com/item?id=48111896",
+      "thing_url": "https://github.com/cactus-compute/needle",
+      "category": "🤖 AI & Local Models",
+      "summary": "26M tool-calling model for consumer devices; commenters wanted a live demo.",
+      "why_included": "It was the clearest AI-native launch thread with practical deployment chatter.",
+      "evidence": "Commenters asked for a live Needle playground, suggested a small VPS demo, and discussed running it in Transformers.js."
+    },
+    {
+      "name": "Quack",
+      "story_id": 48111765,
+      "source_story_title": "Quack: The DuckDB Client-Server Protocol",
+      "hn_url": "https://news.ycombinator.com/item?id=48111765",
+      "thing_url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "DuckDB client-server protocol for remote DuckDB and DuckLake use cases.",
+      "why_included": "It surfaced a concrete data-infra project with real catalog and server deployment questions.",
+      "evidence": "Commenters asked about using Quack as DuckLake's catalog database, while maintainers linked an in-progress DuckLake PR."
+    },
+    {
+      "name": "Stalwart",
+      "story_id": 48111748,
+      "source_story_title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "hn_url": "https://news.ycombinator.com/item?id=48111748",
+      "thing_url": "https://stalw.art/",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Mail and collaboration server suggested as an Exim replacement.",
+      "why_included": "It was the strongest mail-infra alternative mentioned in the Exim security thread.",
+      "evidence": "One commenter said they were looking at Stalwart to replace Exim, and another called it a fine security-focused option."
+    },
+    {
+      "name": "oxlint",
+      "story_id": 48109970,
+      "source_story_title": "The Future of Obsidian Plugins",
+      "hn_url": "https://news.ycombinator.com/item?id=48109970",
+      "thing_url": "https://oxc.rs/docs/guide/usage/linter.html",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Fast JavaScript and TypeScript linter pitched as a simpler ESLint replacement.",
+      "why_included": "It was a concrete developer-tool recommendation hidden inside a plugin review thread.",
+      "evidence": "A longtime Obsidian user suggested oxlint as a faster, simpler near drop-in replacement for ESLint."
+    },
+    {
+      "name": "Scalyr",
+      "story_id": 48109460,
+      "source_story_title": "Why senior developers fail to communicate their expertise",
+      "hn_url": "https://news.ycombinator.com/item?id=48109460",
+      "thing_url": "https://app.scalyr.com/",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Log-analysis platform recommended as the better fit for this use case.",
+      "why_included": "It was a blunt, concrete tool recommendation amid a discussion about developer expertise.",
+      "evidence": "A commenter said log analysis is a horrible UI in Obsidian and told people to use Scalyr instead."
+    },
+    {
+      "name": "Prusa",
+      "story_id": 48109224,
+      "source_story_title": "Bambu Lab is abusing the open source social contract",
+      "hn_url": "https://news.ycombinator.com/item?id=48109224",
+      "thing_url": "https://www.prusa3d.com/",
+      "category": "🧰 Hardware & Makers",
+      "summary": "3D printer brand praised as plug-and-play and open compared with Bambu.",
+      "why_included": "It was the clearest hardware alternative in the Bambu backlash thread.",
+      "evidence": "Commenters said Prusa is pretty much plug-and-play, highly recommended, and a better open-platform choice."
+    },
+    {
+      "name": "SpaceEngine",
+      "story_id": 48107997,
+      "source_story_title": "Rendering the Sky, Sunsets, and Planets",
+      "hn_url": "https://news.ycombinator.com/item?id=48107997",
+      "thing_url": "https://spaceengine.org/",
+      "category": "🎥 Watch & Learn",
+      "summary": "Universe simulator recommended as a reference for sky and atmosphere rendering.",
+      "why_included": "It was the strongest outside product reference in the graphics thread.",
+      "evidence": "A commenter called SpaceEngine highly recommended and linked it as inspiration for atmospheric rendering."
+    },
+    {
+      "name": "Victron Phoenix Charger",
+      "story_id": 48110858,
+      "source_story_title": "Testing UPS Output Waveforms",
+      "hn_url": "https://news.ycombinator.com/item?id=48110858",
+      "thing_url": "https://www.victronenergy.com/chargers/phoenix-charger-12v-24v",
+      "category": "🧰 Hardware & Makers",
+      "summary": "AC-to-12V charger used in a battery-backed UPS replacement setup.",
+      "why_included": "It stood out as a practical hardware fix instead of a theoretical UPS debate.",
+      "evidence": "A commenter said they replaced multiple UPS units with Victron AC-to-12V chargers and reported the setup worked well."
+    },
+    {
+      "name": "Micsig MDP probes",
+      "story_id": 48110858,
+      "source_story_title": "Testing UPS Output Waveforms",
+      "hn_url": "https://news.ycombinator.com/item?id=48110858",
+      "thing_url": "https://www.micsig.com/MDP/",
+      "category": "🧰 Hardware & Makers",
+      "summary": "High-voltage differential probes recommended as a good starter probe.",
+      "why_included": "It was one of the few concrete test-equipment recommendations in the UPS measurement thread.",
+      "evidence": "A commenter said Micsig makes a good starter probe that would be enough for mains testing."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "needle",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:needle:48111896",
+  "mention_ids": [
+    "2026-05-12:needle:48111896"
+  ],
+  "name": "Needle",
+  "slug": "needle",
+  "summary": "26M tool-calling model for consumer devices; commenters wanted a live demo.",
+  "thing_url": "https://github.com/cactus-compute/needle",
+  "times_seen": 1,
+  "why_included": "It was the clearest AI-native launch thread with practical deployment chatter."
+}

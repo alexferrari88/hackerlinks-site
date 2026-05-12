@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "micsig-mdp-probes",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:micsig-mdp-probes:48110858",
+  "mention_ids": [
+    "2026-05-12:micsig-mdp-probes:48110858"
+  ],
+  "name": "Micsig MDP probes",
+  "slug": "micsig-mdp-probes",
+  "summary": "High-voltage differential probes recommended as a good starter probe.",
+  "thing_url": "https://www.micsig.com/MDP/",
+  "times_seen": 1,
+  "why_included": "It was one of the few concrete test-equipment recommendations in the UPS measurement thread."
+}

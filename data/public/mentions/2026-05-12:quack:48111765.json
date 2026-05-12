@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters asked about using Quack as DuckLake's catalog database, while maintainers linked an in-progress DuckLake PR.",
+  "hn_url": "https://news.ycombinator.com/item?id=48111765",
+  "id": "2026-05-12:quack:48111765",
+  "is_repeat": false,
+  "issue_id": "2026-05-12",
+  "item_id": "quack",
+  "rank": 2,
+  "seen_at": "2026-05-12T21:14:38Z",
+  "source_story_id": "48111765",
+  "source_story_title": "Quack: The DuckDB Client-Server Protocol"
+}

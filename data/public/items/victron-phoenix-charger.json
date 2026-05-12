@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-12T21:14:38Z",
+  "id": "victron-phoenix-charger",
+  "last_seen_at": "2026-05-12T21:14:38Z",
+  "latest_mention_id": "2026-05-12:victron-phoenix-charger:48110858",
+  "mention_ids": [
+    "2026-05-12:victron-phoenix-charger:48110858"
+  ],
+  "name": "Victron Phoenix Charger",
+  "slug": "victron-phoenix-charger",
+  "summary": "AC-to-12V charger used in a battery-backed UPS replacement setup.",
+  "thing_url": "https://www.victronenergy.com/chargers/phoenix-charger-12v-24v",
+  "times_seen": 1,
+  "why_included": "It stood out as a practical hardware fix instead of a theoretical UPS debate."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they were looking at Stalwart to replace Exim, and another called it a fine security-focused option.",
+  "hn_url": "https://news.ycombinator.com/item?id=48111748",
+  "id": "2026-05-12:stalwart:48111748",
+  "is_repeat": false,
+  "issue_id": "2026-05-12",
+  "item_id": "stalwart",
+  "rank": 3,
+  "seen_at": "2026-05-12T21:14:38Z",
+  "source_story_id": "48111748",
+  "source_story_title": "Dead.Letter (CVE-2026-45185) \u2013 How XBOW found an unauthenticated RCE on Exim"
+}
