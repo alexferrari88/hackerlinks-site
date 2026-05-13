@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-13T21:22:29Z",
+  "id": "optery",
+  "last_seen_at": "2026-05-13T21:22:29Z",
+  "latest_mention_id": "2026-05-13:optery:48122635",
+  "mention_ids": [
+    "2026-05-13:optery:48122635"
+  ],
+  "name": "Optery",
+  "slug": "optery",
+  "summary": "Data-broker removal service that scrubs personal information from public sites.",
+  "thing_url": "https://www.optery.com/",
+  "times_seen": 1,
+  "why_included": "A commenter gave firsthand praise for its long-tail privacy cleanup."
+}

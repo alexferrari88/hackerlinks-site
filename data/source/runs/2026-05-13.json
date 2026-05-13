@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "run_date": "2026-05-13",
+  "generated_at": "2026-05-13T21:22:29Z",
+  "summary": {
+    "stories_reviewed": 26,
+    "stories_qualified": 26,
+    "items_reported": 5,
+    "history_added": 5,
+    "history_updated": 0,
+    "scan_mode": "full reachable comment-tree review"
+  },
+  "items": [
+    {
+      "name": "Ardent",
+      "thing_url": "https://www.tryardent.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48124436",
+      "source_story_title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "summary": "Postgres sandboxes for coding agents, with fast branch clones and anonymization.",
+      "why_included": "Launch HN thread with strong comment support for safer DB testing.",
+      "evidence": "Commenters said it works on restricted hosted Postgres and praised branch hooks plus obfuscated replicas.",
+      "category": "Dev Tools & Infra",
+      "story_id": 48124436
+    },
+    {
+      "name": "Xata",
+      "thing_url": "https://xata.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48124436",
+      "source_story_title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "summary": "Postgres branching platform with copy-on-write clones and anonymized data.",
+      "why_included": "Recommended as the existing Neon-like alternative in Ardent comments.",
+      "evidence": "One commenter explicitly said to 'have a look at Xata' for a Neon/git-like Postgres experience.",
+      "category": "Dev Tools & Infra",
+      "story_id": 48124436
+    },
+    {
+      "name": "Optery",
+      "thing_url": "https://www.optery.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48122635",
+      "source_story_title": "Setting up a free *.city.state.us locality domain (2025)",
+      "summary": "Data-broker removal service that scrubs personal information from public sites.",
+      "why_included": "A commenter gave firsthand praise for its long-tail privacy cleanup.",
+      "evidence": "The thread said they used Optery themselves and still found themselves hard to locate afterward.",
+      "category": "Privacy & Utilities",
+      "story_id": 48122635
+    },
+    {
+      "name": "Xs of Y",
+      "thing_url": "https://github.com/nooga/xsofy",
+      "hn_url": "https://news.ycombinator.com/item?id=48080755",
+      "source_story_title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "summary": "A 4kLoC roguelike that renames itself every run.",
+      "why_included": "The comments were unusually enthusiastic for a tiny indie game.",
+      "evidence": "Replies called it awesome, loved the dwarf-fortress vibes, and asked for the repo star.",
+      "category": "Games",
+      "story_id": 48080755
+    },
+    {
+      "name": "Rars",
+      "thing_url": "https://bitplane.net/log/2026/05/rars/",
+      "hn_url": "https://news.ycombinator.com/item?id=48126675",
+      "source_story_title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "summary": "Rust RAR implementation, mostly written with LLM assistance.",
+      "why_included": "Novel tooling project with a surprisingly positive HN response.",
+      "evidence": "Commenters called it a really cool project, starred the repo, and discussed the compression workflow.",
+      "category": "Dev Tools & Infra",
+      "story_id": 48126675
+    }
+  ]
+}

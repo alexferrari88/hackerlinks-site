@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-13T21:22:29Z",
+  "id": "ardent",
+  "last_seen_at": "2026-05-13T21:22:29Z",
+  "latest_mention_id": "2026-05-13:ardent:48124436",
+  "mention_ids": [
+    "2026-05-13:ardent:48124436"
+  ],
+  "name": "Ardent",
+  "slug": "ardent",
+  "summary": "Postgres sandboxes for coding agents, with fast branch clones and anonymization.",
+  "thing_url": "https://www.tryardent.com/",
+  "times_seen": 1,
+  "why_included": "Launch HN thread with strong comment support for safer DB testing."
+}

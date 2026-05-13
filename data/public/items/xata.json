@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-13T21:22:29Z",
+  "id": "xata",
+  "last_seen_at": "2026-05-13T21:22:29Z",
+  "latest_mention_id": "2026-05-13:xata:48124436",
+  "mention_ids": [
+    "2026-05-13:xata:48124436"
+  ],
+  "name": "Xata",
+  "slug": "xata",
+  "summary": "Postgres branching platform with copy-on-write clones and anonymized data.",
+  "thing_url": "https://xata.io/",
+  "times_seen": 1,
+  "why_included": "Recommended as the existing Neon-like alternative in Ardent comments."
+}

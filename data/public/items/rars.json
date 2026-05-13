@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-13T21:22:29Z",
+  "id": "rars",
+  "last_seen_at": "2026-05-13T21:22:29Z",
+  "latest_mention_id": "2026-05-13:rars:48126675",
+  "mention_ids": [
+    "2026-05-13:rars:48126675"
+  ],
+  "name": "Rars",
+  "slug": "rars",
+  "summary": "Rust RAR implementation, mostly written with LLM assistance.",
+  "thing_url": "https://bitplane.net/log/2026/05/rars/",
+  "times_seen": 1,
+  "why_included": "Novel tooling project with a surprisingly positive HN response."
+}

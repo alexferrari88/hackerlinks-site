@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-13T21:22:29Z",
+  "id": "xs-of-y",
+  "last_seen_at": "2026-05-13T21:22:29Z",
+  "latest_mention_id": "2026-05-13:xs-of-y:48080755",
+  "mention_ids": [
+    "2026-05-13:xs-of-y:48080755"
+  ],
+  "name": "Xs of Y",
+  "slug": "xs-of-y",
+  "summary": "A 4kLoC roguelike that renames itself every run.",
+  "thing_url": "https://github.com/nooga/xsofy",
+  "times_seen": 1,
+  "why_included": "The comments were unusually enthusiastic for a tiny indie game."
+}
