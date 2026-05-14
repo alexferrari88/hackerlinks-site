@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-14T21:22:02Z",
+  "id": "yourdrive",
+  "last_seen_at": "2026-05-14T21:22:02Z",
+  "latest_mention_id": "2026-05-14:yourdrive:48138136",
+  "mention_ids": [
+    "2026-05-14:yourdrive:48138136"
+  ],
+  "name": "YourDrive",
+  "slug": "yourdrive",
+  "summary": "New Zealand peer-to-peer car-sharing service.",
+  "thing_url": "http://www.yourdrive.co.nz/",
+  "times_seen": 1,
+  "why_included": "A commenter said they used it and found it great and super affordable."
+}

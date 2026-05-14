@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-14T21:22:02Z",
+  "id": "lean-4",
+  "last_seen_at": "2026-05-14T21:22:02Z",
+  "latest_mention_id": "2026-05-14:lean-4:48093244",
+  "mention_ids": [
+    "2026-05-14:lean-4:48093244"
+  ],
+  "name": "Lean 4",
+  "slug": "lean-4",
+  "summary": "Functional language and theorem prover picked as an APL successor.",
+  "thing_url": "https://lean-lang.org/",
+  "times_seen": 1,
+  "why_included": "One commenter said they settled on Lean 4 as the successor language for their needs."
+}

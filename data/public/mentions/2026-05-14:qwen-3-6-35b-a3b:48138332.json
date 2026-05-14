@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said Qwen 3.6 35B would be much smarter than 7B Mistral, just slower.",
+  "hn_url": "https://news.ycombinator.com/item?id=48138332",
+  "id": "2026-05-14:qwen-3-6-35b-a3b:48138332",
+  "is_repeat": false,
+  "issue_id": "2026-05-14",
+  "item_id": "qwen-3-6-35b-a3b",
+  "rank": 2,
+  "seen_at": "2026-05-14T21:22:02+00:00",
+  "source_story_id": "48138332",
+  "source_story_title": "What's in a GGUF, besides the weights \u2013 and what's still missing?"
+}

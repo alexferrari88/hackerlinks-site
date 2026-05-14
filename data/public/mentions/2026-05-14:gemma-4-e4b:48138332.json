@@ -1,0 +1,12 @@
+{
+  "evidence": "In the GGUF thread, a commenter said Gemma 4 E4B should run great on a 4070 and put it forward as the better size match.",
+  "hn_url": "https://news.ycombinator.com/item?id=48138332",
+  "id": "2026-05-14:gemma-4-e4b:48138332",
+  "is_repeat": false,
+  "issue_id": "2026-05-14",
+  "item_id": "gemma-4-e4b",
+  "rank": 1,
+  "seen_at": "2026-05-14T21:22:02+00:00",
+  "source_story_id": "48138332",
+  "source_story_title": "What's in a GGUF, besides the weights \u2013 and what's still missing?"
+}

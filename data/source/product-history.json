@@ -1879,6 +1879,42 @@
       "first_reported_at": "2026-05-13T21:22:29Z",
       "last_reported_at": "2026-05-13T21:22:29Z",
       "times_reported": 1
+    },
+    {
+      "name": "Dyalog APL",
+      "first_reported_at": "2026-05-14T21:22:02Z",
+      "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Gemma 4 E4B",
+      "first_reported_at": "2026-05-14T21:22:02Z",
+      "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Lean 4",
+      "first_reported_at": "2026-05-14T21:22:02Z",
+      "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Red Balloon Security",
+      "first_reported_at": "2026-05-14T21:22:02Z",
+      "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen 3.6 35B A3B",
+      "first_reported_at": "2026-05-14T21:22:02Z",
+      "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "YourDrive",
+      "first_reported_at": "2026-05-14T21:22:02Z",
+      "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
     }
   ]
 }

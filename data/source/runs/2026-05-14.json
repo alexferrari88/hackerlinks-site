@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "run_date": "2026-05-14",
+  "generated_at": "2026-05-14T21:22:02+00:00",
+  "summary": "6 items surfaced from 21 scraped stories",
+  "items": [
+    {
+      "name": "Gemma 4 E4B",
+      "thing_url": "https://huggingface.co/litert-community/gemma-4-E4B-it-litert-lm",
+      "hn_url": "https://news.ycombinator.com/item?id=48138332",
+      "source_story_title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "summary": "Dense multimodal local model suggested as a 4070-friendly pick.",
+      "why_included": "A commenter explicitly told readers to try Gemma 4 E4B on a 4070.",
+      "evidence": "In the GGUF thread, a commenter said Gemma 4 E4B should run great on a 4070 and put it forward as the better size match."
+    },
+    {
+      "name": "Qwen 3.6 35B A3B",
+      "thing_url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "hn_url": "https://news.ycombinator.com/item?id=48138332",
+      "source_story_title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "summary": "Local MoE model recommended as the stronger big-run option.",
+      "why_included": "The thread recommended it as a smarter local choice alongside LM Studio.",
+      "evidence": "A commenter said Qwen 3.6 35B would be much smarter than 7B Mistral, just slower."
+    },
+    {
+      "name": "Lean 4",
+      "thing_url": "https://lean-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48093244",
+      "source_story_title": "Saying Goodbye to one line of APL",
+      "summary": "Functional language and theorem prover picked as an APL successor.",
+      "why_included": "One commenter said they settled on Lean 4 as the successor language for their needs.",
+      "evidence": "In the APL thread, a commenter called Lean 4 the 'best language in existence' for their use case."
+    },
+    {
+      "name": "Dyalog APL",
+      "thing_url": "https://www.dyalog.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48093244",
+      "source_story_title": "Saying Goodbye to one line of APL",
+      "summary": "Interactive APL implementation with full glyph support.",
+      "why_included": "A commenter highlighted Dyalog APL as a usable modern APL environment.",
+      "evidence": "A Raspberry Pi user noted Dyalog APL keeps all the glyphs visible and exposes a REPL."
+    },
+    {
+      "name": "YourDrive",
+      "thing_url": "http://www.yourdrive.co.nz/",
+      "hn_url": "https://news.ycombinator.com/item?id=48138136",
+      "source_story_title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "summary": "New Zealand peer-to-peer car-sharing service.",
+      "why_included": "A commenter said they used it and found it great and super affordable.",
+      "evidence": "In the RAV4 privacy thread, a commenter praised YourDrive after using it a couple of times."
+    },
+    {
+      "name": "Red Balloon Security",
+      "thing_url": "https://redballoonsecurity.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48137553",
+      "source_story_title": "HDD Firmware Hacking",
+      "summary": "Embedded-device security firm and firmware-CTF shop.",
+      "why_included": "A commenter explicitly recommended the firm to anyone interested in the challenge.",
+      "evidence": "In the HDD firmware-hacking thread, a commenter called Red Balloon great and highly recommended it."
+    }
+  ]
+}

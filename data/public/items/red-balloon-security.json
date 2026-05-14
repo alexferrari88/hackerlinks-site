@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-14T21:22:02Z",
+  "id": "red-balloon-security",
+  "last_seen_at": "2026-05-14T21:22:02Z",
+  "latest_mention_id": "2026-05-14:red-balloon-security:48137553",
+  "mention_ids": [
+    "2026-05-14:red-balloon-security:48137553"
+  ],
+  "name": "Red Balloon Security",
+  "slug": "red-balloon-security",
+  "summary": "Embedded-device security firm and firmware-CTF shop.",
+  "thing_url": "https://redballoonsecurity.com/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended the firm to anyone interested in the challenge."
+}
