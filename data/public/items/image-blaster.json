@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "image-blaster",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:image-blaster:48150069",
+  "mention_ids": [
+    "2026-05-15:image-blaster:48150069"
+  ],
+  "name": "Image-blaster",
+  "slug": "image-blaster",
+  "summary": "Single-image tool that generates 3D scenes, meshes, and SFX.",
+  "thing_url": "https://github.com/neilsonnn/image-blaster",
+  "times_seen": 1,
+  "why_included": "Commenters reacted positively and compared it with adjacent image-to-3D experiments."
+}

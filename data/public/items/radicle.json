@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "radicle",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:radicle:48147603",
+  "mention_ids": [
+    "2026-05-15:radicle:48147603"
+  ],
+  "name": "Radicle",
+  "slug": "radicle",
+  "summary": "Git-based code forge built for sovereign, decentralized collaboration.",
+  "thing_url": "https://radicle.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters focused on the absence of a central operator and the ownership model."
+}

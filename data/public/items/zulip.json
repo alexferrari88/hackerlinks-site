@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "zulip",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:zulip:48152168",
+  "mention_ids": [
+    "2026-05-15:zulip:48152168"
+  ],
+  "name": "Zulip",
+  "slug": "zulip",
+  "summary": "Open-source team chat that a longtime user still relies on daily.",
+  "thing_url": "https://zulip.com/",
+  "times_seen": 1,
+  "why_included": "A 13-year Zulip user singled it out as one of their favorite pieces of software."
+}

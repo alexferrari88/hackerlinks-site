@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "project-gutenberg",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:project-gutenberg:48150431",
+  "mention_ids": [
+    "2026-05-15:project-gutenberg:48150431"
+  ],
+  "name": "Project Gutenberg",
+  "slug": "project-gutenberg",
+  "summary": "Free ebook library with better book feeds and text-friendly reading.",
+  "thing_url": "https://www.gutenberg.org/",
+  "times_seen": 1,
+  "why_included": "Commenters praised the new-books feed and the usefulness of PG texts with modern readers and AI."
+}

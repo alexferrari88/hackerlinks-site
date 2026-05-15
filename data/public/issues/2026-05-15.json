@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T21:17:01Z",
+  "headline": "10 interesting things surfaced from HN on 2026-05-15",
+  "id": "2026-05-15",
+  "mention_ids": [
+    "2026-05-15:project-gutenberg:48150431",
+    "2026-05-15:zulip:48152168",
+    "2026-05-15:image-blaster:48150069",
+    "2026-05-15:explore-wikipedia-like-a-windows-xp-desktop:48146129",
+    "2026-05-15:zenith:48150097",
+    "2026-05-15:trolley:48151317",
+    "2026-05-15:radicle:48147603",
+    "2026-05-15:ascii-by-jason-scott:48148726",
+    "2026-05-15:steve-jobs-in-exile:48146908",
+    "2026-05-15:high-dimensional-geometry-is-transforming-the-mri-industry:48148309"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

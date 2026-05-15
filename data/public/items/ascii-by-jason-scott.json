@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "ascii-by-jason-scott",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:ascii-by-jason-scott:48148726",
+  "mention_ids": [
+    "2026-05-15:ascii-by-jason-scott:48148726"
+  ],
+  "name": "ASCII by Jason Scott",
+  "slug": "ascii-by-jason-scott",
+  "summary": "ASCII and manuals archive from Jason Scott\u2019s textfiles project.",
+  "thing_url": "https://ascii.textfiles.com/",
+  "times_seen": 1,
+  "why_included": "HN readers linked the archive, stream, and Patreon while praising the long-running collection."
+}

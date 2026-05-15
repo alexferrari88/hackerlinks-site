@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "steve-jobs-in-exile",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:steve-jobs-in-exile:48146908",
+  "mention_ids": [
+    "2026-05-15:steve-jobs-in-exile:48146908"
+  ],
+  "name": "Steve Jobs in Exile",
+  "slug": "steve-jobs-in-exile",
+  "summary": "Book on Steve Jobs's NeXT years and the discipline they forced.",
+  "thing_url": "https://books.apple.com/us/book/steve-jobs-in-exile/id6751254528",
+  "times_seen": 1,
+  "why_included": "HN users tied the NeXT era to product focus, constraint, and the road back to Apple."
+}

@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "run_date": "2026-05-15",
+  "generated_at": "2026-05-15T21:17:01Z",
+  "summary": "10 concrete recommendations surfaced from 22 scraped HN stories.",
+  "items": [
+    {
+      "name": "Project Gutenberg",
+      "category": "Books & Archives",
+      "hn_url": "https://news.ycombinator.com/item?id=48150431",
+      "thing_url": "https://www.gutenberg.org/",
+      "source_story_title": "Project Gutenberg – keeps getting better",
+      "summary": "Free ebook library with better book feeds and text-friendly reading.",
+      "why_included": "Commenters praised the new-books feed and the usefulness of PG texts with modern readers and AI.",
+      "evidence": "HN commenters called the new-books feed a goldmine and mentioned using AI models and e-readers with Gutenberg texts."
+    },
+    {
+      "name": "Zulip",
+      "category": "Dev Tools & Platforms",
+      "hn_url": "https://news.ycombinator.com/item?id=48152168",
+      "thing_url": "https://zulip.com/",
+      "source_story_title": "The Zulip Foundation",
+      "summary": "Open-source team chat that a longtime user still relies on daily.",
+      "why_included": "A 13-year Zulip user singled it out as one of their favorite pieces of software.",
+      "evidence": "The thread included a direct praise note from a long-time user saying they use Zulip daily."
+    },
+    {
+      "name": "Image-blaster",
+      "category": "Visual & Interactive",
+      "hn_url": "https://news.ycombinator.com/item?id=48150069",
+      "thing_url": "https://github.com/neilsonnn/image-blaster",
+      "source_story_title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "summary": "Single-image tool that generates 3D scenes, meshes, and SFX.",
+      "why_included": "Commenters reacted positively and compared it with adjacent image-to-3D experiments.",
+      "evidence": "Replies called it cool as hell and linked to Photosynth, WorldLabs, and Uthana as nearby references."
+    },
+    {
+      "name": "Explore Wikipedia Like a Windows XP Desktop",
+      "category": "Visual & Interactive",
+      "hn_url": "https://news.ycombinator.com/item?id=48146129",
+      "thing_url": "https://explorer.samismith.com/",
+      "source_story_title": "Explore Wikipedia Like a Windows XP Desktop",
+      "summary": "Retro Wikipedia browser wrapped in a Windows XP-style desktop.",
+      "why_included": "The thread was full of instant praise from people who wanted to use it right away.",
+      "evidence": "Commenters said things like “I love it”, “Very cool”, “Super nice”, and “Impressive”."
+    },
+    {
+      "name": "Zenith",
+      "category": "Visual & Interactive",
+      "hn_url": "https://news.ycombinator.com/item?id=48150097",
+      "thing_url": "https://smorgasb.org/zenith-tech/",
+      "source_story_title": "Zenith: a live local-first fixed viewport planetarium",
+      "summary": "Local-first planetarium that makes Earth's rotation feel immediate.",
+      "why_included": "Users reacted strongly to how visceral the fixed-viewport experience felt.",
+      "evidence": "Comments described the effect as amazing and said it made Earth’s motion feel immediate and visceral."
+    },
+    {
+      "name": "Trolley",
+      "category": "Dev Tools & Platforms",
+      "hn_url": "https://news.ycombinator.com/item?id=48151317",
+      "thing_url": "https://github.com/weedonandscott/trolley",
+      "source_story_title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+      "summary": "Packaging helper for making Feedr easier to ship to non-technical users.",
+      "why_included": "A commenter explicitly recommended Trolley as the packaging path for the app.",
+      "evidence": "The strongest concrete recommendation in the thread was to use Trolley to package Feedr for non-technical users."
+    },
+    {
+      "name": "Radicle",
+      "category": "Dev Tools & Platforms",
+      "hn_url": "https://news.ycombinator.com/item?id=48147603",
+      "thing_url": "https://radicle.dev/",
+      "source_story_title": "Radicle: Sovereign {code forge} built on Git",
+      "summary": "Git-based code forge built for sovereign, decentralized collaboration.",
+      "why_included": "Commenters focused on the absence of a central operator and the ownership model.",
+      "evidence": "Replies emphasized that no single entity controls the network or user data."
+    },
+    {
+      "name": "ASCII by Jason Scott",
+      "category": "Books & Archives",
+      "hn_url": "https://news.ycombinator.com/item?id=48148726",
+      "thing_url": "https://ascii.textfiles.com/",
+      "source_story_title": "ASCII by Jason Scott",
+      "summary": "ASCII and manuals archive from Jason Scott’s textfiles project.",
+      "why_included": "HN readers linked the archive, stream, and Patreon while praising the long-running collection.",
+      "evidence": "Commenters pointed to the manuals archive and highlighted the scale of the collection over time."
+    },
+    {
+      "name": "Steve Jobs in Exile",
+      "category": "Books & Archives",
+      "hn_url": "https://news.ycombinator.com/item?id=48146908",
+      "thing_url": "https://books.apple.com/us/book/steve-jobs-in-exile/id6751254528",
+      "source_story_title": "A new book on Steve Jobs at NeXT",
+      "summary": "Book on Steve Jobs's NeXT years and the discipline they forced.",
+      "why_included": "HN users tied the NeXT era to product focus, constraint, and the road back to Apple.",
+      "evidence": "Comments said the NeXT years gave Jobs space to rethink product focus and learn from failure."
+    },
+    {
+      "name": "High dimensional geometry is transforming the MRI industry",
+      "category": "Books & Archives",
+      "hn_url": "https://news.ycombinator.com/item?id=48148309",
+      "thing_url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+      "source_story_title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
+      "summary": "Paper on high-dimensional geometry’s role in faster MRI reconstruction.",
+      "why_included": "Commenters treated it as a useful review of compressed-sensing MRI ideas.",
+      "evidence": "Replies discussed weaker magnets, information gain, and iterative linear-program approaches."
+    }
+  ]
+}

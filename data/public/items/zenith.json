@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "zenith",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:zenith:48150097",
+  "mention_ids": [
+    "2026-05-15:zenith:48150097"
+  ],
+  "name": "Zenith",
+  "slug": "zenith",
+  "summary": "Local-first planetarium that makes Earth's rotation feel immediate.",
+  "thing_url": "https://smorgasb.org/zenith-tech/",
+  "times_seen": 1,
+  "why_included": "Users reacted strongly to how visceral the fixed-viewport experience felt."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-15T21:17:01Z",
+  "id": "trolley",
+  "last_seen_at": "2026-05-15T21:17:01Z",
+  "latest_mention_id": "2026-05-15:trolley:48151317",
+  "mention_ids": [
+    "2026-05-15:trolley:48151317"
+  ],
+  "name": "Trolley",
+  "slug": "trolley",
+  "summary": "Packaging helper for making Feedr easier to ship to non-technical users.",
+  "thing_url": "https://github.com/weedonandscott/trolley",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended Trolley as the packaging path for the app."
+}
