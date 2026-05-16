@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T21:36:59Z",
+  "headline": "8 interesting things surfaced from HN on 2026-05-16",
+  "id": "2026-05-16",
+  "mention_ids": [
+    "2026-05-16:rocksky:48161881",
+    "2026-05-16:windows-9x-subsystem-for-linux:48120162",
+    "2026-05-16:accelerate:48160211",
+    "2026-05-16:part-telescopes:48160914",
+    "2026-05-16:greek-alphabet-cards:48159354",
+    "2026-05-16:sana-wm:48159445",
+    "2026-05-16:kioxia-10-pb-2ru-server:48161997",
+    "2026-05-16:deepseek-v4-flash:48160807"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

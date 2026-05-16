@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-16T21:36:59Z",
+  "id": "rocksky",
+  "last_seen_at": "2026-05-16T21:36:59Z",
+  "latest_mention_id": "2026-05-16:rocksky:48161881",
+  "mention_ids": [
+    "2026-05-16:rocksky:48161881"
+  ],
+  "name": "Rocksky",
+  "slug": "rocksky",
+  "summary": "Music scrobbling and discovery on AT Protocol.",
+  "thing_url": "https://tangled.org/rocksky.app/rocksky",
+  "times_seen": 1,
+  "why_included": "A real Show HN app with clear comment momentum and a strong recommendation angle."
+}

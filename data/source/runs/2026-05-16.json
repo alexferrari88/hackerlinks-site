@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "run_date": "2026-05-16",
+  "generated_at": "2026-05-16T21:36:59Z",
+  "summary": "8 concrete items surfaced from reachable HN front-page comments.",
+  "items": [
+    {
+      "name": "Rocksky",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://tangled.org/rocksky.app/rocksky",
+      "hn_url": "https://news.ycombinator.com/item?id=48161881",
+      "source_story_title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "summary": "Music scrobbling and discovery on AT Protocol.",
+      "why_included": "A real Show HN app with clear comment momentum and a strong recommendation angle.",
+      "evidence": "Commenters called it a perfect recommendation model and said they would add support in another app."
+    },
+    {
+      "name": "Windows 9x Subsystem for Linux",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://codeberg.org/hails/wsl9x",
+      "hn_url": "https://news.ycombinator.com/item?id=48120162",
+      "source_story_title": "Windows 9x Subsystem for Linux",
+      "summary": "A Codeberg project that brings Windows 9x nostalgia to Linux.",
+      "why_included": "The repo is concrete, clickable, and commenters immediately reacted to the UI polish.",
+      "evidence": "Replies praised the clean, usable interface and said it looked like GitHub/Forgejo."
+    },
+    {
+      "name": "Accelerate",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/AccelerateHS/accelerate",
+      "hn_url": "https://news.ycombinator.com/item?id=48160211",
+      "source_story_title": "Accelerate – Embedded language for high-performance array computations",
+      "summary": "A Haskell array language with JIT, CPU, and GPU offload.",
+      "why_included": "A mature performance library with unusually clear utility in the comment thread.",
+      "evidence": "Commenters described it as NumPy plus a JIT compiler and highlighted automatic CPU/GPU vectorization."
+    },
+    {
+      "name": "PART Telescopes",
+      "category": "Hardware & Science",
+      "thing_url": "https://parttelescopes.web.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48160914",
+      "source_story_title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "summary": "Low-cost radio telescope kits for rural schools.",
+      "why_included": "A concrete physical project with direct educational value and strong comment links to similar efforts.",
+      "evidence": "One commenter said low-cost radio telescopes are great fun and linked several related projects."
+    },
+    {
+      "name": "Greek Alphabet Cards",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://labs.randomquark.com/alphabet_cards/",
+      "hn_url": "https://news.ycombinator.com/item?id=48159354",
+      "source_story_title": "Greek Alphabet Cards",
+      "summary": "Interactive cards for learning the Greek alphabet.",
+      "why_included": "Small, concrete, and surprisingly useful for math-heavy work.",
+      "evidence": "Commenters said the cards were very handy and that learning Greek letters paid off in university."
+    },
+    {
+      "name": "SANA-WM",
+      "category": "AI & Models",
+      "thing_url": "https://nvlabs.github.io/Sana/WM/",
+      "hn_url": "https://news.ycombinator.com/item?id=48159445",
+      "source_story_title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "summary": "An open-source world model for 1-minute 720p video.",
+      "why_included": "A noteworthy model release with visible HN discussion about what world models can do.",
+      "evidence": "Commenters said they were impressed with the world models and pointed to robotics simulation as an immediate use case."
+    },
+    {
+      "name": "Kioxia 10 PB 2RU server",
+      "category": "Hardware & Science",
+      "thing_url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "hn_url": "https://news.ycombinator.com/item?id=48161997",
+      "source_story_title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "summary": "A slim 2RU server packing 10 PB of storage.",
+      "why_included": "A striking hardware build that commenters immediately zoomed in on for density and drive choice.",
+      "evidence": "Replies called the Kioxia drives the interesting part and said the density was fascinating."
+    },
+    {
+      "name": "DeepSeek-V4-Flash",
+      "category": "AI & Models",
+      "thing_url": "https://www.seangoedecke.com/steering-vectors/",
+      "hn_url": "https://news.ycombinator.com/item?id=48160807",
+      "source_story_title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "summary": "A blog post on LLM steering vectors for DeepSeek-V4-Flash.",
+      "why_included": "The thread surfaced a concrete steering technique discussion around a current model.",
+      "evidence": "A commenter said steering features could remove refusals, and others compared runtime steering with modified weights."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters described it as NumPy plus a JIT compiler and highlighted automatic CPU/GPU vectorization.",
+  "hn_url": "https://news.ycombinator.com/item?id=48160211",
+  "id": "2026-05-16:accelerate:48160211",
+  "is_repeat": false,
+  "issue_id": "2026-05-16",
+  "item_id": "accelerate",
+  "rank": 3,
+  "seen_at": "2026-05-16T21:36:59Z",
+  "source_story_id": "48160211",
+  "source_story_title": "Accelerate \u2013 Embedded language for high-performance array computations"
+}

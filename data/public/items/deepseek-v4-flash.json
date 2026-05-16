@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-16T21:36:59Z",
+  "id": "deepseek-v4-flash",
+  "last_seen_at": "2026-05-16T21:36:59Z",
+  "latest_mention_id": "2026-05-16:deepseek-v4-flash:48160807",
+  "mention_ids": [
+    "2026-05-16:deepseek-v4-flash:48160807"
+  ],
+  "name": "DeepSeek-V4-Flash",
+  "slug": "deepseek-v4-flash",
+  "summary": "A blog post on LLM steering vectors for DeepSeek-V4-Flash.",
+  "thing_url": "https://www.seangoedecke.com/steering-vectors/",
+  "times_seen": 1,
+  "why_included": "The thread surfaced a concrete steering technique discussion around a current model."
+}
