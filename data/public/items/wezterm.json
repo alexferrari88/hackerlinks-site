@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "wezterm",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:wezterm:48168668",
+  "mention_ids": [
+    "2026-05-17:wezterm:48168668"
+  ],
+  "name": "WezTerm",
+  "slug": "wezterm",
+  "summary": "Cross-platform terminal emulator suggested for a low-RAM tablet setup.",
+  "thing_url": "https://wezterm.org/",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as part of a lightweight desktop stack for the Debian tablet."
+}

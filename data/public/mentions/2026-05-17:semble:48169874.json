@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread highlighted CPU indexing, zero-key setup, and the claim that it beats grep+read on token use and retrieval quality.",
+  "hn_url": "https://news.ycombinator.com/item?id=48169874",
+  "id": "2026-05-17:semble:48169874",
+  "is_repeat": false,
+  "issue_id": "2026-05-17",
+  "item_id": "semble",
+  "rank": 1,
+  "seen_at": "2026-05-17T21:23:02Z",
+  "source_story_id": "48169874",
+  "source_story_title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "semble",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:semble:48169874",
+  "mention_ids": [
+    "2026-05-17:semble:48169874"
+  ],
+  "name": "Semble",
+  "slug": "semble",
+  "summary": "Code search for agents that cuts grep-heavy token usage.",
+  "thing_url": "https://github.com/MinishLab/semble",
+  "times_seen": 1,
+  "why_included": "HN commenters wanted real agent benchmarks and discussed Semble as a drop-in search layer for Claude Code/Copilot flows."
+}

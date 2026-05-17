@@ -1,0 +1,12 @@
+{
+  "evidence": "One comment said they can run Ollama on a Mac Studio over the tailnet \u201cfor free,\u201d which anchored the local-inference discussion.",
+  "hn_url": "https://news.ycombinator.com/item?id=48168198",
+  "id": "2026-05-17:ollama:48168198",
+  "is_repeat": false,
+  "issue_id": "2026-05-17",
+  "item_id": "ollama",
+  "rank": 9,
+  "seen_at": "2026-05-17T21:23:02Z",
+  "source_story_id": "48168198",
+  "source_story_title": "Apple Silicon costs more than OpenRouter"
+}

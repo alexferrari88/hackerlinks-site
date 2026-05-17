@@ -1,0 +1,12 @@
+{
+  "evidence": "The author said Mado is older and faster per rumdl\u2019s benchmark graph, while also noting that Mado stays focused on linting.",
+  "hn_url": "https://news.ycombinator.com/item?id=48141354",
+  "id": "2026-05-17:mado:48141354",
+  "is_repeat": false,
+  "issue_id": "2026-05-17",
+  "item_id": "mado",
+  "rank": 8,
+  "seen_at": "2026-05-17T21:23:02Z",
+  "source_story_id": "48141354",
+  "source_story_title": "Mado: Fast Markdown linter written in Rust"
+}

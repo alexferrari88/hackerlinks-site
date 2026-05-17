@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "sway",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:sway:48168668",
+  "mention_ids": [
+    "2026-05-17:sway:48168668"
+  ],
+  "name": "sway",
+  "slug": "sway",
+  "summary": "Wayland compositor praised as responsive on small ARM hardware.",
+  "thing_url": "https://swaywm.org/",
+  "times_seen": 1,
+  "why_included": "A commenter used sway successfully on similar low-power hardware and described it as perfectly responsive."
+}

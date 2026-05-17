@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "a-nicer-voltmeter-clock",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:a-nicer-voltmeter-clock:48164432",
+  "mention_ids": [
+    "2026-05-17:a-nicer-voltmeter-clock:48164432"
+  ],
+  "name": "A nicer voltmeter clock",
+  "slug": "a-nicer-voltmeter-clock",
+  "summary": "Retro meter-style clock build with strong maker appeal.",
+  "thing_url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+  "times_seen": 1,
+  "why_included": "The comments were full of admiration and linked to earlier meter-clock builds."
+}

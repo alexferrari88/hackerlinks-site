@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "cuda-books",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:cuda-books:48168485",
+  "mention_ids": [
+    "2026-05-17:cuda-books:48168485"
+  ],
+  "name": "CUDA Books",
+  "slug": "cuda-books",
+  "summary": "Curated CUDA reading list with book-by-book recommendations.",
+  "thing_url": "https://github.com/alternbits/awesome-cuda-books",
+  "times_seen": 1,
+  "why_included": "The thread turned into a practical CUDA reading guide, with commenters naming specific books to start from."
+}

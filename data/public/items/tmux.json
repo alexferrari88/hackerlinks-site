@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "tmux",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:tmux:48168668",
+  "mention_ids": [
+    "2026-05-17:tmux:48168668"
+  ],
+  "name": "tmux",
+  "slug": "tmux",
+  "summary": "Terminal multiplexer recommended for the tablet workstation stack.",
+  "thing_url": "https://github.com/tmux/tmux",
+  "times_seen": 1,
+  "why_included": "The thread framed tmux as a practical way to save RAM and stay productive on the tiny workstation."
+}

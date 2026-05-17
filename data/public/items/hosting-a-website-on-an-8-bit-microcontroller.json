@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "hosting-a-website-on-an-8-bit-microcontroller",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:hosting-a-website-on-an-8-bit-microcontroller:48165295",
+  "mention_ids": [
+    "2026-05-17:hosting-a-website-on-an-8-bit-microcontroller:48165295"
+  ],
+  "name": "Hosting a website on an 8-bit microcontroller",
+  "slug": "hosting-a-website-on-an-8-bit-microcontroller",
+  "summary": "Tiny web server project running on an 8-bit MCU.",
+  "thing_url": "https://maurycyz.com/projects/mcusite/",
+  "times_seen": 1,
+  "why_included": "The thread celebrated tiny-web-server novelty and shared more microcontroller web experiments."
+}

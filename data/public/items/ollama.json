@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "ollama",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:ollama:48168198",
+  "mention_ids": [
+    "2026-05-17:ollama:48168198"
+  ],
+  "name": "Ollama",
+  "slug": "ollama",
+  "summary": "Local LLM runtime used on a Mac Studio over tailnet.",
+  "thing_url": "https://ollama.com/",
+  "times_seen": 1,
+  "why_included": "Commenters framed it as the practical local option for running models outside a datacenter."
+}

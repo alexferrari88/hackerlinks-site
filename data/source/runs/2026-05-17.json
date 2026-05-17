@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "run_date": "2026-05-17",
+  "generated_at": "2026-05-17T21:23:02Z",
+  "summary": "11 concrete items surfaced from HN discussion.",
+  "items": [
+    {
+      "name": "Semble",
+      "thing_url": "https://github.com/MinishLab/semble",
+      "hn_url": "https://news.ycombinator.com/item?id=48169874",
+      "source_story_title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "summary": "Code search for agents that cuts grep-heavy token usage.",
+      "why_included": "HN commenters wanted real agent benchmarks and discussed Semble as a drop-in search layer for Claude Code/Copilot flows.",
+      "evidence": "The thread highlighted CPU indexing, zero-key setup, and the claim that it beats grep+read on token use and retrieval quality."
+    },
+    {
+      "name": "RK3562 Debian Linux workstation",
+      "thing_url": "https://github.com/tech4bot/rk3562deb",
+      "hn_url": "https://news.ycombinator.com/item?id=48168668",
+      "source_story_title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "summary": "An $80 Android tablet converted into a usable Debian workstation.",
+      "why_included": "Commenters liked Debian booting with most hardware working and treated it as a practical low-cost ARM desktop.",
+      "evidence": "One commenter said Debian with most devices functional was great; others discussed what runs in 4 GB RAM and suggested lightweight stacks."
+    },
+    {
+      "name": "WezTerm",
+      "thing_url": "https://wezterm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168668",
+      "source_story_title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "summary": "Cross-platform terminal emulator suggested for a low-RAM tablet setup.",
+      "why_included": "It was explicitly recommended as part of a lightweight desktop stack for the Debian tablet.",
+      "evidence": "A commenter suggested running WezTerm + tmux on 4 GB RAM instead of a heavier desktop environment."
+    },
+    {
+      "name": "tmux",
+      "thing_url": "https://github.com/tmux/tmux",
+      "hn_url": "https://news.ycombinator.com/item?id=48168668",
+      "source_story_title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "summary": "Terminal multiplexer recommended for the tablet workstation stack.",
+      "why_included": "The thread framed tmux as a practical way to save RAM and stay productive on the tiny workstation.",
+      "evidence": "The comment recommending WezTerm + tmux explicitly tied it to fitting development tools into 4 GB of RAM."
+    },
+    {
+      "name": "sway",
+      "thing_url": "https://swaywm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168668",
+      "source_story_title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "summary": "Wayland compositor praised as responsive on small ARM hardware.",
+      "why_included": "A commenter used sway successfully on similar low-power hardware and described it as perfectly responsive.",
+      "evidence": "The same tablet discussion said sway runs well on a PinePhone Pro and feels responsive enough to replace a heavier desktop."
+    },
+    {
+      "name": "Mercurial",
+      "thing_url": "https://www.mercurial-scm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48147351",
+      "source_story_title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "summary": "Version control system still remembered as pleasant and user-friendly.",
+      "why_included": "Commenters treated Mercurial as a technically solid tool that got beaten by Git’s popularity, not by design quality.",
+      "evidence": "One commenter said Mercurial was more user-friendly while still offering the needed features and performance; another still uses it for personal projects."
+    },
+    {
+      "name": "CUDA Books",
+      "thing_url": "https://github.com/alternbits/awesome-cuda-books",
+      "hn_url": "https://news.ycombinator.com/item?id=48168485",
+      "source_story_title": "CUDA Books",
+      "summary": "Curated CUDA reading list with book-by-book recommendations.",
+      "why_included": "The thread turned into a practical CUDA reading guide, with commenters naming specific books to start from.",
+      "evidence": "A commenter recommended CUDA Programming: A Developer’s Guide to Parallel Computing with GPUs and criticized some other intro books as too shallow or error-prone."
+    },
+    {
+      "name": "Mado",
+      "thing_url": "https://github.com/akiomik/mado",
+      "hn_url": "https://news.ycombinator.com/item?id=48141354",
+      "source_story_title": "Mado: Fast Markdown linter written in Rust",
+      "summary": "Rust Markdown linter that commenters said is faster than rumdl.",
+      "why_included": "The discussion gave a clear speed-and-scope comparison that favors Mado as a pure linter.",
+      "evidence": "The author said Mado is older and faster per rumdl’s benchmark graph, while also noting that Mado stays focused on linting."
+    },
+    {
+      "name": "Ollama",
+      "thing_url": "https://ollama.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168198",
+      "source_story_title": "Apple Silicon costs more than OpenRouter",
+      "summary": "Local LLM runtime used on a Mac Studio over tailnet.",
+      "why_included": "Commenters framed it as the practical local option for running models outside a datacenter.",
+      "evidence": "One comment said they can run Ollama on a Mac Studio over the tailnet “for free,” which anchored the local-inference discussion."
+    },
+    {
+      "name": "A nicer voltmeter clock",
+      "thing_url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "hn_url": "https://news.ycombinator.com/item?id=48164432",
+      "source_story_title": "A nicer voltmeter clock",
+      "summary": "Retro meter-style clock build with strong maker appeal.",
+      "why_included": "The comments were full of admiration and linked to earlier meter-clock builds.",
+      "evidence": "One commenter said they always enjoy projects like this because they are artistically neat and spark ideas; another shared previous voltmeter-clock references."
+    },
+    {
+      "name": "Hosting a website on an 8-bit microcontroller",
+      "thing_url": "https://maurycyz.com/projects/mcusite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48165295",
+      "source_story_title": "Hosting a website on an 8-bit microcontroller",
+      "summary": "Tiny web server project running on an 8-bit MCU.",
+      "why_included": "The thread celebrated tiny-web-server novelty and shared more microcontroller web experiments.",
+      "evidence": "Commenters pointed to earlier smallest-web-server projects and said the ACE1101 version was great fun to reproduce."
+    }
+  ]
+}

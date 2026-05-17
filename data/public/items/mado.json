@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "mado",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:mado:48141354",
+  "mention_ids": [
+    "2026-05-17:mado:48141354"
+  ],
+  "name": "Mado",
+  "slug": "mado",
+  "summary": "Rust Markdown linter that commenters said is faster than rumdl.",
+  "thing_url": "https://github.com/akiomik/mado",
+  "times_seen": 1,
+  "why_included": "The discussion gave a clear speed-and-scope comparison that favors Mado as a pure linter."
+}

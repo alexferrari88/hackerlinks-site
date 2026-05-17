@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter suggested running WezTerm + tmux on 4 GB RAM instead of a heavier desktop environment.",
+  "hn_url": "https://news.ycombinator.com/item?id=48168668",
+  "id": "2026-05-17:wezterm:48168668",
+  "is_repeat": false,
+  "issue_id": "2026-05-17",
+  "item_id": "wezterm",
+  "rank": 3,
+  "seen_at": "2026-05-17T21:23:02Z",
+  "source_story_id": "48168668",
+  "source_story_title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation"
+}

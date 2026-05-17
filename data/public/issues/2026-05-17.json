@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T21:23:02Z",
+  "headline": "11 interesting things surfaced from HN on 2026-05-17",
+  "id": "2026-05-17",
+  "mention_ids": [
+    "2026-05-17:semble:48169874",
+    "2026-05-17:rk3562-debian-linux-workstation:48168668",
+    "2026-05-17:wezterm:48168668",
+    "2026-05-17:tmux:48168668",
+    "2026-05-17:sway:48168668",
+    "2026-05-17:mercurial:48147351",
+    "2026-05-17:cuda-books:48168485",
+    "2026-05-17:mado:48141354",
+    "2026-05-17:ollama:48168198",
+    "2026-05-17:a-nicer-voltmeter-clock:48164432",
+    "2026-05-17:hosting-a-website-on-an-8-bit-microcontroller:48165295"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

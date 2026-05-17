@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-17T21:23:02Z",
+  "id": "mercurial",
+  "last_seen_at": "2026-05-17T21:23:02Z",
+  "latest_mention_id": "2026-05-17:mercurial:48147351",
+  "mention_ids": [
+    "2026-05-17:mercurial:48147351"
+  ],
+  "name": "Mercurial",
+  "slug": "mercurial",
+  "summary": "Version control system still remembered as pleasant and user-friendly.",
+  "thing_url": "https://www.mercurial-scm.org/",
+  "times_seen": 1,
+  "why_included": "Commenters treated Mercurial as a technically solid tool that got beaten by Git\u2019s popularity, not by design quality."
+}
