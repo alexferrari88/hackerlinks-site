@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "haiku-os",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:haiku-os:48183579",
+  "mention_ids": [
+    "2026-05-18:haiku-os:48183579"
+  ],
+  "name": "Haiku OS",
+  "slug": "haiku-os",
+  "summary": "BeOS-inspired operating system now running on M1 Macs.",
+  "thing_url": "https://www.haiku-os.org/",
+  "times_seen": 1,
+  "why_included": "Comments framed it as fast, surprisingly stable, and still fun to use on old hardware."
+}

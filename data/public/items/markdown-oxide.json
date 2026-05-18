@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "markdown-oxide",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:markdown-oxide:48179677",
+  "mention_ids": [
+    "2026-05-18:markdown-oxide:48179677"
+  ],
+  "name": "markdown-oxide",
+  "slug": "markdown-oxide",
+  "summary": "Rust markdown LSP that adds notes features to Helix and other editors.",
+  "thing_url": "https://github.com/Feel-ix-343/markdown-oxide",
+  "times_seen": 1,
+  "why_included": "It was repeatedly recommended as the lightweight way to get Obsidian-style linking without a heavy app."
+}

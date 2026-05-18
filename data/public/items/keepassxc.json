@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "keepassxc",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:keepassxc:48163389",
+  "mention_ids": [
+    "2026-05-18:keepassxc:48163389"
+  ],
+  "name": "KeepassXC",
+  "slug": "keepassxc",
+  "summary": "Cross-platform password manager favored by commenters after leaving Bitwarden.",
+  "thing_url": "https://keepassxc.org/",
+  "times_seen": 1,
+  "why_included": "It surfaced as a practical offline-friendly alternative with desktop, mobile, and browser support."
+}

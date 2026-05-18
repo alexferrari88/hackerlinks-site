@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T21:15:39Z",
+  "headline": "10 interesting things surfaced from HN on 2026-05-18",
+  "id": "2026-05-18",
+  "mention_ids": [
+    "2026-05-18:files-md:48179677",
+    "2026-05-18:markdown-oxide:48179677",
+    "2026-05-18:syncthing:48179677",
+    "2026-05-18:vaultwarden:48163389",
+    "2026-05-18:keepassxc:48163389",
+    "2026-05-18:level1techs-kvm:48156186",
+    "2026-05-18:haiku-os:48183579",
+    "2026-05-18:180db:48184214",
+    "2026-05-18:stainless:48182281",
+    "2026-05-18:qwen-3-7-preview:48181877"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

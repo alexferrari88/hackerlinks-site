@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "level1techs-kvm",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:level1techs-kvm:48156186",
+  "mention_ids": [
+    "2026-05-18:level1techs-kvm:48156186"
+  ],
+  "name": "Level1Techs KVM",
+  "slug": "level1techs-kvm",
+  "summary": "Dual-monitor hardware KVM switch for painless multi-computer desk switching.",
+  "thing_url": "https://www.store.level1techs.com/products/p/14-kvm-switch-dual-monitor-2computer-z5erd-n6mbj",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as the clean hardware fix after software switching and monitor-input juggling failed."
+}

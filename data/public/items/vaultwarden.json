@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "vaultwarden",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:vaultwarden:48163389",
+  "mention_ids": [
+    "2026-05-18:vaultwarden:48163389"
+  ],
+  "name": "Vaultwarden",
+  "slug": "vaultwarden",
+  "summary": "Self-hosted Bitwarden-compatible password manager backend.",
+  "thing_url": "https://github.com/dani-garcia/vaultwarden",
+  "times_seen": 1,
+  "why_included": "Multiple commenters reported years of reliable self-hosting and explicitly recommended it as the Bitwarden alternative."
+}

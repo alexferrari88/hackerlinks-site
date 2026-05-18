@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "syncthing",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:syncthing:48179677",
+  "mention_ids": [
+    "2026-05-18:syncthing:48179677"
+  ],
+  "name": "Syncthing",
+  "slug": "syncthing",
+  "summary": "Peer-to-peer file sync tool for keeping local notes in sync across devices.",
+  "thing_url": "https://syncthing.net/",
+  "times_seen": 1,
+  "why_included": "Commenters singled it out as the free sync layer that made note-taking work without cloud lock-in."
+}

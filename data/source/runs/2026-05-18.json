@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-05-18",
+  "generated_at": "2026-05-18T21:15:39Z",
+  "summary": "10 items surfaced from 22 qualifying stories.",
+  "items": [
+    {
+      "name": "Files.md",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/zakirullin/files.md",
+      "hn_url": "https://news.ycombinator.com/item?id=48179677",
+      "source_story_title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "summary": "Local-first markdown notes app with Obsidian-like links and file-based storage.",
+      "why_included": "Commenters praised the clean local-files workflow and said they were moving back toward text-editor-plus-git notes.",
+      "evidence": "One commenter said the app looked 'really slick'; others praised the local-files model and the plain text workflow."
+    },
+    {
+      "name": "markdown-oxide",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/Feel-ix-343/markdown-oxide",
+      "hn_url": "https://news.ycombinator.com/item?id=48179677",
+      "source_story_title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "summary": "Rust markdown LSP that adds notes features to Helix and other editors.",
+      "why_included": "It was repeatedly recommended as the lightweight way to get Obsidian-style linking without a heavy app.",
+      "evidence": "A commenter explicitly recommended Helix with the markdown-oxide LSP, and another said they'd give it a try."
+    },
+    {
+      "name": "Syncthing",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://syncthing.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48179677",
+      "source_story_title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "summary": "Peer-to-peer file sync tool for keeping local notes in sync across devices.",
+      "why_included": "Commenters singled it out as the free sync layer that made note-taking work without cloud lock-in.",
+      "evidence": "One user said they chose Syncthing for note syncing and that it 'works flawlessly'."
+    },
+    {
+      "name": "Vaultwarden",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dani-garcia/vaultwarden",
+      "hn_url": "https://news.ycombinator.com/item?id=48163389",
+      "source_story_title": "The Quiet Renovation at Bitwarden",
+      "summary": "Self-hosted Bitwarden-compatible password manager backend.",
+      "why_included": "Multiple commenters reported years of reliable self-hosting and explicitly recommended it as the Bitwarden alternative.",
+      "evidence": "Users said they had run Vaultwarden for 5+ to 7+ years with no issues, and one advised self-hosting a Vaultwarden instance."
+    },
+    {
+      "name": "KeepassXC",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://keepassxc.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48163389",
+      "source_story_title": "The Quiet Renovation at Bitwarden",
+      "summary": "Cross-platform password manager favored by commenters after leaving Bitwarden.",
+      "why_included": "It surfaced as a practical offline-friendly alternative with desktop, mobile, and browser support.",
+      "evidence": "One commenter said they moved to KeepassXC on desktop plus KeepassDX on Android, and another called the KeePass ecosystem a fantastic advert."
+    },
+    {
+      "name": "Level1Techs KVM",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.store.level1techs.com/products/p/14-kvm-switch-dual-monitor-2computer-z5erd-n6mbj",
+      "hn_url": "https://news.ycombinator.com/item?id=48156186",
+      "source_story_title": "Two computers, one monitor, zero fiddling (2025)",
+      "summary": "Dual-monitor hardware KVM switch for painless multi-computer desk switching.",
+      "why_included": "Commenters treated it as the clean hardware fix after software switching and monitor-input juggling failed.",
+      "evidence": "A user said the Level1Techs KVM solved the multi-computer/multi-monitor problem, removed switching lag, and was worth the price."
+    },
+    {
+      "name": "Haiku OS",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.haiku-os.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48183579",
+      "source_story_title": "Haiku OS runs on M1 Macs now",
+      "summary": "BeOS-inspired operating system now running on M1 Macs.",
+      "why_included": "Comments framed it as fast, surprisingly stable, and still fun to use on old hardware.",
+      "evidence": "One commenter reported Haiku as fast and surprisingly stable on a ThinkPad X40, with Emacs and VLC working well."
+    },
+    {
+      "name": "180db",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.advanced-research.net/180db",
+      "hn_url": "https://news.ycombinator.com/item?id=48184214",
+      "source_story_title": "Show HN: We missed Winamp, so we built an audio player for macOS",
+      "summary": "macOS audio player built for people who miss the Winamp era.",
+      "why_included": "The thread drew praise from commenters who wanted a local-library music player with more personality.",
+      "evidence": "A commenter said they tried the linked app and that it 'definitely has a vibe to it'."
+    },
+    {
+      "name": "Stainless",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.stainless.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48182281",
+      "source_story_title": "Anthropic acquires Stainless",
+      "summary": "API and SDK generation platform for developer interfaces.",
+      "why_included": "Commenters called it a fantastic product and described it as important infrastructure for SDKs and MCP servers.",
+      "evidence": "HN users described Stainless as a fantastic product and said many companies rely on it to generate SDKs, CLIs, and MCP servers."
+    },
+    {
+      "name": "Qwen 3.7 Preview",
+      "category": "AI & Models",
+      "thing_url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+      "hn_url": "https://news.ycombinator.com/item?id=48181877",
+      "source_story_title": "Qwen 3.7 Preview",
+      "summary": "Preview of Qwen’s next open-weight model family.",
+      "why_included": "Comments showed strong enthusiasm for the Qwen 3.x line as fast, capable, and useful at home.",
+      "evidence": "Replies called Qwen 3.6 amazing, fast, and standard open weights for everyday use, which carried the thread’s excitement for the preview."
+    }
+  ]
+}

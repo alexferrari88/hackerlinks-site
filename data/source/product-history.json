@@ -2089,6 +2089,66 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "Files.md",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "markdown-oxide",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Syncthing",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Vaultwarden",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "KeepassXC",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Level1Techs KVM",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Haiku OS",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "180db",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Stainless",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen 3.7 Preview",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
     }
   ]
 }

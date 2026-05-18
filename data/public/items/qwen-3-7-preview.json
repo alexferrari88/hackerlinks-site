@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "qwen-3-7-preview",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:qwen-3-7-preview:48181877",
+  "mention_ids": [
+    "2026-05-18:qwen-3-7-preview:48181877"
+  ],
+  "name": "Qwen 3.7 Preview",
+  "slug": "qwen-3-7-preview",
+  "summary": "Preview of Qwen\u2019s next open-weight model family.",
+  "thing_url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+  "times_seen": 1,
+  "why_included": "Comments showed strong enthusiasm for the Qwen 3.x line as fast, capable, and useful at home."
+}

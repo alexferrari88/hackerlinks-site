@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "files-md",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:files-md:48179677",
+  "mention_ids": [
+    "2026-05-18:files-md:48179677"
+  ],
+  "name": "Files.md",
+  "slug": "files-md",
+  "summary": "Local-first markdown notes app with Obsidian-like links and file-based storage.",
+  "thing_url": "https://github.com/zakirullin/files.md",
+  "times_seen": 1,
+  "why_included": "Commenters praised the clean local-files workflow and said they were moving back toward text-editor-plus-git notes."
+}

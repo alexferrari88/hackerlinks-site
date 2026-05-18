@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "stainless",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:stainless:48182281",
+  "mention_ids": [
+    "2026-05-18:stainless:48182281"
+  ],
+  "name": "Stainless",
+  "slug": "stainless",
+  "summary": "API and SDK generation platform for developer interfaces.",
+  "thing_url": "https://www.stainless.com/",
+  "times_seen": 1,
+  "why_included": "Commenters called it a fantastic product and described it as important infrastructure for SDKs and MCP servers."
+}

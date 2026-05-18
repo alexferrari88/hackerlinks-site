@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-18T21:15:39Z",
+  "id": "180db",
+  "last_seen_at": "2026-05-18T21:15:39Z",
+  "latest_mention_id": "2026-05-18:180db:48184214",
+  "mention_ids": [
+    "2026-05-18:180db:48184214"
+  ],
+  "name": "180db",
+  "slug": "180db",
+  "summary": "macOS audio player built for people who miss the Winamp era.",
+  "thing_url": "https://www.advanced-research.net/180db",
+  "times_seen": 1,
+  "why_included": "The thread drew praise from commenters who wanted a local-library music player with more personality."
+}
