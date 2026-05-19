@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T21:23:59.571471Z",
+  "headline": "12 interesting things surfaced from HN on 2026-05-19",
+  "id": "2026-05-19",
+  "mention_ids": [
+    "2026-05-19:gemini-3-5-flash:48196570",
+    "2026-05-19:forge:48192383",
+    "2026-05-19:superlog:48195021",
+    "2026-05-19:opentelemetry:48195021",
+    "2026-05-19:virtual-os-museum:48195009",
+    "2026-05-19:gaussian-splat-of-a-strawberry:48191602",
+    "2026-05-19:kagi:48197370",
+    "2026-05-19:aqua-voice:48192224",
+    "2026-05-19:openbsd-7-9:48192882",
+    "2026-05-19:qubes-os:48177300",
+    "2026-05-19:genode:48177300",
+    "2026-05-19:sel4:48177300"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

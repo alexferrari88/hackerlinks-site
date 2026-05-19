@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "aqua-voice",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:aqua-voice:48192224",
+  "mention_ids": [
+    "2026-05-19:aqua-voice:48192224"
+  ],
+  "name": "Aqua Voice",
+  "slug": "aqua-voice",
+  "summary": "A fast voice dictation app for Mac and Windows.",
+  "thing_url": "https://aquavoice.com/",
+  "times_seen": 1,
+  "why_included": "One commenter explicitly chose it over Apple speech-to-text."
+}

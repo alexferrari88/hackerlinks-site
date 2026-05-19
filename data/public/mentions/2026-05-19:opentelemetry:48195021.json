@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies said the SDK, collector, and operator path is still recommended and described how OTel links traces across services.",
+  "hn_url": "https://news.ycombinator.com/item?id=48195021",
+  "id": "2026-05-19:opentelemetry:48195021",
+  "is_repeat": false,
+  "issue_id": "2026-05-19",
+  "item_id": "opentelemetry",
+  "rank": 4,
+  "seen_at": "2026-05-19T21:23:59.571471Z",
+  "source_story_id": "48195021",
+  "source_story_title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs"
+}

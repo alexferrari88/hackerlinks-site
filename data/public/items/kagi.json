@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "kagi",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:kagi:48197370",
+  "mention_ids": [
+    "2026-05-19:kagi:48197370"
+  ],
+  "name": "Kagi",
+  "slug": "kagi",
+  "summary": "A paid search engine people say is better than Google.",
+  "thing_url": "https://kagi.com/",
+  "times_seen": 1,
+  "why_included": "The Google search-box thread turned into repeated first-hand endorsements."
+}

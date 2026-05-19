@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "openbsd-7-9",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:openbsd-7-9:48192882",
+  "mention_ids": [
+    "2026-05-19:openbsd-7-9:48192882"
+  ],
+  "name": "OpenBSD 7.9",
+  "slug": "openbsd-7-9",
+  "summary": "The latest OpenBSD release, a security-focused Unix.",
+  "thing_url": "https://www.openbsd.org/79.html",
+  "times_seen": 1,
+  "why_included": "Commenters described real deployments instead of abstract admiration."
+}

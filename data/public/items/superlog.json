@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "superlog",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:superlog:48195021",
+  "mention_ids": [
+    "2026-05-19:superlog:48195021"
+  ],
+  "name": "Superlog",
+  "slug": "superlog",
+  "summary": "Observability that installs itself and fixes bugs.",
+  "thing_url": "https://superlog.sh/",
+  "times_seen": 1,
+  "why_included": "HN commenters focused on the install flow and debugging story."
+}

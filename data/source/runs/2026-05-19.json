@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "run_date": "2026-05-19",
+  "generated_at": "2026-05-19T21:23:59.571471Z",
+  "summary": {
+    "stories_scraped": 25,
+    "items_reported": 12,
+    "cooldown_days": 90
+  },
+  "items": [
+    {
+      "name": "Gemini 3.5 Flash",
+      "category": "AI & Local Models",
+      "thing_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=48196570",
+      "story_id": 48196570,
+      "source_story_title": "Gemini 3.5 Flash",
+      "summary": "Google's fast Gemini model with a 1M-token context window.",
+      "why_included": "HN commenters argued about its price/perf and shared real usage examples.",
+      "evidence": "Comments compared it against Opus, GPT-5.5, and other Gemini models, debated the 3x price jump, and shared a live use case on The Last Spell."
+    },
+    {
+      "name": "Forge",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/antoinezambelli/forge",
+      "hn_url": "https://news.ycombinator.com/item?id=48192383",
+      "story_id": 48192383,
+      "source_story_title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "summary": "Guardrails for 8B models that improve agentic-task accuracy.",
+      "why_included": "Readers liked the local-LLM reliability angle.",
+      "evidence": "A commenter called the work impressive and praised tools that boost local LLM reliability without retraining the model."
+    },
+    {
+      "name": "Superlog",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://superlog.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48195021",
+      "story_id": 48195021,
+      "source_story_title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "summary": "Observability that installs itself and fixes bugs.",
+      "why_included": "HN commenters focused on the install flow and debugging story.",
+      "evidence": "Replies praised the install process, compared it with OpenTelemetry, and called the product's bug-hunting analogy lovely."
+    },
+    {
+      "name": "OpenTelemetry",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://opentelemetry.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48195021",
+      "story_id": 48195021,
+      "source_story_title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "summary": "The tracing stack Superlog commenters kept recommending.",
+      "why_included": "The thread repeatedly pointed back to OTel as the baseline observability path.",
+      "evidence": "Replies said the SDK, collector, and operator path is still recommended and described how OTel links traces across services."
+    },
+    {
+      "name": "Virtual OS Museum",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://virtualosmuseum.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48195009",
+      "story_id": 48195009,
+      "source_story_title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "summary": "A browser museum of historic operating systems.",
+      "why_included": "The thread was full of quick praise and nostalgia-fueled links.",
+      "evidence": "Replies called it great and awesome, linked the site, and pointed to OpenSIMH, v86, and other OS emulation references."
+    },
+    {
+      "name": "Gaussian Splat of a Strawberry",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://superspl.at/scene/84df8849",
+      "hn_url": "https://news.ycombinator.com/item?id=48191602",
+      "story_id": 48191602,
+      "source_story_title": "Show HN: Gaussian Splat of a Strawberry",
+      "summary": "A strawberry rendered as a tiny Gaussian-splat demo.",
+      "why_included": "The thread drew enthusiastic comments and related splat links.",
+      "evidence": "Replies called it awesome and great, and shared other splat demos plus Gaussian-splat video examples."
+    },
+    {
+      "name": "Kagi",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://kagi.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48197370",
+      "story_id": 48197370,
+      "source_story_title": "Google changes its search box",
+      "summary": "A paid search engine people say is better than Google.",
+      "why_included": "The Google search-box thread turned into repeated first-hand endorsements.",
+      "evidence": "Commenters said they switched during the pandemic, had not looked back, and found the subscription worth it."
+    },
+    {
+      "name": "Aqua Voice",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://aquavoice.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48192224",
+      "story_id": 48192224,
+      "source_story_title": "Apple unveils new accessibility features",
+      "summary": "A fast voice dictation app for Mac and Windows.",
+      "why_included": "One commenter explicitly chose it over Apple speech-to-text.",
+      "evidence": "A reply said they use Aqua Voice because Apple STT is frustrating."
+    },
+    {
+      "name": "OpenBSD 7.9",
+      "category": "Systems & Security",
+      "thing_url": "https://www.openbsd.org/79.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48192882",
+      "story_id": 48192882,
+      "source_story_title": "OpenBSD 7.9",
+      "summary": "The latest OpenBSD release, a security-focused Unix.",
+      "why_included": "Commenters described real deployments instead of abstract admiration.",
+      "evidence": "People said they run it as a home router, home server, personal VPS, and daily driver."
+    },
+    {
+      "name": "Qubes OS",
+      "category": "Systems & Security",
+      "thing_url": "https://qubes-os.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48177300",
+      "story_id": 48177300,
+      "source_story_title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "summary": "A security-focused desktop OS built on hardware virtualization.",
+      "why_included": "The PSOS thread treated it as a real-world isolation platform.",
+      "evidence": "A commenter called it their daily driver and said they cannot recommend it enough."
+    },
+    {
+      "name": "Genode",
+      "category": "Systems & Security",
+      "thing_url": "https://genode.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48177300",
+      "story_id": 48177300,
+      "source_story_title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "summary": "A capability-based OS framework for secure special-purpose systems.",
+      "why_included": "Readers kept plugging it as the stronger-isolation alternative.",
+      "evidence": "A commenter made a standard plug for Genode/Sculpt OS and called it capability-based and commercially maintained."
+    },
+    {
+      "name": "seL4",
+      "category": "Systems & Security",
+      "thing_url": "https://sel4.systems/",
+      "hn_url": "https://news.ycombinator.com/item?id=48177300",
+      "story_id": 48177300,
+      "source_story_title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "summary": "A formally verified microkernel for high-assurance systems.",
+      "why_included": "HN commenters framed it as the modern inheritor of capability-based OS ideas.",
+      "evidence": "Replies said to study seL4, called it a practical industrial proven-correct microkernel, and described its capability model in detail."
+    }
+  ]
+}

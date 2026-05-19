@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "genode",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:genode:48177300",
+  "mention_ids": [
+    "2026-05-19:genode:48177300"
+  ],
+  "name": "Genode",
+  "slug": "genode",
+  "summary": "A capability-based OS framework for secure special-purpose systems.",
+  "thing_url": "https://genode.org/",
+  "times_seen": 1,
+  "why_included": "Readers kept plugging it as the stronger-isolation alternative."
+}

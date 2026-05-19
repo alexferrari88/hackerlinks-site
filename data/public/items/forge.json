@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "forge",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:forge:48192383",
+  "mention_ids": [
+    "2026-05-19:forge:48192383"
+  ],
+  "name": "Forge",
+  "slug": "forge",
+  "summary": "Guardrails for 8B models that improve agentic-task accuracy.",
+  "thing_url": "https://github.com/antoinezambelli/forge",
+  "times_seen": 1,
+  "why_included": "Readers liked the local-LLM reliability angle."
+}

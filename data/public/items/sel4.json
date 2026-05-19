@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "sel4",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:sel4:48177300",
+  "mention_ids": [
+    "2026-05-19:sel4:48177300"
+  ],
+  "name": "seL4",
+  "slug": "sel4",
+  "summary": "A formally verified microkernel for high-assurance systems.",
+  "thing_url": "https://sel4.systems/",
+  "times_seen": 1,
+  "why_included": "HN commenters framed it as the modern inheritor of capability-based OS ideas."
+}

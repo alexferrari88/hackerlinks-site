@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "qubes-os",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:qubes-os:48177300",
+  "mention_ids": [
+    "2026-05-19:qubes-os:48177300"
+  ],
+  "name": "Qubes OS",
+  "slug": "qubes-os",
+  "summary": "A security-focused desktop OS built on hardware virtualization.",
+  "thing_url": "https://qubes-os.org/",
+  "times_seen": 1,
+  "why_included": "The PSOS thread treated it as a real-world isolation platform."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "gemini-3-5-flash",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:gemini-3-5-flash:48196570",
+  "mention_ids": [
+    "2026-05-19:gemini-3-5-flash:48196570"
+  ],
+  "name": "Gemini 3.5 Flash",
+  "slug": "gemini-3-5-flash",
+  "summary": "Google's fast Gemini model with a 1M-token context window.",
+  "thing_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "times_seen": 1,
+  "why_included": "HN commenters argued about its price/perf and shared real usage examples."
+}

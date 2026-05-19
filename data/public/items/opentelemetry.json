@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "opentelemetry",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:opentelemetry:48195021",
+  "mention_ids": [
+    "2026-05-19:opentelemetry:48195021"
+  ],
+  "name": "OpenTelemetry",
+  "slug": "opentelemetry",
+  "summary": "The tracing stack Superlog commenters kept recommending.",
+  "thing_url": "https://opentelemetry.io/",
+  "times_seen": 1,
+  "why_included": "The thread repeatedly pointed back to OTel as the baseline observability path."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter called the work impressive and praised tools that boost local LLM reliability without retraining the model.",
+  "hn_url": "https://news.ycombinator.com/item?id=48192383",
+  "id": "2026-05-19:forge:48192383",
+  "is_repeat": false,
+  "issue_id": "2026-05-19",
+  "item_id": "forge",
+  "rank": 2,
+  "seen_at": "2026-05-19T21:23:59.571471Z",
+  "source_story_id": "48192383",
+  "source_story_title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks"
+}

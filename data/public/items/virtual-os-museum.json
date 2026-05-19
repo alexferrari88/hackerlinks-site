@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "virtual-os-museum",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:virtual-os-museum:48195009",
+  "mention_ids": [
+    "2026-05-19:virtual-os-museum:48195009"
+  ],
+  "name": "Virtual OS Museum",
+  "slug": "virtual-os-museum",
+  "summary": "A browser museum of historic operating systems.",
+  "thing_url": "https://virtualosmuseum.org/",
+  "times_seen": 1,
+  "why_included": "The thread was full of quick praise and nostalgia-fueled links."
+}

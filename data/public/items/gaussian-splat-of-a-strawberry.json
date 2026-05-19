@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-19T21:23:59.571471Z",
+  "id": "gaussian-splat-of-a-strawberry",
+  "last_seen_at": "2026-05-19T21:23:59.571471Z",
+  "latest_mention_id": "2026-05-19:gaussian-splat-of-a-strawberry:48191602",
+  "mention_ids": [
+    "2026-05-19:gaussian-splat-of-a-strawberry:48191602"
+  ],
+  "name": "Gaussian Splat of a Strawberry",
+  "slug": "gaussian-splat-of-a-strawberry",
+  "summary": "A strawberry rendered as a tiny Gaussian-splat demo.",
+  "thing_url": "https://superspl.at/scene/84df8849",
+  "times_seen": 1,
+  "why_included": "The thread drew enthusiastic comments and related splat links."
+}
