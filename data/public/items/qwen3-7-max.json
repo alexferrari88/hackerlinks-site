@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "qwen3-7-max",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:qwen3-7-max:48205626",
+  "mention_ids": [
+    "2026-05-20:qwen3-7-max:48205626"
+  ],
+  "name": "Qwen3.7-Max",
+  "slug": "qwen3-7-max",
+  "summary": "Qwen frontier model release that commenters compared favorably to top rivals.",
+  "thing_url": "https://qwen.ai/blog?id=qwen3.7",
+  "times_seen": 1,
+  "why_included": "Strong model-thread signal with direct positive comparisons."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "viteplus",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:viteplus:48212242",
+  "mention_ids": [
+    "2026-05-20:viteplus:48212242"
+  ],
+  "name": "VitePlus",
+  "slug": "viteplus",
+  "summary": "Build-time tool for Node.js developers, recommended by name in comments.",
+  "thing_url": "https://viteplus.dev",
+  "times_seen": 1,
+  "why_included": "Direct recommendation in a relevant dev-thread."
+}

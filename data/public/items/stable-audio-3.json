@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "stable-audio-3",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:stable-audio-3:48209105",
+  "mention_ids": [
+    "2026-05-20:stable-audio-3:48209105"
+  ],
+  "name": "Stable Audio 3",
+  "slug": "stable-audio-3",
+  "summary": "Audio generation service that commenters praised for speed and smaller models.",
+  "thing_url": "https://stableaudio.com/",
+  "times_seen": 1,
+  "why_included": "High-signal praise and a tangible performance note."
+}

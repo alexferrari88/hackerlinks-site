@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter suggested Liquid Haskell or Lean to put invariants directly in the program instead of a sidecar.",
+  "hn_url": "https://news.ycombinator.com/item?id=48209323",
+  "id": "2026-05-20:liquid-haskell:48209323",
+  "is_repeat": false,
+  "issue_id": "2026-05-20",
+  "item_id": "liquid-haskell",
+  "rank": 8,
+  "seen_at": "2026-05-20T21:00:52Z",
+  "source_story_id": "48209323",
+  "source_story_title": "Formal Verification Gates for AI Coding Loops"
+}

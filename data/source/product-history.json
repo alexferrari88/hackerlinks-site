@@ -2221,6 +2221,60 @@
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
       "times_reported": 1
+    },
+    {
+      "name": "Lance",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Stable Audio 3",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen3.7-Max",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenCode",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Flipper One",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "VitePlus",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "tea",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Liquid Haskell",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Modal token timing simulator",
+      "first_reported_at": "2026-05-20T21:00:52Z",
+      "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter linked their own similar simulator and liked using real model output to render token timing.",
+  "hn_url": "https://news.ycombinator.com/item?id=48174920",
+  "id": "2026-05-20:modal-token-timing-simulator:48174920",
+  "is_repeat": false,
+  "issue_id": "2026-05-20",
+  "item_id": "modal-token-timing-simulator",
+  "rank": 9,
+  "seen_at": "2026-05-20T21:00:52Z",
+  "source_story_id": "48174920",
+  "source_story_title": "How fast is N tokens per second really?"
+}

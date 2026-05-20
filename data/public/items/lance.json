@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "lance",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:lance:48209668",
+  "mention_ids": [
+    "2026-05-20:lance:48209668"
+  ],
+  "name": "Lance",
+  "slug": "lance",
+  "summary": "Image/video model that commenters are already fork-trying for UI understanding.",
+  "thing_url": "https://github.com/bytedance/Lance",
+  "times_seen": 1,
+  "why_included": "Strong comment praise plus a concrete UI/UX use case."
+}

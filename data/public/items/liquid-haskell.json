@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "liquid-haskell",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:liquid-haskell:48209323",
+  "mention_ids": [
+    "2026-05-20:liquid-haskell:48209323"
+  ],
+  "name": "Liquid Haskell",
+  "slug": "liquid-haskell",
+  "summary": "Refinement-types tool for encoding invariants directly in Haskell.",
+  "thing_url": "https://ucsd-progsys.github.io/liquidhaskell/",
+  "times_seen": 1,
+  "why_included": "Strong alternative to sidecar verification and codegen."
+}

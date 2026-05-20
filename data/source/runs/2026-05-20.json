@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "run_date": "2026-05-20",
+  "generated_at": "2026-05-20T21:00:52Z",
+  "summary": {
+    "stories_scraped": 27,
+    "stories_attempted": 27,
+    "reported_items": 9
+  },
+  "items": [
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Lance",
+      "thing_url": "https://github.com/bytedance/Lance",
+      "hn_url": "https://news.ycombinator.com/item?id=48209668",
+      "source_story_title": "Show HN: Lance – image/video generation and understanding in one model",
+      "summary": "Image/video model that commenters are already fork-trying for UI understanding.",
+      "why_included": "Strong comment praise plus a concrete UI/UX use case.",
+      "evidence": "Commenters said video understanding could help with UI/UX navigation, and one said they had forked it to try."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Stable Audio 3",
+      "thing_url": "https://stableaudio.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48209105",
+      "source_story_title": "Stable Audio 3",
+      "summary": "Audio generation service that commenters praised for speed and smaller models.",
+      "why_included": "High-signal praise and a tangible performance note.",
+      "evidence": "Commenters called it a great release, praised the smaller models and licensing, and reported sub-2-second generation for 120 seconds of audio."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Qwen3.7-Max",
+      "thing_url": "https://qwen.ai/blog?id=qwen3.7",
+      "hn_url": "https://news.ycombinator.com/item?id=48205626",
+      "source_story_title": "Qwen3.7-Max: The Agent Frontier",
+      "summary": "Qwen frontier model release that commenters compared favorably to top rivals.",
+      "why_included": "Strong model-thread signal with direct positive comparisons.",
+      "evidence": "Commenters compared the Qwen family favorably to Opus, Gemini, and GPT, and recommended dense models for hard tasks."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "OpenCode",
+      "thing_url": "https://opencode.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48205626",
+      "source_story_title": "Qwen3.7-Max: The Agent Frontier",
+      "summary": "Open-source Claude Code alternative for agentic coding.",
+      "why_included": "Explicitly recommended as a practical free alternative.",
+      "evidence": "A commenter said Qwen3.6 with llama.cpp and OpenCode was a great free alternative to Claude Code."
+    },
+    {
+      "category": "🔧 Hardware & Gadgets",
+      "name": "Flipper One",
+      "thing_url": "https://docs.flipper.net/one/general/tech-specs",
+      "hn_url": "https://news.ycombinator.com/item?id=48212046",
+      "source_story_title": "Flipper One Tech Specs",
+      "summary": "Pocket hacker gadget with commenters liking the bigger Swiss-army-knife scope.",
+      "why_included": "Concrete hardware with clear curiosity and praise.",
+      "evidence": "Commenters said it is more than an incremental Flipper Zero upgrade and liked the Swiss-army-knife angle."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "VitePlus",
+      "thing_url": "https://viteplus.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48212242",
+      "source_story_title": "Node.js 26.0.0 (Now with Temporal)",
+      "summary": "Build-time tool for Node.js developers, recommended by name in comments.",
+      "why_included": "Direct recommendation in a relevant dev-thread.",
+      "evidence": "A commenter told Node.js build-time users to check it out and called VoidZero's tools consistently excellent."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "tea",
+      "thing_url": "https://about.gitea.com/products/tea",
+      "hn_url": "https://news.ycombinator.com/item?id=48169818",
+      "source_story_title": "Handling the great code forge fragmentation",
+      "summary": "Gitea CLI for repo and issue work, pitched as a gh alternative for agents.",
+      "why_included": "Clear agent-workflow endorsement from a real user.",
+      "evidence": "A commenter said they had success with Gitea and using tea as a gh-cli alternative for agents."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Liquid Haskell",
+      "thing_url": "https://ucsd-progsys.github.io/liquidhaskell/",
+      "hn_url": "https://news.ycombinator.com/item?id=48209323",
+      "source_story_title": "Formal Verification Gates for AI Coding Loops",
+      "summary": "Refinement-types tool for encoding invariants directly in Haskell.",
+      "why_included": "Strong alternative to sidecar verification and codegen.",
+      "evidence": "A commenter suggested Liquid Haskell or Lean to put invariants directly in the program instead of a sidecar."
+    },
+    {
+      "category": "🔭 Demos & Visualizers",
+      "name": "Modal token timing simulator",
+      "thing_url": "https://modal.com/llm-almanac/token-timing-simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=48174920",
+      "source_story_title": "How fast is N tokens per second really?",
+      "summary": "Token-timing visualizer that makes LLM throughput feel tangible.",
+      "why_included": "Useful for sanity-checking speed claims and local-model tradeoffs.",
+      "evidence": "A commenter linked their own similar simulator and liked using real model output to render token timing."
+    }
+  ]
+}

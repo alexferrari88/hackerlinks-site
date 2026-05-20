@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "modal-token-timing-simulator",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:modal-token-timing-simulator:48174920",
+  "mention_ids": [
+    "2026-05-20:modal-token-timing-simulator:48174920"
+  ],
+  "name": "Modal token timing simulator",
+  "slug": "modal-token-timing-simulator",
+  "summary": "Token-timing visualizer that makes LLM throughput feel tangible.",
+  "thing_url": "https://modal.com/llm-almanac/token-timing-simulator",
+  "times_seen": 1,
+  "why_included": "Useful for sanity-checking speed claims and local-model tradeoffs."
+}

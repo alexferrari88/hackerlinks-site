@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-20T21:00:52Z",
+  "id": "tea",
+  "last_seen_at": "2026-05-20T21:00:52Z",
+  "latest_mention_id": "2026-05-20:tea:48169818",
+  "mention_ids": [
+    "2026-05-20:tea:48169818"
+  ],
+  "name": "tea",
+  "slug": "tea",
+  "summary": "Gitea CLI for repo and issue work, pitched as a gh alternative for agents.",
+  "thing_url": "https://about.gitea.com/products/tea",
+  "times_seen": 1,
+  "why_included": "Clear agent-workflow endorsement from a real user."
+}
