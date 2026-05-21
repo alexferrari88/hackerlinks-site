@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-21T21:20:56Z",
+  "id": "project-hail-mary-star-chart",
+  "last_seen_at": "2026-05-21T21:20:56Z",
+  "latest_mention_id": "2026-05-21:project-hail-mary-star-chart:48225297",
+  "mention_ids": [
+    "2026-05-21:project-hail-mary-star-chart:48225297"
+  ],
+  "name": "Project Hail Mary star chart",
+  "slug": "project-hail-mary-star-chart",
+  "summary": "An interactive stellar navigation chart built around GAIA DR3 data.",
+  "thing_url": "https://valhovey.github.io/gaia-mary/",
+  "times_seen": 1,
+  "why_included": "The discussion anchored the chart in specific videos and astronomy datasets."
+}

@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "run_date": "2026-05-21",
+  "generated_at": "2026-05-21T21:20:56Z",
+  "summary": "12 items surfaced from 24 stories; 1 product skipped on cooldown.",
+  "items": [
+    {
+      "story_id": 48226944,
+      "name": "BBEdit",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_title": "BBEdit 16",
+      "hn_url": "https://news.ycombinator.com/item?id=48226944",
+      "thing_url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "summary": "A Mac text editor update; commenters praised shell-script hooks and the usable free tier.",
+      "why_included": "It drew unusually specific workflow praise, not just nostalgia.",
+      "evidence": "Comments called it extensible with shell scripts, Python tools, and Rust apps, and noted the free version is very usable."
+    },
+    {
+      "story_id": 48225040,
+      "name": "Runtime",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "hn_url": "https://news.ycombinator.com/item?id=48225040",
+      "thing_url": "https://www.runtm.com/",
+      "summary": "Sandboxed coding agents for teams, with commenters comparing Claude Code and open-source alternatives.",
+      "why_included": "The thread surfaced real product comparisons instead of generic launch hype.",
+      "evidence": "People compared it to Claude Code and linked open-source alternatives like smithy-ai and norisessions."
+    },
+    {
+      "story_id": 48225596,
+      "name": "AgentMail",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "hn_url": "https://news.ycombinator.com/item?id=48225596",
+      "thing_url": "https://www.agentmail.to/",
+      "summary": "An email inbox API for agents; the launch centers on curl sign-up and human OTP flows.",
+      "why_included": "It has a crisp use case and immediate implementation details.",
+      "evidence": "The launch thread talked about agents hitting agent.email via curl and handing off a human OTP to claim the inbox."
+    },
+    {
+      "story_id": 48220696,
+      "name": "Python 3.15",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_title": "Python 3.15: features that didn't make the headlines",
+      "hn_url": "https://news.ycombinator.com/item?id=48220696",
+      "thing_url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "summary": "A roundup of lesser-known 3.15 changes, with concrete iterator and packaging links.",
+      "why_included": "The comments pointed to real release notes and packages rather than vague language debate.",
+      "evidence": "Commenters linked the official 3.15 notes and a PyPI package, threaded-generator, built around the new behavior."
+    },
+    {
+      "story_id": 48190373,
+      "name": "Git commits as folders via NFS",
+      "category": "🛠️ Dev Tools & Workflows",
+      "source_story_title": "Mounting git commits as folders with NFS (2023)",
+      "hn_url": "https://news.ycombinator.com/item?id=48190373",
+      "thing_url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "summary": "A filesystem trick for browsing git history as folders; commenters compared ClearCase and Fossil fusefs.",
+      "why_included": "The thread turned into a concrete tooling comparison with working alternatives.",
+      "evidence": "People invoked ClearCase's NFS-backed browsing and Fossil's fusefs subcommand."
+    },
+    {
+      "story_id": 48222733,
+      "name": "Gemma 4 31B local video indexing",
+      "category": "🤖 AI & Local Models",
+      "source_story_title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "hn_url": "https://news.ycombinator.com/item?id=48222733",
+      "thing_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "summary": "A MacBook pipeline for indexing a year of video locally with Gemma 4 31B.",
+      "why_included": "The comments dug into models, sidecar files, and local tooling details.",
+      "evidence": "People discussed Gemma 4 31B quantization, Unsloth Studio, and the plain-text .description.md file layout."
+    },
+    {
+      "story_id": 48184402,
+      "name": "RTX 6000 Pro home GPU server",
+      "category": "🤖 AI & Local Models",
+      "source_story_title": "Was my $48K GPU server worth it?",
+      "hn_url": "https://news.ycombinator.com/item?id=48184402",
+      "thing_url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "summary": "A $48K GPU server benchmarked against newer RTX 6000 Pro setups.",
+      "why_included": "The thread stayed grounded in actual hardware choices and price/perf tradeoffs.",
+      "evidence": "Commenters compared the RTX 6000 Ada 48GB with the RTX 6000 Pro 96GB and called the newer card the sweet spot."
+    },
+    {
+      "story_id": 48223362,
+      "name": "Freenet",
+      "category": "🌐 Apps & Side Projects",
+      "source_story_title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "hn_url": "https://news.ycombinator.com/item?id=48223362",
+      "thing_url": "https://freenet.org/",
+      "summary": "A peer-to-peer anonymity platform returning with a rewrite and service model.",
+      "why_included": "The discussion centered on the concrete rewrite architecture, not abstract decentralization.",
+      "evidence": "A commenter called it a favorite project and others discussed anonymity services and a related talk/video."
+    },
+    {
+      "story_id": 48219060,
+      "name": "Vivaldi",
+      "category": "🌐 Apps & Side Projects",
+      "source_story_title": "Vivaldi 8.0",
+      "hn_url": "https://news.ycombinator.com/item?id=48219060",
+      "thing_url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "summary": "A browser update praised for Workspaces and a sustainable business model.",
+      "why_included": "Multiple commenters gave direct adoption stories and feature praise.",
+      "evidence": "People said they switched to Vivaldi for its Workspaces and recommended it as a browser with a sustainable model."
+    },
+    {
+      "story_id": 48219992,
+      "name": "Slop Grenade",
+      "category": "🌐 Apps & Side Projects",
+      "source_story_title": "Throwing AI-generated walls of text into conversations",
+      "hn_url": "https://news.ycombinator.com/item?id=48219992",
+      "thing_url": "https://noslopgrenade.com/",
+      "summary": "A small site for pushing back on AI-generated wall-of-text spam.",
+      "why_included": "The thread latched onto the brand and pointed to adjacent tools and sites.",
+      "evidence": "Commenters praised the slop grenade branding and linked stopsloppypasta.ai plus Kagi Translate's proofreading feature."
+    },
+    {
+      "story_id": 48224768,
+      "name": "Curta",
+      "category": "🌐 Apps & Side Projects",
+      "source_story_title": "Museum of Pocket Calculating Devices",
+      "hn_url": "https://news.ycombinator.com/item?id=48224768",
+      "thing_url": "https://www.calculators.de/",
+      "summary": "The classic pocket calculator, still treated as the benchmark collector's piece.",
+      "why_included": "The comments were full of direct admiration rather than generic museum chatter.",
+      "evidence": "People said they dreamed of owning a Curta and called it the ultimate calculator to own."
+    },
+    {
+      "story_id": 48225297,
+      "name": "Project Hail Mary star chart",
+      "category": "🎥 Watch & Learn",
+      "source_story_title": "Project Hail Mary – Stellar Navigation Chart",
+      "hn_url": "https://news.ycombinator.com/item?id=48225297",
+      "thing_url": "https://valhovey.github.io/gaia-mary/",
+      "summary": "An interactive stellar navigation chart built around GAIA DR3 data.",
+      "why_included": "The discussion anchored the chart in specific videos and astronomy datasets.",
+      "evidence": "Commenters pointed to a related YouTube visualization and noted that the demo uses ESA's GAIA DR3 dataset."
+    }
+  ]
+}

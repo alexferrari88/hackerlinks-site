@@ -1,0 +1,12 @@
+{
+  "evidence": "People discussed Gemma 4 31B quantization, Unsloth Studio, and the plain-text .description.md file layout.",
+  "hn_url": "https://news.ycombinator.com/item?id=48222733",
+  "id": "2026-05-21:gemma-4-31b-local-video-indexing:48222733",
+  "is_repeat": false,
+  "issue_id": "2026-05-21",
+  "item_id": "gemma-4-31b-local-video-indexing",
+  "rank": 6,
+  "seen_at": "2026-05-21T21:20:56Z",
+  "source_story_id": "48222733",
+  "source_story_title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)"
+}

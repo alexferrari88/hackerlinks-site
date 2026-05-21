@@ -2275,6 +2275,78 @@
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
       "times_reported": 1
+    },
+    {
+      "name": "BBEdit",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Runtime",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "AgentMail",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Python 3.15",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Git commits as folders via NFS",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Gemma 4 31B local video indexing",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RTX 6000 Pro home GPU server",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Freenet",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Vivaldi",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Slop Grenade",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Curta",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Project Hail Mary star chart",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
     }
   ]
 }

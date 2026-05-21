@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-21T21:20:56Z",
+  "id": "gemma-4-31b-local-video-indexing",
+  "last_seen_at": "2026-05-21T21:20:56Z",
+  "latest_mention_id": "2026-05-21:gemma-4-31b-local-video-indexing:48222733",
+  "mention_ids": [
+    "2026-05-21:gemma-4-31b-local-video-indexing:48222733"
+  ],
+  "name": "Gemma 4 31B local video indexing",
+  "slug": "gemma-4-31b-local-video-indexing",
+  "summary": "A MacBook pipeline for indexing a year of video locally with Gemma 4 31B.",
+  "thing_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+  "times_seen": 1,
+  "why_included": "The comments dug into models, sidecar files, and local tooling details."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters linked the official 3.15 notes and a PyPI package, threaded-generator, built around the new behavior.",
+  "hn_url": "https://news.ycombinator.com/item?id=48220696",
+  "id": "2026-05-21:python-3-15:48220696",
+  "is_repeat": false,
+  "issue_id": "2026-05-21",
+  "item_id": "python-3-15",
+  "rank": 4,
+  "seen_at": "2026-05-21T21:20:56Z",
+  "source_story_id": "48220696",
+  "source_story_title": "Python 3.15: features that didn't make the headlines"
+}

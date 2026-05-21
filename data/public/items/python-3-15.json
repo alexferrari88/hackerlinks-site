@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-21T21:20:56Z",
+  "id": "python-3-15",
+  "last_seen_at": "2026-05-21T21:20:56Z",
+  "latest_mention_id": "2026-05-21:python-3-15:48220696",
+  "mention_ids": [
+    "2026-05-21:python-3-15:48220696"
+  ],
+  "name": "Python 3.15",
+  "slug": "python-3-15",
+  "summary": "A roundup of lesser-known 3.15 changes, with concrete iterator and packaging links.",
+  "thing_url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+  "times_seen": 1,
+  "why_included": "The comments pointed to real release notes and packages rather than vague language debate."
+}

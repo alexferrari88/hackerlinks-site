@@ -1,0 +1,12 @@
+{
+  "evidence": "People invoked ClearCase's NFS-backed browsing and Fossil's fusefs subcommand.",
+  "hn_url": "https://news.ycombinator.com/item?id=48190373",
+  "id": "2026-05-21:git-commits-as-folders-via-nfs:48190373",
+  "is_repeat": false,
+  "issue_id": "2026-05-21",
+  "item_id": "git-commits-as-folders-via-nfs",
+  "rank": 5,
+  "seen_at": "2026-05-21T21:20:56Z",
+  "source_story_id": "48190373",
+  "source_story_title": "Mounting git commits as folders with NFS (2023)"
+}
