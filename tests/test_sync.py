@@ -5,7 +5,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from hackerlinks.sync import blocking_dirty_paths, sync_repo
+from hackerlinks.sync import blocking_dirty_paths, publish_repo, sync_repo
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -126,6 +126,49 @@ class SyncTests(unittest.TestCase):
 
             self.assertIn("README.md", blocked)
             self.assertNotIn("data/source/product-history.json", blocked)
+    def test_publish_repo_pushes_existing_unpushed_commits_when_no_new_files_changed(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            origin = root / "origin.git"
+            repo_root = root / "repo"
+            subprocess.run(["git", "init", "--bare", origin], check=True, capture_output=True)
+            subprocess.run(["git", "init", "-b", "main", repo_root], check=True, capture_output=True)
+            subprocess.run(["git", "config", "user.name", "Hermes Test"], cwd=repo_root, check=True, capture_output=True)
+            subprocess.run(["git", "config", "user.email", "hermes@example.com"], cwd=repo_root, check=True, capture_output=True)
+            subprocess.run(["git", "remote", "add", "origin", str(origin)], cwd=repo_root, check=True, capture_output=True)
+
+            (repo_root / "data" / "source").mkdir(parents=True, exist_ok=True)
+            (repo_root / "data" / "public").mkdir(parents=True, exist_ok=True)
+            (repo_root / "data" / "source" / "product-history.json").write_text("{}\n")
+            (repo_root / "data" / "public" / "manifest.json").write_text("{}\n")
+            subprocess.run(["git", "add", "."], cwd=repo_root, check=True, capture_output=True)
+            subprocess.run(["git", "commit", "-m", "baseline"], cwd=repo_root, check=True, capture_output=True)
+            subprocess.run(["git", "push", "-u", "origin", "HEAD:main"], cwd=repo_root, check=True, capture_output=True)
+
+            (repo_root / "data" / "source" / "product-history.json").write_text('{"version": 2}\n')
+            subprocess.run(["git", "add", "data/source/product-history.json"], cwd=repo_root, check=True, capture_output=True)
+            subprocess.run(["git", "commit", "-m", "data: local only"], cwd=repo_root, check=True, capture_output=True)
+
+            result = publish_repo(repo_root, "2026-05-21")
+
+            self.assertEqual(result["status"], "pushed_ahead")
+            self.assertTrue(result["pushed"])
+            self.assertEqual(result["paths"], [])
+            remote_sha = subprocess.run(
+                ["git", "rev-parse", "origin/main"],
+                cwd=repo_root,
+                check=True,
+                capture_output=True,
+                text=True,
+            ).stdout.strip()
+            head_sha = subprocess.run(
+                ["git", "rev-parse", "HEAD"],
+                cwd=repo_root,
+                check=True,
+                capture_output=True,
+                text=True,
+            ).stdout.strip()
+            self.assertEqual(remote_sha, head_sha)
 
 
 if __name__ == "__main__":

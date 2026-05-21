@@ -126,6 +126,40 @@ def blocking_dirty_paths(repo_root: Path, allowed_prefixes: tuple[str, ...] = PU
     return sorted(set(blocked))
 
 
+def _head_sha(repo_root: Path) -> str:
+    return subprocess.run(
+        ["git", "rev-parse", "HEAD"],
+        cwd=repo_root,
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout.strip()
+
+
+def _unpushed_commit_count(repo_root: Path) -> int:
+    result = subprocess.run(
+        ["git", "rev-list", "--count", "@{upstream}..HEAD"],
+        cwd=repo_root,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return 0
+    return int(result.stdout.strip() or "0")
+
+
+def _push_head(repo_root: Path) -> None:
+    result = subprocess.run(
+        ["git", "push", "origin", "HEAD"],
+        cwd=repo_root,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        detail = (result.stderr or result.stdout or "git push failed").strip()
+        raise RuntimeError(f"git push origin HEAD failed: {detail}")
+
+
 def publish_repo(repo_root: Path, latest_run_date: str, *, allow_dirty: bool = False) -> dict[str, Any]:
     blocked = blocking_dirty_paths(repo_root)
     if blocked and not allow_dirty:
@@ -143,18 +177,16 @@ def publish_repo(repo_root: Path, latest_run_date: str, *, allow_dirty: bool = F
     )
     staged_paths = [line for line in staged.stdout.splitlines() if line.strip()]
     if not staged_paths:
+        if _unpushed_commit_count(repo_root) > 0:
+            commit_sha = _head_sha(repo_root)
+            _push_head(repo_root)
+            return {"status": "pushed_ahead", "commit": commit_sha, "pushed": True, "paths": []}
         return {"status": "no_changes", "commit": None, "pushed": False, "paths": []}
 
     commit_message = f"data: sync hn scout artifacts for {latest_run_date}"
     subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_root, check=True, capture_output=True, text=True)
-    commit_sha = subprocess.run(
-        ["git", "rev-parse", "HEAD"],
-        cwd=repo_root,
-        check=True,
-        capture_output=True,
-        text=True,
-    ).stdout.strip()
-    subprocess.run(["git", "push", "origin", "HEAD"], cwd=repo_root, check=True, capture_output=True, text=True)
+    commit_sha = _head_sha(repo_root)
+    _push_head(repo_root)
     return {"status": "pushed", "commit": commit_sha, "pushed": True, "paths": staged_paths}
 
 
