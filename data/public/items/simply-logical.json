@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "simply-logical",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:simply-logical:48234252",
+  "mention_ids": [
+    "2026-05-22:simply-logical:48234252"
+  ],
+  "name": "Simply Logical",
+  "slug": "simply-logical",
+  "summary": "Introductory logic programming book recommended alongside SWI-Prolog.",
+  "thing_url": "https://book.simply-logical.space/src/simply-logical.html",
+  "times_seen": 1,
+  "why_included": "The thread\u2019s strongest recommendation was a book-and-tool combo for getting started with logic programming."
+}

@@ -2347,6 +2347,66 @@
       "first_reported_at": "2026-05-21T21:20:56Z",
       "last_reported_at": "2026-05-21T21:20:56Z",
       "times_reported": 1
+    },
+    {
+      "name": "Kanbots",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Superset",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ShadowCat",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Deno 2.8",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Slumber",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "WebSCAD",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "qr-send",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DeepSeek V4 Pro",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SWI-Prolog",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Simply Logical",
+      "first_reported_at": "2026-05-22T21:12:30Z",
+      "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "qr-send",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:qr-send:48234287",
+  "mention_ids": [
+    "2026-05-22:qr-send:48234287"
+  ],
+  "name": "qr-send",
+  "slug": "qr-send",
+  "summary": "Offline-first QR file transfer PWA using fountain-code encoding.",
+  "thing_url": "https://qr-send.com",
+  "times_seen": 1,
+  "why_included": "The comment thread framed it as a more polished version of the same QR-transfer idea."
+}

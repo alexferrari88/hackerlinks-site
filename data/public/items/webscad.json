@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "webscad",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:webscad:48234090",
+  "mention_ids": [
+    "2026-05-22:webscad:48234090"
+  ],
+  "name": "WebSCAD",
+  "slug": "webscad",
+  "summary": "OpenSCAD helper for turning multicolor CAD work into Bambu Studio exports.",
+  "thing_url": "https://webscad.aicentralen.dk/",
+  "times_seen": 1,
+  "why_included": "A commenter described building it to make OpenSCAD workflows easier after using Claude for script generation."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter described qr-send as a more polished version of animated QR fountain-code transfer and noted that it works as an offline-first PWA.",
+  "hn_url": "https://news.ycombinator.com/item?id=48234287",
+  "id": "2026-05-22:qr-send:48234287",
+  "is_repeat": false,
+  "issue_id": "2026-05-22",
+  "item_id": "qr-send",
+  "rank": 7,
+  "seen_at": "2026-05-22T21:12:30Z",
+  "source_story_id": "48234287",
+  "source_story_title": "Show HN: ShadowCat \u2013 file transfer through QR Codes in a Browser"
+}

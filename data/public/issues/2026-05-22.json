@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T21:12:30Z",
+  "headline": "10 interesting things surfaced from HN on 2026-05-22",
+  "id": "2026-05-22",
+  "mention_ids": [
+    "2026-05-22:kanbots:48239413",
+    "2026-05-22:superset:48236770",
+    "2026-05-22:shadowcat:48234287",
+    "2026-05-22:deno-2-8:48234380",
+    "2026-05-22:slumber:48231938",
+    "2026-05-22:webscad:48234090",
+    "2026-05-22:qr-send:48234287",
+    "2026-05-22:deepseek-v4-pro:48237663",
+    "2026-05-22:swi-prolog:48234252",
+    "2026-05-22:simply-logical:48234252"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

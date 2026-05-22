@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said the `.kanbots/` repo-local setup is table-stakes, and another described using Vibe Kanban on most projects while wishing the older project still had active development.",
+  "hn_url": "https://news.ycombinator.com/item?id=48239413",
+  "id": "2026-05-22:kanbots:48239413",
+  "is_repeat": false,
+  "issue_id": "2026-05-22",
+  "item_id": "kanbots",
+  "rank": 1,
+  "seen_at": "2026-05-22T21:12:30Z",
+  "source_story_id": "48239413",
+  "source_story_title": "Open source Kanban desktop app that runs parallel agents on every card"
+}

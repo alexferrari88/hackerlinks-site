@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "run_date": "2026-05-22",
+  "generated_at": "2026-05-22T21:12:30Z",
+  "summary": {
+    "stories_scraped": 23,
+    "stories_with_items": 10,
+    "items_reported": 10
+  },
+  "items": [
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Kanbots",
+      "thing_url": "https://www.kanbots.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48239413",
+      "source_story_title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "summary": "Local-first kanban desktop app for coordinating agents on every card.",
+      "why_included": "Commenters said the local-first `.kanbots/` layout is table-stakes for adoption and compared it favorably to Vibe Kanban.",
+      "evidence": "One commenter said the `.kanbots/` repo-local setup is table-stakes, and another described using Vibe Kanban on most projects while wishing the older project still had active development."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Superset",
+      "thing_url": "https://github.com/superset-sh/superset",
+      "hn_url": "https://news.ycombinator.com/item?id=48236770",
+      "source_story_title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "summary": "Terminal-first IDE for agent workflows and long-lived worktrees.",
+      "why_included": "Multiple commenters described using it heavily and scaling up agent sessions across many repositories.",
+      "evidence": "One commenter said they now run 40-50 agent sessions across several repos, and the maintainer said that if it runs in a terminal it runs in Superset."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "ShadowCat",
+      "thing_url": "https://github.com/unprovable/ShadowCat",
+      "hn_url": "https://news.ycombinator.com/item?id=48234287",
+      "source_story_title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "summary": "Browser-based QR file transfer tool for moving bytes without servers.",
+      "why_included": "The thread drew praise for the fountain-code QR transfer idea and surfaced adjacent tools with real demand.",
+      "evidence": "Commenters called the approach efficient and \"cool and minimalistic,\" then pointed to qr-send.com and phntm.sh as related projects."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Deno 2.8",
+      "thing_url": "https://deno.com/blog/v2.8",
+      "hn_url": "https://news.ycombinator.com/item?id=48234380",
+      "source_story_title": "Deno 2.8",
+      "summary": "Runtime release adding `deno pack` and packaging workflow polish.",
+      "why_included": "Commenters highlighted practical developer value in Deno’s permission model, TypeScript support, and new packaging path.",
+      "evidence": "People called `deno pack` a nice addition, and several commenters contrasted Deno’s permission model and TypeScript support with Node and Bun."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Slumber",
+      "thing_url": "https://slumber.lucaspickering.me",
+      "hn_url": "https://news.ycombinator.com/item?id=48231938",
+      "source_story_title": "Slumber a TUI HTTP Client",
+      "summary": "TUI HTTP client for fast terminal-based API exploration.",
+      "why_included": "The thread surfaced a small ecosystem of adjacent API TUIs and showed strong interest in terminal workflows.",
+      "evidence": "Commenters compared it with Verb, Resterm, and Voiden, and one said the polish makes it worth sharing."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "WebSCAD",
+      "thing_url": "https://webscad.aicentralen.dk/",
+      "hn_url": "https://news.ycombinator.com/item?id=48234090",
+      "source_story_title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "summary": "OpenSCAD helper for turning multicolor CAD work into Bambu Studio exports.",
+      "why_included": "A commenter described building it to make OpenSCAD workflows easier after using Claude for script generation.",
+      "evidence": "The commenter said they built WebSCAD after generating OpenSCAD with Claude and exporting into Bambu Studio, which made multicolor parts easier."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "qr-send",
+      "thing_url": "https://qr-send.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48234287",
+      "source_story_title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "summary": "Offline-first QR file transfer PWA using fountain-code encoding.",
+      "why_included": "The comment thread framed it as a more polished version of the same QR-transfer idea.",
+      "evidence": "A commenter described qr-send as a more polished version of animated QR fountain-code transfer and noted that it works as an offline-first PWA."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "DeepSeek V4 Pro",
+      "thing_url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "hn_url": "https://news.ycombinator.com/item?id=48237663",
+      "source_story_title": "DeepSeek makes the V4 Pro price discount permanent",
+      "summary": "Frontier-model pricing update making V4 Pro unusually cheap.",
+      "why_included": "Commenters focused on the price/performance tradeoff and practical integrations with agent tooling.",
+      "evidence": "One commenter said V4 Pro works with Claude Code, and another called V4 Flash the best performance per dollar for agentic workloads."
+    },
+    {
+      "category": "📚 Learn & Reference",
+      "name": "SWI-Prolog",
+      "thing_url": "https://www.swi-prolog.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48234252",
+      "source_story_title": "Chess invariants",
+      "summary": "Logic programming environment recommended as a practical starting point.",
+      "why_included": "The top comment recommended a concrete logic-programming stack instead of abstract advice.",
+      "evidence": "The comment opened with \"Just get Swi Prolog\" and paired it with the Simply Logical book as the way to start."
+    },
+    {
+      "category": "📚 Learn & Reference",
+      "name": "Simply Logical",
+      "thing_url": "https://book.simply-logical.space/src/simply-logical.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48234252",
+      "source_story_title": "Chess invariants",
+      "summary": "Introductory logic programming book recommended alongside SWI-Prolog.",
+      "why_included": "The thread’s strongest recommendation was a book-and-tool combo for getting started with logic programming.",
+      "evidence": "The same comment recommended Simply Logical as the starting book and linked its PDF/table of contents."
+    }
+  ]
+}

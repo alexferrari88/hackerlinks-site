@@ -1,0 +1,12 @@
+{
+  "evidence": "The commenter said they built WebSCAD after generating OpenSCAD with Claude and exporting into Bambu Studio, which made multicolor parts easier.",
+  "hn_url": "https://news.ycombinator.com/item?id=48234090",
+  "id": "2026-05-22:webscad:48234090",
+  "is_repeat": false,
+  "issue_id": "2026-05-22",
+  "item_id": "webscad",
+  "rank": 6,
+  "seen_at": "2026-05-22T21:12:30Z",
+  "source_story_id": "48234090",
+  "source_story_title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark"
+}

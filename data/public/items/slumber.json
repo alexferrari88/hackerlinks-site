@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "slumber",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:slumber:48231938",
+  "mention_ids": [
+    "2026-05-22:slumber:48231938"
+  ],
+  "name": "Slumber",
+  "slug": "slumber",
+  "summary": "TUI HTTP client for fast terminal-based API exploration.",
+  "thing_url": "https://slumber.lucaspickering.me",
+  "times_seen": 1,
+  "why_included": "The thread surfaced a small ecosystem of adjacent API TUIs and showed strong interest in terminal workflows."
+}

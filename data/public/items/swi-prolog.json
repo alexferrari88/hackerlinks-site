@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "swi-prolog",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:swi-prolog:48234252",
+  "mention_ids": [
+    "2026-05-22:swi-prolog:48234252"
+  ],
+  "name": "SWI-Prolog",
+  "slug": "swi-prolog",
+  "summary": "Logic programming environment recommended as a practical starting point.",
+  "thing_url": "https://www.swi-prolog.org/",
+  "times_seen": 1,
+  "why_included": "The top comment recommended a concrete logic-programming stack instead of abstract advice."
+}

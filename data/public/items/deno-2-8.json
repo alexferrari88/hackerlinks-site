@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "deno-2-8",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:deno-2-8:48234380",
+  "mention_ids": [
+    "2026-05-22:deno-2-8:48234380"
+  ],
+  "name": "Deno 2.8",
+  "slug": "deno-2-8",
+  "summary": "Runtime release adding `deno pack` and packaging workflow polish.",
+  "thing_url": "https://deno.com/blog/v2.8",
+  "times_seen": 1,
+  "why_included": "Commenters highlighted practical developer value in Deno\u2019s permission model, TypeScript support, and new packaging path."
+}

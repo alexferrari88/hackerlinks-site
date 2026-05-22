@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "kanbots",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:kanbots:48239413",
+  "mention_ids": [
+    "2026-05-22:kanbots:48239413"
+  ],
+  "name": "Kanbots",
+  "slug": "kanbots",
+  "summary": "Local-first kanban desktop app for coordinating agents on every card.",
+  "thing_url": "https://www.kanbots.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters said the local-first `.kanbots/` layout is table-stakes for adoption and compared it favorably to Vibe Kanban."
+}

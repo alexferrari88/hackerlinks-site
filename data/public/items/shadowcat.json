@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "shadowcat",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:shadowcat:48234287",
+  "mention_ids": [
+    "2026-05-22:shadowcat:48234287"
+  ],
+  "name": "ShadowCat",
+  "slug": "shadowcat",
+  "summary": "Browser-based QR file transfer tool for moving bytes without servers.",
+  "thing_url": "https://github.com/unprovable/ShadowCat",
+  "times_seen": 1,
+  "why_included": "The thread drew praise for the fountain-code QR transfer idea and surfaced adjacent tools with real demand."
+}

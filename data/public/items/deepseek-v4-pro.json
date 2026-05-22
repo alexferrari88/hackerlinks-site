@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-22T21:12:30Z",
+  "id": "deepseek-v4-pro",
+  "last_seen_at": "2026-05-22T21:12:30Z",
+  "latest_mention_id": "2026-05-22:deepseek-v4-pro:48237663",
+  "mention_ids": [
+    "2026-05-22:deepseek-v4-pro:48237663"
+  ],
+  "name": "DeepSeek V4 Pro",
+  "slug": "deepseek-v4-pro",
+  "summary": "Frontier-model pricing update making V4 Pro unusually cheap.",
+  "thing_url": "https://api-docs.deepseek.com/quick_start/pricing",
+  "times_seen": 1,
+  "why_included": "Commenters focused on the price/performance tradeoff and practical integrations with agent tooling."
+}
