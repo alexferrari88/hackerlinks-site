@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "ifdb",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:ifdb:48198615",
+  "mention_ids": [
+    "2026-05-23:ifdb:48198615"
+  ],
+  "name": "IFDB",
+  "slug": "ifdb",
+  "summary": "Interactive fiction database for finding free text games.",
+  "thing_url": "https://ifdb.org",
+  "times_seen": 1,
+  "why_included": "The comment pointed directly to it as the place to browse more games."
+}

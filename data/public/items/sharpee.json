@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "sharpee",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:sharpee:48198615",
+  "mention_ids": [
+    "2026-05-23:sharpee:48198615"
+  ],
+  "name": "Sharpee",
+  "slug": "sharpee",
+  "summary": "Text-adventure platform built with Claude.",
+  "thing_url": "https://sharpee.net/",
+  "times_seen": 1,
+  "why_included": "The thread surfaced a new platform rather than just nostalgia."
+}

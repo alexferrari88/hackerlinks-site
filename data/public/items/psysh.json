@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "psysh",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:psysh:48199314",
+  "mention_ids": [
+    "2026-05-23:psysh:48199314"
+  ],
+  "name": "PsySH",
+  "slug": "psysh",
+  "summary": "Interactive PHP shell for quick debugging and experimentation.",
+  "thing_url": "https://psysh.org/",
+  "times_seen": 1,
+  "why_included": "Commenters described it as a standout PHP tool they reach for early."
+}

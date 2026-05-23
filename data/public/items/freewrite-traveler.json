@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "freewrite-traveler",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:freewrite-traveler:48250144",
+  "mention_ids": [
+    "2026-05-23:freewrite-traveler:48250144"
+  ],
+  "name": "Freewrite Traveler",
+  "slug": "freewrite-traveler",
+  "summary": "Portable e-ink writing device with a distraction-free keyboard.",
+  "thing_url": "https://getfreewrite.com/products/freewrite-traveler",
+  "times_seen": 1,
+  "why_included": "HN commenters split hard on it, but the thread surfaced real battery-life and responsiveness benefits."
+}

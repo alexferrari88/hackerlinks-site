@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "hengefinder",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:hengefinder:48241335",
+  "mention_ids": [
+    "2026-05-23:hengefinder:48241335"
+  ],
+  "name": "Hengefinder",
+  "slug": "hengefinder",
+  "summary": "Map tool for finding sun alignments on city streets.",
+  "thing_url": "https://victoriaritvo.com/blog/hengefinder/",
+  "times_seen": 1,
+  "why_included": "A compact, concrete utility with immediate hobbyist appeal."
+}

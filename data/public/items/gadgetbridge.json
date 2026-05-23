@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "gadgetbridge",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:gadgetbridge:48247876",
+  "mention_ids": [
+    "2026-05-23:gadgetbridge:48247876"
+  ],
+  "name": "Gadgetbridge",
+  "slug": "gadgetbridge",
+  "summary": "Open-source companion app that can replace some vendor wearable apps.",
+  "thing_url": "https://codeberg.org/Freeyourgadget/Gadgetbridge",
+  "times_seen": 1,
+  "why_included": "A commenter suggested it as a practical privacy-preserving alternative."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "rofi-desktop",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:rofi-desktop:48250144",
+  "mention_ids": [
+    "2026-05-23:rofi-desktop:48250144"
+  ],
+  "name": "rofi-desktop",
+  "slug": "rofi-desktop",
+  "summary": "Minimal menu-only desktop launcher for a stripped-down personal mode.",
+  "thing_url": "https://github.com/giomatfois62/rofi-desktop",
+  "times_seen": 1,
+  "why_included": "A commenter proposed it as a concrete way to build a tiny personal-mode desktop."
+}

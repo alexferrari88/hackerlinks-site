@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "oil-shell",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:oil-shell:48245262",
+  "mention_ids": [
+    "2026-05-23:oil-shell:48245262"
+  ],
+  "name": "Oil Shell",
+  "slug": "oil-shell",
+  "summary": "Shell project aiming for a lower-friction migration path.",
+  "thing_url": "https://oils.pub/",
+  "times_seen": 1,
+  "why_included": "A commenter hoped it would become the default shell on a major distro."
+}

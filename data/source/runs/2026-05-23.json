@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "run_date": "2026-05-23",
+  "generated_at": "2026-05-23T21:13:54Z",
+  "summary": "14 concrete tools, devices, and references surfaced from HN comments.",
+  "items": [
+    {
+      "category": "🖋️ Writing & reading",
+      "name": "Freewrite Traveler",
+      "thing_url": "https://getfreewrite.com/products/freewrite-traveler",
+      "hn_url": "https://news.ycombinator.com/item?id=48250144",
+      "source_story_title": "It's time to talk about my writerdeck",
+      "summary": "Portable e-ink writing device with a distraction-free keyboard.",
+      "why_included": "HN commenters split hard on it, but the thread surfaced real battery-life and responsiveness benefits.",
+      "evidence": "One commenter said a wife bought one and highlighted battery life, the faster patch, and the no-distraction design."
+    },
+    {
+      "category": "🖋️ Writing & reading",
+      "name": "Onyx Boox Palma",
+      "thing_url": "https://onyxboox.com/boox_palma",
+      "hn_url": "https://news.ycombinator.com/item?id=48250144",
+      "source_story_title": "It's time to talk about my writerdeck",
+      "summary": "Pocket e-reader used as a portable drafting setup.",
+      "why_included": "A commenter described it as a practical portable drafting device.",
+      "evidence": "A commenter said they use the Palma for a portable e-ink drafting setup and that it has worked pretty well."
+    },
+    {
+      "category": "🖋️ Writing & reading",
+      "name": "Midnight Commander",
+      "thing_url": "https://midnight-commander.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48250144",
+      "source_story_title": "It's time to talk about my writerdeck",
+      "summary": "Orthodox file manager with editor, viewer, and diff tools.",
+      "why_included": "Commenters praised it as a practical anchor for a console-heavy writing workflow.",
+      "evidence": "One comment said it was great for the setup because of its integrated file manager, file viewer, editor, and diff."
+    },
+    {
+      "category": "🖋️ Writing & reading",
+      "name": "Wordgrinder",
+      "thing_url": "https://github.com/davidgiven/wordgrinder",
+      "hn_url": "https://news.ycombinator.com/item?id=48250144",
+      "source_story_title": "It's time to talk about my writerdeck",
+      "summary": "Console word processor for focused writing.",
+      "why_included": "A commenter recommended it directly as a better fit than a plain text editor.",
+      "evidence": "The thread explicitly said, “Consider wordgrinder, a console word processor.”"
+    },
+    {
+      "category": "🖋️ Writing & reading",
+      "name": "rofi-desktop",
+      "thing_url": "https://github.com/giomatfois62/rofi-desktop",
+      "hn_url": "https://news.ycombinator.com/item?id=48250144",
+      "source_story_title": "It's time to talk about my writerdeck",
+      "summary": "Minimal menu-only desktop launcher for a stripped-down personal mode.",
+      "why_included": "A commenter proposed it as a concrete way to build a tiny personal-mode desktop.",
+      "evidence": "One reply said the post reminded them of “rofi desktop” as a very minimal, easy-to-use mode."
+    },
+    {
+      "category": "🛠️ Shells & dev tools",
+      "name": "Oil Shell",
+      "thing_url": "https://oils.pub/",
+      "hn_url": "https://news.ycombinator.com/item?id=48245262",
+      "source_story_title": "Rubish: A Unix shell written in pure Ruby",
+      "summary": "Shell project aiming for a lower-friction migration path.",
+      "why_included": "A commenter hoped it would become the default shell on a major distro.",
+      "evidence": "The comment called it “the lowest friction migration” while still offering a bunch of improvements."
+    },
+    {
+      "category": "🛠️ Shells & dev tools",
+      "name": "PsySH",
+      "thing_url": "https://psysh.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48199314",
+      "source_story_title": "PHP's Oddities",
+      "summary": "Interactive PHP shell for quick debugging and experimentation.",
+      "why_included": "Commenters described it as a standout PHP tool they reach for early.",
+      "evidence": "One commenter said it is one of the best things in PHP and that they have solved countless problems with it."
+    },
+    {
+      "category": "🛠️ Shells & dev tools",
+      "name": "Gadgetbridge",
+      "thing_url": "https://codeberg.org/Freeyourgadget/Gadgetbridge",
+      "hn_url": "https://news.ycombinator.com/item?id=48247876",
+      "source_story_title": "Oura says it gets government demands for user data",
+      "summary": "Open-source companion app that can replace some vendor wearable apps.",
+      "why_included": "A commenter suggested it as a practical privacy-preserving alternative.",
+      "evidence": "One comment said Gadgetbridge can often be used instead of the official app."
+    },
+    {
+      "category": "🪑 Desk gear & physical products",
+      "name": "Vitsœ 606 Universal Shelving",
+      "thing_url": "https://www.vitsoe.com/us/606",
+      "hn_url": "https://news.ycombinator.com/item?id=48214311",
+      "source_story_title": "My two-part desk setup",
+      "summary": "Modular shelving system built for a long-lived office setup.",
+      "why_included": "Multiple commenters identified it and praised the build quality and longevity.",
+      "evidence": "One commenter called the setup a dream, and another said the shelving feels like it will outlast them."
+    },
+    {
+      "category": "🪑 Desk gear & physical products",
+      "name": "USM Haller Desk",
+      "thing_url": "https://us.usm.com/collections/tables-desks",
+      "hn_url": "https://news.ycombinator.com/item?id=48214311",
+      "source_story_title": "My two-part desk setup",
+      "summary": "Modular desk system featured in the two-part setup.",
+      "why_included": "Commenters singled it out as part of a highly desirable modular office build.",
+      "evidence": "One commenter named the USM Haller desk directly alongside the Vitsoe shelving."
+    },
+    {
+      "category": "🪑 Desk gear & physical products",
+      "name": "Akari paper lantern",
+      "thing_url": "https://shop.noguchi.org/collections/akari-light-sculptures",
+      "hn_url": "https://news.ycombinator.com/item?id=48214311",
+      "source_story_title": "My two-part desk setup",
+      "summary": "Noguchi paper lantern used as soft ambient desk lighting.",
+      "why_included": "A commenter identified the lamp and called out the design.",
+      "evidence": "One comment said the shelf lamp is probably an Akari paper lantern and mentioned liking theirs."
+    },
+    {
+      "category": "🧭 Maps & planning",
+      "name": "Hengefinder",
+      "thing_url": "https://victoriaritvo.com/blog/hengefinder/",
+      "hn_url": "https://news.ycombinator.com/item?id=48241335",
+      "source_story_title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+      "summary": "Map tool for finding sun alignments on city streets.",
+      "why_included": "A compact, concrete utility with immediate hobbyist appeal.",
+      "evidence": "Commenters compared it to The Photographer’s Ephemeris and NASA Horizons as useful light-planning tools."
+    },
+    {
+      "category": "🎮 Interactive fiction",
+      "name": "Sharpee",
+      "thing_url": "https://sharpee.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48198615",
+      "source_story_title": "Solving the “Zork” Mystery",
+      "summary": "Text-adventure platform built with Claude.",
+      "why_included": "The thread surfaced a new platform rather than just nostalgia.",
+      "evidence": "A commenter said they built their own platform and that thousands of free text games are available."
+    },
+    {
+      "category": "🎮 Interactive fiction",
+      "name": "IFDB",
+      "thing_url": "https://ifdb.org",
+      "hn_url": "https://news.ycombinator.com/item?id=48198615",
+      "source_story_title": "Solving the “Zork” Mystery",
+      "summary": "Interactive fiction database for finding free text games.",
+      "why_included": "The comment pointed directly to it as the place to browse more games.",
+      "evidence": "The same comment said, “Check out ifdb.org for more.”"
+    }
+  ]
+}

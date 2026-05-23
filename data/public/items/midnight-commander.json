@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-23T21:13:54Z",
+  "id": "midnight-commander",
+  "last_seen_at": "2026-05-23T21:13:54Z",
+  "latest_mention_id": "2026-05-23:midnight-commander:48250144",
+  "mention_ids": [
+    "2026-05-23:midnight-commander:48250144"
+  ],
+  "name": "Midnight Commander",
+  "slug": "midnight-commander",
+  "summary": "Orthodox file manager with editor, viewer, and diff tools.",
+  "thing_url": "https://midnight-commander.org/",
+  "times_seen": 1,
+  "why_included": "Commenters praised it as a practical anchor for a console-heavy writing workflow."
+}
