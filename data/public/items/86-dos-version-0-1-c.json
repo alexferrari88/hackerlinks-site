@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "86-dos-version-0-1-c",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:86-dos-version-0-1-c:48253386",
+  "mention_ids": [
+    "2026-05-24:86-dos-version-0-1-c:48253386"
+  ],
+  "name": "86-DOS version 0.1-C",
+  "slug": "86-dos-version-0-1-c",
+  "summary": "An original 86-DOS disk image, the MS-DOS precursor.",
+  "thing_url": "https://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk",
+  "times_seen": 1,
+  "why_included": "Commenters highlighted it as an even earlier surviving release that you can still run."
+}

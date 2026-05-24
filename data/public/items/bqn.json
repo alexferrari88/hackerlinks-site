@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "bqn",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:bqn:48256475",
+  "mention_ids": [
+    "2026-05-24:bqn:48256475"
+  ],
+  "name": "BQN",
+  "slug": "bqn",
+  "summary": "A modern APL-style array language with a quick-start guide.",
+  "thing_url": "https://mlochbaum.github.io/BQN/doc/quick.html",
+  "times_seen": 1,
+  "why_included": "It surfaced as a concrete follow-on resource for the APL learning thread."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "deepseek-reasonix",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:deepseek-reasonix:48256953",
+  "mention_ids": [
+    "2026-05-24:deepseek-reasonix:48256953"
+  ],
+  "name": "DeepSeek reasonix",
+  "slug": "deepseek-reasonix",
+  "summary": "A low-cost coding agent with aggressive context caching.",
+  "thing_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+  "times_seen": 1,
+  "why_included": "Commenters kept comparing it favorably with other coding agents and cheap model choices."
+}

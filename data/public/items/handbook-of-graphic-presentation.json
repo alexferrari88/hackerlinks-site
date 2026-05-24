@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "handbook-of-graphic-presentation",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:handbook-of-graphic-presentation:48223997",
+  "mention_ids": [
+    "2026-05-24:handbook-of-graphic-presentation:48223997"
+  ],
+  "name": "Handbook of Graphic Presentation",
+  "slug": "handbook-of-graphic-presentation",
+  "summary": "A classic data-graphics handbook on clearer charts.",
+  "thing_url": "https://archive.org/details/HandbookOfGraphicPresentation",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended adding it to the list as a useful reference."
+}

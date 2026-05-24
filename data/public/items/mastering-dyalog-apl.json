@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "mastering-dyalog-apl",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:mastering-dyalog-apl:48256475",
+  "mention_ids": [
+    "2026-05-24:mastering-dyalog-apl:48256475"
+  ],
+  "name": "Mastering Dyalog APL",
+  "slug": "mastering-dyalog-apl",
+  "summary": "A free Dyalog APL book for learning array programming.",
+  "thing_url": "https://mastering.dyalog.com/README.html",
+  "times_seen": 1,
+  "why_included": "Commenters described it as a motivating way to ramp into APL."
+}

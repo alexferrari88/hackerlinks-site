@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "run_date": "2026-05-24",
+  "generated_at": "2026-05-24T21:19:07Z",
+  "summary": "8 items surfaced from 22 scraped stories.",
+  "items": [
+    {
+      "name": "DeepSeek reasonix",
+      "thing_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "hn_url": "https://news.ycombinator.com/item?id=48256953",
+      "source_story_title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "summary": "A low-cost coding agent with aggressive context caching.",
+      "why_included": "Commenters kept comparing it favorably with other coding agents and cheap model choices.",
+      "evidence": "HN comments said DeepSeek V4 Pro was a preferred cheap model and paired DeepSeek with opencode and Claude Code."
+    },
+    {
+      "name": "Firefox Adafruit Web Serial",
+      "thing_url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "hn_url": "https://news.ycombinator.com/item?id=48231547",
+      "source_story_title": "Build Adafruit projects right from Firefox",
+      "summary": "A Firefox Web Serial flow for building Adafruit projects.",
+      "why_included": "Commenters called it a genuinely useful beginner-friendly browser feature.",
+      "evidence": "One commenter said “Great to see Firefox getting on board,” and another called it an “Amazing feature for beginners.”"
+    },
+    {
+      "name": "Handbook of Graphic Presentation",
+      "thing_url": "https://archive.org/details/HandbookOfGraphicPresentation",
+      "hn_url": "https://news.ycombinator.com/item?id=48223997",
+      "source_story_title": "I spent 50 hours drawing a line graph",
+      "summary": "A classic data-graphics handbook on clearer charts.",
+      "why_included": "A commenter explicitly recommended adding it to the list as a useful reference.",
+      "evidence": "The thread included “You should add in Calvin Schmid’s Handbook of Graphic Presentation into your list.”"
+    },
+    {
+      "name": "Mastering Dyalog APL",
+      "thing_url": "https://mastering.dyalog.com/README.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48256475",
+      "source_story_title": "Mastering Dyalog APL",
+      "summary": "A free Dyalog APL book for learning array programming.",
+      "why_included": "Commenters described it as a motivating way to ramp into APL.",
+      "evidence": "One comment said it gave “dopamine hits” and was a nice way to ramp up, while others linked Dyalog editor resources and BQN docs."
+    },
+    {
+      "name": "Usborne 1980s Computer Books",
+      "thing_url": "https://usborne.com/us/books/computer-and-coding-books",
+      "hn_url": "https://news.ycombinator.com/item?id=48258194",
+      "source_story_title": "Usborne 1980s Computer Books",
+      "summary": "A free archive of nostalgic beginner-friendly computer books.",
+      "why_included": "The thread was full of childhood memories and praise for the books’ clarity.",
+      "evidence": "Commenters praised the “clear instruction and evocative old-school art” and said the BASIC books started their coding journey."
+    },
+    {
+      "name": "Ruby for Good",
+      "thing_url": "https://ti.to/codeforgood/rubyforgood",
+      "hn_url": "https://news.ycombinator.com/item?id=48258254",
+      "source_story_title": "Ruby for Good",
+      "summary": "A friendly Ruby event for maintaining real open-source projects.",
+      "why_included": "The comments made it sound like a hands-on community gathering rather than a generic conference.",
+      "evidence": "The founder said it is “absolutely not a hackathon,” and a volunteer said they had “a great experience.”"
+    },
+    {
+      "name": "86-DOS version 0.1-C",
+      "thing_url": "https://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk",
+      "hn_url": "https://news.ycombinator.com/item?id=48253386",
+      "source_story_title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "summary": "An original 86-DOS disk image, the MS-DOS precursor.",
+      "why_included": "Commenters highlighted it as an even earlier surviving release that you can still run.",
+      "evidence": "One comment noted the 0.1-C binaries are earlier than the source release and can be downloaded and used in an emulator."
+    },
+    {
+      "name": "BQN",
+      "thing_url": "https://mlochbaum.github.io/BQN/doc/quick.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48256475",
+      "source_story_title": "Mastering Dyalog APL",
+      "summary": "A modern APL-style array language with a quick-start guide.",
+      "why_included": "It surfaced as a concrete follow-on resource for the APL learning thread.",
+      "evidence": "A commenter linked the BQN repo and quick guide alongside other APL editor resources."
+    }
+  ]
+}

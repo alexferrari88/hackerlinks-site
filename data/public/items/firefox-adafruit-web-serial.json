@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "firefox-adafruit-web-serial",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:firefox-adafruit-web-serial:48231547",
+  "mention_ids": [
+    "2026-05-24:firefox-adafruit-web-serial:48231547"
+  ],
+  "name": "Firefox Adafruit Web Serial",
+  "slug": "firefox-adafruit-web-serial",
+  "summary": "A Firefox Web Serial flow for building Adafruit projects.",
+  "thing_url": "https://www.firefox.com/en-US/landing/adafruit/",
+  "times_seen": 1,
+  "why_included": "Commenters called it a genuinely useful beginner-friendly browser feature."
+}

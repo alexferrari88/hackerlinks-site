@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-24T21:19:07Z",
+  "id": "ruby-for-good",
+  "last_seen_at": "2026-05-24T21:19:07Z",
+  "latest_mention_id": "2026-05-24:ruby-for-good:48258254",
+  "mention_ids": [
+    "2026-05-24:ruby-for-good:48258254"
+  ],
+  "name": "Ruby for Good",
+  "slug": "ruby-for-good",
+  "summary": "A friendly Ruby event for maintaining real open-source projects.",
+  "thing_url": "https://ti.to/codeforgood/rubyforgood",
+  "times_seen": 1,
+  "why_included": "The comments made it sound like a hands-on community gathering rather than a generic conference."
+}

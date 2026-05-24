@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T21:19:07Z",
+  "headline": "8 interesting things surfaced from HN on 2026-05-24",
+  "id": "2026-05-24",
+  "mention_ids": [
+    "2026-05-24:deepseek-reasonix:48256953",
+    "2026-05-24:firefox-adafruit-web-serial:48231547",
+    "2026-05-24:handbook-of-graphic-presentation:48223997",
+    "2026-05-24:mastering-dyalog-apl:48256475",
+    "2026-05-24:usborne-1980s-computer-books:48258194",
+    "2026-05-24:ruby-for-good:48258254",
+    "2026-05-24:86-dos-version-0-1-c:48253386",
+    "2026-05-24:bqn:48256475"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
