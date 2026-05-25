@@ -461,8 +461,8 @@
     {
       "name": "DeepSeek reasonix",
       "first_reported_at": "2026-05-24T21:19:07Z",
-      "last_reported_at": "2026-05-24T21:19:07Z",
-      "times_reported": 1
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 2
     },
     {
       "name": "DeepSeek V4 Preview",
@@ -2538,6 +2538,54 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Chert",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Geomatic",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "White Rabbit",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Audiomass",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Unikraft",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Hetzner Cloud",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Brevo",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "UpDown.io",
+      "first_reported_at": "2026-05-25T21:20:05Z",
+      "last_reported_at": "2026-05-25T21:20:05Z",
       "times_reported": 1
     }
   ]

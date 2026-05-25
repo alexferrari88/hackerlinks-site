@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "updown-io",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:updown-io:48270111",
+  "mention_ids": [
+    "2026-05-25:updown-io:48270111"
+  ],
+  "name": "UpDown.io",
+  "slug": "updown-io",
+  "summary": "Monitoring service recommended as a dependable stack addition.",
+  "thing_url": "https://updown.io/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly called it out as their preferred monitoring service."
+}

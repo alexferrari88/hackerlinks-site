@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "unikraft",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:unikraft:48270111",
+  "mention_ids": [
+    "2026-05-25:unikraft:48270111"
+  ],
+  "name": "Unikraft",
+  "slug": "unikraft",
+  "summary": "EU-hosted compute platform with free instances and Docker deploys.",
+  "thing_url": "https://unikraft.com/pricing",
+  "times_seen": 1,
+  "why_included": "A commenter singled it out as an unusually strong cheap compute option for EU-based bootstrappers."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "hetzner-cloud",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:hetzner-cloud:48270111",
+  "mention_ids": [
+    "2026-05-25:hetzner-cloud:48270111"
+  ],
+  "name": "Hetzner Cloud",
+  "slug": "hetzner-cloud",
+  "summary": "Low-cost EU cloud hosting for bootstrapped services.",
+  "thing_url": "https://www.hetzner.com/cloud",
+  "times_seen": 1,
+  "why_included": "Multiple commenters treated Hetzner as a reliable default for local-first EU infrastructure."
+}

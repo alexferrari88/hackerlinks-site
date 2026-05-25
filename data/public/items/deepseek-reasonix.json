@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-24T21:19:07Z",
   "id": "deepseek-reasonix",
-  "last_seen_at": "2026-05-24T21:19:07Z",
-  "latest_mention_id": "2026-05-24:deepseek-reasonix:48256953",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:deepseek-reasonix:48256953",
   "mention_ids": [
-    "2026-05-24:deepseek-reasonix:48256953"
+    "2026-05-24:deepseek-reasonix:48256953",
+    "2026-05-25:deepseek-reasonix:48256953"
   ],
-  "name": "DeepSeek reasonix",
+  "name": "DeepSeek Reasonix",
   "slug": "deepseek-reasonix",
-  "summary": "A low-cost coding agent with aggressive context caching.",
+  "summary": "Terminal coding agent tuned for DeepSeek cache efficiency.",
   "thing_url": "https://esengine.github.io/DeepSeek-Reasonix/",
-  "times_seen": 1,
-  "why_included": "Commenters kept comparing it favorably with other coding agents and cheap model choices."
+  "times_seen": 2,
+  "why_included": "The thread debated cache-friendly agent loops, context stability, and low-cost coding workflows."
 }

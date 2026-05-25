@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "white-rabbit",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:white-rabbit:48245916",
+  "mention_ids": [
+    "2026-05-25:white-rabbit:48245916"
+  ],
+  "name": "White Rabbit",
+  "slug": "white-rabbit",
+  "summary": "Hardware timing system for sub-nanosecond distributed synchronization.",
+  "thing_url": "https://ohwr.org/projects/white-rabbit/",
+  "times_seen": 1,
+  "why_included": "The thread centered on real timing hardware, measured precision, and systems-level impact."
+}

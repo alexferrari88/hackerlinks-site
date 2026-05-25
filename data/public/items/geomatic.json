@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "geomatic",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:geomatic:48264635",
+  "mention_ids": [
+    "2026-05-25:geomatic:48264635"
+  ],
+  "name": "Geomatic",
+  "slug": "geomatic",
+  "summary": "Command-driven geometry studio with autodiff and reactive geometry.",
+  "thing_url": "https://www.tinyvolt.com/geomatic",
+  "times_seen": 1,
+  "why_included": "Commenters surfaced onboarding fixes and a concrete example bug, showing active early adoption."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "brevo",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:brevo:48270111",
+  "mention_ids": [
+    "2026-05-25:brevo:48270111"
+  ],
+  "name": "Brevo",
+  "slug": "brevo",
+  "summary": "Transactional email service recommended after SendGrid's free-plan changes.",
+  "thing_url": "https://www.brevo.com/",
+  "times_seen": 1,
+  "why_included": "The thread gave it direct praise as a practical replacement for SendGrid."
+}

@@ -1,0 +1,98 @@
+{
+  "version": 2,
+  "run_date": "2026-05-25",
+  "generated_at": "2026-05-25T21:20:05Z",
+  "summary": "9 concrete products and services surfaced from launch, show, and EU-stack discussions.",
+  "items": [
+    {
+      "name": "Chert",
+      "thing_url": "https://www.trychert.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48267829",
+      "source_story_title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "API for sending and receiving iMessages at scale.",
+      "why_included": "HN comments focused on Apple throttling, line health, and scaling infrastructure for iMessage workflows.",
+      "evidence": "Commenters debated rotating identities, line health checks, and the risk of unlimited blast volume claims."
+    },
+    {
+      "name": "DeepSeek Reasonix",
+      "thing_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "hn_url": "https://news.ycombinator.com/item?id=48256953",
+      "source_story_title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Terminal coding agent tuned for DeepSeek cache efficiency.",
+      "why_included": "The thread debated cache-friendly agent loops, context stability, and low-cost coding workflows.",
+      "evidence": "Comments highlighted append-only prompts, 90%+ cache-hit claims, and schema-aware tool-call repair."
+    },
+    {
+      "name": "Geomatic",
+      "thing_url": "https://www.tinyvolt.com/geomatic",
+      "hn_url": "https://news.ycombinator.com/item?id=48264635",
+      "source_story_title": "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Command-driven geometry studio with autodiff and reactive geometry.",
+      "why_included": "Commenters surfaced onboarding fixes and a concrete example bug, showing active early adoption.",
+      "evidence": "One commenter linked a better getting-started page; another reported an unknown command: n-star bug."
+    },
+    {
+      "name": "White Rabbit",
+      "thing_url": "https://ohwr.org/projects/white-rabbit/",
+      "hn_url": "https://news.ycombinator.com/item?id=48245916",
+      "source_story_title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Hardware timing system for sub-nanosecond distributed synchronization.",
+      "why_included": "The thread centered on real timing hardware, measured precision, and systems-level impact.",
+      "evidence": "Comments cited ~10 ps jitter over 50 km fiber and pointed readers to the White Rabbit synchronization docs."
+    },
+    {
+      "name": "Audiomass",
+      "thing_url": "https://audiomass.co/?multitrack=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48258015",
+      "source_story_title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "category": "🎧 Creative Tools",
+      "summary": "Free browser audio editor with multitrack editing.",
+      "why_included": "Commenters praised the fast web UI and offline/PWA mode, with strong comparisons to desktop tools.",
+      "evidence": "Users called it great, said they were dreading Audacity, and highlighted offline mode and multitrack editing."
+    },
+    {
+      "name": "Unikraft",
+      "thing_url": "https://unikraft.com/pricing",
+      "hn_url": "https://news.ycombinator.com/item?id=48270111",
+      "source_story_title": "The bootstrapper's EU stack for under €10 per month",
+      "category": "🌍 EU Stack & Hosting",
+      "summary": "EU-hosted compute platform with free instances and Docker deploys.",
+      "why_included": "A commenter singled it out as an unusually strong cheap compute option for EU-based bootstrappers.",
+      "evidence": "The thread praised 2 free instances, EU hosting, and deploys via Dockerfile or Docker Compose."
+    },
+    {
+      "name": "Hetzner Cloud",
+      "thing_url": "https://www.hetzner.com/cloud",
+      "hn_url": "https://news.ycombinator.com/item?id=48270111",
+      "source_story_title": "The bootstrapper's EU stack for under €10 per month",
+      "category": "🌍 EU Stack & Hosting",
+      "summary": "Low-cost EU cloud hosting for bootstrapped services.",
+      "why_included": "Multiple commenters treated Hetzner as a reliable default for local-first EU infrastructure.",
+      "evidence": "One commenter listed Hetzner Cloud, Box, and Object Storage as long-time services they happily recommend."
+    },
+    {
+      "name": "Brevo",
+      "thing_url": "https://www.brevo.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48270111",
+      "source_story_title": "The bootstrapper's EU stack for under €10 per month",
+      "category": "🌍 EU Stack & Hosting",
+      "summary": "Transactional email service recommended after SendGrid's free-plan changes.",
+      "why_included": "The thread gave it direct praise as a practical replacement for SendGrid.",
+      "evidence": "Commenters said they moved from SendGrid to Brevo and saw solid deliverability on Google and Microsoft 365."
+    },
+    {
+      "name": "UpDown.io",
+      "thing_url": "https://updown.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48270111",
+      "source_story_title": "The bootstrapper's EU stack for under €10 per month",
+      "category": "🌍 EU Stack & Hosting",
+      "summary": "Monitoring service recommended as a dependable stack addition.",
+      "why_included": "A commenter explicitly called it out as their preferred monitoring service.",
+      "evidence": "The recommendation said UpDown.io was the monitor they use and recommend, even though it was missing from the original list."
+    }
+  ]
+}

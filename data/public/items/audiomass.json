@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "audiomass",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:audiomass:48258015",
+  "mention_ids": [
+    "2026-05-25:audiomass:48258015"
+  ],
+  "name": "Audiomass",
+  "slug": "audiomass",
+  "summary": "Free browser audio editor with multitrack editing.",
+  "thing_url": "https://audiomass.co/?multitrack=1",
+  "times_seen": 1,
+  "why_included": "Commenters praised the fast web UI and offline/PWA mode, with strong comparisons to desktop tools."
+}

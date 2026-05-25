@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-25T21:20:05Z",
+  "id": "chert",
+  "last_seen_at": "2026-05-25T21:20:05Z",
+  "latest_mention_id": "2026-05-25:chert:48267829",
+  "mention_ids": [
+    "2026-05-25:chert:48267829"
+  ],
+  "name": "Chert",
+  "slug": "chert",
+  "summary": "API for sending and receiving iMessages at scale.",
+  "thing_url": "https://www.trychert.com/",
+  "times_seen": 1,
+  "why_included": "HN comments focused on Apple throttling, line health, and scaling infrastructure for iMessage workflows."
+}

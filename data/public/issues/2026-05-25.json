@@ -1,0 +1,22 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T21:20:05Z",
+  "headline": "9 interesting things surfaced from HN on 2026-05-25",
+  "id": "2026-05-25",
+  "mention_ids": [
+    "2026-05-25:chert:48267829",
+    "2026-05-25:deepseek-reasonix:48256953",
+    "2026-05-25:geomatic:48264635",
+    "2026-05-25:white-rabbit:48245916",
+    "2026-05-25:audiomass:48258015",
+    "2026-05-25:unikraft:48270111",
+    "2026-05-25:hetzner-cloud:48270111",
+    "2026-05-25:brevo:48270111",
+    "2026-05-25:updown-io:48270111"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

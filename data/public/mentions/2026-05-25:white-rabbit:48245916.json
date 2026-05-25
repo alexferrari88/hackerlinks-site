@@ -1,0 +1,12 @@
+{
+  "evidence": "Comments cited ~10 ps jitter over 50 km fiber and pointed readers to the White Rabbit synchronization docs.",
+  "hn_url": "https://news.ycombinator.com/item?id=48245916",
+  "id": "2026-05-25:white-rabbit:48245916",
+  "is_repeat": false,
+  "issue_id": "2026-05-25",
+  "item_id": "white-rabbit",
+  "rank": 4,
+  "seen_at": "2026-05-25T21:20:05Z",
+  "source_story_id": "48245916",
+  "source_story_title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems"
+}
