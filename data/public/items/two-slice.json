@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "two-slice",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:two-slice:48271448",
+  "mention_ids": [
+    "2026-05-26:two-slice:48271448"
+  ],
+  "name": "Two Slice",
+  "slug": "two-slice",
+  "summary": "A 2-pixel-high bitmap font that still manages to be readable.",
+  "thing_url": "https://joefatula.com/twoslice.html",
+  "times_seen": 1,
+  "why_included": "Direct reader praise for readability despite extreme size constraints."
+}

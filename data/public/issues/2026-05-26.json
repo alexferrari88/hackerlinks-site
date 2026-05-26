@@ -1,0 +1,22 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T21:11:22Z",
+  "headline": "9 interesting things surfaced from HN on 2026-05-26",
+  "id": "2026-05-26",
+  "mention_ids": [
+    "2026-05-26:minicor:48280729",
+    "2026-05-26:dynip:48276363",
+    "2026-05-26:rosalind:48222600",
+    "2026-05-26:geist-pixel:48271448",
+    "2026-05-26:two-slice:48271448",
+    "2026-05-26:departure-mono:48271448",
+    "2026-05-26:topaz:48271448",
+    "2026-05-26:vellum:48238703",
+    "2026-05-26:standard-ebooks:48238703"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

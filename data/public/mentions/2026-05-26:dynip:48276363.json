@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters highlighted RFC 2136/TSIG updates, IPv6, DNSSEC, BYOD, and Docker-based updater tooling.",
+  "hn_url": "https://news.ycombinator.com/item?id=48276363",
+  "id": "2026-05-26:dynip:48276363",
+  "is_repeat": false,
+  "issue_id": "2026-05-26",
+  "item_id": "dynip",
+  "rank": 2,
+  "seen_at": "2026-05-26T21:11:22Z",
+  "source_story_id": "48276363",
+  "source_story_title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD"
+}

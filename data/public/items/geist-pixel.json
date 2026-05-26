@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "geist-pixel",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:geist-pixel:48271448",
+  "mention_ids": [
+    "2026-05-26:geist-pixel:48271448"
+  ],
+  "name": "Geist Pixel",
+  "slug": "geist-pixel",
+  "summary": "Vercel\u2019s pixel display font for expressive UI, logos, and system-style text.",
+  "thing_url": "https://vercel.com/blog/introducing-geist-pixel",
+  "times_seen": 1,
+  "why_included": "Strong positive mention in a thread full of concrete font recommendations."
+}

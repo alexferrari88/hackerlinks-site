@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "minicor",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:minicor:48280729",
+  "mention_ids": [
+    "2026-05-26:minicor:48280729"
+  ],
+  "name": "Minicor",
+  "slug": "minicor",
+  "summary": "Windows desktop automation at scale, built around Python RPA, replay logs, and MCP debugging.",
+  "thing_url": "https://www.minicor.com/",
+  "times_seen": 1,
+  "why_included": "Concrete launch thread with detailed operational discussion about legacy-app automation."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "rosalind",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:rosalind:48222600",
+  "mention_ids": [
+    "2026-05-26:rosalind:48222600"
+  ],
+  "name": "Rosalind",
+  "slug": "rosalind",
+  "summary": "Rust genomics toolkit for whole-genome pipelines on a laptop.",
+  "thing_url": "https://github.com/logannye/rosalind",
+  "times_seen": 1,
+  "why_included": "Concrete open-source toolkit with active discussion about Rust adoption in bioinformatics."
+}

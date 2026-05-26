@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-05-26",
+  "generated_at": "2026-05-26T21:11:22Z",
+  "summary": {
+    "stories_processed": 24,
+    "items_reported": 9,
+    "categories": {
+      "🛠️ Dev Tools & Automation": 2,
+      "🧬 Bioinformatics": 1,
+      "🎨 Fonts & Typography": 4,
+      "📚 Publishing & Ebooks": 2
+    },
+    "history_updated": true
+  },
+  "items": [
+    {
+      "category": "🛠️ Dev Tools & Automation",
+      "name": "Minicor",
+      "thing_url": "https://www.minicor.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48280729",
+      "source_story_title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "summary": "Windows desktop automation at scale, built around Python RPA, replay logs, and MCP debugging.",
+      "why_included": "Concrete launch thread with detailed operational discussion about legacy-app automation.",
+      "evidence": "HN commenters discussed Python RPA, VM replay logs, deterministic workflows, and agent-assisted debugging."
+    },
+    {
+      "category": "🛠️ Dev Tools & Automation",
+      "name": "DynIP",
+      "thing_url": "https://dynip.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48276363",
+      "source_story_title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "summary": "Dynamic DNS platform with RFC 2136, IPv6, DNSSEC, and bring-your-own-domain support.",
+      "why_included": "Clear product discussion around modern DNS features and deployment workflows.",
+      "evidence": "Commenters highlighted RFC 2136/TSIG updates, IPv6, DNSSEC, BYOD, and Docker-based updater tooling."
+    },
+    {
+      "category": "🧬 Bioinformatics",
+      "name": "Rosalind",
+      "thing_url": "https://github.com/logannye/rosalind",
+      "hn_url": "https://news.ycombinator.com/item?id=48222600",
+      "source_story_title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "summary": "Rust genomics toolkit for whole-genome pipelines on a laptop.",
+      "why_included": "Concrete open-source toolkit with active discussion about Rust adoption in bioinformatics.",
+      "evidence": "HN commenters were interested in Rust for computational biology and debated the project’s novelty and validation."
+    },
+    {
+      "category": "🎨 Fonts & Typography",
+      "name": "Geist Pixel",
+      "thing_url": "https://vercel.com/blog/introducing-geist-pixel",
+      "hn_url": "https://news.ycombinator.com/item?id=48271448",
+      "source_story_title": "A few interesting modern pixel fonts",
+      "summary": "Vercel’s pixel display font for expressive UI, logos, and system-style text.",
+      "why_included": "Strong positive mention in a thread full of concrete font recommendations.",
+      "evidence": "Commenters said Geist Pixel was “not a novelty font” but a “system extension,” and compared it to other pixel fonts."
+    },
+    {
+      "category": "🎨 Fonts & Typography",
+      "name": "Two Slice",
+      "thing_url": "https://joefatula.com/twoslice.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48271448",
+      "source_story_title": "A few interesting modern pixel fonts",
+      "summary": "A 2-pixel-high bitmap font that still manages to be readable.",
+      "why_included": "Direct reader praise for readability despite extreme size constraints.",
+      "evidence": "A commenter called Two Slice “shockingly readable” and singled it out as surprisingly legible."
+    },
+    {
+      "category": "🎨 Fonts & Typography",
+      "name": "Departure Mono",
+      "thing_url": "https://departuremono.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48271448",
+      "source_story_title": "A few interesting modern pixel fonts",
+      "summary": "Monospaced pixel font with a lo-fi technical vibe.",
+      "why_included": "Named by commenters as a favorite among modern pixel fonts.",
+      "evidence": "A commenter recommended Departure Mono as another favorite modern pixel font."
+    },
+    {
+      "category": "🎨 Fonts & Typography",
+      "name": "Topaz",
+      "thing_url": "https://www.typography.com/fonts/topaz/overview",
+      "hn_url": "https://news.ycombinator.com/item?id=48271448",
+      "source_story_title": "A few interesting modern pixel fonts",
+      "summary": "Classic bitmap font still beloved for terminals and IDEs.",
+      "why_included": "Commenters still use it and explicitly called it a favorite.",
+      "evidence": "One commenter said they wanted a better Topaz and called it their favorite font."
+    },
+    {
+      "category": "📚 Publishing & Ebooks",
+      "name": "Vellum",
+      "thing_url": "https://vellum.pub/",
+      "hn_url": "https://news.ycombinator.com/item?id=48238703",
+      "source_story_title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "summary": "Mac ebook-formatting software for polished EPUB and print output.",
+      "why_included": "A commenter recommended it as the better option for fiction EPUB workflows.",
+      "evidence": "HN discussion contrasted Vellum with clunky InDesign EPUB output and recommended it for fiction publishing."
+    },
+    {
+      "category": "📚 Publishing & Ebooks",
+      "name": "Standard Ebooks",
+      "thing_url": "https://standardebooks.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48238703",
+      "source_story_title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "summary": "Free, standards-driven ebook project with careful typography and formatting.",
+      "why_included": "Suggested as a high-quality baseline for accessible ebook production.",
+      "evidence": "A commenter recommended Standard Ebooks as a solid baseline for standards-compliant, accessible ebooks."
+    }
+  ]
+}

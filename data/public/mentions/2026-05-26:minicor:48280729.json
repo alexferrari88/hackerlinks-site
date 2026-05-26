@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters discussed Python RPA, VM replay logs, deterministic workflows, and agent-assisted debugging.",
+  "hn_url": "https://news.ycombinator.com/item?id=48280729",
+  "id": "2026-05-26:minicor:48280729",
+  "is_repeat": false,
+  "issue_id": "2026-05-26",
+  "item_id": "minicor",
+  "rank": 1,
+  "seen_at": "2026-05-26T21:11:22Z",
+  "source_story_id": "48280729",
+  "source_story_title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale"
+}

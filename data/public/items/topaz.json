@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "topaz",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:topaz:48271448",
+  "mention_ids": [
+    "2026-05-26:topaz:48271448"
+  ],
+  "name": "Topaz",
+  "slug": "topaz",
+  "summary": "Classic bitmap font still beloved for terminals and IDEs.",
+  "thing_url": "https://www.typography.com/fonts/topaz/overview",
+  "times_seen": 1,
+  "why_included": "Commenters still use it and explicitly called it a favorite."
+}

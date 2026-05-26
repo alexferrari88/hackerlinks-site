@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "standard-ebooks",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:standard-ebooks:48238703",
+  "mention_ids": [
+    "2026-05-26:standard-ebooks:48238703"
+  ],
+  "name": "Standard Ebooks",
+  "slug": "standard-ebooks",
+  "summary": "Free, standards-driven ebook project with careful typography and formatting.",
+  "thing_url": "https://standardebooks.org/",
+  "times_seen": 1,
+  "why_included": "Suggested as a high-quality baseline for accessible ebook production."
+}

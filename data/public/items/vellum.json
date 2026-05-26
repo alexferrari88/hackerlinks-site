@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-26T21:11:22Z",
+  "id": "vellum",
+  "last_seen_at": "2026-05-26T21:11:22Z",
+  "latest_mention_id": "2026-05-26:vellum:48238703",
+  "mention_ids": [
+    "2026-05-26:vellum:48238703"
+  ],
+  "name": "Vellum",
+  "slug": "vellum",
+  "summary": "Mac ebook-formatting software for polished EPUB and print output.",
+  "thing_url": "https://vellum.pub/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as the better option for fiction EPUB workflows."
+}
