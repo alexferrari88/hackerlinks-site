@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "ready-set-bet",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:ready-set-bet:48268185",
+  "mention_ids": [
+    "2026-05-27:ready-set-bet:48268185"
+  ],
+  "name": "Ready Set Bet",
+  "slug": "ready-set-bet",
+  "summary": "Real-time horse-racing betting board game.",
+  "thing_url": "https://www.alderac.com/ready-set-bet/",
+  "times_seen": 1,
+  "why_included": "It came up as the more accessible recommendation in the horse-racing thread."
+}

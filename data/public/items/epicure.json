@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "epicure",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:epicure:48291225",
+  "mention_ids": [
+    "2026-05-27:epicure:48291225"
+  ],
+  "name": "Epicure",
+  "slug": "epicure",
+  "summary": "Cooking app for browsing ingredient flavor pairings.",
+  "thing_url": "https://epicure.kaikaku.ai/",
+  "times_seen": 1,
+  "why_included": "It was the concrete tool commenters used to turn the paper\u2019s ideas into something usable."
+}

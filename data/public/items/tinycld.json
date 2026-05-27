@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "tinycld",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:tinycld:48295071",
+  "mention_ids": [
+    "2026-05-27:tinycld:48295071"
+  ],
+  "name": "TinyCld",
+  "slug": "tinycld",
+  "summary": "Open-source workspace for mail, calendar, docs, drive, and apps.",
+  "thing_url": "https://tinycld.org/",
+  "times_seen": 1,
+  "why_included": "Author comments made it clear this is a real, shipping workspace with native app and web support."
+}

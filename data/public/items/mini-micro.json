@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "mini-micro",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:mini-micro:48291947",
+  "mention_ids": [
+    "2026-05-27:mini-micro:48291947"
+  ],
+  "name": "Mini Micro",
+  "slug": "mini-micro",
+  "summary": "Fantasy computer and scripting environment for hobbyist programming.",
+  "thing_url": "https://miniscript.org/MiniMicro/index.html#about",
+  "times_seen": 1,
+  "why_included": "The thread pointed to the MiniScript docs and open-source core, which makes it unusually concrete."
+}

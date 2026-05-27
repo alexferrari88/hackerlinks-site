@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "sc2k-fix",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:sc2k-fix:48297645",
+  "mention_ids": [
+    "2026-05-27:sc2k-fix:48297645"
+  ],
+  "name": "SC2K Fix",
+  "slug": "sc2k-fix",
+  "summary": "Patch that runs SimCity 3000\u2019s Windows 95 version on modern PCs.",
+  "thing_url": "https://sc2kfix.net/",
+  "times_seen": 1,
+  "why_included": "It solves a concrete compatibility problem commenters still care about."
+}

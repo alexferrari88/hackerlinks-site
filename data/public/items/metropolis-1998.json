@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "metropolis-1998",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:metropolis-1998:48297645",
+  "mention_ids": [
+    "2026-05-27:metropolis-1998:48297645"
+  ],
+  "name": "Metropolis 1998",
+  "slug": "metropolis-1998",
+  "summary": "Retro city builder with modern simulation features.",
+  "thing_url": "https://store.steampowered.com/app/2287430/Metropolis_1998/",
+  "times_seen": 1,
+  "why_included": "HN commenters treated it as a promising spiritual successor to SimCity."
+}

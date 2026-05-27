@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "last-fm",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:last-fm:48295892",
+  "mention_ids": [
+    "2026-05-27:last-fm:48295892"
+  ],
+  "name": "Last.fm",
+  "slug": "last-fm",
+  "summary": "Music tracking and recommendation service now independent again.",
+  "thing_url": "https://www.last.fm/",
+  "times_seen": 1,
+  "why_included": "HN users still treat it as a sticky, high-value music history tool."
+}

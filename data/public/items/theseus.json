@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-27T21:20:36Z",
+  "id": "theseus",
+  "last_seen_at": "2026-05-27T21:20:36Z",
+  "latest_mention_id": "2026-05-27:theseus:48264328",
+  "mention_ids": [
+    "2026-05-27:theseus:48264328"
+  ],
+  "name": "Theseus",
+  "slug": "theseus",
+  "summary": "Win32-to-WASM translator for running Windows apps on the web.",
+  "thing_url": "https://evmar.github.io/theseus/",
+  "times_seen": 1,
+  "why_included": "Commenters were excited enough to compare it with other retro-web runtimes and call out the tiny demo."
+}

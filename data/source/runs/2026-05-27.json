@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "run_date": "2026-05-27",
+  "generated_at": "2026-05-27T21:20:36Z",
+  "summary": {
+    "stories_scanned": 20,
+    "stories_with_reported_items": 7,
+    "items_reported": 12,
+    "notes": "Broad serendipity scan over visible HN comment pages; history updated for surfaced items."
+  },
+  "items": [
+    {
+      "name": "TinyCld",
+      "category": "🛠️ Dev Tools & Workspaces",
+      "thing_url": "https://tinycld.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48295071",
+      "source_story_title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "summary": "Open-source workspace for mail, calendar, docs, drive, and apps.",
+      "why_included": "Author comments made it clear this is a real, shipping workspace with native app and web support.",
+      "evidence": "Nathan described TinyCld as a self-contained mail/cal/contacts/drive/text/calc suite with demo, install docs, iOS app, and repo."
+    },
+    {
+      "name": "HyperFormula",
+      "category": "🛠️ Dev Tools & Workspaces",
+      "thing_url": "https://github.com/handsontable/hyperformula",
+      "hn_url": "https://news.ycombinator.com/item?id=48295071",
+      "source_story_title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "summary": "Spreadsheet calculation engine.",
+      "why_included": "Commenters singled it out as an important dependency behind TinyCld’s spreadsheet stack.",
+      "evidence": "A commenter called HyperFormula an amazing library and said it was the main reason TinyCld could be AGPL."
+    },
+    {
+      "name": "Mini Micro",
+      "category": "🛠️ Dev Tools & Workspaces",
+      "thing_url": "https://miniscript.org/MiniMicro/index.html#about",
+      "hn_url": "https://news.ycombinator.com/item?id=48291947",
+      "source_story_title": "Mini Micro Fantasy Computer",
+      "summary": "Fantasy computer and scripting environment for hobbyist programming.",
+      "why_included": "The thread pointed to the MiniScript docs and open-source core, which makes it unusually concrete.",
+      "evidence": "Replies discussed the MiniScript QuickRef, significant whitespace, and the open-source MiniScript portion behind Mini Micro."
+    },
+    {
+      "name": "Theseus",
+      "category": "🛠️ Dev Tools & Workspaces",
+      "thing_url": "https://evmar.github.io/theseus/",
+      "hn_url": "https://news.ycombinator.com/item?id=48264328",
+      "source_story_title": "Theseus: Translating Win32 to WASM",
+      "summary": "Win32-to-WASM translator for running Windows apps on the web.",
+      "why_included": "Commenters were excited enough to compare it with other retro-web runtimes and call out the tiny demo.",
+      "evidence": "Replies praised the project coming back to HN and linked the live demo, GitHub, and related WASM/Windows references."
+    },
+    {
+      "name": "SC2K Fix",
+      "category": "🎮 Games & Simulations",
+      "thing_url": "https://sc2kfix.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48297645",
+      "source_story_title": "SimCity 3k in 4k (2025)",
+      "summary": "Patch that runs SimCity 3000’s Windows 95 version on modern PCs.",
+      "why_included": "It solves a concrete compatibility problem commenters still care about.",
+      "evidence": "One reply said you can run the Windows 95 version on modern computers with this patch and complained GOG does not ship it."
+    },
+    {
+      "name": "Microlandia",
+      "category": "🎮 Games & Simulations",
+      "thing_url": "https://microlandia.city",
+      "hn_url": "https://news.ycombinator.com/item?id=48297645",
+      "source_story_title": "SimCity 3k in 4k (2025)",
+      "summary": "SimCity-like city builder that favors imagination over photorealism.",
+      "why_included": "The strongest comment was a direct love letter from someone building in the same genre.",
+      "evidence": "A commenter said they love the game so much they started making their own city builder because they dislike where the genre is going."
+    },
+    {
+      "name": "Metropolis 1998",
+      "category": "🎮 Games & Simulations",
+      "thing_url": "https://store.steampowered.com/app/2287430/Metropolis_1998/",
+      "hn_url": "https://news.ycombinator.com/item?id=48297645",
+      "source_story_title": "SimCity 3k in 4k (2025)",
+      "summary": "Retro city builder with modern simulation features.",
+      "why_included": "HN commenters treated it as a promising spiritual successor to SimCity.",
+      "evidence": "One reply said they have followed its development for some time and linked the Steam page as a modern successor worth trying."
+    },
+    {
+      "name": "Dorfromantik",
+      "category": "🎮 Games & Simulations",
+      "thing_url": "https://www.toukana.com/dorfromantik",
+      "hn_url": "https://news.ycombinator.com/item?id=48268185",
+      "source_story_title": "My new obsession: A horse-racing board game of pure luck",
+      "summary": "Cozy tile-laying board game with solo and co-op play.",
+      "why_included": "It was repeatedly recommended as a good fit for the same light-strategy audience.",
+      "evidence": "Commenters called it very nice, easy to learn, and mentioned the official digital adaptation and board-game versions."
+    },
+    {
+      "name": "Ready Set Bet",
+      "category": "🎮 Games & Simulations",
+      "thing_url": "https://www.alderac.com/ready-set-bet/",
+      "hn_url": "https://news.ycombinator.com/item?id=48268185",
+      "source_story_title": "My new obsession: A horse-racing board game of pure luck",
+      "summary": "Real-time horse-racing betting board game.",
+      "why_included": "It came up as the more accessible recommendation in the horse-racing thread.",
+      "evidence": "A commenter explicitly said the discussed game sounded similar to Ready Set Bet and that it is probably easier to find."
+    },
+    {
+      "name": "Last.fm",
+      "category": "🎵 Media & Discovery",
+      "thing_url": "https://www.last.fm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48295892",
+      "source_story_title": "Last.fm is now independent",
+      "summary": "Music tracking and recommendation service now independent again.",
+      "why_included": "HN users still treat it as a sticky, high-value music history tool.",
+      "evidence": "Commenters called it one of their favorite services and described it as the best place to track listening and recover decent recommendations."
+    },
+    {
+      "name": "Epicure",
+      "category": "📚 Books & Cooking",
+      "thing_url": "https://epicure.kaikaku.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48291225",
+      "source_story_title": "All of human cooking compressed into 2 megabytes",
+      "summary": "Cooking app for browsing ingredient flavor pairings.",
+      "why_included": "It was the concrete tool commenters used to turn the paper’s ideas into something usable.",
+      "evidence": "A commenter said you can browse flavor combinations there and called it neat."
+    },
+    {
+      "name": "The Flavor Bible",
+      "category": "📚 Books & Cooking",
+      "thing_url": "https://www.hachettebookgroup.com/titles/andrew-dornenburg/the-flavor-bible/9780316039840/",
+      "hn_url": "https://news.ycombinator.com/item?id=48291225",
+      "source_story_title": "All of human cooking compressed into 2 megabytes",
+      "summary": "Cookbook and reference guide for ingredient pairings.",
+      "why_included": "The thread surfaced it as the classic manual for cooking combinations.",
+      "evidence": "A commenter said it was a great reference book for finding pairings of ingredients."
+    }
+  ]
+}
