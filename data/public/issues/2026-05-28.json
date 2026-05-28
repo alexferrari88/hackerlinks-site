@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T21:20:20Z",
+  "headline": "8 interesting things surfaced from HN on 2026-05-28",
+  "id": "2026-05-28",
+  "mention_ids": [
+    "2026-05-28:claude-opus-4-8:48311647",
+    "2026-05-28:absurd:48313530",
+    "2026-05-28:exe-dev:48308376",
+    "2026-05-28:dclaude:48308376",
+    "2026-05-28:continue-y-n:48308376",
+    "2026-05-28:openwrt:48282180",
+    "2026-05-28:hallucinate:48304260",
+    "2026-05-28:open-source-ai-racing-harness:48300280"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

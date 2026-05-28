@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "openwrt",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:openwrt:48282180",
+  "mention_ids": [
+    "2026-05-28:openwrt:48282180"
+  ],
+  "name": "OpenWRT",
+  "slug": "openwrt",
+  "summary": "Router firmware for Wi\u2011Fi roaming setups; commenters recommended OpenWRT-flashed hardware and debated the best roaming topology.",
+  "thing_url": "https://openwrt.org/",
+  "times_seen": 1,
+  "why_included": "Concrete infrastructure product with explicit praise in the thread."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "hallucinate",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:hallucinate:48304260",
+  "mention_ids": [
+    "2026-05-28:hallucinate:48304260"
+  ],
+  "name": "Hallucinate",
+  "slug": "hallucinate",
+  "summary": "A multiplayer online rave project; commenters called it cool and pointed straight to the GitHub repo.",
+  "thing_url": "https://github.com/stagas/hallucinate",
+  "times_seen": 1,
+  "why_included": "Clear positive HN reaction to a new creative project with a canonical repo URL."
+}

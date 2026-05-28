@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said running Claude in a disposable sandbox like exe.dev is more efficient, and described exe.dev as a \u201cnew cloud provider with some very useful agent UX.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=48308376",
+  "id": "2026-05-28:exe-dev:48308376",
+  "is_repeat": false,
+  "issue_id": "2026-05-28",
+  "item_id": "exe-dev",
+  "rank": 3,
+  "seen_at": "2026-05-28T21:20:20Z",
+  "source_story_id": "48308376",
+  "source_story_title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
+}

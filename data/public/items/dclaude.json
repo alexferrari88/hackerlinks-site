@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "dclaude",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:dclaude:48308376",
+  "mention_ids": [
+    "2026-05-28:dclaude:48308376"
+  ],
+  "name": "dclaude",
+  "slug": "dclaude",
+  "summary": "A local Claude sandbox helper repo for running coding agents locally.",
+  "thing_url": "https://github.com/stanislavkozlovski/dclaude/",
+  "times_seen": 1,
+  "why_included": "Same comment as exe.dev explicitly links the repo as a practical local option."
+}

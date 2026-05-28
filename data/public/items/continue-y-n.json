@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "continue-y-n",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:continue-y-n:48308376",
+  "mention_ids": [
+    "2026-05-28:continue-y-n:48308376"
+  ],
+  "name": "Continue? Y/N",
+  "slug": "continue-y-n",
+  "summary": "A 60-second game about AI-agent permission fatigue that commenters immediately found fun and a bit too real.",
+  "thing_url": "https://llmgame.scalex.dev",
+  "times_seen": 1,
+  "why_included": "The comments were enthusiastic and tied directly to a concrete productized game."
+}

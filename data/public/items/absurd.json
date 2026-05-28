@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "absurd",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:absurd:48313530",
+  "mention_ids": [
+    "2026-05-28:absurd:48313530"
+  ],
+  "name": "absurd",
+  "slug": "absurd",
+  "summary": "Armin Ronacher\u2019s Postgres workflow library; commenters called it lightweight and worth comparing to other workflow engines.",
+  "thing_url": "https://github.com/earendil-works/absurd",
+  "times_seen": 1,
+  "why_included": "Direct recommendation in a durable-workflows thread, with both repo and project site linked in comments."
+}

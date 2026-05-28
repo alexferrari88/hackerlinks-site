@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "open-source-ai-racing-harness",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:open-source-ai-racing-harness:48300280",
+  "mention_ids": [
+    "2026-05-28:open-source-ai-racing-harness:48300280"
+  ],
+  "name": "Open-Source AI Racing Harness",
+  "slug": "open-source-ai-racing-harness",
+  "summary": "A race-sim harness for AI agents; commenters wanted a baseline solver and compared it to Gazebo and Isaac.",
+  "thing_url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+  "times_seen": 1,
+  "why_included": "New concrete harness/tool with active interest from commenters and no history match."
+}

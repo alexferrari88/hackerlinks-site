@@ -21,9 +21,21 @@
       "times_reported": 1
     },
     {
+      "name": "A nicer voltmeter clock",
+      "first_reported_at": "2026-05-17T21:23:02Z",
+      "last_reported_at": "2026-05-17T21:23:02Z",
+      "times_reported": 1
+    },
+    {
       "name": "Ableton Live MCP",
       "first_reported_at": "2026-05-03T21:17:03Z",
       "last_reported_at": "2026-05-03T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "absurd",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -66,12 +78,6 @@
       "name": "Android CLI",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "A nicer voltmeter clock",
-      "first_reported_at": "2026-05-17T21:23:02Z",
-      "last_reported_at": "2026-05-17T21:23:02Z",
       "times_reported": 1
     },
     {
@@ -333,6 +339,12 @@
       "times_reported": 1
     },
     {
+      "name": "Claude Opus 4.8",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
       "name": "Clay PCB Tutorial",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
@@ -357,15 +369,15 @@
       "times_reported": 1
     },
     {
-      "name": "CodeBurn",
-      "first_reported_at": "2026-04-17T01:28:36Z",
-      "last_reported_at": "2026-04-17T01:28:36Z",
-      "times_reported": 1
-    },
-    {
       "name": "code.overheid.nl",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CodeBurn",
+      "first_reported_at": "2026-04-17T01:28:36Z",
+      "last_reported_at": "2026-04-17T01:28:36Z",
       "times_reported": 1
     },
     {
@@ -384,6 +396,12 @@
       "name": "Compilers by Niklaus Wirth",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Continue? Y/N",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -465,6 +483,12 @@
       "times_reported": 1
     },
     {
+      "name": "dclaude",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
       "name": "DeArrow",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -543,6 +567,12 @@
       "times_reported": 1
     },
     {
+      "name": "Dorfromantik",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
       "name": "Dotcl",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
@@ -591,6 +621,12 @@
       "times_reported": 1
     },
     {
+      "name": "Epicure",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
       "name": "Equi-X",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
@@ -600,6 +636,12 @@
       "name": "Evidence",
       "first_reported_at": "2026-04-18T21:11:46Z",
       "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "exe.dev",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -693,15 +735,15 @@
       "times_reported": 1
     },
     {
-      "name": "Freenet",
-      "first_reported_at": "2026-05-21T21:20:56Z",
-      "last_reported_at": "2026-05-21T21:20:56Z",
-      "times_reported": 1
-    },
-    {
       "name": "Free textbook on engineering thermodynamics",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Freenet",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
       "times_reported": 1
     },
     {
@@ -897,6 +939,12 @@
       "times_reported": 1
     },
     {
+      "name": "Hallucinate",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
       "name": "Handbook of Graphic Presentation",
       "first_reported_at": "2026-05-24T21:19:07Z",
       "last_reported_at": "2026-05-24T21:19:07Z",
@@ -978,6 +1026,12 @@
       "name": "HX DOS Extender",
       "first_reported_at": "2026-04-24T21:13:46.420401Z",
       "last_reported_at": "2026-04-24T21:13:46.420401Z",
+      "times_reported": 1
+    },
+    {
+      "name": "HyperFormula",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     },
     {
@@ -1155,6 +1209,12 @@
       "times_reported": 1
     },
     {
+      "name": "Last.fm",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
       "name": "Laws of UX",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
@@ -1275,6 +1335,18 @@
       "times_reported": 1
     },
     {
+      "name": "Metropolis 1998",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Microlandia",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
       "name": "Micron 6600 ION Data Center SSD",
       "first_reported_at": "2026-05-06T21:05:20Z",
       "last_reported_at": "2026-05-06T21:05:20Z",
@@ -1302,6 +1374,12 @@
       "name": "Mine",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Mini Micro",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     },
     {
@@ -1497,6 +1575,12 @@
       "times_reported": 1
     },
     {
+      "name": "Open-Source AI Racing Harness",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
       "name": "OpenBSD 7.9",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
@@ -1560,6 +1644,12 @@
       "name": "OpenTrafficMap",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenWRT",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -1635,6 +1725,12 @@
       "times_reported": 1
     },
     {
+      "name": "pi.dev",
+      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "PiCore",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -1644,12 +1740,6 @@
       "name": "PiCorePlayer",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "pi.dev",
-      "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
-      "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "times_reported": 1
     },
     {
@@ -1779,15 +1869,21 @@
       "times_reported": 1
     },
     {
-      "name": "Qwen3.6-27B",
-      "first_reported_at": "2026-04-22T21:23:43Z",
-      "last_reported_at": "2026-04-22T21:23:43Z",
-      "times_reported": 1
-    },
-    {
       "name": "Qwen 3.6 35B A3B",
       "first_reported_at": "2026-05-14T21:22:02Z",
       "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen 3.7 Preview",
+      "first_reported_at": "2026-05-18T21:15:39Z",
+      "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen3.6-27B",
+      "first_reported_at": "2026-04-22T21:23:43Z",
+      "last_reported_at": "2026-04-22T21:23:43Z",
       "times_reported": 1
     },
     {
@@ -1800,12 +1896,6 @@
       "name": "Qwen3.7-Max",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Qwen 3.7 Preview",
-      "first_reported_at": "2026-05-18T21:15:39Z",
-      "last_reported_at": "2026-05-18T21:15:39Z",
       "times_reported": 1
     },
     {
@@ -1836,6 +1926,12 @@
       "name": "Ratty",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Ready Set Bet",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     },
     {
@@ -1944,6 +2040,12 @@
       "name": "SBB Mobile",
       "first_reported_at": "2026-04-15T04:39:17+00:00",
       "last_reported_at": "2026-04-15T04:39:17+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SC2K Fix",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     },
     {
@@ -2133,6 +2235,12 @@
       "times_reported": 1
     },
     {
+      "name": "Super ZSNES",
+      "first_reported_at": "2026-04-27T21:27:33Z",
+      "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "Superlog",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
@@ -2142,12 +2250,6 @@
       "name": "Superset",
       "first_reported_at": "2026-05-22T21:12:30Z",
       "last_reported_at": "2026-05-22T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Super ZSNES",
-      "first_reported_at": "2026-04-27T21:27:33Z",
-      "last_reported_at": "2026-04-27T21:27:33Z",
       "times_reported": 1
     },
     {
@@ -2205,6 +2307,12 @@
       "times_reported": 1
     },
     {
+      "name": "The Flavor Bible",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
       "name": "The High Price of Free Parking",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -2220,6 +2328,12 @@
       "name": "The Visible Zorker",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Theseus",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     },
     {
@@ -2250,6 +2364,12 @@
       "name": "timg",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TinyCld",
+      "first_reported_at": "2026-05-27T21:20:36Z",
+      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     },
     {
@@ -2559,15 +2679,15 @@
       "times_reported": 1
     },
     {
-      "name": "XSecureLock",
-      "first_reported_at": "2026-05-03T21:17:03Z",
-      "last_reported_at": "2026-05-03T21:17:03Z",
-      "times_reported": 1
-    },
-    {
       "name": "Xs of Y",
       "first_reported_at": "2026-05-13T21:22:29Z",
       "last_reported_at": "2026-05-13T21:22:29Z",
+      "times_reported": 1
+    },
+    {
+      "name": "XSecureLock",
+      "first_reported_at": "2026-05-03T21:17:03Z",
+      "last_reported_at": "2026-05-03T21:17:03Z",
       "times_reported": 1
     },
     {
@@ -2640,78 +2760,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "TinyCld",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "HyperFormula",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Mini Micro",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Theseus",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "SC2K Fix",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Microlandia",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Metropolis 1998",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Dorfromantik",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ready Set Bet",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Last.fm",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Epicure",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
-      "times_reported": 1
-    },
-    {
-      "name": "The Flavor Bible",
-      "first_reported_at": "2026-05-27T21:20:36Z",
-      "last_reported_at": "2026-05-27T21:20:36Z",
       "times_reported": 1
     }
   ]

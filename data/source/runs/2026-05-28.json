@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "run_date": "2026-05-28",
+  "generated_at": "2026-05-28T21:20:20Z",
+  "summary": "8 items surfaced from 20 sampled stories using bounded top-comment fallback after the full crawl timed out.",
+  "items": [
+    {
+      "name": "Claude Opus 4.8",
+      "thing_url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "hn_url": "https://news.ycombinator.com/item?id=48311647",
+      "source_story_title": "Claude Opus 4.8",
+      "summary": "Anthropic’s latest model; commenters called it a modest but tangible improvement and liked the adaptive-thinking toggle.",
+      "why_included": "Strong positive comment sentiment on a new frontier model release that is not yet in history.",
+      "evidence": "Commenters said Opus 4.8 was a “modest but tangible improvement,” praised turning off adaptive thinking, and another called the ultracode benchmark result the best so far."
+    },
+    {
+      "name": "absurd",
+      "thing_url": "https://github.com/earendil-works/absurd",
+      "hn_url": "https://news.ycombinator.com/item?id=48313530",
+      "source_story_title": "Just Use Postgres for Durable Workflows",
+      "summary": "Armin Ronacher’s Postgres workflow library; commenters called it lightweight and worth comparing to other workflow engines.",
+      "why_included": "Direct recommendation in a durable-workflows thread, with both repo and project site linked in comments.",
+      "evidence": "One comment introduced absurd as a durable-workflows implementation for Postgres; a reply said it is “very nice” and lightweight enough for a coding agent to keep in its head."
+    },
+    {
+      "name": "exe.dev",
+      "thing_url": "https://exe.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "source_story_title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "summary": "Disposable cloud sandboxes for agent work; one commenter recommended it as a useful agent UX for reducing permission churn.",
+      "why_included": "A concrete tool recommendation with a direct link and explicit praise.",
+      "evidence": "A commenter said running Claude in a disposable sandbox like exe.dev is more efficient, and described exe.dev as a “new cloud provider with some very useful agent UX.”"
+    },
+    {
+      "name": "dclaude",
+      "thing_url": "https://github.com/stanislavkozlovski/dclaude/",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "source_story_title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "summary": "A local Claude sandbox helper repo for running coding agents locally.",
+      "why_included": "Same comment as exe.dev explicitly links the repo as a practical local option.",
+      "evidence": "The commenter said they built dclaude for local agent runs and that it “gets my job done” when they need to run the coding agent locally."
+    },
+    {
+      "name": "Continue? Y/N",
+      "thing_url": "https://llmgame.scalex.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "source_story_title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "summary": "A 60-second game about AI-agent permission fatigue that commenters immediately found fun and a bit too real.",
+      "why_included": "The comments were enthusiastic and tied directly to a concrete productized game.",
+      "evidence": "Top comments called it “amazing” and “fun,” then used it to discuss real agent permission hygiene and sandboxing patterns."
+    },
+    {
+      "name": "OpenWRT",
+      "thing_url": "https://openwrt.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48282180",
+      "source_story_title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "summary": "Router firmware for Wi‑Fi roaming setups; commenters recommended OpenWRT-flashed hardware and debated the best roaming topology.",
+      "why_included": "Concrete infrastructure product with explicit praise in the thread.",
+      "evidence": "A commenter said they still like the TP-Link E610 flashed to OpenWRT better, while others compared roaming behavior across AP/channel setups."
+    },
+    {
+      "name": "Hallucinate",
+      "thing_url": "https://github.com/stagas/hallucinate",
+      "hn_url": "https://news.ycombinator.com/item?id=48304260",
+      "source_story_title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
+      "summary": "A multiplayer online rave project; commenters called it cool and pointed straight to the GitHub repo.",
+      "why_included": "Clear positive HN reaction to a new creative project with a canonical repo URL.",
+      "evidence": "One commenter said it was cool to see and compared it to past VR/DJ projects; another posted the GitHub repository link and highlighted the MIT license."
+    },
+    {
+      "name": "Open-Source AI Racing Harness",
+      "thing_url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=48300280",
+      "source_story_title": "Show HN: Open-Source AI Racing Harness",
+      "summary": "A race-sim harness for AI agents; commenters wanted a baseline solver and compared it to Gazebo and Isaac.",
+      "why_included": "New concrete harness/tool with active interest from commenters and no history match.",
+      "evidence": "Commenters asked for a starter baseline, said it looked cool, and compared it to Gazebo and Nvidia Isaac as alternative simulation stacks."
+    }
+  ]
+}

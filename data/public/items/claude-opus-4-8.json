@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "claude-opus-4-8",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:claude-opus-4-8:48311647",
+  "mention_ids": [
+    "2026-05-28:claude-opus-4-8:48311647"
+  ],
+  "name": "Claude Opus 4.8",
+  "slug": "claude-opus-4-8",
+  "summary": "Anthropic\u2019s latest model; commenters called it a modest but tangible improvement and liked the adaptive-thinking toggle.",
+  "thing_url": "https://www.anthropic.com/news/claude-opus-4-8",
+  "times_seen": 1,
+  "why_included": "Strong positive comment sentiment on a new frontier model release that is not yet in history."
+}

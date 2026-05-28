@@ -1,0 +1,12 @@
+{
+  "evidence": "One comment introduced absurd as a durable-workflows implementation for Postgres; a reply said it is \u201cvery nice\u201d and lightweight enough for a coding agent to keep in its head.",
+  "hn_url": "https://news.ycombinator.com/item?id=48313530",
+  "id": "2026-05-28:absurd:48313530",
+  "is_repeat": false,
+  "issue_id": "2026-05-28",
+  "item_id": "absurd",
+  "rank": 2,
+  "seen_at": "2026-05-28T21:20:20Z",
+  "source_story_id": "48313530",
+  "source_story_title": "Just Use Postgres for Durable Workflows"
+}

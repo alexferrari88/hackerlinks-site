@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-28T21:20:20Z",
+  "id": "exe-dev",
+  "last_seen_at": "2026-05-28T21:20:20Z",
+  "latest_mention_id": "2026-05-28:exe-dev:48308376",
+  "mention_ids": [
+    "2026-05-28:exe-dev:48308376"
+  ],
+  "name": "exe.dev",
+  "slug": "exe-dev",
+  "summary": "Disposable cloud sandboxes for agent work; one commenter recommended it as a useful agent UX for reducing permission churn.",
+  "thing_url": "https://exe.dev/",
+  "times_seen": 1,
+  "why_included": "A concrete tool recommendation with a direct link and explicit praise."
+}
