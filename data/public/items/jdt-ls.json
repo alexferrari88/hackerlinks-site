@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-29T21:09:53Z",
+  "id": "jdt-ls",
+  "last_seen_at": "2026-05-29T21:09:53Z",
+  "latest_mention_id": "2026-05-29:jdt-ls:48322118",
+  "mention_ids": [
+    "2026-05-29:jdt-ls:48322118"
+  ],
+  "name": "jdt.ls",
+  "slug": "jdt-ls",
+  "summary": "jdt.ls \u2014 Java language server for refactors and editor automation.",
+  "thing_url": "https://projects.eclipse.org/projects/eclipse.jdt.ls",
+  "times_seen": 1,
+  "why_included": "The comment was a concrete recommendation from someone using it for Java refactors."
+}

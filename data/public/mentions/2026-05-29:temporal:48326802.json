@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they started setting up workflows with Temporal, liked the lightweight local setup, and said it made API retries and organizing tasks simple.",
+  "hn_url": "https://news.ycombinator.com/item?id=48326802",
+  "id": "2026-05-29:temporal:48326802",
+  "is_repeat": false,
+  "issue_id": "2026-05-29",
+  "item_id": "temporal",
+  "rank": 1,
+  "seen_at": "2026-05-29T21:09:53Z",
+  "source_story_id": "48326802",
+  "source_story_title": "SQLite is all you need for durable workflows"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-29T21:09:53Z",
+  "id": "temporal",
+  "last_seen_at": "2026-05-29T21:09:53Z",
+  "latest_mention_id": "2026-05-29:temporal:48326802",
+  "mention_ids": [
+    "2026-05-29:temporal:48326802"
+  ],
+  "name": "Temporal",
+  "slug": "temporal",
+  "summary": "Temporal \u2014 durable workflow engine for retries and orchestration.",
+  "thing_url": "https://temporal.io/",
+  "times_seen": 1,
+  "why_included": "A commenter gave hands-on praise and explicitly recommended it for workflow retries and task orchestration."
+}

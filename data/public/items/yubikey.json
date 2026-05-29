@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-29T21:09:53Z",
+  "id": "yubikey",
+  "last_seen_at": "2026-05-29T21:09:53Z",
+  "latest_mention_id": "2026-05-29:yubikey:48323869",
+  "mention_ids": [
+    "2026-05-29:yubikey:48323869"
+  ],
+  "name": "YubiKey",
+  "slug": "yubikey",
+  "summary": "YubiKey \u2014 hardware security key that replaces a lot of laptop auth friction.",
+  "thing_url": "https://www.yubico.com/products/yubikey-5-overview/",
+  "times_seen": 1,
+  "why_included": "The discussion used it as a practical replacement for the laptop\u2019s touch ID."
+}

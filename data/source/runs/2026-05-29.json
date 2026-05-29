@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "run_date": "2026-05-29",
+  "generated_at": "2026-05-29T21:09:53Z",
+  "summary": {
+    "stories_processed": 22,
+    "stories_scraped": 22,
+    "items_reported": 8
+  },
+  "items": [
+    {
+      "name": "Temporal",
+      "thing_url": "https://temporal.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48326802",
+      "source_story_title": "SQLite is all you need for durable workflows",
+      "summary": "Temporal — durable workflow engine for retries and orchestration.",
+      "why_included": "A commenter gave hands-on praise and explicitly recommended it for workflow retries and task orchestration.",
+      "evidence": "One commenter said they started setting up workflows with Temporal, liked the lightweight local setup, and said it made API retries and organizing tasks simple."
+    },
+    {
+      "name": "TV Explorer",
+      "thing_url": "https://tvexplorer.live",
+      "hn_url": "https://news.ycombinator.com/item?id=48325624",
+      "source_story_title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "summary": "TV Explorer — advanced browser UI for free online TV channels.",
+      "why_included": "Commenters gave it direct usage praise and compared it favorably to competing TV sites.",
+      "evidence": "HN commenters said they were watching Korean and Mongolian channels with it, called it awesome, and one said they liked it more than tv.garden."
+    },
+    {
+      "name": "Framework 12",
+      "thing_url": "https://frame.work/laptop12",
+      "hn_url": "https://news.ycombinator.com/item?id=48323869",
+      "source_story_title": "It's hard to justify buying a Framework 12",
+      "summary": "Framework 12 — repairable 12-inch convertible laptop with stylus support.",
+      "why_included": "The thread contained concrete buyer feedback on portability and screen quality, not just abstract brand talk.",
+      "evidence": "Commenters called the Framework 12 a really nice portable form factor, while warning that its display could be a weak point."
+    },
+    {
+      "name": "tuicr",
+      "thing_url": "https://tuicr.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48322118",
+      "source_story_title": "We should be more tired than the model",
+      "summary": "tuicr — terminal code-review TUI with vim keybindings.",
+      "why_included": "A commenter described using it for agent code reviews and said they were enjoying it.",
+      "evidence": "One commenter said they had been using tuicr for agent code reviews and had been enjoying the workflow."
+    },
+    {
+      "name": "jdt.ls",
+      "thing_url": "https://projects.eclipse.org/projects/eclipse.jdt.ls",
+      "hn_url": "https://news.ycombinator.com/item?id=48322118",
+      "source_story_title": "We should be more tired than the model",
+      "summary": "jdt.ls — Java language server for refactors and editor automation.",
+      "why_included": "The comment was a concrete recommendation from someone using it for Java refactors.",
+      "evidence": "A commenter said Java has very good refactor support, that they use jdt.ls, and that they wished similar refactors existed in more languages."
+    },
+    {
+      "name": "YubiKey",
+      "thing_url": "https://www.yubico.com/products/yubikey-5-overview/",
+      "hn_url": "https://news.ycombinator.com/item?id=48323869",
+      "source_story_title": "It's hard to justify buying a Framework 12",
+      "summary": "YubiKey — hardware security key that replaces a lot of laptop auth friction.",
+      "why_included": "The discussion used it as a practical replacement for the laptop’s touch ID.",
+      "evidence": "A commenter said the Framework 12’s touch ID was easily replaced with a YubiKey and that everything else just worked."
+    },
+    {
+      "name": "Rclone",
+      "thing_url": "https://rclone.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48322389",
+      "source_story_title": "Local Git remotes",
+      "summary": "Rclone — command-line cloud sync tool for remotes and backups.",
+      "why_included": "A commenter described a concrete personal workflow built around it for encrypted storage.",
+      "evidence": "One commenter said they use Rclone to keep repos encrypted on S3 via a file-based remote."
+    },
+    {
+      "name": "Assassin's Creed Odyssey",
+      "thing_url": "https://www.ubisoft.com/en-us/game/assassins-creed/odyssey",
+      "hn_url": "https://news.ycombinator.com/item?id=48322241",
+      "source_story_title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "summary": "Assassin's Creed Odyssey — Ancient Greece game praised as a teaching tool.",
+      "why_included": "The comment praised it for immersion and for helping teach classical history.",
+      "evidence": "A commenter said the game has a feature like the article’s example and that it works really well as a teaching tool with excellent immersion."
+    }
+  ]
+}

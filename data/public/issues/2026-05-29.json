@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T21:09:53Z",
+  "headline": "8 interesting things surfaced from HN on 2026-05-29",
+  "id": "2026-05-29",
+  "mention_ids": [
+    "2026-05-29:temporal:48326802",
+    "2026-05-29:tv-explorer:48325624",
+    "2026-05-29:framework-12:48323869",
+    "2026-05-29:tuicr:48322118",
+    "2026-05-29:jdt-ls:48322118",
+    "2026-05-29:yubikey:48323869",
+    "2026-05-29:rclone:48322389",
+    "2026-05-29:assassin-s-creed-odyssey:48322241"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-29T21:09:53Z",
+  "id": "rclone",
+  "last_seen_at": "2026-05-29T21:09:53Z",
+  "latest_mention_id": "2026-05-29:rclone:48322389",
+  "mention_ids": [
+    "2026-05-29:rclone:48322389"
+  ],
+  "name": "Rclone",
+  "slug": "rclone",
+  "summary": "Rclone \u2014 command-line cloud sync tool for remotes and backups.",
+  "thing_url": "https://rclone.org/",
+  "times_seen": 1,
+  "why_included": "A commenter described a concrete personal workflow built around it for encrypted storage."
+}

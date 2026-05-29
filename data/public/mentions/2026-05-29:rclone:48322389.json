@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they use Rclone to keep repos encrypted on S3 via a file-based remote.",
+  "hn_url": "https://news.ycombinator.com/item?id=48322389",
+  "id": "2026-05-29:rclone:48322389",
+  "is_repeat": false,
+  "issue_id": "2026-05-29",
+  "item_id": "rclone",
+  "rank": 7,
+  "seen_at": "2026-05-29T21:09:53Z",
+  "source_story_id": "48322389",
+  "source_story_title": "Local Git remotes"
+}

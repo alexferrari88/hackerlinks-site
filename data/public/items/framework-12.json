@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-29T21:09:53Z",
+  "id": "framework-12",
+  "last_seen_at": "2026-05-29T21:09:53Z",
+  "latest_mention_id": "2026-05-29:framework-12:48323869",
+  "mention_ids": [
+    "2026-05-29:framework-12:48323869"
+  ],
+  "name": "Framework 12",
+  "slug": "framework-12",
+  "summary": "Framework 12 \u2014 repairable 12-inch convertible laptop with stylus support.",
+  "thing_url": "https://frame.work/laptop12",
+  "times_seen": 1,
+  "why_included": "The thread contained concrete buyer feedback on portability and screen quality, not just abstract brand talk."
+}

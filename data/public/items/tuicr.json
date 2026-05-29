@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-07T21:13:27Z",
   "id": "tuicr",
-  "last_seen_at": "2026-05-07T21:13:27Z",
-  "latest_mention_id": "2026-05-07:tuicr:48050732",
+  "last_seen_at": "2026-05-29T21:09:53Z",
+  "latest_mention_id": "2026-05-29:tuicr:48322118",
   "mention_ids": [
-    "2026-05-07:tuicr:48050732"
+    "2026-05-07:tuicr:48050732",
+    "2026-05-29:tuicr:48322118"
   ],
   "name": "tuicr",
   "slug": "tuicr",
-  "summary": "Terminal-native PR review tool.",
-  "thing_url": "https://github.com/agavra/tuicr",
-  "times_seen": 1,
-  "why_included": "Another commenter explicitly recommended it as the native CLI alternative."
+  "summary": "tuicr \u2014 terminal code-review TUI with vim keybindings.",
+  "thing_url": "https://tuicr.dev/",
+  "times_seen": 2,
+  "why_included": "A commenter described using it for agent code reviews and said they were enjoying it."
 }
