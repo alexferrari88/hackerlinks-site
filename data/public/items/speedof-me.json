@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-30T21:12:13Z",
+  "id": "speedof-me",
+  "last_seen_at": "2026-05-30T21:12:13Z",
+  "latest_mention_id": "2026-05-30:speedof-me:48337987",
+  "mention_ids": [
+    "2026-05-30:speedof-me:48337987"
+  ],
+  "name": "SpeedOf.Me",
+  "slug": "speedof-me",
+  "summary": "SpeedOf.Me is a browser-based internet speed test commenters recommended.",
+  "thing_url": "https://speedof.me/",
+  "times_seen": 1,
+  "why_included": "A simple direct recommendation in the same speed-test thread."
+}

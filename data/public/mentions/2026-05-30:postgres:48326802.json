@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters said \u201cPersonally I like Postgres for this reason too\u201d and that it works fine at decent scale.",
+  "hn_url": "https://news.ycombinator.com/item?id=48326802",
+  "id": "2026-05-30:postgres:48326802",
+  "is_repeat": false,
+  "issue_id": "2026-05-30",
+  "item_id": "postgres",
+  "rank": 3,
+  "seen_at": "2026-05-30T21:12:13Z",
+  "source_story_id": "48326802",
+  "source_story_title": "SQLite is all you need for durable workflows"
+}

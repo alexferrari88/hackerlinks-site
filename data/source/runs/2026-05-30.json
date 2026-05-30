@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "run_date": "2026-05-30",
+  "generated_at": "2026-05-30T21:12:13Z",
+  "summary": "8 concrete tools and services surfaced from HN comment threads.",
+  "items": [
+    {
+      "name": "Openrsync",
+      "thing_url": "https://github.com/kristapsdz/openrsync",
+      "hn_url": "https://news.ycombinator.com/item?id=48334854",
+      "source_story_title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "category": "🛠️ Dev Tools & Workflows",
+      "summary": "Openrsync is an OpenBSD rsync implementation with working exclude handling.",
+      "why_included": "Commenters said it works great and confirmed --exclude works on OpenBSD 7.9.",
+      "evidence": "HN comments said openrsync works great, and one commenter confirmed --exclude now works."
+    },
+    {
+      "name": "DuckDB",
+      "thing_url": "https://duckdb.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48326802",
+      "source_story_title": "SQLite is all you need for durable workflows",
+      "category": "🛠️ Dev Tools & Workflows",
+      "summary": "DuckDB is an in-process analytics database commenters said they use and like.",
+      "why_included": "A direct positive mention in a thread about durable workflow storage choices.",
+      "evidence": "One commenter said, “I use DuckDB and like it.”"
+    },
+    {
+      "name": "Postgres",
+      "thing_url": "https://www.postgresql.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48326802",
+      "source_story_title": "SQLite is all you need for durable workflows",
+      "category": "🛠️ Dev Tools & Workflows",
+      "summary": "Postgres is the SQL database commenters still trust for durable workflows at scale.",
+      "why_included": "Multiple comments framed Postgres as the practical alternative for networked workloads.",
+      "evidence": "Commenters said “Personally I like Postgres for this reason too” and that it works fine at decent scale."
+    },
+    {
+      "name": "Cline",
+      "thing_url": "https://github.com/cline/cline",
+      "hn_url": "https://news.ycombinator.com/item?id=48338660",
+      "source_story_title": "OpenRouter raises $113M Series B",
+      "category": "🛠️ Dev Tools & Workflows",
+      "summary": "Cline is an open-source coding agent IDE extension that commenters say works well.",
+      "why_included": "A commenter recommended it as a low-friction coding tool.",
+      "evidence": "One HN commenter wrote that Cline “works well enough and doesn’t require any sign-up.”"
+    },
+    {
+      "name": "TrustedRouter",
+      "thing_url": "https://trustedrouter.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48338660",
+      "source_story_title": "OpenRouter raises $113M Series B",
+      "category": "🛠️ Dev Tools & Workflows",
+      "summary": "TrustedRouter is an encrypted OpenRouter alternative with hosted and self-hosted options.",
+      "why_included": "A concrete new product name and URL surfaced in the same OpenRouter discussion.",
+      "evidence": "A commenter said they were offering “a fully end to end encrypted open source version and hosted version of open router.”"
+    },
+    {
+      "name": "Cloudflare Speed Test",
+      "thing_url": "https://speed.cloudflare.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48337987",
+      "source_story_title": "Accenture to acquire Ookla",
+      "category": "🌐 Web Tools & Benchmarks",
+      "summary": "Cloudflare Speed Test is a browser-based internet speed checker from Cloudflare.",
+      "why_included": "It got an explicit fan endorsement as an Ookla alternative.",
+      "evidence": "A commenter said they’re “a huge fan of https://speed.cloudflare.com/.”"
+    },
+    {
+      "name": "SpeedOf.Me",
+      "thing_url": "https://speedof.me/",
+      "hn_url": "https://news.ycombinator.com/item?id=48337987",
+      "source_story_title": "Accenture to acquire Ookla",
+      "category": "🌐 Web Tools & Benchmarks",
+      "summary": "SpeedOf.Me is a browser-based internet speed test commenters recommended.",
+      "why_included": "A simple direct recommendation in the same speed-test thread.",
+      "evidence": "One commenter answered with a plain “use https://speedof.me”."
+    },
+    {
+      "name": "OpenSpeedTest",
+      "thing_url": "https://openspeedtest.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48337987",
+      "source_story_title": "Accenture to acquire Ookla",
+      "category": "🌐 Web Tools & Benchmarks",
+      "summary": "OpenSpeedTest is a free HTML5 speed test positioned as an easy alternative.",
+      "why_included": "It was suggested as a direct way to bypass the usual speed-test business model.",
+      "evidence": "A commenter wrote that “all it takes to defeat the business model is https://openspeedtest.com/.”"
+    }
+  ]
+}

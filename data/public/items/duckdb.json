@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-30T21:12:13Z",
+  "id": "duckdb",
+  "last_seen_at": "2026-05-30T21:12:13Z",
+  "latest_mention_id": "2026-05-30:duckdb:48326802",
+  "mention_ids": [
+    "2026-05-30:duckdb:48326802"
+  ],
+  "name": "DuckDB",
+  "slug": "duckdb",
+  "summary": "DuckDB is an in-process analytics database commenters said they use and like.",
+  "thing_url": "https://duckdb.org/",
+  "times_seen": 1,
+  "why_included": "A direct positive mention in a thread about durable workflow storage choices."
+}
