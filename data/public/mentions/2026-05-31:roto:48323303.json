@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said they\u2019d love to replace more POSIX scripts with something saner, and another said they would add support in Rama.",
+  "hn_url": "https://news.ycombinator.com/item?id=48323303",
+  "id": "2026-05-31:roto:48323303",
+  "is_repeat": false,
+  "issue_id": "2026-05-31",
+  "item_id": "roto",
+  "rank": 8,
+  "seen_at": "2026-05-31T21:17:03Z",
+  "source_story_id": "48323303",
+  "source_story_title": "One year of Roto, a compiled scripting language for Rust"
+}

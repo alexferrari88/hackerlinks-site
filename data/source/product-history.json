@@ -2857,6 +2857,60 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "Anubis",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CanvasBlocker",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "LibreWolf",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Creapure",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Signal",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Odysseus",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Atomic Editor",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Roto",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "S.E.C.R.E.T",
+      "first_reported_at": "2026-05-31T21:17:03Z",
+      "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
     }
   ]
 }

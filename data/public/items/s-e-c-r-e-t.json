@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-31T21:17:03Z",
+  "id": "s-e-c-r-e-t",
+  "last_seen_at": "2026-05-31T21:17:03Z",
+  "latest_mention_id": "2026-05-31:s-e-c-r-e-t:48321089",
+  "mention_ids": [
+    "2026-05-31:s-e-c-r-e-t:48321089"
+  ],
+  "name": "S.E.C.R.E.T",
+  "slug": "s-e-c-r-e-t",
+  "summary": "S.E.C.R.E.T \u2014 archive of security-envelope pattern examples with a polished presentation.",
+  "thing_url": "https://secret-archive.org/",
+  "times_seen": 1,
+  "why_included": "The archive got unusually strong aesthetic praise, not just technical curiosity."
+}

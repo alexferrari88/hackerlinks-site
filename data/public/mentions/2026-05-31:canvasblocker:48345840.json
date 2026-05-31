@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said they had used it for a long time and that it got through the Turnstile page.",
+  "hn_url": "https://news.ycombinator.com/item?id=48345840",
+  "id": "2026-05-31:canvasblocker:48345840",
+  "is_repeat": false,
+  "issue_id": "2026-05-31",
+  "item_id": "canvasblocker",
+  "rank": 2,
+  "seen_at": "2026-05-31T21:17:03Z",
+  "source_story_id": "48345840",
+  "source_story_title": "Cloudflare Turnstile requiring fingerprintable WebGL"
+}

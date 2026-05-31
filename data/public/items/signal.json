@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-31T21:17:03Z",
+  "id": "signal",
+  "last_seen_at": "2026-05-31T21:17:03Z",
+  "latest_mention_id": "2026-05-31:signal:48347354",
+  "mention_ids": [
+    "2026-05-31:signal:48347354"
+  ],
+  "name": "Signal",
+  "slug": "signal",
+  "summary": "Signal \u2014 encrypted messenger commenters said spreads once people start using it.",
+  "thing_url": "https://signal.org/",
+  "times_seen": 1,
+  "why_included": "Commenters used Signal as the obvious alternative to Meta\u2019s messaging stack."
+}

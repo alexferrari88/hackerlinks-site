@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said they use LibreWolf with WebGL disabled by default and do not hit the issue.",
+  "hn_url": "https://news.ycombinator.com/item?id=48345840",
+  "id": "2026-05-31:librewolf:48345840",
+  "is_repeat": false,
+  "issue_id": "2026-05-31",
+  "item_id": "librewolf",
+  "rank": 3,
+  "seen_at": "2026-05-31T21:17:03Z",
+  "source_story_id": "48345840",
+  "source_story_title": "Cloudflare Turnstile requiring fingerprintable WebGL"
+}

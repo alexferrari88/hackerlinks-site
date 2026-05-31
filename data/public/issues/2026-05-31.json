@@ -1,0 +1,22 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T21:17:03Z",
+  "headline": "9 interesting things surfaced from HN on 2026-05-31",
+  "id": "2026-05-31",
+  "mention_ids": [
+    "2026-05-31:anubis:48345840",
+    "2026-05-31:canvasblocker:48345840",
+    "2026-05-31:librewolf:48345840",
+    "2026-05-31:creapure:48346947",
+    "2026-05-31:signal:48347354",
+    "2026-05-31:odysseus:48346693",
+    "2026-05-31:atomic-editor:48345201",
+    "2026-05-31:roto:48323303",
+    "2026-05-31:s-e-c-r-e-t:48321089"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

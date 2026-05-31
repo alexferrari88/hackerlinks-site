@@ -1,0 +1,12 @@
+{
+  "evidence": "The author said a chunk was built from a phone using Termux, PWA install, and on-device agents.",
+  "hn_url": "https://news.ycombinator.com/item?id=48346693",
+  "id": "2026-05-31:odysseus:48346693",
+  "is_repeat": false,
+  "issue_id": "2026-05-31",
+  "item_id": "odysseus",
+  "rank": 6,
+  "seen_at": "2026-05-31T21:17:03Z",
+  "source_story_id": "48346693",
+  "source_story_title": "Odysseus \u2013 self-hosted AI workspace"
+}

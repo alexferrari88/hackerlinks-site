@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "run_date": "2026-05-31",
+  "generated_at": "2026-05-31T21:17:03Z",
+  "summary": {
+    "stories_scanned": 27,
+    "items_reported": 9,
+    "full_comment_tree_crawled": true,
+    "comment_fetch_errors": 0
+  },
+  "items": [
+    {
+      "name": "Anubis",
+      "category": "🛡️ Privacy & Anti-Bot",
+      "thing_url": "https://github.com/TecharoHQ/anubis",
+      "hn_url": "https://news.ycombinator.com/item?id=48345840",
+      "source_story_title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "summary": "Anubis — anti-bot software that adds proof-of-work friction for crawlers.",
+      "why_included": "A practical anti-bot tool surfaced as a low-friction alternative for sites fighting scrapers.",
+      "evidence": "One commenter said OpenWRT uses Anubis and preferred waiting over \"finding Waldos\"; another described it as the tool that uses proof-of-work instead."
+    },
+    {
+      "name": "CanvasBlocker",
+      "category": "🛡️ Privacy & Anti-Bot",
+      "thing_url": "https://github.com/kkapsner/CanvasBlocker",
+      "hn_url": "https://news.ycombinator.com/item?id=48345840",
+      "source_story_title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "summary": "CanvasBlocker — Firefox extension that alters JS APIs to blunt fingerprinting.",
+      "why_included": "Commenters pointed to it as a working browser-side workaround against fingerprint-heavy pages.",
+      "evidence": "A commenter said they had used it for a long time and that it got through the Turnstile page."
+    },
+    {
+      "name": "LibreWolf",
+      "category": "🛡️ Privacy & Anti-Bot",
+      "thing_url": "https://librewolf.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48345840",
+      "source_story_title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "summary": "LibreWolf — privacy-focused Firefox fork with anti-fingerprinting defaults.",
+      "why_included": "Readers suggested it as a clean way around the WebGL fingerprinting problem.",
+      "evidence": "A commenter said they use LibreWolf with WebGL disabled by default and do not hit the issue."
+    },
+    {
+      "name": "Creapure",
+      "category": "🧪 Health & Supplements",
+      "thing_url": "https://www.creapure.com/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=48346947",
+      "source_story_title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "summary": "Creapure — German creatine brand commenters trust for purity.",
+      "why_included": "The thread turned into a concrete brand recommendation instead of generic supplement talk.",
+      "evidence": "A commenter said they use Creapure and that it seems legit, while others called it the purity-focused option."
+    },
+    {
+      "name": "Signal",
+      "category": "📱 Apps & Messaging",
+      "thing_url": "https://signal.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48347354",
+      "source_story_title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "summary": "Signal — encrypted messenger commenters said spreads once people start using it.",
+      "why_included": "Commenters used Signal as the obvious alternative to Meta’s messaging stack.",
+      "evidence": "One commenter said mentioning Signal led friends and family to adopt it too."
+    },
+    {
+      "name": "Odysseus",
+      "category": "🤖 AI Workspaces & Editors",
+      "thing_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "hn_url": "https://news.ycombinator.com/item?id=48346693",
+      "source_story_title": "Odysseus – self-hosted AI workspace",
+      "summary": "Odysseus — self-hosted AI workspace built from mobile shells and on-device agents.",
+      "why_included": "The project stood out for its mobile-first, on-device provenance rather than just another cloud AI shell.",
+      "evidence": "The author said a chunk was built from a phone using Termux, PWA install, and on-device agents."
+    },
+    {
+      "name": "Atomic Editor",
+      "category": "🤖 AI Workspaces & Editors",
+      "thing_url": "https://kenforthewin.github.io/atomic-editor/",
+      "hn_url": "https://news.ycombinator.com/item?id=48345201",
+      "source_story_title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
+      "summary": "Atomic Editor — Obsidian-style live preview editor for CodeMirror 6.",
+      "why_included": "Commenters treated it as a serious open-source take on a hard editing UX.",
+      "evidence": "One commenter called it a good, production-quality open-source take that gets a lot right."
+    },
+    {
+      "name": "Roto",
+      "category": "🛠️ Dev Tools & Languages",
+      "thing_url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "hn_url": "https://news.ycombinator.com/item?id=48323303",
+      "source_story_title": "One year of Roto, a compiled scripting language for Rust",
+      "summary": "Roto — compiled scripting language for Rust aimed at replacing shell scripts.",
+      "why_included": "The thread showed real enthusiasm from adjacent Rust and scripting users.",
+      "evidence": "A commenter said they’d love to replace more POSIX scripts with something saner, and another said they would add support in Rama."
+    },
+    {
+      "name": "S.E.C.R.E.T",
+      "category": "📚 Sites & Archives",
+      "thing_url": "https://secret-archive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48321089",
+      "source_story_title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+      "summary": "S.E.C.R.E.T — archive of security-envelope pattern examples with a polished presentation.",
+      "why_included": "The archive got unusually strong aesthetic praise, not just technical curiosity.",
+      "evidence": "Commenters called it a beautiful website and a very cool site with great design."
+    }
+  ]
+}

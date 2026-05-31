@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-31T21:17:03Z",
+  "id": "roto",
+  "last_seen_at": "2026-05-31T21:17:03Z",
+  "latest_mention_id": "2026-05-31:roto:48323303",
+  "mention_ids": [
+    "2026-05-31:roto:48323303"
+  ],
+  "name": "Roto",
+  "slug": "roto",
+  "summary": "Roto \u2014 compiled scripting language for Rust aimed at replacing shell scripts.",
+  "thing_url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+  "times_seen": 1,
+  "why_included": "The thread showed real enthusiasm from adjacent Rust and scripting users."
+}

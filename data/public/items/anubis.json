@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-31T21:17:03Z",
+  "id": "anubis",
+  "last_seen_at": "2026-05-31T21:17:03Z",
+  "latest_mention_id": "2026-05-31:anubis:48345840",
+  "mention_ids": [
+    "2026-05-31:anubis:48345840"
+  ],
+  "name": "Anubis",
+  "slug": "anubis",
+  "summary": "Anubis \u2014 anti-bot software that adds proof-of-work friction for crawlers.",
+  "thing_url": "https://github.com/TecharoHQ/anubis",
+  "times_seen": 1,
+  "why_included": "A practical anti-bot tool surfaced as a low-friction alternative for sites fighting scrapers."
+}

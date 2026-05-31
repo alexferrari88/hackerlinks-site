@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-05-31T21:17:03Z",
+  "id": "odysseus",
+  "last_seen_at": "2026-05-31T21:17:03Z",
+  "latest_mention_id": "2026-05-31:odysseus:48346693",
+  "mention_ids": [
+    "2026-05-31:odysseus:48346693"
+  ],
+  "name": "Odysseus",
+  "slug": "odysseus",
+  "summary": "Odysseus \u2014 self-hosted AI workspace built from mobile shells and on-device agents.",
+  "thing_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+  "times_seen": 1,
+  "why_included": "The project stood out for its mobile-first, on-device provenance rather than just another cloud AI shell."
+}

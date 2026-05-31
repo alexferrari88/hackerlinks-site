@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said OpenWRT uses Anubis and preferred waiting over \"finding Waldos\"; another described it as the tool that uses proof-of-work instead.",
+  "hn_url": "https://news.ycombinator.com/item?id=48345840",
+  "id": "2026-05-31:anubis:48345840",
+  "is_repeat": false,
+  "issue_id": "2026-05-31",
+  "item_id": "anubis",
+  "rank": 1,
+  "seen_at": "2026-05-31T21:17:03Z",
+  "source_story_id": "48345840",
+  "source_story_title": "Cloudflare Turnstile requiring fingerprintable WebGL"
+}
