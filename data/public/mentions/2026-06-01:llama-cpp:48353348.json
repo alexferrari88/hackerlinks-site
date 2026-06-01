@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said llama.cpp is much faster and better than Ollama, though less user-friendly.",
+  "hn_url": "https://news.ycombinator.com/item?id=48353348",
+  "id": "2026-06-01:llama-cpp:48353348",
+  "is_repeat": false,
+  "issue_id": "2026-06-01",
+  "item_id": "llama-cpp",
+  "rank": 12,
+  "seen_at": "2026-06-01T21:20:14Z",
+  "source_story_id": "48353348",
+  "source_story_title": "A 10 year old Xeon is all you need"
+}

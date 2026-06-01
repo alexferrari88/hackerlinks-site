@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "llama-cpp",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:llama-cpp:48353348",
+  "mention_ids": [
+    "2026-06-01:llama-cpp:48353348"
+  ],
+  "name": "llama.cpp",
+  "slug": "llama-cpp",
+  "summary": "llama.cpp \u2014 C/C++ LLM inference project commenters praised over Ollama.",
+  "thing_url": "https://github.com/ggml-org/llama.cpp",
+  "times_seen": 1,
+  "why_included": "It surfaced as a concrete local-AI tool with a better performance reputation."
+}

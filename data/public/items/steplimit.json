@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "steplimit",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:steplimit:48312443",
+  "mention_ids": [
+    "2026-06-01:steplimit:48312443"
+  ],
+  "name": "StepLimit",
+  "slug": "steplimit",
+  "summary": "StepLimit \u2014 iPhone app that unlocks app time only after you walk.",
+  "thing_url": "https://steplimit.com/",
+  "times_seen": 1,
+  "why_included": "The walking-for-time mechanic turned attention control into an explicit earned reward."
+}

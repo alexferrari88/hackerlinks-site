@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "dosbox-staging",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:dosbox-staging:48356603",
+  "mention_ids": [
+    "2026-06-01:dosbox-staging:48356603"
+  ],
+  "name": "DOSBox Staging",
+  "slug": "dosbox-staging",
+  "summary": "DOSBox Staging \u2014 polished DOSBox continuation with current development and filters.",
+  "thing_url": "https://www.dosbox-staging.org/",
+  "times_seen": 1,
+  "why_included": "Readers praised its active maintenance and modern polish over the frozen original."
+}

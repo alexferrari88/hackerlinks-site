@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "dosbox-x",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:dosbox-x:48356603",
+  "mention_ids": [
+    "2026-06-01:dosbox-x:48356603"
+  ],
+  "name": "DOSBox-X",
+  "slug": "dosbox-x",
+  "summary": "DOSBox-X \u2014 actively maintained DOSBox fork with broader compatibility and extras.",
+  "thing_url": "https://dosbox-x.com/",
+  "times_seen": 1,
+  "why_included": "Commenters treated modern DOSBox forks as the real answer for Mac DOS gaming."
+}

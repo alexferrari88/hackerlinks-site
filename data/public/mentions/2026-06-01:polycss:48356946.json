@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread benchmarked it against Three.js and discussed the low-poly DOM approach.",
+  "hn_url": "https://news.ycombinator.com/item?id=48356946",
+  "id": "2026-06-01:polycss:48356946",
+  "is_repeat": false,
+  "issue_id": "2026-06-01",
+  "item_id": "polycss",
+  "rank": 10,
+  "seen_at": "2026-06-01T21:20:14Z",
+  "source_story_id": "48356946",
+  "source_story_title": "Show HN: A CSS 3D Engine (no WebGL)"
+}

@@ -2911,6 +2911,78 @@
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
       "times_reported": 1
+    },
+    {
+      "name": "One Sec",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ScreenZen",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "AppBlock",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "StepLimit",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DOSBox-X",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DOSBox Staging",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DOSBox Pure",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Boxer",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Expanse",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "PolyCSS",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Gitea",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "llama.cpp",
+      "first_reported_at": "2026-06-01T21:20:14Z",
+      "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
     }
   ]
 }

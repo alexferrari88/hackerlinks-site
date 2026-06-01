@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "run_date": "2026-06-01",
+  "generated_at": "2026-06-01T21:20:14Z",
+  "summary": {
+    "stories_scanned": 25,
+    "items_reported": 12,
+    "full_comment_tree_crawled": false,
+    "comment_fetch_errors": 0
+  },
+  "items": [
+    {
+      "name": "One Sec",
+      "category": "📱 Focus & Digital Wellbeing",
+      "thing_url": "https://one-sec.app/platforms/",
+      "hn_url": "https://news.ycombinator.com/item?id=48312443",
+      "source_story_title": "I made my phone slow on purpose",
+      "summary": "One Sec — friction app that adds a pause before opening distracting apps.",
+      "why_included": "Commenters said the pause worked better than simple blockers at breaking the scroll loop.",
+      "evidence": "One user said it helped them delete Instagram and never look back."
+    },
+    {
+      "name": "ScreenZen",
+      "category": "📱 Focus & Digital Wellbeing",
+      "thing_url": "https://screenzen.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=48312443",
+      "source_story_title": "I made my phone slow on purpose",
+      "summary": "ScreenZen — donation-supported screen-time blocker with mindful app-opening prompts.",
+      "why_included": "Readers preferred its lower-friction pricing and behavior-changing prompts over rigid blockers.",
+      "evidence": "A commenter said it was their preferred blocker and cited the one-time tip model."
+    },
+    {
+      "name": "AppBlock",
+      "category": "📱 Focus & Digital Wellbeing",
+      "thing_url": "https://appblock.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48312443",
+      "source_story_title": "I made my phone slow on purpose",
+      "summary": "AppBlock — Android app blocker with timed lockouts and website blocking.",
+      "why_included": "The thread highlighted a stricter wait-and-relock flow for people who bypass normal limits.",
+      "evidence": "A commenter described waiting three minutes without switching apps, then relocking 15 minutes later."
+    },
+    {
+      "name": "StepLimit",
+      "category": "📱 Focus & Digital Wellbeing",
+      "thing_url": "https://steplimit.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48312443",
+      "source_story_title": "I made my phone slow on purpose",
+      "summary": "StepLimit — iPhone app that unlocks app time only after you walk.",
+      "why_included": "The walking-for-time mechanic turned attention control into an explicit earned reward.",
+      "evidence": "One commenter liked earning minutes on tracked apps by walking."
+    },
+    {
+      "name": "DOSBox-X",
+      "category": "🎮 Retro Gaming & Emulation",
+      "thing_url": "https://dosbox-x.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356603",
+      "source_story_title": "Windows GOG DOS Games on M-Series Macs",
+      "summary": "DOSBox-X — actively maintained DOSBox fork with broader compatibility and extras.",
+      "why_included": "Commenters treated modern DOSBox forks as the real answer for Mac DOS gaming.",
+      "evidence": "A commenter said vanilla DOSBox was least interesting and listed DOSBox-X among the main maintained forks."
+    },
+    {
+      "name": "DOSBox Staging",
+      "category": "🎮 Retro Gaming & Emulation",
+      "thing_url": "https://www.dosbox-staging.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356603",
+      "source_story_title": "Windows GOG DOS Games on M-Series Macs",
+      "summary": "DOSBox Staging — polished DOSBox continuation with current development and filters.",
+      "why_included": "Readers praised its active maintenance and modern polish over the frozen original.",
+      "evidence": "The thread singled it out alongside DOSBox-X and praised its CRT-style display filters."
+    },
+    {
+      "name": "DOSBox Pure",
+      "category": "🎮 Retro Gaming & Emulation",
+      "thing_url": "https://github.com/schellingb/dosbox-pure",
+      "hn_url": "https://news.ycombinator.com/item?id=48356603",
+      "source_story_title": "Windows GOG DOS Games on M-Series Macs",
+      "summary": "DOSBox Pure — RetroArch-friendly DOSBox fork that bundles games into single zips.",
+      "why_included": "The packaging model makes classic DOS games easier to manage and launch.",
+      "evidence": "A commenter liked putting full games into one zip file and using it like a console-style bundle."
+    },
+    {
+      "name": "Boxer",
+      "category": "🎮 Retro Gaming & Emulation",
+      "thing_url": "http://boxerapp.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356603",
+      "source_story_title": "Windows GOG DOS Games on M-Series Macs",
+      "summary": "Boxer — Mac DOS game launcher remembered for the nicest retro-game UX.",
+      "why_included": "The thread kept returning to Boxer as the most elegant Mac front end for old DOS titles.",
+      "evidence": "Commenters called it wonderful in its day and noted GOG used it for Mac DOS releases."
+    },
+    {
+      "name": "Expanse",
+      "category": "🧪 AI, Infra & Experiments",
+      "thing_url": "https://expanse.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356312",
+      "source_story_title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+      "summary": "Expanse — cluster prediction layer that reduces wasted GPU and HPC capacity.",
+      "why_included": "It is a concrete launch solving an expensive infrastructure problem with measurable waste.",
+      "evidence": "The launch thread said it predicts what a job actually needs before submission to cut waste."
+    },
+    {
+      "name": "PolyCSS",
+      "category": "🧪 AI, Infra & Experiments",
+      "thing_url": "https://polycss.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356946",
+      "source_story_title": "Show HN: A CSS 3D Engine (no WebGL)",
+      "summary": "PolyCSS — CSS-based 3D engine that renders low-poly scenes in the DOM.",
+      "why_included": "Commenters liked the unusual tradeoff for small scenes where DOM integration matters.",
+      "evidence": "The thread benchmarked it against Three.js and discussed the low-poly DOM approach."
+    },
+    {
+      "name": "Gitea",
+      "category": "🛠️ Dev Tools & Platforms",
+      "thing_url": "https://about.gitea.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48361064",
+      "source_story_title": "GitHub and the crime against software",
+      "summary": "Gitea — self-hosted Git service suggested as a lighter GitHub alternative.",
+      "why_included": "The GitHub critique thread repeatedly pushed self-hosting and modular tool stacks.",
+      "evidence": "Commenters suggested self-hosted forges and migration-friendly alternatives instead of GitHub lock-in."
+    },
+    {
+      "name": "llama.cpp",
+      "category": "🤖 Local AI & Inference",
+      "thing_url": "https://github.com/ggml-org/llama.cpp",
+      "hn_url": "https://news.ycombinator.com/item?id=48353348",
+      "source_story_title": "A 10 year old Xeon is all you need",
+      "summary": "llama.cpp — C/C++ LLM inference project commenters praised over Ollama.",
+      "why_included": "It surfaced as a concrete local-AI tool with a better performance reputation.",
+      "evidence": "A commenter said llama.cpp is much faster and better than Ollama, though less user-friendly."
+    }
+  ]
+}

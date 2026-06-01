@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "expanse",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:expanse:48356312",
+  "mention_ids": [
+    "2026-06-01:expanse:48356312"
+  ],
+  "name": "Expanse",
+  "slug": "expanse",
+  "summary": "Expanse \u2014 cluster prediction layer that reduces wasted GPU and HPC capacity.",
+  "thing_url": "https://expanse.sh/",
+  "times_seen": 1,
+  "why_included": "It is a concrete launch solving an expensive infrastructure problem with measurable waste."
+}

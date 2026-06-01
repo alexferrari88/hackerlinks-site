@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "gitea",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:gitea:48361064",
+  "mention_ids": [
+    "2026-06-01:gitea:48361064"
+  ],
+  "name": "Gitea",
+  "slug": "gitea",
+  "summary": "Gitea \u2014 self-hosted Git service suggested as a lighter GitHub alternative.",
+  "thing_url": "https://about.gitea.com/",
+  "times_seen": 1,
+  "why_included": "The GitHub critique thread repeatedly pushed self-hosting and modular tool stacks."
+}

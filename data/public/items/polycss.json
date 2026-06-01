@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "polycss",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:polycss:48356946",
+  "mention_ids": [
+    "2026-06-01:polycss:48356946"
+  ],
+  "name": "PolyCSS",
+  "slug": "polycss",
+  "summary": "PolyCSS \u2014 CSS-based 3D engine that renders low-poly scenes in the DOM.",
+  "thing_url": "https://polycss.com/",
+  "times_seen": 1,
+  "why_included": "Commenters liked the unusual tradeoff for small scenes where DOM integration matters."
+}

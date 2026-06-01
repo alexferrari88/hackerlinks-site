@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "dosbox-pure",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:dosbox-pure:48356603",
+  "mention_ids": [
+    "2026-06-01:dosbox-pure:48356603"
+  ],
+  "name": "DOSBox Pure",
+  "slug": "dosbox-pure",
+  "summary": "DOSBox Pure \u2014 RetroArch-friendly DOSBox fork that bundles games into single zips.",
+  "thing_url": "https://github.com/schellingb/dosbox-pure",
+  "times_seen": 1,
+  "why_included": "The packaging model makes classic DOS games easier to manage and launch."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "boxer",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:boxer:48356603",
+  "mention_ids": [
+    "2026-06-01:boxer:48356603"
+  ],
+  "name": "Boxer",
+  "slug": "boxer",
+  "summary": "Boxer \u2014 Mac DOS game launcher remembered for the nicest retro-game UX.",
+  "thing_url": "http://boxerapp.com/",
+  "times_seen": 1,
+  "why_included": "The thread kept returning to Boxer as the most elegant Mac front end for old DOS titles."
+}

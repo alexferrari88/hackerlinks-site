@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-01T21:20:14Z",
+  "id": "one-sec",
+  "last_seen_at": "2026-06-01T21:20:14Z",
+  "latest_mention_id": "2026-06-01:one-sec:48312443",
+  "mention_ids": [
+    "2026-06-01:one-sec:48312443"
+  ],
+  "name": "One Sec",
+  "slug": "one-sec",
+  "summary": "One Sec \u2014 friction app that adds a pause before opening distracting apps.",
+  "thing_url": "https://one-sec.app/platforms/",
+  "times_seen": 1,
+  "why_included": "Commenters said the pause worked better than simple blockers at breaking the scroll loop."
+}
