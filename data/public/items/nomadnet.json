@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "nomadnet",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:nomadnet:48363882",
+  "mention_ids": [
+    "2026-06-02:nomadnet:48363882"
+  ],
+  "name": "NomadNet",
+  "slug": "nomadnet",
+  "summary": "NomadNet \u2014 peer-to-peer networking app for the Reticulum stack.",
+  "thing_url": "https://github.com/markqvist/nomadnet",
+  "times_seen": 1,
+  "why_included": "It stood out as a concrete alternative to the centralized web."
+}

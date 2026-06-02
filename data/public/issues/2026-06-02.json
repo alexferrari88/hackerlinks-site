@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T21:19:46+00:00",
+  "headline": "11 interesting things surfaced from HN on 2026-06-02",
+  "id": "2026-06-02",
+  "mention_ids": [
+    "2026-06-02:fastmail:48375016",
+    "2026-06-02:mailbox-org:48375016",
+    "2026-06-02:proton-mail:48375016",
+    "2026-06-02:hp-16c-collector-s-edition:48374685",
+    "2026-06-02:swissmicros-dm16c:48374685",
+    "2026-06-02:swissmicros-dm42n:48374685",
+    "2026-06-02:nomadnet:48363882",
+    "2026-06-02:gitbutler:48373764",
+    "2026-06-02:lazyworktree:48373764",
+    "2026-06-02:jeep:48367907",
+    "2026-06-02:adafruit:48368121"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

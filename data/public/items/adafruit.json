@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "adafruit",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:adafruit:48368121",
+  "mention_ids": [
+    "2026-06-02:adafruit:48368121"
+  ],
+  "name": "Adafruit",
+  "slug": "adafruit",
+  "summary": "Adafruit \u2014 maker hardware retailer and learning platform.",
+  "thing_url": "https://www.adafruit.com/",
+  "times_seen": 1,
+  "why_included": "The dispute thread gave Adafruit unusually strong reputation credit."
+}

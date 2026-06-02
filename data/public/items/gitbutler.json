@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "gitbutler",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:gitbutler:48373764",
+  "mention_ids": [
+    "2026-06-02:gitbutler:48373764"
+  ],
+  "name": "GitButler",
+  "slug": "gitbutler",
+  "summary": "GitButler \u2014 Git-backed change manager for parallel agent workflows.",
+  "thing_url": "https://gitbutler.com/",
+  "times_seen": 1,
+  "why_included": "It was singled out as the better worktree-era alternative."
+}

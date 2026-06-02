@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "jeep",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:jeep:48367907",
+  "mention_ids": [
+    "2026-06-02:jeep:48367907"
+  ],
+  "name": "jeep",
+  "slug": "jeep",
+  "summary": "jeep \u2014 Janet package manager for vendoring deps and modern installs.",
+  "thing_url": "https://github.com/pyrmont/jeep/",
+  "times_seen": 1,
+  "why_included": "It was recommended as the practical package-management answer in the Janet thread."
+}

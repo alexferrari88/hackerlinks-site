@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "swissmicros-dm16c",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:swissmicros-dm16c:48374685",
+  "mention_ids": [
+    "2026-06-02:swissmicros-dm16c:48374685"
+  ],
+  "name": "SwissMicros DM16C",
+  "slug": "swissmicros-dm16c",
+  "summary": "SwissMicros DM16C \u2014 modern programmer calculator for HP-16C fans.",
+  "thing_url": "https://www.swissmicros.com/product/dm16c",
+  "times_seen": 1,
+  "why_included": "It came up as the trusted fallback while waiting for HP\u2019s reissue."
+}

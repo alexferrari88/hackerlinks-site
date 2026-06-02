@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "mailbox-org",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:mailbox-org:48375016",
+  "mention_ids": [
+    "2026-06-02:mailbox-org:48375016"
+  ],
+  "name": "mailbox.org",
+  "slug": "mailbox-org",
+  "summary": "mailbox.org \u2014 secure email and workspace host with strong value.",
+  "thing_url": "https://mailbox.org/en/",
+  "times_seen": 1,
+  "why_included": "It was recommended as a practical, lower-cost Gmail alternative."
+}

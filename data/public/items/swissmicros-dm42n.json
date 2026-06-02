@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "swissmicros-dm42n",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:swissmicros-dm42n:48374685",
+  "mention_ids": [
+    "2026-06-02:swissmicros-dm42n:48374685"
+  ],
+  "name": "SwissMicros DM42n",
+  "slug": "swissmicros-dm42n",
+  "summary": "SwissMicros DM42n \u2014 modern replacement for the classic HP-42S.",
+  "thing_url": "https://www.swissmicros.com/product/model-dm42n",
+  "times_seen": 1,
+  "why_included": "The thread treated it as the stronger SwissMicros recommendation."
+}

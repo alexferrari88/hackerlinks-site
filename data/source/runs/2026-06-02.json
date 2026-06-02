@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "run_date": "2026-06-02",
+  "generated_at": "2026-06-02T21:19:46+00:00",
+  "summary": {
+    "stories_scraped": 20,
+    "items_surfaced": 11,
+    "categories": [
+      "Calculators",
+      "Dev Workflows",
+      "Email",
+      "Maker Hardware",
+      "P2P & Web Alternatives"
+    ]
+  },
+  "items": [
+    {
+      "name": "Fastmail",
+      "thing_url": "https://www.fastmail.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375016",
+      "source_story_title": "Gmail thinks I'm stupid, so I left",
+      "summary": "Fastmail — privacy-focused email host and Gmail migration target.",
+      "why_included": "Commenters repeatedly named it as the cleanest Gmail escape hatch.",
+      "evidence": "HN commenters said Gmail’s AI nudges pushed them toward Fastmail, including custom-domain migrations.",
+      "category": "Email"
+    },
+    {
+      "name": "mailbox.org",
+      "thing_url": "https://mailbox.org/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375016",
+      "source_story_title": "Gmail thinks I'm stupid, so I left",
+      "summary": "mailbox.org — secure email and workspace host with strong value.",
+      "why_included": "It was recommended as a practical, lower-cost Gmail alternative.",
+      "evidence": "The thread cited its annual price, aliases, multiple domains, and family accounts as a strong package.",
+      "category": "Email"
+    },
+    {
+      "name": "Proton Mail",
+      "thing_url": "https://proton.me/mail",
+      "hn_url": "https://news.ycombinator.com/item?id=48375016",
+      "source_story_title": "Gmail thinks I'm stupid, so I left",
+      "summary": "Proton Mail — encrypted email service for privacy-minded users.",
+      "why_included": "It was part of the thread’s main shortlist of Gmail exits.",
+      "evidence": "Commenters listed it alongside Fastmail and mailbox.org, while noting possible deliverability tradeoffs.",
+      "category": "Email"
+    },
+    {
+      "name": "HP-16C Collector's Edition",
+      "thing_url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "hn_url": "https://news.ycombinator.com/item?id=48374685",
+      "source_story_title": "HP re-releases classic computer science calculator: The HP-16C",
+      "summary": "HP-16C Collector's Edition — reissue of HP's programmer calculator.",
+      "why_included": "The thread showed real nostalgia and practical affection for the classic calculator.",
+      "evidence": "Commenters discussed the preorder price, official licensee status, and how original HP calculators still get used.",
+      "category": "Calculators"
+    },
+    {
+      "name": "SwissMicros DM16C",
+      "thing_url": "https://www.swissmicros.com/product/dm16c",
+      "hn_url": "https://news.ycombinator.com/item?id=48374685",
+      "source_story_title": "HP re-releases classic computer science calculator: The HP-16C",
+      "summary": "SwissMicros DM16C — modern programmer calculator for HP-16C fans.",
+      "why_included": "It came up as the trusted fallback while waiting for HP’s reissue.",
+      "evidence": "A commenter said they bought a DM16C while waiting for the original re-release.",
+      "category": "Calculators"
+    },
+    {
+      "name": "SwissMicros DM42n",
+      "thing_url": "https://www.swissmicros.com/product/model-dm42n",
+      "hn_url": "https://news.ycombinator.com/item?id=48374685",
+      "source_story_title": "HP re-releases classic computer science calculator: The HP-16C",
+      "summary": "SwissMicros DM42n — modern replacement for the classic HP-42S.",
+      "why_included": "The thread treated it as the stronger SwissMicros recommendation.",
+      "evidence": "Commenters recommended the DM42/DM42n as the modern reimplementation for HP-42S fans.",
+      "category": "Calculators"
+    },
+    {
+      "name": "NomadNet",
+      "thing_url": "https://github.com/markqvist/nomadnet",
+      "hn_url": "https://news.ycombinator.com/item?id=48363882",
+      "source_story_title": "Age verification for social media, the beginning of the end for a free internet?",
+      "summary": "NomadNet — peer-to-peer networking app for the Reticulum stack.",
+      "why_included": "It stood out as a concrete alternative to the centralized web.",
+      "evidence": "A commenter said they enjoyed playing with NomadNet and Reticulum as a P2P alternative to the WWW.",
+      "category": "P2P & Web Alternatives"
+    },
+    {
+      "name": "GitButler",
+      "thing_url": "https://gitbutler.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48373764",
+      "source_story_title": "GitHub Copilot App",
+      "summary": "GitButler — Git-backed change manager for parallel agent workflows.",
+      "why_included": "It was singled out as the better worktree-era alternative.",
+      "evidence": "The Copilot App thread explicitly praised GitButler as a stronger option than worktree-like variants.",
+      "category": "Dev Workflows"
+    },
+    {
+      "name": "LazyWorktree",
+      "thing_url": "https://chmouel.github.io/lazyworktree/",
+      "hn_url": "https://news.ycombinator.com/item?id=48373764",
+      "source_story_title": "GitHub Copilot App",
+      "summary": "LazyWorktree — TUI for creating and managing git worktrees.",
+      "why_included": "It was mentioned as a beloved workflow tool for isolated repo work.",
+      "evidence": "HN commenters called lazyworktree a favored way to manage worktrees during agent-heavy coding.",
+      "category": "Dev Workflows"
+    },
+    {
+      "name": "jeep",
+      "thing_url": "https://github.com/pyrmont/jeep/",
+      "hn_url": "https://news.ycombinator.com/item?id=48367907",
+      "source_story_title": "Why Janet? (2023)",
+      "summary": "jeep — Janet package manager for vendoring deps and modern installs.",
+      "why_included": "It was recommended as the practical package-management answer in the Janet thread.",
+      "evidence": "A commenter asked “Have you tried jeep?” and said it lets Janet users vendor deps and install modern packages easily.",
+      "category": "Dev Workflows"
+    },
+    {
+      "name": "Adafruit",
+      "thing_url": "https://www.adafruit.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48368121",
+      "source_story_title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "summary": "Adafruit — maker hardware retailer and learning platform.",
+      "why_included": "The dispute thread gave Adafruit unusually strong reputation credit.",
+      "evidence": "Commenters praised its products, documentation, shipping, support, and breakout-board ecosystem.",
+      "category": "Maker Hardware"
+    }
+  ]
+}

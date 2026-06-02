@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-02T21:19:46+00:00",
+  "id": "fastmail",
+  "last_seen_at": "2026-06-02T21:19:46+00:00",
+  "latest_mention_id": "2026-06-02:fastmail:48375016",
+  "mention_ids": [
+    "2026-06-02:fastmail:48375016"
+  ],
+  "name": "Fastmail",
+  "slug": "fastmail",
+  "summary": "Fastmail \u2014 privacy-focused email host and Gmail migration target.",
+  "thing_url": "https://www.fastmail.com/",
+  "times_seen": 1,
+  "why_included": "Commenters repeatedly named it as the cleanest Gmail escape hatch."
+}
