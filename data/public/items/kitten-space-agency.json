@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "id": "kitten-space-agency",
+  "last_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "latest_mention_id": "2026-06-03:kitten-space-agency:48356449",
+  "mention_ids": [
+    "2026-06-03:kitten-space-agency:48356449"
+  ],
+  "name": "Kitten Space Agency",
+  "slug": "kitten-space-agency",
+  "summary": "Kitten Space Agency \u2014 a RocketWerkz space sim commenters told people to check out.",
+  "thing_url": "https://rocketwerkz.com/",
+  "times_seen": 1,
+  "why_included": "It was recommended directly to fans of space simulation games."
+}

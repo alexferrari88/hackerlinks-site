@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "id": "sparkfx-studio",
+  "last_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "latest_mention_id": "2026-06-03:sparkfx-studio:48384482",
+  "mention_ids": [
+    "2026-06-03:sparkfx-studio:48384482"
+  ],
+  "name": "SparkFX Studio",
+  "slug": "sparkfx-studio",
+  "summary": "SparkFX Studio \u2014 a Resolve workflow-automation tool pitched as a time saver.",
+  "thing_url": "https://sparkfxstudio.com/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a practical editing accelerator."
+}

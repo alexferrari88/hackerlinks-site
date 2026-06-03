@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "run_date": "2026-06-03",
+  "generated_at": "2026-06-03T21:00:19.653887+00:00",
+  "summary": {
+    "stories_qualified": 23,
+    "stories_attempted": 23,
+    "items_reported": 9
+  },
+  "items": [
+    {
+      "name": "Elixir",
+      "thing_url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "hn_url": "https://news.ycombinator.com/item?id=48388324",
+      "source_story_title": "Elixir v1.20: Now a gradually typed language",
+      "category": "Functional Languages & Web Frameworks",
+      "summary": "Elixir v1.20 — the language release with gradual typing.",
+      "why_included": "Commenters praised the upgrade path and the compiler’s new bug-catching behavior.",
+      "evidence": "A comment said updating Elixir had “no breaking changes across my many projects” and that the compiler “finds bugs for free.”"
+    },
+    {
+      "name": "Gleam",
+      "thing_url": "https://gleam.run/",
+      "hn_url": "https://news.ycombinator.com/item?id=48388324",
+      "source_story_title": "Elixir v1.20: Now a gradually typed language",
+      "category": "Functional Languages & Web Frameworks",
+      "summary": "Gleam — a typed BEAM language commenters held up as the Elixir alternative.",
+      "why_included": "The thread framed it as the language to choose if you want types first.",
+      "evidence": "One comment asked “why use Elixir over Gleam now?” and another said “if you don’t care about either of those things and only about types, use Gleam.”"
+    },
+    {
+      "name": "Phoenix",
+      "thing_url": "https://www.phoenixframework.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48388324",
+      "source_story_title": "Elixir v1.20: Now a gradually typed language",
+      "category": "Functional Languages & Web Frameworks",
+      "summary": "Phoenix — the Elixir web framework with a strong reputation for macros and productivity.",
+      "why_included": "Commenters pointed to Phoenix as a flagship Elixir library worth caring about.",
+      "evidence": "A comment noted that libraries “such as Phoenix and Ecto” use macros “to great effect.”"
+    },
+    {
+      "name": "DuckStation",
+      "thing_url": "https://duckstation.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382142",
+      "source_story_title": "PlayStation Architecture",
+      "category": "Emulators, Games & Interactive Demos",
+      "summary": "DuckStation — a PS1 emulator commenters called great on desktop.",
+      "why_included": "It got an explicit positive recommendation alongside another respected emulator.",
+      "evidence": "One comment said “PCSX-Redux [0] has been great on desktop, and DuckStation [1] as well.”"
+    },
+    {
+      "name": "PCSX-Redux",
+      "thing_url": "https://github.com/grumpycoders/pcsx-redux",
+      "hn_url": "https://news.ycombinator.com/item?id=48382142",
+      "source_story_title": "PlayStation Architecture",
+      "category": "Emulators, Games & Interactive Demos",
+      "summary": "PCSX-Redux — a PlayStation emulator and reverse-engineering toolkit praised on HN.",
+      "why_included": "Commenters singled it out as a solid desktop emulator/tooling option.",
+      "evidence": "The thread described PCSX-Redux as “great on desktop” and linked it directly in the same praise as DuckStation."
+    },
+    {
+      "name": "Pink Trombone",
+      "thing_url": "https://dood.al/pinktrombone/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382305",
+      "source_story_title": "What I've learned about the trombone",
+      "category": "Emulators, Games & Interactive Demos",
+      "summary": "Pink Trombone — an interactive vocal-tract simulator and music-education demo.",
+      "why_included": "A commenter explicitly linked it as a fun, concrete thing to try.",
+      "evidence": "The thread included a direct “Pink Trombone https://dood.al/pinktrombone/” recommendation."
+    },
+    {
+      "name": "Kitten Space Agency",
+      "thing_url": "https://rocketwerkz.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356449",
+      "source_story_title": "Stop Killing Games",
+      "category": "Emulators, Games & Interactive Demos",
+      "summary": "Kitten Space Agency — a RocketWerkz space sim commenters told people to check out.",
+      "why_included": "It was recommended directly to fans of space simulation games.",
+      "evidence": "One comment said, “If any of you are fans of space simulator games, I’d check out Kitten Space Agency by RocketWerkz.”"
+    },
+    {
+      "name": "SparkFX Studio",
+      "thing_url": "https://sparkfxstudio.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48384482",
+      "source_story_title": "DaVinci Resolve 21",
+      "category": "Workflow Tools",
+      "summary": "SparkFX Studio — a Resolve workflow-automation tool pitched as a time saver.",
+      "why_included": "A commenter recommended it as a practical editing accelerator.",
+      "evidence": "A comment said it’s “an AI tool for helping speed up video workflows using agentic AI” and “presently in beta.”"
+    },
+    {
+      "name": "Wireshark",
+      "thing_url": "https://www.wireshark.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382310",
+      "source_story_title": "Hacking your PC using your speaker without ever touching it",
+      "category": "Workflow Tools",
+      "summary": "Wireshark — the network analyzer one commenter used to reverse-engineer device traffic.",
+      "why_included": "It was cited as a real tool used in the attack analysis.",
+      "evidence": "A commenter wrote they used Wireshark to sniff the LED and EQ packets before writing a CLI utility in C."
+    }
+  ]
+}

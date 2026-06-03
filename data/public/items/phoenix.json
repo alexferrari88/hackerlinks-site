@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "id": "phoenix",
+  "last_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "latest_mention_id": "2026-06-03:phoenix:48388324",
+  "mention_ids": [
+    "2026-06-03:phoenix:48388324"
+  ],
+  "name": "Phoenix",
+  "slug": "phoenix",
+  "summary": "Phoenix \u2014 the Elixir web framework with a strong reputation for macros and productivity.",
+  "thing_url": "https://www.phoenixframework.org/",
+  "times_seen": 1,
+  "why_included": "Commenters pointed to Phoenix as a flagship Elixir library worth caring about."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "id": "wireshark",
+  "last_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "latest_mention_id": "2026-06-03:wireshark:48382310",
+  "mention_ids": [
+    "2026-06-03:wireshark:48382310"
+  ],
+  "name": "Wireshark",
+  "slug": "wireshark",
+  "summary": "Wireshark \u2014 the network analyzer one commenter used to reverse-engineer device traffic.",
+  "thing_url": "https://www.wireshark.org/",
+  "times_seen": 1,
+  "why_included": "It was cited as a real tool used in the attack analysis."
+}

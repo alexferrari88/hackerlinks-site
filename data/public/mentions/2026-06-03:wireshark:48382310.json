@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter wrote they used Wireshark to sniff the LED and EQ packets before writing a CLI utility in C.",
+  "hn_url": "https://news.ycombinator.com/item?id=48382310",
+  "id": "2026-06-03:wireshark:48382310",
+  "is_repeat": false,
+  "issue_id": "2026-06-03",
+  "item_id": "wireshark",
+  "rank": 9,
+  "seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "source_story_id": "48382310",
+  "source_story_title": "Hacking your PC using your speaker without ever touching it"
+}

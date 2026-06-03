@@ -1,0 +1,12 @@
+{
+  "evidence": "A comment said updating Elixir had \u201cno breaking changes across my many projects\u201d and that the compiler \u201cfinds bugs for free.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=48388324",
+  "id": "2026-06-03:elixir:48388324",
+  "is_repeat": false,
+  "issue_id": "2026-06-03",
+  "item_id": "elixir",
+  "rank": 1,
+  "seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "source_story_id": "48388324",
+  "source_story_title": "Elixir v1.20: Now a gradually typed language"
+}

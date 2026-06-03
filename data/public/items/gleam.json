@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "id": "gleam",
+  "last_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "latest_mention_id": "2026-06-03:gleam:48388324",
+  "mention_ids": [
+    "2026-06-03:gleam:48388324"
+  ],
+  "name": "Gleam",
+  "slug": "gleam",
+  "summary": "Gleam \u2014 a typed BEAM language commenters held up as the Elixir alternative.",
+  "thing_url": "https://gleam.run/",
+  "times_seen": 1,
+  "why_included": "The thread framed it as the language to choose if you want types first."
+}

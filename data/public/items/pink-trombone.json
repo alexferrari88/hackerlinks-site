@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "id": "pink-trombone",
+  "last_seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "latest_mention_id": "2026-06-03:pink-trombone:48382305",
+  "mention_ids": [
+    "2026-06-03:pink-trombone:48382305"
+  ],
+  "name": "Pink Trombone",
+  "slug": "pink-trombone",
+  "summary": "Pink Trombone \u2014 an interactive vocal-tract simulator and music-education demo.",
+  "thing_url": "https://dood.al/pinktrombone/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly linked it as a fun, concrete thing to try."
+}

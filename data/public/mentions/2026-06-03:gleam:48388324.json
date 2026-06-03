@@ -1,0 +1,12 @@
+{
+  "evidence": "One comment asked \u201cwhy use Elixir over Gleam now?\u201d and another said \u201cif you don\u2019t care about either of those things and only about types, use Gleam.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=48388324",
+  "id": "2026-06-03:gleam:48388324",
+  "is_repeat": false,
+  "issue_id": "2026-06-03",
+  "item_id": "gleam",
+  "rank": 2,
+  "seen_at": "2026-06-03T21:00:19.653887+00:00",
+  "source_story_id": "48388324",
+  "source_story_title": "Elixir v1.20: Now a gradually typed language"
+}
