@@ -87,6 +87,12 @@
       "times_reported": 1
     },
     {
+      "name": "Anthropic vulnerability discovery framework",
+      "first_reported_at": "2026-06-04T21:09:33Z",
+      "last_reported_at": "2026-06-04T21:09:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "Anubis",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -669,6 +675,12 @@
       "times_reported": 1
     },
     {
+      "name": "DuckStation",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Dyalog APL",
       "first_reported_at": "2026-05-14T21:22:02Z",
       "last_reported_at": "2026-05-14T21:22:02Z",
@@ -690,6 +702,12 @@
       "name": "Easyduino",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Elixir",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "times_reported": 1
     },
     {
@@ -975,6 +993,12 @@
       "times_reported": 1
     },
     {
+      "name": "Gleam",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "GliaX/Stethoscope",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
@@ -1020,6 +1044,12 @@
       "name": "GPT-5.5",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-23T21:17:00Z",
+      "times_reported": 1
+    },
+    {
+      "name": "gpt-oss-20b",
+      "first_reported_at": "2026-06-04T21:09:33Z",
+      "last_reported_at": "2026-06-04T21:09:33Z",
       "times_reported": 1
     },
     {
@@ -1293,6 +1323,12 @@
       "times_reported": 1
     },
     {
+      "name": "Kitten Space Agency",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "kitty",
       "first_reported_at": "2026-04-28T21:25:41+00:00",
       "last_reported_at": "2026-04-28T21:25:41+00:00",
@@ -1320,6 +1356,12 @@
       "name": "KOReader",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "KVarN",
+      "first_reported_at": "2026-06-04T21:09:33Z",
+      "last_reported_at": "2026-06-04T21:09:33Z",
       "times_reported": 1
     },
     {
@@ -1893,6 +1935,12 @@
       "times_reported": 1
     },
     {
+      "name": "PCSX-Redux",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Pebble",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-23T21:17:00Z",
@@ -1911,6 +1959,12 @@
       "times_reported": 1
     },
     {
+      "name": "Phoenix",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "pi.dev",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -1926,6 +1980,12 @@
       "name": "PiCorePlayer",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pink Trombone",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "times_reported": 1
     },
     {
@@ -2064,6 +2124,12 @@
       "name": "Quint",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen 3.5 9B",
+      "first_reported_at": "2026-06-04T21:09:33Z",
+      "last_reported_at": "2026-06-04T21:09:33Z",
       "times_reported": 1
     },
     {
@@ -2388,6 +2454,12 @@
       "name": "SpaceEngine",
       "first_reported_at": "2026-05-12T21:14:38Z",
       "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SparkFX Studio",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "times_reported": 1
     },
     {
@@ -2757,6 +2829,12 @@
       "times_reported": 1
     },
     {
+      "name": "Uruky",
+      "first_reported_at": "2026-06-04T21:09:33Z",
+      "last_reported_at": "2026-06-04T21:09:33Z",
+      "times_reported": 1
+    },
+    {
       "name": "USB Cheat Sheet",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
@@ -2826,6 +2904,12 @@
       "name": "Virtual OS Museum",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Vite",
+      "first_reported_at": "2026-06-04T21:09:33Z",
+      "last_reported_at": "2026-06-04T21:09:33Z",
       "times_reported": 1
     },
     {
@@ -2934,6 +3018,12 @@
       "name": "Wipr",
       "first_reported_at": "2026-04-30T21:02:46Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Wireshark",
+      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "times_reported": 1
     },
     {
@@ -3048,60 +3138,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Elixir",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Gleam",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Phoenix",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "DuckStation",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "PCSX-Redux",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Pink Trombone",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Kitten Space Agency",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "SparkFX Studio",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Wireshark",
-      "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
-      "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "times_reported": 1
     }
   ]

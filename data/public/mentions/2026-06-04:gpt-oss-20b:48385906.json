@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters grouped gpt-oss-20b with Qwen 3.5 9B and other small models as a local-inference candidate.",
+  "hn_url": "https://news.ycombinator.com/item?id=48385906",
+  "id": "2026-06-04:gpt-oss-20b:48385906",
+  "is_repeat": false,
+  "issue_id": "2026-06-04",
+  "item_id": "gpt-oss-20b",
+  "rank": 6,
+  "seen_at": "2026-06-04T21:09:33Z",
+  "source_story_id": "48385906",
+  "source_story_title": "Gemma 4 12B: A unified, encoder-free multimodal model"
+}

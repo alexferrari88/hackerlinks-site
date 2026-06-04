@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-04T21:09:33Z",
+  "id": "gpt-oss-20b",
+  "last_seen_at": "2026-06-04T21:09:33Z",
+  "latest_mention_id": "2026-06-04:gpt-oss-20b:48385906",
+  "mention_ids": [
+    "2026-06-04:gpt-oss-20b:48385906"
+  ],
+  "name": "gpt-oss-20b",
+  "slug": "gpt-oss-20b",
+  "summary": "Open-weight OpenAI model aimed at low-latency local or specialized use.",
+  "thing_url": "https://huggingface.co/openai/gpt-oss-20b",
+  "times_seen": 1,
+  "why_included": "It showed up in the thread as one of the compact model options people are actually comparing."
+}

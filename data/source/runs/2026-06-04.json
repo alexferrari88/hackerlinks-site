@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "run_date": "2026-06-04",
+  "generated_at": "2026-06-04T21:09:33Z",
+  "summary": {
+    "stories_scraped": 21,
+    "stories_scraped_label": "21/21",
+    "items_surfaced": 6
+  },
+  "items": [
+    {
+      "category": "Apps & Side Projects",
+      "name": "Uruky",
+      "thing_url": "https://uruky.com/?il=en",
+      "hn_url": "https://news.ycombinator.com/item?id=48396004",
+      "source_story_id": 48396004,
+      "source_story_title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "summary": "EU-based search engine with image search, URL rewrites, and API access.",
+      "why_included": "Comments liked the privacy-first EU positioning and the expanding provider mix.",
+      "evidence": "HN discussion highlighted image search, URL rewrites, a 2h free trial, and integrations like Mojeek, Marginalia, EUSP, Linkup, and Serper."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Anthropic vulnerability discovery framework",
+      "thing_url": "https://github.com/anthropics/defending-code-reference-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=48403980",
+      "source_story_id": 48403980,
+      "source_story_title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "Open-source harness for AI-assisted vulnerability discovery.",
+      "why_included": "Security-focused LLM tooling drew the clearest practical praise in the thread.",
+      "evidence": "Commenters framed security as a strong LLM use case and suggested adapting the harness to each team’s workflow instead of using it unchanged."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "KVarN",
+      "thing_url": "https://github.com/huawei-csl/KVarN",
+      "hn_url": "https://news.ycombinator.com/item?id=48399974",
+      "source_story_id": 48399974,
+      "source_story_title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "summary": "Native vLLM backend for KV-cache quantization.",
+      "why_included": "Thread consensus was that it meaningfully improves speed, even if quality is not better than FP16.",
+      "evidence": "Commenters debated the benchmark claims, concluded it is faster than FP16 rather than higher quality, and said a vLLM PR should be feasible."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Vite",
+      "thing_url": "https://vite.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48398055",
+      "source_story_id": 48398055,
+      "source_story_title": "VoidZero Is Joining Cloudflare",
+      "summary": "Frontend tooling stack that commenters treated as the best part of the VoidZero portfolio.",
+      "why_included": "The acquisition thread turned into a praise session for Vite’s developer experience and ecosystem.",
+      "evidence": "Comments said Vite made webpack-era tooling pain disappear and repeatedly referenced the broader stack—Vitest, Rolldown, Oxc, and Vite+."
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "Qwen 3.5 9B",
+      "thing_url": "https://huggingface.co/Qwen/Qwen3.5-9B-Base",
+      "hn_url": "https://news.ycombinator.com/item?id=48385906",
+      "source_story_id": 48385906,
+      "source_story_title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "summary": "Compact local model commenters recommended for laptops with limited VRAM.",
+      "why_included": "A commenter singled it out as the best fit for 16GB laptops.",
+      "evidence": "One reply called Qwen 3.5 9B the undisputed champ for 16GB laptops and compared it favorably against other small models."
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "gpt-oss-20b",
+      "thing_url": "https://huggingface.co/openai/gpt-oss-20b",
+      "hn_url": "https://news.ycombinator.com/item?id=48385906",
+      "source_story_id": 48385906,
+      "source_story_title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "summary": "Open-weight OpenAI model aimed at low-latency local or specialized use.",
+      "why_included": "It showed up in the thread as one of the compact model options people are actually comparing.",
+      "evidence": "Commenters grouped gpt-oss-20b with Qwen 3.5 9B and other small models as a local-inference candidate."
+    }
+  ]
+}

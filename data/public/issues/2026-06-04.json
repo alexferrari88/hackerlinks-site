@@ -1,0 +1,19 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T21:09:33Z",
+  "headline": "6 interesting things surfaced from HN on 2026-06-04",
+  "id": "2026-06-04",
+  "mention_ids": [
+    "2026-06-04:uruky:48396004",
+    "2026-06-04:anthropic-vulnerability-discovery-framework:48403980",
+    "2026-06-04:kvarn:48399974",
+    "2026-06-04:vite:48398055",
+    "2026-06-04:qwen-3-5-9b:48385906",
+    "2026-06-04:gpt-oss-20b:48385906"
+  ],
+  "summary": {
+    "items_surfaced": 6,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

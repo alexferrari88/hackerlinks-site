@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-04T21:09:33Z",
+  "id": "uruky",
+  "last_seen_at": "2026-06-04T21:09:33Z",
+  "latest_mention_id": "2026-06-04:uruky:48396004",
+  "mention_ids": [
+    "2026-06-04:uruky:48396004"
+  ],
+  "name": "Uruky",
+  "slug": "uruky",
+  "summary": "EU-based search engine with image search, URL rewrites, and API access.",
+  "thing_url": "https://uruky.com/?il=en",
+  "times_seen": 1,
+  "why_included": "Comments liked the privacy-first EU positioning and the expanding provider mix."
+}

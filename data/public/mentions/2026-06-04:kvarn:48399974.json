@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters debated the benchmark claims, concluded it is faster than FP16 rather than higher quality, and said a vLLM PR should be feasible.",
+  "hn_url": "https://news.ycombinator.com/item?id=48399974",
+  "id": "2026-06-04:kvarn:48399974",
+  "is_repeat": false,
+  "issue_id": "2026-06-04",
+  "item_id": "kvarn",
+  "rank": 3,
+  "seen_at": "2026-06-04T21:09:33Z",
+  "source_story_id": "48399974",
+  "source_story_title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei"
+}

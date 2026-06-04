@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-04T21:09:33Z",
+  "id": "kvarn",
+  "last_seen_at": "2026-06-04T21:09:33Z",
+  "latest_mention_id": "2026-06-04:kvarn:48399974",
+  "mention_ids": [
+    "2026-06-04:kvarn:48399974"
+  ],
+  "name": "KVarN",
+  "slug": "kvarn",
+  "summary": "Native vLLM backend for KV-cache quantization.",
+  "thing_url": "https://github.com/huawei-csl/KVarN",
+  "times_seen": 1,
+  "why_included": "Thread consensus was that it meaningfully improves speed, even if quality is not better than FP16."
+}
