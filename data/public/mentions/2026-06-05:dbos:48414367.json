@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread said \u201c2026 is the year of the Postgres queue\u201d and named DBOS directly.",
+  "hn_url": "https://news.ycombinator.com/item?id=48414367",
+  "id": "2026-06-05:dbos:48414367",
+  "is_repeat": false,
+  "issue_id": "2026-06-05",
+  "item_id": "dbos",
+  "rank": 8,
+  "seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "source_story_id": "48414367",
+  "source_story_title": "pg_durable: Microsoft open sources in-database durable execution"
+}

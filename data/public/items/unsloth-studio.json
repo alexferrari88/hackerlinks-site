@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "id": "unsloth-studio",
+  "last_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "latest_mention_id": "2026-06-05:unsloth-studio:48414653",
+  "mention_ids": [
+    "2026-06-05:unsloth-studio:48414653"
+  ],
+  "name": "Unsloth Studio",
+  "slug": "unsloth-studio",
+  "summary": "Unsloth Studio \u2014 a local GUI for running, training, and exporting open models.",
+  "thing_url": "https://unsloth.ai/docs/new/studio",
+  "times_seen": 1,
+  "why_included": "A commenter said it worked well for web search and structured JSON on phones."
+}

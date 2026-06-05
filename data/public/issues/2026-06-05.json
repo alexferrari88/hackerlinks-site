@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T21:17:48.407385+00:00",
+  "headline": "11 interesting things surfaced from HN on 2026-06-05",
+  "id": "2026-06-05",
+  "mention_ids": [
+    "2026-06-05:homerow:48383667",
+    "2026-06-05:neverclick:48383667",
+    "2026-06-05:waynav:48383667",
+    "2026-06-05:tough-things-first:48400653",
+    "2026-06-05:remind:48408016",
+    "2026-06-05:nasa-rell:48413464",
+    "2026-06-05:pg-durable:48414367",
+    "2026-06-05:dbos:48414367",
+    "2026-06-05:bliswitch:48413072",
+    "2026-06-05:word-weasel:48414027",
+    "2026-06-05:unsloth-studio:48414653"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

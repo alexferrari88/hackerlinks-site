@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "id": "homerow",
+  "last_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "latest_mention_id": "2026-06-05:homerow:48383667",
+  "mention_ids": [
+    "2026-06-05:homerow:48383667"
+  ],
+  "name": "Homerow",
+  "slug": "homerow",
+  "summary": "Homerow \u2014 keyboard shortcuts for every button in macOS.",
+  "thing_url": "https://www.homerow.app/",
+  "times_seen": 1,
+  "why_included": "Several commenters recommended it as the keyboard-first way to control macOS without a mouse."
+}

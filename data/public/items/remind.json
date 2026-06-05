@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "id": "remind",
+  "last_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "latest_mention_id": "2026-06-05:remind:48408016",
+  "mention_ids": [
+    "2026-06-05:remind:48408016"
+  ],
+  "name": "Remind",
+  "slug": "remind",
+  "summary": "Remind \u2014 a reminder app that inspired a vibe-coded rebuild.",
+  "thing_url": "https://dianne.skoll.ca/projects/remind/",
+  "times_seen": 1,
+  "why_included": "A commenter said their own reminder app was inspired by it."
+}

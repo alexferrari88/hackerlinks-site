@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-06-05",
+  "generated_at": "2026-06-05T21:17:48.407385+00:00",
+  "summary": {
+    "stories_considered": 27,
+    "stories_scraped": 27,
+    "items_reported": 11
+  },
+  "items": [
+    {
+      "name": "Homerow",
+      "thing_url": "https://www.homerow.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48383667",
+      "story_id": 48383667,
+      "source_story_title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "summary": "Homerow — keyboard shortcuts for every button in macOS.",
+      "why_included": "Several commenters recommended it as the keyboard-first way to control macOS without a mouse.",
+      "evidence": "People called it \"like vimium for your entire Mac\" and said they had been using it for years."
+    },
+    {
+      "name": "NeverClick",
+      "thing_url": "https://www.neverclick.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48383667",
+      "story_id": 48383667,
+      "source_story_title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "summary": "NeverClick — Windows-only mouse replacement with intelligent clickable-zone detection.",
+      "why_included": "A commenter said they recently installed it and liked the intelligent mode.",
+      "evidence": "The thread noted it detects possible clickable zones and is Windows-only."
+    },
+    {
+      "name": "waynav",
+      "thing_url": "https://github.com/kovetskiy/waynav",
+      "hn_url": "https://news.ycombinator.com/item?id=48383667",
+      "story_id": 48383667,
+      "source_story_title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "summary": "waynav — a Wayland port of Keynav for keyboard-driven pointer control.",
+      "why_included": "A commenter linked it as the Wayland port for keyboard-only mouse control.",
+      "evidence": "The thread explicitly pointed to \"Wayland port: waynav\" alongside other alternatives."
+    },
+    {
+      "name": "Tough Things First",
+      "thing_url": "https://toughthingsfirst.com/book/",
+      "hn_url": "https://news.ycombinator.com/item?id=48400653",
+      "story_id": 48400653,
+      "source_story_title": "Do the Hardest Thing",
+      "summary": "Tough Things First — Ray Zinn’s book on harder, broader entrepreneurial choices.",
+      "why_included": "A commenter recommended it as a worthwhile book on a similar subject.",
+      "evidence": "The thread called it down-to-earth and approachable, not just another startup cliché."
+    },
+    {
+      "name": "Remind",
+      "thing_url": "https://dianne.skoll.ca/projects/remind/",
+      "hn_url": "https://news.ycombinator.com/item?id=48408016",
+      "story_id": 48408016,
+      "source_story_title": "C++: The Documentary",
+      "summary": "Remind — a reminder app that inspired a vibe-coded rebuild.",
+      "why_included": "A commenter said their own reminder app was inspired by it.",
+      "evidence": "The thread explicitly named Remind as the original inspiration for their project."
+    },
+    {
+      "name": "NASA RELL",
+      "thing_url": "https://www.nasa.gov/wp-content/uploads/2023/10/rell-factsheet-print-041519.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48413464",
+      "story_id": 48413464,
+      "source_story_title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "summary": "NASA RELL — a robotic tool for finding and confirming ISS external leaks.",
+      "why_included": "A commenter flagged it as a useful real-world leak detection tool.",
+      "evidence": "They quoted NASA’s fact sheet describing the Robotic External Leak Locator and linked the PDF."
+    },
+    {
+      "name": "pg_durable",
+      "thing_url": "https://github.com/microsoft/pg_durable",
+      "hn_url": "https://news.ycombinator.com/item?id=48414367",
+      "story_id": 48414367,
+      "source_story_title": "pg_durable: Microsoft open sources in-database durable execution",
+      "summary": "pg_durable — Microsoft’s in-database durable execution layer for Postgres.",
+      "why_included": "Commenters treated it as a real durability primitive with useful OSS underpinnings.",
+      "evidence": "The thread linked Postgreisenough and duroxide, then discussed versioning and lifecycle."
+    },
+    {
+      "name": "DBOS",
+      "thing_url": "https://www.dbos.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414367",
+      "story_id": 48414367,
+      "source_story_title": "pg_durable: Microsoft open sources in-database durable execution",
+      "summary": "DBOS — a Postgres-native workflow and queue platform mentioned as an alternative.",
+      "why_included": "A commenter grouped it with pgQue as part of the emerging Postgres queue stack.",
+      "evidence": "The thread said “2026 is the year of the Postgres queue” and named DBOS directly."
+    },
+    {
+      "name": "BliSwitch",
+      "thing_url": "https://blikvm.com/docs/device-guides/BliSwitch-v2-guide/",
+      "hn_url": "https://news.ycombinator.com/item?id=48413072",
+      "story_id": 48413072,
+      "source_story_title": "I tested every IP KVM in my Homelab",
+      "summary": "BliSwitch — BliKVM’s switch accessory for IP KVM setups.",
+      "why_included": "A commenter noticed BliKVM was now making the BLiSwitch hardware.",
+      "evidence": "The thread linked the BliSwitch v2 guide and treated it as a new BliKVM product."
+    },
+    {
+      "name": "word-weasel",
+      "thing_url": "https://github.com/codingjoe/word-weasel",
+      "hn_url": "https://news.ycombinator.com/item?id=48414027",
+      "story_id": 48414027,
+      "source_story_title": "Conventional Commits encourages focus on the wrong things",
+      "summary": "word-weasel — a natural-language linter for technical writing.",
+      "why_included": "A commenter shared it as a tool for cleaner commit messages.",
+      "evidence": "They said they wrote it to teach teams meaningful technical writing."
+    },
+    {
+      "name": "Unsloth Studio",
+      "thing_url": "https://unsloth.ai/docs/new/studio",
+      "hn_url": "https://news.ycombinator.com/item?id=48414653",
+      "story_id": 48414653,
+      "source_story_title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "summary": "Unsloth Studio — a local GUI for running, training, and exporting open models.",
+      "why_included": "A commenter said it worked well for web search and structured JSON on phones.",
+      "evidence": "The thread praised Unsloth’s Gemma quants and said Studio/API were working well in practice."
+    }
+  ]
+}

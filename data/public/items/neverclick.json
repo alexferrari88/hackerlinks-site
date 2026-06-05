@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "id": "neverclick",
+  "last_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "latest_mention_id": "2026-06-05:neverclick:48383667",
+  "mention_ids": [
+    "2026-06-05:neverclick:48383667"
+  ],
+  "name": "NeverClick",
+  "slug": "neverclick",
+  "summary": "NeverClick \u2014 Windows-only mouse replacement with intelligent clickable-zone detection.",
+  "thing_url": "https://www.neverclick.com/",
+  "times_seen": 1,
+  "why_included": "A commenter said they recently installed it and liked the intelligent mode."
+}

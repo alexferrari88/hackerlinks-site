@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "id": "dbos",
+  "last_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "latest_mention_id": "2026-06-05:dbos:48414367",
+  "mention_ids": [
+    "2026-06-05:dbos:48414367"
+  ],
+  "name": "DBOS",
+  "slug": "dbos",
+  "summary": "DBOS \u2014 a Postgres-native workflow and queue platform mentioned as an alternative.",
+  "thing_url": "https://www.dbos.dev/",
+  "times_seen": 1,
+  "why_included": "A commenter grouped it with pgQue as part of the emerging Postgres queue stack."
+}

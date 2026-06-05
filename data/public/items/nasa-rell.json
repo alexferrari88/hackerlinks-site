@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "id": "nasa-rell",
+  "last_seen_at": "2026-06-05T21:17:48.407385+00:00",
+  "latest_mention_id": "2026-06-05:nasa-rell:48413464",
+  "mention_ids": [
+    "2026-06-05:nasa-rell:48413464"
+  ],
+  "name": "NASA RELL",
+  "slug": "nasa-rell",
+  "summary": "NASA RELL \u2014 a robotic tool for finding and confirming ISS external leaks.",
+  "thing_url": "https://www.nasa.gov/wp-content/uploads/2023/10/rell-factsheet-print-041519.pdf",
+  "times_seen": 1,
+  "why_included": "A commenter flagged it as a useful real-world leak detection tool."
+}
