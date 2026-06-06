@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-06T21:23:39Z",
+  "id": "hacktv",
+  "last_seen_at": "2026-06-06T21:23:39Z",
+  "latest_mention_id": "2026-06-06:hacktv:48428025",
+  "mention_ids": [
+    "2026-06-06:hacktv:48428025"
+  ],
+  "name": "HackTV",
+  "slug": "hacktv",
+  "summary": "Analog TV transmitter for HackRF and SDR signal experiments.",
+  "thing_url": "https://codeberg.org/fsphil/hacktv",
+  "times_seen": 1,
+  "why_included": "It was the concrete analog-TV tool the retro-video thread kept pointing back to."
+}

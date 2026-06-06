@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-06T21:23:39Z",
+  "id": "hyperrogue",
+  "last_seen_at": "2026-06-06T21:23:39Z",
+  "latest_mention_id": "2026-06-06:hyperrogue:48372138",
+  "mention_ids": [
+    "2026-06-06:hyperrogue:48372138"
+  ],
+  "name": "HyperRogue",
+  "slug": "hyperrogue",
+  "summary": "Non-Euclidean roguelike and geometry playground.",
+  "thing_url": "https://www.roguetemple.com/z/hyper/",
+  "times_seen": 1,
+  "why_included": "It was cited as the closest existing example of the same geometry idea."
+}

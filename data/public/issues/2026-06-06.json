@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T21:26:52Z",
+  "headline": "11 interesting things surfaced from HN on 2026-06-06",
+  "id": "2026-06-06",
+  "mention_ids": [
+    "2026-06-06:zeroserve:48425723",
+    "2026-06-06:judge0:48425347",
+    "2026-06-06:browserpod:48425347",
+    "2026-06-06:monty:48425347",
+    "2026-06-06:ntsc-rs:48428025",
+    "2026-06-06:hacktv:48428025",
+    "2026-06-06:pokemon-emerald-wasm-port:48423762",
+    "2026-06-06:poincake:48372138",
+    "2026-06-06:hyperrogue:48372138",
+    "2026-06-06:splash:48390269",
+    "2026-06-06:openevidence:48426022"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-06T21:23:39Z",
+  "id": "poincake",
+  "last_seen_at": "2026-06-06T21:23:39Z",
+  "latest_mention_id": "2026-06-06:poincake:48372138",
+  "mention_ids": [
+    "2026-06-06:poincake:48372138"
+  ],
+  "name": "Poincake",
+  "slug": "poincake",
+  "summary": "Infinite-canvas note-taking app in hyperbolic space.",
+  "thing_url": "https://uonr.github.io/poincake/",
+  "times_seen": 1,
+  "why_included": "Commenters found the hyperbolic note UI intuitive enough to want on a tablet."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said new servers need benchmarks to beat techempower, and another said nginx/Caddy still define the bar.",
+  "hn_url": "https://news.ycombinator.com/item?id=48425723",
+  "id": "2026-06-06:zeroserve:48425723",
+  "is_repeat": false,
+  "issue_id": "2026-06-06",
+  "item_id": "zeroserve",
+  "rank": 1,
+  "seen_at": "2026-06-06T21:26:52Z",
+  "source_story_id": "48425723",
+  "source_story_title": "Zeroserve: A zero-config web server you can script with eBPF"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter described BrowserPod as the browser-based sandbox path, with Node now and Python/Rust coming.",
+  "hn_url": "https://news.ycombinator.com/item?id=48425347",
+  "id": "2026-06-06:browserpod:48425347",
+  "is_repeat": false,
+  "issue_id": "2026-06-06",
+  "item_id": "browserpod",
+  "rank": 3,
+  "seen_at": "2026-06-06T21:26:52Z",
+  "source_story_id": "48425347",
+  "source_story_title": "Running Python code in a sandbox with MicroPython and WASM"
+}

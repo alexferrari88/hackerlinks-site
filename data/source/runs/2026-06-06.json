@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "run_date": "2026-06-06",
+  "generated_at": "2026-06-06T21:26:52Z",
+  "summary": "11 concrete items surfaced from 23 qualifying stories; strongest signals came from sandbox tools, retro-video tools, medical AI, and weird-interface experiments.",
+  "items": [
+    {
+      "name": "Zeroserve",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://su3.io/posts/introducing-zeroserve",
+      "hn_url": "https://news.ycombinator.com/item?id=48425723",
+      "source_story_title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "summary": "Zero-config eBPF web server that serves sites from a tarball.",
+      "why_included": "HN treated it as a real nginx/Caddy alternative, not just a demo.",
+      "evidence": "A commenter said new servers need benchmarks to beat techempower, and another said nginx/Caddy still define the bar."
+    },
+    {
+      "name": "Judge0",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://judge0.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48425347",
+      "source_story_title": "Running Python code in a sandbox with MicroPython and WASM",
+      "summary": "Open-source sandboxed code execution system for humans and AI.",
+      "why_included": "Commenters explicitly named it as the sandbox to reach for first.",
+      "evidence": "A commenter suggested Judge0 for sandboxing instead of reinventing it for LLMs."
+    },
+    {
+      "name": "BrowserPod",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://browserpod.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48425347",
+      "source_story_title": "Running Python code in a sandbox with MicroPython and WASM",
+      "summary": "Browser-based WebAssembly sandboxes for secure local code execution.",
+      "why_included": "It was the browser-local sandbox option with a different deployment model.",
+      "evidence": "A commenter described BrowserPod as the browser-based sandbox path, with Node now and Python/Rust coming."
+    },
+    {
+      "name": "Monty",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/pydantic/monty",
+      "hn_url": "https://news.ycombinator.com/item?id=48425347",
+      "source_story_title": "Running Python code in a sandbox with MicroPython and WASM",
+      "summary": "Rust Python subset/runtime for fast, sandboxed LLM code.",
+      "why_included": "It stood out as the ultra-fast Rust sandboxed Python option.",
+      "evidence": "The thread highlighted Monty as a tiny, isolated interpreter for LLM-generated code."
+    },
+    {
+      "name": "Ntsc-rs",
+      "category": "Retro / Media / Games",
+      "thing_url": "https://ntsc.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428025",
+      "source_story_title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "summary": "Open-source analog TV and VHS artifact emulator for retro video.",
+      "why_included": "HN found the retro-video look convincing and worth trying.",
+      "evidence": "Readers asked for rarer analog artifacts and praised how convincing the output looked."
+    },
+    {
+      "name": "HackTV",
+      "category": "Retro / Media / Games",
+      "thing_url": "https://codeberg.org/fsphil/hacktv",
+      "hn_url": "https://news.ycombinator.com/item?id=48428025",
+      "source_story_title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "summary": "Analog TV transmitter for HackRF and SDR signal experiments.",
+      "why_included": "It was the concrete analog-TV tool the retro-video thread kept pointing back to.",
+      "evidence": "The thread named HackTV as the analog-transmitter tool already doing the signal work."
+    },
+    {
+      "name": "Pokemon Emerald WASM port",
+      "category": "Retro / Media / Games",
+      "thing_url": "https://pokeemerald.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48423762",
+      "source_story_title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "summary": "Pokémon Emerald recompiled to run in WebAssembly.",
+      "why_included": "The browser port drew enthusiasm plus practical bugfix and save-state talk.",
+      "evidence": "Comments discussed save support, controls, PWA support, and bug fixes rather than dismissing the project."
+    },
+    {
+      "name": "Poincake",
+      "category": "UI / Creative Experiments",
+      "thing_url": "https://uonr.github.io/poincake/",
+      "hn_url": "https://news.ycombinator.com/item?id=48372138",
+      "source_story_title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "summary": "Infinite-canvas note-taking app in hyperbolic space.",
+      "why_included": "Commenters found the hyperbolic note UI intuitive enough to want on a tablet.",
+      "evidence": "People called it “weirdly intuitive” and said it would be “fantastic on a tablet”."
+    },
+    {
+      "name": "HyperRogue",
+      "category": "UI / Creative Experiments",
+      "thing_url": "https://www.roguetemple.com/z/hyper/",
+      "hn_url": "https://news.ycombinator.com/item?id=48372138",
+      "source_story_title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "summary": "Non-Euclidean roguelike and geometry playground.",
+      "why_included": "It was cited as the closest existing example of the same geometry idea.",
+      "evidence": "A commenter explicitly said to look at HyperRogue because it already uses the same model."
+    },
+    {
+      "name": "Splash",
+      "category": "UI / Creative Experiments",
+      "thing_url": "https://www.todepond.com/lab/splash/",
+      "hn_url": "https://news.ycombinator.com/item?id=48390269",
+      "source_story_title": "Splash Is a Colour Format",
+      "summary": "Custom colour format designed to reduce choice paralysis.",
+      "why_included": "The thread surfaced a real design question: whether a new color notation helps.",
+      "evidence": "Commenters debated hex, RGB, HSV, HCL, LAB, and palette browsing as alternatives."
+    },
+    {
+      "name": "OpenEvidence",
+      "category": "AI / Safety",
+      "thing_url": "https://www.openevidence.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48426022",
+      "source_story_title": "Police in England and Wales told to halt AI use in court statements",
+      "summary": "Medical AI copilot for clinicians with evidence-first answers.",
+      "why_included": "The thread held it up as an evidence-first alternative to freeform LLM drafting.",
+      "evidence": "A commenter pointed to OpenEvidence as the system that links users to relevant papers instead of answering directly."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-06T21:23:39Z",
+  "id": "ntsc-rs",
+  "last_seen_at": "2026-06-06T21:23:39Z",
+  "latest_mention_id": "2026-06-06:ntsc-rs:48428025",
+  "mention_ids": [
+    "2026-06-06:ntsc-rs:48428025"
+  ],
+  "name": "Ntsc-rs",
+  "slug": "ntsc-rs",
+  "summary": "Open-source analog TV and VHS artifact emulator for retro video.",
+  "thing_url": "https://ntsc.rs/",
+  "times_seen": 1,
+  "why_included": "HN found the retro-video look convincing and worth trying."
+}
