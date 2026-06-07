@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies said it fits untrusted user code, plugin systems, and edge functions, and appreciated the standalone artifact model.",
+  "hn_url": "https://news.ycombinator.com/item?id=48432722",
+  "id": "2026-06-07:kyushu:48432722",
+  "is_repeat": false,
+  "issue_id": "2026-06-07",
+  "item_id": "kyushu",
+  "rank": 7,
+  "seen_at": "2026-06-07T21:23:51Z",
+  "source_story_id": "48432722",
+  "source_story_title": "Show HN: Kyushu \u2013 A self-hostable WASM sandbox for JavaScript workers"
+}

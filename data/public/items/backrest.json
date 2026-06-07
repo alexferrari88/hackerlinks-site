@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "backrest",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:backrest:48370278",
+  "mention_ids": [
+    "2026-06-07:backrest:48370278"
+  ],
+  "name": "Backrest",
+  "slug": "backrest",
+  "summary": "Web UI and orchestrator for restic backups.",
+  "thing_url": "https://github.com/garethgeorge/backrest",
+  "times_seen": 1,
+  "why_included": "A commenter said it already works well in practice for real backups."
+}

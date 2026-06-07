@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "msty-claw",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:msty-claw:48434436",
+  "mention_ids": [
+    "2026-06-07:msty-claw:48434436"
+  ],
+  "name": "Msty Claw",
+  "slug": "msty-claw",
+  "summary": "Cross-platform Claude-style desktop app with encrypted mobile companion.",
+  "thing_url": "https://msty.ai/claw/features",
+  "times_seen": 1,
+  "why_included": "It was the clearest concrete alternative surfaced in the Linux desktop thread."
+}

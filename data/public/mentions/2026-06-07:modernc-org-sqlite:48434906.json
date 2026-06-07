@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters pointed readers to the Go package and primary repo, then explained why avoiding cgo matters for Go codebases.",
+  "hn_url": "https://news.ycombinator.com/item?id=48434906",
+  "id": "2026-06-07:modernc-org-sqlite:48434906",
+  "is_repeat": false,
+  "issue_id": "2026-06-07",
+  "item_id": "modernc-org-sqlite",
+  "rank": 5,
+  "seen_at": "2026-06-07T21:23:51Z",
+  "source_story_id": "48434906",
+  "source_story_title": "sqlite: A CGo-free port of SQLite/SQLite3"
+}

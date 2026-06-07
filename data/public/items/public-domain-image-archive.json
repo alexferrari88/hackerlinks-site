@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "public-domain-image-archive",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:public-domain-image-archive:48430539",
+  "mention_ids": [
+    "2026-06-07:public-domain-image-archive:48430539"
+  ],
+  "name": "Public Domain Image Archive",
+  "slug": "public-domain-image-archive",
+  "summary": "Public-domain image archive with provenance notes.",
+  "thing_url": "https://pdimagearchive.org/",
+  "times_seen": 1,
+  "why_included": "Commenters found the archive genuinely useful, not just pretty."
+}

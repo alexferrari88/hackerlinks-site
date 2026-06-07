@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies said DOCX and PPTX renders were readable and impressive, and noted the separate wasm bundles for each file type.",
+  "hn_url": "https://news.ycombinator.com/item?id=48436863",
+  "id": "2026-06-07:silurus-ooxml:48436863",
+  "is_repeat": false,
+  "issue_id": "2026-06-07",
+  "item_id": "silurus-ooxml",
+  "rank": 2,
+  "seen_at": "2026-06-07T21:23:51Z",
+  "source_story_id": "48436863",
+  "source_story_title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser"
+}

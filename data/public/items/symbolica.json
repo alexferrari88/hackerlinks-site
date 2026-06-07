@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "symbolica",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:symbolica:48415457",
+  "mention_ids": [
+    "2026-06-07:symbolica:48415457"
+  ],
+  "name": "Symbolica",
+  "slug": "symbolica",
+  "summary": "Programmable symbolic math library for Python and Rust.",
+  "thing_url": "https://symbolica.io/",
+  "times_seen": 1,
+  "why_included": "The thread showed real interest in the updated API and benchmarks."
+}

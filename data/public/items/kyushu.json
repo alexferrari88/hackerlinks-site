@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "kyushu",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:kyushu:48432722",
+  "mention_ids": [
+    "2026-06-07:kyushu:48432722"
+  ],
+  "name": "Kyushu",
+  "slug": "kyushu",
+  "summary": "Self-hostable WASM sandbox for JavaScript workers.",
+  "thing_url": "https://kyushu.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters connected it to concrete sandbox and edge-runtime use cases."
+}

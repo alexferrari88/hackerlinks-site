@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "modernc-org-sqlite",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:modernc-org-sqlite:48434906",
+  "mention_ids": [
+    "2026-06-07:modernc-org-sqlite:48434906"
+  ],
+  "name": "modernc.org/sqlite",
+  "slug": "modernc-org-sqlite",
+  "summary": "CGo-free SQLite port for Go.",
+  "thing_url": "https://gitlab.com/cznic/sqlite",
+  "times_seen": 1,
+  "why_included": "The thread made a concrete case for SQLite without FFI glue."
+}

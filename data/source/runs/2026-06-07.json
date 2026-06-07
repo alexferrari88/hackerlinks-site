@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-06-07",
+  "generated_at": "2026-06-07T21:23:51Z",
+  "summary": "10 concrete items surfaced from 21 qualifying stories; strongest signals came from dev tools, Office rendering, sandboxing, and AI learning/workflow tools.",
+  "items": [
+    {
+      "name": "Linear",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://linear.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48437609",
+      "source_story_title": "How's Linear so fast? A technical breakdown",
+      "summary": "Product-development tracker with fast local-first sync and strong UX.",
+      "why_included": "Commenters repeatedly praised Linear's speed, engineering, and polish.",
+      "evidence": "The thread called Linear the best web app and bug tracker several people had used, with repeated praise for its sync engine and optimistic UI."
+    },
+    {
+      "name": "Silurus/ooxml",
+      "category": "📚 Apps, Archives & Reference",
+      "thing_url": "https://ooxml.silurus.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48436863",
+      "source_story_title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "summary": "Browser-based Office document renderer with pixel-faithful output.",
+      "why_included": "Commenters liked the rendering quality and practical browser workflow.",
+      "evidence": "Replies said DOCX and PPTX renders were readable and impressive, and noted the separate wasm bundles for each file type."
+    },
+    {
+      "name": "Backrest",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/garethgeorge/backrest",
+      "hn_url": "https://news.ycombinator.com/item?id=48370278",
+      "source_story_title": "Backrest – a web UI and orchestrator for restic backup",
+      "summary": "Web UI and orchestrator for restic backups.",
+      "why_included": "A commenter said it already works well in practice for real backups.",
+      "evidence": "One reply praised the UI for backup configuration and said the command hooks are useful with Uptime Kuma when backups fail or are missed."
+    },
+    {
+      "name": "Lathe",
+      "category": "🤖 AI & Learning Tools",
+      "thing_url": "https://github.com/devenjarvis/lathe",
+      "hn_url": "https://news.ycombinator.com/item?id=48433756",
+      "source_story_title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "summary": "LLM study tool that turns source material into structured learning plans.",
+      "why_included": "The thread showed clear demand for a tool that teaches rather than shortcuts learning.",
+      "evidence": "Commenters said they would try it, compared it with notebook-style learning, and discussed similar local LLM study workflows."
+    },
+    {
+      "name": "modernc.org/sqlite",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://gitlab.com/cznic/sqlite",
+      "hn_url": "https://news.ycombinator.com/item?id=48434906",
+      "source_story_title": "sqlite: A CGo-free port of SQLite/SQLite3",
+      "summary": "CGo-free SQLite port for Go.",
+      "why_included": "The thread made a concrete case for SQLite without FFI glue.",
+      "evidence": "Commenters pointed readers to the Go package and primary repo, then explained why avoiding cgo matters for Go codebases."
+    },
+    {
+      "name": "Public Domain Image Archive",
+      "category": "📚 Apps, Archives & Reference",
+      "thing_url": "https://pdimagearchive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48430539",
+      "source_story_title": "Public Domain Image Archive",
+      "summary": "Public-domain image archive with provenance notes.",
+      "why_included": "Commenters found the archive genuinely useful, not just pretty.",
+      "evidence": "People praised the Infinite View, the reuse guidance, and the provenance-first approach to public-domain images."
+    },
+    {
+      "name": "Kyushu",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://kyushu.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48432722",
+      "source_story_title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "summary": "Self-hostable WASM sandbox for JavaScript workers.",
+      "why_included": "Commenters connected it to concrete sandbox and edge-runtime use cases.",
+      "evidence": "Replies said it fits untrusted user code, plugin systems, and edge functions, and appreciated the standalone artifact model."
+    },
+    {
+      "name": "Symbolica",
+      "category": "🤖 AI & Learning Tools",
+      "thing_url": "https://symbolica.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48415457",
+      "source_story_title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "summary": "Programmable symbolic math library for Python and Rust.",
+      "why_included": "The thread showed real interest in the updated API and benchmarks.",
+      "evidence": "Commenters praised the newer Rust ergonomics and asked detailed questions about algebra features, while the author replied in-thread."
+    },
+    {
+      "name": "Msty Claw",
+      "category": "🤖 AI & Learning Tools",
+      "thing_url": "https://msty.ai/claw/features",
+      "hn_url": "https://news.ycombinator.com/item?id=48434436",
+      "source_story_title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "summary": "Cross-platform Claude-style desktop app with encrypted mobile companion.",
+      "why_included": "It was the clearest concrete alternative surfaced in the Linux desktop thread.",
+      "evidence": "A commenter explicitly pointed to Msty Claw as a generic multi-OS alternative to Claude Desktop."
+    },
+    {
+      "name": "Runner",
+      "category": "🤖 AI & Learning Tools",
+      "thing_url": "https://runner.now/",
+      "hn_url": "https://news.ycombinator.com/item?id=48434436",
+      "source_story_title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "summary": "Cowork++ desktop app with Linux support.",
+      "why_included": "The thread surfaced it directly as a Linux-capable alternative.",
+      "evidence": "The author posted Runner in-thread and noted that the app supports Linux."
+    }
+  ]
+}

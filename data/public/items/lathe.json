@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "lathe",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:lathe:48433756",
+  "mention_ids": [
+    "2026-06-07:lathe:48433756"
+  ],
+  "name": "Lathe",
+  "slug": "lathe",
+  "summary": "LLM study tool that turns source material into structured learning plans.",
+  "thing_url": "https://github.com/devenjarvis/lathe",
+  "times_seen": 1,
+  "why_included": "The thread showed clear demand for a tool that teaches rather than shortcuts learning."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-07T21:23:51Z",
+  "id": "linear",
+  "last_seen_at": "2026-06-07T21:23:51Z",
+  "latest_mention_id": "2026-06-07:linear:48437609",
+  "mention_ids": [
+    "2026-06-07:linear:48437609"
+  ],
+  "name": "Linear",
+  "slug": "linear",
+  "summary": "Product-development tracker with fast local-first sync and strong UX.",
+  "thing_url": "https://linear.app/",
+  "times_seen": 1,
+  "why_included": "Commenters repeatedly praised Linear's speed, engineering, and polish."
+}

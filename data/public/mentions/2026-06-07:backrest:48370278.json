@@ -1,0 +1,12 @@
+{
+  "evidence": "One reply praised the UI for backup configuration and said the command hooks are useful with Uptime Kuma when backups fail or are missed.",
+  "hn_url": "https://news.ycombinator.com/item?id=48370278",
+  "id": "2026-06-07:backrest:48370278",
+  "is_repeat": false,
+  "issue_id": "2026-06-07",
+  "item_id": "backrest",
+  "rank": 3,
+  "seen_at": "2026-06-07T21:23:51Z",
+  "source_story_id": "48370278",
+  "source_story_title": "Backrest \u2013 a web UI and orchestrator for restic backup"
+}
