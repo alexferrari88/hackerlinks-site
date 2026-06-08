@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-08T21:22:08Z",
+  "id": "the-cypherpunk-library",
+  "last_seen_at": "2026-06-08T21:22:08Z",
+  "latest_mention_id": "2026-06-08:the-cypherpunk-library:48442725",
+  "mention_ids": [
+    "2026-06-08:the-cypherpunk-library:48442725"
+  ],
+  "name": "The Cypherpunk Library",
+  "slug": "the-cypherpunk-library",
+  "summary": "Online library of cypherpunk and crypto-adjacent books and texts.",
+  "thing_url": "https://www.cypherpunkbooks.com",
+  "times_seen": 1,
+  "why_included": "Commenters engaged with the site as a curated library, not just a landing page."
+}

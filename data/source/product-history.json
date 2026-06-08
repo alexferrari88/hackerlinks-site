@@ -3331,6 +3331,54 @@
       "first_reported_at": "2026-06-07T21:23:51Z",
       "last_reported_at": "2026-06-07T21:23:51Z",
       "times_reported": 1
+    },
+    {
+      "name": "Performative-UI",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Intuned",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Gitdot",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pyrefly",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MiMo-v2.5-Pro-UltraSpeed",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MusicDecoy",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Cypherpunk Library",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "1worldflag",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
     }
   ]
 }

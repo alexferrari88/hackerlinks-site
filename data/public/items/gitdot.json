@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-08T21:22:08Z",
+  "id": "gitdot",
+  "last_seen_at": "2026-06-08T21:22:08Z",
+  "latest_mention_id": "2026-06-08:gitdot:48447806",
+  "mention_ids": [
+    "2026-06-08:gitdot:48447806"
+  ],
+  "name": "Gitdot",
+  "slug": "gitdot",
+  "summary": "Rust-based GitHub alternative with a minimalist browser-first interface.",
+  "thing_url": "https://gitdot.io/",
+  "times_seen": 1,
+  "why_included": "Commenters reacted positively to the UI and treated it as a fresh take on GitHub browsing."
+}

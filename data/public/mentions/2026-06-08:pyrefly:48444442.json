@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter explicitly asked for impressions of Pyrefly, and the replies weighed its place against mypy, pyright, and strict typing in Python.",
+  "hn_url": "https://news.ycombinator.com/item?id=48444442",
+  "id": "2026-06-08:pyrefly:48444442",
+  "is_repeat": false,
+  "issue_id": "2026-06-08",
+  "item_id": "pyrefly",
+  "rank": 4,
+  "seen_at": "2026-06-08T21:22:08Z",
+  "source_story_id": "48444442",
+  "source_story_title": "Are you expected to run five Python type-checkers now?"
+}

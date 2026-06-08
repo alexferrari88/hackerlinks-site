@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-08T21:22:08Z",
+  "id": "mimo-v2-5-pro-ultraspeed",
+  "last_seen_at": "2026-06-08T21:22:08Z",
+  "latest_mention_id": "2026-06-08:mimo-v2-5-pro-ultraspeed:48446639",
+  "mention_ids": [
+    "2026-06-08:mimo-v2-5-pro-ultraspeed:48446639"
+  ],
+  "name": "MiMo-v2.5-Pro-UltraSpeed",
+  "slug": "mimo-v2-5-pro-ultraspeed",
+  "summary": "Xiaomi model release focused on unusually high token throughput.",
+  "thing_url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+  "times_seen": 1,
+  "why_included": "The speed claim drew the thread\u2019s attention and sparked benchmarking comparisons."
+}

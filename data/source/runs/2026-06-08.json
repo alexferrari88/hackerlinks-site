@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "run_date": "2026-06-08",
+  "generated_at": "2026-06-08T21:22:08Z",
+  "summary": {
+    "items_surfaced": 8,
+    "history_updates": 8
+  },
+  "items": [
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Performative-UI",
+      "thing_url": "https://vorpus.github.io/performativeUI/",
+      "hn_url": "https://news.ycombinator.com/item?id=48445554",
+      "source_story_title": "Show HN: Performative-UI – a react component library of design tropes",
+      "summary": "React component library that parodies design tropes without hiding the joke.",
+      "why_included": "HN commenters called it hilarious, well made, and useful in some contexts.",
+      "evidence": "Comments praised the repo link, said it was “hilarious and extremely well made,” and noted that some pieces are appropriate to use in real projects."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Intuned",
+      "thing_url": "https://intunedhq.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48445171",
+      "source_story_title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "summary": "Browser-automation platform for reliable scripted workflows and captcha-heavy integrations.",
+      "why_included": "The discussion stayed practical and positive around browser automation, auth, and bot handling.",
+      "evidence": "Replies called it “Really cool!” and “Love this,” while other comments dug into auth, captcha, and browser automation tradeoffs instead of dismissing the product."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Gitdot",
+      "thing_url": "https://gitdot.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48447806",
+      "source_story_title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "summary": "Rust-based GitHub alternative with a minimalist browser-first interface.",
+      "why_included": "Commenters reacted positively to the UI and treated it as a fresh take on GitHub browsing.",
+      "evidence": "One comment called the product interesting, another said it had a “minimalist UI,” and the thread framed it as a real opportunity to build something fresh."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Pyrefly",
+      "thing_url": "https://pyrefly.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48444442",
+      "source_story_title": "Are you expected to run five Python type-checkers now?",
+      "summary": "Fast Python type checker and language server from Meta.",
+      "why_included": "The thread put Pyrefly directly in the Python type-checking conversation with real user interest.",
+      "evidence": "A commenter explicitly asked for impressions of Pyrefly, and the replies weighed its place against mypy, pyright, and strict typing in Python."
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "MiMo-v2.5-Pro-UltraSpeed",
+      "thing_url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "hn_url": "https://news.ycombinator.com/item?id=48446639",
+      "source_story_title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "summary": "Xiaomi model release focused on unusually high token throughput.",
+      "why_included": "The speed claim drew the thread’s attention and sparked benchmarking comparisons.",
+      "evidence": "Comments compared it with DeepSeek and stayed focused on whether the speed claims are real, which made the launch stand out from generic model chatter."
+    },
+    {
+      "category": "Apps & Side Projects",
+      "name": "MusicDecoy",
+      "thing_url": "https://lowtechguys.com/musicdecoy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48447935",
+      "source_story_title": "Stop the Apple Music app from launching",
+      "summary": "Tiny Mac utility that blocks Apple Music from auto-launching.",
+      "why_included": "The thread surfaced a real annoyance people had already been hacking around.",
+      "evidence": "A commenter linked the MusicDecoy source directly, while others shared noTunes and Shortcut workarounds for the same Apple Music annoyance."
+    },
+    {
+      "category": "Apps & Side Projects",
+      "name": "The Cypherpunk Library",
+      "thing_url": "https://www.cypherpunkbooks.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48442725",
+      "source_story_title": "The Cypherpunk Library",
+      "summary": "Online library of cypherpunk and crypto-adjacent books and texts.",
+      "why_included": "Commenters engaged with the site as a curated library, not just a landing page.",
+      "evidence": "Replies called the page “nice work” and “interesting,” with several comments discussing the collection, layout, and mission rather than ignoring the project."
+    },
+    {
+      "category": "Apps & Side Projects",
+      "name": "1worldflag",
+      "thing_url": "https://1worldflag.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48440435",
+      "source_story_title": "1worldflag: A blue dot on a transparent background",
+      "summary": "One-world flag concept built around a transparent blue-dot motif.",
+      "why_included": "The comments treated the idea seriously enough to debate the design choice itself.",
+      "evidence": "Commenters said the transparency was novel, said they loved it, and remarked that transparent flags have not been used more."
+    }
+  ]
+}

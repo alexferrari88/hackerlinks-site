@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-08T21:22:08Z",
+  "id": "pyrefly",
+  "last_seen_at": "2026-06-08T21:22:08Z",
+  "latest_mention_id": "2026-06-08:pyrefly:48444442",
+  "mention_ids": [
+    "2026-06-08:pyrefly:48444442"
+  ],
+  "name": "Pyrefly",
+  "slug": "pyrefly",
+  "summary": "Fast Python type checker and language server from Meta.",
+  "thing_url": "https://pyrefly.org/",
+  "times_seen": 1,
+  "why_included": "The thread put Pyrefly directly in the Python type-checking conversation with real user interest."
+}

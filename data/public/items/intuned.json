@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-08T21:22:08Z",
+  "id": "intuned",
+  "last_seen_at": "2026-06-08T21:22:08Z",
+  "latest_mention_id": "2026-06-08:intuned:48445171",
+  "mention_ids": [
+    "2026-06-08:intuned:48445171"
+  ],
+  "name": "Intuned",
+  "slug": "intuned",
+  "summary": "Browser-automation platform for reliable scripted workflows and captcha-heavy integrations.",
+  "thing_url": "https://intunedhq.com",
+  "times_seen": 1,
+  "why_included": "The discussion stayed practical and positive around browser automation, auth, and bot handling."
+}

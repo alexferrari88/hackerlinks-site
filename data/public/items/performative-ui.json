@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-08T21:22:08Z",
+  "id": "performative-ui",
+  "last_seen_at": "2026-06-08T21:22:08Z",
+  "latest_mention_id": "2026-06-08:performative-ui:48445554",
+  "mention_ids": [
+    "2026-06-08:performative-ui:48445554"
+  ],
+  "name": "Performative-UI",
+  "slug": "performative-ui",
+  "summary": "React component library that parodies design tropes without hiding the joke.",
+  "thing_url": "https://vorpus.github.io/performativeUI/",
+  "times_seen": 1,
+  "why_included": "HN commenters called it hilarious, well made, and useful in some contexts."
+}
