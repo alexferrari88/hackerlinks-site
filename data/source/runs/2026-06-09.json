@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "run_date": "2026-06-09",
+  "generated_at": "2026-06-09T21:12:30Z",
+  "summary": "23 qualifying stories scanned; 10 concrete items surfaced after 90-day history dedupe.",
+  "items": [
+    {
+      "category": "AI & Models",
+      "name": "Claude Fable 5",
+      "thing_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48463808",
+      "source_story_title": "Claude Fable 5",
+      "summary": "Anthropic's latest model release, with early testers praising stronger agentic coding and cleaner UI polish.",
+      "why_included": "Strong early hands-on reactions, not just launch hype.",
+      "evidence": "One tester said the frontend felt more intentionally crafted, and another said it crunches through very difficult problems quickly."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Cost.dev",
+      "thing_url": "https://cost.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48397148",
+      "source_story_title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+      "summary": "Cost.dev helps make agent loops cost-aware and cheaper to call.",
+      "why_included": "The thread had clear product discussion about pricing an agent loop.",
+      "evidence": "Commenters focused on making cloud cost a first-class constraint and on clearer, visible estimates."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "ColGREP",
+      "thing_url": "https://lighton.ai/lighton-blogs/lateon-code-colgrep-lighton",
+      "hn_url": "https://news.ycombinator.com/item?id=48460863",
+      "source_story_title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "summary": "ColGREP is a local semantic code-search CLI for agents.",
+      "why_included": "Directly recommended as a practical replacement for grep in agent workflows.",
+      "evidence": "A commenter said they use ColGREP as a daily driver and like its regex-plus-semantic ranking."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "CadQuery",
+      "thing_url": "https://cadquery.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48461311",
+      "source_story_title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+      "summary": "CadQuery is a Python parametric CAD framework for editable STEP models.",
+      "why_included": "A concrete tool that commenters said works in real CAD generation.",
+      "evidence": "A commenter said they had good success using CadQuery with Python to generate basic shapes and editable STEP files."
+    },
+    {
+      "category": "Infrastructure & Security",
+      "name": "ZeroSSL",
+      "thing_url": "https://zerossl.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48453275",
+      "source_story_title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "summary": "ZeroSSL is a certificate authority service suggested as an EU alternative to Let's Encrypt.",
+      "why_included": "Explicitly recommended as a fallback CA under policy pressure.",
+      "evidence": "A commenter asked about ZeroSSL and called it a good EU alternative."
+    },
+    {
+      "category": "Infrastructure & Security",
+      "name": "Actalis",
+      "thing_url": "https://actalis.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48453275",
+      "source_story_title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "summary": "Actalis is an Italian certificate authority suggested as an EU alternative to Let's Encrypt.",
+      "why_included": "An explicit CA alternative from the policy thread.",
+      "evidence": "A commenter posted Actalis and called it a good EU alternative."
+    },
+    {
+      "category": "Science & Visualization",
+      "name": "OpenCV 5",
+      "thing_url": "https://opencv.org/opencv-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=48421858",
+      "source_story_title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "summary": "OpenCV 5 is the latest computer-vision release with ongoing ONNX engine work.",
+      "why_included": "A mature release with practical developer commentary.",
+      "evidence": "Commenters said OpenCV is still their default for loading images and video, and discussed where the new engine fits."
+    },
+    {
+      "category": "Science & Visualization",
+      "name": "REBOUND",
+      "thing_url": "https://rebound.hanno-rein.de/",
+      "hn_url": "https://news.ycombinator.com/item?id=48459837",
+      "source_story_title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+      "summary": "REBOUND is an open-source N-body simulator for astrophysical dynamics.",
+      "why_included": "A stronger scientific alternative surfaced in a visualization thread.",
+      "evidence": "A commenter said it is what they use for n-body simulations and called it easy to use from C or Python."
+    },
+    {
+      "category": "Science & Visualization",
+      "name": "Gravity",
+      "thing_url": "https://qunabu.github.io/Gravity/",
+      "hn_url": "https://news.ycombinator.com/item?id=48459837",
+      "source_story_title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+      "summary": "Gravity is an interactive solar-system simulator from Newton to Einstein.",
+      "why_included": "The simulator got positive visual and technical feedback.",
+      "evidence": "Commenters praised the presentation and suggested pairing it with REBOUND for rigorous n-body work."
+    },
+    {
+      "category": "Retro & Hobby Systems",
+      "name": "GentleOS",
+      "thing_url": "https://github.com/luke8086/gentleos32",
+      "hn_url": "https://news.ycombinator.com/item?id=48435943",
+      "source_story_title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "summary": "GentleOS is a hobby OS pair for vintage 16-bit and 32-bit PCs.",
+      "why_included": "Retrocomputing commenters showed real interest and follow-up ideas.",
+      "evidence": "Commenters wanted to power up vintage IBM PCs again and suggested adding an Uxn emulator."
+    }
+  ]
+}

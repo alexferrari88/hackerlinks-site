@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "gentleos",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:gentleos:48435943",
+  "mention_ids": [
+    "2026-06-09:gentleos:48435943"
+  ],
+  "name": "GentleOS",
+  "slug": "gentleos",
+  "summary": "GentleOS is a hobby OS pair for vintage 16-bit and 32-bit PCs.",
+  "thing_url": "https://github.com/luke8086/gentleos32",
+  "times_seen": 1,
+  "why_included": "Retrocomputing commenters showed real interest and follow-up ideas."
+}

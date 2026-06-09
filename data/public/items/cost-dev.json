@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "cost-dev",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:cost-dev:48397148",
+  "mention_ids": [
+    "2026-06-09:cost-dev:48397148"
+  ],
+  "name": "Cost.dev",
+  "slug": "cost-dev",
+  "summary": "Cost.dev helps make agent loops cost-aware and cheaper to call.",
+  "thing_url": "https://cost.dev/",
+  "times_seen": 1,
+  "why_included": "The thread had clear product discussion about pricing an agent loop."
+}

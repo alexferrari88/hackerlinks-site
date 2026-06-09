@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said they had good success using CadQuery with Python to generate basic shapes and editable STEP files.",
+  "hn_url": "https://news.ycombinator.com/item?id=48461311",
+  "id": "2026-06-09:cadquery:48461311",
+  "is_repeat": false,
+  "issue_id": "2026-06-09",
+  "item_id": "cadquery",
+  "rank": 4,
+  "seen_at": "2026-06-09T21:12:30Z",
+  "source_story_id": "48461311",
+  "source_story_title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs"
+}

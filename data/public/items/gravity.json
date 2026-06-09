@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "gravity",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:gravity:48459837",
+  "mention_ids": [
+    "2026-06-09:gravity:48459837"
+  ],
+  "name": "Gravity",
+  "slug": "gravity",
+  "summary": "Gravity is an interactive solar-system simulator from Newton to Einstein.",
+  "thing_url": "https://qunabu.github.io/Gravity/",
+  "times_seen": 1,
+  "why_included": "The simulator got positive visual and technical feedback."
+}

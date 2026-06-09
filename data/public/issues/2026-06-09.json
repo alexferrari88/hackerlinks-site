@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T21:12:30Z",
+  "headline": "10 interesting things surfaced from HN on 2026-06-09",
+  "id": "2026-06-09",
+  "mention_ids": [
+    "2026-06-09:claude-fable-5:48463808",
+    "2026-06-09:cost-dev:48397148",
+    "2026-06-09:colgrep:48460863",
+    "2026-06-09:cadquery:48461311",
+    "2026-06-09:zerossl:48453275",
+    "2026-06-09:actalis:48453275",
+    "2026-06-09:opencv-5:48421858",
+    "2026-06-09:rebound:48459837",
+    "2026-06-09:gravity:48459837",
+    "2026-06-09:gentleos:48435943"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

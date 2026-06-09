@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "colgrep",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:colgrep:48460863",
+  "mention_ids": [
+    "2026-06-09:colgrep:48460863"
+  ],
+  "name": "ColGREP",
+  "slug": "colgrep",
+  "summary": "ColGREP is a local semantic code-search CLI for agents.",
+  "thing_url": "https://lighton.ai/lighton-blogs/lateon-code-colgrep-lighton",
+  "times_seen": 1,
+  "why_included": "Directly recommended as a practical replacement for grep in agent workflows."
+}

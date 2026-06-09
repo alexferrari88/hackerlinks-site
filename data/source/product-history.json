@@ -3379,6 +3379,66 @@
       "first_reported_at": "2026-06-08T21:22:08Z",
       "last_reported_at": "2026-06-08T21:22:08Z",
       "times_reported": 1
+    },
+    {
+      "name": "Claude Fable 5",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cost.dev",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ColGREP",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CadQuery",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ZeroSSL",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Actalis",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenCV 5",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "REBOUND",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Gravity",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GentleOS",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "zerossl",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:zerossl:48453275",
+  "mention_ids": [
+    "2026-06-09:zerossl:48453275"
+  ],
+  "name": "ZeroSSL",
+  "slug": "zerossl",
+  "summary": "ZeroSSL is a certificate authority service suggested as an EU alternative to Let's Encrypt.",
+  "thing_url": "https://zerossl.com/",
+  "times_seen": 1,
+  "why_included": "Explicitly recommended as a fallback CA under policy pressure."
+}

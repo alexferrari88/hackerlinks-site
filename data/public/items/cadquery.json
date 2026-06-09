@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "cadquery",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:cadquery:48461311",
+  "mention_ids": [
+    "2026-06-09:cadquery:48461311"
+  ],
+  "name": "CadQuery",
+  "slug": "cadquery",
+  "summary": "CadQuery is a Python parametric CAD framework for editable STEP models.",
+  "thing_url": "https://cadquery.org/",
+  "times_seen": 1,
+  "why_included": "A concrete tool that commenters said works in real CAD generation."
+}

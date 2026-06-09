@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "claude-fable-5",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:claude-fable-5:48463808",
+  "mention_ids": [
+    "2026-06-09:claude-fable-5:48463808"
+  ],
+  "name": "Claude Fable 5",
+  "slug": "claude-fable-5",
+  "summary": "Anthropic's latest model release, with early testers praising stronger agentic coding and cleaner UI polish.",
+  "thing_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "times_seen": 1,
+  "why_included": "Strong early hands-on reactions, not just launch hype."
+}

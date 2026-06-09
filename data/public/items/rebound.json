@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "rebound",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:rebound:48459837",
+  "mention_ids": [
+    "2026-06-09:rebound:48459837"
+  ],
+  "name": "REBOUND",
+  "slug": "rebound",
+  "summary": "REBOUND is an open-source N-body simulator for astrophysical dynamics.",
+  "thing_url": "https://rebound.hanno-rein.de/",
+  "times_seen": 1,
+  "why_included": "A stronger scientific alternative surfaced in a visualization thread."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-09T21:12:30Z",
+  "id": "opencv-5",
+  "last_seen_at": "2026-06-09T21:12:30Z",
+  "latest_mention_id": "2026-06-09:opencv-5:48421858",
+  "mention_ids": [
+    "2026-06-09:opencv-5:48421858"
+  ],
+  "name": "OpenCV 5",
+  "slug": "opencv-5",
+  "summary": "OpenCV 5 is the latest computer-vision release with ongoing ONNX engine work.",
+  "thing_url": "https://opencv.org/opencv-5/",
+  "times_seen": 1,
+  "why_included": "A mature release with practical developer commentary."
+}
