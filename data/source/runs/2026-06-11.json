@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-06-11",
+  "generated_at": "2026-06-11T21:07:55.839038Z",
+  "summary": "9 items surfaced from 22 qualifying stories; the strongest signals clustered around open models, agent safety, one music-learning site, and a COBOL oddity.",
+  "items": [
+    {
+      "name": "MiMo Code",
+      "thing_url": "https://mimo.xiaomi.com/mimocode",
+      "hn_url": "https://news.ycombinator.com/item?id=48490826",
+      "source_story_title": "MiMo Code is now released and open-source",
+      "category": "AI & Open Models",
+      "summary": "Xiaomi's open-source coding harness for LLM workflows.",
+      "why_included": "The thread framed open coding harnesses as the right default for agent tooling.",
+      "evidence": "Commenters praised the open release and argued LLM tools should be commodities, not closed platforms."
+    },
+    {
+      "name": "OLMo",
+      "thing_url": "https://allenai.org/olmo/release-notes",
+      "hn_url": "https://news.ycombinator.com/item?id=48489917",
+      "source_story_title": "Open Reproduction of DeepSeek-R1",
+      "category": "AI & Open Models",
+      "summary": "AI2's open language-model stack for reproducible training runs.",
+      "why_included": "Commenters used it as the clearest benchmark for a truly open model pipeline.",
+      "evidence": "The thread said OLMo releases full datasets and is closer to a fully open pipeline than Nemotron."
+    },
+    {
+      "name": "Nemotron",
+      "thing_url": "https://developer.nvidia.com/nemotron",
+      "hn_url": "https://news.ycombinator.com/item?id=48489917",
+      "source_story_title": "Open Reproduction of DeepSeek-R1",
+      "category": "AI & Open Models",
+      "summary": "NVIDIA's open model family with weights, recipes, and data.",
+      "why_included": "The thread treated Nemotron as a strong open-model reference point.",
+      "evidence": "Commenters said Nemotron exposes much of the training stack and has enough openness to serve as a good starting point."
+    },
+    {
+      "name": "OpenThoughts",
+      "thing_url": "https://github.com/open-thoughts/open-thoughts",
+      "hn_url": "https://news.ycombinator.com/item?id=48489917",
+      "source_story_title": "Open Reproduction of DeepSeek-R1",
+      "category": "AI & Open Models",
+      "summary": "Open reasoning-dataset project for training small reasoning models.",
+      "why_included": "HN commenters called it a practical open-data path for reasoning models.",
+      "evidence": "The thread pointed to its dataset, model releases, and curation paper as useful open infrastructure."
+    },
+    {
+      "name": "K2 Think V2",
+      "thing_url": "https://www.k2think.ai/k2think",
+      "hn_url": "https://news.ycombinator.com/item?id=48489917",
+      "source_story_title": "Open Reproduction of DeepSeek-R1",
+      "category": "AI & Open Models",
+      "summary": "A fully sovereign open-source reasoning system from MBZUAI.",
+      "why_included": "It surfaced as another end-to-end open reasoning stack with full transparency.",
+      "evidence": "The project page and comments describe it as open from pre-training data through post-training and evaluation."
+    },
+    {
+      "name": "Claw Patrol",
+      "thing_url": "https://clawpatrol.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48462928",
+      "source_story_title": "Show HN: Claw Patrol, a security firewall for agents",
+      "category": "Dev Tools & Workflows",
+      "summary": "A network-layer firewall for AI agents.",
+      "why_included": "It solves the concrete problem of safely letting agents touch production systems.",
+      "evidence": "Deno described it as a WireGuard/Tailscale firewall that parses HTTP, Postgres, and SSH and gates destructive actions."
+    },
+    {
+      "name": "DeltaDB",
+      "thing_url": "https://zed.dev/blog/introducing-deltadb",
+      "hn_url": "https://news.ycombinator.com/item?id=48492533",
+      "source_story_title": "Software Is Made Between Commits",
+      "category": "Dev Tools & Workflows",
+      "summary": "Zed's fine-grained history layer for changes between commits.",
+      "why_included": "The thread turned it into a serious debate about provenance, review, and auditability.",
+      "evidence": "Commenters quoted the idea that DeltaDB records every operation in between commits and argued over whether that history is useful or invasive."
+    },
+    {
+      "name": "Ear Training Practice Exercises",
+      "thing_url": "https://tonedear.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48447598",
+      "source_story_title": "Ear Training Practice Exercises",
+      "category": "Music & Learning",
+      "summary": "A free browser-based ear-training site for musicians.",
+      "why_included": "Commenters praised the ad-free simplicity and the adjustable practice mode.",
+      "evidence": "One user called it simple and great; another clarified the lock icon freezes the difficulty level."
+    },
+    {
+      "name": "FPS.cob",
+      "thing_url": "https://github.com/icitry/FPS.cob",
+      "hn_url": "https://news.ycombinator.com/item?id=48491486",
+      "source_story_title": "FPS.cob: A first person shooter in COBOL",
+      "category": "Retro Tech & Oddities",
+      "summary": "A COBOL first-person shooter built with raycasting and PPM output.",
+      "why_included": "It was a fun retro-tech project that commenters found surprisingly readable.",
+      "evidence": "The thread described the game pipeline and several commenters debated the AI-assisted authorship while still admiring the implementation."
+    }
+  ]
+}

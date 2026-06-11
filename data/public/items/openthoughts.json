@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "openthoughts",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:openthoughts:48489917",
+  "mention_ids": [
+    "2026-06-11:openthoughts:48489917"
+  ],
+  "name": "OpenThoughts",
+  "slug": "openthoughts",
+  "summary": "Open reasoning-dataset project for training small reasoning models.",
+  "thing_url": "https://github.com/open-thoughts/open-thoughts",
+  "times_seen": 1,
+  "why_included": "HN commenters called it a practical open-data path for reasoning models."
+}

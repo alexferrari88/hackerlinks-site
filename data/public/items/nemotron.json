@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "nemotron",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:nemotron:48489917",
+  "mention_ids": [
+    "2026-06-11:nemotron:48489917"
+  ],
+  "name": "Nemotron",
+  "slug": "nemotron",
+  "summary": "NVIDIA's open model family with weights, recipes, and data.",
+  "thing_url": "https://developer.nvidia.com/nemotron",
+  "times_seen": 1,
+  "why_included": "The thread treated Nemotron as a strong open-model reference point."
+}

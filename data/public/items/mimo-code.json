@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "mimo-code",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:mimo-code:48490826",
+  "mention_ids": [
+    "2026-06-11:mimo-code:48490826"
+  ],
+  "name": "MiMo Code",
+  "slug": "mimo-code",
+  "summary": "Xiaomi's open-source coding harness for LLM workflows.",
+  "thing_url": "https://mimo.xiaomi.com/mimocode",
+  "times_seen": 1,
+  "why_included": "The thread framed open coding harnesses as the right default for agent tooling."
+}

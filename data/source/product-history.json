@@ -3439,6 +3439,60 @@
       "first_reported_at": "2026-06-09T21:12:30Z",
       "last_reported_at": "2026-06-09T21:12:30Z",
       "times_reported": 1
+    },
+    {
+      "name": "MiMo Code",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OLMo",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nemotron",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenThoughts",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "K2 Think V2",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Claw Patrol",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DeltaDB",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Ear Training Practice Exercises",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "FPS.cob",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
     }
   ]
 }

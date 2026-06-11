@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "deltadb",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:deltadb:48492533",
+  "mention_ids": [
+    "2026-06-11:deltadb:48492533"
+  ],
+  "name": "DeltaDB",
+  "slug": "deltadb",
+  "summary": "Zed's fine-grained history layer for changes between commits.",
+  "thing_url": "https://zed.dev/blog/introducing-deltadb",
+  "times_seen": 1,
+  "why_included": "The thread turned it into a serious debate about provenance, review, and auditability."
+}

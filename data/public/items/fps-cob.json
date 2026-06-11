@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "fps-cob",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:fps-cob:48491486",
+  "mention_ids": [
+    "2026-06-11:fps-cob:48491486"
+  ],
+  "name": "FPS.cob",
+  "slug": "fps-cob",
+  "summary": "A COBOL first-person shooter built with raycasting and PPM output.",
+  "thing_url": "https://github.com/icitry/FPS.cob",
+  "times_seen": 1,
+  "why_included": "It was a fun retro-tech project that commenters found surprisingly readable."
+}

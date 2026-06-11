@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters quoted the idea that DeltaDB records every operation in between commits and argued over whether that history is useful or invasive.",
+  "hn_url": "https://news.ycombinator.com/item?id=48492533",
+  "id": "2026-06-11:deltadb:48492533",
+  "is_repeat": false,
+  "issue_id": "2026-06-11",
+  "item_id": "deltadb",
+  "rank": 7,
+  "seen_at": "2026-06-11T21:07:55.839038Z",
+  "source_story_id": "48492533",
+  "source_story_title": "Software Is Made Between Commits"
+}

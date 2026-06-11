@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "k2-think-v2",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:k2-think-v2:48489917",
+  "mention_ids": [
+    "2026-06-11:k2-think-v2:48489917"
+  ],
+  "name": "K2 Think V2",
+  "slug": "k2-think-v2",
+  "summary": "A fully sovereign open-source reasoning system from MBZUAI.",
+  "thing_url": "https://www.k2think.ai/k2think",
+  "times_seen": 1,
+  "why_included": "It surfaced as another end-to-end open reasoning stack with full transparency."
+}

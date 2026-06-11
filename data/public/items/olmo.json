@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "olmo",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:olmo:48489917",
+  "mention_ids": [
+    "2026-06-11:olmo:48489917"
+  ],
+  "name": "OLMo",
+  "slug": "olmo",
+  "summary": "AI2's open language-model stack for reproducible training runs.",
+  "thing_url": "https://allenai.org/olmo/release-notes",
+  "times_seen": 1,
+  "why_included": "Commenters used it as the clearest benchmark for a truly open model pipeline."
+}

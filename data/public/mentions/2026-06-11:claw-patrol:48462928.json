@@ -1,0 +1,12 @@
+{
+  "evidence": "Deno described it as a WireGuard/Tailscale firewall that parses HTTP, Postgres, and SSH and gates destructive actions.",
+  "hn_url": "https://news.ycombinator.com/item?id=48462928",
+  "id": "2026-06-11:claw-patrol:48462928",
+  "is_repeat": false,
+  "issue_id": "2026-06-11",
+  "item_id": "claw-patrol",
+  "rank": 6,
+  "seen_at": "2026-06-11T21:07:55.839038Z",
+  "source_story_id": "48462928",
+  "source_story_title": "Show HN: Claw Patrol, a security firewall for agents"
+}

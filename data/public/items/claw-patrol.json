@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-11T21:07:55.839038Z",
+  "id": "claw-patrol",
+  "last_seen_at": "2026-06-11T21:07:55.839038Z",
+  "latest_mention_id": "2026-06-11:claw-patrol:48462928",
+  "mention_ids": [
+    "2026-06-11:claw-patrol:48462928"
+  ],
+  "name": "Claw Patrol",
+  "slug": "claw-patrol",
+  "summary": "A network-layer firewall for AI agents.",
+  "thing_url": "https://clawpatrol.dev/",
+  "times_seen": 1,
+  "why_included": "It solves the concrete problem of safely letting agents touch production systems."
+}
