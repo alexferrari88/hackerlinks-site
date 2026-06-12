@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "tauri",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:tauri:48504912",
+  "mention_ids": [
+    "2026-06-12:tauri:48504912"
+  ],
+  "name": "Tauri",
+  "slug": "tauri",
+  "summary": "Tauri \u2014 lightweight desktop app framework that keeps a web frontend small.",
+  "thing_url": "https://tauri.app/",
+  "times_seen": 1,
+  "why_included": "The front-end thread suggested it as the wrapper around AI-generated UI work."
+}

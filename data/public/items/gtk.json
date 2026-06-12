@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "gtk",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:gtk:48504912",
+  "mention_ids": [
+    "2026-06-12:gtk:48504912"
+  ],
+  "name": "GTK",
+  "slug": "gtk",
+  "summary": "GTK \u2014 cross-platform widget toolkit called out as a coherent UI style target.",
+  "thing_url": "https://www.gtk.org/",
+  "times_seen": 1,
+  "why_included": "It was explicitly mentioned as a style grammar that produces less generic output."
+}

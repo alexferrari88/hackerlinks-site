@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters said to use iPXE, highlighted its HTTP/HTTPS boot features, and noted it can replace PXE ROMs.",
+  "hn_url": "https://news.ycombinator.com/item?id=48504929",
+  "id": "2026-06-12:ipxe:48504929",
+  "is_repeat": false,
+  "issue_id": "2026-06-12",
+  "item_id": "ipxe",
+  "rank": 4,
+  "seen_at": "2026-06-12T21:26:09Z",
+  "source_story_id": "48504929",
+  "source_story_title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "comet-gl-rm1",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:comet-gl-rm1:48504929",
+  "mention_ids": [
+    "2026-06-12:comet-gl-rm1:48504929"
+  ],
+  "name": "Comet (GL-RM1)",
+  "slug": "comet-gl-rm1",
+  "summary": "Comet (GL-RM1) \u2014 GL.iNet's remote KVM for browser-based out-of-band access.",
+  "thing_url": "https://www.gl-inet.com/products/gl-rm1/",
+  "times_seen": 1,
+  "why_included": "Commenters named it as another practical remote-control device."
+}

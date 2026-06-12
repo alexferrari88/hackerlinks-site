@@ -9,6 +9,12 @@
       "times_reported": 1
     },
     {
+      "name": "1worldflag",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
       "name": "5x5 Pixel font",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
@@ -42,6 +48,12 @@
       "name": "Accelerate",
       "first_reported_at": "2026-05-16T21:36:59Z",
       "last_reported_at": "2026-05-16T21:36:59Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Actalis",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
       "times_reported": 1
     },
     {
@@ -189,6 +201,12 @@
       "times_reported": 1
     },
     {
+      "name": "Backrest",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
       "name": "Bambu Lab A1 mini",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
@@ -234,6 +252,12 @@
       "name": "Big Clive",
       "first_reported_at": "2026-05-05T21:17:42.347177Z",
       "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "BliSwitch",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "times_reported": 1
     },
     {
@@ -285,6 +309,12 @@
       "times_reported": 1
     },
     {
+      "name": "BrowserPod",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "Bun",
       "first_reported_at": "2026-05-09T21:20:22Z",
       "last_reported_at": "2026-05-09T21:20:22Z",
@@ -294,6 +324,12 @@
       "name": "BYTE magazine archive",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CadQuery",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
       "times_reported": 1
     },
     {
@@ -375,6 +411,12 @@
       "times_reported": 1
     },
     {
+      "name": "Claude Fable 5",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
       "name": "Claude for Excel",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -390,6 +432,12 @@
       "name": "Claude Opus 4.8",
       "first_reported_at": "2026-05-28T21:20:20Z",
       "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Claw Patrol",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     },
     {
@@ -447,6 +495,18 @@
       "times_reported": 1
     },
     {
+      "name": "ColGREP",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Comet (GL-RM1)",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
+      "times_reported": 1
+    },
+    {
       "name": "Common Lisp: A Gentle Introduction to Symbolic Computation",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -468,6 +528,12 @@
       "name": "Conventional Comments",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cost.dev",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
       "times_reported": 1
     },
     {
@@ -549,6 +615,12 @@
       "times_reported": 1
     },
     {
+      "name": "DBOS",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "dclaude",
       "first_reported_at": "2026-05-28T21:20:20Z",
       "last_reported_at": "2026-05-28T21:20:20Z",
@@ -594,6 +666,12 @@
       "name": "Deepsid / Chordian SID player",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DeltaDB",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     },
     {
@@ -696,6 +774,12 @@
       "name": "E2B",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ear Training Practice Exercises",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     },
     {
@@ -843,6 +927,12 @@
       "times_reported": 1
     },
     {
+      "name": "FPS.cob",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
       "name": "Framework 12",
       "first_reported_at": "2026-05-29T21:09:53Z",
       "last_reported_at": "2026-05-29T21:09:53Z",
@@ -957,6 +1047,12 @@
       "times_reported": 1
     },
     {
+      "name": "GentleOS",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
       "name": "Geomatic",
       "first_reported_at": "2026-05-25T21:20:05Z",
       "last_reported_at": "2026-05-25T21:20:05Z",
@@ -984,6 +1080,12 @@
       "name": "GitButler",
       "first_reported_at": "2026-06-02T21:19:46+00:00",
       "last_reported_at": "2026-06-02T21:19:46+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gitdot",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
       "times_reported": 1
     },
     {
@@ -1065,15 +1167,33 @@
       "times_reported": 1
     },
     {
+      "name": "Gravity",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
       "name": "Greek Alphabet Cards",
       "first_reported_at": "2026-05-16T21:36:59Z",
       "last_reported_at": "2026-05-16T21:36:59Z",
       "times_reported": 1
     },
     {
+      "name": "GTK",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
+      "times_reported": 1
+    },
+    {
       "name": "Guitar tuner that uses phone accelerometer",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "HackTV",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
       "times_reported": 1
     },
     {
@@ -1155,6 +1275,12 @@
       "times_reported": 1
     },
     {
+      "name": "Homerow",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Honker",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
@@ -1182,6 +1308,12 @@
       "name": "HyperFormula",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "HyperRogue",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
       "times_reported": 1
     },
     {
@@ -1227,6 +1359,12 @@
       "times_reported": 1
     },
     {
+      "name": "Intuned",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
       "name": "Invidious",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -1242,6 +1380,12 @@
       "name": "IPLeak full report",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "iPXE",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
       "times_reported": 1
     },
     {
@@ -1269,15 +1413,33 @@
       "times_reported": 1
     },
     {
+      "name": "JetKVM",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
+      "times_reported": 1
+    },
+    {
       "name": "JS8Call",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
       "times_reported": 1
     },
     {
+      "name": "Judge0",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "Jujutsu (jj)",
       "first_reported_at": "2026-04-15T03:02:00+00:00",
       "last_reported_at": "2026-04-15T03:02:00+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "K2 Think V2",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     },
     {
@@ -1314,6 +1476,12 @@
       "name": "KeepassXC",
       "first_reported_at": "2026-05-18T21:15:39Z",
       "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kimi K2.7-Code",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
       "times_reported": 1
     },
     {
@@ -1365,6 +1533,12 @@
       "times_reported": 1
     },
     {
+      "name": "Kyushu",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
       "name": "Lakebase",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
@@ -1386,6 +1560,12 @@
       "name": "Last.fm",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Lathe",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
       "times_reported": 1
     },
     {
@@ -1434,6 +1614,12 @@
       "name": "LibreWolf",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Linear",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
       "times_reported": 1
     },
     {
@@ -1569,6 +1755,18 @@
       "times_reported": 1
     },
     {
+      "name": "MiMo Code",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MiMo-v2.5-Pro-UltraSpeed",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
       "name": "Mine",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
@@ -1617,9 +1815,33 @@
       "times_reported": 1
     },
     {
+      "name": "modernc.org/sqlite",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
       "name": "Mojo",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Monty",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Msty Claw",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MusicDecoy",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
       "times_reported": 1
     },
     {
@@ -1641,6 +1863,12 @@
       "times_reported": 1
     },
     {
+      "name": "NASA RELL",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Natural Language Autoencoders",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -1650,6 +1878,12 @@
       "name": "Needle",
       "first_reported_at": "2026-05-12T21:14:38Z",
       "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nemotron",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     },
     {
@@ -1674,6 +1908,12 @@
       "name": "NetHack 5.0.0",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NeverClick",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "times_reported": 1
     },
     {
@@ -1731,6 +1971,12 @@
       "times_reported": 1
     },
     {
+      "name": "Ntsc-rs",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "NumWorks",
       "first_reported_at": "2026-05-01T21:05:24Z",
       "last_reported_at": "2026-05-01T21:05:24Z",
@@ -1761,9 +2007,21 @@
       "times_reported": 1
     },
     {
+      "name": "OLMo",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
       "name": "Omarchy",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "oMLX",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
       "times_reported": 1
     },
     {
@@ -1812,6 +2070,18 @@
       "name": "OpenCode",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenCV 5",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenEvidence",
+      "first_reported_at": "2026-06-06T21:26:52Z",
+      "last_reported_at": "2026-06-06T21:26:52Z",
       "times_reported": 1
     },
     {
@@ -1866,6 +2136,12 @@
       "name": "OpenTelemetry",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenThoughts",
+      "first_reported_at": "2026-06-11T21:07:55.839038Z",
+      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     },
     {
@@ -1953,9 +2229,21 @@
       "times_reported": 1
     },
     {
+      "name": "Performative-UI",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
       "name": "PerryTS",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "pg_durable",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "times_reported": 1
     },
     {
@@ -2025,6 +2313,18 @@
       "times_reported": 1
     },
     {
+      "name": "Poincake",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pokemon Emerald WASM port",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "Pollen",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
@@ -2088,6 +2388,18 @@
       "name": "PsySH",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Public Domain Image Archive",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pyrefly",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
       "times_reported": 1
     },
     {
@@ -2217,6 +2529,12 @@
       "times_reported": 1
     },
     {
+      "name": "REBOUND",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
       "name": "Red Balloon Security",
       "first_reported_at": "2026-05-14T21:22:02Z",
       "last_reported_at": "2026-05-14T21:22:02Z",
@@ -2232,6 +2550,12 @@
       "name": "Regent",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Remind",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "times_reported": 1
     },
     {
@@ -2298,6 +2622,12 @@
       "name": "Ruby for Good",
       "first_reported_at": "2026-05-24T21:19:07Z",
       "last_reported_at": "2026-05-24T21:19:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Runner",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
       "times_reported": 1
     },
     {
@@ -2397,6 +2727,12 @@
       "times_reported": 1
     },
     {
+      "name": "Silurus/ooxml",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
       "name": "Simply Logical",
       "first_reported_at": "2026-05-22T21:12:30Z",
       "last_reported_at": "2026-05-22T21:12:30Z",
@@ -2481,6 +2817,12 @@
       "times_reported": 1
     },
     {
+      "name": "Splash",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "Spleen",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
@@ -2496,6 +2838,12 @@
       "name": "Stable Audio 3",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "StackScope",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
       "times_reported": 1
     },
     {
@@ -2571,6 +2919,12 @@
       "times_reported": 1
     },
     {
+      "name": "Svelte",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
+      "times_reported": 1
+    },
+    {
       "name": "sway",
       "first_reported_at": "2026-05-17T21:23:02Z",
       "last_reported_at": "2026-05-17T21:23:02Z",
@@ -2592,6 +2946,12 @@
       "name": "SwissMicros DM42n",
       "first_reported_at": "2026-06-02T21:19:46+00:00",
       "last_reported_at": "2026-06-02T21:19:46+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Symbolica",
+      "first_reported_at": "2026-06-07T21:23:51Z",
+      "last_reported_at": "2026-06-07T21:23:51Z",
       "times_reported": 1
     },
     {
@@ -2619,6 +2979,12 @@
       "times_reported": 1
     },
     {
+      "name": "Tauri",
+      "first_reported_at": "2026-06-12T21:26:09Z",
+      "last_reported_at": "2026-06-12T21:26:09Z",
+      "times_reported": 1
+    },
+    {
       "name": "tea",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
@@ -2640,6 +3006,12 @@
       "name": "Text-to-CAD",
       "first_reported_at": "2026-05-03T21:17:03Z",
       "last_reported_at": "2026-05-03T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Cypherpunk Library",
+      "first_reported_at": "2026-06-08T21:22:08Z",
+      "last_reported_at": "2026-06-08T21:22:08Z",
       "times_reported": 1
     },
     {
@@ -2733,6 +3105,12 @@
       "times_reported": 1
     },
     {
+      "name": "Tough Things First",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Tree-sitter",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
@@ -2814,6 +3192,12 @@
       "name": "Unsloth",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Unsloth Studio",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "times_reported": 1
     },
     {
@@ -2967,6 +3351,12 @@
       "times_reported": 1
     },
     {
+      "name": "waynav",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "WebSCAD",
       "first_reported_at": "2026-05-22T21:12:30Z",
       "last_reported_at": "2026-05-22T21:12:30Z",
@@ -3024,6 +3414,12 @@
       "name": "Wireshark",
       "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "word-weasel",
+      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "times_reported": 1
     },
     {
@@ -3123,6 +3519,18 @@
       "times_reported": 1
     },
     {
+      "name": "Zeroserve",
+      "first_reported_at": "2026-06-06T21:23:39Z",
+      "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ZeroSSL",
+      "first_reported_at": "2026-06-09T21:12:30Z",
+      "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
       "name": "Zometool",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -3138,360 +3546,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Homerow",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "NeverClick",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "waynav",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Tough Things First",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Remind",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "NASA RELL",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "pg_durable",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "DBOS",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "BliSwitch",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "word-weasel",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Unsloth Studio",
-      "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Zeroserve",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Judge0",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "BrowserPod",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Monty",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ntsc-rs",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "HackTV",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Pokemon Emerald WASM port",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Poincake",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "HyperRogue",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Splash",
-      "first_reported_at": "2026-06-06T21:23:39Z",
-      "last_reported_at": "2026-06-06T21:23:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OpenEvidence",
-      "first_reported_at": "2026-06-06T21:26:52Z",
-      "last_reported_at": "2026-06-06T21:26:52Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Linear",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Silurus/ooxml",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Backrest",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Lathe",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "modernc.org/sqlite",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Public Domain Image Archive",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Kyushu",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Symbolica",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Msty Claw",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Runner",
-      "first_reported_at": "2026-06-07T21:23:51Z",
-      "last_reported_at": "2026-06-07T21:23:51Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Performative-UI",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Intuned",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Gitdot",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Pyrefly",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "MiMo-v2.5-Pro-UltraSpeed",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "MusicDecoy",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "The Cypherpunk Library",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "1worldflag",
-      "first_reported_at": "2026-06-08T21:22:08Z",
-      "last_reported_at": "2026-06-08T21:22:08Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Claude Fable 5",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Cost.dev",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "ColGREP",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "CadQuery",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "ZeroSSL",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Actalis",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OpenCV 5",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "REBOUND",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Gravity",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "GentleOS",
-      "first_reported_at": "2026-06-09T21:12:30Z",
-      "last_reported_at": "2026-06-09T21:12:30Z",
-      "times_reported": 1
-    },
-    {
-      "name": "MiMo Code",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OLMo",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Nemotron",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OpenThoughts",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "K2 Think V2",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Claw Patrol",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "DeltaDB",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ear Training Practice Exercises",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
-      "times_reported": 1
-    },
-    {
-      "name": "FPS.cob",
-      "first_reported_at": "2026-06-11T21:07:55.839038Z",
-      "last_reported_at": "2026-06-11T21:07:55.839038Z",
       "times_reported": 1
     }
   ]

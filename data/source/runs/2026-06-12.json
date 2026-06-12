@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-06-12",
+  "generated_at": "2026-06-12T21:26:09Z",
+  "summary": "9 items surfaced from the day’s qualifying HN stories; strongest signals came from local AI tooling, remote KVM, and frontend frameworks.",
+  "items": [
+    {
+      "name": "oMLX",
+      "thing_url": "https://omlx.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48507020",
+      "source_story_title": "How to setup a local coding agent on macOS",
+      "category": "AI & Local Models",
+      "summary": "oMLX — macOS-native MLX inference server with SSD caching for local coding agents.",
+      "why_included": "HN commenters treated it as the practical Mac setup for local agents.",
+      "evidence": "The thread praised its model selection, fast downloads, and launching Claude Code and Codex on Apple Silicon."
+    },
+    {
+      "name": "Kimi K2.7-Code",
+      "thing_url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "hn_url": "https://news.ycombinator.com/item?id=48502347",
+      "source_story_title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "category": "AI & Local Models",
+      "summary": "Kimi K2.7-Code — open-weight coding model tuned for long-horizon agentic work.",
+      "why_included": "A commenter reported a real patch-rebase success with minimal prompting.",
+      "evidence": "One commenter said it rebased a 177KB Fil-C OpenSSL patch from 3.3.1 to 3.5.7 with bare-bones instructions."
+    },
+    {
+      "name": "StackScope",
+      "thing_url": "https://stackscope.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48505364",
+      "source_story_title": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
+      "category": "Dev Tools & Workflows",
+      "summary": "StackScope — launch-scene stack intelligence for new product releases.",
+      "why_included": "Commenters liked the product-analysis angle and wanted more launch visibility.",
+      "evidence": "HN called the crawl of 40k indie launches interesting and discussed seeing their own launch report."
+    },
+    {
+      "name": "iPXE",
+      "thing_url": "https://ipxe.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48504929",
+      "source_story_title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "category": "Dev Tools & Workflows",
+      "summary": "iPXE — open-source network boot firmware for HTTP/HTTPS boot and chainloading.",
+      "why_included": "The UEFI thread treated it as the cleanest boot-path upgrade.",
+      "evidence": "Commenters said to use iPXE, highlighted its HTTP/HTTPS boot features, and noted it can replace PXE ROMs."
+    },
+    {
+      "name": "JetKVM",
+      "thing_url": "https://jetkvm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48504929",
+      "source_story_title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "category": "Dev Tools & Workflows",
+      "summary": "JetKVM — open-source KVM-over-IP box for remote machine control.",
+      "why_included": "It was recommended as a concrete out-of-band control option.",
+      "evidence": "The UEFI boot discussion suggested JetKVM alongside BMCs and iPXE for bypassing PXE/UEFI limits."
+    },
+    {
+      "name": "Comet (GL-RM1)",
+      "thing_url": "https://www.gl-inet.com/products/gl-rm1/",
+      "hn_url": "https://news.ycombinator.com/item?id=48504929",
+      "source_story_title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "category": "Dev Tools & Workflows",
+      "summary": "Comet (GL-RM1) — GL.iNet's remote KVM for browser-based out-of-band access.",
+      "why_included": "Commenters named it as another practical remote-control device.",
+      "evidence": "The same UEFI thread listed GL.iNet Comet next to JetKVM as a way to control a machine remotely."
+    },
+    {
+      "name": "Tauri",
+      "thing_url": "https://tauri.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48504912",
+      "source_story_title": "Slightly reducing the sloppiness of AI generated front end",
+      "category": "Frontend & UI",
+      "summary": "Tauri — lightweight desktop app framework that keeps a web frontend small.",
+      "why_included": "The front-end thread suggested it as the wrapper around AI-generated UI work.",
+      "evidence": "One comment said to use Svelte and then wrap it up using Tauri."
+    },
+    {
+      "name": "Svelte",
+      "thing_url": "https://svelte.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48504912",
+      "source_story_title": "Slightly reducing the sloppiness of AI generated front end",
+      "category": "Frontend & UI",
+      "summary": "Svelte — concise frontend framework suggested for tighter AI-generated UI stacks.",
+      "why_included": "Commenters used it as a concrete frontend stack instead of open-ended HTML generation.",
+      "evidence": "The thread recommended Svelte plus Tauri as a more structured path for AI-made front ends."
+    },
+    {
+      "name": "GTK",
+      "thing_url": "https://www.gtk.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48504912",
+      "source_story_title": "Slightly reducing the sloppiness of AI generated front end",
+      "category": "Frontend & UI",
+      "summary": "GTK — cross-platform widget toolkit called out as a coherent UI style target.",
+      "why_included": "It was explicitly mentioned as a style grammar that produces less generic output.",
+      "evidence": "A commenter said they liked GTK, and the discussion favored specific design systems over vague “make it good” prompts."
+    }
+  ]
+}

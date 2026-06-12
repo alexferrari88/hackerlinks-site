@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "jetkvm",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:jetkvm:48504929",
+  "mention_ids": [
+    "2026-06-12:jetkvm:48504929"
+  ],
+  "name": "JetKVM",
+  "slug": "jetkvm",
+  "summary": "JetKVM \u2014 open-source KVM-over-IP box for remote machine control.",
+  "thing_url": "https://jetkvm.com/",
+  "times_seen": 1,
+  "why_included": "It was recommended as a concrete out-of-band control option."
+}

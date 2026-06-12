@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "kimi-k2-7-code",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:kimi-k2-7-code:48502347",
+  "mention_ids": [
+    "2026-06-12:kimi-k2-7-code:48502347"
+  ],
+  "name": "Kimi K2.7-Code",
+  "slug": "kimi-k2-7-code",
+  "summary": "Kimi K2.7-Code \u2014 open-weight coding model tuned for long-horizon agentic work.",
+  "thing_url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+  "times_seen": 1,
+  "why_included": "A commenter reported a real patch-rebase success with minimal prompting."
+}

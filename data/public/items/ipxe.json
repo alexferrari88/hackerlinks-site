@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "ipxe",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:ipxe:48504929",
+  "mention_ids": [
+    "2026-06-12:ipxe:48504929"
+  ],
+  "name": "iPXE",
+  "slug": "ipxe",
+  "summary": "iPXE \u2014 open-source network boot firmware for HTTP/HTTPS boot and chainloading.",
+  "thing_url": "https://ipxe.org/",
+  "times_seen": 1,
+  "why_included": "The UEFI thread treated it as the cleanest boot-path upgrade."
+}

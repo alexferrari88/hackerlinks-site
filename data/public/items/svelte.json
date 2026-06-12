@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "svelte",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:svelte:48504912",
+  "mention_ids": [
+    "2026-06-12:svelte:48504912"
+  ],
+  "name": "Svelte",
+  "slug": "svelte",
+  "summary": "Svelte \u2014 concise frontend framework suggested for tighter AI-generated UI stacks.",
+  "thing_url": "https://svelte.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters used it as a concrete frontend stack instead of open-ended HTML generation."
+}

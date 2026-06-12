@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-12T21:26:09Z",
+  "id": "omlx",
+  "last_seen_at": "2026-06-12T21:26:09Z",
+  "latest_mention_id": "2026-06-12:omlx:48507020",
+  "mention_ids": [
+    "2026-06-12:omlx:48507020"
+  ],
+  "name": "oMLX",
+  "slug": "omlx",
+  "summary": "oMLX \u2014 macOS-native MLX inference server with SSD caching for local coding agents.",
+  "thing_url": "https://omlx.ai/",
+  "times_seen": 1,
+  "why_included": "HN commenters treated it as the practical Mac setup for local agents."
+}
