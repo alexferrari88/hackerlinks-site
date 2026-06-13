@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they build UIs in HTML via wasm-bindgen/web-sys, and another said Sunwet looked fun enough to try.",
+  "hn_url": "https://news.ycombinator.com/item?id=48479008",
+  "id": "2026-06-13:sunwet:48479008",
+  "is_repeat": false,
+  "issue_id": "2026-06-13",
+  "item_id": "sunwet",
+  "rank": 3,
+  "seen_at": "2026-06-13T21:10:41.216149Z",
+  "source_story_id": "48479008",
+  "source_story_title": "The state of building user interfaces in Rust"
+}

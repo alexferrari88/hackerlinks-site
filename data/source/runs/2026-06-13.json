@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "run_date": "2026-06-13",
+  "generated_at": "2026-06-13T21:10:41.216149Z",
+  "summary": "Scanned 24 qualifying HN stories and surfaced 8 fresh product mentions after cooldown filtering.",
+  "items": [
+    {
+      "name": "GLM-5.2",
+      "thing_url": "https://docs.z.ai/devpack/latest-model",
+      "hn_url": "https://news.ycombinator.com/item?id=48518684",
+      "source_story_title": "GLM 5.2 Is Out",
+      "summary": "Open-weight Z.AI model with 1M context and long-horizon coding.",
+      "why_included": "Fresh frontier-model release with direct comment interest in its coding and agentic strengths.",
+      "evidence": "Commenters highlighted the open-weight release, 1M-token context claim, and long-task coding focus."
+    },
+    {
+      "name": "Paca",
+      "thing_url": "https://github.com/Paca-AI/paca",
+      "hn_url": "https://news.ycombinator.com/item?id=48515385",
+      "source_story_title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "summary": "Lightweight Jira alternative for human-AI sprint planning and task assignment.",
+      "why_included": "Directly praised as a better fit than Jira for agentic team workflows.",
+      "evidence": "Comments compared it with Jira, GitHub Issues, Linear, and worktrees, and liked the customization and WASM plugin plan."
+    },
+    {
+      "name": "Sunwet",
+      "thing_url": "https://github.com/andrewbaxter/sunwet",
+      "hn_url": "https://news.ycombinator.com/item?id=48479008",
+      "source_story_title": "The state of building user interfaces in Rust",
+      "summary": "HTML-first Rust UI project built with wasm-bindgen and web-sys.",
+      "why_included": "A commenter called it fun and used it as a concrete alternative in the Rust UI debate.",
+      "evidence": "One commenter said they build UIs in HTML via wasm-bindgen/web-sys, and another said Sunwet looked fun enough to try."
+    },
+    {
+      "name": "aur-malware-check",
+      "thing_url": "https://github.com/lenucksi/aur-malware-check",
+      "hn_url": "https://news.ycombinator.com/item?id=48516379",
+      "source_story_title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "summary": "Script that flags installed AUR packages against the compromised package list.",
+      "why_included": "Useful incident-response helper surfaced directly in the Arch malware discussion.",
+      "evidence": "Commenters shared the repo plus pacman/yay commands for checking AUR installs against the published affected list."
+    },
+    {
+      "name": "pxv",
+      "thing_url": "https://github.com/linsomniac/pxv",
+      "hn_url": "https://news.ycombinator.com/item?id=48467437",
+      "source_story_title": "Appreciating Exif",
+      "summary": "xv-inspired image editor for viewing, editing, and clearing EXIF.",
+      "why_included": "A concrete utility for the metadata workflow the thread was discussing.",
+      "evidence": "Commenters named pxv as an EXIF viewer/editor/clearer and contrasted it with the messiness of image metadata tools."
+    },
+    {
+      "name": "OwnTracks",
+      "thing_url": "https://owntracks.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48467437",
+      "source_story_title": "Appreciating Exif",
+      "summary": "Private location diary app for tracking where your phone has been.",
+      "why_included": "Strong privacy-oriented tool mention from a practical photo-context discussion.",
+      "evidence": "The thread listed OwnTracks among location-logging tools people use to recover where photos were taken and where they went."
+    },
+    {
+      "name": "darktable",
+      "thing_url": "https://www.darktable.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48467437",
+      "source_story_title": "Appreciating Exif",
+      "summary": "Open-source RAW photo workflow app that can geotag from GPX.",
+      "why_included": "A mature photo tool that commenters used for post-hoc geotagging.",
+      "evidence": "Commenters described geotagging photos later with a GPX file and named darktable as the software they use."
+    },
+    {
+      "name": "Roman Empire map",
+      "thing_url": "https://new.roman-names.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48481400",
+      "source_story_title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "summary": "Site mapping named Roman-era people from inscription data.",
+      "why_included": "A concrete show-HN project with an unusual AI-assisted research pipeline.",
+      "evidence": "The maker explained the 500k-inscription extraction pipeline and commenters engaged with the linked source databases and quality metrics."
+    }
+  ]
+}

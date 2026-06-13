@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-13T21:10:41.216149Z",
+  "id": "darktable",
+  "last_seen_at": "2026-06-13T21:10:41.216149Z",
+  "latest_mention_id": "2026-06-13:darktable:48467437",
+  "mention_ids": [
+    "2026-06-13:darktable:48467437"
+  ],
+  "name": "darktable",
+  "slug": "darktable",
+  "summary": "Open-source RAW photo workflow app that can geotag from GPX.",
+  "thing_url": "https://www.darktable.org/",
+  "times_seen": 1,
+  "why_included": "A mature photo tool that commenters used for post-hoc geotagging."
+}
