@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "inference-club",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:inference-club:48528779",
+  "mention_ids": [
+    "2026-06-14:inference-club:48528779"
+  ],
+  "name": "Inference Club",
+  "slug": "inference-club",
+  "summary": "Distributed inference network for consumer hardware.",
+  "thing_url": "https://inference.club",
+  "times_seen": 1,
+  "why_included": "Distinctive infrastructure product with a concrete deployment model."
+}

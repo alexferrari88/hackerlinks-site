@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "singlefile",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:singlefile:48529990",
+  "mention_ids": [
+    "2026-06-14:singlefile:48529990"
+  ],
+  "name": "SingleFile",
+  "slug": "singlefile",
+  "summary": "Browser extension and CLI for saving faithful one-file copies of pages.",
+  "thing_url": "https://github.com/gildas-lormeau/SingleFile",
+  "times_seen": 1,
+  "why_included": "Repeatedly praised as the clean-save baseline in the Kage thread."
+}

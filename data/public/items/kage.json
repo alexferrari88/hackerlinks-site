@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "kage",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:kage:48529990",
+  "mention_ids": [
+    "2026-06-14:kage:48529990"
+  ],
+  "name": "Kage",
+  "slug": "kage",
+  "summary": "Shadow websites into a single offline binary.",
+  "thing_url": "https://github.com/tamnd/kage",
+  "times_seen": 1,
+  "why_included": "New Show HN tool with a concrete archiving use case and strong comment interest."
+}

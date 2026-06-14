@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "fungible",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:fungible:48528779",
+  "mention_ids": [
+    "2026-06-14:fungible:48528779"
+  ],
+  "name": "Fungible",
+  "slug": "fungible",
+  "summary": "Local-first personal finance app with TUI and Electron GUI.",
+  "thing_url": "https://github.com/tomfunk/fungible",
+  "times_seen": 1,
+  "why_included": "Concrete, self-contained personal software with both terminal and GUI modes."
+}

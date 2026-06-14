@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "whistle-enterprise",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:whistle-enterprise:48528779",
+  "mention_ids": [
+    "2026-06-14:whistle-enterprise:48528779"
+  ],
+  "name": "Whistle Enterprise",
+  "slug": "whistle-enterprise",
+  "summary": "Voice-transcription product built around fine-tuned LLMs.",
+  "thing_url": "https://whistle-enterprise.com",
+  "times_seen": 1,
+  "why_included": "Specific product launch with a narrow, understandable use case."
+}

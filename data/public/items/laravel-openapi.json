@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "laravel-openapi",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:laravel-openapi:48528779",
+  "mention_ids": [
+    "2026-06-14:laravel-openapi:48528779"
+  ],
+  "name": "Laravel OpenAPI",
+  "slug": "laravel-openapi",
+  "summary": "API documentation generator for Laravel apps.",
+  "thing_url": "https://github.com/Radiergummi/laravel-openapi",
+  "times_seen": 1,
+  "why_included": "Clear developer utility with framework-specific ergonomics."
+}

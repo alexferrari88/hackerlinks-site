@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "astrolabe",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:astrolabe:48528779",
+  "mention_ids": [
+    "2026-06-14:astrolabe:48528779"
+  ],
+  "name": "Astrolabe",
+  "slug": "astrolabe",
+  "summary": "Nextcloud semantic layer and MCP backend.",
+  "thing_url": "https://astrolabecloud.com",
+  "times_seen": 1,
+  "why_included": "Local-first + MCP angle makes it a concrete workflow tool, not just another SaaS."
+}

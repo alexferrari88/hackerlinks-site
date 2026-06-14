@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "ollama-dash",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:ollama-dash:48528779",
+  "mention_ids": [
+    "2026-06-14:ollama-dash:48528779"
+  ],
+  "name": "Ollama Dash",
+  "slug": "ollama-dash",
+  "summary": "Dashboard for ranking local and hosted LLMs.",
+  "thing_url": "https://ollamadash.up.railway.app",
+  "times_seen": 1,
+  "why_included": "Concrete AI ops utility described by its builder in the Ask HN thread."
+}

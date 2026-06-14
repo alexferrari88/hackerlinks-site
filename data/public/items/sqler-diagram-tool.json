@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-14T21:10:20.514906Z",
+  "id": "sqler-diagram-tool",
+  "last_seen_at": "2026-06-14T21:10:20.514906Z",
+  "latest_mention_id": "2026-06-14:sqler-diagram-tool:48523992",
+  "mention_ids": [
+    "2026-06-14:sqler-diagram-tool:48523992"
+  ],
+  "name": "SQL\u2192ER diagram tool",
+  "slug": "sqler-diagram-tool",
+  "summary": "Browser ER-diagrammer for SQL schemas with no uploads.",
+  "thing_url": "https://sqltoerdiagram.com/",
+  "times_seen": 1,
+  "why_included": "Practical browser-only workflow tool with direct praise from commenters."
+}

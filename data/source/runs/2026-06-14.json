@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "run_date": "2026-06-14",
+  "generated_at": "2026-06-14T21:10:20.514906Z",
+  "summary": {
+    "stories_scraped": 22,
+    "items_reported": 10,
+    "cooldown_days": 90
+  },
+  "items": [
+    {
+      "name": "Kage",
+      "thing_url": "https://github.com/tamnd/kage",
+      "hn_url": "https://news.ycombinator.com/item?id=48529990",
+      "source_story_title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "summary": "Shadow websites into a single offline binary.",
+      "why_included": "New Show HN tool with a concrete archiving use case and strong comment interest.",
+      "evidence": "Commenters said Kage looks promising for offline company wikis and compared it with SingleFile/HTTrack-style archiving.",
+      "category": "Dev Tools & Workflows"
+    },
+    {
+      "name": "SingleFile",
+      "thing_url": "https://github.com/gildas-lormeau/SingleFile",
+      "hn_url": "https://news.ycombinator.com/item?id=48529990",
+      "source_story_title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "summary": "Browser extension and CLI for saving faithful one-file copies of pages.",
+      "why_included": "Repeatedly praised as the clean-save baseline in the Kage thread.",
+      "evidence": "A commenter called SingleFile their clean-save default and said Kage would be compelling if it matched SingleFile quality.",
+      "category": "Dev Tools & Workflows"
+    },
+    {
+      "name": "SQL→ER diagram tool",
+      "thing_url": "https://sqltoerdiagram.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48523992",
+      "source_story_title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "summary": "Browser ER-diagrammer for SQL schemas with no uploads.",
+      "why_included": "Practical browser-only workflow tool with direct praise from commenters.",
+      "evidence": "Commenters called it useful and great, while suggesting explain.dalibo, wwwsqldesigner, and datagram.studio as comparisons.",
+      "category": "Dev Tools & Workflows"
+    },
+    {
+      "name": "Ollama Dash",
+      "thing_url": "https://ollamadash.up.railway.app",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "Dashboard for ranking local and hosted LLMs.",
+      "why_included": "Concrete AI ops utility described by its builder in the Ask HN thread.",
+      "evidence": "The poster said it combines ArtificialAnalysis, the Ollama registry, and OpenRouter data for model ranking.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "Laravel OpenAPI",
+      "thing_url": "https://github.com/Radiergummi/laravel-openapi",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "API documentation generator for Laravel apps.",
+      "why_included": "Clear developer utility with framework-specific ergonomics.",
+      "evidence": "The poster said it understands Laravel conventions and the ecosystem, rather than treating Laravel like a generic PHP app.",
+      "category": "Dev Tools & Workflows"
+    },
+    {
+      "name": "Whistle Enterprise",
+      "thing_url": "https://whistle-enterprise.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "Voice-transcription product built around fine-tuned LLMs.",
+      "why_included": "Specific product launch with a narrow, understandable use case.",
+      "evidence": "The builder said they fell down the voice-transcription rabbit hole and built Whistle Enterprise after pairing it with fine-tuned LLM work.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "Astrolabe",
+      "thing_url": "https://astrolabecloud.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "Nextcloud semantic layer and MCP backend.",
+      "why_included": "Local-first + MCP angle makes it a concrete workflow tool, not just another SaaS.",
+      "evidence": "The poster described Astrolabe as a Nextcloud app plus backend and said they use it as an MCP server across apps.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "Inference Club",
+      "thing_url": "https://inference.club",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "Distributed inference network for consumer hardware.",
+      "why_included": "Distinctive infrastructure product with a concrete deployment model.",
+      "evidence": "The poster said you sign in with GitHub, run an agent on your home network, and register local inference resources.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "Hiring Method",
+      "thing_url": "https://hiring-method.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "Hiring platform that avoids black-box AI screening.",
+      "why_included": "Clear product stance in a crowded HR-tech category.",
+      "evidence": "The poster said v1 is live after two pivots and contrasted it with HR tech rushing to use black-box AI.",
+      "category": "Dev Tools & Workflows"
+    },
+    {
+      "name": "Fungible",
+      "thing_url": "https://github.com/tomfunk/fungible",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "source_story_title": "Ask HN: What are you working on? (June 2026)",
+      "summary": "Local-first personal finance app with TUI and Electron GUI.",
+      "why_included": "Concrete, self-contained personal software with both terminal and GUI modes.",
+      "evidence": "The poster said Fungible is free, open source, local-first, and available as both a TUI and an Electron app.",
+      "category": "Apps & Side Projects"
+    }
+  ]
+}

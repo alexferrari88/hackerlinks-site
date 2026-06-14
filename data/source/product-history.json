@@ -3595,6 +3595,66 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "Kage",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SingleFile",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SQL→ER diagram tool",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Ollama Dash",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Laravel OpenAPI",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Whistle Enterprise",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Astrolabe",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Inference Club",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Hiring Method",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Fungible",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
     }
   ]
 }

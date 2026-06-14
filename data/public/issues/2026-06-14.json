@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T21:10:20.514906Z",
+  "headline": "10 interesting things surfaced from HN on 2026-06-14",
+  "id": "2026-06-14",
+  "mention_ids": [
+    "2026-06-14:kage:48529990",
+    "2026-06-14:singlefile:48529990",
+    "2026-06-14:sqler-diagram-tool:48523992",
+    "2026-06-14:ollama-dash:48528779",
+    "2026-06-14:laravel-openapi:48528779",
+    "2026-06-14:whistle-enterprise:48528779",
+    "2026-06-14:astrolabe:48528779",
+    "2026-06-14:inference-club:48528779",
+    "2026-06-14:hiring-method:48528779",
+    "2026-06-14:fungible:48528779"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
