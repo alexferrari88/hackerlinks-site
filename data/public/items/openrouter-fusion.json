@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-15T21:10:59+00:00",
+  "id": "openrouter-fusion",
+  "last_seen_at": "2026-06-15T21:10:59+00:00",
+  "latest_mention_id": "2026-06-15:openrouter-fusion:48537641",
+  "mention_ids": [
+    "2026-06-15:openrouter-fusion:48537641"
+  ],
+  "name": "OpenRouter Fusion",
+  "slug": "openrouter-fusion",
+  "summary": "Multi-model routing and deliberation for harder prompts.",
+  "thing_url": "https://openrouter.ai/openrouter/fusion",
+  "times_seen": 1,
+  "why_included": "Commenters tried the budget and quality modes and treated it as a real option."
+}

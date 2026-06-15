@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-15T21:10:59+00:00",
+  "id": "fata",
+  "last_seen_at": "2026-06-15T21:10:59+00:00",
+  "latest_mention_id": "2026-06-15:fata:48489163",
+  "mention_ids": [
+    "2026-06-15:fata:48489163"
+  ],
+  "name": "fata",
+  "slug": "fata",
+  "summary": "Spaced-repetition app for keeping coding fundamentals sharp.",
+  "thing_url": "https://fata.dev/",
+  "times_seen": 1,
+  "why_included": "A commenter said they downloaded it; others treated it as useful practice infrastructure."
+}

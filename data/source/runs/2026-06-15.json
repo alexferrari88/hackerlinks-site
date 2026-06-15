@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "run_date": "2026-06-15",
+  "generated_at": "2026-06-15T21:10:59Z",
+  "summary": {
+    "stories_scraped": 24,
+    "items_reported": 8,
+    "cooldown_days": 90
+  },
+  "items": [
+    {
+      "name": "Headscale",
+      "thing_url": "https://headscale.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48542480",
+      "source_story_title": "Iroh 1.0",
+      "summary": "Self-hosted Tailscale control server for private networks.",
+      "why_included": "Iroh commenters pointed to it as the fully OSS route for Tailscale-style setups.",
+      "evidence": "A commenter said that if you use Headscale, then every part of the Tailscale stack is OSS.",
+      "category": "Networking & Infra"
+    },
+    {
+      "name": "Bifrost",
+      "thing_url": "https://www.getmaxim.ai/bifrost/",
+      "hn_url": "https://news.ycombinator.com/item?id=48542100",
+      "source_story_title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "summary": "LLM gateway people use as the front door to their model stack.",
+      "why_included": "A commenter set it up as the primary access point for served models.",
+      "evidence": "One commenter said they recently set up Bifrost, an LLM gateway, as the primary access point for the models they serve.",
+      "category": "Dev Tools & Workflows"
+    },
+    {
+      "name": "Open WebUI",
+      "thing_url": "https://openwebui.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48542100",
+      "source_story_title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "summary": "Self-hosted AI interface for local and cloud models.",
+      "why_included": "It showed up as part of a real local-model stack people are actively using.",
+      "evidence": "A commenter said they connect Open WebUI alongside other applications in their model setup.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "OpenRouter Fusion",
+      "thing_url": "https://openrouter.ai/openrouter/fusion",
+      "hn_url": "https://news.ycombinator.com/item?id=48537641",
+      "source_story_title": "Openrouter Fusion API",
+      "summary": "Multi-model routing and deliberation for harder prompts.",
+      "why_included": "Commenters tried the budget and quality modes and treated it as a real option.",
+      "evidence": "People said they tried OpenRouter Fusion in budget mode and discussed its multi-model quorum behavior and costs.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "Iroh",
+      "thing_url": "https://www.iroh.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48542480",
+      "source_story_title": "Iroh 1.0",
+      "summary": "Peer-to-peer networking stack for direct device-to-device connections.",
+      "why_included": "Commenters said they use it in production and like the app-layer model.",
+      "evidence": "Several commenters praised Iroh as a production library and said the docs, custom transports, and app-layer connectivity model are compelling.",
+      "category": "Networking & Infra"
+    },
+    {
+      "name": "machine0",
+      "thing_url": "https://machine0.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48543245",
+      "source_story_title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "summary": "Persistent CLI VMs with NixOS/Ubuntu and preinstalled tools.",
+      "why_included": "Commenters are already running real apps on it and pointing agents at its VMs.",
+      "evidence": "One commenter said to point an agent at a machine0 VM; another said they were already hosting openclaw and web apps on it.",
+      "category": "Networking & Infra"
+    },
+    {
+      "name": "fata",
+      "thing_url": "https://fata.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48489163",
+      "source_story_title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "summary": "Spaced-repetition app for keeping coding fundamentals sharp.",
+      "why_included": "A commenter said they downloaded it; others treated it as useful practice infrastructure.",
+      "evidence": "A commenter said they downloaded the app and would spend time using it, while others said fata helps practice regularly.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "Reps",
+      "thing_url": "https://reps.zander.wtf/",
+      "hn_url": "https://news.ycombinator.com/item?id=48489163",
+      "source_story_title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "summary": "Daily coding puzzle for practicing skills and fighting skill rot.",
+      "why_included": "A commenter surfaced it as a concrete daily practice tool.",
+      "evidence": "A commenter introduced Reps as a daily coding puzzle built to help fight skill rot.",
+      "category": "Apps & Side Projects"
+    }
+  ]
+}

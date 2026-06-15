@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-15T21:10:59+00:00",
+  "id": "bifrost",
+  "last_seen_at": "2026-06-15T21:10:59+00:00",
+  "latest_mention_id": "2026-06-15:bifrost:48542100",
+  "mention_ids": [
+    "2026-06-15:bifrost:48542100"
+  ],
+  "name": "Bifrost",
+  "slug": "bifrost",
+  "summary": "LLM gateway people use as the front door to their model stack.",
+  "thing_url": "https://www.getmaxim.ai/bifrost/",
+  "times_seen": 1,
+  "why_included": "A commenter set it up as the primary access point for served models."
+}

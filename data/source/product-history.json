@@ -3655,6 +3655,54 @@
       "first_reported_at": "2026-06-14T21:10:20.514906Z",
       "last_reported_at": "2026-06-14T21:10:20.514906Z",
       "times_reported": 1
+    },
+    {
+      "name": "Bifrost",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Open WebUI",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenRouter Fusion",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Iroh",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "machine0",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "fata",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Reps",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Headscale",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
     }
   ]
 }

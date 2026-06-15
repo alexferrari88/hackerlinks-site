@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-15T21:10:59+00:00",
+  "id": "iroh",
+  "last_seen_at": "2026-06-15T21:10:59+00:00",
+  "latest_mention_id": "2026-06-15:iroh:48542480",
+  "mention_ids": [
+    "2026-06-15:iroh:48542480"
+  ],
+  "name": "Iroh",
+  "slug": "iroh",
+  "summary": "Peer-to-peer networking stack for direct device-to-device connections.",
+  "thing_url": "https://www.iroh.computer/",
+  "times_seen": 1,
+  "why_included": "Commenters said they use it in production and like the app-layer model."
+}

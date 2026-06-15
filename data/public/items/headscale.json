@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-15T21:10:59+00:00",
+  "id": "headscale",
+  "last_seen_at": "2026-06-15T21:10:59+00:00",
+  "latest_mention_id": "2026-06-15:headscale:48542480",
+  "mention_ids": [
+    "2026-06-15:headscale:48542480"
+  ],
+  "name": "Headscale",
+  "slug": "headscale",
+  "summary": "Self-hosted Tailscale control server for private networks.",
+  "thing_url": "https://headscale.net/",
+  "times_seen": 1,
+  "why_included": "Iroh commenters pointed to it as the fully OSS route for Tailscale-style setups."
+}

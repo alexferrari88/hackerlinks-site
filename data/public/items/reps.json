@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-15T21:10:59+00:00",
+  "id": "reps",
+  "last_seen_at": "2026-06-15T21:10:59+00:00",
+  "latest_mention_id": "2026-06-15:reps:48489163",
+  "mention_ids": [
+    "2026-06-15:reps:48489163"
+  ],
+  "name": "Reps",
+  "slug": "reps",
+  "summary": "Daily coding puzzle for practicing skills and fighting skill rot.",
+  "thing_url": "https://reps.zander.wtf/",
+  "times_seen": 1,
+  "why_included": "A commenter surfaced it as a concrete daily practice tool."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they recently set up Bifrost, an LLM gateway, as the primary access point for the models they serve.",
+  "hn_url": "https://news.ycombinator.com/item?id=48542100",
+  "id": "2026-06-15:bifrost:48542100",
+  "is_repeat": false,
+  "issue_id": "2026-06-15",
+  "item_id": "bifrost",
+  "rank": 2,
+  "seen_at": "2026-06-15T21:10:59Z",
+  "source_story_id": "48542100",
+  "source_story_title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?"
+}

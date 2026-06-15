@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T21:10:59Z",
+  "headline": "8 interesting things surfaced from HN on 2026-06-15",
+  "id": "2026-06-15",
+  "mention_ids": [
+    "2026-06-15:headscale:48542480",
+    "2026-06-15:bifrost:48542100",
+    "2026-06-15:open-webui:48542100",
+    "2026-06-15:openrouter-fusion:48537641",
+    "2026-06-15:iroh:48542480",
+    "2026-06-15:machine0:48543245",
+    "2026-06-15:fata:48489163",
+    "2026-06-15:reps:48489163"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

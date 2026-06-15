@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said to point an agent at a machine0 VM; another said they were already hosting openclaw and web apps on it.",
+  "hn_url": "https://news.ycombinator.com/item?id=48543245",
+  "id": "2026-06-15:machine0:48543245",
+  "is_repeat": false,
+  "issue_id": "2026-06-15",
+  "item_id": "machine0",
+  "rank": 6,
+  "seen_at": "2026-06-15T21:10:59Z",
+  "source_story_id": "48543245",
+  "source_story_title": "Show HN: machine0 \u2013 Persistent NixOS VMs You Control from the CLI"
+}
