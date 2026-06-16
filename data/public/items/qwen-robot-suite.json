@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-16T21:15:35Z",
+  "id": "qwen-robot-suite",
+  "last_seen_at": "2026-06-16T21:15:35Z",
+  "latest_mention_id": "2026-06-16:qwen-robot-suite:48554814",
+  "mention_ids": [
+    "2026-06-16:qwen-robot-suite:48554814"
+  ],
+  "name": "Qwen-Robot Suite",
+  "slug": "qwen-robot-suite",
+  "summary": "Qwen\u2019s robot-focused model suite for physical-world intelligence.",
+  "thing_url": "https://qwen.ai/blog?id=qwen-robotsuite",
+  "times_seen": 1,
+  "why_included": "HN comments treated it as a serious robotics push and asked about alternatives."
+}

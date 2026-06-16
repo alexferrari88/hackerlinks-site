@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-16T21:15:35Z",
+  "id": "vehicle-motion-cues-f-droid",
+  "last_seen_at": "2026-06-16T21:15:35Z",
+  "latest_mention_id": "2026-06-16:vehicle-motion-cues-f-droid:48557530",
+  "mention_ids": [
+    "2026-06-16:vehicle-motion-cues-f-droid:48557530"
+  ],
+  "name": "Vehicle Motion Cues (F-Droid)",
+  "slug": "vehicle-motion-cues-f-droid",
+  "summary": "Open-source Android motion-sickness overlay from F-Droid.",
+  "thing_url": "https://f-droid.org/en/packages/dev.davidv.motionsickness/",
+  "times_seen": 1,
+  "why_included": "An HN commenter pointed to it as an open, non-Google-Play alternative."
+}

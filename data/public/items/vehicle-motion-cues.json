@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-16T21:15:35Z",
+  "id": "vehicle-motion-cues",
+  "last_seen_at": "2026-06-16T21:15:35Z",
+  "latest_mention_id": "2026-06-16:vehicle-motion-cues:48557530",
+  "mention_ids": [
+    "2026-06-16:vehicle-motion-cues:48557530"
+  ],
+  "name": "Vehicle Motion Cues",
+  "slug": "vehicle-motion-cues",
+  "summary": "Apple\u2019s animated-dot accessibility feature for motion sickness.",
+  "thing_url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+  "times_seen": 1,
+  "why_included": "Commenters called it a game changer for travel reading and screen use."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-16T21:15:35Z",
+  "id": "big-pickle",
+  "last_seen_at": "2026-06-16T21:15:35Z",
+  "latest_mention_id": "2026-06-16:big-pickle:48555993",
+  "mention_ids": [
+    "2026-06-16:big-pickle:48555993"
+  ],
+  "name": "Big Pickle",
+  "slug": "big-pickle",
+  "summary": "OpenCode Zen model used as a free coding-agent option.",
+  "thing_url": "https://pi.dev/models/opencode/big-pickle",
+  "times_seen": 1,
+  "why_included": "A commenter called OpenCode with Big Pickle the best free experience and said it fit personal work."
+}

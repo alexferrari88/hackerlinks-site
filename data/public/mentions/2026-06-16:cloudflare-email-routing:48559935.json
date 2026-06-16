@@ -1,0 +1,12 @@
+{
+  "evidence": "One HN commenter said their extension uses Cloudflare Email Routing to create unique addresses that forward to a real inbox.",
+  "hn_url": "https://news.ycombinator.com/item?id=48559935",
+  "id": "2026-06-16:cloudflare-email-routing:48559935",
+  "is_repeat": false,
+  "issue_id": "2026-06-16",
+  "item_id": "cloudflare-email-routing",
+  "rank": 6,
+  "seen_at": "2026-06-16T21:15:35Z",
+  "source_story_id": "48559935",
+  "source_story_title": "Apple is about to make Hide My Email useless"
+}

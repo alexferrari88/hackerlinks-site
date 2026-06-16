@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-16T21:15:35Z",
+  "id": "hide-my-email",
+  "last_seen_at": "2026-06-16T21:15:35Z",
+  "latest_mention_id": "2026-06-16:hide-my-email:48559935",
+  "mention_ids": [
+    "2026-06-16:hide-my-email:48559935"
+  ],
+  "name": "Hide My Email",
+  "slug": "hide-my-email",
+  "summary": "Apple\u2019s privacy feature for random, forwarding email aliases.",
+  "thing_url": "https://support.apple.com/en-us/105078",
+  "times_seen": 1,
+  "why_included": "Commenters still praised it as a practical privacy tool and Apple\u2019s best iCloud feature."
+}

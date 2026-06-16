@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-16T21:15:35Z",
+  "id": "subq-1-1-small",
+  "last_seen_at": "2026-06-16T21:15:35Z",
+  "latest_mention_id": "2026-06-16:subq-1-1-small:48556163",
+  "mention_ids": [
+    "2026-06-16:subq-1-1-small:48556163"
+  ],
+  "name": "SubQ 1.1 Small",
+  "slug": "subq-1-1-small",
+  "summary": "Sparse-attention model chasing million-token context on less compute.",
+  "thing_url": "https://subq.ai/subq-1-small-technical-report",
+  "times_seen": 1,
+  "why_included": "Commenters praised the tech and highlighted its large compute and speed gains."
+}

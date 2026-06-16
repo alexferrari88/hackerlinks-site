@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "run_date": "2026-06-16",
+  "generated_at": "2026-06-16T21:15:35Z",
+  "summary": "8 concrete items surfaced from comment-grounded HN threads.",
+  "items": [
+    {
+      "name": "Big Pickle",
+      "thing_url": "https://pi.dev/models/opencode/big-pickle",
+      "hn_url": "https://news.ycombinator.com/item?id=48555993",
+      "source_story_title": "Running local models is good now",
+      "summary": "OpenCode Zen model used as a free coding-agent option.",
+      "why_included": "A commenter called OpenCode with Big Pickle the best free experience and said it fit personal work.",
+      "evidence": "HN commenter wrote that the best free experience they found was using OpenCode with Big Pickle."
+    },
+    {
+      "name": "SubQ 1.1 Small",
+      "thing_url": "https://subq.ai/subq-1-small-technical-report",
+      "hn_url": "https://news.ycombinator.com/item?id=48556163",
+      "source_story_title": "SubQ 1.1 Small",
+      "summary": "Sparse-attention model chasing million-token context on less compute.",
+      "why_included": "Commenters praised the tech and highlighted its large compute and speed gains.",
+      "evidence": "One commenter said they loved the tech; another pointed to the 64.5x compute reduction and 56x speedup claim."
+    },
+    {
+      "name": "Qwen-Robot Suite",
+      "thing_url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "hn_url": "https://news.ycombinator.com/item?id=48554814",
+      "source_story_title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "summary": "Qwen’s robot-focused model suite for physical-world intelligence.",
+      "why_included": "HN comments treated it as a serious robotics push and asked about alternatives.",
+      "evidence": "Commenters called it brilliant and asked what the current alternatives are for robotics work."
+    },
+    {
+      "name": "Hide My Email",
+      "thing_url": "https://support.apple.com/en-us/105078",
+      "hn_url": "https://news.ycombinator.com/item?id=48559935",
+      "source_story_title": "Apple is about to make Hide My Email useless",
+      "summary": "Apple’s privacy feature for random, forwarding email aliases.",
+      "why_included": "Commenters still praised it as a practical privacy tool and Apple’s best iCloud feature.",
+      "evidence": "One commenter said they love Hide My Email; others described it as the best iCloud feature and a spam catch tool."
+    },
+    {
+      "name": "SimpleLogin",
+      "thing_url": "https://simplelogin.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48559935",
+      "source_story_title": "Apple is about to make Hide My Email useless",
+      "summary": "Proton’s open-source anonymous email alias service.",
+      "why_included": "HN commenters recommended it as a working Hide My Email alternative.",
+      "evidence": "A commenter said SimpleLogin from Proton works great and helps spot leaked email addresses."
+    },
+    {
+      "name": "Cloudflare Email Routing",
+      "thing_url": "https://www.cloudflare.com/products/email-routing/",
+      "hn_url": "https://news.ycombinator.com/item?id=48559935",
+      "source_story_title": "Apple is about to make Hide My Email useless",
+      "summary": "Cloudflare’s email forwarding and routing service.",
+      "why_included": "A commenter used it to power a one-click aliasing extension.",
+      "evidence": "One HN commenter said their extension uses Cloudflare Email Routing to create unique addresses that forward to a real inbox."
+    },
+    {
+      "name": "Vehicle Motion Cues",
+      "thing_url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "hn_url": "https://news.ycombinator.com/item?id=48557530",
+      "source_story_title": "Apple's weird anti-nausea dots cured my car sickness",
+      "summary": "Apple’s animated-dot accessibility feature for motion sickness.",
+      "why_included": "Commenters called it a game changer for travel reading and screen use.",
+      "evidence": "One commenter said it was a game changer; another said they love the feature and use it regularly."
+    },
+    {
+      "name": "Vehicle Motion Cues (F-Droid)",
+      "thing_url": "https://f-droid.org/en/packages/dev.davidv.motionsickness/",
+      "hn_url": "https://news.ycombinator.com/item?id=48557530",
+      "source_story_title": "Apple's weird anti-nausea dots cured my car sickness",
+      "summary": "Open-source Android motion-sickness overlay from F-Droid.",
+      "why_included": "An HN commenter pointed to it as an open, non-Google-Play alternative.",
+      "evidence": "The thread linked the F-Droid package and said it was an open alternative they planned to try."
+    }
+  ]
+}
