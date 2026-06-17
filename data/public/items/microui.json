@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-17T21:01:07Z",
+  "id": "microui",
+  "last_seen_at": "2026-06-17T21:01:07Z",
+  "latest_mention_id": "2026-06-17:microui:48569205",
+  "mention_ids": [
+    "2026-06-17:microui:48569205"
+  ],
+  "name": "MicroUI",
+  "slug": "microui",
+  "summary": "Tiny portable immediate-mode UI library in ANSI C.",
+  "thing_url": "https://github.com/rxi/microui",
+  "times_seen": 1,
+  "why_included": "Commenters praised it as minimal, practical, and easy to drop into toy projects."
+}

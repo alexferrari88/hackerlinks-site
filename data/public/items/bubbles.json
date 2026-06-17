@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-17T21:01:07Z",
+  "id": "bubbles",
+  "last_seen_at": "2026-06-17T21:01:07Z",
+  "latest_mention_id": "2026-06-17:bubbles:48567155",
+  "mention_ids": [
+    "2026-06-17:bubbles:48567155"
+  ],
+  "name": "Bubbles",
+  "slug": "bubbles",
+  "summary": "Independent-blog front page with voting, comments, and curated briefings.",
+  "thing_url": "https://bubbles.town/",
+  "times_seen": 1,
+  "why_included": "Commenters repeatedly praised its calmer, more human feel versus social-media doomscrolling."
+}

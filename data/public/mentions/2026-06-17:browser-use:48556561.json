@@ -1,0 +1,12 @@
+{
+  "evidence": "One comment explicitly preferred Browser Use, but wanted Android-browser support before switching.",
+  "hn_url": "https://news.ycombinator.com/item?id=48556561",
+  "id": "2026-06-17:browser-use:48556561",
+  "is_repeat": false,
+  "issue_id": "2026-06-17",
+  "item_id": "browser-use",
+  "rank": 2,
+  "seen_at": "2026-06-17T21:01:07Z",
+  "source_story_id": "48556561",
+  "source_story_title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+}

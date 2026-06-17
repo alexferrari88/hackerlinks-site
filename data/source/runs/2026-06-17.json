@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "run_date": "2026-06-17",
+  "generated_at": "2026-06-17T21:01:07Z",
+  "summary": {
+    "stories_scanned": 22,
+    "comments_fetched": 3506,
+    "items_reported": 9
+  },
+  "items": [
+    {
+      "name": "Lore",
+      "thing_url": "https://lore.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48571081",
+      "source_story_title": "Lore – Open source version control system designed for scalability",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Open-source version control built for game assets and Unreal workflows.",
+      "why_included": "Commenters called it a promising challenger to Perforce for game development.",
+      "evidence": "Top comments said the announcement looked very promising for Unreal game dev and that Perforce needs a challenger."
+    },
+    {
+      "name": "Browser Use",
+      "thing_url": "https://browser-use.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48556561",
+      "source_story_title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Browser automation platform for AI agents.",
+      "why_included": "A commenter said they would rather use Browser Use if it supported Android browsers.",
+      "evidence": "One comment explicitly preferred Browser Use, but wanted Android-browser support before switching."
+    },
+    {
+      "name": "ApiFlash",
+      "thing_url": "https://apiflash.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48556561",
+      "source_story_title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Website screenshot API built on Chrome and AWS Lambda.",
+      "why_included": "A commenter described ApiFlash as the screenshot API they already run in production.",
+      "evidence": "The thread included a commenter saying they run a screenshot API with Chromium in an AWS Lambda container image instead of Firecracker."
+    },
+    {
+      "name": "MicroUI",
+      "thing_url": "https://github.com/rxi/microui",
+      "hn_url": "https://news.ycombinator.com/item?id=48569205",
+      "source_story_title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "category": "🛠️ Dev Tools & Infra",
+      "summary": "Tiny portable immediate-mode UI library in ANSI C.",
+      "why_included": "Commenters praised it as minimal, practical, and easy to drop into toy projects.",
+      "evidence": "Top comments said it was interesting in how minimal it is and that it was a go-to for personal toy projects."
+    },
+    {
+      "name": "Ribbie",
+      "thing_url": "https://ribbie.tv/watch",
+      "hn_url": "https://news.ycombinator.com/item?id=48573012",
+      "source_story_title": "Show HN: An 8-bit live gamecast for baseball",
+      "category": "🎨 Apps & Creative",
+      "summary": "8-bit live baseball gamecast with animated play-by-play.",
+      "why_included": "The show thread drew strong praise and comparison to earlier baseball-following tools.",
+      "evidence": "Comments called it adorable and super cool, and one commenter said they had used playball before and looked forward to updates."
+    },
+    {
+      "name": "Inkwash",
+      "thing_url": "https://johnowhitaker.github.io/inkwash/about",
+      "hn_url": "https://news.ycombinator.com/item?id=48523534",
+      "source_story_title": "Show HN: Inkwash, a watercolor sketching app and explanation",
+      "category": "🎨 Apps & Creative",
+      "summary": "Watercolor sketching app with an explanatory physics demo.",
+      "why_included": "Commenters liked the wash and compared it to other watercolor tools.",
+      "evidence": "A commenter said the wash was gorgeous, while another asked whether the author had tried Rebelle."
+    },
+    {
+      "name": "Immich",
+      "thing_url": "https://immich.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48569954",
+      "source_story_title": "Want your images back? That'll be $5",
+      "category": "🎨 Apps & Creative",
+      "summary": "Self-hosted photo backup and management app.",
+      "why_included": "A commenter strongly recommended it as the open photo stack they want instead of vendor lock-in.",
+      "evidence": "One commenter called Immich good, free/open, and said it avoided being an admin-for-life project."
+    },
+    {
+      "name": "Rebelle",
+      "thing_url": "https://www.escapemotions.com/products/rebelle/about",
+      "hn_url": "https://news.ycombinator.com/item?id=48523534",
+      "source_story_title": "Show HN: Inkwash, a watercolor sketching app and explanation",
+      "category": "🎨 Apps & Creative",
+      "summary": "Digital watercolor painting software with a realistic online experiment.",
+      "why_included": "The Inkwash thread surfaced Rebelle as the obvious comparison point for watercolor simulation.",
+      "evidence": "A commenter asked if the author had tried Rebelle and pointed to its online watercolor/brush experiment."
+    },
+    {
+      "name": "Bubbles",
+      "thing_url": "https://bubbles.town/",
+      "hn_url": "https://news.ycombinator.com/item?id=48567155",
+      "source_story_title": "Hacker News but for independent blogs",
+      "category": "🌐 Community & Reading",
+      "summary": "Independent-blog front page with voting, comments, and curated briefings.",
+      "why_included": "Commenters repeatedly praised its calmer, more human feel versus social-media doomscrolling.",
+      "evidence": "People said Bubbles felt refreshing, diverse, humane, and more curated than a firehose."
+    }
+  ]
+}
