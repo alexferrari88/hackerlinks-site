@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T21:28:27Z",
+  "headline": "10 interesting things surfaced from HN on 2026-06-18",
+  "id": "2026-06-18",
+  "mention_ids": [
+    "2026-06-18:testerarmy:48586299",
+    "2026-06-18:gerrymandle:48585739",
+    "2026-06-18:submission-directory:48586631",
+    "2026-06-18:chezmoi:48588413",
+    "2026-06-18:ubiquiti-enterprise-nas:48585866",
+    "2026-06-18:deepseek-vision:48581458",
+    "2026-06-18:midjourney-medical:48579650",
+    "2026-06-18:persistent-agent-memory-layer-on-elasticsearch:48583703",
+    "2026-06-18:dutch-railways-off-peak-pass:48543872",
+    "2026-06-18:cs-6120:48583606"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

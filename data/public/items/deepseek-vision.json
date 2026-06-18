@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-18T21:28:27Z",
+  "id": "deepseek-vision",
+  "last_seen_at": "2026-06-18T21:28:27Z",
+  "latest_mention_id": "2026-06-18:deepseek-vision:48581458",
+  "mention_ids": [
+    "2026-06-18:deepseek-vision:48581458"
+  ],
+  "name": "DeepSeek Vision",
+  "slug": "deepseek-vision",
+  "summary": "DeepSeek's chat app image-understanding mode for screenshots and photos.",
+  "thing_url": "https://chat.deepseek.com/",
+  "times_seen": 1,
+  "why_included": "Readers were clearly interested in the new multimodal capability and how cheaply it handled image analysis."
+}

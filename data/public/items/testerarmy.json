@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-18T21:28:27Z",
+  "id": "testerarmy",
+  "last_seen_at": "2026-06-18T21:28:27Z",
+  "latest_mention_id": "2026-06-18:testerarmy:48586299",
+  "mention_ids": [
+    "2026-06-18:testerarmy:48586299"
+  ],
+  "name": "TesterArmy",
+  "slug": "testerarmy",
+  "summary": "Agentic QA platform for web and mobile apps.",
+  "thing_url": "https://tester.army",
+  "times_seen": 1,
+  "why_included": "The thread treated it as a real QA product, not a demo, and commenters debated its agent-based approach."
+}

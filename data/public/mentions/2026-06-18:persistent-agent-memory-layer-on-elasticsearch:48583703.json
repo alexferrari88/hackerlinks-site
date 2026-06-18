@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies compared Elasticsearch with SQLite, LanceDB, and markdown files while debating recall@10 and memory design.",
+  "hn_url": "https://news.ycombinator.com/item?id=48583703",
+  "id": "2026-06-18:persistent-agent-memory-layer-on-elasticsearch:48583703",
+  "is_repeat": false,
+  "issue_id": "2026-06-18",
+  "item_id": "persistent-agent-memory-layer-on-elasticsearch",
+  "rank": 8,
+  "seen_at": "2026-06-18T21:28:27Z",
+  "source_story_id": "48583703",
+  "source_story_title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall"
+}

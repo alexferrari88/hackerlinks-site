@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-18T21:28:27Z",
+  "id": "ubiquiti-enterprise-nas",
+  "last_seen_at": "2026-06-18T21:28:27Z",
+  "latest_mention_id": "2026-06-18:ubiquiti-enterprise-nas:48585866",
+  "mention_ids": [
+    "2026-06-18:ubiquiti-enterprise-nas:48585866"
+  ],
+  "name": "Ubiquiti Enterprise NAS",
+  "slug": "ubiquiti-enterprise-nas",
+  "summary": "Ubiquiti's rackmount ZFS NAS for UniFi storage setups.",
+  "thing_url": "https://store.ui.com/us/en/products/enas",
+  "times_seen": 1,
+  "why_included": "The thread mixed genuine enthusiasm for Ubiquiti storage with detailed comparison shopping against other NAS vendors."
+}

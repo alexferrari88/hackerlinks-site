@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies praised chezmoi over Stow, Yadm, and Home Manager, especially for templating and cross-machine setup.",
+  "hn_url": "https://news.ycombinator.com/item?id=48588413",
+  "id": "2026-06-18:chezmoi:48588413",
+  "is_repeat": false,
+  "issue_id": "2026-06-18",
+  "item_id": "chezmoi",
+  "rank": 4,
+  "seen_at": "2026-06-18T21:28:27Z",
+  "source_story_id": "48588413",
+  "source_story_title": "Migrating from GNU Stow to Chezmoi"
+}

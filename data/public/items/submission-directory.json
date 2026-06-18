@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-18T21:28:27Z",
+  "id": "submission-directory",
+  "last_seen_at": "2026-06-18T21:28:27Z",
+  "latest_mention_id": "2026-06-18:submission-directory:48586631",
+  "mention_ids": [
+    "2026-06-18:submission-directory:48586631"
+  ],
+  "name": "submission.directory",
+  "slug": "submission-directory",
+  "summary": "Directory of places to submit products and websites.",
+  "thing_url": "https://www.submission.directory/",
+  "times_seen": 1,
+  "why_included": "HN turned it into a useful catalog of discovery channels, with obvious startup-marketing utility."
+}

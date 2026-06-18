@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-06-18",
+  "generated_at": "2026-06-18T21:28:27Z",
+  "summary": "Strongest concrete product and learning mentions surfaced from today's HN front page comments.",
+  "items": [
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "TesterArmy",
+      "thing_url": "https://tester.army",
+      "hn_url": "https://news.ycombinator.com/item?id=48586299",
+      "source_story_title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "summary": "Agentic QA platform for web and mobile apps.",
+      "why_included": "The thread treated it as a real QA product, not a demo, and commenters debated its agent-based approach.",
+      "evidence": "Comments described end-to-end checks before deployment, with praise for natural-language test creation and Slack/Discord alerts."
+    },
+    {
+      "category": "🎮 Games & Learning",
+      "name": "Gerrymandle",
+      "thing_url": "https://gerrymandle.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=48585739",
+      "source_story_title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "summary": "Daily puzzle game about redrawing electoral districts.",
+      "why_included": "Commenters found it unusually polished and engaging, despite some onboarding and mobile-control issues.",
+      "evidence": "Replies called it fun and educational, while also reporting confusing instructions and touch behavior."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "submission.directory",
+      "thing_url": "https://www.submission.directory/",
+      "hn_url": "https://news.ycombinator.com/item?id=48586631",
+      "source_story_title": "A website that lists websites to submit your website to",
+      "summary": "Directory of places to submit products and websites.",
+      "why_included": "HN turned it into a useful catalog of discovery channels, with obvious startup-marketing utility.",
+      "evidence": "Replies debated spam versus usefulness while citing older directory-era sites and the value of a curated submission list."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Chezmoi",
+      "thing_url": "https://www.chezmoi.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48588413",
+      "source_story_title": "Migrating from GNU Stow to Chezmoi",
+      "summary": "Dotfiles manager with templates, secrets, and multi-machine sync.",
+      "why_included": "Commenters repeatedly framed it as the practical middle ground between Stow and heavier config systems.",
+      "evidence": "Replies praised chezmoi over Stow, Yadm, and Home Manager, especially for templating and cross-machine setup."
+    },
+    {
+      "category": "🧱 Infrastructure & Services",
+      "name": "Ubiquiti Enterprise NAS",
+      "thing_url": "https://store.ui.com/us/en/products/enas",
+      "hn_url": "https://news.ycombinator.com/item?id=48585866",
+      "source_story_title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "summary": "Ubiquiti's rackmount ZFS NAS for UniFi storage setups.",
+      "why_included": "The thread mixed genuine enthusiasm for Ubiquiti storage with detailed comparison shopping against other NAS vendors.",
+      "evidence": "Commenters praised ZFS, local/private operation, and a clean interface, while comparing it with QNAP and cloud-tied storage."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "DeepSeek Vision",
+      "thing_url": "https://chat.deepseek.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48581458",
+      "source_story_title": "DeepSeek Introduces Vision",
+      "summary": "DeepSeek's chat app image-understanding mode for screenshots and photos.",
+      "why_included": "Readers were clearly interested in the new multimodal capability and how cheaply it handled image analysis.",
+      "evidence": "Comments praised its screenshot understanding versus Claude and ChatGPT, and asked for missing speech features."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Midjourney Medical",
+      "thing_url": "https://www.midjourney.com/medical/blogpost",
+      "hn_url": "https://news.ycombinator.com/item?id=48579650",
+      "source_story_title": "Midjourney Medical",
+      "summary": "Midjourney's medical-imaging feature for cheap whole-body scans.",
+      "why_included": "The thread focused on whether inexpensive scans could be useful without creating a flood of false positives.",
+      "evidence": "Replies praised niche medical use cases but warned about slow scans, over-screening, and downstream anxiety."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Persistent agent memory layer on Elasticsearch",
+      "thing_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "hn_url": "https://news.ycombinator.com/item?id=48583703",
+      "source_story_title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+      "summary": "Elasticsearch-backed memory layer for agents with hybrid recall and reranking.",
+      "why_included": "Commenters treated it as a serious architecture discussion, not just a hype post about memory.",
+      "evidence": "Replies compared Elasticsearch with SQLite, LanceDB, and markdown files while debating recall@10 and memory design."
+    },
+    {
+      "category": "🧭 Mobility & Services",
+      "name": "Dutch Railways off-peak pass",
+      "thing_url": "https://www.ns.nl/en/season-tickets/dal-vrij",
+      "hn_url": "https://news.ycombinator.com/item?id=48543872",
+      "source_story_title": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
+      "summary": "NS off-peak nationwide travel pass with a short promo price.",
+      "why_included": "The deal drew strong comparison-shopping because it looked unusually good despite the fine print.",
+      "evidence": "Replies clarified the promo price, off-peak limits, and how it stacks up against transit pricing elsewhere."
+    },
+    {
+      "category": "📚 Learning & Foundations",
+      "name": "CS 6120",
+      "thing_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "hn_url": "https://news.ycombinator.com/item?id=48583606",
+      "source_story_title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "summary": "Cornell's self-guided advanced compilers course.",
+      "why_included": "The comments produced concrete compiler-resource recommendations and useful technical disagreement.",
+      "evidence": "Commenters praised the course and debated tracing compilers, JAX, PyTorch, and LuaJIT."
+    }
+  ]
+}

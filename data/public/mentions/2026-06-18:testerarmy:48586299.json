@@ -1,0 +1,12 @@
+{
+  "evidence": "Comments described end-to-end checks before deployment, with praise for natural-language test creation and Slack/Discord alerts.",
+  "hn_url": "https://news.ycombinator.com/item?id=48586299",
+  "id": "2026-06-18:testerarmy:48586299",
+  "is_repeat": false,
+  "issue_id": "2026-06-18",
+  "item_id": "testerarmy",
+  "rank": 1,
+  "seen_at": "2026-06-18T21:28:27Z",
+  "source_story_id": "48586299",
+  "source_story_title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps"
+}
