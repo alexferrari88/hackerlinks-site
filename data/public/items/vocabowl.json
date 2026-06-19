@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "vocabowl",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:vocabowl:48598586",
+  "mention_ids": [
+    "2026-06-19:vocabowl:48598586"
+  ],
+  "name": "Vocabowl",
+  "slug": "vocabowl",
+  "summary": "Adaptive vocabulary quiz app for testing word knowledge.",
+  "thing_url": "https://vocabowl.com/",
+  "times_seen": 1,
+  "why_included": "HN comments focused on pacing and progression, which is useful signal for a learning app."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "seestar",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:seestar:48592832",
+  "mention_ids": [
+    "2026-06-19:seestar:48592832"
+  ],
+  "name": "Seestar",
+  "slug": "seestar",
+  "summary": "Smart telescope line for backyard deep-sky imaging.",
+  "thing_url": "https://www.seestar.com/",
+  "times_seen": 1,
+  "why_included": "The thread pointed to it as a practical way to image galaxies and nebulae from light-polluted skies."
+}

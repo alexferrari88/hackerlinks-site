@@ -597,6 +597,12 @@
       "times_reported": 1
     },
     {
+      "name": "CourtListener",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
+      "times_reported": 1
+    },
+    {
       "name": "Cover Your Tracks",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
@@ -1032,6 +1038,12 @@
       "name": "FPS.cob",
       "first_reported_at": "2026-06-11T21:07:55.839038Z",
       "last_reported_at": "2026-06-11T21:07:55.839038Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Fractal OS",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
       "times_reported": 1
     },
     {
@@ -1569,6 +1581,18 @@
       "times_reported": 1
     },
     {
+      "name": "ISOtunes",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "iTelescope",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
+      "times_reported": 1
+    },
+    {
       "name": "jdt.ls",
       "first_reported_at": "2026-05-29T21:09:53Z",
       "last_reported_at": "2026-05-29T21:09:53Z",
@@ -1929,6 +1953,12 @@
       "times_reported": 1
     },
     {
+      "name": "Metiq",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
+      "times_reported": 1
+    },
+    {
       "name": "Metropolis 1998",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
@@ -2034,6 +2064,12 @@
       "name": "Modal token timing simulator",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Modeloop",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
       "times_reported": 1
     },
     {
@@ -2811,6 +2847,12 @@
       "times_reported": 1
     },
     {
+      "name": "RECAP",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
+      "times_reported": 1
+    },
+    {
       "name": "Red Balloon Security",
       "first_reported_at": "2026-05-14T21:22:02Z",
       "last_reported_at": "2026-05-14T21:22:02Z",
@@ -2982,6 +3024,12 @@
       "name": "sdocs.dev",
       "first_reported_at": "2026-04-18T21:11:46Z",
       "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Seestar",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
       "times_reported": 1
     },
     {
@@ -3666,6 +3714,12 @@
       "name": "Vivaldi",
       "first_reported_at": "2026-05-21T21:20:56Z",
       "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Vocabowl",
+      "first_reported_at": "2026-06-19T21:00:54Z",
+      "last_reported_at": "2026-06-19T21:00:54Z",
       "times_reported": 1
     },
     {

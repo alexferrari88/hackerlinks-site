@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "isotunes",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:isotunes:48592832",
+  "mention_ids": [
+    "2026-06-19:isotunes:48592832"
+  ],
+  "name": "ISOtunes",
+  "slug": "isotunes",
+  "summary": "Bluetooth hearing-protection earbuds with audio passthrough.",
+  "thing_url": "https://isotunes.com/",
+  "times_seen": 1,
+  "why_included": "AirPods commenters recommended it as a safer alternative for loud environments and riding."
+}

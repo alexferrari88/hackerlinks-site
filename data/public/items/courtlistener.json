@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "courtlistener",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:courtlistener:48600946",
+  "mention_ids": [
+    "2026-06-19:courtlistener:48600946"
+  ],
+  "name": "CourtListener",
+  "slug": "courtlistener",
+  "summary": "Free legal search engine and alerts for court opinions.",
+  "thing_url": "https://www.courtlistener.com/",
+  "times_seen": 1,
+  "why_included": "The thread explicitly treated it as the obvious public-access layer for court data."
+}

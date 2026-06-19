@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "fractal-os",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:fractal-os:48543311",
+  "mention_ids": [
+    "2026-06-19:fractal-os:48543311"
+  ],
+  "name": "Fractal OS",
+  "slug": "fractal-os",
+  "summary": "Specialized OS kernel for low-noise microarchitecture experiments.",
+  "thing_url": "https://fractal-os.com/",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as serious research infrastructure rather than a novelty OS."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "metiq",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:metiq:48556082",
+  "mention_ids": [
+    "2026-06-19:metiq:48556082"
+  ],
+  "name": "Metiq",
+  "slug": "metiq",
+  "summary": "Real-time 3D globe for live public datasets.",
+  "thing_url": "https://metiq.space/",
+  "times_seen": 1,
+  "why_included": "Commenters clearly enjoyed exploring it and the creator was actively fixing rough edges in-thread."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "itelescope",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:itelescope:48553161",
+  "mention_ids": [
+    "2026-06-19:itelescope:48553161"
+  ],
+  "name": "iTelescope",
+  "slug": "itelescope",
+  "summary": "Remote telescope service for Internet astronomy and astrophotography.",
+  "thing_url": "https://www.itelescope.net/",
+  "times_seen": 1,
+  "why_included": "Commenters used it as the exact reference model for the article\u2019s business idea."
+}

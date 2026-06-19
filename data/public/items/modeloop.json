@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-19T21:00:54Z",
+  "id": "modeloop",
+  "last_seen_at": "2026-06-19T21:00:54Z",
+  "latest_mention_id": "2026-06-19:modeloop:48543968",
+  "mention_ids": [
+    "2026-06-19:modeloop:48543968"
+  ],
+  "name": "Modeloop",
+  "slug": "modeloop",
+  "summary": "Model-based design tool that generates embedded C code.",
+  "thing_url": "https://www.modeloop.app/",
+  "times_seen": 1,
+  "why_included": "The thread read like a real product review, not a demo, with concrete workflow and validation discussion."
+}

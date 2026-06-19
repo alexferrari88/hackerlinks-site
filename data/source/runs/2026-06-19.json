@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-06-19",
+  "generated_at": "2026-06-19T21:00:54Z",
+  "summary": "Strongest concrete product and learning mentions surfaced from today's HN front page comments.",
+  "items": [
+    {
+      "category": "📊 Data & Visuals",
+      "name": "Metiq",
+      "thing_url": "https://metiq.space/",
+      "hn_url": "https://news.ycombinator.com/item?id=48556082",
+      "source_story_title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "summary": "Real-time 3D globe for live public datasets.",
+      "why_included": "Commenters clearly enjoyed exploring it and the creator was actively fixing rough edges in-thread.",
+      "evidence": "Replies praised the satellite views and called out data-quality and mobile-UX issues the author was already addressing."
+    },
+    {
+      "category": "🛠️ Dev Tools & Research",
+      "name": "Modeloop",
+      "thing_url": "https://www.modeloop.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48543968",
+      "source_story_title": "Show HN: Modeloop – From visual algorithms to microcontroller C code",
+      "summary": "Model-based design tool that generates embedded C code.",
+      "why_included": "The thread read like a real product review, not a demo, with concrete workflow and validation discussion.",
+      "evidence": "Replies compared it with Simulink, LabView, and Matlab, while discussing contracts, simulation, and open-beta positioning."
+    },
+    {
+      "category": "📚 Learning & Apps",
+      "name": "Vocabowl",
+      "thing_url": "https://vocabowl.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48598586",
+      "source_story_title": "How many of the 170k English words do you know?",
+      "summary": "Adaptive vocabulary quiz app for testing word knowledge.",
+      "why_included": "HN comments focused on pacing and progression, which is useful signal for a learning app.",
+      "evidence": "Replies wanted faster leveling, fewer clicks per word, and a clearer path through the word ladder."
+    },
+    {
+      "category": "🛠️ Dev Tools & Research",
+      "name": "Fractal OS",
+      "thing_url": "https://fractal-os.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48543311",
+      "source_story_title": "To study how chips work, MIT researchers built their own operating system",
+      "summary": "Specialized OS kernel for low-noise microarchitecture experiments.",
+      "why_included": "Commenters treated it as serious research infrastructure rather than a novelty OS.",
+      "evidence": "Replies said it helps run benchmarks with less OS noise and pointed to the open-source project site and GitHub repo."
+    },
+    {
+      "category": "⚖️ Public Records & Law",
+      "name": "CourtListener",
+      "thing_url": "https://www.courtlistener.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48600946",
+      "source_story_title": "Court Records Should Be Free",
+      "summary": "Free legal search engine and alerts for court opinions.",
+      "why_included": "The thread explicitly treated it as the obvious public-access layer for court data.",
+      "evidence": "Replies called CourtListener a vital niche service and contrasted it with the broader PACER access problem."
+    },
+    {
+      "category": "⚖️ Public Records & Law",
+      "name": "RECAP",
+      "thing_url": "https://free.law/recap/",
+      "hn_url": "https://news.ycombinator.com/item?id=48600946",
+      "source_story_title": "Court Records Should Be Free",
+      "summary": "Browser extension and archive that shares PACER documents.",
+      "why_included": "HN commenters recommended it as the practical tool for turning paid court filings into public access.",
+      "evidence": "Replies said RECAP saves money, contributes documents to CourtListener, and works as a Firefox/Chrome/Safari extension."
+    },
+    {
+      "category": "🔭 Hardware & Hobbies",
+      "name": "iTelescope",
+      "thing_url": "https://www.itelescope.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48553161",
+      "source_story_title": "Telescope Ranchers",
+      "summary": "Remote telescope service for Internet astronomy and astrophotography.",
+      "why_included": "Commenters used it as the exact reference model for the article’s business idea.",
+      "evidence": "Replies said iTelescope already does this and debated whether the economics of the model work out."
+    },
+    {
+      "category": "🔭 Hardware & Hobbies",
+      "name": "Seestar",
+      "thing_url": "https://www.seestar.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48592832",
+      "source_story_title": "The AirPods Effect",
+      "summary": "Smart telescope line for backyard deep-sky imaging.",
+      "why_included": "The thread pointed to it as a practical way to image galaxies and nebulae from light-polluted skies.",
+      "evidence": "Replies said small smart telescopes like Seestar can still work in Bortle 9 urban conditions and from rooftops."
+    },
+    {
+      "category": "🔭 Hardware & Hobbies",
+      "name": "ISOtunes",
+      "thing_url": "https://isotunes.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48592832",
+      "source_story_title": "The AirPods Effect",
+      "summary": "Bluetooth hearing-protection earbuds with audio passthrough.",
+      "why_included": "AirPods commenters recommended it as a safer alternative for loud environments and riding.",
+      "evidence": "Replies explicitly cited ISOtunes alongside comms gear and other earbud options for hearing protection."
+    }
+  ]
+}
