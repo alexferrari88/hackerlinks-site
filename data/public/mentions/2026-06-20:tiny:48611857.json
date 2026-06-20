@@ -1,0 +1,12 @@
+{
+  "evidence": "The author says the niche is CLI apps, automation tools, webview desktop apps, and small HTTP servers shipped as one executable without runtime management.",
+  "hn_url": "https://news.ycombinator.com/item?id=48611857",
+  "id": "2026-06-20:tiny:48611857",
+  "is_repeat": false,
+  "issue_id": "2026-06-20",
+  "item_id": "tiny",
+  "rank": 9,
+  "seen_at": "2026-06-20T21:10:15Z",
+  "source_story_id": "48611857",
+  "source_story_title": "Show HN: Tiny \u2013 An interpeted dynamic langauge with inline Go native functions"
+}

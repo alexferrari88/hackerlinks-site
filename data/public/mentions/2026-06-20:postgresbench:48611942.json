@@ -1,0 +1,12 @@
+{
+  "evidence": "The comments ask for provider-to-provider comparisons, ask whether it can benchmark CNPG on k8s, and note it takes about 15 minutes to run.",
+  "hn_url": "https://news.ycombinator.com/item?id=48611942",
+  "id": "2026-06-20:postgresbench:48611942",
+  "is_repeat": false,
+  "issue_id": "2026-06-20",
+  "item_id": "postgresbench",
+  "rank": 8,
+  "seen_at": "2026-06-20T21:10:15Z",
+  "source_story_id": "48611942",
+  "source_story_title": "PostgresBench: A Reproducible Benchmark for Postgres Services"
+}

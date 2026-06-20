@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "ember",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:ember:48610816",
+  "mention_ids": [
+    "2026-06-20:ember:48610816"
+  ],
+  "name": "Ember",
+  "slug": "ember",
+  "summary": "Native SwiftUI iOS Hacker News reader built around accessibility.",
+  "thing_url": "https://github.com/DatanoiseTV/ember-hackernews",
+  "times_seen": 1,
+  "why_included": "Commenters praised the accessibility-first design and native comment rendering."
+}

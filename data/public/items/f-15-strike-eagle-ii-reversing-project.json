@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "f-15-strike-eagle-ii-reversing-project",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:f-15-strike-eagle-ii-reversing-project:48609766",
+  "mention_ids": [
+    "2026-06-20:f-15-strike-eagle-ii-reversing-project:48609766"
+  ],
+  "name": "F-15 Strike Eagle II reversing project",
+  "slug": "f-15-strike-eagle-ii-reversing-project",
+  "summary": "DOS-game reverse-engineering project working toward a playable source-reconstructed F-15 Strike Eagle II.",
+  "thing_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+  "times_seen": 1,
+  "why_included": "Commenters were excited about a playable DOS release and the long-term mod/port path."
+}

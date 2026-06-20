@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "uhf-x11",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:uhf-x11:48610853",
+  "mention_ids": [
+    "2026-06-20:uhf-x11:48610853"
+  ],
+  "name": "UHF X11",
+  "slug": "uhf-x11",
+  "summary": "X11 environment for VisionOS and Apple Vision Pro.",
+  "thing_url": "https://www.lispm.net/apps/uhf-x11/",
+  "times_seen": 1,
+  "why_included": "Commenters immediately compared it with Linux headset alternatives like WayVR and discussed GLX compatibility."
+}

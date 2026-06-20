@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "startupwiki",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:startupwiki:48610224",
+  "mention_ids": [
+    "2026-06-20:startupwiki:48610224"
+  ],
+  "name": "StartupWiki",
+  "slug": "startupwiki",
+  "summary": "Free startup database with profiles, search, and filtering.",
+  "thing_url": "https://startupwiki.tech/",
+  "times_seen": 1,
+  "why_included": "Commenters pushed on provenance and verified links, which led the author to add source-citing and agent-ledger features."
+}

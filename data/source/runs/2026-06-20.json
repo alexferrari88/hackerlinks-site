@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "run_date": "2026-06-20",
+  "generated_at": "2026-06-20T21:10:15Z",
+  "summary": {
+    "stories_attempted": 24,
+    "stories_scraped": 24,
+    "items_reported": 10,
+    "failed_stories": [
+      48608255
+    ],
+    "notes": "Bootimus recovered via browser-visible page after web_extract failed."
+  },
+  "items": [
+    {
+      "name": "Bootimus",
+      "thing_url": "https://bootimus.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48608255",
+      "source_story_title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "summary": "Self-contained PXE and HTTP boot server for homelab provisioning.",
+      "why_included": "Commenters called it a killer homelab tool and wanted custom ISO and Firecracker boot flows.",
+      "evidence": "A commenter compared it to pxehost and said they want a good ISO to set up new hosts, plus custom ISO and Kairos/Talos-style tooling.",
+      "category": "🛠️ Dev Tools & Infra"
+    },
+    {
+      "name": "pxehost",
+      "thing_url": "https://pxehost.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48608255",
+      "source_story_title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "summary": "Cross-platform PXE host binary for netboot.xyz and local bootstrapping.",
+      "why_included": "A commenter framed it as their less-featureful alternative to Bootimus and used it to solve Docker/ARM network issues.",
+      "evidence": "The comment explicitly says “Last year I released my version of this: https://pxehost.com” and notes Bootimus solved UDP broadcast on ARM macOS better.",
+      "category": "🛠️ Dev Tools & Infra"
+    },
+    {
+      "name": "StartupWiki",
+      "thing_url": "https://startupwiki.tech/",
+      "hn_url": "https://news.ycombinator.com/item?id=48610224",
+      "source_story_title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "summary": "Free startup database with profiles, search, and filtering.",
+      "why_included": "Commenters pushed on provenance and verified links, which led the author to add source-citing and agent-ledger features.",
+      "evidence": "The thread centers on source citations, verified badges, and incomplete coverage; the author says verified items should link back to sources and that an agent ledger is now visible.",
+      "category": "📱 Apps & Interfaces"
+    },
+    {
+      "name": "CSSQuake",
+      "thing_url": "https://cssquake.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48608223",
+      "source_story_title": "CSSQuake",
+      "summary": "Quake recreation rendered with CSS and powered by JavaScript/TypeScript game logic.",
+      "why_included": "Commenters loved the hack and spent the thread comparing browser performance and rough edges.",
+      "evidence": "The discussion repeatedly clarifies CSS is for rendering only, while the game logic is JS/TypeScript, and users report Safari/WebKit versus Chrome/Firefox differences.",
+      "category": "📱 Apps & Interfaces"
+    },
+    {
+      "name": "Ember",
+      "thing_url": "https://github.com/DatanoiseTV/ember-hackernews",
+      "hn_url": "https://news.ycombinator.com/item?id=48610816",
+      "source_story_title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "summary": "Native SwiftUI iOS Hacker News reader built around accessibility.",
+      "why_included": "Commenters praised the accessibility-first design and native comment rendering.",
+      "evidence": "The thread highlights VoiceOver, Dynamic Type, color-blind mode, and native text comments; several commenters asked about App Store plans and usability on mobile.",
+      "category": "📱 Apps & Interfaces"
+    },
+    {
+      "name": "UHF X11",
+      "thing_url": "https://www.lispm.net/apps/uhf-x11/",
+      "hn_url": "https://news.ycombinator.com/item?id=48610853",
+      "source_story_title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "summary": "X11 environment for VisionOS and Apple Vision Pro.",
+      "why_included": "Commenters immediately compared it with Linux headset alternatives like WayVR and discussed GLX compatibility.",
+      "evidence": "One comment points to WayVR as a Linux alternative, while the thread discusses X11 nostalgia, OpenGL/GLX, and what works on Vision Pro.",
+      "category": "📱 Apps & Interfaces"
+    },
+    {
+      "name": "make-look-scanned",
+      "thing_url": "https://github.com/overflowy/make-look-scanned",
+      "hn_url": "https://news.ycombinator.com/item?id=48611513",
+      "source_story_title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "summary": "CLI and WASM tool that makes PDFs look scanned.",
+      "why_included": "Commenters immediately connected it to print-sign-scan bureaucracy and realism tuning.",
+      "evidence": "The thread discusses signed PDFs that still “had to be scanned,” ImageMagick alternatives, and requests for blank pages and other authenticity tweaks.",
+      "category": "🛠️ Dev Tools & Infra"
+    },
+    {
+      "name": "PostgresBench",
+      "thing_url": "https://clickhouse.com/blog/postgresbench",
+      "hn_url": "https://news.ycombinator.com/item?id=48611942",
+      "source_story_title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "summary": "Reproducible benchmark for Postgres services across clouds and deployments.",
+      "why_included": "Commenters wanted cross-cloud comparisons and a way to tune CNPG on Kubernetes.",
+      "evidence": "The comments ask for provider-to-provider comparisons, ask whether it can benchmark CNPG on k8s, and note it takes about 15 minutes to run.",
+      "category": "🛠️ Dev Tools & Infra"
+    },
+    {
+      "name": "Tiny",
+      "thing_url": "https://github.com/confh/Tiny",
+      "hn_url": "https://news.ycombinator.com/item?id=48611857",
+      "source_story_title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+      "summary": "Interpreted dynamic language with inline Go native functions.",
+      "why_included": "Commenters framed it as a fit for small tools that still want Go-like deployment.",
+      "evidence": "The author says the niche is CLI apps, automation tools, webview desktop apps, and small HTTP servers shipped as one executable without runtime management.",
+      "category": "🛠️ Dev Tools & Infra"
+    },
+    {
+      "name": "F-15 Strike Eagle II reversing project",
+      "thing_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48609766",
+      "source_story_title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "summary": "DOS-game reverse-engineering project working toward a playable source-reconstructed F-15 Strike Eagle II.",
+      "why_included": "Commenters were excited about a playable DOS release and the long-term mod/port path.",
+      "evidence": "The thread asks for DOSBox or real-DOS testing on version 451.03 and explains the goal is to rebuild the game into modifiable source rather than just emulate it.",
+      "category": "🕹️ Retro / Rebuilds"
+    }
+  ]
+}

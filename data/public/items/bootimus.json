@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "bootimus",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:bootimus:48608255",
+  "mention_ids": [
+    "2026-06-20:bootimus:48608255"
+  ],
+  "name": "Bootimus",
+  "slug": "bootimus",
+  "summary": "Self-contained PXE and HTTP boot server for homelab provisioning.",
+  "thing_url": "https://bootimus.com",
+  "times_seen": 1,
+  "why_included": "Commenters called it a killer homelab tool and wanted custom ISO and Firecracker boot flows."
+}

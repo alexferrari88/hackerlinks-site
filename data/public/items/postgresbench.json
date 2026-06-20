@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "postgresbench",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:postgresbench:48611942",
+  "mention_ids": [
+    "2026-06-20:postgresbench:48611942"
+  ],
+  "name": "PostgresBench",
+  "slug": "postgresbench",
+  "summary": "Reproducible benchmark for Postgres services across clouds and deployments.",
+  "thing_url": "https://clickhouse.com/blog/postgresbench",
+  "times_seen": 1,
+  "why_included": "Commenters wanted cross-cloud comparisons and a way to tune CNPG on Kubernetes."
+}

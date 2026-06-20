@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "cssquake",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:cssquake:48608223",
+  "mention_ids": [
+    "2026-06-20:cssquake:48608223"
+  ],
+  "name": "CSSQuake",
+  "slug": "cssquake",
+  "summary": "Quake recreation rendered with CSS and powered by JavaScript/TypeScript game logic.",
+  "thing_url": "https://cssquake.com/",
+  "times_seen": 1,
+  "why_included": "Commenters loved the hack and spent the thread comparing browser performance and rough edges."
+}

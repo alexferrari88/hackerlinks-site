@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "tiny",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:tiny:48611857",
+  "mention_ids": [
+    "2026-06-20:tiny:48611857"
+  ],
+  "name": "Tiny",
+  "slug": "tiny",
+  "summary": "Interpreted dynamic language with inline Go native functions.",
+  "thing_url": "https://github.com/confh/Tiny",
+  "times_seen": 1,
+  "why_included": "Commenters framed it as a fit for small tools that still want Go-like deployment."
+}

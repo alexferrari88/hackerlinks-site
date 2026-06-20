@@ -1,0 +1,12 @@
+{
+  "evidence": "The discussion repeatedly clarifies CSS is for rendering only, while the game logic is JS/TypeScript, and users report Safari/WebKit versus Chrome/Firefox differences.",
+  "hn_url": "https://news.ycombinator.com/item?id=48608223",
+  "id": "2026-06-20:cssquake:48608223",
+  "is_repeat": false,
+  "issue_id": "2026-06-20",
+  "item_id": "cssquake",
+  "rank": 4,
+  "seen_at": "2026-06-20T21:10:15Z",
+  "source_story_id": "48608223",
+  "source_story_title": "CSSQuake"
+}

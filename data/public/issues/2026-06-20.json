@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T21:10:15Z",
+  "headline": "10 interesting things surfaced from HN on 2026-06-20",
+  "id": "2026-06-20",
+  "mention_ids": [
+    "2026-06-20:bootimus:48608255",
+    "2026-06-20:pxehost:48608255",
+    "2026-06-20:startupwiki:48610224",
+    "2026-06-20:cssquake:48608223",
+    "2026-06-20:ember:48610816",
+    "2026-06-20:uhf-x11:48610853",
+    "2026-06-20:make-look-scanned:48611513",
+    "2026-06-20:postgresbench:48611942",
+    "2026-06-20:tiny:48611857",
+    "2026-06-20:f-15-strike-eagle-ii-reversing-project:48609766"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread discusses signed PDFs that still \u201chad to be scanned,\u201d ImageMagick alternatives, and requests for blank pages and other authenticity tweaks.",
+  "hn_url": "https://news.ycombinator.com/item?id=48611513",
+  "id": "2026-06-20:make-look-scanned:48611513",
+  "is_repeat": false,
+  "issue_id": "2026-06-20",
+  "item_id": "make-look-scanned",
+  "rank": 7,
+  "seen_at": "2026-06-20T21:10:15Z",
+  "source_story_id": "48611513",
+  "source_story_title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)"
+}

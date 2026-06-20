@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter compared it to pxehost and said they want a good ISO to set up new hosts, plus custom ISO and Kairos/Talos-style tooling.",
+  "hn_url": "https://news.ycombinator.com/item?id=48608255",
+  "id": "2026-06-20:bootimus:48608255",
+  "is_repeat": false,
+  "issue_id": "2026-06-20",
+  "item_id": "bootimus",
+  "rank": 1,
+  "seen_at": "2026-06-20T21:10:15Z",
+  "source_story_id": "48608255",
+  "source_story_title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server"
+}

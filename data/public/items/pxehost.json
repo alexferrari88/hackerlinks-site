@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "pxehost",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:pxehost:48608255",
+  "mention_ids": [
+    "2026-06-20:pxehost:48608255"
+  ],
+  "name": "pxehost",
+  "slug": "pxehost",
+  "summary": "Cross-platform PXE host binary for netboot.xyz and local bootstrapping.",
+  "thing_url": "https://pxehost.com",
+  "times_seen": 1,
+  "why_included": "A commenter framed it as their less-featureful alternative to Bootimus and used it to solve Docker/ARM network issues."
+}

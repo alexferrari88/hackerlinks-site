@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-20T21:10:15Z",
+  "id": "make-look-scanned",
+  "last_seen_at": "2026-06-20T21:10:15Z",
+  "latest_mention_id": "2026-06-20:make-look-scanned:48611513",
+  "mention_ids": [
+    "2026-06-20:make-look-scanned:48611513"
+  ],
+  "name": "make-look-scanned",
+  "slug": "make-look-scanned",
+  "summary": "CLI and WASM tool that makes PDFs look scanned.",
+  "thing_url": "https://github.com/overflowy/make-look-scanned",
+  "times_seen": 1,
+  "why_included": "Commenters immediately connected it to print-sign-scan bureaucracy and realism tuning."
+}
