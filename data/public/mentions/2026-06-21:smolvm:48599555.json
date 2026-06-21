@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said their favorite recent microVM discovery is tools built around libkrun and pointed to smolvm.",
+  "hn_url": "https://news.ycombinator.com/item?id=48599555",
+  "id": "2026-06-21:smolvm:48599555",
+  "is_repeat": false,
+  "issue_id": "2026-06-21",
+  "item_id": "smolvm",
+  "rank": 3,
+  "seen_at": "2026-06-21T21:07:25Z",
+  "source_story_id": "48599555",
+  "source_story_title": "Running MicroVMs in Proxmox VE, the Easy Way"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-21T21:07:25Z",
+  "id": "floppinux",
+  "last_seen_at": "2026-06-21T21:07:25Z",
+  "latest_mention_id": "2026-06-21:floppinux:48594090",
+  "mention_ids": [
+    "2026-06-21:floppinux:48594090"
+  ],
+  "name": "floppinux",
+  "slug": "floppinux",
+  "summary": "floppinux is an embedded Linux-on-a-floppy project \u2014 commenters marveled at the 1.44MB web-server feat.",
+  "thing_url": "https://github.com/w84death/floppinux",
+  "times_seen": 1,
+  "why_included": "A concrete technical stunt that drew nostalgia and respect."
+}

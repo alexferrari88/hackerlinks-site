@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-21T21:07:25Z",
+  "id": "dwarfstar",
+  "last_seen_at": "2026-06-21T21:07:25Z",
+  "latest_mention_id": "2026-06-21:dwarfstar:48587865",
+  "mention_ids": [
+    "2026-06-21:dwarfstar:48587865"
+  ],
+  "name": "DwarfStar",
+  "slug": "dwarfstar",
+  "summary": "DwarfStar is a local DeepSeek V4 Flash/PRO inference engine \u2014 a commenter said it was enough to move from one DGX Spark to two.",
+  "thing_url": "https://github.com/antirez/ds4",
+  "times_seen": 1,
+  "why_included": "Clear praise for a concrete local-AI tool in a hardware-constrained thread."
+}

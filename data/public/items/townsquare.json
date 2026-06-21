@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-21T21:07:25Z",
+  "id": "townsquare",
+  "last_seen_at": "2026-06-21T21:07:25Z",
+  "latest_mention_id": "2026-06-21:townsquare:48608570",
+  "mention_ids": [
+    "2026-06-21:townsquare:48608570"
+  ],
+  "name": "TownSquare",
+  "slug": "townsquare",
+  "summary": "TownSquare is a tiny presence layer for websites \u2014 commenters liked the ambient social idea despite moderation pain.",
+  "thing_url": "https://townsquare.cauenapier.com/",
+  "times_seen": 1,
+  "why_included": "Show HN with strong positive interest and repeated intent to use it."
+}

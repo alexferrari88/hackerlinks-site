@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-21T21:07:25Z",
+  "id": "smolvm",
+  "last_seen_at": "2026-06-21T21:07:25Z",
+  "latest_mention_id": "2026-06-21:smolvm:48599555",
+  "mention_ids": [
+    "2026-06-21:smolvm:48599555"
+  ],
+  "name": "smolvm",
+  "slug": "smolvm",
+  "summary": "smolvm is a lightweight microVM tool built around libkrun \u2014 a commenter called it a favorite discovery.",
+  "thing_url": "https://smolmachines.com/",
+  "times_seen": 1,
+  "why_included": "Strong comment-backed recommendation from the microVM discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-21T21:07:25Z",
+  "id": "mistral-vibe",
+  "last_seen_at": "2026-06-21T21:07:25Z",
+  "latest_mention_id": "2026-06-21:mistral-vibe:48618455",
+  "mention_ids": [
+    "2026-06-21:mistral-vibe:48618455"
+  ],
+  "name": "Mistral Vibe",
+  "slug": "mistral-vibe",
+  "summary": "Mistral's AI chat and coding agent \u2014 a commenter said it already beats Opus at writing.",
+  "thing_url": "https://mistral.ai/products/vibe/",
+  "times_seen": 1,
+  "why_included": "Concrete alternative the thread surfaced for post-Claude workflows."
+}

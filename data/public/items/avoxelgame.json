@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-21T21:07:25Z",
+  "id": "avoxelgame",
+  "last_seen_at": "2026-06-21T21:07:25Z",
+  "latest_mention_id": "2026-06-21:avoxelgame:48616713",
+  "mention_ids": [
+    "2026-06-21:avoxelgame:48616713"
+  ],
+  "name": "Avoxelgame",
+  "slug": "avoxelgame",
+  "summary": "Avoxelgame is a 3D voxel engine written in APL \u2014 commenters were fascinated by the language choice and honest README.",
+  "thing_url": "https://github.com/namgyaaal/avoxelgame",
+  "times_seen": 1,
+  "why_included": "Novel project with direct praise and a clear canonical repo."
+}

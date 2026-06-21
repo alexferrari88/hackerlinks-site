@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said they started with DwarfStar on one Spark, then jumped to two Sparks, and were excited about the future of local LLMs.",
+  "hn_url": "https://news.ycombinator.com/item?id=48587865",
+  "id": "2026-06-21:dwarfstar:48587865",
+  "is_repeat": false,
+  "issue_id": "2026-06-21",
+  "item_id": "dwarfstar",
+  "rank": 2,
+  "seen_at": "2026-06-21T21:07:25Z",
+  "source_story_id": "48587865",
+  "source_story_title": "Two Qwen3 models on one DGX Spark: the residency math"
+}

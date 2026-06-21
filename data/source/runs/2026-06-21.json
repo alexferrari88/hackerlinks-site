@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "run_date": "2026-06-21",
+  "generated_at": "2026-06-21T21:07:25Z",
+  "summary": "Eight concrete products and tools surfaced from HN comments, with strong signals in local AI, microVMs, web presence layers, and retro hardware curiosities.",
+  "items": [
+    {
+      "name": "Mistral Vibe",
+      "category": "AI & Local Models",
+      "thing_url": "https://mistral.ai/products/vibe/",
+      "hn_url": "https://news.ycombinator.com/item?id=48618455",
+      "source_story_title": "Identity verification on Claude",
+      "summary": "Mistral's AI chat and coding agent — a commenter said it already beats Opus at writing.",
+      "why_included": "Concrete alternative the thread surfaced for post-Claude workflows.",
+      "evidence": "A commenter said they installed Mistral Vibe, use it for about half their LLM tasks, and find it fast to iterate."
+    },
+    {
+      "name": "DwarfStar",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/antirez/ds4",
+      "hn_url": "https://news.ycombinator.com/item?id=48587865",
+      "source_story_title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "summary": "DwarfStar is a local DeepSeek V4 Flash/PRO inference engine — a commenter said it was enough to move from one DGX Spark to two.",
+      "why_included": "Clear praise for a concrete local-AI tool in a hardware-constrained thread.",
+      "evidence": "A commenter said they started with DwarfStar on one Spark, then jumped to two Sparks, and were excited about the future of local LLMs."
+    },
+    {
+      "name": "smolvm",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://smolmachines.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48599555",
+      "source_story_title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "summary": "smolvm is a lightweight microVM tool built around libkrun — a commenter called it a favorite discovery.",
+      "why_included": "Strong comment-backed recommendation from the microVM discussion.",
+      "evidence": "A commenter said their favorite recent microVM discovery is tools built around libkrun and pointed to smolvm."
+    },
+    {
+      "name": "TownSquare",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://townsquare.cauenapier.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48608570",
+      "source_story_title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "summary": "TownSquare is a tiny presence layer for websites — commenters liked the ambient social idea despite moderation pain.",
+      "why_included": "Show HN with strong positive interest and repeated intent to use it.",
+      "evidence": "Comments called it cute, cool, clever, and said they would consider adding it to their sites, even as moderation became the big concern."
+    },
+    {
+      "name": "floppinux",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/w84death/floppinux",
+      "hn_url": "https://news.ycombinator.com/item?id=48594090",
+      "source_story_title": "An Embedded Linux on a Single Floppy",
+      "summary": "floppinux is an embedded Linux-on-a-floppy project — commenters marveled at the 1.44MB web-server feat.",
+      "why_included": "A concrete technical stunt that drew nostalgia and respect.",
+      "evidence": "Comments highlighted a full network stack and web server on a 1.44MB floppy and compared it with older rescue-floppy distros."
+    },
+    {
+      "name": "Beyond All Reason",
+      "category": "Games & Experiments",
+      "thing_url": "https://www.beyondallreason.info/",
+      "hn_url": "https://news.ycombinator.com/item?id=48617990",
+      "source_story_title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "summary": "Beyond All Reason is a free RTS inspired by Total Annihilation — commenters praised the game and its solo/co-op modes.",
+      "why_included": "Large, clearly positive game thread with substantive discussion.",
+      "evidence": "Replies praised the polish, single-player scenarios, skirmish mode, and co-op even as public multiplayer toxicity got debated."
+    },
+    {
+      "name": "Avoxelgame",
+      "category": "Games & Experiments",
+      "thing_url": "https://github.com/namgyaaal/avoxelgame",
+      "hn_url": "https://news.ycombinator.com/item?id=48616713",
+      "source_story_title": "A 3D voxel game engine written in APL",
+      "summary": "Avoxelgame is a 3D voxel engine written in APL — commenters were fascinated by the language choice and honest README.",
+      "why_included": "Novel project with direct praise and a clear canonical repo.",
+      "evidence": "Commenters said the README does not oversell it, called the APL choice unusual, and asked about performance versus C++ or Rust."
+    },
+    {
+      "name": "Unihertz",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.unihertz.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48587619",
+      "source_story_title": "The Commodore Callback 8020 smart flip phone",
+      "summary": "Unihertz makes niche smartphones — commenters recommended the brand as a better alternative to the Commodore flip phone.",
+      "why_included": "Concrete product recommendation surfaced directly from the phone thread.",
+      "evidence": "One commenter said Unihertz phones are the only ones they have seen beat the alternative-phone price dynamic to an extent."
+    }
+  ]
+}
