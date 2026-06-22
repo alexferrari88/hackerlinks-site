@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-22T21:21:10Z",
+  "id": "bluescsi",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:bluescsi:48622241",
+  "mention_ids": [
+    "2026-06-22:bluescsi:48622241"
+  ],
+  "name": "BlueSCSI",
+  "slug": "bluescsi",
+  "summary": "BlueSCSI is SCSI emulation hardware for retro machines.",
+  "thing_url": "https://bluescsi.com/",
+  "times_seen": 1,
+  "why_included": "The retro-storage thread turned into a practical hardware recommendation, and BlueSCSI was the concrete link."
+}

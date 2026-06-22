@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "run_date": "2026-06-22",
+  "generated_at": "2026-06-22T21:21:10Z",
+  "summary": {
+    "stories_scraped": 24,
+    "stories_qualified": 24,
+    "items_reported": 9,
+    "history_added": 8,
+    "history_updated": 1,
+    "cooldown_days": 90
+  },
+  "items": [
+    {
+      "name": "Steam Machine",
+      "thing_url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "hn_url": "https://news.ycombinator.com/item?id=48632884",
+      "source_story_title": "Steam Machine launches today",
+      "summary": "Steam Machine is Valve's living-room PC for the Steam ecosystem.",
+      "why_included": "The launch thread drew unusually practical discussion around price and Linux support.",
+      "evidence": "Commenters focused on the base price, Fedora/Linux support, and whether the machine fills a real desktop gap."
+    },
+    {
+      "name": "Deno Desktop",
+      "thing_url": "https://docs.deno.com/runtime/desktop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48626137",
+      "source_story_title": "Deno Desktop",
+      "summary": "Deno Desktop is Deno's runtime for building desktop apps.",
+      "why_included": "Commenters liked the smaller-binary path and the cleaner desktop-app workflow.",
+      "evidence": "Replies discussed the shared CEF runtime, binary size reduction, and how this could make desktop app builds less clunky."
+    },
+    {
+      "name": "Oak",
+      "thing_url": "https://oak.space/oak/oak",
+      "hn_url": "https://news.ycombinator.com/item?id=48631726",
+      "source_story_title": "Show HN: Oak – Git alternative designed for agents",
+      "summary": "Oak is a git alternative built around agent workspaces.",
+      "why_included": "The comments liked the lazy-mount model and the multi-repo workspace story for agents.",
+      "evidence": "Commenters said git worktrees are a pain and praised the checkout and workspace model for multi-agent jobs."
+    },
+    {
+      "name": "OpenCode",
+      "thing_url": "https://opencode.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48626866",
+      "source_story_title": "GLM 5.2 vs. Opus",
+      "summary": "OpenCode is an open-source, model-neutral AI coding agent.",
+      "why_included": "The GLM-vs-Opus thread surfaced it as a real-world coding-agent alternative.",
+      "evidence": "A commenter said they had been using OpenCode, and the discussion shifted into how people mix coding agents with different models."
+    },
+    {
+      "name": "Moebius",
+      "thing_url": "https://hustvl.github.io/Moebius/",
+      "hn_url": "https://news.ycombinator.com/item?id=48630171",
+      "source_story_title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "summary": "Moebius is a tiny image inpainting model with surprisingly strong demos.",
+      "why_included": "Commenters were impressed by the sample gallery even while debating the headline performance claim.",
+      "evidence": "Replies pointed to the demo spaces and sample images; one noted it felt strong for a 0.2B model."
+    },
+    {
+      "name": "Olinia",
+      "thing_url": "https://www.olinia.auto/",
+      "hn_url": "https://news.ycombinator.com/item?id=48632652",
+      "source_story_title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "summary": "Olinia is a Mexico-first ultra-affordable EV prototype.",
+      "why_included": "Commenters treated it as a real local-market program rather than a generic concept car.",
+      "evidence": "Replies linked the company site and emphasized that it is designed in Mexico for Mexico."
+    },
+    {
+      "name": "wiggle3ds",
+      "thing_url": "https://wiggle3ds.moonlemon.nexus/",
+      "hn_url": "https://news.ycombinator.com/item?id=48605561",
+      "source_story_title": "Help I accidentally a wigglegram",
+      "summary": "wiggle3ds is a web app that auto-converts 3DS photos into wigglegrams.",
+      "why_included": "Commenters shared it as an easy automatic workflow instead of manual wiggle editing.",
+      "evidence": "The thread linked wiggle3ds alongside other wigglegram tools and custom-camera setups."
+    },
+    {
+      "name": "BlueSCSI",
+      "thing_url": "https://bluescsi.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48622241",
+      "source_story_title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+      "summary": "BlueSCSI is SCSI emulation hardware for retro machines.",
+      "why_included": "The retro-storage thread turned into a practical hardware recommendation, and BlueSCSI was the concrete link.",
+      "evidence": "A commenter linked bluescsi.com while reminiscing about SCSI setups and old storage media."
+    },
+    {
+      "name": "Nonoverse",
+      "thing_url": "https://lab174.com/nonoverse",
+      "hn_url": "https://news.ycombinator.com/item?id=48629213",
+      "source_story_title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "summary": "Nonoverse is a no-ads nonogram app for iPhone, iPad, and Mac.",
+      "why_included": "A commenter recommended it as the clean offline option for image logic puzzles.",
+      "evidence": "The reply linked the developer site and App Store page, calling out offline play, dark mode, and no accounts."
+    }
+  ]
+}

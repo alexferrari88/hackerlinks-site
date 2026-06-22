@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-22T21:21:10Z",
+  "id": "oak",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:oak:48631726",
+  "mention_ids": [
+    "2026-06-22:oak:48631726"
+  ],
+  "name": "Oak",
+  "slug": "oak",
+  "summary": "Oak is a git alternative built around agent workspaces.",
+  "thing_url": "https://oak.space/oak/oak",
+  "times_seen": 1,
+  "why_included": "The comments liked the lazy-mount model and the multi-repo workspace story for agents."
+}

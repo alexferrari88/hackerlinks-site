@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-22T21:21:10Z",
+  "id": "moebius",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:moebius:48630171",
+  "mention_ids": [
+    "2026-06-22:moebius:48630171"
+  ],
+  "name": "Moebius",
+  "slug": "moebius",
+  "summary": "Moebius is a tiny image inpainting model with surprisingly strong demos.",
+  "thing_url": "https://hustvl.github.io/Moebius/",
+  "times_seen": 1,
+  "why_included": "Commenters were impressed by the sample gallery even while debating the headline performance claim."
+}

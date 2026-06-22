@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies pointed to the demo spaces and sample images; one noted it felt strong for a 0.2B model.",
+  "hn_url": "https://news.ycombinator.com/item?id=48630171",
+  "id": "2026-06-22:moebius:48630171",
+  "is_repeat": false,
+  "issue_id": "2026-06-22",
+  "item_id": "moebius",
+  "rank": 5,
+  "seen_at": "2026-06-22T21:21:10Z",
+  "source_story_id": "48630171",
+  "source_story_title": "Moebius: 0.2B image inpainting model with 10B-level performance"
+}

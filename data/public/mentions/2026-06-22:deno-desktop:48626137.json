@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies discussed the shared CEF runtime, binary size reduction, and how this could make desktop app builds less clunky.",
+  "hn_url": "https://news.ycombinator.com/item?id=48626137",
+  "id": "2026-06-22:deno-desktop:48626137",
+  "is_repeat": false,
+  "issue_id": "2026-06-22",
+  "item_id": "deno-desktop",
+  "rank": 2,
+  "seen_at": "2026-06-22T21:21:10Z",
+  "source_story_id": "48626137",
+  "source_story_title": "Deno Desktop"
+}

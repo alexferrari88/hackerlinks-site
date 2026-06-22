@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-22T21:21:10Z",
+  "id": "wiggle3ds",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:wiggle3ds:48605561",
+  "mention_ids": [
+    "2026-06-22:wiggle3ds:48605561"
+  ],
+  "name": "wiggle3ds",
+  "slug": "wiggle3ds",
+  "summary": "wiggle3ds is a web app that auto-converts 3DS photos into wigglegrams.",
+  "thing_url": "https://wiggle3ds.moonlemon.nexus/",
+  "times_seen": 1,
+  "why_included": "Commenters shared it as an easy automatic workflow instead of manual wiggle editing."
+}

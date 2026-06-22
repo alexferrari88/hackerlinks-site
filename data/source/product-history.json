@@ -2399,8 +2399,8 @@
     {
       "name": "OpenCode",
       "first_reported_at": "2026-05-20T21:00:52Z",
-      "last_reported_at": "2026-05-20T21:00:52Z",
-      "times_reported": 1
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 2
     },
     {
       "name": "OpenCV 5",
@@ -4074,6 +4074,54 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Steam Machine",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Deno Desktop",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Oak",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Moebius",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Olinia",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "wiggle3ds",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "BlueSCSI",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nonoverse",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
       "times_reported": 1
     }
   ]

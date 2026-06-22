@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-20T21:00:52Z",
   "id": "opencode",
-  "last_seen_at": "2026-05-20T21:00:52Z",
-  "latest_mention_id": "2026-05-20:opencode:48205626",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:opencode:48626866",
   "mention_ids": [
-    "2026-05-20:opencode:48205626"
+    "2026-05-20:opencode:48205626",
+    "2026-06-22:opencode:48626866"
   ],
   "name": "OpenCode",
   "slug": "opencode",
-  "summary": "Open-source Claude Code alternative for agentic coding.",
+  "summary": "OpenCode is an open-source, model-neutral AI coding agent.",
   "thing_url": "https://opencode.ai/",
-  "times_seen": 1,
-  "why_included": "Explicitly recommended as a practical free alternative."
+  "times_seen": 2,
+  "why_included": "The GLM-vs-Opus thread surfaced it as a real-world coding-agent alternative."
 }

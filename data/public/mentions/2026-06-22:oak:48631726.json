@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters said git worktrees are a pain and praised the checkout and workspace model for multi-agent jobs.",
+  "hn_url": "https://news.ycombinator.com/item?id=48631726",
+  "id": "2026-06-22:oak:48631726",
+  "is_repeat": false,
+  "issue_id": "2026-06-22",
+  "item_id": "oak",
+  "rank": 3,
+  "seen_at": "2026-06-22T21:21:10Z",
+  "source_story_id": "48631726",
+  "source_story_title": "Show HN: Oak \u2013 Git alternative designed for agents"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-22T21:21:10Z",
+  "id": "olinia",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:olinia:48632652",
+  "mention_ids": [
+    "2026-06-22:olinia:48632652"
+  ],
+  "name": "Olinia",
+  "slug": "olinia",
+  "summary": "Olinia is a Mexico-first ultra-affordable EV prototype.",
+  "thing_url": "https://www.olinia.auto/",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a real local-market program rather than a generic concept car."
+}

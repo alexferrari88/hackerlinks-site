@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-22T21:21:10Z",
+  "id": "steam-machine",
+  "last_seen_at": "2026-06-22T21:21:10Z",
+  "latest_mention_id": "2026-06-22:steam-machine:48632884",
+  "mention_ids": [
+    "2026-06-22:steam-machine:48632884"
+  ],
+  "name": "Steam Machine",
+  "slug": "steam-machine",
+  "summary": "Steam Machine is Valve's living-room PC for the Steam ecosystem.",
+  "thing_url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+  "times_seen": 1,
+  "why_included": "The launch thread drew unusually practical discussion around price and Linux support."
+}
