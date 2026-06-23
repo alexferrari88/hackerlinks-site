@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread compared it favorably with sqlc, Kysely, and pgtyped while focusing on nullability and generated typings.",
+  "hn_url": "https://news.ycombinator.com/item?id=48645390",
+  "id": "2026-06-23:bun-sqlgen:48645390",
+  "is_repeat": false,
+  "issue_id": "2026-06-23",
+  "item_id": "bun-sqlgen",
+  "rank": 3,
+  "seen_at": "2026-06-23T21:10:00Z",
+  "source_story_id": "48645390",
+  "source_story_title": "Show HN: Bun-sqlgen \u2013 Type-safe raw SQL for Bun, no ORM"
+}

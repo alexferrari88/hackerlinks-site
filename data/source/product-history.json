@@ -303,6 +303,12 @@
       "times_reported": 1
     },
     {
+      "name": "BlueSCSI",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
       "name": "BookShelves",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
@@ -378,6 +384,12 @@
       "name": "Bun",
       "first_reported_at": "2026-05-09T21:20:22Z",
       "last_reported_at": "2026-05-09T21:20:22Z",
+      "times_reported": 1
+    },
+    {
+      "name": "bun-sqlgen",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -498,6 +510,12 @@
       "name": "Claude Opus 4.8",
       "first_reported_at": "2026-05-28T21:20:20Z",
       "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Claude Tag",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -759,6 +777,12 @@
       "times_reported": 2
     },
     {
+      "name": "DeepSeek-V4-Flash",
+      "first_reported_at": "2026-05-16T21:36:59Z",
+      "last_reported_at": "2026-05-16T21:36:59Z",
+      "times_reported": 1
+    },
+    {
       "name": "DeepSeek V4 Preview",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
@@ -777,12 +801,6 @@
       "times_reported": 1
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "first_reported_at": "2026-05-16T21:36:59Z",
-      "last_reported_at": "2026-05-16T21:36:59Z",
-      "times_reported": 1
-    },
-    {
       "name": "Deepsid / Chordian SID player",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -798,6 +816,12 @@
       "name": "Deno 2.8",
       "first_reported_at": "2026-05-22T21:12:30Z",
       "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Deno Desktop",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
       "times_reported": 1
     },
     {
@@ -1146,6 +1170,12 @@
       "name": "FUTO Keyboard",
       "first_reported_at": "2026-06-17T03:27:34Z",
       "last_reported_at": "2026-06-17T03:27:34Z",
+      "times_reported": 1
+    },
+    {
+      "name": "FUTO Swipe",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -1875,6 +1905,12 @@
       "times_reported": 1
     },
     {
+      "name": "Lift4D",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
+      "times_reported": 1
+    },
+    {
       "name": "LineageOS for microG",
       "first_reported_at": "2026-06-17T03:27:34Z",
       "last_reported_at": "2026-06-17T03:27:34Z",
@@ -2109,6 +2145,12 @@
       "times_reported": 1
     },
     {
+      "name": "Mistral OCR 4",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
+      "times_reported": 1
+    },
+    {
       "name": "Mistral Vibe",
       "first_reported_at": "2026-06-21T21:07:25Z",
       "last_reported_at": "2026-06-21T21:07:25Z",
@@ -2136,6 +2178,12 @@
       "name": "modernc.org/sqlite",
       "first_reported_at": "2026-06-07T21:23:51Z",
       "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Moebius",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
       "times_reported": 1
     },
     {
@@ -2196,6 +2244,12 @@
       "name": "Needle",
       "first_reported_at": "2026-05-12T21:14:38Z",
       "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nemesis8",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -2277,6 +2331,12 @@
       "times_reported": 1
     },
     {
+      "name": "Nonoverse",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
       "name": "Notion",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -2301,6 +2361,12 @@
       "times_reported": 1
     },
     {
+      "name": "Oak",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
       "name": "Oban",
       "first_reported_at": "2026-04-30T21:02:46Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
@@ -2316,6 +2382,12 @@
       "name": "Oil Shell",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Olinia",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
       "times_reported": 1
     },
     {
@@ -2367,12 +2439,6 @@
       "times_reported": 1
     },
     {
-      "name": "Open WebUI",
-      "first_reported_at": "2026-06-15T21:10:59+00:00",
-      "last_reported_at": "2026-06-15T21:10:59+00:00",
-      "times_reported": 1
-    },
-    {
       "name": "open-artisan",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -2382,6 +2448,12 @@
       "name": "Open-Source AI Racing Harness",
       "first_reported_at": "2026-05-28T21:20:20Z",
       "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open WebUI",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
       "times_reported": 1
     },
     {
@@ -2664,6 +2736,12 @@
       "name": "Playdate",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Plotnine",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -3327,6 +3405,12 @@
       "times_reported": 1
     },
     {
+      "name": "Steam Machine",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
       "name": "StepLimit",
       "first_reported_at": "2026-06-01T21:20:14Z",
       "last_reported_at": "2026-06-01T21:20:14Z",
@@ -3396,6 +3480,12 @@
       "name": "SWI-Prolog",
       "first_reported_at": "2026-05-22T21:12:30Z",
       "last_reported_at": "2026-05-22T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Swift Package Index",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -3528,6 +3618,12 @@
       "name": "Ti-84 Evo",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TikZ Editor",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -3684,6 +3780,12 @@
       "name": "Unikraft",
       "first_reported_at": "2026-05-25T21:20:05Z",
       "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Unlimited OCR",
+      "first_reported_at": "2026-06-23T21:10:00Z",
+      "last_reported_at": "2026-06-23T21:10:00Z",
       "times_reported": 1
     },
     {
@@ -3915,6 +4017,12 @@
       "times_reported": 1
     },
     {
+      "name": "wiggle3ds",
+      "first_reported_at": "2026-06-22T21:21:10Z",
+      "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
       "name": "Wikivoyage",
       "first_reported_at": "2026-04-15T04:39:17+00:00",
       "last_reported_at": "2026-04-15T04:39:17+00:00",
@@ -4074,54 +4182,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Steam Machine",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Deno Desktop",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Oak",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Moebius",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Olinia",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "wiggle3ds",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "BlueSCSI",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Nonoverse",
-      "first_reported_at": "2026-06-22T21:21:10Z",
-      "last_reported_at": "2026-06-22T21:21:10Z",
       "times_reported": 1
     }
   ]

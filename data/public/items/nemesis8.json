@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "nemesis8",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:nemesis8:48645386",
+  "mention_ids": [
+    "2026-06-23:nemesis8:48645386"
+  ],
+  "name": "Nemesis8",
+  "slug": "nemesis8",
+  "summary": "A containerized-agents runtime discussed as a build option alongside Pi.",
+  "thing_url": "https://github.com/deepbluedynamics/nemesis8",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended it as a containerized-agents build."
+}

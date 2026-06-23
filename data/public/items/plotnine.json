@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "plotnine",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:plotnine:48596488",
+  "mention_ids": [
+    "2026-06-23:plotnine:48596488"
+  ],
+  "name": "Plotnine",
+  "slug": "plotnine",
+  "summary": "A Python plotting library built around the ggplot2 grammar of graphics.",
+  "thing_url": "https://plotnine.org/",
+  "times_seen": 1,
+  "why_included": "The thread surfaced strong interest in the grammar-of-graphics model and the new guide."
+}

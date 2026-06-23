@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T21:10:00Z",
+  "headline": "10 interesting things surfaced from HN on 2026-06-23",
+  "id": "2026-06-23",
+  "mention_ids": [
+    "2026-06-23:futo-swipe:48648619",
+    "2026-06-23:tikz-editor:48645437",
+    "2026-06-23:bun-sqlgen:48645390",
+    "2026-06-23:plotnine:48596488",
+    "2026-06-23:swift-package-index:48648779",
+    "2026-06-23:claude-tag:48648039",
+    "2026-06-23:mistral-ocr-4:48645152",
+    "2026-06-23:unlimited-ocr:48643426",
+    "2026-06-23:nemesis8:48645386",
+    "2026-06-23:lift4d:48645721"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

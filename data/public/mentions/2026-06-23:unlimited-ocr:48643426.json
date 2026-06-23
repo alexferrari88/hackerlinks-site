@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters liked the architecture for separating global reference from local generation and compared it to chunking and compaction.",
+  "hn_url": "https://news.ycombinator.com/item?id=48643426",
+  "id": "2026-06-23:unlimited-ocr:48643426",
+  "is_repeat": false,
+  "issue_id": "2026-06-23",
+  "item_id": "unlimited-ocr",
+  "rank": 8,
+  "seen_at": "2026-06-23T21:10:00Z",
+  "source_story_id": "48643426",
+  "source_story_title": "Unlimited OCR: One-shot long-horizon parsing"
+}

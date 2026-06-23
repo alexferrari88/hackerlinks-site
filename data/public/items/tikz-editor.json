@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "tikz-editor",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:tikz-editor:48645437",
+  "mention_ids": [
+    "2026-06-23:tikz-editor:48645437"
+  ],
+  "name": "TikZ Editor",
+  "slug": "tikz-editor",
+  "summary": "A WYSIWYG editor that syncs TikZ source with rendered diagrams.",
+  "thing_url": "https://tikz.dev/editor/",
+  "times_seen": 1,
+  "why_included": "It drew concrete praise for live source/render sync and practical TikZ editing."
+}

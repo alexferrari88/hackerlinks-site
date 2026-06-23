@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "mistral-ocr-4",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:mistral-ocr-4:48645152",
+  "mention_ids": [
+    "2026-06-23:mistral-ocr-4:48645152"
+  ],
+  "name": "Mistral OCR 4",
+  "slug": "mistral-ocr-4",
+  "summary": "An OCR model for long documents and layout-heavy parsing.",
+  "thing_url": "https://mistral.ai/news/ocr-4/",
+  "times_seen": 1,
+  "why_included": "Commenters used it to compare the current OCR stack and where model-based OCR still wins."
+}

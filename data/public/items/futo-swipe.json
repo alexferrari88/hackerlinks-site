@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "futo-swipe",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:futo-swipe:48648619",
+  "mention_ids": [
+    "2026-06-23:futo-swipe:48648619"
+  ],
+  "name": "FUTO Swipe",
+  "slug": "futo-swipe",
+  "summary": "A swipe-typing model for Android keyboards with strong autocorrect.",
+  "thing_url": "https://swipe.futo.tech/",
+  "times_seen": 1,
+  "why_included": "Commenters said its swipe and autocorrect feel competitive with Gboard."
+}

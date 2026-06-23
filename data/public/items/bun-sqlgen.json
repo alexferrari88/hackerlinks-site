@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "bun-sqlgen",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:bun-sqlgen:48645390",
+  "mention_ids": [
+    "2026-06-23:bun-sqlgen:48645390"
+  ],
+  "name": "bun-sqlgen",
+  "slug": "bun-sqlgen",
+  "summary": "A Bun SQL codegen tool that keeps raw SQL and adds types.",
+  "thing_url": "https://github.com/ilbertt/bun-sqlgen",
+  "times_seen": 1,
+  "why_included": "Commenters liked the raw-SQL-plus-types approach as a pragmatic alternative to ORMs."
+}

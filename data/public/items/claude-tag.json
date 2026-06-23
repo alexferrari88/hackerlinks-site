@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "claude-tag",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:claude-tag:48648039",
+  "mention_ids": [
+    "2026-06-23:claude-tag:48648039"
+  ],
+  "name": "Claude Tag",
+  "slug": "claude-tag",
+  "summary": "A Slack-based collaborative Claude workspace with channel-scoped memory.",
+  "thing_url": "https://www.anthropic.com/news/introducing-claude-tag",
+  "times_seen": 1,
+  "why_included": "It was the clearest new Anthropic product in the front page and sparked real workflow debate."
+}

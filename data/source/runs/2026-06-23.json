@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-06-23",
+  "generated_at": "2026-06-23T21:10:00Z",
+  "summary": "Broad front-page HN product scout surfaced 10 concrete items after history dedupe.",
+  "items": [
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "FUTO Swipe",
+      "thing_url": "https://swipe.futo.tech/",
+      "hn_url": "https://news.ycombinator.com/item?id=48648619",
+      "source_story_title": "FUTO Swipe – A new swipe typing model",
+      "summary": "A swipe-typing model for Android keyboards with strong autocorrect.",
+      "why_included": "Commenters said its swipe and autocorrect feel competitive with Gboard.",
+      "evidence": "The thread praised typing quality and the swipe demo, even while debating the FUTO license."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "TikZ Editor",
+      "thing_url": "https://tikz.dev/editor/",
+      "hn_url": "https://news.ycombinator.com/item?id=48645437",
+      "source_story_title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "summary": "A WYSIWYG editor that syncs TikZ source with rendered diagrams.",
+      "why_included": "It drew concrete praise for live source/render sync and practical TikZ editing.",
+      "evidence": "Commenters discussed the source-location mapping, relative positioning, and the difficulty of preserving user intent."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "bun-sqlgen",
+      "thing_url": "https://github.com/ilbertt/bun-sqlgen",
+      "hn_url": "https://news.ycombinator.com/item?id=48645390",
+      "source_story_title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+      "summary": "A Bun SQL codegen tool that keeps raw SQL and adds types.",
+      "why_included": "Commenters liked the raw-SQL-plus-types approach as a pragmatic alternative to ORMs.",
+      "evidence": "The thread compared it favorably with sqlc, Kysely, and pgtyped while focusing on nullability and generated typings."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Plotnine",
+      "thing_url": "https://plotnine.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48596488",
+      "source_story_title": "Plotnine",
+      "summary": "A Python plotting library built around the ggplot2 grammar of graphics.",
+      "why_included": "The thread surfaced strong interest in the grammar-of-graphics model and the new guide.",
+      "evidence": "Commenters praised composability and publication-style plotting while comparing it with R and ggplot2."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Swift Package Index",
+      "thing_url": "https://swiftpackageindex.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48648779",
+      "source_story_title": "Swift Package Index joins Apple",
+      "summary": "A Swift package registry/index that Apple is bringing into its ecosystem.",
+      "why_included": "The Apple deal drew clear strategy discussion around registry support and maintainer payoff.",
+      "evidence": "Comments framed the acquisition as a likely registry win and debated Apple’s developer-tooling track record."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Claude Tag",
+      "thing_url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "hn_url": "https://news.ycombinator.com/item?id=48648039",
+      "source_story_title": "Claude Tag",
+      "summary": "A Slack-based collaborative Claude workspace with channel-scoped memory.",
+      "why_included": "It was the clearest new Anthropic product in the front page and sparked real workflow debate.",
+      "evidence": "Commenters were interested in the multiplayer Slack model but argued over RBAC, compliance, and memory boundaries."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Mistral OCR 4",
+      "thing_url": "https://mistral.ai/news/ocr-4/",
+      "hn_url": "https://news.ycombinator.com/item?id=48645152",
+      "source_story_title": "Mistral OCR 4",
+      "summary": "An OCR model for long documents and layout-heavy parsing.",
+      "why_included": "Commenters used it to compare the current OCR stack and where model-based OCR still wins.",
+      "evidence": "The thread compared it with PaddleOCR, Tesseract, Mathpix, Azure Document Intelligence, and other OCR tools."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Unlimited OCR",
+      "thing_url": "https://github.com/baidu/Unlimited-OCR",
+      "hn_url": "https://news.ycombinator.com/item?id=48643426",
+      "source_story_title": "Unlimited OCR: One-shot long-horizon parsing",
+      "summary": "A long-document OCR approach using reference-sliding-window attention.",
+      "why_included": "It sparked detailed discussion of long-document parsing, memory growth, and local AI deployments.",
+      "evidence": "Commenters liked the architecture for separating global reference from local generation and compared it to chunking and compaction."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Nemesis8",
+      "thing_url": "https://github.com/deepbluedynamics/nemesis8",
+      "hn_url": "https://news.ycombinator.com/item?id=48645386",
+      "source_story_title": "Elevated error rate across multiple models",
+      "summary": "A containerized-agents runtime discussed as a build option alongside Pi.",
+      "why_included": "A commenter explicitly recommended it as a containerized-agents build.",
+      "evidence": "The outage thread mentioned Nemesis8 while discussing Pi and GLM 5.2 as alternatives for building agents."
+    },
+    {
+      "category": "🔬 Research & 3D",
+      "name": "Lift4D",
+      "thing_url": "https://lift4d.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48645721",
+      "source_story_title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "summary": "A single-view 3D/4D reconstruction project for scene tracking.",
+      "why_included": "The thread was enthusiastic about the reconstruction idea and asked for clearer comparisons and tooling.",
+      "evidence": "Commenters asked about accuracy, compared it with sam-body4d, and wanted the code release sooner."
+    }
+  ]
+}

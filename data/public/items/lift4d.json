@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-23T21:10:00Z",
+  "id": "lift4d",
+  "last_seen_at": "2026-06-23T21:10:00Z",
+  "latest_mention_id": "2026-06-23:lift4d:48645721",
+  "mention_ids": [
+    "2026-06-23:lift4d:48645721"
+  ],
+  "name": "Lift4D",
+  "slug": "lift4d",
+  "summary": "A single-view 3D/4D reconstruction project for scene tracking.",
+  "thing_url": "https://lift4d.github.io/",
+  "times_seen": 1,
+  "why_included": "The thread was enthusiastic about the reconstruction idea and asked for clearer comparisons and tooling."
+}
