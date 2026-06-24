@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-24T21:10:29Z",
+  "id": "peerd",
+  "last_seen_at": "2026-06-24T21:10:29Z",
+  "latest_mention_id": "2026-06-24:peerd:48646165",
+  "mention_ids": [
+    "2026-06-24:peerd:48646165"
+  ],
+  "name": "peerd",
+  "slug": "peerd",
+  "summary": "A browser-extension agent harness that runs entirely inside the browser.",
+  "thing_url": "https://github.com/NotASithLord/peerd",
+  "times_seen": 1,
+  "why_included": "The browser-native sandbox and p2p direction drew real interest."
+}

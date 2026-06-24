@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-24T21:10:29Z",
+  "id": "github-pull-request-limits",
+  "last_seen_at": "2026-06-24T21:10:29Z",
+  "latest_mention_id": "2026-06-24:github-pull-request-limits:48596834",
+  "mention_ids": [
+    "2026-06-24:github-pull-request-limits:48596834"
+  ],
+  "name": "GitHub pull request limits",
+  "slug": "github-pull-request-limits",
+  "summary": "GitHub\u2019s maintainer controls for throttling PR spam.",
+  "thing_url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a meaningful anti-spam move for maintainers."
+}

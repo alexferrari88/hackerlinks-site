@@ -393,6 +393,12 @@
       "times_reported": 1
     },
     {
+      "name": "Bunny DNS",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
       "name": "BYTE magazine archive",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -1215,6 +1221,12 @@
       "times_reported": 1
     },
     {
+      "name": "Gemini 3.5 Flash computer use",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
       "name": "Gemini app",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -1281,6 +1293,12 @@
       "times_reported": 1
     },
     {
+      "name": "git-annex",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
       "name": "Git commits as folders via NFS",
       "first_reported_at": "2026-05-21T21:20:56Z",
       "last_reported_at": "2026-05-21T21:20:56Z",
@@ -1302,6 +1320,12 @@
       "name": "Gitea",
       "first_reported_at": "2026-06-01T21:20:14Z",
       "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GitHub pull request limits",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
       "times_reported": 1
     },
     {
@@ -1809,6 +1833,12 @@
       "times_reported": 1
     },
     {
+      "name": "Krea 2",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
       "name": "KVarN",
       "first_reported_at": "2026-06-04T21:09:33Z",
       "last_reported_at": "2026-06-04T21:09:33Z",
@@ -2193,6 +2223,12 @@
       "times_reported": 1
     },
     {
+      "name": "MonoLisa v3",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
       "name": "Monty",
       "first_reported_at": "2026-06-06T21:23:39Z",
       "last_reported_at": "2026-06-06T21:23:39Z",
@@ -2352,6 +2388,12 @@
       "name": "Ntsc-rs",
       "first_reported_at": "2026-06-06T21:23:39Z",
       "last_reported_at": "2026-06-06T21:23:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nub",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
       "times_reported": 1
     },
     {
@@ -2640,6 +2682,12 @@
       "name": "Pebble",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-23T21:17:00Z",
+      "times_reported": 1
+    },
+    {
+      "name": "peerd",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
       "times_reported": 1
     },
     {
@@ -3108,6 +3156,12 @@
       "name": "Ruby for Good",
       "first_reported_at": "2026-05-24T21:19:07Z",
       "last_reported_at": "2026-05-24T21:19:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RubyLLM",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
       "times_reported": 1
     },
     {
@@ -4152,6 +4206,12 @@
       "name": "Zenith",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ZeroFS",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
       "times_reported": 1
     },
     {

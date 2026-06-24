@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-24T21:10:29Z",
+  "id": "zerofs",
+  "last_seen_at": "2026-06-24T21:10:29Z",
+  "latest_mention_id": "2026-06-24:zerofs:48661938",
+  "mention_ids": [
+    "2026-06-24:zerofs:48661938"
+  ],
+  "name": "ZeroFS",
+  "slug": "zerofs",
+  "summary": "An S3-backed filesystem layer that makes Git speak object storage.",
+  "thing_url": "https://github.com/Barre/zerofs",
+  "times_seen": 1,
+  "why_included": "Commenters said it may be faster than direct S3 remotes for big repos."
+}

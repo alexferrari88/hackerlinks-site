@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread described ZeroFS as a cleaner way to mount S3-backed storage and avoid Git-to-object-store gymnastics.",
+  "hn_url": "https://news.ycombinator.com/item?id=48661938",
+  "id": "2026-06-24:zerofs:48661938",
+  "is_repeat": false,
+  "issue_id": "2026-06-24",
+  "item_id": "zerofs",
+  "rank": 7,
+  "seen_at": "2026-06-24T21:10:29Z",
+  "source_story_id": "48661938",
+  "source_story_title": "I taught a bucket to speak Git"
+}

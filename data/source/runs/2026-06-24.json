@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "run_date": "2026-06-24",
+  "generated_at": "2026-06-24T21:10:29Z",
+  "summary": "Broad front-page HN product scout surfaced 10 concrete items after history dedupe.",
+  "items": [
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "RubyLLM",
+      "thing_url": "https://rubyllm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48660711",
+      "source_story_title": "RubyLLM: A Ruby framework for all major AI providers",
+      "summary": "A Ruby framework for major AI providers with production-friendly ergonomics.",
+      "why_included": "Commenters said they were using it in production and praised the design.",
+      "evidence": "The thread was strongly positive overall, with multiple users calling RubyLLM elegant and easy to use."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Krea 2",
+      "thing_url": "https://www.krea.ai/krea-2-open-source",
+      "hn_url": "https://news.ycombinator.com/item?id=48646659",
+      "source_story_title": "Krea 2: SOTA open-weights 12B image model",
+      "summary": "An open-weights 12B image model with RAW and Turbo checkpoints.",
+      "why_included": "Commenters liked the technical report and the fine-tuning path.",
+      "evidence": "The thread praised the open-weight release, the permissive licensing, and the RAW-to-Turbo LoRA workflow."
+    },
+    {
+      "category": "🤖 AI & Local Models",
+      "name": "Gemini 3.5 Flash computer use",
+      "thing_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=48662999",
+      "source_story_title": "Computer use in Gemini 3.5 Flash",
+      "summary": "Google’s computer-use feature for browser and UI automation.",
+      "why_included": "Commenters saw practical value for QA, accessibility, and legacy workflows.",
+      "evidence": "The thread argued about guardrails and UX, but several commenters still found computer use useful for real tasks."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "Nub",
+      "thing_url": "https://github.com/nubjs/nub",
+      "hn_url": "https://news.ycombinator.com/item?id=48660267",
+      "source_story_title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "summary": "A Bun-like Node toolkit that adds transpilation and hooks without replacing Node.",
+      "why_included": "The author’s stock-Node compatibility story drew real production questions.",
+      "evidence": "The thread focused on preload hooks, performance, and whether the tool is safe and useful for backend production use."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "GitHub pull request limits",
+      "thing_url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "hn_url": "https://news.ycombinator.com/item?id=48596834",
+      "source_story_title": "Pull request limits are cutting down the noise",
+      "summary": "GitHub’s maintainer controls for throttling PR spam.",
+      "why_included": "Commenters treated it as a meaningful anti-spam move for maintainers.",
+      "evidence": "The thread called the change a solid move and debated stronger reputation and bypass signals for contributors."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "git-annex",
+      "thing_url": "https://git-annex.branchable.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48661938",
+      "source_story_title": "I taught a bucket to speak Git",
+      "summary": "A Git extension for storing data on remotes like S3.",
+      "why_included": "Commenters pointed to it as a practical S3-backed Git option.",
+      "evidence": "The thread highlighted git-annex for client-side encryption and large-file support when using object storage."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "ZeroFS",
+      "thing_url": "https://github.com/Barre/zerofs",
+      "hn_url": "https://news.ycombinator.com/item?id=48661938",
+      "source_story_title": "I taught a bucket to speak Git",
+      "summary": "An S3-backed filesystem layer that makes Git speak object storage.",
+      "why_included": "Commenters said it may be faster than direct S3 remotes for big repos.",
+      "evidence": "The thread described ZeroFS as a cleaner way to mount S3-backed storage and avoid Git-to-object-store gymnastics."
+    },
+    {
+      "category": "🛠️ Dev Tools & Workflows",
+      "name": "peerd",
+      "thing_url": "https://github.com/NotASithLord/peerd",
+      "hn_url": "https://news.ycombinator.com/item?id=48646165",
+      "source_story_title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "summary": "A browser-extension agent harness that runs entirely inside the browser.",
+      "why_included": "The browser-native sandbox and p2p direction drew real interest.",
+      "evidence": "Commenters focused on the in-browser architecture, WebRTC contacts, and the promise of no external agent middlemen."
+    },
+    {
+      "category": "📚 Apps & Side Projects",
+      "name": "Bunny DNS",
+      "thing_url": "https://bunny.net/dns/",
+      "hn_url": "https://news.ycombinator.com/item?id=48657030",
+      "source_story_title": "We’re making Bunny DNS free",
+      "summary": "Managed DNS from Bunny that is now free.",
+      "why_included": "Commenters liked the move as a competitive EU alternative to Cloudflare.",
+      "evidence": "The thread praised the BunnyNet team and repeatedly framed the free tier as a practical small-project option."
+    },
+    {
+      "category": "📚 Apps & Side Projects",
+      "name": "MonoLisa v3",
+      "thing_url": "https://www.monolisa.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48630318",
+      "source_story_title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+      "summary": "A developer typeface expanding into a proportional text family.",
+      "why_included": "The design drew real discussion even amid price and licensing controversy.",
+      "evidence": "Commenters praised the look and readability while arguing hard about cost, ligatures, and font policy."
+    }
+  ]
+}
