@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-25T21:17:10Z",
+  "id": "os9map",
+  "last_seen_at": "2026-06-25T21:17:10Z",
+  "latest_mention_id": "2026-06-25:os9map:48674484",
+  "mention_ids": [
+    "2026-06-25:os9map:48674484"
+  ],
+  "name": "OS9Map",
+  "slug": "os9map",
+  "summary": "Lightweight map app for classic Mac OS 9 machines with tiny RAM requirements.",
+  "thing_url": "https://yllan.org/software/OS9Map/",
+  "times_seen": 1,
+  "why_included": "Vintage Mac users immediately wanted to run it on real hardware."
+}

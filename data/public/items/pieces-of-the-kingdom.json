@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-25T21:17:10Z",
+  "id": "pieces-of-the-kingdom",
+  "last_seen_at": "2026-06-25T21:17:10Z",
+  "latest_mention_id": "2026-06-25:pieces-of-the-kingdom:48616304",
+  "mention_ids": [
+    "2026-06-25:pieces-of-the-kingdom:48616304"
+  ],
+  "name": "Pieces of the Kingdom",
+  "slug": "pieces-of-the-kingdom",
+  "summary": "Chess-like roguelike demo on Steam with weird puzzle energy.",
+  "thing_url": "https://store.steampowered.com/app/3856240/Pieces_of_the_Kingdom/",
+  "times_seen": 1,
+  "why_included": "It was directly recommended in the thread by a creator building a similar game."
+}

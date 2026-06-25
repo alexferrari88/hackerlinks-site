@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "run_date": "2026-06-25",
+  "generated_at": "2026-06-25T21:17:10Z",
+  "summary": "11 concrete items surfaced from 22 qualifying front-page stories.",
+  "items": [
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "OpenKnowledge",
+      "thing_url": "https://openknowledge.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48675435",
+      "source_story_title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "summary": "Local-first WYSIWYG markdown editor with Claude, Codex, and Cursor integrations.",
+      "why_included": "Commenters wanted a Git-synced team knowledgebase with native AI integration, and this fits that gap.",
+      "evidence": "One commenter described exactly that team-sync workflow need; others asked for openai-compatible providers and praised the app’s AI-first approach."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Ory",
+      "thing_url": "https://www.ory.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48668033",
+      "source_story_title": "OAuth for all",
+      "summary": "Open-source and commercial identity stack, including Hydra, Kratos, and Ladon.",
+      "why_included": "The thread surfaced explicit praise for Ory as a practical auth platform.",
+      "evidence": "An Ory Hydra author pointed readers to github.com/ory and ory.com, while other commenters called Ory services a delight and singled out Hydra, Kratos, and Ladon."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "GPU back end for Emacs",
+      "thing_url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48642503",
+      "source_story_title": "I built a GPU back end for Emacs",
+      "summary": "Emacs backend that pushes rendering work onto the GPU for sharper UI effects.",
+      "why_included": "Commenters wanted better cursor and highlight effects in Emacs, so the backend feels immediately useful.",
+      "evidence": "The thread compared it with Ghostty’s cursor_blaze effect and Emacs packages like pulse.el and beacon, arguing for more powerful visual feedback."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "OS9Map",
+      "thing_url": "https://yllan.org/software/OS9Map/",
+      "hn_url": "https://news.ycombinator.com/item?id=48674484",
+      "source_story_title": "OS9Map",
+      "summary": "Lightweight map app for classic Mac OS 9 machines with tiny RAM requirements.",
+      "why_included": "Vintage Mac users immediately wanted to run it on real hardware.",
+      "evidence": "Commenters praised the 16 MB required / 32 MB recommended footprint and said they would try it on PowerBook Pismo and other OS 9 battlestations."
+    },
+    {
+      "category": "Games & Retro",
+      "name": "Chess-Inspired Roguelike",
+      "thing_url": "https://princechazz.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48616304",
+      "source_story_title": "Show HN: Chess-Inspired Roguelike",
+      "summary": "Deterministic chess-like roguelike with seeded runs and solver-friendly movement.",
+      "why_included": "HN reaction was strongly positive and unusually analytical for a game thread.",
+      "evidence": "Commenters called it fun, intuitive, pretty, and addictive, and several noted that its seeded RNG and deterministic movement make it solver-friendly."
+    },
+    {
+      "category": "Games & Retro",
+      "name": "Pieces of the Kingdom",
+      "thing_url": "https://store.steampowered.com/app/3856240/Pieces_of_the_Kingdom/",
+      "hn_url": "https://news.ycombinator.com/item?id=48616304",
+      "source_story_title": "Show HN: Chess-Inspired Roguelike",
+      "summary": "Chess-like roguelike demo on Steam with weird puzzle energy.",
+      "why_included": "It was directly recommended in the thread by a creator building a similar game.",
+      "evidence": "A commenter said they were working on a different chess-like roguelike and told people to check it out if they like weird chess puzzles, bad chess puns, and Hnefatafl."
+    },
+    {
+      "category": "Games & Retro",
+      "name": "Half-Life 2 in a Browser",
+      "thing_url": "https://hl2.slqnt.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48669534",
+      "source_story_title": "Half-Life 2 in a Browser",
+      "summary": "Browser-playable Half-Life 2 port that ran straight into classic-game comparisons.",
+      "why_included": "The thread quickly turned into a list of other playable browser classics.",
+      "evidence": "Commenters immediately added Quake 3, Unreal Tournament, RuneScape 2, Ultima Online, and similar browser-playable projects as references."
+    },
+    {
+      "category": "Games & Retro",
+      "name": "noclip.website",
+      "thing_url": "https://noclip.website/",
+      "hn_url": "https://news.ycombinator.com/item?id=48669534",
+      "source_story_title": "Half-Life 2 in a Browser",
+      "summary": "Browser explorer for classic game levels and maps.",
+      "why_included": "It was singled out as a richer companion for exploring old game spaces.",
+      "evidence": "One commenter called it a place with hundreds of levels from dozens of older games, including Half-Life 2, and suggested it as a better exploration tool than the port itself."
+    },
+    {
+      "category": "Apps, Learning & Research",
+      "name": "LingoChunk",
+      "thing_url": "https://lingochunk.com/try",
+      "hn_url": "https://news.ycombinator.com/item?id=48671886",
+      "source_story_title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "summary": "Audio-to-flashcards language app for shadowing, grammar help, and multilingual practice.",
+      "why_included": "The author showed a clear real-world workflow and commenters wanted to try it.",
+      "evidence": "The post described German and Greek study workflows, AI prompts for grammar and nuance, and asked for public-domain audio sources for the try page."
+    },
+    {
+      "category": "Apps, Learning & Research",
+      "name": "ScrollPrize",
+      "thing_url": "https://scrollprize.org/firstscroll",
+      "hn_url": "https://news.ycombinator.com/item?id=48675179",
+      "source_story_title": "An entire Herculaneum scroll has been read for the first time",
+      "summary": "Scroll-reading project and paper tied to the first readable Herculaneum scroll.",
+      "why_included": "This was a real technical milestone, not just a headline.",
+      "evidence": "The discussion praised the segmentation, unwrapping, and ink-detection work, and commenters repeatedly emphasized how huge the achievement was and how open the data was."
+    },
+    {
+      "category": "Apps, Learning & Research",
+      "name": "Oxide computer 3D rack guided tour",
+      "thing_url": "https://explorer.oxide.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48631450",
+      "source_story_title": "Oxide computer 3D rack guided tour",
+      "summary": "Interactive 3D tour of Oxide’s rack hardware and server design.",
+      "why_included": "Engineers responded like they wanted to work with the hardware, which is strong signal.",
+      "evidence": "Commenters called the product a breath of fresh air, praised the integrated hardware/software design, and recommended Oxide’s podcast and original “On The Metal” show."
+    }
+  ]
+}

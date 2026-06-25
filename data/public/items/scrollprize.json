@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-25T21:17:10Z",
+  "id": "scrollprize",
+  "last_seen_at": "2026-06-25T21:17:10Z",
+  "latest_mention_id": "2026-06-25:scrollprize:48675179",
+  "mention_ids": [
+    "2026-06-25:scrollprize:48675179"
+  ],
+  "name": "ScrollPrize",
+  "slug": "scrollprize",
+  "summary": "Scroll-reading project and paper tied to the first readable Herculaneum scroll.",
+  "thing_url": "https://scrollprize.org/firstscroll",
+  "times_seen": 1,
+  "why_included": "This was a real technical milestone, not just a headline."
+}

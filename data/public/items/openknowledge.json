@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-25T21:17:10Z",
+  "id": "openknowledge",
+  "last_seen_at": "2026-06-25T21:17:10Z",
+  "latest_mention_id": "2026-06-25:openknowledge:48675435",
+  "mention_ids": [
+    "2026-06-25:openknowledge:48675435"
+  ],
+  "name": "OpenKnowledge",
+  "slug": "openknowledge",
+  "summary": "Local-first WYSIWYG markdown editor with Claude, Codex, and Cursor integrations.",
+  "thing_url": "https://openknowledge.ai/",
+  "times_seen": 1,
+  "why_included": "Commenters wanted a Git-synced team knowledgebase with native AI integration, and this fits that gap."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-25T21:17:10Z",
+  "id": "half-life-2-in-a-browser",
+  "last_seen_at": "2026-06-25T21:17:10Z",
+  "latest_mention_id": "2026-06-25:half-life-2-in-a-browser:48669534",
+  "mention_ids": [
+    "2026-06-25:half-life-2-in-a-browser:48669534"
+  ],
+  "name": "Half-Life 2 in a Browser",
+  "slug": "half-life-2-in-a-browser",
+  "summary": "Browser-playable Half-Life 2 port that ran straight into classic-game comparisons.",
+  "thing_url": "https://hl2.slqnt.dev/",
+  "times_seen": 1,
+  "why_included": "The thread quickly turned into a list of other playable browser classics."
+}

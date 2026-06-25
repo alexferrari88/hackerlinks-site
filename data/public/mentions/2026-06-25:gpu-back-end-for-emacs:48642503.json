@@ -1,0 +1,12 @@
+{
+  "evidence": "The thread compared it with Ghostty\u2019s cursor_blaze effect and Emacs packages like pulse.el and beacon, arguing for more powerful visual feedback.",
+  "hn_url": "https://news.ycombinator.com/item?id=48642503",
+  "id": "2026-06-25:gpu-back-end-for-emacs:48642503",
+  "is_repeat": false,
+  "issue_id": "2026-06-25",
+  "item_id": "gpu-back-end-for-emacs",
+  "rank": 3,
+  "seen_at": "2026-06-25T21:17:10Z",
+  "source_story_id": "48642503",
+  "source_story_title": "I built a GPU back end for Emacs"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T21:17:10Z",
+  "headline": "11 interesting things surfaced from HN on 2026-06-25",
+  "id": "2026-06-25",
+  "mention_ids": [
+    "2026-06-25:openknowledge:48675435",
+    "2026-06-25:ory:48668033",
+    "2026-06-25:gpu-back-end-for-emacs:48642503",
+    "2026-06-25:os9map:48674484",
+    "2026-06-25:chess-inspired-roguelike:48616304",
+    "2026-06-25:pieces-of-the-kingdom:48616304",
+    "2026-06-25:half-life-2-in-a-browser:48669534",
+    "2026-06-25:noclip-website:48669534",
+    "2026-06-25:lingochunk:48671886",
+    "2026-06-25:scrollprize:48675179",
+    "2026-06-25:oxide-computer-3d-rack-guided-tour:48631450"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
