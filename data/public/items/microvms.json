@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "microvms",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:microvms:48642510",
+  "mention_ids": [
+    "2026-06-26:microvms:48642510"
+  ],
+  "name": "MicroVMs",
+  "slug": "microvms",
+  "summary": "AWS Lambda microVM sandboxes with lifecycle control.",
+  "thing_url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+  "times_seen": 1,
+  "why_included": "Strong infra launch with a clear security and isolation angle."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "wisdpi-10g-ethernet-expansion-card",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:wisdpi-10g-ethernet-expansion-card:48681220",
+  "mention_ids": [
+    "2026-06-26:wisdpi-10g-ethernet-expansion-card:48681220"
+  ],
+  "name": "WisdPi 10G Ethernet Expansion Card",
+  "slug": "wisdpi-10g-ethernet-expansion-card",
+  "summary": "10GbE expansion card for Framework laptops and Desktop.",
+  "thing_url": "https://frame.work/products/wisdpi-10g-ethernet-expansion-card",
+  "times_seen": 1,
+  "why_included": "Useful hardware niche with real USB-C bandwidth tradeoffs."
+}

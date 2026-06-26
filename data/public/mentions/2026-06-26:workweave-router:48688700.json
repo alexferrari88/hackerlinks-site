@@ -1,0 +1,12 @@
+{
+  "evidence": "The launch post says it routes coding-agent requests to faster or stronger models as needed, and HN comments focused on token savings, caching, and preserving agent feedback loops.",
+  "hn_url": "https://news.ycombinator.com/item?id=48688700",
+  "id": "2026-06-26:workweave-router:48688700",
+  "is_repeat": false,
+  "issue_id": "2026-06-26",
+  "item_id": "workweave-router",
+  "rank": 1,
+  "seen_at": "2026-06-26T21:24:10.400244Z",
+  "source_story_id": "48688700",
+  "source_story_title": "Show HN: Smart model routing directly in Claude, Codex and Cursor"
+}

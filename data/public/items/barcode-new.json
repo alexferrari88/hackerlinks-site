@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "barcode-new",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:barcode-new:48681949",
+  "mention_ids": [
+    "2026-06-26:barcode-new:48681949"
+  ],
+  "name": "barcode.new",
+  "slug": "barcode-new",
+  "summary": "In-browser barcode generator frontend with vector output.",
+  "thing_url": "https://barcode.new/",
+  "times_seen": 1,
+  "why_included": "A comment-surfaced tool that solves a mundane but real workflow pain."
+}

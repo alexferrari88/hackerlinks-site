@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "you-re-the-os",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:you-re-the-os:48642474",
+  "mention_ids": [
+    "2026-06-26:you-re-the-os:48642474"
+  ],
+  "name": "You're the OS",
+  "slug": "you-re-the-os",
+  "summary": "Game where you manage processes, memory, and I/O as an OS.",
+  "thing_url": "https://github.com/plbrault/youre-the-os",
+  "times_seen": 1,
+  "why_included": "Strong systems-game concept with clear educational upside."
+}

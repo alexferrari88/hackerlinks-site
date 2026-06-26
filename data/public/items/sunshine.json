@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "sunshine",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:sunshine:48648550",
+  "mention_ids": [
+    "2026-06-26:sunshine:48648550"
+  ],
+  "name": "Sunshine",
+  "slug": "sunshine",
+  "summary": "Self-hosted game-stream host for Moonlight clients.",
+  "thing_url": "https://app.lizardbyte.dev/Sunshine/",
+  "times_seen": 1,
+  "why_included": "A practical recommendation from a high-signal home streaming setup thread."
+}

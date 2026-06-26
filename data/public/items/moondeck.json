@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "moondeck",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:moondeck:48648550",
+  "mention_ids": [
+    "2026-06-26:moondeck:48648550"
+  ],
+  "name": "MoonDeck",
+  "slug": "moondeck",
+  "summary": "Steam Deck plugin that simplifies Moonlight game sessions.",
+  "thing_url": "https://github.com/FrogTheFrog/moondeck",
+  "times_seen": 1,
+  "why_included": "A concrete helper layer for the Sunshine/Moonlight stack."
+}

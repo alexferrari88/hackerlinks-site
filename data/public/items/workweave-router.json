@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "workweave-router",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:workweave-router:48688700",
+  "mention_ids": [
+    "2026-06-26:workweave-router:48688700"
+  ],
+  "name": "Workweave Router",
+  "slug": "workweave-router",
+  "summary": "Model router for Claude Code, Codex, and Cursor.",
+  "thing_url": "https://github.com/workweave/router",
+  "times_seen": 1,
+  "why_included": "HN liked the idea of routing each coding task to the cheapest useful model."
+}

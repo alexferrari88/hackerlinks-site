@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "run_date": "2026-06-26",
+  "generated_at": "2026-06-26T21:24:10.400244Z",
+  "summary": "10 concrete products and tools surfaced from HN launches and comment recommendations.",
+  "items": [
+    {
+      "name": "Workweave Router",
+      "thing_url": "https://github.com/workweave/router",
+      "hn_url": "https://news.ycombinator.com/item?id=48688700",
+      "source_story_title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "summary": "Model router for Claude Code, Codex, and Cursor.",
+      "why_included": "HN liked the idea of routing each coding task to the cheapest useful model.",
+      "evidence": "The launch post says it routes coding-agent requests to faster or stronger models as needed, and HN comments focused on token savings, caching, and preserving agent feedback loops."
+    },
+    {
+      "name": "Flue",
+      "thing_url": "https://flueframework.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48642510",
+      "source_story_title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "summary": "Open agent framework with sandboxes, tools, and subagents.",
+      "why_included": "It surfaced as a concrete sandbox alternative in the MicroVMs thread.",
+      "evidence": "A commenter called Flue another player in this space and pointed to its interactive product for sandboxed agents and workflows."
+    },
+    {
+      "name": "MicroVMs",
+      "thing_url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "hn_url": "https://news.ycombinator.com/item?id=48642510",
+      "source_story_title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "summary": "AWS Lambda microVM sandboxes with lifecycle control.",
+      "why_included": "Strong infra launch with a clear security and isolation angle.",
+      "evidence": "HN compared it with hosted sandbox providers and local libkrun-style setups, making the microVM use case concrete."
+    },
+    {
+      "name": "WisdPi 10G Ethernet Expansion Card",
+      "thing_url": "https://frame.work/products/wisdpi-10g-ethernet-expansion-card",
+      "hn_url": "https://news.ycombinator.com/item?id=48681220",
+      "source_story_title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "summary": "10GbE expansion card for Framework laptops and Desktop.",
+      "why_included": "Useful hardware niche with real USB-C bandwidth tradeoffs.",
+      "evidence": "Comments dug into the Gen 2x2 bottleneck and repeatedly compared it with Frameworks regular Ethernet card."
+    },
+    {
+      "name": "WebBase-III",
+      "thing_url": "https://github.com/DDecoene/WebBaseIII",
+      "hn_url": "https://news.ycombinator.com/item?id=48656986",
+      "source_story_title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "summary": "Browser-based dBASE III revival with its own interpreter.",
+      "why_included": "Nostalgia-heavy project with a working demo and strong response.",
+      "evidence": "Commenters praised the dot prompt, one-click Codespaces tryout, and the dBASE/Clipper/FoxPro workflow."
+    },
+    {
+      "name": "barcode.new",
+      "thing_url": "https://barcode.new/",
+      "hn_url": "https://news.ycombinator.com/item?id=48681949",
+      "source_story_title": "Libre Barcode Project",
+      "summary": "In-browser barcode generator frontend with vector output.",
+      "why_included": "A comment-surfaced tool that solves a mundane but real workflow pain.",
+      "evidence": "One commenter plugged barcode.new because most online barcode tools either lack vector output or push code through servers."
+    },
+    {
+      "name": "Sunshine",
+      "thing_url": "https://app.lizardbyte.dev/Sunshine/",
+      "hn_url": "https://news.ycombinator.com/item?id=48648550",
+      "source_story_title": "My Steam Machine is a 50ft HDMI cable",
+      "summary": "Self-hosted game-stream host for Moonlight clients.",
+      "why_included": "A practical recommendation from a high-signal home streaming setup thread.",
+      "evidence": "A commenter said game streaming over Ethernet is hard to beat and called Sunshine the host they run."
+    },
+    {
+      "name": "MoonDeck",
+      "thing_url": "https://github.com/FrogTheFrog/moondeck",
+      "hn_url": "https://news.ycombinator.com/item?id=48648550",
+      "source_story_title": "My Steam Machine is a 50ft HDMI cable",
+      "summary": "Steam Deck plugin that simplifies Moonlight game sessions.",
+      "why_included": "A concrete helper layer for the Sunshine/Moonlight stack.",
+      "evidence": "HN praised it as the automation layer that makes launching Steam games through Moonlight much less fiddly."
+    },
+    {
+      "name": "SwiftLaTeX",
+      "thing_url": "https://www.swiftlatex.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48650550",
+      "source_story_title": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "summary": "Browser-native LaTeX engines running in WASM.",
+      "why_included": "Practical browser TeX with real curiosity about offline use.",
+      "evidence": "Comments asked for an offline, curated distribution and debated how far WASM layout can go."
+    },
+    {
+      "name": "You're the OS",
+      "thing_url": "https://github.com/plbrault/youre-the-os",
+      "hn_url": "https://news.ycombinator.com/item?id=48642474",
+      "source_story_title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "summary": "Game where you manage processes, memory, and I/O as an OS.",
+      "why_included": "Strong systems-game concept with clear educational upside.",
+      "evidence": "HN wanted scripting, a deeper tech tree, and even OS-class use; several called the idea fun and impressive."
+    }
+  ]
+}

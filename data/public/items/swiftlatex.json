@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "swiftlatex",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:swiftlatex:48650550",
+  "mention_ids": [
+    "2026-06-26:swiftlatex:48650550"
+  ],
+  "name": "SwiftLaTeX",
+  "slug": "swiftlatex",
+  "summary": "Browser-native LaTeX engines running in WASM.",
+  "thing_url": "https://www.swiftlatex.com/",
+  "times_seen": 1,
+  "why_included": "Practical browser TeX with real curiosity about offline use."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "HN compared it with hosted sandbox providers and local libkrun-style setups, making the microVM use case concrete.",
+  "hn_url": "https://news.ycombinator.com/item?id=48642510",
+  "id": "2026-06-26:microvms:48642510",
+  "is_repeat": false,
+  "issue_id": "2026-06-26",
+  "item_id": "microvms",
+  "rank": 3,
+  "seen_at": "2026-06-26T21:24:10.400244Z",
+  "source_story_id": "48642510",
+  "source_story_title": "MicroVMs: Run isolated sandboxes with full lifecycle control"
+}

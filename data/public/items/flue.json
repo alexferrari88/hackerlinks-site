@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "flue",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:flue:48642510",
+  "mention_ids": [
+    "2026-06-26:flue:48642510"
+  ],
+  "name": "Flue",
+  "slug": "flue",
+  "summary": "Open agent framework with sandboxes, tools, and subagents.",
+  "thing_url": "https://flueframework.com/",
+  "times_seen": 1,
+  "why_included": "It surfaced as a concrete sandbox alternative in the MicroVMs thread."
+}

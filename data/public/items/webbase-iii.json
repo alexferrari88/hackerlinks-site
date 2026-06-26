@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-26T21:24:10.400244Z",
+  "id": "webbase-iii",
+  "last_seen_at": "2026-06-26T21:24:10.400244Z",
+  "latest_mention_id": "2026-06-26:webbase-iii:48656986",
+  "mention_ids": [
+    "2026-06-26:webbase-iii:48656986"
+  ],
+  "name": "WebBase-III",
+  "slug": "webbase-iii",
+  "summary": "Browser-based dBASE III revival with its own interpreter.",
+  "thing_url": "https://github.com/DDecoene/WebBaseIII",
+  "times_seen": 1,
+  "why_included": "Nostalgia-heavy project with a working demo and strong response."
+}
