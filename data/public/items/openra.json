@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "openra",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:openra:48697560",
+  "mention_ids": [
+    "2026-06-27:openra:48697560"
+  ],
+  "name": "OpenRA",
+  "slug": "openra",
+  "summary": "Classic RTS remake rebuilt for modern systems.",
+  "thing_url": "https://www.openra.net/",
+  "times_seen": 1,
+  "why_included": "HN commenters praised the remake\u2019s balance, features, and faithful feel."
+}

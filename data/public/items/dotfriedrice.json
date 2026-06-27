@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "dotfriedrice",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:dotfriedrice:48668747",
+  "mention_ids": [
+    "2026-06-27:dotfriedrice:48668747"
+  ],
+  "name": "dotfriedrice",
+  "slug": "dotfriedrice",
+  "summary": "One-command Arch/niri desktop bootstrap repo for a polished Linux setup.",
+  "thing_url": "https://github.com/nickjj/dotfriedrice",
+  "times_seen": 1,
+  "why_included": "A commenter shared it as the setup behind a usable older-hardware desktop."
+}

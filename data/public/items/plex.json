@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "plex",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:plex:48697335",
+  "mention_ids": [
+    "2026-06-27:plex:48697335"
+  ],
+  "name": "Plex",
+  "slug": "plex",
+  "summary": "Media server and library platform used as a self-hosted replacement for brittle lockers.",
+  "thing_url": "https://www.plex.tv/",
+  "times_seen": 1,
+  "why_included": "Commenters described moving collections to Plex + NAS."
+}

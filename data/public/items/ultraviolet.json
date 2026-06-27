@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "ultraviolet",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:ultraviolet:48697335",
+  "mention_ids": [
+    "2026-06-27:ultraviolet:48697335"
+  ],
+  "name": "UltraViolet",
+  "slug": "ultraviolet",
+  "summary": "Defunct digital rights locker that stored movie and TV purchase receipts.",
+  "thing_url": "https://en.wikipedia.org/wiki/UltraViolet_(website)",
+  "times_seen": 1,
+  "why_included": "Commenters used it as the cautionary example in the ownership debate."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "odigo-messenger",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:odigo-messenger:48699928",
+  "mention_ids": [
+    "2026-06-27:odigo-messenger:48699928"
+  ],
+  "name": "Odigo Messenger",
+  "slug": "odigo-messenger",
+  "summary": "Defunct IM service remembered for showing who else was visiting the same site.",
+  "thing_url": "https://en.wikipedia.org/wiki/Odigo_Messenger",
+  "times_seen": 1,
+  "why_included": "A nostalgic commenter highlighted its radar-style shared-presence feature."
+}

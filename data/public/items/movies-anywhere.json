@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "movies-anywhere",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:movies-anywhere:48697335",
+  "mention_ids": [
+    "2026-06-27:movies-anywhere:48697335"
+  ],
+  "name": "Movies Anywhere",
+  "slug": "movies-anywhere",
+  "summary": "Digital locker that syncs purchased films across connected retailers.",
+  "thing_url": "https://moviesanywhere.com/",
+  "times_seen": 1,
+  "why_included": "Commenters used it as the surviving ownership model in the thread."
+}

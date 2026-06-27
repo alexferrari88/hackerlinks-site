@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "strava",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:strava:48699928",
+  "mention_ids": [
+    "2026-06-27:strava:48699928"
+  ],
+  "name": "Strava",
+  "slug": "strava",
+  "summary": "Fitness social network cited as a real-world town square for active people.",
+  "thing_url": "https://www.strava.com/",
+  "times_seen": 1,
+  "why_included": "Commenters said it already functions like the product being discussed."
+}

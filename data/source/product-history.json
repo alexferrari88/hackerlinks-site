@@ -4369,6 +4369,60 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "OpenRA",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Journey",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Strava",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Odigo Messenger",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "antiX",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "dotfriedrice",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Plex",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Movies Anywhere",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "UltraViolet",
+      "first_reported_at": "2026-06-27T21:23:27Z",
+      "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
     }
   ]
 }

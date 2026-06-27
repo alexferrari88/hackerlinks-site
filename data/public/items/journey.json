@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "journey",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:journey:48699928",
+  "mention_ids": [
+    "2026-06-27:journey:48699928"
+  ],
+  "name": "Journey",
+  "slug": "journey",
+  "summary": "Subtle multiplayer game cited as a model for gentle online presence.",
+  "thing_url": "https://thatgamecompany.com/journey/",
+  "times_seen": 1,
+  "why_included": "The TownSquare thread used Journey as a positive example of low-friction interaction."
+}

@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "run_date": "2026-06-27",
+  "generated_at": "2026-06-27T21:23:27Z",
+  "summary": {
+    "items_count": 9,
+    "stories_scraped": 23,
+    "stories_total": 23,
+    "telegram_footer": "9 items surfaced | 23/23 stories scraped | history + run artifact updated"
+  },
+  "items": [
+    {
+      "name": "OpenRA",
+      "category": "Games & Systems",
+      "thing_url": "https://www.openra.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697560",
+      "source_story_title": "OpenRA",
+      "summary": "Classic RTS remake rebuilt for modern systems.",
+      "why_included": "HN commenters praised the remake’s balance, features, and faithful feel.",
+      "evidence": "Multiple comments called OpenRA awesome or amazing and highlighted how well it balances compared with Red Alert 2."
+    },
+    {
+      "name": "Journey",
+      "category": "Games & Systems",
+      "thing_url": "https://thatgamecompany.com/journey/",
+      "hn_url": "https://news.ycombinator.com/item?id=48699928",
+      "source_story_title": "Turn your site into a place people can bump into each other",
+      "summary": "Subtle multiplayer game cited as a model for gentle online presence.",
+      "why_included": "The TownSquare thread used Journey as a positive example of low-friction interaction.",
+      "evidence": "Commenters brought it up as a delightful example of subtle social engagement."
+    },
+    {
+      "name": "Strava",
+      "category": "Community & Social",
+      "thing_url": "https://www.strava.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48699928",
+      "source_story_title": "Turn your site into a place people can bump into each other",
+      "summary": "Fitness social network cited as a real-world town square for active people.",
+      "why_included": "Commenters said it already functions like the product being discussed.",
+      "evidence": "The thread explicitly noted that Strava can easily function this way and does."
+    },
+    {
+      "name": "Odigo Messenger",
+      "category": "Community & Social",
+      "thing_url": "https://en.wikipedia.org/wiki/Odigo_Messenger",
+      "hn_url": "https://news.ycombinator.com/item?id=48699928",
+      "source_story_title": "Turn your site into a place people can bump into each other",
+      "summary": "Defunct IM service remembered for showing who else was visiting the same site.",
+      "why_included": "A nostalgic commenter highlighted its radar-style shared-presence feature.",
+      "evidence": "The comment called it a favorite late-90s messenger and described the site-visitor radar."
+    },
+    {
+      "name": "antiX",
+      "category": "Linux & Recovery",
+      "thing_url": "https://antixlinux.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48668747",
+      "source_story_title": "Linux on Older Hardware: The Complete Revival Guide",
+      "summary": "Lightweight Debian-based Linux aimed at old and constrained hardware.",
+      "why_included": "A commenter called it the top pick for truly constrained machines.",
+      "evidence": "The thread described antiX as running with about 256MB idle while still offering a full desktop."
+    },
+    {
+      "name": "dotfriedrice",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/nickjj/dotfriedrice",
+      "hn_url": "https://news.ycombinator.com/item?id=48668747",
+      "source_story_title": "Linux on Older Hardware: The Complete Revival Guide",
+      "summary": "One-command Arch/niri desktop bootstrap repo for a polished Linux setup.",
+      "why_included": "A commenter shared it as the setup behind a usable older-hardware desktop.",
+      "evidence": "The comment linked dotfriedrice and described a full desktop stack running on 2014-era hardware."
+    },
+    {
+      "name": "Plex",
+      "category": "Media & Ownership",
+      "thing_url": "https://www.plex.tv/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697335",
+      "source_story_title": "The case for physical media ownership",
+      "summary": "Media server and library platform used as a self-hosted replacement for brittle lockers.",
+      "why_included": "Commenters described moving collections to Plex + NAS.",
+      "evidence": "The physical-media thread cited Plex as the place they moved to after losing trust in licensed lockers."
+    },
+    {
+      "name": "Movies Anywhere",
+      "category": "Media & Ownership",
+      "thing_url": "https://moviesanywhere.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697335",
+      "source_story_title": "The case for physical media ownership",
+      "summary": "Digital locker that syncs purchased films across connected retailers.",
+      "why_included": "Commenters used it as the surviving ownership model in the thread.",
+      "evidence": "The discussion contrasted Movies Anywhere with earlier locker systems as a way to keep bought movies accessible."
+    },
+    {
+      "name": "UltraViolet",
+      "category": "Media & Ownership",
+      "thing_url": "https://en.wikipedia.org/wiki/UltraViolet_(website)",
+      "hn_url": "https://news.ycombinator.com/item?id=48697335",
+      "source_story_title": "The case for physical media ownership",
+      "summary": "Defunct digital rights locker that stored movie and TV purchase receipts.",
+      "why_included": "Commenters used it as the cautionary example in the ownership debate.",
+      "evidence": "A commenter explained UltraViolet’s locker model and noted that the service eventually shut down."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-27T21:23:27Z",
+  "id": "antix",
+  "last_seen_at": "2026-06-27T21:23:27Z",
+  "latest_mention_id": "2026-06-27:antix:48668747",
+  "mention_ids": [
+    "2026-06-27:antix:48668747"
+  ],
+  "name": "antiX",
+  "slug": "antix",
+  "summary": "Lightweight Debian-based Linux aimed at old and constrained hardware.",
+  "thing_url": "https://antixlinux.com/",
+  "times_seen": 1,
+  "why_included": "A commenter called it the top pick for truly constrained machines."
+}
