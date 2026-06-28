@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-28T21:09:22Z",
+  "id": "tor-books-drm-free-ebooks",
+  "last_seen_at": "2026-06-28T21:10:52Z",
+  "latest_mention_id": "2026-06-28:tor-books-drm-free-ebooks:48709186",
+  "mention_ids": [
+    "2026-06-28:tor-books-drm-free-ebooks:48709186"
+  ],
+  "name": "Tor Books DRM-free ebooks",
+  "slug": "tor-books-drm-free-ebooks",
+  "summary": "Tor\u2019s DRM-free ebook catalog and announcement page.",
+  "thing_url": "https://reactormag.com/torforge-e-books-are-now-drm-free/",
+  "times_seen": 2,
+  "why_included": "It is a mainstream publisher path to DRM-free EPUBs without Amazon lock-in."
+}

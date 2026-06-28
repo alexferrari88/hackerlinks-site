@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-28T21:10:52Z",
+  "id": "cory-doctorow-books",
+  "last_seen_at": "2026-06-28T21:10:52Z",
+  "latest_mention_id": "2026-06-28:cory-doctorow-books:48709186",
+  "mention_ids": [
+    "2026-06-28:cory-doctorow-books:48709186"
+  ],
+  "name": "Cory Doctorow books",
+  "slug": "cory-doctorow-books",
+  "summary": "Cory Doctorow\u2019s DRM-free ebook store and direct download formats.",
+  "thing_url": "https://shop.craphound.com/",
+  "times_seen": 1,
+  "why_included": "It is a concrete author store with an explicit no-DRM policy."
+}

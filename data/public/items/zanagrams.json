@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-28T21:09:22Z",
+  "id": "zanagrams",
+  "last_seen_at": "2026-06-28T21:10:52Z",
+  "latest_mention_id": "2026-06-28:zanagrams:48708182",
+  "mention_ids": [
+    "2026-06-28:zanagrams:48708182"
+  ],
+  "name": "Zanagrams",
+  "slug": "zanagrams",
+  "summary": "A word puzzle game where solved letters disappear as you clear the board.",
+  "thing_url": "https://zanagrams.com/",
+  "times_seen": 2,
+  "why_included": "The thread had strong playtest feedback and concrete UX suggestions from players."
+}

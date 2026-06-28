@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "run_date": "2026-06-28",
+  "generated_at": "2026-06-28T21:10:52Z",
+  "summary": "Eight concrete items surfaced from 24 scraped HN front-page stories.",
+  "stories_scraped": 24,
+  "stories_total": 24,
+  "telegram_footer": "8 items surfaced | 24/24 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "category": "Games & Creative",
+      "name": "Zanagrams",
+      "thing_url": "https://zanagrams.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48708182",
+      "source_story_title": "Show HN: Zanagrams",
+      "summary": "A word puzzle game where solved letters disappear as you clear the board.",
+      "why_included": "The thread had strong playtest feedback and concrete UX suggestions from players.",
+      "evidence": "Commenters shared solve times, praised the disappearing-board mechanic, and asked for bonus-word counters."
+    },
+    {
+      "category": "Dev Tools & Systems",
+      "name": "Librepods",
+      "thing_url": "https://github.com/librepods-org/librepods",
+      "hn_url": "https://news.ycombinator.com/item?id=48710232",
+      "source_story_title": "Librepods: AirPods liberated",
+      "summary": "A Rust project that exposes extra AirPods features on non-Apple devices.",
+      "why_included": "It offers practical interoperability value beyond standard Bluetooth support.",
+      "evidence": "Commenters highlighted AI-assisted reverse engineering, multipoint support, and Apple-ecosystem lock-in."
+    },
+    {
+      "category": "Dev Tools & Systems",
+      "name": "The MUMPS 76 Primer – anniversary edition",
+      "thing_url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+      "hn_url": "https://news.ycombinator.com/item?id=48706796",
+      "source_story_title": "The MUMPS 76 Primer – anniversary edition",
+      "summary": "An anniversary primer for the classic MUMPS language/database, with runnable interpreter builds.",
+      "why_included": "The thread mixed historical interest with a still-usable interpreter and long-lived production systems.",
+      "evidence": "Commenters discussed Epic, IRIS, Caché, and how MUMPS systems have survived for decades."
+    },
+    {
+      "category": "Dev Tools & Systems",
+      "name": "NetSurf",
+      "thing_url": "https://www.netsurf-browser.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48709187",
+      "source_story_title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "summary": "A lightweight web browser with a tiny footprint and few dependencies.",
+      "why_included": "HN called out its OpenBSD framebuffer frontend as the practical build.",
+      "evidence": "Commenters recommended the framebuffer frontend to avoid GTK bloat and keep builds lean."
+    },
+    {
+      "category": "Books & Reading",
+      "name": "Cory Doctorow books",
+      "thing_url": "https://shop.craphound.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48709186",
+      "source_story_title": "Show HN: DRM-Free Books",
+      "summary": "Cory Doctorow’s DRM-free ebook store and direct download formats.",
+      "why_included": "It is a concrete author store with an explicit no-DRM policy.",
+      "evidence": "Commenters said all of Doctorow’s books are DRM-free and linked to shop.craphound.com."
+    },
+    {
+      "category": "Books & Reading",
+      "name": "Bookshop.org DRM-free ebooks",
+      "thing_url": "https://bookshop.org/lists/drm-free-ebooks",
+      "hn_url": "https://news.ycombinator.com/item?id=48709186",
+      "source_story_title": "Show HN: DRM-Free Books",
+      "summary": "A Bookshop.org ebook list filtered to DRM-free titles.",
+      "why_included": "It gives readers a direct way to find DRM-free books before checkout.",
+      "evidence": "Commenters pointed to Bookshop’s DRM filter and noted it works well for DRM-free browsing."
+    },
+    {
+      "category": "Books & Reading",
+      "name": "Tor Books DRM-free ebooks",
+      "thing_url": "https://reactormag.com/torforge-e-books-are-now-drm-free/",
+      "hn_url": "https://news.ycombinator.com/item?id=48709186",
+      "source_story_title": "Show HN: DRM-Free Books",
+      "summary": "Tor’s DRM-free ebook catalog and announcement page.",
+      "why_included": "It is a mainstream publisher path to DRM-free EPUBs without Amazon lock-in.",
+      "evidence": "HN commenters said Tor books are DRM-free and can be downloaded from major retailers."
+    },
+    {
+      "category": "Books & Reading",
+      "name": "747: Creating the World's First Jumbo Jet and Other Adventures from a Life in Aviation",
+      "thing_url": "https://archive.org/details/747creatingworld0000sutt",
+      "hn_url": "https://news.ycombinator.com/item?id=48675295",
+      "source_story_title": "The Boeing 747 begins its final descent",
+      "summary": "Joe Sutter’s memoir about building the Boeing 747.",
+      "why_included": "The thread’s top book recommendation for deeper 747 history.",
+      "evidence": "A commenter explicitly told readers to read Sutter’s book for the development stories behind the 747."
+    }
+  ]
+}

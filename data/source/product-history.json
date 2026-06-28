@@ -4423,6 +4423,54 @@
       "first_reported_at": "2026-06-27T21:23:27Z",
       "last_reported_at": "2026-06-27T21:23:27Z",
       "times_reported": 1
+    },
+    {
+      "name": "Zanagrams",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "Librepods",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "The MUMPS 76 Primer – anniversary edition",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "NetSurf",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "Bookshop.org DRM-free ebooks",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "Tor Books DRM-free ebooks",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "747: Creating the World's First Jumbo Jet and Other Adventures from a Life in Aviation",
+      "first_reported_at": "2026-06-28T21:09:22Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 2
+    },
+    {
+      "name": "Cory Doctorow books",
+      "first_reported_at": "2026-06-28T21:10:52Z",
+      "last_reported_at": "2026-06-28T21:10:52Z",
+      "times_reported": 1
     }
   ]
 }

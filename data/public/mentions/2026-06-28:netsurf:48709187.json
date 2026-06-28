@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters recommended the framebuffer frontend to avoid GTK bloat and keep builds lean.",
+  "hn_url": "https://news.ycombinator.com/item?id=48709187",
+  "id": "2026-06-28:netsurf:48709187",
+  "is_repeat": true,
+  "issue_id": "2026-06-28",
+  "item_id": "netsurf",
+  "rank": 4,
+  "seen_at": "2026-06-28T21:10:52Z",
+  "source_story_id": "48709187",
+  "source_story_title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+}

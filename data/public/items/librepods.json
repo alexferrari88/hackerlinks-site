@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-28T21:09:22Z",
+  "id": "librepods",
+  "last_seen_at": "2026-06-28T21:10:52Z",
+  "latest_mention_id": "2026-06-28:librepods:48710232",
+  "mention_ids": [
+    "2026-06-28:librepods:48710232"
+  ],
+  "name": "Librepods",
+  "slug": "librepods",
+  "summary": "A Rust project that exposes extra AirPods features on non-Apple devices.",
+  "thing_url": "https://github.com/librepods-org/librepods",
+  "times_seen": 2,
+  "why_included": "It offers practical interoperability value beyond standard Bluetooth support."
+}
