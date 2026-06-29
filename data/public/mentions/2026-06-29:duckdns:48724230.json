@@ -1,0 +1,12 @@
+{
+  "evidence": "A comment says a <something>.duckdns.org address works fine, framing DuckDNS as a simple self-hosting solution.",
+  "hn_url": "https://news.ycombinator.com/item?id=48724230",
+  "id": "2026-06-29:duckdns:48724230",
+  "is_repeat": false,
+  "issue_id": "2026-06-29",
+  "item_id": "duckdns",
+  "rank": 3,
+  "seen_at": "2026-06-29T21:35:35Z",
+  "source_story_id": "48724230",
+  "source_story_title": ".self: A new top-level domain designed to support self-hosting"
+}

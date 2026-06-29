@@ -1,0 +1,22 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T21:35:35Z",
+  "headline": "9 interesting things surfaced from HN on 2026-06-29",
+  "id": "2026-06-29",
+  "mention_ids": [
+    "2026-06-29:mac-mini-m4:48721903",
+    "2026-06-29:mobaxterm:48720758",
+    "2026-06-29:duckdns:48724230",
+    "2026-06-29:dafny:48719521",
+    "2026-06-29:frama-c:48719521",
+    "2026-06-29:mullvad:48717469",
+    "2026-06-29:proton-vpn:48717469",
+    "2026-06-29:bandcamp:48718840",
+    "2026-06-29:nebula:48718840"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

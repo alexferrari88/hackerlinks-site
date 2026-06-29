@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-29T21:35:35Z",
+  "id": "frama-c",
+  "last_seen_at": "2026-06-29T21:35:35Z",
+  "latest_mention_id": "2026-06-29:frama-c:48719521",
+  "mention_ids": [
+    "2026-06-29:frama-c:48719521"
+  ],
+  "name": "Frama-C",
+  "slug": "frama-c",
+  "summary": "C analysis framework for proving properties and avoiding undefined behavior.",
+  "thing_url": "https://frama-c.com/",
+  "times_seen": 1,
+  "why_included": "It gets cited as a useful way to reason about real C programs before adding new specs."
+}

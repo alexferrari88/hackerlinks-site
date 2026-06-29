@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-29T21:35:35Z",
+  "id": "mac-mini-m4",
+  "last_seen_at": "2026-06-29T21:35:35Z",
+  "latest_mention_id": "2026-06-29:mac-mini-m4:48721903",
+  "mention_ids": [
+    "2026-06-29:mac-mini-m4:48721903"
+  ],
+  "name": "Mac mini M4",
+  "slug": "mac-mini-m4",
+  "summary": "Apple's compact desktop recommended as a quiet local LLM box.",
+  "thing_url": "https://www.apple.com/mac-mini/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommends a Mac mini M4 with 64GB RAM to run Qwen 3.6 locally away from the desk."
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "run_date": "2026-06-29",
+  "generated_at": "2026-06-29T21:35:35Z",
+  "summary": "Compact HN Product Scout with concrete recommendations and alternatives.",
+  "stories_scraped": 25,
+  "stories_total": 25,
+  "telegram_footer": "9 items surfaced | 25/25 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "Mac mini M4",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.apple.com/mac-mini/",
+      "hn_url": "https://news.ycombinator.com/item?id=48721903",
+      "source_story_title": "Qwen 3.6 27B is the sweet spot for local development",
+      "summary": "Apple's compact desktop recommended as a quiet local LLM box.",
+      "why_included": "A commenter explicitly recommends a Mac mini M4 with 64GB RAM to run Qwen 3.6 locally away from the desk.",
+      "evidence": "One commenter says to use a Mac mini M4 with 64GB RAM, keep it in the basement or a few meters away, and connect over LAN or Tailscale for Qwen3.6 27B/35B."
+    },
+    {
+      "name": "MobaXterm",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://mobaxterm.mobatek.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48720758",
+      "source_story_title": "A native graphical shell for SSH",
+      "summary": "SSH client with a file manager and X11 support.",
+      "why_included": "Commenters point to it as an existing SSH GUI shell that already has the requested features.",
+      "evidence": "One commenter says MobaXterm already does this, with a file manager on the side and X11 support."
+    },
+    {
+      "name": "DuckDNS",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://www.duckdns.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48724230",
+      "source_story_title": ".self: A new top-level domain designed to support self-hosting",
+      "summary": "Dynamic DNS service commenters said works fine for self-hosting.",
+      "why_included": "A commenter recommends it as a practical hostname option in the self-hosting discussion.",
+      "evidence": "A comment says a <something>.duckdns.org address works fine, framing DuckDNS as a simple self-hosting solution."
+    },
+    {
+      "name": "Dafny",
+      "category": "Programming & Verification",
+      "thing_url": "https://dafny.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48719521",
+      "source_story_title": "You Don't Know Jack About Formal Verification",
+      "summary": "Verification language used in class for a pseudo digital wallet exercise.",
+      "why_included": "Commenters mention it as a hands-on formal-verification tool people have actually used.",
+      "evidence": "One commenter says they had fun in a college class that used Dafny to build a pseudo digital wallet."
+    },
+    {
+      "name": "Frama-C",
+      "category": "Programming & Verification",
+      "thing_url": "https://frama-c.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48719521",
+      "source_story_title": "You Don't Know Jack About Formal Verification",
+      "summary": "C analysis framework for proving properties and avoiding undefined behavior.",
+      "why_included": "It gets cited as a useful way to reason about real C programs before adding new specs.",
+      "evidence": "A commenter says loading arbitrary C into Frama-C gives you tons of properties to prove and helps guarantee termination and no undefined behavior."
+    },
+    {
+      "name": "Mullvad",
+      "category": "Privacy & Networking",
+      "thing_url": "https://mullvad.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48717469",
+      "source_story_title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "summary": "Privacy VPN people said they were moving to after the controversy.",
+      "why_included": "The thread repeatedly treats Mullvad as the privacy-first alternative people want to keep funding.",
+      "evidence": "Commenters say they use Mullvad because it blocks logging, call it excellent, and discuss moving their money there instead of other VPNs."
+    },
+    {
+      "name": "Proton VPN",
+      "category": "Privacy & Networking",
+      "thing_url": "https://protonvpn.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48717469",
+      "source_story_title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "summary": "Privacy VPN named as the other big alternative in the Mullvad thread.",
+      "why_included": "People compare Mullvad directly against Proton VPN while deciding where to move their money.",
+      "evidence": "A commenter says they are happy with Proton, another says ProtonVPN is the comparison point, and others ask for a good VPN that is neither Mullvad nor Proton."
+    },
+    {
+      "name": "Bandcamp",
+      "category": "Media & Publishing",
+      "thing_url": "https://bandcamp.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48718840",
+      "source_story_title": "Tidal AI Policy",
+      "summary": "Music marketplace people preferred over Spotify for buying music directly.",
+      "why_included": "The thread turns up a concrete alternative for listeners who want to support musicians instead of streaming slop.",
+      "evidence": "One commenter says they are done with Spotify and would rather spend money on Bandcamp; another says you can just buy music directly there."
+    },
+    {
+      "name": "Nebula",
+      "category": "Media & Publishing",
+      "thing_url": "https://nebula.tv/",
+      "hn_url": "https://news.ycombinator.com/item?id=48718840",
+      "source_story_title": "Tidal AI Policy",
+      "summary": "Curated video platform commenters compared favorably with YouTube.",
+      "why_included": "It surfaces as a smaller, less-slop alternative in a media thread that otherwise complains about platform noise.",
+      "evidence": "A commenter says they have similar feelings about Nebula vs YouTube, calling Nebula a smaller, more selective option."
+    }
+  ]
+}

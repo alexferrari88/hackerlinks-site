@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-29T21:35:35Z",
+  "id": "nebula",
+  "last_seen_at": "2026-06-29T21:35:35Z",
+  "latest_mention_id": "2026-06-29:nebula:48718840",
+  "mention_ids": [
+    "2026-06-29:nebula:48718840"
+  ],
+  "name": "Nebula",
+  "slug": "nebula",
+  "summary": "Curated video platform commenters compared favorably with YouTube.",
+  "thing_url": "https://nebula.tv/",
+  "times_seen": 1,
+  "why_included": "It surfaces as a smaller, less-slop alternative in a media thread that otherwise complains about platform noise."
+}

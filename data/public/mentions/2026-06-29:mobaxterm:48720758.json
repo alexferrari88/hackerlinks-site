@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter says MobaXterm already does this, with a file manager on the side and X11 support.",
+  "hn_url": "https://news.ycombinator.com/item?id=48720758",
+  "id": "2026-06-29:mobaxterm:48720758",
+  "is_repeat": false,
+  "issue_id": "2026-06-29",
+  "item_id": "mobaxterm",
+  "rank": 2,
+  "seen_at": "2026-06-29T21:35:35Z",
+  "source_story_id": "48720758",
+  "source_story_title": "A native graphical shell for SSH"
+}

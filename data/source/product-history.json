@@ -4471,6 +4471,60 @@
       "first_reported_at": "2026-06-28T21:10:52Z",
       "last_reported_at": "2026-06-28T21:10:52Z",
       "times_reported": 1
+    },
+    {
+      "name": "Mac mini M4",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MobaXterm",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DuckDNS",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Dafny",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Frama-C",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Mullvad",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Proton VPN",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Bandcamp",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nebula",
+      "first_reported_at": "2026-06-29T21:35:35Z",
+      "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
     }
   ]
 }

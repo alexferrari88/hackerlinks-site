@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-29T21:35:35Z",
+  "id": "proton-vpn",
+  "last_seen_at": "2026-06-29T21:35:35Z",
+  "latest_mention_id": "2026-06-29:proton-vpn:48717469",
+  "mention_ids": [
+    "2026-06-29:proton-vpn:48717469"
+  ],
+  "name": "Proton VPN",
+  "slug": "proton-vpn",
+  "summary": "Privacy VPN named as the other big alternative in the Mullvad thread.",
+  "thing_url": "https://protonvpn.com/",
+  "times_seen": 1,
+  "why_included": "People compare Mullvad directly against Proton VPN while deciding where to move their money."
+}

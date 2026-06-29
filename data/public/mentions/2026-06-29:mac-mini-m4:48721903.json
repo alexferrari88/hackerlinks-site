@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter says to use a Mac mini M4 with 64GB RAM, keep it in the basement or a few meters away, and connect over LAN or Tailscale for Qwen3.6 27B/35B.",
+  "hn_url": "https://news.ycombinator.com/item?id=48721903",
+  "id": "2026-06-29:mac-mini-m4:48721903",
+  "is_repeat": false,
+  "issue_id": "2026-06-29",
+  "item_id": "mac-mini-m4",
+  "rank": 1,
+  "seen_at": "2026-06-29T21:35:35Z",
+  "source_story_id": "48721903",
+  "source_story_title": "Qwen 3.6 27B is the sweet spot for local development"
+}
