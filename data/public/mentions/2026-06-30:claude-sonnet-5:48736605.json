@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters said Sonnet 5 can handle agentic computer use at lower cost than Opus 4.8, though some thought it over-optimizes for autonomous work.",
+  "hn_url": "https://news.ycombinator.com/item?id=48736605",
+  "id": "2026-06-30:claude-sonnet-5:48736605",
+  "is_repeat": false,
+  "issue_id": "2026-06-30",
+  "item_id": "claude-sonnet-5",
+  "rank": 1,
+  "seen_at": "2026-06-30T21:15:09Z",
+  "source_story_id": "48736605",
+  "source_story_title": "Claude Sonnet 5"
+}

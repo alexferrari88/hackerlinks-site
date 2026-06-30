@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-06-30",
+  "generated_at": "2026-06-30T21:15:09Z",
+  "summary": "10 concrete items surfaced from 19 qualifying stories.",
+  "stories_scraped": 19,
+  "stories_total": 19,
+  "telegram_footer": "10 items surfaced | 19/19 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "Claude Sonnet 5",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48736605",
+      "source_story_title": "Claude Sonnet 5",
+      "summary": "Anthropic's agentic Sonnet model for browser, terminal, and planning workflows.",
+      "why_included": "Commenters framed it as the cheaper, more agentic middle ground versus Opus.",
+      "evidence": "HN commenters said Sonnet 5 can handle agentic computer use at lower cost than Opus 4.8, though some thought it over-optimizes for autonomous work."
+    },
+    {
+      "name": "Claude Science",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://claude.com/product/claude-science",
+      "hn_url": "https://news.ycombinator.com/item?id=48735770",
+      "source_story_title": "Claude Science",
+      "summary": "Anthropic's science-focused assistant and workspace for research and data tasks.",
+      "why_included": "The thread highlighted its browser-based, tool-connected workflow for scientific users.",
+      "evidence": "A commenter said the integrations with databases, computational tools, and institutional clusters are the real value, even beyond plotting and papers."
+    },
+    {
+      "name": "Biomni HPC",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://biomni.stanford.edu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48735770",
+      "source_story_title": "Claude Science",
+      "summary": "A biomedical AI/HPC platform that gives agents access to tools, databases, and cluster jobs.",
+      "why_included": "A connected-tool author called the integration layer the hard part and the valuable part.",
+      "evidence": "The thread said Biomni makes tool/database/HPC integration usable for bioinformatics and can shorten the path from question to result."
+    },
+    {
+      "name": "Knoppix",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://www.knopper.net/knoppix/index-en.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48732056",
+      "source_story_title": "Knoppix",
+      "summary": "The classic bootable Linux live CD for rescue and tinkering.",
+      "why_included": "The discussion was packed with first-Linux memories and recovery workflows.",
+      "evidence": "Commenters recalled Knoppix as their first Linux system and a safe way to experiment without touching hard drives."
+    },
+    {
+      "name": "ZLUDA 6 release",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=48730713",
+      "source_story_title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "summary": "A CUDA translation layer that runs unmodified CUDA apps on non-Nvidia GPUs.",
+      "why_included": "HN focused on the compatibility gains and the practical edge cases it unlocks.",
+      "evidence": "Comments highlighted the new textures, PhysX, and Windows support, and debated whether ZLUDA can loosen Nvidia's CUDA lock-in."
+    },
+    {
+      "name": "Dyson Sphere Program",
+      "category": "Games & Systems",
+      "thing_url": "https://store.steampowered.com/app/1366540/Dyson_Sphere_Program",
+      "hn_url": "https://news.ycombinator.com/item?id=48697107",
+      "source_story_title": "Factorio 2.1 Experimental Release",
+      "summary": "A sci-fi factory game about scaling from a workshop to a galaxy-wide industrial empire.",
+      "why_included": "Factorio fans recommended it as the fresher, more techno-optimistic alternative.",
+      "evidence": "Commenters said it captures Factorio's core loop with a fresh spin and praised its scale and multiplayer support."
+    },
+    {
+      "name": "1.38 Millimeter Microcontroller",
+      "category": "Hardware & Maker",
+      "thing_url": "https://www.ti.com/product/MSPM0C1104",
+      "hn_url": "https://news.ycombinator.com/item?id=48688685",
+      "source_story_title": "1.38 Millimeter Microcontroller",
+      "summary": "TI's tiny MSPM0C1104 microcontroller for ultra-low-cost embedded projects.",
+      "why_included": "Commenters treated it as serious jellybean silicon, not a novelty part.",
+      "evidence": "The thread called it TI's answer to the CH32V003, Puya PY32, and STM32C0 class, while noting the tight SRAM budget."
+    },
+    {
+      "name": "I built a mmWave material classification radar",
+      "category": "Hardware & Maker",
+      "thing_url": "https://gauthier-lechevalier.com/radar",
+      "hn_url": "https://news.ycombinator.com/item?id=48736137",
+      "source_story_title": "I built a mmWave material classification radar",
+      "summary": "A DIY mmWave radar project that classifies materials.",
+      "why_included": "The project drew strong interest despite skepticism about the proof-of-concept gap.",
+      "evidence": "Commenters called it very cool and super cool, while debating whether it had actually proven the material-detection use case."
+    },
+    {
+      "name": "Building a custom octocopter from scratch with no prior hardware experience",
+      "category": "Hardware & Maker",
+      "thing_url": "https://karolina.mgdubiel.com/drone/",
+      "hn_url": "https://news.ycombinator.com/item?id=48704289",
+      "source_story_title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "summary": "A from-scratch octocopter build that documents the mechanics and trade-offs.",
+      "why_included": "The thread got praise for the ambitious build and the design details.",
+      "evidence": "HN commenters called it a super cool project and discussed frame materials, filament, and CNC choices."
+    },
+    {
+      "name": "Open Source Low Tech",
+      "category": "Hardware & Maker",
+      "thing_url": "https://opensourcelowtech.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48683098",
+      "source_story_title": "Open Source Low Tech",
+      "summary": "A catalog of open-source, low-tech designs for practical local fabrication.",
+      "why_included": "Commenters liked the self-sufficiency angle and the build-it-locally mindset.",
+      "evidence": "Discussion praised teaching communities to build and repair locally instead of depending on shipped materials."
+    }
+  ]
+}

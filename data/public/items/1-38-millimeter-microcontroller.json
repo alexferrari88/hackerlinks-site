@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "1-38-millimeter-microcontroller",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:1-38-millimeter-microcontroller:48688685",
+  "mention_ids": [
+    "2026-06-30:1-38-millimeter-microcontroller:48688685"
+  ],
+  "name": "1.38 Millimeter Microcontroller",
+  "slug": "1-38-millimeter-microcontroller",
+  "summary": "TI's tiny MSPM0C1104 microcontroller for ultra-low-cost embedded projects.",
+  "thing_url": "https://www.ti.com/product/MSPM0C1104",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as serious jellybean silicon, not a novelty part."
+}

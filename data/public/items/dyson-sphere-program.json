@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "dyson-sphere-program",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:dyson-sphere-program:48697107",
+  "mention_ids": [
+    "2026-06-30:dyson-sphere-program:48697107"
+  ],
+  "name": "Dyson Sphere Program",
+  "slug": "dyson-sphere-program",
+  "summary": "A sci-fi factory game about scaling from a workshop to a galaxy-wide industrial empire.",
+  "thing_url": "https://store.steampowered.com/app/1366540/Dyson_Sphere_Program",
+  "times_seen": 1,
+  "why_included": "Factorio fans recommended it as the fresher, more techno-optimistic alternative."
+}

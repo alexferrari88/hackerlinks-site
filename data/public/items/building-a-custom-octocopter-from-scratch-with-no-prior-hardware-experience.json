@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "building-a-custom-octocopter-from-scratch-with-no-prior-hardware-experience",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:building-a-custom-octocopter-from-scratch-with-no-prior-hardware-experience:48704289",
+  "mention_ids": [
+    "2026-06-30:building-a-custom-octocopter-from-scratch-with-no-prior-hardware-experience:48704289"
+  ],
+  "name": "Building a custom octocopter from scratch with no prior hardware experience",
+  "slug": "building-a-custom-octocopter-from-scratch-with-no-prior-hardware-experience",
+  "summary": "A from-scratch octocopter build that documents the mechanics and trade-offs.",
+  "thing_url": "https://karolina.mgdubiel.com/drone/",
+  "times_seen": 1,
+  "why_included": "The thread got praise for the ambitious build and the design details."
+}

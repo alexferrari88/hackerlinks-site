@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "zluda-6-release",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:zluda-6-release:48730713",
+  "mention_ids": [
+    "2026-06-30:zluda-6-release:48730713"
+  ],
+  "name": "ZLUDA 6 release",
+  "slug": "zluda-6-release",
+  "summary": "A CUDA translation layer that runs unmodified CUDA apps on non-Nvidia GPUs.",
+  "thing_url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+  "times_seen": 1,
+  "why_included": "HN focused on the compatibility gains and the practical edge cases it unlocks."
+}

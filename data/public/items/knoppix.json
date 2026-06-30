@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "knoppix",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:knoppix:48732056",
+  "mention_ids": [
+    "2026-06-30:knoppix:48732056"
+  ],
+  "name": "Knoppix",
+  "slug": "knoppix",
+  "summary": "The classic bootable Linux live CD for rescue and tinkering.",
+  "thing_url": "https://www.knopper.net/knoppix/index-en.html",
+  "times_seen": 1,
+  "why_included": "The discussion was packed with first-Linux memories and recovery workflows."
+}

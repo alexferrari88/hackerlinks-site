@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "open-source-low-tech",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:open-source-low-tech:48683098",
+  "mention_ids": [
+    "2026-06-30:open-source-low-tech:48683098"
+  ],
+  "name": "Open Source Low Tech",
+  "slug": "open-source-low-tech",
+  "summary": "A catalog of open-source, low-tech designs for practical local fabrication.",
+  "thing_url": "https://opensourcelowtech.org/",
+  "times_seen": 1,
+  "why_included": "Commenters liked the self-sufficiency angle and the build-it-locally mindset."
+}

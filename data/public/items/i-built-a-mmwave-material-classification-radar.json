@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "i-built-a-mmwave-material-classification-radar",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:i-built-a-mmwave-material-classification-radar:48736137",
+  "mention_ids": [
+    "2026-06-30:i-built-a-mmwave-material-classification-radar:48736137"
+  ],
+  "name": "I built a mmWave material classification radar",
+  "slug": "i-built-a-mmwave-material-classification-radar",
+  "summary": "A DIY mmWave radar project that classifies materials.",
+  "thing_url": "https://gauthier-lechevalier.com/radar",
+  "times_seen": 1,
+  "why_included": "The project drew strong interest despite skepticism about the proof-of-concept gap."
+}

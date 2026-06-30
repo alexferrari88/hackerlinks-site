@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "claude-science",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:claude-science:48735770",
+  "mention_ids": [
+    "2026-06-30:claude-science:48735770"
+  ],
+  "name": "Claude Science",
+  "slug": "claude-science",
+  "summary": "Anthropic's science-focused assistant and workspace for research and data tasks.",
+  "thing_url": "https://claude.com/product/claude-science",
+  "times_seen": 1,
+  "why_included": "The thread highlighted its browser-based, tool-connected workflow for scientific users."
+}

@@ -4525,6 +4525,66 @@
       "first_reported_at": "2026-06-29T21:35:35Z",
       "last_reported_at": "2026-06-29T21:35:35Z",
       "times_reported": 1
+    },
+    {
+      "name": "Claude Sonnet 5",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Claude Science",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Biomni HPC",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Knoppix",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ZLUDA 6 release",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Dyson Sphere Program",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "1.38 Millimeter Microcontroller",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "I built a mmWave material classification radar",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Building a custom octocopter from scratch with no prior hardware experience",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open Source Low Tech",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
     }
   ]
 }

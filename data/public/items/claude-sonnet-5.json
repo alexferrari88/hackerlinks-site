@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "claude-sonnet-5",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:claude-sonnet-5:48736605",
+  "mention_ids": [
+    "2026-06-30:claude-sonnet-5:48736605"
+  ],
+  "name": "Claude Sonnet 5",
+  "slug": "claude-sonnet-5",
+  "summary": "Anthropic's agentic Sonnet model for browser, terminal, and planning workflows.",
+  "thing_url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "times_seen": 1,
+  "why_included": "Commenters framed it as the cheaper, more agentic middle ground versus Opus."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "Comments highlighted the new textures, PhysX, and Windows support, and debated whether ZLUDA can loosen Nvidia's CUDA lock-in.",
+  "hn_url": "https://news.ycombinator.com/item?id=48730713",
+  "id": "2026-06-30:zluda-6-release:48730713",
+  "is_repeat": false,
+  "issue_id": "2026-06-30",
+  "item_id": "zluda-6-release",
+  "rank": 5,
+  "seen_at": "2026-06-30T21:15:09Z",
+  "source_story_id": "48730713",
+  "source_story_title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)"
+}

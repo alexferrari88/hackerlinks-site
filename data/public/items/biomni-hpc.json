@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-06-30T21:15:09Z",
+  "id": "biomni-hpc",
+  "last_seen_at": "2026-06-30T21:15:09Z",
+  "latest_mention_id": "2026-06-30:biomni-hpc:48735770",
+  "mention_ids": [
+    "2026-06-30:biomni-hpc:48735770"
+  ],
+  "name": "Biomni HPC",
+  "slug": "biomni-hpc",
+  "summary": "A biomedical AI/HPC platform that gives agents access to tools, databases, and cluster jobs.",
+  "thing_url": "https://biomni.stanford.edu/",
+  "times_seen": 1,
+  "why_included": "A connected-tool author called the integration layer the hard part and the valuable part."
+}
