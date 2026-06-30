@@ -18,7 +18,7 @@ import {
   itemHref,
 } from "@/lib/site-data";
 import { buildPageMetadata, dataCatalogJsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
-import { SITE_TAGLINE } from "@/lib/site-config";
+import { SITE_TAGLINE, TELEGRAM_BOT_URL } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
   title: "Developer tools surfaced from Hacker News",
@@ -56,10 +56,23 @@ export default function HomePage() {
         eyebrow="Hacker News Distilled"
         title={SITE_TAGLINE}
         summary={
-          <p>
-            HackerLinks is a source-linked archive of tools, libraries, apps, books, and other
-            concrete things that developers keep surfacing in real Hacker News threads.
-          </p>
+          <>
+            <p>
+              HackerLinks is a source-linked archive of tools, libraries, apps, books, and other
+              concrete things that developers keep surfacing in real Hacker News threads.
+            </p>
+            <a
+              href={TELEGRAM_BOT_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group mt-4 inline-flex items-center gap-2 border-2 border-[var(--border)] bg-[var(--surface)] px-3 py-2 font-mono text-xs font-bold uppercase tracking-[0.12em] text-[var(--foreground)] shadow-[3px_3px_0_0_var(--shadow-color)] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:bg-[var(--primary)] hover:text-[var(--primary-foreground)] hover:shadow-[5px_5px_0_0_var(--shadow-color)]"
+            >
+              <span>Telegram digest</span>
+              <span className="font-sans normal-case tracking-normal text-[var(--muted-foreground)] group-hover:text-[var(--primary-foreground)]">
+                @hn_links_bot
+              </span>
+            </a>
+          </>
         }
         meta={[
           { label: "Issue", value: latestIssue.date, accent: true },
