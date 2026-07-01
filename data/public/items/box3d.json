@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-01T21:11:31Z",
+  "id": "box3d",
+  "last_seen_at": "2026-07-01T21:11:31Z",
+  "latest_mention_id": "2026-07-01:box3d:48745445",
+  "mention_ids": [
+    "2026-07-01:box3d:48745445"
+  ],
+  "name": "Box3D",
+  "slug": "box3d",
+  "summary": "An open-source 3D physics engine from the Box2D author.",
+  "thing_url": "https://github.com/erincatto/box3d",
+  "times_seen": 1,
+  "why_included": "HN immediately treated it as a serious sibling to Box2D."
+}

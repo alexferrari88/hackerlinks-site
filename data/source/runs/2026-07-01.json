@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "run_date": "2026-07-01",
+  "generated_at": "2026-07-01T21:11:31Z",
+  "summary": "Eight concrete items surfaced from today's HN front page.",
+  "stories_scraped": 24,
+  "stories_total": 24,
+  "telegram_footer": "8 items surfaced | 24/24 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "ZCode",
+      "category": "AI & Local Models",
+      "thing_url": "https://zcode.z.ai/cn",
+      "hn_url": "https://news.ycombinator.com/item?id=48751752",
+      "source_story_title": "ZCode: Claude Code from the Makers of GLM",
+      "summary": "A Claude Code-style desktop app from the GLM team.",
+      "why_included": "HN commenters compared it to Mimo Code and discussed SSH, Docker, and VM workflows.",
+      "evidence": "Replies focused on headless-versus-desktop use, remote hosts, and whether telemetry or open source should matter."
+    },
+    {
+      "name": "Parsewise",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.parsewise.ai/api",
+      "hn_url": "https://news.ycombinator.com/item?id=48746752",
+      "source_story_title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "summary": "An API for reasoning across document buckets with traceable lineage.",
+      "why_included": "Commenters treated validation and provenance as the product’s core value.",
+      "evidence": "Replies compared it to Struktur and asked how it handles endless file-type combinations and custom instructions."
+    },
+    {
+      "name": "Z-Jail",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/Division-36/Z-Jail/",
+      "hn_url": "https://news.ycombinator.com/item?id=48751824",
+      "source_story_title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+      "summary": "A 130 KB Linux sandbox for CI and code evaluation.",
+      "why_included": "Commenters zeroed in on its syscall allowlist and security use cases.",
+      "evidence": "Replies debated how strict it is, whether security code can be readable, and whether CI runners need such tight isolation."
+    },
+    {
+      "name": "Box3D",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/erincatto/box3d",
+      "hn_url": "https://news.ycombinator.com/item?id=48745445",
+      "source_story_title": "Box3D, an open source 3D physics engine",
+      "summary": "An open-source 3D physics engine from the Box2D author.",
+      "why_included": "HN immediately treated it as a serious sibling to Box2D.",
+      "evidence": "Replies linked the GitHub repo and talked about Erin Catto, Angry Birds physics, and the library’s pedigree."
+    },
+    {
+      "name": "Monetization Gateway",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://blog.cloudflare.com/monetization-gateway/",
+      "hn_url": "https://news.ycombinator.com/item?id=48746914",
+      "source_story_title": "Monetization Gateway",
+      "summary": "Cloudflare’s payment gate for AI agents and web traffic.",
+      "why_included": "The thread quickly centered on x402, spam economics, and centralization risk.",
+      "evidence": "Commenters debated whether this becomes a web payment layer or a new bottleneck for bots, privacy, and publishers."
+    },
+    {
+      "name": "Simple Made Easy",
+      "category": "Books & Learning",
+      "thing_url": "https://youtu.be/SxdOUGdseq4",
+      "hn_url": "https://news.ycombinator.com/item?id=48750710",
+      "source_story_title": "What to Learn to Be a Graphics Programmer",
+      "summary": "Rich Hickey’s talk on simplicity versus ease.",
+      "why_included": "A commenter singled it out as a classic that still shapes design choices.",
+      "evidence": "The thread explicitly linked the talk and described it as still influencing how one commenter designs software."
+    },
+    {
+      "name": "Essential Mathematics for Games and Interactive Applications",
+      "category": "Books & Learning",
+      "thing_url": "https://www.essentialmath.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48750710",
+      "source_story_title": "What to Learn to Be a Graphics Programmer",
+      "summary": "A game-programming math book for graphics and simulation.",
+      "why_included": "Graphics-programming commenters recommended it as the math foundation to learn next.",
+      "evidence": "Replies pointed to it after discussing SDL3 GPU, Odin, and other graphics learning resources."
+    },
+    {
+      "name": "Children of Time",
+      "category": "Books & Learning",
+      "thing_url": "https://www.panmacmillan.com/authors/adrian-tchaikovsky/children-of-time/9781035076192",
+      "hn_url": "https://news.ycombinator.com/item?id=48711052",
+      "source_story_title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "summary": "Adrian Tchaikovsky’s science-fiction novel about evolving spiders.",
+      "why_included": "The spider thread turned into a strong book recommendation pile.",
+      "evidence": "Multiple commenters said 'Children of Time' is fantastic, seconded it, and ranked it among their best reads."
+    }
+  ]
+}

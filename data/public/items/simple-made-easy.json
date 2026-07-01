@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-01T21:11:31Z",
+  "id": "simple-made-easy",
+  "last_seen_at": "2026-07-01T21:11:31Z",
+  "latest_mention_id": "2026-07-01:simple-made-easy:48750710",
+  "mention_ids": [
+    "2026-07-01:simple-made-easy:48750710"
+  ],
+  "name": "Simple Made Easy",
+  "slug": "simple-made-easy",
+  "summary": "Rich Hickey\u2019s talk on simplicity versus ease.",
+  "thing_url": "https://youtu.be/SxdOUGdseq4",
+  "times_seen": 1,
+  "why_included": "A commenter singled it out as a classic that still shapes design choices."
+}

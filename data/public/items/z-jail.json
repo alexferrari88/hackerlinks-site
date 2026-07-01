@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-01T21:11:31Z",
+  "id": "z-jail",
+  "last_seen_at": "2026-07-01T21:11:31Z",
+  "latest_mention_id": "2026-07-01:z-jail:48751824",
+  "mention_ids": [
+    "2026-07-01:z-jail:48751824"
+  ],
+  "name": "Z-Jail",
+  "slug": "z-jail",
+  "summary": "A 130 KB Linux sandbox for CI and code evaluation.",
+  "thing_url": "https://github.com/Division-36/Z-Jail/",
+  "times_seen": 1,
+  "why_included": "Commenters zeroed in on its syscall allowlist and security use cases."
+}

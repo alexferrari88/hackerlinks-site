@@ -1,0 +1,12 @@
+{
+  "evidence": "Replies debated how strict it is, whether security code can be readable, and whether CI runners need such tight isolation.",
+  "hn_url": "https://news.ycombinator.com/item?id=48751824",
+  "id": "2026-07-01:z-jail:48751824",
+  "is_repeat": false,
+  "issue_id": "2026-07-01",
+  "item_id": "z-jail",
+  "rank": 3,
+  "seen_at": "2026-07-01T21:11:31Z",
+  "source_story_id": "48751824",
+  "source_story_title": "Show HN: Z-Jail \u2013 A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps"
+}

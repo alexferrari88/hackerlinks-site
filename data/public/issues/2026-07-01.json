@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T21:11:31Z",
+  "headline": "8 interesting things surfaced from HN on 2026-07-01",
+  "id": "2026-07-01",
+  "mention_ids": [
+    "2026-07-01:zcode:48751752",
+    "2026-07-01:parsewise:48746752",
+    "2026-07-01:z-jail:48751824",
+    "2026-07-01:box3d:48745445",
+    "2026-07-01:monetization-gateway:48746914",
+    "2026-07-01:simple-made-easy:48750710",
+    "2026-07-01:essential-mathematics-for-games-and-interactive-applications:48750710",
+    "2026-07-01:children-of-time:48711052"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
