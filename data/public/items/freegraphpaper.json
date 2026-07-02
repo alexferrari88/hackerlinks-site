@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "freegraphpaper",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:freegraphpaper:48761294",
+  "mention_ids": [
+    "2026-07-02:freegraphpaper:48761294"
+  ],
+  "name": "FreeGraphPaper",
+  "slug": "freegraphpaper",
+  "summary": "Browser-based graph paper generator that outputs true-to-scale PDFs.",
+  "thing_url": "https://freegraphpaper.net/",
+  "times_seen": 1,
+  "why_included": "Simple utility with clear user demand for export and extra grid types."
+}

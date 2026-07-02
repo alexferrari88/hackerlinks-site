@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "podman",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:podman:48762098",
+  "mention_ids": [
+    "2026-07-02:podman:48762098"
+  ],
+  "name": "Podman",
+  "slug": "podman",
+  "summary": "Container tool update; commenters praised easy Docker Desktop migrations and rootless workflows.",
+  "thing_url": "https://podman.io/",
+  "times_seen": 1,
+  "why_included": "Strong adoption signal from people actually switching to Podman."
+}

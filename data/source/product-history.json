@@ -4633,6 +4633,60 @@
       "first_reported_at": "2026-07-01T21:11:31Z",
       "last_reported_at": "2026-07-01T21:11:31Z",
       "times_reported": 1
+    },
+    {
+      "name": "Podman",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "PeerTube",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Manufact",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "slopo",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SailfishOS",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Librem 5",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "EXAPUNKS",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "U.V.S. Nirmana",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "FreeGraphPaper",
+      "first_reported_at": "2026-07-02T21:12:46Z",
+      "last_reported_at": "2026-07-02T21:12:46Z",
+      "times_reported": 1
     }
   ]
 }

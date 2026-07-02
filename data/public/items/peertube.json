@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "peertube",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:peertube:48759634",
+  "mention_ids": [
+    "2026-07-02:peertube:48759634"
+  ],
+  "name": "PeerTube",
+  "slug": "peertube",
+  "summary": "Federated video platform for running your own video site.",
+  "thing_url": "https://joinpeertube.org/",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a realistic own-your-distribution alternative to YouTube."
+}

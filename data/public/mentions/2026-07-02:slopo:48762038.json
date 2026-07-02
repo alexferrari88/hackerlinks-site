@@ -1,0 +1,12 @@
+{
+  "evidence": "The author said it finds similar-looking code with embeddings, and commenters asked about function granularity, dependencies, and BM25 baselines.",
+  "hn_url": "https://news.ycombinator.com/item?id=48762038",
+  "id": "2026-07-02:slopo:48762038",
+  "is_repeat": false,
+  "issue_id": "2026-07-02",
+  "item_id": "slopo",
+  "rank": 4,
+  "seen_at": "2026-07-02T21:12:46Z",
+  "source_story_id": "48762038",
+  "source_story_title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models"
+}

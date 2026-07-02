@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T21:12:46Z",
+  "headline": "9 interesting things surfaced from HN on 2026-07-02",
+  "id": "2026-07-02",
+  "mention_ids": [
+    "2026-07-02:podman:48762098",
+    "2026-07-02:peertube:48759634",
+    "2026-07-02:manufact:48762862",
+    "2026-07-02:slopo:48762038",
+    "2026-07-02:sailfishos:48755965",
+    "2026-07-02:librem-5:48755965",
+    "2026-07-02:exapunks:48765663",
+    "2026-07-02:u-v-s-nirmana:48765663",
+    "2026-07-02:freegraphpaper:48761294"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

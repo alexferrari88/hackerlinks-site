@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "run_date": "2026-07-02",
+  "generated_at": "2026-07-02T21:12:46Z",
+  "summary": "9 items surfaced from 23 qualifying stories.",
+  "stories_scraped": 23,
+  "stories_total": 23,
+  "items": [
+    {
+      "name": "Podman",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://podman.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48762098",
+      "source_story_title": "Podman v6.0.0",
+      "summary": "Container tool update; commenters praised easy Docker Desktop migrations and rootless workflows.",
+      "why_included": "Strong adoption signal from people actually switching to Podman.",
+      "evidence": "Several commenters said moving from Docker Desktop was easy and that Podman was a better implementation, with zero-compose changes and less daemon overhead."
+    },
+    {
+      "name": "PeerTube",
+      "category": "Media & Publishing",
+      "thing_url": "https://joinpeertube.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48759634",
+      "source_story_title": "PeerTube is a free, decentralized and federated video platform",
+      "summary": "Federated video platform for running your own video site.",
+      "why_included": "Commenters treated it as a realistic own-your-distribution alternative to YouTube.",
+      "evidence": "Replies pointed to KDE and Blender instances, and argued that owning your own domain and hosting channel is the point."
+    },
+    {
+      "name": "Manufact",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://manufact.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48762862",
+      "source_story_title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "summary": "MCP cloud platform for deploying and monetizing MCP servers.",
+      "why_included": "Launch thread had concrete questions about marketplace distribution and monetization.",
+      "evidence": "Commenters asked about OpenAI and Claude store apps plus monetization, and the founders answered with pricing and credits details."
+    },
+    {
+      "name": "slopo",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/rafal-qa/slopo",
+      "hn_url": "https://news.ycombinator.com/item?id=48762038",
+      "source_story_title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "summary": "Embedding-based code duplication detector for non-exact clones.",
+      "why_included": "Solid utility with clear use case and immediate technical feedback.",
+      "evidence": "The author said it finds similar-looking code with embeddings, and commenters asked about function granularity, dependencies, and BM25 baselines."
+    },
+    {
+      "name": "SailfishOS",
+      "category": "Privacy & Networking",
+      "thing_url": "https://sailfishos.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48755965",
+      "source_story_title": "Android Developer Verification: Threat masquerading as protection",
+      "summary": "Linux mobile OS that commenters cited as a real Android alternative.",
+      "why_included": "Positive mobile-Linux alternative surfaced from a large security-policy thread.",
+      "evidence": "Commenters called out SailfishOS as one of the actual Linux OSes for mobile, and another said they liked using it."
+    },
+    {
+      "name": "Librem 5",
+      "category": "Privacy & Networking",
+      "thing_url": "https://puri.sm/products/librem-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48755965",
+      "source_story_title": "Android Developer Verification: Threat masquerading as protection",
+      "summary": "Privacy-focused Linux phone that one commenter uses as their daily handset.",
+      "why_included": "Concrete hardware recommendation from the same mobile-platform discussion.",
+      "evidence": "A commenter said they use a Librem 5 daily, noted PureOS is actively developed, and tied it to Waydroid/PureOS."
+    },
+    {
+      "name": "EXAPUNKS",
+      "category": "Games & Systems",
+      "thing_url": "https://www.zachtronics.com/exapunks/",
+      "hn_url": "https://news.ycombinator.com/item?id=48765663",
+      "source_story_title": "Exapunks (2018)",
+      "summary": "Programming puzzle game that still gets love from Zachtronics fans.",
+      "why_included": "Classic game with explicit praise and companion recommendations.",
+      "evidence": "Fans called it an all-time favorite and compared it with Shenzhen I/O, TIS-100, and SpaceChem."
+    },
+    {
+      "name": "U.V.S. Nirmana",
+      "category": "Games & Systems",
+      "thing_url": "https://coincidence.games/uvs-nirmana/",
+      "hn_url": "https://news.ycombinator.com/item?id=48765663",
+      "source_story_title": "Exapunks (2018)",
+      "summary": "Engineering puzzle game from Coincidence, the new Zachtronics-adjacent release.",
+      "why_included": "Fresh concrete follow-on recommendation from the Exapunks thread.",
+      "evidence": "A commenter said Coincidence had just come out with a spacecraft engineering puzzle game and linked U.V.S. Nirmana."
+    },
+    {
+      "name": "FreeGraphPaper",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://freegraphpaper.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48761294",
+      "source_story_title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+      "summary": "Browser-based graph paper generator that outputs true-to-scale PDFs.",
+      "why_included": "Simple utility with clear user demand for export and extra grid types.",
+      "evidence": "Commenters asked for SVG export, hex grids, plotter support, and praised the tool’s usefulness and polish."
+    }
+  ],
+  "telegram_footer": "9 items surfaced | 23/23 stories scraped | history + run artifact updated"
+}

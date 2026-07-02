@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "manufact",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:manufact:48762862",
+  "mention_ids": [
+    "2026-07-02:manufact:48762862"
+  ],
+  "name": "Manufact",
+  "slug": "manufact",
+  "summary": "MCP cloud platform for deploying and monetizing MCP servers.",
+  "thing_url": "https://manufact.com/",
+  "times_seen": 1,
+  "why_included": "Launch thread had concrete questions about marketplace distribution and monetization."
+}

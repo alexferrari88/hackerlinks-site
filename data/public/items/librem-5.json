@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "librem-5",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:librem-5:48755965",
+  "mention_ids": [
+    "2026-07-02:librem-5:48755965"
+  ],
+  "name": "Librem 5",
+  "slug": "librem-5",
+  "summary": "Privacy-focused Linux phone that one commenter uses as their daily handset.",
+  "thing_url": "https://puri.sm/products/librem-5",
+  "times_seen": 1,
+  "why_included": "Concrete hardware recommendation from the same mobile-platform discussion."
+}

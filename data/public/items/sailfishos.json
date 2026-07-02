@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "sailfishos",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:sailfishos:48755965",
+  "mention_ids": [
+    "2026-07-02:sailfishos:48755965"
+  ],
+  "name": "SailfishOS",
+  "slug": "sailfishos",
+  "summary": "Linux mobile OS that commenters cited as a real Android alternative.",
+  "thing_url": "https://sailfishos.org/",
+  "times_seen": 1,
+  "why_included": "Positive mobile-Linux alternative surfaced from a large security-policy thread."
+}

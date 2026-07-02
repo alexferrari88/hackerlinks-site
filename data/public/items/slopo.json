@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-02T21:12:46Z",
+  "id": "slopo",
+  "last_seen_at": "2026-07-02T21:12:46Z",
+  "latest_mention_id": "2026-07-02:slopo:48762038",
+  "mention_ids": [
+    "2026-07-02:slopo:48762038"
+  ],
+  "name": "slopo",
+  "slug": "slopo",
+  "summary": "Embedding-based code duplication detector for non-exact clones.",
+  "thing_url": "https://github.com/rafal-qa/slopo",
+  "times_seen": 1,
+  "why_included": "Solid utility with clear use case and immediate technical feedback."
+}

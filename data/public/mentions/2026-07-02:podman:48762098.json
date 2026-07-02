@@ -1,0 +1,12 @@
+{
+  "evidence": "Several commenters said moving from Docker Desktop was easy and that Podman was a better implementation, with zero-compose changes and less daemon overhead.",
+  "hn_url": "https://news.ycombinator.com/item?id=48762098",
+  "id": "2026-07-02:podman:48762098",
+  "is_repeat": false,
+  "issue_id": "2026-07-02",
+  "item_id": "podman",
+  "rank": 1,
+  "seen_at": "2026-07-02T21:12:46Z",
+  "source_story_id": "48762098",
+  "source_story_title": "Podman v6.0.0"
+}
