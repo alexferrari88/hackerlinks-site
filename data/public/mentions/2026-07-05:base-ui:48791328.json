@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they started using Base UI early and found the primitives very pleasant to work with.",
+  "hn_url": "https://news.ycombinator.com/item?id=48791328",
+  "id": "2026-07-05:base-ui:48791328",
+  "is_repeat": false,
+  "issue_id": "2026-07-05",
+  "item_id": "base-ui",
+  "rank": 3,
+  "seen_at": "2026-07-05T21:17:49Z",
+  "source_story_id": "48791328",
+  "source_story_title": "Shadcn/UI now defaults to Base UI instead of Radix"
+}

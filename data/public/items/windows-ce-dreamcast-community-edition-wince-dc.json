@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "windows-ce-dreamcast-community-edition-wince-dc",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:windows-ce-dreamcast-community-edition-wince-dc:48785840",
+  "mention_ids": [
+    "2026-07-04:windows-ce-dreamcast-community-edition-wince-dc:48785840"
+  ],
+  "name": "Windows CE Dreamcast Community Edition (wince-dc)",
+  "slug": "windows-ce-dreamcast-community-edition-wince-dc",
+  "summary": "A Windows CE port for Dreamcast with a one-command build path.",
+  "thing_url": "https://github.com/maximqaxd/wince-dc",
+  "times_seen": 1,
+  "why_included": "Commenters highlighted how little setup it needs compared with older Windows CE workflows."
+}

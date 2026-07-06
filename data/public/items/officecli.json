@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "officecli",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:officecli:48807225",
+  "mention_ids": [
+    "2026-07-06:officecli:48807225"
+  ],
+  "name": "OfficeCLI",
+  "slug": "officecli",
+  "summary": "OfficeCLI lets AI agents read and edit Microsoft Office files.",
+  "thing_url": "https://github.com/iOfficeAI/OfficeCLI",
+  "times_seen": 1,
+  "why_included": "The discussion surfaced compliance details and real alternatives, which made it feel concrete."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said they have used Lua filters for seven years and they still run fine when updating Pandoc.",
+  "hn_url": "https://news.ycombinator.com/item?id=48773079",
+  "id": "2026-07-05:pandoc-lua-filters:48773079",
+  "is_repeat": false,
+  "issue_id": "2026-07-05",
+  "item_id": "pandoc-lua-filters",
+  "rank": 8,
+  "seen_at": "2026-07-05T21:17:49Z",
+  "source_story_id": "48773079",
+  "source_story_title": "Pandoc Lua Filters"
+}

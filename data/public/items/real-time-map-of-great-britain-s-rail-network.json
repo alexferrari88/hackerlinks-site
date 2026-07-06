@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "real-time-map-of-great-britain-s-rail-network",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:real-time-map-of-great-britain-s-rail-network:48802535",
+  "mention_ids": [
+    "2026-07-06:real-time-map-of-great-britain-s-rail-network:48802535"
+  ],
+  "name": "Real-time map of Great Britain's rail network",
+  "slug": "real-time-map-of-great-britain-s-rail-network",
+  "summary": "Signalbox\u2019s live rail map shows trains moving across Great Britain.",
+  "thing_url": "https://www.map.signalbox.io",
+  "times_seen": 1,
+  "why_included": "Commenters described it as genuinely useful, not just a neat visualization."
+}

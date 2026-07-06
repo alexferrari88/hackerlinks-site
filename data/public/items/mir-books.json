@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "mir-books",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:mir-books:48739018",
+  "mention_ids": [
+    "2026-07-04:mir-books:48739018"
+  ],
+  "name": "Mir Books",
+  "slug": "mir-books",
+  "summary": "A catalog of Soviet-era books and technical translations.",
+  "thing_url": "https://mirtitles.org/",
+  "times_seen": 1,
+  "why_included": "The thread drew strong nostalgia and direct archive links."
+}

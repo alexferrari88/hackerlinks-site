@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "base-ui",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:base-ui:48791328",
+  "mention_ids": [
+    "2026-07-05:base-ui:48791328"
+  ],
+  "name": "Base UI",
+  "slug": "base-ui",
+  "summary": "Unstyled React primitives for accessible design systems.",
+  "thing_url": "https://base-ui.com/",
+  "times_seen": 1,
+  "why_included": "The thread highlighted its primitive-first API and composition model."
+}

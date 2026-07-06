@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "kani-a-model-checker-for-rust",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:kani-a-model-checker-for-rust:48806410",
+  "mention_ids": [
+    "2026-07-06:kani-a-model-checker-for-rust:48806410"
+  ],
+  "name": "Kani: A Model Checker for Rust",
+  "slug": "kani-a-model-checker-for-rust",
+  "summary": "Kani is a Rust model checker aimed at verifying program behavior.",
+  "thing_url": "https://arxiv.org/abs/2607.01504",
+  "times_seen": 1,
+  "why_included": "The thread pointed to a useful tutorial and positioned Kani against other property-testing tools."
+}

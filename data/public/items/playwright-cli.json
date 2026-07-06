@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "id": "playwright-cli",
+  "last_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "latest_mention_id": "2026-07-03:playwright-cli:48769639",
+  "mention_ids": [
+    "2026-07-03:playwright-cli:48769639"
+  ],
+  "name": "Playwright-CLI",
+  "slug": "playwright-cli",
+  "summary": "CLI-first browser automation for coding agents.",
+  "thing_url": "https://github.com/microsoft/playwright-cli",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a faster, more token-efficient browser workflow."
+}

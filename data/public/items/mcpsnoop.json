@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "id": "mcpsnoop",
+  "last_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "latest_mention_id": "2026-07-03:mcpsnoop:48777144",
+  "mention_ids": [
+    "2026-07-03:mcpsnoop:48777144"
+  ],
+  "name": "Mcpsnoop",
+  "slug": "mcpsnoop",
+  "summary": "Transparent proxy and live TUI for MCP traffic.",
+  "thing_url": "https://github.com/kerlenton/mcpsnoop",
+  "times_seen": 1,
+  "why_included": "Commenters strongly liked the auditability angle and said it fills a real MCP visibility gap."
+}

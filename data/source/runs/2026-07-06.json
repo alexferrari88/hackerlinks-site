@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "run_date": "2026-07-06",
+  "generated_at": "2026-07-06T21:13:40Z",
+  "summary": "10 concrete hardware, AI, and developer-tool items surfaced from 25 scraped stories.",
+  "stories_scraped": 25,
+  "stories_total": 25,
+  "items": [
+    {
+      "name": "OpenWrt One",
+      "category": "Hardware & Networking",
+      "thing_url": "https://openwrt.org/toh/openwrt/one",
+      "hn_url": "https://news.ycombinator.com/item?id=48808482",
+      "source_story_title": "OpenWrt One – Open Hardware Router",
+      "summary": "OpenWrt One is an open hardware router with community-backed firmware.",
+      "why_included": "The thread had hands-on praise and practical upgrade talk, not just announcement churn.",
+      "evidence": "A commenter said they had just received one because most routers feel low quality, while others discussed OpenWrt Two, GL.iNet, and mesh upgrades."
+    },
+    {
+      "name": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "category": "Hardware & Networking",
+      "thing_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "hn_url": "https://news.ycombinator.com/item?id=48805624",
+      "source_story_title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "summary": "A $4k Strix Halo dev kit aimed at local AI workloads.",
+      "why_included": "Commenters treated it as a real step in AMD’s AI hardware push, not a toy.",
+      "evidence": "Replies called AMD’s Playbooks a serious response to Nvidia Spark and compared the kit with Framework Desktop and other Strix Halo builds."
+    },
+    {
+      "name": "Real-time map of Great Britain's rail network",
+      "category": "Hardware & Networking",
+      "thing_url": "https://www.map.signalbox.io",
+      "hn_url": "https://news.ycombinator.com/item?id=48802535",
+      "source_story_title": "Real-time map of Great Britain's rail network",
+      "summary": "Signalbox’s live rail map shows trains moving across Great Britain.",
+      "why_included": "Commenters described it as genuinely useful, not just a neat visualization.",
+      "evidence": "One commenter said they regularly use it to watch trains and found it pretty good even if the projections are imperfect."
+    },
+    {
+      "name": "Pulpie",
+      "category": "AI & Research",
+      "thing_url": "https://huggingface.co/spaces/feyninc/pulpie",
+      "hn_url": "https://news.ycombinator.com/item?id=48806575",
+      "source_story_title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "summary": "Pulpie is a model-driven web cleaner that preserves main content, tables, and images.",
+      "why_included": "The thread confirmed it does useful extraction work and compares favorably with heuristic cleaners.",
+      "evidence": "The author said images and tables pass through, and that the model outperformed heuristics by 25 F1 points on their tests."
+    },
+    {
+      "name": "A global workspace in language models",
+      "category": "AI & Research",
+      "thing_url": "https://www.anthropic.com/research/global-workspace",
+      "hn_url": "https://news.ycombinator.com/item?id=48808002",
+      "source_story_title": "A global workspace in language models",
+      "summary": "Anthropic’s research explores a global-workspace style internal architecture for LLMs.",
+      "why_included": "The comments dug into the model-internal details rather than treating it as generic research fluff.",
+      "evidence": "Readers quoted the paper’s internal representation findings and asked for more detail about how the model was trained."
+    },
+    {
+      "name": "OfficeCLI",
+      "category": "Dev Tools & Languages",
+      "thing_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "hn_url": "https://news.ycombinator.com/item?id=48807225",
+      "source_story_title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "summary": "OfficeCLI lets AI agents read and edit Microsoft Office files.",
+      "why_included": "The discussion surfaced compliance details and real alternatives, which made it feel concrete.",
+      "evidence": "Commenters compared it with ECMA-376-compliant projects and a related Smalldocs office suite for agents and humans."
+    },
+    {
+      "name": "Road to Elm 1.0",
+      "category": "Dev Tools & Languages",
+      "thing_url": "https://elm-lang.org/news/faster-builds",
+      "hn_url": "https://news.ycombinator.com/item?id=48803364",
+      "source_story_title": "Road to Elm 1.0",
+      "summary": "Elm’s faster-builds work keeps the language moving toward 1.0.",
+      "why_included": "Commenters still treat Elm as a focused language with long-lived influence.",
+      "evidence": "Replies called Elm an influential, highly focused language and discussed its lack of a public roadmap alongside the build-speed work."
+    },
+    {
+      "name": "Clojure 1.13 adds support for checked keys",
+      "category": "Dev Tools & Languages",
+      "thing_url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "hn_url": "https://news.ycombinator.com/item?id=48767211",
+      "source_story_title": "Clojure 1.13 adds support for checked keys",
+      "summary": "Clojure 1.13 adds checked keys for clearer map contracts.",
+      "why_included": "The feature prompted practical discussion about safer data boundaries and ergonomics.",
+      "evidence": "Replies focused on required versus optional checked keys, runtime guarantees, and how they fit with spec’ed maps."
+    },
+    {
+      "name": "Kani: A Model Checker for Rust",
+      "category": "Dev Tools & Languages",
+      "thing_url": "https://arxiv.org/abs/2607.01504",
+      "hn_url": "https://news.ycombinator.com/item?id=48806410",
+      "source_story_title": "Kani: A Model Checker for Rust",
+      "summary": "Kani is a Rust model checker aimed at verifying program behavior.",
+      "why_included": "The thread pointed to a useful tutorial and positioned Kani against other property-testing tools.",
+      "evidence": "Commenters linked the tutorial and the older paper, and compared Kani to hypothesis-auto-style tooling."
+    },
+    {
+      "name": "Linux on the Atari Jaguar. No, really.",
+      "category": "Dev Tools & Languages",
+      "thing_url": "https://github.com/cakehonolulu/linux_jag",
+      "hn_url": "https://news.ycombinator.com/item?id=48808663",
+      "source_story_title": "Linux on the Atari Jaguar. No, really.",
+      "summary": "A Linux port that runs on original Atari Jaguar hardware and reaches a BusyBox shell.",
+      "why_included": "The repo is real and the comments emphasize how little special hardware it needs.",
+      "evidence": "Readers noted it works on stock hardware, uses only 2 MB of RAM, and gets to a BusyBox shell without flash carts."
+    }
+  ],
+  "telegram_footer": "10 items surfaced | 25/25 stories scraped | history + run artifact updated"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "easyeda",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:easyeda:48793542",
+  "mention_ids": [
+    "2026-07-05:easyeda:48793542"
+  ],
+  "name": "EasyEDA",
+  "slug": "easyeda",
+  "summary": "Browser-based PCB design and circuit simulation with manufacturing hooks.",
+  "thing_url": "https://easyeda.com/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly preferred it for easier autorouting."
+}

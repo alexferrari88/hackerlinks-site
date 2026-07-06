@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter pointed to WireMCP as an existing Wireshark MCP, and another replied, 'Bingo! Great find.'",
+  "hn_url": "https://news.ycombinator.com/item?id=48777144",
+  "id": "2026-07-03:wiremcp:48777144",
+  "is_repeat": false,
+  "issue_id": "2026-07-03",
+  "item_id": "wiremcp",
+  "rank": 4,
+  "seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "source_story_id": "48777144",
+  "source_story_title": "Show HN: Mcpsnoop \u2013 Wireshark for MCP (transparent proxy and live TUI)"
+}

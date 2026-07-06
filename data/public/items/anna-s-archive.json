@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "anna-s-archive",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:anna-s-archive:48786838",
+  "mention_ids": [
+    "2026-07-04:anna-s-archive:48786838"
+  ],
+  "name": "Anna's Archive",
+  "slug": "anna-s-archive",
+  "summary": "A free ebook and scan search site for hard-to-find books.",
+  "thing_url": "https://annas-archive.cc/",
+  "times_seen": 1,
+  "why_included": "Readers said it kept access to books alive in markets with poor availability."
+}

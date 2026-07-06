@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "id": "wiremcp",
+  "last_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "latest_mention_id": "2026-07-03:wiremcp:48777144",
+  "mention_ids": [
+    "2026-07-03:wiremcp:48777144"
+  ],
+  "name": "WireMCP",
+  "slug": "wiremcp",
+  "summary": "Wireshark MCP bridge for inspecting MCP traffic.",
+  "thing_url": "https://github.com/0xKoda/WireMCP",
+  "times_seen": 1,
+  "why_included": "A useful adjacent tool surfaced directly from the Mcpsnoop discussion."
+}

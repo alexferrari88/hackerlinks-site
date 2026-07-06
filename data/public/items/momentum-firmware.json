@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "momentum-firmware",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:momentum-firmware:48796552",
+  "mention_ids": [
+    "2026-07-05:momentum-firmware:48796552"
+  ],
+  "name": "Momentum Firmware",
+  "slug": "momentum-firmware",
+  "summary": "Feature-rich Flipper Zero firmware with asset packs, modules, and scripting.",
+  "thing_url": "https://momentum-fw.dev/",
+  "times_seen": 1,
+  "why_included": "HNers treated it as the unofficial firmware path people actually prefer."
+}

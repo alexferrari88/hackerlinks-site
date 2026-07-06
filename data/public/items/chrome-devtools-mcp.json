@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "id": "chrome-devtools-mcp",
+  "last_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "latest_mention_id": "2026-07-03:chrome-devtools-mcp:48769639",
+  "mention_ids": [
+    "2026-07-03:chrome-devtools-mcp:48769639"
+  ],
+  "name": "Chrome DevTools MCP",
+  "slug": "chrome-devtools-mcp",
+  "summary": "Chrome's official MCP devtools server for deep profiling.",
+  "thing_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "times_seen": 1,
+  "why_included": "People reported concrete debugging wins with it on real pages."
+}

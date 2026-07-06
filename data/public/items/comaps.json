@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "comaps",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:comaps:48794446",
+  "mention_ids": [
+    "2026-07-05:comaps:48794446"
+  ],
+  "name": "CoMaps",
+  "slug": "comaps",
+  "summary": "Privacy-first offline map fork with route planning and battery-friendly hiking.",
+  "thing_url": "https://www.comaps.app/",
+  "times_seen": 1,
+  "why_included": "It surfaced as the fork people are actively using in the field."
+}

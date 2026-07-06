@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "clojure-1-13-adds-support-for-checked-keys",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:clojure-1-13-adds-support-for-checked-keys:48767211",
+  "mention_ids": [
+    "2026-07-06:clojure-1-13-adds-support-for-checked-keys:48767211"
+  ],
+  "name": "Clojure 1.13 adds support for checked keys",
+  "slug": "clojure-1-13-adds-support-for-checked-keys",
+  "summary": "Clojure 1.13 adds checked keys for clearer map contracts.",
+  "thing_url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+  "times_seen": 1,
+  "why_included": "The feature prompted practical discussion about safer data boundaries and ergonomics."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "The author said 'I made' a local modeling tool and linked both the site and GitHub repo.",
+  "hn_url": "https://news.ycombinator.com/item?id=48730953",
+  "id": "2026-07-03:tlaplus-process-studio:48730953",
+  "is_repeat": false,
+  "issue_id": "2026-07-03",
+  "item_id": "tlaplus-process-studio",
+  "rank": 9,
+  "seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "source_story_id": "48730953",
+  "source_story_title": "Hunting a 16-year-old SQLite WAL bug with TLA+"
+}

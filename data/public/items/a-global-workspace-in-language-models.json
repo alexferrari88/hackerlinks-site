@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "a-global-workspace-in-language-models",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:a-global-workspace-in-language-models:48808002",
+  "mention_ids": [
+    "2026-07-06:a-global-workspace-in-language-models:48808002"
+  ],
+  "name": "A global workspace in language models",
+  "slug": "a-global-workspace-in-language-models",
+  "summary": "Anthropic\u2019s research explores a global-workspace style internal architecture for LLMs.",
+  "thing_url": "https://www.anthropic.com/research/global-workspace",
+  "times_seen": 1,
+  "why_included": "The comments dug into the model-internal details rather than treating it as generic research fluff."
+}

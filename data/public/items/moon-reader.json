@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "moon-reader",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:moon-reader:48786838",
+  "mention_ids": [
+    "2026-07-04:moon-reader:48786838"
+  ],
+  "name": "Moon+ Reader",
+  "slug": "moon-reader",
+  "summary": "A mobile ebook reader with library, annotation, and file tools.",
+  "thing_url": "http://moondownload.com/",
+  "times_seen": 1,
+  "why_included": "A commenter said it has been their default reader for years."
+}

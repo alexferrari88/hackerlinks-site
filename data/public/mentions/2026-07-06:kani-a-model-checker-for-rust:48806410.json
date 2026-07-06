@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters linked the tutorial and the older paper, and compared Kani to hypothesis-auto-style tooling.",
+  "hn_url": "https://news.ycombinator.com/item?id=48806410",
+  "id": "2026-07-06:kani-a-model-checker-for-rust:48806410",
+  "is_repeat": false,
+  "issue_id": "2026-07-06",
+  "item_id": "kani-a-model-checker-for-rust",
+  "rank": 9,
+  "seen_at": "2026-07-06T21:13:40Z",
+  "source_story_id": "48806410",
+  "source_story_title": "Kani: A Model Checker for Rust"
+}

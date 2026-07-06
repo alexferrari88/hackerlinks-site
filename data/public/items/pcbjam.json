@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "pcbjam",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:pcbjam:48793542",
+  "mention_ids": [
+    "2026-07-05:pcbjam:48793542"
+  ],
+  "name": "PCBJam",
+  "slug": "pcbjam",
+  "summary": "KiCad in the browser with real editing and multiplayer collaboration.",
+  "thing_url": "https://www.pcbjam.com/",
+  "times_seen": 1,
+  "why_included": "It is a rare browser-native EDA workflow, not just a viewer."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "pandoc-lua-filters",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:pandoc-lua-filters:48773079",
+  "mention_ids": [
+    "2026-07-05:pandoc-lua-filters:48773079"
+  ],
+  "name": "Pandoc Lua Filters",
+  "slug": "pandoc-lua-filters",
+  "summary": "Pandoc reference docs for Lua-based document transforms.",
+  "thing_url": "https://pandoc.org/lua-filters.html",
+  "times_seen": 1,
+  "why_included": "The comments showed it remains a durable automation layer for Pandoc users."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "leanstral-1-5",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:leanstral-1-5:48780801",
+  "mention_ids": [
+    "2026-07-04:leanstral-1-5:48780801"
+  ],
+  "name": "Leanstral 1.5",
+  "slug": "leanstral-1-5",
+  "summary": "Mistral's reasoning model tuned for proof-heavy, small-model tasks.",
+  "thing_url": "https://mistral.ai/news/leanstral-1-5/",
+  "times_seen": 1,
+  "why_included": "Commenters said it stays useful on OCR and file-analysis workloads without frontier-model pricing."
+}

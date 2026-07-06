@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T21:00:48.537362+00:00",
+  "headline": "9 interesting things surfaced from HN on 2026-07-04",
+  "id": "2026-07-04",
+  "mention_ids": [
+    "2026-07-04:leanstral-1-5:48780801",
+    "2026-07-04:openatp:48780801",
+    "2026-07-04:btop:48784777",
+    "2026-07-04:baremetal-ram-dumper:48787201",
+    "2026-07-04:windows-ce-dreamcast-community-edition-wince-dc:48785840",
+    "2026-07-04:anna-s-archive:48786838",
+    "2026-07-04:send-djazz-se:48786838",
+    "2026-07-04:moon-reader:48786838",
+    "2026-07-04:mir-books:48739018"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "run_date": "2026-07-03",
+  "generated_at": "2026-07-03T21:00:19.436601+00:00",
+  "summary": "10 items surfaced from 25 qualifying stories.",
+  "stories_scraped": 25,
+  "stories_total": 25,
+  "telegram_footer": "10 items surfaced | 25/25 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "Jamesob's guide to running SOTA LLMs locally",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/jamesob/local-llm",
+      "hn_url": "https://news.ycombinator.com/item?id=48775921",
+      "source_story_title": "Jamesob's guide to running SOTA LLMs locally",
+      "summary": "Practical guide to running strong local LLMs on your own hardware.",
+      "why_included": "The thread produced unusually concrete, hardware-grounded discussion of local LLM setups.",
+      "evidence": "A commenter called it 'a great guide' and the thread turned into a detailed back-and-forth on GPUs, quantization, and local throughput."
+    },
+    {
+      "name": "pxpipe",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/teamchong/pxpipe",
+      "hn_url": "https://news.ycombinator.com/item?id=48776464",
+      "source_story_title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "summary": "Image-token pipeline that cuts Fable costs by OCR'ing code as images.",
+      "why_included": "A concrete cost-cutting trick with visible technical discussion around image-token tradeoffs.",
+      "evidence": "Commenters called the approach 'really fascinating' and debated whether image tokens can cut cost without wrecking quality."
+    },
+    {
+      "name": "Mcpsnoop",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/kerlenton/mcpsnoop",
+      "hn_url": "https://news.ycombinator.com/item?id=48777144",
+      "source_story_title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "summary": "Transparent proxy and live TUI for MCP traffic.",
+      "why_included": "Commenters strongly liked the auditability angle and said it fills a real MCP visibility gap.",
+      "evidence": "Readers said it gives '100% visibility into the back and forth' and called it 'awesome'."
+    },
+    {
+      "name": "WireMCP",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/0xKoda/WireMCP",
+      "hn_url": "https://news.ycombinator.com/item?id=48777144",
+      "source_story_title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "summary": "Wireshark MCP bridge for inspecting MCP traffic.",
+      "why_included": "A useful adjacent tool surfaced directly from the Mcpsnoop discussion.",
+      "evidence": "A commenter pointed to WireMCP as an existing Wireshark MCP, and another replied, 'Bingo! Great find.'"
+    },
+    {
+      "name": "Wordgard",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://wordgard.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48772573",
+      "source_story_title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+      "summary": "In-browser rich-text editor from ProseMirror's creator.",
+      "why_included": "A fresh editor with a clear technical thesis drew strong curiosity and praise.",
+      "evidence": "People called it 'staggeringly brilliant' and 'beautiful', then asked whether it's really worth leaving ProseMirror."
+    },
+    {
+      "name": "Safari MCP server",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48769639",
+      "source_story_title": "The Safari MCP server for web developers",
+      "summary": "Apple/WebKit MCP server for browser automation and web debugging.",
+      "why_included": "The thread mapped a real browser-testing gap and surfaced several strong adjacent tools.",
+      "evidence": "Commenters said Safari's MCP could fill a real browser-testing gap, then recommended Playwright-CLI and Chrome DevTools MCP as adjacent options."
+    },
+    {
+      "name": "Playwright-CLI",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/microsoft/playwright-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=48769639",
+      "source_story_title": "The Safari MCP server for web developers",
+      "summary": "CLI-first browser automation for coding agents.",
+      "why_included": "A commenter recommended it as a faster, more token-efficient browser workflow.",
+      "evidence": "A commenter said it 'works much faster for me than the MCP servers I tried'."
+    },
+    {
+      "name": "Chrome DevTools MCP",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "hn_url": "https://news.ycombinator.com/item?id=48769639",
+      "source_story_title": "The Safari MCP server for web developers",
+      "summary": "Chrome's official MCP devtools server for deep profiling.",
+      "why_included": "People reported concrete debugging wins with it on real pages.",
+      "evidence": "A commenter said they've used it since Nov 2025 and profiled a slow React page until it hit sub-100ms responsiveness."
+    },
+    {
+      "name": "tlaplus-process-studio",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://tlaplus-process-studio.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48730953",
+      "source_story_title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "summary": "Local TLA+ modeling app for high-level state-machine work.",
+      "why_included": "A niche but concrete modeling tool with its own canonical home.",
+      "evidence": "The author said 'I made' a local modeling tool and linked both the site and GitHub repo."
+    },
+    {
+      "name": "Bramble",
+      "category": "Security & Privacy",
+      "thing_url": "https://github.com/flythenimbus/bramble",
+      "hn_url": "https://news.ycombinator.com/item?id=48766242",
+      "source_story_title": "Show HN: Bramble – Local-first password manager",
+      "summary": "Local-first, P2P password manager with an encrypted vault.",
+      "why_included": "The local-first privacy angle got immediate traction from commenters.",
+      "evidence": "Readers said 'This looks like something I've been looking for!' and praised the local-first, P2P design."
+    }
+  ]
+}

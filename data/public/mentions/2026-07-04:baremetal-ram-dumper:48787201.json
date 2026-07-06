@@ -1,0 +1,12 @@
+{
+  "evidence": "The author described freezing RAM, swapping drives, booting the dumper, and successfully dumping raw physical memory.",
+  "hn_url": "https://news.ycombinator.com/item?id=48787201",
+  "id": "2026-07-04:baremetal-ram-dumper:48787201",
+  "is_repeat": false,
+  "issue_id": "2026-07-04",
+  "item_id": "baremetal-ram-dumper",
+  "rank": 4,
+  "seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "source_story_id": "48787201",
+  "source_story_title": "BareMetal RAM Dumper \u2013 Bare-metal x86 tool for Cold Boot Attack experiments"
+}

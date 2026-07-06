@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "pulpie",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:pulpie:48806575",
+  "mention_ids": [
+    "2026-07-06:pulpie:48806575"
+  ],
+  "name": "Pulpie",
+  "slug": "pulpie",
+  "summary": "Pulpie is a model-driven web cleaner that preserves main content, tables, and images.",
+  "thing_url": "https://huggingface.co/spaces/feyninc/pulpie",
+  "times_seen": 1,
+  "why_included": "The thread confirmed it does useful extraction work and compares favorably with heuristic cleaners."
+}

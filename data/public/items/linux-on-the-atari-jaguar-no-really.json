@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "linux-on-the-atari-jaguar-no-really",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:linux-on-the-atari-jaguar-no-really:48808663",
+  "mention_ids": [
+    "2026-07-06:linux-on-the-atari-jaguar-no-really:48808663"
+  ],
+  "name": "Linux on the Atari Jaguar. No, really.",
+  "slug": "linux-on-the-atari-jaguar-no-really",
+  "summary": "A Linux port that runs on original Atari Jaguar hardware and reaches a BusyBox shell.",
+  "thing_url": "https://github.com/cakehonolulu/linux_jag",
+  "times_seen": 1,
+  "why_included": "The repo is real and the comments emphasize how little special hardware it needs."
+}

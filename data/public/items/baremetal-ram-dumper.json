@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "baremetal-ram-dumper",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:baremetal-ram-dumper:48787201",
+  "mention_ids": [
+    "2026-07-04:baremetal-ram-dumper:48787201"
+  ],
+  "name": "BareMetal RAM Dumper",
+  "slug": "baremetal-ram-dumper",
+  "summary": "A bare-metal x86 tool for cold-boot memory-dump experiments.",
+  "thing_url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+  "times_seen": 1,
+  "why_included": "The thread showed a real hardware test, not just a concept demo."
+}

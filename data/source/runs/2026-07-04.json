@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "run_date": "2026-07-04",
+  "generated_at": "2026-07-04T21:00:48.537362+00:00",
+  "summary": "Nine concrete items surfaced from discussion-rich front-page threads.",
+  "stories_scraped": 20,
+  "stories_total": 20,
+  "telegram_footer": "9 items surfaced | 20/20 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "Leanstral 1.5",
+      "category": "AI & Local Models",
+      "thing_url": "https://mistral.ai/news/leanstral-1-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=48780801",
+      "source_story_title": "Leanstral 1.5: Proof abundance for all",
+      "summary": "Mistral's reasoning model tuned for proof-heavy, small-model tasks.",
+      "why_included": "Commenters said it stays useful on OCR and file-analysis workloads without frontier-model pricing.",
+      "evidence": "One commenter said Mistral is great for OCR and file analysis at tiny cost, and another suggested trying Leanstral 1.5 through OpenATP."
+    },
+    {
+      "name": "OpenATP",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/henryrobbins/open-atp",
+      "hn_url": "https://news.ycombinator.com/item?id=48780801",
+      "source_story_title": "Leanstral 1.5: Proof abundance for all",
+      "summary": "An open-source theorem-prover runner with Docker and Modal support.",
+      "why_included": "It is the concrete tool commenters pointed to for trying Leanstral 1.5.",
+      "evidence": "A commenter wrote \"Try out Leanstral 1.5 on the latest version of OpenATP\" and linked the repo and docs."
+    },
+    {
+      "name": "btop",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/aristocratos/btop",
+      "hn_url": "https://news.ycombinator.com/item?id=48784777",
+      "source_story_title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "summary": "A modern terminal system monitor with GPU, disk, network, and watt stats.",
+      "why_included": "Multiple commenters called it a better htop replacement.",
+      "evidence": "One user said they migrated to btop because it is modern and informative, and another said it even replaced iStatMenu on a MacBook."
+    },
+    {
+      "name": "BareMetal RAM Dumper",
+      "category": "Security & Systems",
+      "thing_url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "hn_url": "https://news.ycombinator.com/item?id=48787201",
+      "source_story_title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "summary": "A bare-metal x86 tool for cold-boot memory-dump experiments.",
+      "why_included": "The thread showed a real hardware test, not just a concept demo.",
+      "evidence": "The author described freezing RAM, swapping drives, booting the dumper, and successfully dumping raw physical memory."
+    },
+    {
+      "name": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "category": "Security & Systems",
+      "thing_url": "https://github.com/maximqaxd/wince-dc",
+      "hn_url": "https://news.ycombinator.com/item?id=48785840",
+      "source_story_title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "summary": "A Windows CE port for Dreamcast with a one-command build path.",
+      "why_included": "Commenters highlighted how little setup it needs compared with older Windows CE workflows.",
+      "evidence": "A commenter said one cmake invocation goes from source to a bootable disc image with no Platform Builder, SDK install, or CD key."
+    },
+    {
+      "name": "Anna's Archive",
+      "category": "Books & Reading",
+      "thing_url": "https://annas-archive.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=48786838",
+      "source_story_title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "summary": "A free ebook and scan search site for hard-to-find books.",
+      "why_included": "Readers said it kept access to books alive in markets with poor availability.",
+      "evidence": "A commenter said they would not have read the books that shaped them without Anna's Archive and Z-Library."
+    },
+    {
+      "name": "send.djazz.se",
+      "category": "Books & Reading",
+      "thing_url": "https://send.djazz.se/",
+      "hn_url": "https://news.ycombinator.com/item?id=48786838",
+      "source_story_title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "summary": "A browser-based EPUB transfer service for Kobo readers.",
+      "why_included": "It was explicitly called out as the key Kobo transfer trick.",
+      "evidence": "One commenter said send.djazz.se is key for getting EPUBs to a Kobo."
+    },
+    {
+      "name": "Moon+ Reader",
+      "category": "Books & Reading",
+      "thing_url": "http://moondownload.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48786838",
+      "source_story_title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "summary": "A mobile ebook reader with library, annotation, and file tools.",
+      "why_included": "A commenter said it has been their default reader for years.",
+      "evidence": "One user said they have used MoonReader for many years and tuned it for a comfortable phone-and-tablet reading setup."
+    },
+    {
+      "name": "Mir Books",
+      "category": "Books & Reading",
+      "thing_url": "https://mirtitles.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48739018",
+      "source_story_title": "Mir Books – Books from the Soviet Era",
+      "summary": "A catalog of Soviet-era books and technical translations.",
+      "why_included": "The thread drew strong nostalgia and direct archive links.",
+      "evidence": "Commenters praised Mir Publishers' science and math books and linked archive copies and translations."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "openwrt-one",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:openwrt-one:48808482",
+  "mention_ids": [
+    "2026-07-06:openwrt-one:48808482"
+  ],
+  "name": "OpenWrt One",
+  "slug": "openwrt-one",
+  "summary": "OpenWrt One is an open hardware router with community-backed firmware.",
+  "thing_url": "https://openwrt.org/toh/openwrt/one",
+  "times_seen": 1,
+  "why_included": "The thread had hands-on praise and practical upgrade talk, not just announcement churn."
+}

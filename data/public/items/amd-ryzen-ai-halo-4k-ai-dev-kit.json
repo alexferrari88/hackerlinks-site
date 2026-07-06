@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "amd-ryzen-ai-halo-4k-ai-dev-kit",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:amd-ryzen-ai-halo-4k-ai-dev-kit:48805624",
+  "mention_ids": [
+    "2026-07-06:amd-ryzen-ai-halo-4k-ai-dev-kit:48805624"
+  ],
+  "name": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+  "slug": "amd-ryzen-ai-halo-4k-ai-dev-kit",
+  "summary": "A $4k Strix Halo dev kit aimed at local AI workloads.",
+  "thing_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as a real step in AMD\u2019s AI hardware push, not a toy."
+}

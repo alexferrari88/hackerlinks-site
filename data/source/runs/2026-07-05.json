@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "run_date": "2026-07-05",
+  "generated_at": "2026-07-05T21:17:49Z",
+  "summary": "Nine concrete tools, books, and sites surfaced from 23 qualifying HN stories.",
+  "stories_scraped": 23,
+  "stories_total": 23,
+  "items": [
+    {
+      "name": "CoMaps",
+      "category": "Maps & Navigation",
+      "source_story_title": "Organic Maps",
+      "thing_url": "https://www.comaps.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48794446",
+      "summary": "Privacy-first offline map fork with route planning and battery-friendly hiking.",
+      "why_included": "It surfaced as the fork people are actively using in the field.",
+      "evidence": "In the Organic Maps thread, commenters called Organic Maps their go-to nav app, pointed to CoMaps as a fork gaining features, and praised its low battery drain on hikes."
+    },
+    {
+      "name": "Momentum Firmware",
+      "category": "Hardware & Firmware",
+      "source_story_title": "The future of Flipper Zero development",
+      "thing_url": "https://momentum-fw.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48796552",
+      "summary": "Feature-rich Flipper Zero firmware with asset packs, modules, and scripting.",
+      "why_included": "HNers treated it as the unofficial firmware path people actually prefer.",
+      "evidence": "Comments linked momentum-fw.dev, said it works well, and asked what the current go-to unofficial firmware is."
+    },
+    {
+      "name": "Base UI",
+      "category": "Dev Tools & Infrastructure",
+      "source_story_title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "thing_url": "https://base-ui.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48791328",
+      "summary": "Unstyled React primitives for accessible design systems.",
+      "why_included": "The thread highlighted its primitive-first API and composition model.",
+      "evidence": "One commenter said they started using Base UI early and found the primitives very pleasant to work with."
+    },
+    {
+      "name": "PCBJam",
+      "category": "Dev Tools & Infrastructure",
+      "source_story_title": "Show HN: KiCad in the Browser",
+      "thing_url": "https://www.pcbjam.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48793542",
+      "summary": "KiCad in the browser with real editing and multiplayer collaboration.",
+      "why_included": "It is a rare browser-native EDA workflow, not just a viewer.",
+      "evidence": "Replies talked about shareable footprint and symbol libraries, teaching use cases, and noted it is the original KiCad sources adapted for the browser."
+    },
+    {
+      "name": "EasyEDA",
+      "category": "Dev Tools & Infrastructure",
+      "source_story_title": "Show HN: KiCad in the Browser",
+      "thing_url": "https://easyeda.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48793542",
+      "summary": "Browser-based PCB design and circuit simulation with manufacturing hooks.",
+      "why_included": "A commenter explicitly preferred it for easier autorouting.",
+      "evidence": "In the KiCad-in-browser thread, one reply said EasyEDA was easier to use, especially with autorouting."
+    },
+    {
+      "name": "openring-rs",
+      "category": "Dev Tools & Infrastructure",
+      "source_story_title": "You need a webring",
+      "thing_url": "https://github.com/lukehsiao/openring-rs",
+      "hn_url": "https://news.ycombinator.com/item?id=48796792",
+      "summary": "Rust webring generator for static sites and RSS feeds.",
+      "why_included": "It gives bloggers a low-friction way to revive old-school webrings.",
+      "evidence": "A comment linked openring-rs and said you do not need to coordinate a real ring of links to share posts."
+    },
+    {
+      "name": "PLAI",
+      "category": "Books & Docs",
+      "source_story_title": "Introduction to Compilers and Language Design (2021)",
+      "thing_url": "https://www.plai.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48793454",
+      "summary": "Free programming-languages textbook covering interpreters and semantics.",
+      "why_included": "Commenters recommended it as the clearer compiler-textbook choice.",
+      "evidence": "A reply said, 'I would rather recommend https://www.plai.org/,' and the site itself presents PLAI as a free online textbook."
+    },
+    {
+      "name": "Pandoc Lua Filters",
+      "category": "Books & Docs",
+      "source_story_title": "Pandoc Lua Filters",
+      "thing_url": "https://pandoc.org/lua-filters.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48773079",
+      "summary": "Pandoc reference docs for Lua-based document transforms.",
+      "why_included": "The comments showed it remains a durable automation layer for Pandoc users.",
+      "evidence": "One commenter said they have used Lua filters for seven years and they still run fine when updating Pandoc."
+    },
+    {
+      "name": "IMCDb",
+      "category": "Media & Reference",
+      "source_story_title": "Starring the Computer",
+      "thing_url": "https://www.imcdb.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48796093",
+      "summary": "Movie-car database for spotting vehicles in film and TV.",
+      "why_included": "The thread pointed to it as the concrete reference for screen-used vehicles.",
+      "evidence": "A commenter linked IMCDb as the Internet Movie Cars Database and pointed to it directly from the discussion."
+    }
+  ],
+  "telegram_footer": "9 items surfaced | 23/23 stories scraped | history + run artifact updated"
+}

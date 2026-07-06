@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T21:00:19.436601+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-07-03",
+  "id": "2026-07-03",
+  "mention_ids": [
+    "2026-07-03:jamesob-s-guide-to-running-sota-llms-locally:48775921",
+    "2026-07-03:pxpipe:48776464",
+    "2026-07-03:mcpsnoop:48777144",
+    "2026-07-03:wiremcp:48777144",
+    "2026-07-03:wordgard:48772573",
+    "2026-07-03:safari-mcp-server:48769639",
+    "2026-07-03:playwright-cli:48769639",
+    "2026-07-03:chrome-devtools-mcp:48769639",
+    "2026-07-03:tlaplus-process-studio:48730953",
+    "2026-07-03:bramble:48766242"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

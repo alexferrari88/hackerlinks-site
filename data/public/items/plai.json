@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "plai",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:plai:48793454",
+  "mention_ids": [
+    "2026-07-05:plai:48793454"
+  ],
+  "name": "PLAI",
+  "slug": "plai",
+  "summary": "Free programming-languages textbook covering interpreters and semantics.",
+  "thing_url": "https://www.plai.org/",
+  "times_seen": 1,
+  "why_included": "Commenters recommended it as the clearer compiler-textbook choice."
+}

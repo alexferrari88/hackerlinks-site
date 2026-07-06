@@ -1,0 +1,12 @@
+{
+  "evidence": "The author said images and tables pass through, and that the model outperformed heuristics by 25 F1 points on their tests.",
+  "hn_url": "https://news.ycombinator.com/item?id=48806575",
+  "id": "2026-07-06:pulpie:48806575",
+  "is_repeat": false,
+  "issue_id": "2026-07-06",
+  "item_id": "pulpie",
+  "rank": 4,
+  "seen_at": "2026-07-06T21:13:40Z",
+  "source_story_id": "48806575",
+  "source_story_title": "Show HN: Pulpie \u2013 Models for Cleaning the Web"
+}

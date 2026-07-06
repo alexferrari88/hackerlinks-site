@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "id": "pxpipe",
+  "last_seen_at": "2026-07-03T21:00:19.436601+00:00",
+  "latest_mention_id": "2026-07-03:pxpipe:48776464",
+  "mention_ids": [
+    "2026-07-03:pxpipe:48776464"
+  ],
+  "name": "pxpipe",
+  "slug": "pxpipe",
+  "summary": "Image-token pipeline that cuts Fable costs by OCR'ing code as images.",
+  "thing_url": "https://github.com/teamchong/pxpipe",
+  "times_seen": 1,
+  "why_included": "A concrete cost-cutting trick with visible technical discussion around image-token tradeoffs."
+}

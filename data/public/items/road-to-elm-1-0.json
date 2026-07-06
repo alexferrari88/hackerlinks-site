@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-06T21:13:40Z",
+  "id": "road-to-elm-1-0",
+  "last_seen_at": "2026-07-06T21:13:40Z",
+  "latest_mention_id": "2026-07-06:road-to-elm-1-0:48803364",
+  "mention_ids": [
+    "2026-07-06:road-to-elm-1-0:48803364"
+  ],
+  "name": "Road to Elm 1.0",
+  "slug": "road-to-elm-1-0",
+  "summary": "Elm\u2019s faster-builds work keeps the language moving toward 1.0.",
+  "thing_url": "https://elm-lang.org/news/faster-builds",
+  "times_seen": 1,
+  "why_included": "Commenters still treat Elm as a focused language with long-lived influence."
+}

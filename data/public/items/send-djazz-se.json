@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "id": "send-djazz-se",
+  "last_seen_at": "2026-07-04T21:00:48.537362+00:00",
+  "latest_mention_id": "2026-07-04:send-djazz-se:48786838",
+  "mention_ids": [
+    "2026-07-04:send-djazz-se:48786838"
+  ],
+  "name": "send.djazz.se",
+  "slug": "send-djazz-se",
+  "summary": "A browser-based EPUB transfer service for Kobo readers.",
+  "thing_url": "https://send.djazz.se/",
+  "times_seen": 1,
+  "why_included": "It was explicitly called out as the key Kobo transfer trick."
+}

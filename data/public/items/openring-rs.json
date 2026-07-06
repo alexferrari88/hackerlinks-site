@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-05T21:17:49Z",
+  "id": "openring-rs",
+  "last_seen_at": "2026-07-05T21:17:49Z",
+  "latest_mention_id": "2026-07-05:openring-rs:48796792",
+  "mention_ids": [
+    "2026-07-05:openring-rs:48796792"
+  ],
+  "name": "openring-rs",
+  "slug": "openring-rs",
+  "summary": "Rust webring generator for static sites and RSS feeds.",
+  "thing_url": "https://github.com/lukehsiao/openring-rs",
+  "times_seen": 1,
+  "why_included": "It gives bloggers a low-friction way to revive old-school webrings."
+}
