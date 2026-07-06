@@ -42,6 +42,31 @@ class SyncTests(unittest.TestCase):
             self.assertTrue((repo_root / "dist" / "archive" / "index.html").exists())
             self.assertGreaterEqual(len(result["copied_files"]), 2)
 
+    def test_sync_repo_ignores_non_run_json_artifacts(self) -> None:
+        sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
+        sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            private_root = root / "private"
+            repo_root = root / "repo"
+
+            (private_root / "runs").mkdir(parents=True, exist_ok=True)
+            (repo_root / "data" / "source" / "runs").mkdir(parents=True, exist_ok=True)
+
+            (private_root / "runs" / "2026-04-14.json").write_text(json.dumps(sample_run, indent=2) + "\n")
+            (private_root / "product-history.json").write_text(json.dumps(sample_history, indent=2) + "\n")
+            (repo_root / "data" / "source" / "runs" / "2026-04-14.json").write_text(json.dumps(sample_run, indent=2) + "\n")
+            (repo_root / "data" / "source" / "runs" / "2026-04-14-raw-crawl.json").write_text(
+                json.dumps({"stories": [], "results": [], "errors": []}, indent=2) + "\n"
+            )
+            (repo_root / "data" / "source" / "product-history.json").write_text(json.dumps(sample_history, indent=2) + "\n")
+
+            result = sync_repo(private_root=private_root, repo_root=repo_root)
+
+            self.assertEqual(result["latest_run_date"], "2026-04-14")
+            self.assertTrue((repo_root / "data" / "public" / "items" / "davinci-resolve.json").exists())
+
     def test_sync_repo_accumulates_item_mentions_across_multiple_runs(self) -> None:
         sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
         sample_history = json.loads((FIXTURES / "sample-history.json").read_text())

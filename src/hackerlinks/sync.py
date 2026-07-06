@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 from pathlib import Path
 from typing import Any
@@ -13,6 +14,7 @@ from .normalize import normalize_artifacts, write_public_records
 
 PUBLISHABLE_PREFIXES = ("data/source/", "data/public/")
 IGNORED_DIRTY_PREFIXES = ("dist/", ".next/", "out/", "node_modules/")
+RUN_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
 
 
 def _load_json(path: Path) -> dict[str, Any]:
@@ -29,7 +31,7 @@ def _write_if_changed(src: Path, dst: Path) -> bool:
 
 
 def _run_files(runs_dir: Path) -> list[Path]:
-    run_files = sorted(runs_dir.glob("*.json"))
+    run_files = sorted(path for path in runs_dir.glob("*.json") if RUN_FILE_RE.match(path.name))
     if not run_files:
         raise FileNotFoundError(f"no run artifacts found in {runs_dir}")
     return run_files
