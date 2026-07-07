@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "astro",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:astro:48821653",
+  "mention_ids": [
+    "2026-07-07:astro:48821653"
+  ],
+  "name": "Astro",
+  "slug": "astro",
+  "summary": "Astro 7.0 release with leaner dependencies and dev-server workflow tweaks.",
+  "thing_url": "https://astro.build/",
+  "times_seen": 1,
+  "why_included": "Commenters praised the dependency cuts and the developer workflow ideas."
+}

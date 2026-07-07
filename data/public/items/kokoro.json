@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "kokoro",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:kokoro:48821576",
+  "mention_ids": [
+    "2026-07-07:kokoro:48821576"
+  ],
+  "name": "Kokoro",
+  "slug": "kokoro",
+  "summary": "Small open-weight TTS model that runs locally on CPU.",
+  "thing_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "times_seen": 1,
+  "why_included": "Commenters praised the size, voice quality, and side-project usefulness."
+}

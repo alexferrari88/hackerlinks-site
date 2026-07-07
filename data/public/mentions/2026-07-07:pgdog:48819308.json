@@ -1,0 +1,12 @@
+{
+  "evidence": "HN discussion said PgDog looks amazing on paper, highlighted notify/listen fixes and read-replica routing, and compared its direction to Vitess.",
+  "hn_url": "https://news.ycombinator.com/item?id=48819308",
+  "id": "2026-07-07:pgdog:48819308",
+  "is_repeat": false,
+  "issue_id": "2026-07-07",
+  "item_id": "pgdog",
+  "rank": 9,
+  "seen_at": "2026-07-07T21:24:40Z",
+  "source_story_id": "48819308",
+  "source_story_title": "Why we built yet another Postgres connection pooler"
+}

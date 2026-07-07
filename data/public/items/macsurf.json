@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "macsurf",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:macsurf:48820022",
+  "mention_ids": [
+    "2026-07-07:macsurf:48820022"
+  ],
+  "name": "MacSurf",
+  "slug": "macsurf",
+  "summary": "Classic Mac OS 9 browser bringing modern web tech to old hardware.",
+  "thing_url": "https://www.macsurf.org/",
+  "times_seen": 1,
+  "why_included": "Commenters were eager to boot vintage Macs and test it."
+}

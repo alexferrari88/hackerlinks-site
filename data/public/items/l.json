@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "l",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:l:48821378",
+  "mention_ids": [
+    "2026-07-07:l:48821378"
+  ],
+  "name": "l",
+  "slug": "l",
+  "summary": "Array-language runtime for k and q.",
+  "thing_url": "https://lv1.sh/",
+  "times_seen": 1,
+  "why_included": "Commenters called it cool and wanted fair benchmarks against other runtimes."
+}

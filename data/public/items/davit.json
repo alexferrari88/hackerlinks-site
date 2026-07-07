@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "davit",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:davit:48821848",
+  "mention_ids": [
+    "2026-07-07:davit:48821848"
+  ],
+  "name": "Davit",
+  "slug": "davit",
+  "summary": "Apple Containers UI for managing local container stacks.",
+  "thing_url": "https://davit.app",
+  "times_seen": 1,
+  "why_included": "Commenters called it solid and wanted to try it immediately."
+}

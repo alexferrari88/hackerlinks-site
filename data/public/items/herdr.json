@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "herdr",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:herdr:48756578",
+  "mention_ids": [
+    "2026-07-07:herdr:48756578"
+  ],
+  "name": "Herdr",
+  "slug": "herdr",
+  "summary": "Terminal for running and reconnecting to AI agent sessions.",
+  "thing_url": "https://herdr.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters said they already use it for multi-agent workflows."
+}

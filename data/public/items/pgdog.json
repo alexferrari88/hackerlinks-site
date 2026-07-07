@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "pgdog",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:pgdog:48819308",
+  "mention_ids": [
+    "2026-07-07:pgdog:48819308"
+  ],
+  "name": "PgDog",
+  "slug": "pgdog",
+  "summary": "PostgreSQL pooler, load balancer, and sharder.",
+  "thing_url": "https://pgdog.dev/",
+  "times_seen": 1,
+  "why_included": "Commenters thought the architecture looked strong and featureful."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "jim-s-truetype-qr-code-font",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:jim-s-truetype-qr-code-font:48820119",
+  "mention_ids": [
+    "2026-07-07:jim-s-truetype-qr-code-font:48820119"
+  ],
+  "name": "Jim's TrueType QR Code Font",
+  "slug": "jim-s-truetype-qr-code-font",
+  "summary": "TrueType font that turns text into QR codes.",
+  "thing_url": "https://github.com/jimparis/qr-font",
+  "times_seen": 1,
+  "why_included": "Commenters were impressed by the font hack and its novelty."
+}

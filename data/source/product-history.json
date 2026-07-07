@@ -4915,6 +4915,66 @@
       "first_reported_at": "2026-07-06T21:13:40Z",
       "last_reported_at": "2026-07-06T21:13:40Z",
       "times_reported": 1
+    },
+    {
+      "name": "StreetComplete",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "30papers.com",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Davit",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Herdr",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MacSurf",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Jim's TrueType QR Code Font",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kokoro",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "l",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "PgDog",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Astro",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
     }
   ]
 }

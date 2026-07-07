@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-07T21:24:40Z",
+  "id": "streetcomplete",
+  "last_seen_at": "2026-07-07T21:24:40Z",
+  "latest_mention_id": "2026-07-07:streetcomplete:48816883",
+  "mention_ids": [
+    "2026-07-07:streetcomplete:48816883"
+  ],
+  "name": "StreetComplete",
+  "slug": "streetcomplete",
+  "summary": "OpenStreetMap quest app for fixing nearby map details.",
+  "thing_url": "https://streetcomplete.app/",
+  "times_seen": 1,
+  "why_included": "Commenters said they use it to map sidewalks, intersections, and neighborhood details."
+}

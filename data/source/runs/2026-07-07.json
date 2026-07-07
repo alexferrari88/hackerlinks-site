@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "run_date": "2026-07-07",
+  "generated_at": "2026-07-07T21:24:40Z",
+  "summary": "10 concrete tools, apps, and references surfaced from 21 qualifying HN threads.",
+  "stories_scraped": 21,
+  "stories_total": 21,
+  "telegram_footer": "10 items surfaced | 21/21 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "StreetComplete",
+      "thing_url": "https://streetcomplete.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48816883",
+      "source_story_title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "summary": "OpenStreetMap quest app for fixing nearby map details.",
+      "why_included": "Commenters said they use it to map sidewalks, intersections, and neighborhood details.",
+      "evidence": "Comments described using StreetComplete on dog walks and after moving neighborhoods, with one user pointing to OSM stats about its quests.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "30papers.com",
+      "thing_url": "https://30papers.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48819608",
+      "source_story_title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "summary": "Beginner-friendly guide to Ilya's 30 essential ML papers.",
+      "why_included": "Commenters liked the presentation and saw it as a useful reading list.",
+      "evidence": "HN comments called the styling and animation cool in isolation, said the list presentation was nice, and suggested the papers themselves as a good reading path.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "Davit",
+      "thing_url": "https://davit.app",
+      "hn_url": "https://news.ycombinator.com/item?id=48821848",
+      "source_story_title": "Show HN: Davit, a Apple Containers UI",
+      "summary": "Apple Containers UI for managing local container stacks.",
+      "why_included": "Commenters called it solid and wanted to try it immediately.",
+      "evidence": "Users said Davit looks like a really solid app, praised the small binary and notarized build, and asked for menubar integration.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "Herdr",
+      "thing_url": "https://herdr.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48756578",
+      "source_story_title": "Herdr: One terminal to rule them all",
+      "summary": "Terminal for running and reconnecting to AI agent sessions.",
+      "why_included": "Commenters said they already use it for multi-agent workflows.",
+      "evidence": "One commenter said they have been using Herdr to run AI agents and can reconnect from multiple machines; others compared it to tmux and similar terminal layers.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "MacSurf",
+      "thing_url": "https://www.macsurf.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48820022",
+      "source_story_title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "summary": "Classic Mac OS 9 browser bringing modern web tech to old hardware.",
+      "why_included": "Commenters were eager to boot vintage Macs and test it.",
+      "evidence": "HN users said they would fire up iMac G4s to try MacSurf, called the progress awesome, and praised the NetSurf lineage.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "Jim's TrueType QR Code Font",
+      "thing_url": "https://github.com/jimparis/qr-font",
+      "hn_url": "https://news.ycombinator.com/item?id=48820119",
+      "source_story_title": "Jim's TrueType QR Code Font",
+      "summary": "TrueType font that turns text into QR codes.",
+      "why_included": "Commenters were impressed by the font hack and its novelty.",
+      "evidence": "Comments called the font trick amazing, noted the explanation was missing, and reported that spacing can break the generated QR output on some devices.",
+      "category": "Apps & Side Projects"
+    },
+    {
+      "name": "Kokoro",
+      "thing_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "hn_url": "https://news.ycombinator.com/item?id=48821576",
+      "source_story_title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "summary": "Small open-weight TTS model that runs locally on CPU.",
+      "why_included": "Commenters praised the size, voice quality, and side-project usefulness.",
+      "evidence": "HN users said Kokoro is very nice, called it legitimately super good for a tiny model, and shared side projects built on top of it.",
+      "category": "AI & Local Models"
+    },
+    {
+      "name": "l",
+      "thing_url": "https://lv1.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48821378",
+      "source_story_title": "l: A new runtime for k and q",
+      "summary": "Array-language runtime for k and q.",
+      "why_included": "Commenters called it cool and wanted fair benchmarks against other runtimes.",
+      "evidence": "Commenters described l as quite cool, asked for comparisons to other k runtimes, and praised the design space even while complaining about the single-letter naming.",
+      "category": "Dev Tools & Infrastructure"
+    },
+    {
+      "name": "PgDog",
+      "thing_url": "https://pgdog.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48819308",
+      "source_story_title": "Why we built yet another Postgres connection pooler",
+      "summary": "PostgreSQL pooler, load balancer, and sharder.",
+      "why_included": "Commenters thought the architecture looked strong and featureful.",
+      "evidence": "HN discussion said PgDog looks amazing on paper, highlighted notify/listen fixes and read-replica routing, and compared its direction to Vitess.",
+      "category": "Dev Tools & Infrastructure"
+    },
+    {
+      "name": "Astro",
+      "thing_url": "https://astro.build/",
+      "hn_url": "https://news.ycombinator.com/item?id=48821653",
+      "source_story_title": "Astro 7.0",
+      "summary": "Astro 7.0 release with leaner dependencies and dev-server workflow tweaks.",
+      "why_included": "Commenters praised the dependency cuts and the developer workflow ideas.",
+      "evidence": "Users liked the drop from 247 to 190 dependencies, said Astro plus Claude Code is great for building sites, and liked the logs/background-server approach.",
+      "category": "Dev Tools & Infrastructure"
+    }
+  ]
+}
