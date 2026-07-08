@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "tabfont",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:tabfont:48794062",
+  "mention_ids": [
+    "2026-07-08:tabfont:48794062"
+  ],
+  "name": "TabFont",
+  "slug": "tabfont",
+  "summary": "Guitar tabs rendered live as you type.",
+  "thing_url": "https://philatype.com/tabfont/",
+  "times_seen": 1,
+  "why_included": "It solved an obvious pain point for guitar players and got immediate practical interest."
+}

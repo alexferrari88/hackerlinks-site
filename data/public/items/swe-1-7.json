@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "swe-1-7",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:swe-1-7:48833866",
+  "mention_ids": [
+    "2026-07-08:swe-1-7:48833866"
+  ],
+  "name": "SWE-1.7",
+  "slug": "swe-1-7",
+  "summary": "Cognition's agentic coding model focused on price/performance.",
+  "thing_url": "https://cognition.com/blog/swe-1-7",
+  "times_seen": 1,
+  "why_included": "It sparked serious cost/performance discussion instead of generic model hype."
+}

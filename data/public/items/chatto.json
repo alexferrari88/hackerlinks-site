@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "chatto",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:chatto:48833116",
+  "mention_ids": [
+    "2026-07-08:chatto:48833116"
+  ],
+  "name": "Chatto",
+  "slug": "chatto",
+  "summary": "Open-source Slack/Discord-style group chat you can self-host.",
+  "thing_url": "https://github.com/chattocorp/chatto",
+  "times_seen": 1,
+  "why_included": "The thread got unusually concrete praise for self-hosting and day-to-day usability."
+}

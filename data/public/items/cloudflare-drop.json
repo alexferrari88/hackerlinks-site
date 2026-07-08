@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "cloudflare-drop",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:cloudflare-drop:48836233",
+  "mention_ids": [
+    "2026-07-08:cloudflare-drop:48836233"
+  ],
+  "name": "Cloudflare Drop",
+  "slug": "cloudflare-drop",
+  "summary": "Temporary Cloudflare file-drop pages for quick sharing.",
+  "thing_url": "https://www.cloudflare.com/drop/",
+  "times_seen": 1,
+  "why_included": "It landed as an immediately understandable utility, not a vague infrastructure demo."
+}

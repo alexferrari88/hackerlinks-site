@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "follow-london-trains-in-3d",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:follow-london-trains-in-3d:48786455",
+  "mention_ids": [
+    "2026-07-08:follow-london-trains-in-3d:48786455"
+  ],
+  "name": "Follow London Trains in 3D",
+  "slug": "follow-london-trains-in-3d",
+  "summary": "A 3D London train tracker that shows routes over buildings.",
+  "thing_url": "https://ride.nexttrain.london/",
+  "times_seen": 1,
+  "why_included": "People immediately reacted to the visual novelty and the \"see the tunnels\" angle."
+}

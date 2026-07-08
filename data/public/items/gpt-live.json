@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "gpt-live",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:gpt-live:48834405",
+  "mention_ids": [
+    "2026-07-08:gpt-live:48834405"
+  ],
+  "name": "GPT-Live",
+  "slug": "gpt-live",
+  "summary": "OpenAI's full-duplex voice model with better interruption handling.",
+  "thing_url": "https://openai.com/index/introducing-gpt-live/",
+  "times_seen": 1,
+  "why_included": "The voice-mode behavior sounded like a real product improvement, not just a marketing demo."
+}

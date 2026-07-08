@@ -4975,6 +4975,66 @@
       "first_reported_at": "2026-07-07T21:24:40Z",
       "last_reported_at": "2026-07-07T21:24:40Z",
       "times_reported": 1
+    },
+    {
+      "name": "SWE-1.7",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GPT-Live",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Grok 4.5",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Chatto",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Follow London Trains in 3D",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TabFont",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cloudflare Drop",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Flint",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cloudflare Meerkat",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TypeScript 7",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
     }
   ]
 }

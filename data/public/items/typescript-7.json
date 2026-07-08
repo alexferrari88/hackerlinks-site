@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "typescript-7",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:typescript-7:48833715",
+  "mention_ids": [
+    "2026-07-08:typescript-7:48833715"
+  ],
+  "name": "TypeScript 7",
+  "slug": "typescript-7",
+  "summary": "TypeScript compiler release with big editor and build speedups.",
+  "thing_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+  "times_seen": 1,
+  "why_included": "The speedup numbers were concrete enough to matter to working developers."
+}

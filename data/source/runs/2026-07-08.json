@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-07-08",
+  "generated_at": "2026-07-08T21:19:16Z",
+  "summary": "10 items surfaced from 21 qualifying HN stories, with the strongest signal clustered around AI models, chat, and infrastructure.",
+  "stories_scraped": 21,
+  "stories_total": 21,
+  "telegram_footer": "10 items surfaced | 21/21 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "SWE-1.7",
+      "category": "AI & Local Models",
+      "thing_url": "https://cognition.com/blog/swe-1-7",
+      "hn_url": "https://news.ycombinator.com/item?id=48833866",
+      "source_story_title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "summary": "Cognition's agentic coding model focused on price/performance.",
+      "why_included": "It sparked serious cost/performance discussion instead of generic model hype.",
+      "evidence": "Commenters compared it with GPT-5.5 and Opus, and repeatedly recommended GLM 5.2 and Minimax M3 alongside it."
+    },
+    {
+      "name": "GPT-Live",
+      "category": "AI & Local Models",
+      "thing_url": "https://openai.com/index/introducing-gpt-live/",
+      "hn_url": "https://news.ycombinator.com/item?id=48834405",
+      "source_story_title": "GPT‑Live",
+      "summary": "OpenAI's full-duplex voice model with better interruption handling.",
+      "why_included": "The voice-mode behavior sounded like a real product improvement, not just a marketing demo.",
+      "evidence": "An OpenAI commenter said they use it daily in CarPlay, and others praised the interruption handling."
+    },
+    {
+      "name": "Grok 4.5",
+      "category": "AI & Local Models",
+      "thing_url": "https://x.ai/news/grok-4-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48835111",
+      "source_story_title": "Grok 4.5",
+      "summary": "xAI's latest model, praised for speed and price.",
+      "why_included": "People were discussing actual usage and pricing, not just benchmark charts.",
+      "evidence": "Comments called it very fast and cheap, with several comparing its price/performance favorably to Opus and GPT."
+    },
+    {
+      "name": "Chatto",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/chattocorp/chatto",
+      "hn_url": "https://news.ycombinator.com/item?id=48833116",
+      "source_story_title": "Chatto is now Open Source",
+      "summary": "Open-source Slack/Discord-style group chat you can self-host.",
+      "why_included": "The thread got unusually concrete praise for self-hosting and day-to-day usability.",
+      "evidence": "Commenters said it feels much nicer than Slack and pointed to the self-hosting docs as a strong plus."
+    },
+    {
+      "name": "Follow London Trains in 3D",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://ride.nexttrain.london/",
+      "hn_url": "https://news.ycombinator.com/item?id=48786455",
+      "source_story_title": "Show HN: Follow London Trains in 3D",
+      "summary": "A 3D London train tracker that shows routes over buildings.",
+      "why_included": "People immediately reacted to the visual novelty and the \"see the tunnels\" angle.",
+      "evidence": "Comments called it cool and neat, and several said it scratched the itch of seeing the underground network from above."
+    },
+    {
+      "name": "TabFont",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://philatype.com/tabfont/",
+      "hn_url": "https://news.ycombinator.com/item?id=48794062",
+      "source_story_title": "TabFont – guitar tabs rendered as you type",
+      "summary": "Guitar tabs rendered live as you type.",
+      "why_included": "It solved an obvious pain point for guitar players and got immediate practical interest.",
+      "evidence": "Commenters said it should obviously exist and that it solves real guitar-tab problems."
+    },
+    {
+      "name": "Cloudflare Drop",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://www.cloudflare.com/drop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48836233",
+      "source_story_title": "Cloudflare Drop",
+      "summary": "Temporary Cloudflare file-drop pages for quick sharing.",
+      "why_included": "It landed as an immediately understandable utility, not a vague infrastructure demo.",
+      "evidence": "HN called it fun and useful, while others compared it directly to simple FTP-style sharing."
+    },
+    {
+      "name": "Flint",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://microsoft.github.io/flint-chart/#/",
+      "hn_url": "https://news.ycombinator.com/item?id=48834924",
+      "source_story_title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "Microsoft's DSL for charts and reports aimed at AI agents.",
+      "why_included": "Several comments found it useful beyond agents and compared it to mature chart DSLs.",
+      "evidence": "Commenters said the DSL is useful even for humans and compared it with Mermaid/Graphviz-style tooling."
+    },
+    {
+      "name": "Cloudflare Meerkat",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "hn_url": "https://news.ycombinator.com/item?id=48831565",
+      "source_story_title": "Cloudflare Meerkat - Globally distributed consensus",
+      "summary": "Cloudflare's globally distributed consensus service.",
+      "why_included": "The thread surfaced real distributed-systems pain that this product is meant to address.",
+      "evidence": "People said it could be a useful building block, and one commenter called it genuinely useful for messy Raft-cluster problems."
+    },
+    {
+      "name": "TypeScript 7",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48833715",
+      "source_story_title": "TypeScript 7",
+      "summary": "TypeScript compiler release with big editor and build speedups.",
+      "why_included": "The speedup numbers were concrete enough to matter to working developers.",
+      "evidence": "RC users said their editor complaints mostly disappeared, and the release notes' speedups were highlighted."
+    }
+  ]
+}

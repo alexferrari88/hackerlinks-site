@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "flint",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:flint:48834924",
+  "mention_ids": [
+    "2026-07-08:flint:48834924"
+  ],
+  "name": "Flint",
+  "slug": "flint",
+  "summary": "Microsoft's DSL for charts and reports aimed at AI agents.",
+  "thing_url": "https://microsoft.github.io/flint-chart/#/",
+  "times_seen": 1,
+  "why_included": "Several comments found it useful beyond agents and compared it to mature chart DSLs."
+}

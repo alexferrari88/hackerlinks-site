@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-08T21:19:16Z",
+  "id": "cloudflare-meerkat",
+  "last_seen_at": "2026-07-08T21:19:16Z",
+  "latest_mention_id": "2026-07-08:cloudflare-meerkat:48831565",
+  "mention_ids": [
+    "2026-07-08:cloudflare-meerkat:48831565"
+  ],
+  "name": "Cloudflare Meerkat",
+  "slug": "cloudflare-meerkat",
+  "summary": "Cloudflare's globally distributed consensus service.",
+  "thing_url": "https://blog.cloudflare.com/meerkat-introduction/",
+  "times_seen": 1,
+  "why_included": "The thread surfaced real distributed-systems pain that this product is meant to address."
+}
