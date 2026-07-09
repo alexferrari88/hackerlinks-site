@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "colibri",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:colibri:48842459",
+  "mention_ids": [
+    "2026-07-09:colibri:48842459"
+  ],
+  "name": "Colibri",
+  "slug": "colibri",
+  "summary": "A lightweight local runner for GLM 5.2 on slow computers.",
+  "thing_url": "https://github.com/JustVugg/colibri",
+  "times_seen": 1,
+  "why_included": "The repo got a positive signal from a benchmark-oriented comment on the HN thread."
+}

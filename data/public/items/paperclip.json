@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "paperclip",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:paperclip:48840207",
+  "mention_ids": [
+    "2026-07-09:paperclip:48840207"
+  ],
+  "name": "Paperclip",
+  "slug": "paperclip",
+  "summary": "An agent-first CLI for scientific literature and evidence.",
+  "thing_url": "https://paperclip.gxl.ai/",
+  "times_seen": 1,
+  "why_included": "The project drew useful feedback around search, filtering, and research workflows."
+}

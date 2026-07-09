@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter said, \"I do this exactly, using ACME DNS,\" in the internal certificate discussion.",
+  "hn_url": "https://news.ycombinator.com/item?id=48846995",
+  "id": "2026-07-09:acme-dns:48846995",
+  "is_repeat": false,
+  "issue_id": "2026-07-09",
+  "item_id": "acme-dns",
+  "rank": 8,
+  "seen_at": "2026-07-09T21:13:39.342792Z",
+  "source_story_id": "48846995",
+  "source_story_title": "TLS certificates for internal services done right"
+}

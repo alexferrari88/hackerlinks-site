@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "chatgpt-work",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:chatgpt-work:48849059",
+  "mention_ids": [
+    "2026-07-09:chatgpt-work:48849059"
+  ],
+  "name": "ChatGPT Work",
+  "slug": "chatgpt-work",
+  "summary": "OpenAI's work-focused ChatGPT/Codex UI consolidation.",
+  "thing_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+  "times_seen": 1,
+  "why_included": "The thread made the product shift concrete by focusing on how OpenAI merged the work and coding surfaces."
+}

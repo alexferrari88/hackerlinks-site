@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "muse-spark-1-1",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:muse-spark-1-1:48846184",
+  "mention_ids": [
+    "2026-07-09:muse-spark-1-1:48846184"
+  ],
+  "name": "Muse Spark 1.1",
+  "slug": "muse-spark-1-1",
+  "summary": "Meta's model API release pitched at lower-cost inference.",
+  "thing_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+  "times_seen": 1,
+  "why_included": "Readers compared its pricing and capability directly with other frontier model APIs."
+}

@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-07-09",
+  "generated_at": "2026-07-09T21:13:39.342792Z",
+  "summary": "High-signal product and tool mentions mined from 25 scraped front-page stories, led by AI releases and developer tooling.",
+  "stories_scraped": 25,
+  "stories_total": 25,
+  "telegram_footer": "10 items surfaced | 25/25 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "GPT-5.6",
+      "category": "AI & Local Models",
+      "thing_url": "https://openai.com/index/gpt-5-6/",
+      "hn_url": "https://news.ycombinator.com/item?id=48849066",
+      "source_story_title": "GPT-5.6",
+      "summary": "OpenAI's latest model release with prompt-length and token-spend debate.",
+      "why_included": "Commenters treated it as the main model drop and compared it directly with Codex and Claude Code.",
+      "evidence": "Replies compared GPT-5.6 with Codex and Claude Code, and debated whether shorter prompts really save tokens."
+    },
+    {
+      "name": "ChatGPT Work",
+      "category": "AI & Local Models",
+      "thing_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "hn_url": "https://news.ycombinator.com/item?id=48849059",
+      "source_story_title": "ChatGPT Work",
+      "summary": "OpenAI's work-focused ChatGPT/Codex UI consolidation.",
+      "why_included": "The thread made the product shift concrete by focusing on how OpenAI merged the work and coding surfaces.",
+      "evidence": "Commenters focused on the confusing split between ChatGPT Work and ChatGPT Codex, calling the app change hard to follow."
+    },
+    {
+      "name": "Muse Spark 1.1",
+      "category": "AI & Local Models",
+      "thing_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "hn_url": "https://news.ycombinator.com/item?id=48846184",
+      "source_story_title": "Muse Spark 1.1",
+      "summary": "Meta's model API release pitched at lower-cost inference.",
+      "why_included": "Readers compared its pricing and capability directly with other frontier model APIs.",
+      "evidence": "Discussion compared Muse Spark 1.1 with Grok 4.5 and highlighted the cached-input price/performance tradeoff."
+    },
+    {
+      "name": "Pangram",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.pangram.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48847940",
+      "source_story_title": "AI content is everywhere on social media, especially LinkedIn",
+      "summary": "An AI text detector and browser extension for written content.",
+      "why_included": "It surfaced as a concrete AI-detection product with direct praise from commenters.",
+      "evidence": "One commenter said 'Pangram does work' and described it as useful for spotting AI-written text."
+    },
+    {
+      "name": "Colibri",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/JustVugg/colibri",
+      "hn_url": "https://news.ycombinator.com/item?id=48842459",
+      "source_story_title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "summary": "A lightweight local runner for GLM 5.2 on slow computers.",
+      "why_included": "The repo got a positive signal from a benchmark-oriented comment on the HN thread.",
+      "evidence": "A commenter said the readme benchmarks looked great across different hardware and reported good times on the Colibri runs."
+    },
+    {
+      "name": "Context.dev",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.context.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48847562",
+      "source_story_title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "summary": "An API that turns websites into structured data and screenshots.",
+      "why_included": "The launch thread produced a strong positive user report and a concrete alternative suggestion.",
+      "evidence": "A user said Context.dev was a great product that made a hard problem disappear, then recommended Intercept as an alternative."
+    },
+    {
+      "name": "Intercept",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/adam-s/intercept",
+      "hn_url": "https://news.ycombinator.com/item?id=48847562",
+      "source_story_title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "summary": "A typed proxy API that maps the real transport layer of websites.",
+      "why_included": "It was recommended outright as a possible replacement for scraping-heavy workflows.",
+      "evidence": "One commenter said \"Have a look at Intercept\" and described it as a typed TypeScript proxy API that reverse-engineers website traffic."
+    },
+    {
+      "name": "acme-dns",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/acme-dns/acme-dns",
+      "hn_url": "https://news.ycombinator.com/item?id=48846995",
+      "source_story_title": "TLS certificates for internal services done right",
+      "summary": "An ACME DNS helper for issuing certs to internal services.",
+      "why_included": "The thread contained a direct real-world endorsement from someone using it in production.",
+      "evidence": "A commenter said, \"I do this exactly, using ACME DNS,\" in the internal certificate discussion."
+    },
+    {
+      "name": "Paperclip",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://paperclip.gxl.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48840207",
+      "source_story_title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+      "summary": "An agent-first CLI for scientific literature and evidence.",
+      "why_included": "The project drew useful feedback around search, filtering, and research workflows.",
+      "evidence": "Commenters called the atlas neat, asked for search-term filtering, and described it as useful for exploring a corpus."
+    },
+    {
+      "name": "Analog Watch",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://analog.watch",
+      "hn_url": "https://news.ycombinator.com/item?id=48846510",
+      "source_story_title": "Show HN: Analog Watch",
+      "summary": "An interactive analog watch game that trains clock reading.",
+      "why_included": "It got straightforward positive playtesting feedback and looked like a polished side project.",
+      "evidence": "Replies called it fun and said the practice rounds were needed to stay sharp."
+    }
+  ]
+}

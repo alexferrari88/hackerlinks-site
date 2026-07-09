@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "intercept",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:intercept:48847562",
+  "mention_ids": [
+    "2026-07-09:intercept:48847562"
+  ],
+  "name": "Intercept",
+  "slug": "intercept",
+  "summary": "A typed proxy API that maps the real transport layer of websites.",
+  "thing_url": "https://github.com/adam-s/intercept",
+  "times_seen": 1,
+  "why_included": "It was recommended outright as a possible replacement for scraping-heavy workflows."
+}

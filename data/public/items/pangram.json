@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "pangram",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:pangram:48847940",
+  "mention_ids": [
+    "2026-07-09:pangram:48847940"
+  ],
+  "name": "Pangram",
+  "slug": "pangram",
+  "summary": "An AI text detector and browser extension for written content.",
+  "thing_url": "https://www.pangram.com/",
+  "times_seen": 1,
+  "why_included": "It surfaced as a concrete AI-detection product with direct praise from commenters."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-09T21:13:39.342792Z",
+  "id": "gpt-5-6",
+  "last_seen_at": "2026-07-09T21:13:39.342792Z",
+  "latest_mention_id": "2026-07-09:gpt-5-6:48849066",
+  "mention_ids": [
+    "2026-07-09:gpt-5-6:48849066"
+  ],
+  "name": "GPT-5.6",
+  "slug": "gpt-5-6",
+  "summary": "OpenAI's latest model release with prompt-length and token-spend debate.",
+  "thing_url": "https://openai.com/index/gpt-5-6/",
+  "times_seen": 1,
+  "why_included": "Commenters treated it as the main model drop and compared it directly with Codex and Claude Code."
+}

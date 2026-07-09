@@ -21,6 +21,12 @@
       "times_reported": 1
     },
     {
+      "name": "30papers.com",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "5x5 Pixel font",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
@@ -36,6 +42,12 @@
       "name": "86-DOS version 0.1-C",
       "first_reported_at": "2026-05-24T21:19:07Z",
       "last_reported_at": "2026-05-24T21:19:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "A global workspace in language models",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
       "times_reported": 1
     },
     {
@@ -60,6 +72,12 @@
       "name": "Accelerate",
       "first_reported_at": "2026-05-16T21:36:59Z",
       "last_reported_at": "2026-05-16T21:36:59Z",
+      "times_reported": 1
+    },
+    {
+      "name": "acme-dns",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
       "times_reported": 1
     },
     {
@@ -102,6 +120,18 @@
       "name": "Am I Unique?",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Analog Watch",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
       "times_reported": 1
     },
     {
@@ -198,6 +228,12 @@
       "name": "Assassin's Creed Odyssey",
       "first_reported_at": "2026-05-29T21:09:53Z",
       "last_reported_at": "2026-05-29T21:09:53Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Astro",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
       "times_reported": 1
     },
     {
@@ -549,6 +585,18 @@
       "times_reported": 1
     },
     {
+      "name": "ChatGPT Work",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Chatto",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
       "name": "Chert",
       "first_reported_at": "2026-05-25T21:20:05Z",
       "last_reported_at": "2026-05-25T21:20:05Z",
@@ -669,15 +717,33 @@
       "times_reported": 1
     },
     {
+      "name": "Clojure 1.13 adds support for checked keys",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Cloudflare CLI",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "times_reported": 1
     },
     {
+      "name": "Cloudflare Drop",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
       "name": "Cloudflare Email Routing",
       "first_reported_at": "2026-06-16T21:15:35Z",
       "last_reported_at": "2026-06-16T21:15:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Cloudflare Meerkat",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
       "times_reported": 1
     },
     {
@@ -711,6 +777,12 @@
       "times_reported": 1
     },
     {
+      "name": "Colibri",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
       "name": "CoMaps",
       "first_reported_at": "2026-07-05T21:17:49Z",
       "last_reported_at": "2026-07-05T21:17:49Z",
@@ -738,6 +810,12 @@
       "name": "Composer 2.5",
       "first_reported_at": "2026-06-17T03:27:34Z",
       "last_reported_at": "2026-06-17T03:27:34Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Context.dev",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
       "times_reported": 1
     },
     {
@@ -885,6 +963,12 @@
       "times_reported": 1
     },
     {
+      "name": "Davit",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "DBOS",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
@@ -915,6 +999,12 @@
       "times_reported": 2
     },
     {
+      "name": "DeepSeek-V4-Flash",
+      "first_reported_at": "2026-05-16T21:36:59Z",
+      "last_reported_at": "2026-05-16T21:36:59Z",
+      "times_reported": 1
+    },
+    {
       "name": "DeepSeek V4 Preview",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
@@ -930,12 +1020,6 @@
       "name": "DeepSeek Vision",
       "first_reported_at": "2026-06-18T21:28:27Z",
       "last_reported_at": "2026-06-18T21:28:27Z",
-      "times_reported": 1
-    },
-    {
-      "name": "DeepSeek-V4-Flash",
-      "first_reported_at": "2026-05-16T21:36:59Z",
-      "last_reported_at": "2026-05-16T21:36:59Z",
       "times_reported": 1
     },
     {
@@ -1239,6 +1323,12 @@
       "times_reported": 1
     },
     {
+      "name": "Flint",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
       "name": "flipbook.page",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
@@ -1266,6 +1356,12 @@
       "name": "Flue",
       "first_reported_at": "2026-06-26T21:24:10.400244Z",
       "last_reported_at": "2026-06-26T21:24:10.400244Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Follow London Trains in 3D",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
       "times_reported": 1
     },
     {
@@ -1479,15 +1575,15 @@
       "times_reported": 1
     },
     {
-      "name": "Git commits as folders via NFS",
-      "first_reported_at": "2026-05-21T21:20:56Z",
-      "last_reported_at": "2026-05-21T21:20:56Z",
-      "times_reported": 1
-    },
-    {
       "name": "git-annex",
       "first_reported_at": "2026-06-24T21:10:29Z",
       "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Git commits as folders via NFS",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
       "times_reported": 1
     },
     {
@@ -1575,6 +1671,18 @@
       "times_reported": 1
     },
     {
+      "name": "GPT-5.6",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GPT-Live",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
       "name": "GPT-NL",
       "first_reported_at": "2026-06-17T03:27:34Z",
       "last_reported_at": "2026-06-17T03:27:34Z",
@@ -1614,6 +1722,12 @@
       "name": "Greek Alphabet Cards",
       "first_reported_at": "2026-05-16T21:36:59Z",
       "last_reported_at": "2026-05-16T21:36:59Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Grok 4.5",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
       "times_reported": 1
     },
     {
@@ -1680,6 +1794,12 @@
       "name": "Hengefinder",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Herdr",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
       "times_reported": 1
     },
     {
@@ -1839,6 +1959,12 @@
       "times_reported": 1
     },
     {
+      "name": "Intercept",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
       "name": "Interfaze",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
@@ -1935,6 +2061,12 @@
       "times_reported": 1
     },
     {
+      "name": "Jim's TrueType QR Code Font",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Journey",
       "first_reported_at": "2026-06-27T21:23:27Z",
       "last_reported_at": "2026-06-27T21:23:27Z",
@@ -1995,6 +2127,12 @@
       "times_reported": 1
     },
     {
+      "name": "Kani: A Model Checker for Rust",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Kdenlive",
       "first_reported_at": "2026-04-18T21:11:46Z",
       "last_reported_at": "2026-04-18T21:11:46Z",
@@ -2049,6 +2187,12 @@
       "times_reported": 1
     },
     {
+      "name": "Kokoro",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Komai",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -2076,6 +2220,12 @@
       "name": "Kyushu",
       "first_reported_at": "2026-06-07T21:23:51Z",
       "last_reported_at": "2026-06-07T21:23:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "l",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
       "times_reported": 1
     },
     {
@@ -2205,6 +2355,12 @@
       "times_reported": 1
     },
     {
+      "name": "Linux on the Atari Jaguar. No, really.",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Liquid Haskell",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
@@ -2256,6 +2412,12 @@
       "name": "MacMind",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MacSurf",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
       "times_reported": 1
     },
     {
@@ -2565,6 +2727,12 @@
       "times_reported": 1
     },
     {
+      "name": "Muse Spark 1.1",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
       "name": "MusicDecoy",
       "first_reported_at": "2026-06-08T21:22:08Z",
       "last_reported_at": "2026-06-08T21:22:08Z",
@@ -2769,6 +2937,12 @@
       "times_reported": 1
     },
     {
+      "name": "OfficeCLI",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Oil Shell",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
@@ -2829,18 +3003,6 @@
       "times_reported": 1
     },
     {
-      "name": "Open Source Low Tech",
-      "first_reported_at": "2026-06-30T21:15:09Z",
-      "last_reported_at": "2026-06-30T21:15:09Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Open WebUI",
-      "first_reported_at": "2026-06-15T21:10:59+00:00",
-      "last_reported_at": "2026-06-15T21:10:59+00:00",
-      "times_reported": 1
-    },
-    {
       "name": "open-artisan",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -2850,6 +3012,18 @@
       "name": "Open-Source AI Racing Harness",
       "first_reported_at": "2026-05-28T21:20:20Z",
       "last_reported_at": "2026-05-28T21:20:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open Source Low Tech",
+      "first_reported_at": "2026-06-30T21:15:09Z",
+      "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open WebUI",
+      "first_reported_at": "2026-06-15T21:10:59+00:00",
+      "last_reported_at": "2026-06-15T21:10:59+00:00",
       "times_reported": 1
     },
     {
@@ -2985,6 +3159,12 @@
       "times_reported": 1
     },
     {
+      "name": "OpenWrt One",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Optery",
       "first_reported_at": "2026-05-13T21:22:29Z",
       "last_reported_at": "2026-05-13T21:22:29Z",
@@ -3057,9 +3237,21 @@
       "times_reported": 1
     },
     {
+      "name": "Pangram",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
       "name": "PanicLock",
       "first_reported_at": "2026-04-17T21:19:50Z",
       "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Paperclip",
+      "first_reported_at": "2026-07-09T21:13:39.342792Z",
+      "last_reported_at": "2026-07-09T21:13:39.342792Z",
       "times_reported": 1
     },
     {
@@ -3138,6 +3330,12 @@
       "name": "pg_durable",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PgDog",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
       "times_reported": 1
     },
     {
@@ -3339,6 +3537,12 @@
       "times_reported": 1
     },
     {
+      "name": "Pulpie",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "pxehost",
       "first_reported_at": "2026-06-20T21:10:15Z",
       "last_reported_at": "2026-06-20T21:10:15Z",
@@ -3489,6 +3693,12 @@
       "times_reported": 1
     },
     {
+      "name": "Real-time map of Great Britain's rail network",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "REAPER",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
@@ -3570,6 +3780,12 @@
       "name": "RK3562 Debian Linux workstation",
       "first_reported_at": "2026-05-17T21:23:02Z",
       "last_reported_at": "2026-05-17T21:23:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Road to Elm 1.0",
+      "first_reported_at": "2026-07-06T21:13:40Z",
+      "last_reported_at": "2026-07-06T21:13:40Z",
       "times_reported": 1
     },
     {
@@ -3981,6 +4197,12 @@
       "times_reported": 1
     },
     {
+      "name": "StreetComplete",
+      "first_reported_at": "2026-07-07T21:24:40Z",
+      "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
       "name": "Structured Output Benchmark",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
@@ -4041,6 +4263,12 @@
       "times_reported": 1
     },
     {
+      "name": "SWE-1.7",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
       "name": "SWI-Prolog",
       "first_reported_at": "2026-05-22T21:12:30Z",
       "last_reported_at": "2026-05-22T21:12:30Z",
@@ -4080,6 +4308,12 @@
       "name": "Syncthing",
       "first_reported_at": "2026-05-18T21:15:39Z",
       "last_reported_at": "2026-05-18T21:15:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TabFont",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
       "times_reported": 1
     },
     {
@@ -4326,6 +4560,12 @@
       "name": "TypedMemory",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TypeScript 7",
+      "first_reported_at": "2026-07-08T21:19:16Z",
+      "last_reported_at": "2026-07-08T21:19:16Z",
       "times_reported": 1
     },
     {
@@ -4854,186 +5094,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OpenWrt One",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Real-time map of Great Britain's rail network",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Pulpie",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "A global workspace in language models",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "OfficeCLI",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Road to Elm 1.0",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Clojure 1.13 adds support for checked keys",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Kani: A Model Checker for Rust",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Linux on the Atari Jaguar. No, really.",
-      "first_reported_at": "2026-07-06T21:13:40Z",
-      "last_reported_at": "2026-07-06T21:13:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "StreetComplete",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "30papers.com",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Davit",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Herdr",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "MacSurf",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Jim's TrueType QR Code Font",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Kokoro",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "l",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "PgDog",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Astro",
-      "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
-    },
-    {
-      "name": "SWE-1.7",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "GPT-Live",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Grok 4.5",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Chatto",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Follow London Trains in 3D",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "TabFont",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Cloudflare Drop",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Flint",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Cloudflare Meerkat",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
-      "times_reported": 1
-    },
-    {
-      "name": "TypeScript 7",
-      "first_reported_at": "2026-07-08T21:19:16Z",
-      "last_reported_at": "2026-07-08T21:19:16Z",
       "times_reported": 1
     }
   ]
