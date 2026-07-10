@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "frigade-skills",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:frigade-skills:48847834",
+  "mention_ids": [
+    "2026-07-10:frigade-skills:48847834"
+  ],
+  "name": "Frigade Skills",
+  "slug": "frigade-skills",
+  "summary": "An agent layer that learns in-app actions and lets assistants execute them client-side.",
+  "thing_url": "https://frigade.com/features/skills",
+  "times_seen": 1,
+  "why_included": "A concrete approach to turning web-app workflows into usable agent capabilities."
+}

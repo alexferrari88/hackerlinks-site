@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "anki",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:anki:48861319",
+  "mention_ids": [
+    "2026-07-10:anki:48861319"
+  ],
+  "name": "Anki",
+  "slug": "anki",
+  "summary": "A spaced-repetition flashcard app for durable recall across languages, medicine, and technical subjects.",
+  "thing_url": "https://apps.ankiweb.net/",
+  "times_seen": 1,
+  "why_included": "A well-established learning tool backed by unusually practical discussion of how to use it well."
+}

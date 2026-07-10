@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "memory-machines",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:memory-machines:48861319",
+  "mention_ids": [
+    "2026-07-10:memory-machines:48861319"
+  ],
+  "name": "Memory Machines",
+  "slug": "memory-machines",
+  "summary": "Research and tools for designing better spaced-repetition learning prompts.",
+  "thing_url": "https://memory-machines.com/",
+  "times_seen": 1,
+  "why_included": "Useful companion material for anyone trying to make flashcards less mechanical and more effective."
+}

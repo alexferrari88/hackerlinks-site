@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "war-atlas",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:war-atlas:48863080",
+  "mention_ids": [
+    "2026-07-10:war-atlas:48863080"
+  ],
+  "name": "War Atlas",
+  "slug": "war-atlas",
+  "summary": "An interactive map and timeline of named wars across human history.",
+  "thing_url": "https://waratlas.org",
+  "times_seen": 1,
+  "why_included": "A compact, explorable historical reference with broad serendipity value."
+}

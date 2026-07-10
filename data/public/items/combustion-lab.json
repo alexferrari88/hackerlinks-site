@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "combustion-lab",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:combustion-lab:48795900",
+  "mention_ids": [
+    "2026-07-10:combustion-lab:48795900"
+  ],
+  "name": "Combustion Lab",
+  "slug": "combustion-lab",
+  "summary": "A browser-based internal-combustion-engine simulator with live mechanical diagrams.",
+  "thing_url": "https://combustionlab.net",
+  "times_seen": 1,
+  "why_included": "A visually strong educational simulation for understanding engine motion and cycles."
+}

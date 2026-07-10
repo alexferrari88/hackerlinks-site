@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "neralie",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:neralie:48810543",
+  "mention_ids": [
+    "2026-07-10:neralie:48810543"
+  ],
+  "name": "Neralie",
+  "slug": "neralie",
+  "summary": "A decimal-time format with 1,000 beats and one million pulses per day.",
+  "thing_url": "https://wiki.xxiivv.com/site/neralie.html",
+  "times_seen": 1,
+  "why_included": "A distinctive, usable alternate-time design with an open implementation."
+}

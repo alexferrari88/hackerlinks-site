@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "quadrf",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:quadrf:48861717",
+  "mention_ids": [
+    "2026-07-10:quadrf:48861717"
+  ],
+  "name": "QuadRF",
+  "slug": "quadrf",
+  "summary": "A 4\u00d74 MIMO software-defined radio platform for visualizing RF sources and beamforming.",
+  "thing_url": "https://scalerf.com/",
+  "times_seen": 1,
+  "why_included": "An unusually accessible phased-array SDR kit with concrete maker and engineering appeal."
+}

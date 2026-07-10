@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "run_date": "2026-07-10",
+  "generated_at": "2026-07-10T21:08:51.108728Z",
+  "summary": "Daily broad HN comment scan; 10 concrete products, references, and creative projects selected after full reachable-comment coverage.",
+  "stories_scraped": 25,
+  "stories_total": 25,
+  "telegram_footer": "10 items surfaced | 25/25 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "QuadRF",
+      "category": "Hardware & RF",
+      "thing_url": "https://scalerf.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48861717",
+      "source_story_title": "QuadRF can spot drones and see WiFi through my wall",
+      "summary": "A 4×4 MIMO software-defined radio platform for visualizing RF sources and beamforming.",
+      "why_included": "An unusually accessible phased-array SDR kit with concrete maker and engineering appeal.",
+      "evidence": "Commenters highlighted its hobbyist-friendly packaging, Wi-Fi RF visualization, and open-source customization."
+    },
+    {
+      "name": "War Atlas",
+      "category": "Interactive History & Learning",
+      "thing_url": "https://waratlas.org",
+      "hn_url": "https://news.ycombinator.com/item?id=48863080",
+      "source_story_title": "War Atlas: An interactive cartography of every named war in human history",
+      "summary": "An interactive map and timeline of named wars across human history.",
+      "why_included": "A compact, explorable historical reference with broad serendipity value.",
+      "evidence": "HN readers praised the interactive concept while discussing its cartographic choices and historical coverage."
+    },
+    {
+      "name": "Combustion Lab",
+      "category": "Interactive History & Learning",
+      "thing_url": "https://combustionlab.net",
+      "hn_url": "https://news.ycombinator.com/item?id=48795900",
+      "source_story_title": "Combustion Engine Web-Based Simulator",
+      "summary": "A browser-based internal-combustion-engine simulator with live mechanical diagrams.",
+      "why_included": "A visually strong educational simulation for understanding engine motion and cycles.",
+      "evidence": "Commenters called the live diagrams impressive, while noting that physical validation still matters."
+    },
+    {
+      "name": "Anki",
+      "category": "Learning & Memory",
+      "thing_url": "https://apps.ankiweb.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48861319",
+      "source_story_title": "A Love Letter to Flashcards",
+      "summary": "A spaced-repetition flashcard app for durable recall across languages, medicine, and technical subjects.",
+      "why_included": "A well-established learning tool backed by unusually practical discussion of how to use it well.",
+      "evidence": "HN users recommended sentence mining, custom cards, and active-recall practice rather than rote cramming."
+    },
+    {
+      "name": "Memory Machines",
+      "category": "Learning & Memory",
+      "thing_url": "https://memory-machines.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48861319",
+      "source_story_title": "A Love Letter to Flashcards",
+      "summary": "Research and tools for designing better spaced-repetition learning prompts.",
+      "why_included": "Useful companion material for anyone trying to make flashcards less mechanical and more effective.",
+      "evidence": "A commenter recommended its report by Ozzie Kirkby and Andy Matuschak for thinking about modern SRS practice."
+    },
+    {
+      "name": "Lost Worlds",
+      "category": "Books & History",
+      "thing_url": "https://www.harpercollins.com/products/lost-worlds-patrick-wyman",
+      "hn_url": "https://news.ycombinator.com/item?id=48858737",
+      "source_story_title": "Late Bronze Age Collapse",
+      "summary": "Patrick Wyman’s history book reexamining how humans moved from foraging to early states.",
+      "why_included": "A fresh, concrete reading recommendation for people drawn to the Bronze Age Collapse discussion.",
+      "evidence": "HN commenters recommended it for challenging the familiar linear story of farming, cities, and states."
+    },
+    {
+      "name": "Frigade Skills",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://frigade.com/features/skills",
+      "hn_url": "https://news.ycombinator.com/item?id=48847834",
+      "source_story_title": "Show HN: Reverse-engineering web apps into agent tools",
+      "summary": "An agent layer that learns in-app actions and lets assistants execute them client-side.",
+      "why_included": "A concrete approach to turning web-app workflows into usable agent capabilities.",
+      "evidence": "The maker said training runs in demo or staging environments and tool calls execute in the client."
+    },
+    {
+      "name": "Fading Maize",
+      "category": "Music & Creative Tools",
+      "thing_url": "https://www.fadingmaize.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48851476",
+      "source_story_title": "Show HN: Reviving my 2001 college band with AI",
+      "summary": "A project revisiting early-2000s band recordings through AI-assisted musical reinterpretation.",
+      "why_included": "A thoughtful creative experiment that documents both the promise and limitations of AI music.",
+      "evidence": "The creators described it as a nostalgic collaboration, while commenters debated the smoother AI-produced sound."
+    },
+    {
+      "name": "Neralie",
+      "category": "Time & Visual Design",
+      "thing_url": "https://wiki.xxiivv.com/site/neralie.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48810543",
+      "source_story_title": "Alternate Clock Designs and Time Systems",
+      "summary": "A decimal-time format with 1,000 beats and one million pulses per day.",
+      "why_included": "A distinctive, usable alternate-time design with an open implementation.",
+      "evidence": "An HN commenter recommended Neralie as a favorite base-10 clock and linked its specification and source."
+    },
+    {
+      "name": "DayClocks",
+      "category": "Time & Visual Design",
+      "thing_url": "https://dayclocks.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48810543",
+      "source_story_title": "Alternate Clock Designs and Time Systems",
+      "summary": "A seven-segment clock that prominently displays the current day of the week.",
+      "why_included": "A simple physical product that solves an ordinary, surprisingly useful orientation problem.",
+      "evidence": "A commenter called it a favorite retirement gift and reported later thanks from recipients who used it."
+    }
+  ]
+}

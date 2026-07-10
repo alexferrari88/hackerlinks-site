@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-10T21:08:51.108728Z",
+  "id": "dayclocks",
+  "last_seen_at": "2026-07-10T21:08:51.108728Z",
+  "latest_mention_id": "2026-07-10:dayclocks:48810543",
+  "mention_ids": [
+    "2026-07-10:dayclocks:48810543"
+  ],
+  "name": "DayClocks",
+  "slug": "dayclocks",
+  "summary": "A seven-segment clock that prominently displays the current day of the week.",
+  "thing_url": "https://dayclocks.com/",
+  "times_seen": 1,
+  "why_included": "A simple physical product that solves an ordinary, surprisingly useful orientation problem."
+}

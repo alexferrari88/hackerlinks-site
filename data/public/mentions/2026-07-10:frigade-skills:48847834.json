@@ -1,0 +1,12 @@
+{
+  "evidence": "The maker said training runs in demo or staging environments and tool calls execute in the client.",
+  "hn_url": "https://news.ycombinator.com/item?id=48847834",
+  "id": "2026-07-10:frigade-skills:48847834",
+  "is_repeat": false,
+  "issue_id": "2026-07-10",
+  "item_id": "frigade-skills",
+  "rank": 7,
+  "seen_at": "2026-07-10T21:08:51.108728Z",
+  "source_story_id": "48847834",
+  "source_story_title": "Show HN: Reverse-engineering web apps into agent tools"
+}
