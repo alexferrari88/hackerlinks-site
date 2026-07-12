@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter explicitly recommended it for long-horizon work, reporting substantial token savings.",
+  "hn_url": "https://news.ycombinator.com/item?id=48883275",
+  "id": "2026-07-12:dynamic-context-pruning:48883275",
+  "is_repeat": false,
+  "issue_id": "2026-07-12",
+  "item_id": "dynamic-context-pruning",
+  "rank": 2,
+  "seen_at": "2026-07-12T21:08:26Z",
+  "source_story_id": "48883275",
+  "source_story_title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+}

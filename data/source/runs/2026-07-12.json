@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "run_date": "2026-07-12",
+  "generated_at": "2026-07-12T21:08:26Z",
+  "summary": "Fresh concrete product and tool mentions from the HN front page comment crawl.",
+  "stories_scraped": 21,
+  "stories_total": 21,
+  "telegram_footer": "11 items surfaced | 21/21 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "category": "AI & Agent Workflows",
+      "name": "Pi",
+      "thing_url": "https://github.com/earendil-works/pi",
+      "hn_url": "https://news.ycombinator.com/item?id=48883275",
+      "source_story_title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "summary": "An extensible terminal coding-agent toolkit with a deliberately small default prompt.",
+      "why_included": "Several commenters recommended Pi as a lower-overhead, more controllable alternative to bundled coding-agent harnesses.",
+      "evidence": "HN users said Pi sends roughly 1k tokens of setup context and praised its transparent, extensible workflow."
+    },
+    {
+      "category": "AI & Agent Workflows",
+      "name": "Dynamic Context Pruning",
+      "thing_url": "https://github.com/Opencode-DCP/opencode-dynamic-context-pruning",
+      "hn_url": "https://news.ycombinator.com/item?id=48883275",
+      "source_story_title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "summary": "An OpenCode plugin that prunes stale conversation context to reduce token use.",
+      "why_included": "It was the clearest concrete recommendation in a discussion about agent-harness token overhead.",
+      "evidence": "A commenter explicitly recommended it for long-horizon work, reporting substantial token savings."
+    },
+    {
+      "category": "AI & Agent Workflows",
+      "name": "Meridian",
+      "thing_url": "https://github.com/rynfar/meridian",
+      "hn_url": "https://news.ycombinator.com/item?id=48883275",
+      "source_story_title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "summary": "A gateway that lets Claude Max subscriptions drive OpenCode-compatible agent clients.",
+      "why_included": "It is a concrete routing layer for separating a coding harness from the model subscription.",
+      "evidence": "The benchmark author identified Meridian as the local proxy used to bridge the Claude Code SDK to a standard Anthropic endpoint."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Ghostel",
+      "thing_url": "https://github.com/dakra/ghostel",
+      "hn_url": "https://news.ycombinator.com/item?id=48879504",
+      "source_story_title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "summary": "An Emacs terminal emulator built on libghostty-vt for responsive integrated terminals.",
+      "why_included": "The project received detailed daily-driver praise from Emacs users and maintainers.",
+      "evidence": "Commenters called it a game-changer, cited better responsiveness than vterm, and discussed active fixes."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Shirei",
+      "thing_url": "https://github.com/hasenj/go-shirei",
+      "hn_url": "https://news.ycombinator.com/item?id=48882562",
+      "source_story_title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "summary": "A native Go GUI framework with direct platform backends and immediate-mode APIs.",
+      "why_included": "It is a new concrete framework with a practical discussion of build size and cross-compilation.",
+      "evidence": "HN reviewers praised its native-Go approach and reported successful Linux and Windows builds."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Odin Book",
+      "thing_url": "https://odinbook.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48880499",
+      "source_story_title": "Understanding the Odin programming language",
+      "summary": "A free online book introducing the Odin systems programming language.",
+      "why_included": "It is a focused learning resource for a concrete language, rather than a generic discussion thread.",
+      "evidence": "The HN discussion examined Odin’s design and positioned the book as an accessible route into the language."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Croc",
+      "thing_url": "https://github.com/schollz/croc",
+      "hn_url": "https://news.ycombinator.com/item?id=48882034",
+      "source_story_title": "Croc: Securely transfer files and folders between two computers",
+      "summary": "A command-line tool for secure, resumable peer-to-peer file and folder transfers.",
+      "why_included": "It was directly recommended as a practical Magic Wormhole alternative.",
+      "evidence": "A commenter reported higher throughput than Magic Wormhole from real use, citing Croc’s multiple TCP connections."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Magic Wormhole",
+      "thing_url": "https://magic-wormhole.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48882034",
+      "source_story_title": "Croc: Securely transfer files and folders between two computers",
+      "summary": "A secure code-based tool for transferring files between computers.",
+      "why_included": "The discussion surfaced it as the established comparison point for choosing a file-transfer tool.",
+      "evidence": "HN commenters compared its Python implementation with Croc’s resumable transfers, proxy support, and single-binary design."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "CheerpJ Applet Runner",
+      "thing_url": "https://cheerpj.com/cheerpj-applet-runner/",
+      "hn_url": "https://news.ycombinator.com/item?id=48880170",
+      "source_story_title": "Old and new apps, via modern coding agents",
+      "summary": "A browser extension that runs legacy Java applets through WebAssembly.",
+      "why_included": "It preserves old educational software without requiring a full rewrite.",
+      "evidence": "A commenter highlighted it as a longstanding solution for running educational Java applets in modern browsers."
+    },
+    {
+      "category": "Privacy & Sandboxing",
+      "name": "Landstrip",
+      "thing_url": "https://github.com/jarkkojs/landstrip",
+      "hn_url": "https://news.ycombinator.com/item?id=48877371",
+      "source_story_title": "What xAI’s Grok build CLI sends to xAI: A wire-level analysis",
+      "summary": "A cross-platform sandbox CLI for confining coding agents with explicit policies.",
+      "why_included": "It addresses the concrete data-exposure risk raised by the Grok Build wire-level analysis.",
+      "evidence": "A commenter recommended Landstrip as a stronger mitigation when untrusted content can influence privileged agent actions."
+    },
+    {
+      "category": "Privacy & Sandboxing",
+      "name": "bubblewrap",
+      "thing_url": "https://github.com/containers/bubblewrap",
+      "hn_url": "https://news.ycombinator.com/item?id=48877371",
+      "source_story_title": "What xAI’s Grok build CLI sends to xAI: A wire-level analysis",
+      "summary": "A Linux sandboxing tool for isolating processes with namespaces and restricted filesystem access.",
+      "why_included": "HN users provided a concrete, reproducible containment pattern for coding agents.",
+      "evidence": "Commenters described using bubblewrap to hide sensitive paths, isolate networking, and allowlist only LLM-provider traffic."
+    }
+  ]
+}

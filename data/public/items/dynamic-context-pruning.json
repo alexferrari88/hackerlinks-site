@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "dynamic-context-pruning",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:dynamic-context-pruning:48883275",
+  "mention_ids": [
+    "2026-07-12:dynamic-context-pruning:48883275"
+  ],
+  "name": "Dynamic Context Pruning",
+  "slug": "dynamic-context-pruning",
+  "summary": "An OpenCode plugin that prunes stale conversation context to reduce token use.",
+  "thing_url": "https://github.com/Opencode-DCP/opencode-dynamic-context-pruning",
+  "times_seen": 1,
+  "why_included": "It was the clearest concrete recommendation in a discussion about agent-harness token overhead."
+}

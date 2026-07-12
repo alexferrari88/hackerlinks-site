@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "bubblewrap",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:bubblewrap:48877371",
+  "mention_ids": [
+    "2026-07-12:bubblewrap:48877371"
+  ],
+  "name": "bubblewrap",
+  "slug": "bubblewrap",
+  "summary": "A Linux sandboxing tool for isolating processes with namespaces and restricted filesystem access.",
+  "thing_url": "https://github.com/containers/bubblewrap",
+  "times_seen": 1,
+  "why_included": "HN users provided a concrete, reproducible containment pattern for coding agents."
+}

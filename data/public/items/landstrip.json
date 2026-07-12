@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "landstrip",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:landstrip:48877371",
+  "mention_ids": [
+    "2026-07-12:landstrip:48877371"
+  ],
+  "name": "Landstrip",
+  "slug": "landstrip",
+  "summary": "A cross-platform sandbox CLI for confining coding agents with explicit policies.",
+  "thing_url": "https://github.com/jarkkojs/landstrip",
+  "times_seen": 1,
+  "why_included": "It addresses the concrete data-exposure risk raised by the Grok Build wire-level analysis."
+}

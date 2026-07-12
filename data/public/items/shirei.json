@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "shirei",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:shirei:48882562",
+  "mention_ids": [
+    "2026-07-12:shirei:48882562"
+  ],
+  "name": "Shirei",
+  "slug": "shirei",
+  "summary": "A native Go GUI framework with direct platform backends and immediate-mode APIs.",
+  "thing_url": "https://github.com/hasenj/go-shirei",
+  "times_seen": 1,
+  "why_included": "It is a new concrete framework with a practical discussion of build size and cross-compilation."
+}

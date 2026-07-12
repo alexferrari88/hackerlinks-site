@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter reported higher throughput than Magic Wormhole from real use, citing Croc\u2019s multiple TCP connections.",
+  "hn_url": "https://news.ycombinator.com/item?id=48882034",
+  "id": "2026-07-12:croc:48882034",
+  "is_repeat": false,
+  "issue_id": "2026-07-12",
+  "item_id": "croc",
+  "rank": 7,
+  "seen_at": "2026-07-12T21:08:26Z",
+  "source_story_id": "48882034",
+  "source_story_title": "Croc: Securely transfer files and folders between two computers"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T21:08:26Z",
+  "headline": "11 interesting things surfaced from HN on 2026-07-12",
+  "id": "2026-07-12",
+  "mention_ids": [
+    "2026-07-12:pi:48883275",
+    "2026-07-12:dynamic-context-pruning:48883275",
+    "2026-07-12:meridian:48883275",
+    "2026-07-12:ghostel:48879504",
+    "2026-07-12:shirei:48882562",
+    "2026-07-12:odin-book:48880499",
+    "2026-07-12:croc:48882034",
+    "2026-07-12:magic-wormhole:48882034",
+    "2026-07-12:cheerpj-applet-runner:48880170",
+    "2026-07-12:landstrip:48877371",
+    "2026-07-12:bubblewrap:48877371"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

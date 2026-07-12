@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "odin-book",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:odin-book:48880499",
+  "mention_ids": [
+    "2026-07-12:odin-book:48880499"
+  ],
+  "name": "Odin Book",
+  "slug": "odin-book",
+  "summary": "A free online book introducing the Odin systems programming language.",
+  "thing_url": "https://odinbook.com/",
+  "times_seen": 1,
+  "why_included": "It is a focused learning resource for a concrete language, rather than a generic discussion thread."
+}

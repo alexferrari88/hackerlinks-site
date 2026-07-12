@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "croc",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:croc:48882034",
+  "mention_ids": [
+    "2026-07-12:croc:48882034"
+  ],
+  "name": "Croc",
+  "slug": "croc",
+  "summary": "A command-line tool for secure, resumable peer-to-peer file and folder transfers.",
+  "thing_url": "https://github.com/schollz/croc",
+  "times_seen": 1,
+  "why_included": "It was directly recommended as a practical Magic Wormhole alternative."
+}

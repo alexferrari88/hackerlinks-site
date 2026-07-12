@@ -1,0 +1,12 @@
+{
+  "evidence": "HN reviewers praised its native-Go approach and reported successful Linux and Windows builds.",
+  "hn_url": "https://news.ycombinator.com/item?id=48882562",
+  "id": "2026-07-12:shirei:48882562",
+  "is_repeat": false,
+  "issue_id": "2026-07-12",
+  "item_id": "shirei",
+  "rank": 5,
+  "seen_at": "2026-07-12T21:08:26Z",
+  "source_story_id": "48882562",
+  "source_story_title": "Show HN: Shirei, cross-platform GUI framework in native Go"
+}

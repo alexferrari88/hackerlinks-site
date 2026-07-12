@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters described using bubblewrap to hide sensitive paths, isolate networking, and allowlist only LLM-provider traffic.",
+  "hn_url": "https://news.ycombinator.com/item?id=48877371",
+  "id": "2026-07-12:bubblewrap:48877371",
+  "is_repeat": false,
+  "issue_id": "2026-07-12",
+  "item_id": "bubblewrap",
+  "rank": 11,
+  "seen_at": "2026-07-12T21:08:26Z",
+  "source_story_id": "48877371",
+  "source_story_title": "What xAI\u2019s Grok build CLI sends to xAI: A wire-level analysis"
+}

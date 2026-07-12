@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-12T21:08:26Z",
+  "id": "magic-wormhole",
+  "last_seen_at": "2026-07-12T21:08:26Z",
+  "latest_mention_id": "2026-07-12:magic-wormhole:48882034",
+  "mention_ids": [
+    "2026-07-12:magic-wormhole:48882034"
+  ],
+  "name": "Magic Wormhole",
+  "slug": "magic-wormhole",
+  "summary": "A secure code-based tool for transferring files between computers.",
+  "thing_url": "https://magic-wormhole.io/",
+  "times_seen": 1,
+  "why_included": "The discussion surfaced it as the established comparison point for choosing a file-transfer tool."
+}
