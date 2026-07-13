@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "video-hub-app",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:video-hub-app:48884984",
+  "mention_ids": [
+    "2026-07-13:video-hub-app:48884984"
+  ],
+  "name": "Video Hub App",
+  "slug": "video-hub-app",
+  "summary": "Desktop app for browsing, searching, tagging, and rating personal video collections.",
+  "thing_url": "https://videohubapp.com/en/",
+  "times_seen": 1,
+  "why_included": "It is a long-running, cross-platform utility with a clear purpose outside the usual AI tooling."
+}

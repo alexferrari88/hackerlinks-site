@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "dom-docx",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:dom-docx:48891267",
+  "mention_ids": [
+    "2026-07-13:dom-docx:48891267"
+  ],
+  "name": "DOM-docx",
+  "slug": "dom-docx",
+  "summary": "MIT-licensed converter from HTML to editable native Word documents.",
+  "thing_url": "https://github.com/floodtide/dom-docx",
+  "times_seen": 1,
+  "why_included": "It targets a persistent document-automation gap: editable DOCX rather than rendered exports."
+}

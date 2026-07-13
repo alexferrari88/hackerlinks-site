@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "narro",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:narro:48884984",
+  "mention_ids": [
+    "2026-07-13:narro:48884984"
+  ],
+  "name": "Narro",
+  "slug": "narro",
+  "summary": "User-curated chronological social feed with no ads, tracking, or infinite scroll.",
+  "thing_url": "https://narro.info",
+  "times_seen": 1,
+  "why_included": "Its finite-feed design is a concrete alternative to engagement-maximizing social apps."
+}

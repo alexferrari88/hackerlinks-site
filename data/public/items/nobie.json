@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "nobie",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:nobie:48896703",
+  "mention_ids": [
+    "2026-07-13:nobie:48896703"
+  ],
+  "name": "Nobie",
+  "slug": "nobie",
+  "summary": "Rust-built Excel-compatible runtime and CLI for spreadsheets and agents.",
+  "thing_url": "https://nobie.com",
+  "times_seen": 1,
+  "why_included": "It makes existing XLSX models programmable without forcing a new spreadsheet format."
+}

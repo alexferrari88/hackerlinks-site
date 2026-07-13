@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "axiom",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:axiom:48896665",
+  "mention_ids": [
+    "2026-07-13:axiom:48896665"
+  ],
+  "name": "Axiom",
+  "slug": "axiom",
+  "summary": "Open-source Apple-platform agent skills and token-efficient command-line tools.",
+  "thing_url": "https://charleswiltgen.github.io/Axiom/",
+  "times_seen": 1,
+  "why_included": "It directly addresses agent-driven Apple development without depending on Xcode\u2019s GUI."
+}

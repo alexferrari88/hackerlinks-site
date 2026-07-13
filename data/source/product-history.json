@@ -5293,6 +5293,78 @@
       "first_reported_at": "2026-07-12T21:08:26Z",
       "last_reported_at": "2026-07-12T21:08:26Z",
       "times_reported": 1
+    },
+    {
+      "name": "Handy",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Axiom",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Sweetpad CLI",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Logseq DB",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Densha",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DOM-docx",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nobie",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Zork-Bench",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Video Hub App",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Fluxmail MCP",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Source Library",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Narro",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
     }
   ]
 }

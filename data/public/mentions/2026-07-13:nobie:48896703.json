@@ -1,0 +1,12 @@
+{
+  "evidence": "The team described native Mac and Linux CLI support, incremental recalculation, and agent-oriented workbook tools.",
+  "hn_url": "https://news.ycombinator.com/item?id=48896703",
+  "id": "2026-07-13:nobie:48896703",
+  "is_repeat": false,
+  "issue_id": "2026-07-13",
+  "item_id": "nobie",
+  "rank": 7,
+  "seen_at": "2026-07-13T21:04:47Z",
+  "source_story_id": "48896703",
+  "source_story_title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "logseq-db",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:logseq-db:48896229",
+  "mention_ids": [
+    "2026-07-13:logseq-db:48896229"
+  ],
+  "name": "Logseq DB",
+  "slug": "logseq-db",
+  "summary": "Local-first outliner and knowledge base with database-backed block organization.",
+  "thing_url": "https://github.com/logseq/logseq/releases",
+  "times_seen": 1,
+  "why_included": "The beta drew detailed real-world feedback on speed, tags, Markdown mirroring, and self-hosted sync."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "densha",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:densha:48890959",
+  "mention_ids": [
+    "2026-07-13:densha:48890959"
+  ],
+  "name": "Densha",
+  "slug": "densha",
+  "summary": "Real-time voxel Tokyo experience for ambient Japanese listening practice.",
+  "thing_url": "https://jivx.com/densha",
+  "times_seen": 1,
+  "why_included": "It is an unusual language-learning environment with clear community interest despite performance caveats."
+}

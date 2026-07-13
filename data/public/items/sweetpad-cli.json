@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "sweetpad-cli",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:sweetpad-cli:48896665",
+  "mention_ids": [
+    "2026-07-13:sweetpad-cli:48896665"
+  ],
+  "name": "Sweetpad CLI",
+  "slug": "sweetpad-cli",
+  "summary": "CLI and VS Code tooling for building Swift and iOS apps.",
+  "thing_url": "https://sweetpad.hyzyla.dev/",
+  "times_seen": 1,
+  "why_included": "It is a concrete Xcodebuild wrapper aimed at both humans and coding agents."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-13T21:04:47Z",
+  "id": "fluxmail-mcp",
+  "last_seen_at": "2026-07-13T21:04:47Z",
+  "latest_mention_id": "2026-07-13:fluxmail-mcp:48884984",
+  "mention_ids": [
+    "2026-07-13:fluxmail-mcp:48884984"
+  ],
+  "name": "Fluxmail MCP",
+  "slug": "fluxmail-mcp",
+  "summary": "Self-hosted MCP server that gives agents unified access to email accounts.",
+  "thing_url": "https://github.com/churichard/fluxmail-mcp",
+  "times_seen": 1,
+  "why_included": "It foregrounds privacy-preserving agent email access across standard protocols."
+}
