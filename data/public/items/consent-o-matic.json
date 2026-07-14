@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "consent-o-matic",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:consent-o-matic:48903777",
+  "mention_ids": [
+    "2026-07-14:consent-o-matic:48903777"
+  ],
+  "name": "Consent-O-Matic",
+  "slug": "consent-o-matic",
+  "summary": "A browser extension that automatically applies your cookie-consent preferences.",
+  "thing_url": "https://consentomatic.au.dk/",
+  "times_seen": 1,
+  "why_included": "It is a practical privacy utility surfaced as a direct response to consent-banner fatigue."
+}

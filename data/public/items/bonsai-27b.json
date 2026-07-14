@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "bonsai-27b",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:bonsai-27b:48910545",
+  "mention_ids": [
+    "2026-07-14:bonsai-27b:48910545"
+  ],
+  "name": "Bonsai 27B",
+  "slug": "bonsai-27b",
+  "summary": "A heavily compressed 27B-class language model designed to run on phones.",
+  "thing_url": "https://prismml.com/news/bonsai-27b",
+  "times_seen": 1,
+  "why_included": "A notable local-model release with unusually aggressive size claims and active hands-on discussion."
+}

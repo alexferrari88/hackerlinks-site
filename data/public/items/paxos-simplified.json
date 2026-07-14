@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "paxos-simplified",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:paxos-simplified:48850688",
+  "mention_ids": [
+    "2026-07-14:paxos-simplified:48850688"
+  ],
+  "name": "Paxos Simplified",
+  "slug": "paxos-simplified",
+  "summary": "A video-and-slides explanation of the Paxos distributed-consensus protocol.",
+  "thing_url": "https://www.youtube.com/watch?v=SRsK-ZXTeZ0",
+  "times_seen": 1,
+  "why_included": "It is a concrete learning aid for a famously difficult systems topic."
+}

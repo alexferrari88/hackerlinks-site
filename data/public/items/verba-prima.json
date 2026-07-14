@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "verba-prima",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:verba-prima:48908271",
+  "mention_ids": [
+    "2026-07-14:verba-prima:48908271"
+  ],
+  "name": "Verba Prima",
+  "slug": "verba-prima",
+  "summary": "A browsable collection of opening lines from famous literary works.",
+  "thing_url": "https://www.verbaprima.com/",
+  "times_seen": 1,
+  "why_included": "A focused, lightweight cultural reference site that made the front-page cut."
+}

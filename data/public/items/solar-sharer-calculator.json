@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "solar-sharer-calculator",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:solar-sharer-calculator:48902320",
+  "mention_ids": [
+    "2026-07-14:solar-sharer-calculator:48902320"
+  ],
+  "name": "Solar Sharer Calculator",
+  "slug": "solar-sharer-calculator",
+  "summary": "A calculator for estimating savings from Australian free-daytime-power plans.",
+  "thing_url": "https://solarsharercalculator.com.au/",
+  "times_seen": 1,
+  "why_included": "It turns a policy headline into a practical household decision tool."
+}

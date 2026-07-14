@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "juggler",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:juggler:48883305",
+  "mention_ids": [
+    "2026-07-14:juggler:48883305"
+  ],
+  "name": "Juggler",
+  "slug": "juggler",
+  "summary": "An open-source GUI coding agent organized around navigable conversation branches.",
+  "thing_url": "https://github.com/juggler-ai/juggler",
+  "times_seen": 1,
+  "why_included": "Its tree-based interaction model offers a concrete alternative to long, linear agent chat histories."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "Commenters compared its ternary and 1-bit variants with other local models; some reported early compatibility and evaluation caveats.",
+  "hn_url": "https://news.ycombinator.com/item?id=48910545",
+  "id": "2026-07-14:bonsai-27b:48910545",
+  "is_repeat": false,
+  "issue_id": "2026-07-14",
+  "item_id": "bonsai-27b",
+  "rank": 1,
+  "seen_at": "2026-07-14T21:11:27.041308Z",
+  "source_story_id": "48910545",
+  "source_story_title": "Bonsai 27B: A 27B-Class Model that runs on a phone"
+}

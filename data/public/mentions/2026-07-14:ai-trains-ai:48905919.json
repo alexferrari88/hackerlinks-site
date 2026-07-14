@@ -1,0 +1,12 @@
+{
+  "evidence": "Its author described 1,750 training jobs, hidden-eval feedback, and limits to small agentic tasks on the Prime-RL stack.",
+  "hn_url": "https://news.ycombinator.com/item?id=48905919",
+  "id": "2026-07-14:ai-trains-ai:48905919",
+  "is_repeat": false,
+  "issue_id": "2026-07-14",
+  "item_id": "ai-trains-ai",
+  "rank": 3,
+  "seen_at": "2026-07-14T21:11:27.041308Z",
+  "source_story_id": "48905919",
+  "source_story_title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)"
+}

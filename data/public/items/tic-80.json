@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "tic-80",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:tic-80:48903777",
+  "mention_ids": [
+    "2026-07-14:tic-80:48903777"
+  ],
+  "name": "TIC-80",
+  "slug": "tic-80",
+  "summary": "A free fantasy computer for making, sharing, and playing tiny retro games.",
+  "thing_url": "https://tic80.com/",
+  "times_seen": 1,
+  "why_included": "A concrete, approachable game-making alternative raised in a discussion about platform lock-in."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "agnost-ai",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:agnost-ai:48908950",
+  "mention_ids": [
+    "2026-07-14:agnost-ai:48908950"
+  ],
+  "name": "Agnost AI",
+  "slug": "agnost-ai",
+  "summary": "A system that extracts feedback themes and outliers from agent conversations.",
+  "thing_url": "https://agnost.ai",
+  "times_seen": 1,
+  "why_included": "It targets a concrete operational problem: identifying hidden requests and frustration across large conversation volumes."
+}

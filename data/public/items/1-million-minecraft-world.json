@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "1-million-minecraft-world",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:1-million-minecraft-world:48872401",
+  "mention_ids": [
+    "2026-07-14:1-million-minecraft-world:48872401"
+  ],
+  "name": "1 Million Minecraft World",
+  "slug": "1-million-minecraft-world",
+  "summary": "A 15 TB downloadable Minecraft world assembled from a million saved regions.",
+  "thing_url": "https://2b2t.place/1million",
+  "times_seen": 1,
+  "why_included": "An unusually large preservation and exploration artifact for a long-running game world."
+}

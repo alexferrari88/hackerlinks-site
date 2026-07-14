@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "run_date": "2026-07-14",
+  "generated_at": "2026-07-14T21:11:27.041308Z",
+  "summary": "Daily Hacker News product scout; concrete, fresh items selected after full comment-tree coverage.",
+  "stories_total": 25,
+  "stories_scraped": 25,
+  "stories_failed": 0,
+  "telegram_footer": "10 items surfaced | 25/25 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "category": "AI & Agent Workflows",
+      "name": "Bonsai 27B",
+      "thing_url": "https://prismml.com/news/bonsai-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=48910545",
+      "source_story_title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "summary": "A heavily compressed 27B-class language model designed to run on phones.",
+      "why_included": "A notable local-model release with unusually aggressive size claims and active hands-on discussion.",
+      "evidence": "Commenters compared its ternary and 1-bit variants with other local models; some reported early compatibility and evaluation caveats."
+    },
+    {
+      "category": "AI & Agent Workflows",
+      "name": "Agnost AI",
+      "thing_url": "https://agnost.ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48908950",
+      "source_story_title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "summary": "A system that extracts feedback themes and outliers from agent conversations.",
+      "why_included": "It targets a concrete operational problem: identifying hidden requests and frustration across large conversation volumes.",
+      "evidence": "The maker argued that keywords and SQL miss vague signals, while the product clusters themes and highlights outliers."
+    },
+    {
+      "category": "AI & Agent Workflows",
+      "name": "ai-trains-ai",
+      "thing_url": "https://github.com/Danau5tin/ai-trains-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48905919",
+      "source_story_title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+      "summary": "An open-source experiment where an RL agent writes RL training jobs.",
+      "why_included": "A concrete, reproducible nested-RL prototype with a clear cost and limitation discussion.",
+      "evidence": "Its author described 1,750 training jobs, hidden-eval feedback, and limits to small agentic tasks on the Prime-RL stack."
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Juggler",
+      "thing_url": "https://github.com/juggler-ai/juggler",
+      "hn_url": "https://news.ycombinator.com/item?id=48883305",
+      "source_story_title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "summary": "An open-source GUI coding agent organized around navigable conversation branches.",
+      "why_included": "Its tree-based interaction model offers a concrete alternative to long, linear agent chat histories.",
+      "evidence": "HN users praised the branching model and discussed worktrees, shared sessions, local models, and early setup issues."
+    },
+    {
+      "category": "Privacy & Personal Computing",
+      "name": "Consent-O-Matic",
+      "thing_url": "https://consentomatic.au.dk/",
+      "hn_url": "https://news.ycombinator.com/item?id=48903777",
+      "source_story_title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "summary": "A browser extension that automatically applies your cookie-consent preferences.",
+      "why_included": "It is a practical privacy utility surfaced as a direct response to consent-banner fatigue.",
+      "evidence": "A commenter recommended it from personal use, saying it handles common dialogs and sharply reduces cookie popups."
+    },
+    {
+      "category": "Games & Creative Computing",
+      "name": "TIC-80",
+      "thing_url": "https://tic80.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48903777",
+      "source_story_title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "summary": "A free fantasy computer for making, sharing, and playing tiny retro games.",
+      "why_included": "A concrete, approachable game-making alternative raised in a discussion about platform lock-in.",
+      "evidence": "A parent described TIC-80 alongside Godot as a good, more forgiving option for kids making games."
+    },
+    {
+      "category": "Energy & Home Systems",
+      "name": "Solar Sharer Calculator",
+      "thing_url": "https://solarsharercalculator.com.au/",
+      "hn_url": "https://news.ycombinator.com/item?id=48902320",
+      "source_story_title": "Australian energy retailers must offer three hours of free daytime electricity",
+      "summary": "A calculator for estimating savings from Australian free-daytime-power plans.",
+      "why_included": "It turns a policy headline into a practical household decision tool.",
+      "evidence": "Its creator said they built it to help someone assess whether switching to a three-hour free-power plan would save money."
+    },
+    {
+      "category": "Books & Culture",
+      "name": "Verba Prima",
+      "thing_url": "https://www.verbaprima.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48908271",
+      "source_story_title": "Show HN: Opening lines of famous literary works",
+      "summary": "A browsable collection of opening lines from famous literary works.",
+      "why_included": "A focused, lightweight cultural reference site that made the front-page cut.",
+      "evidence": "The Show HN submission drew a substantial discussion thread around the presentation of literary openings."
+    },
+    {
+      "category": "Games & Creative Computing",
+      "name": "1 Million Minecraft World",
+      "thing_url": "https://2b2t.place/1million",
+      "hn_url": "https://news.ycombinator.com/item?id=48872401",
+      "source_story_title": "The largest available Minecraft world, totalling 15 TB",
+      "summary": "A 15 TB downloadable Minecraft world assembled from a million saved regions.",
+      "why_included": "An unusually large preservation and exploration artifact for a long-running game world.",
+      "evidence": "HN discussion engaged with the scale and availability of the 2b2t world archive."
+    },
+    {
+      "category": "Watch & Learn",
+      "name": "Paxos Simplified",
+      "thing_url": "https://www.youtube.com/watch?v=SRsK-ZXTeZ0",
+      "hn_url": "https://news.ycombinator.com/item?id=48850688",
+      "source_story_title": "Paxos Made Simple (2001) [pdf]",
+      "summary": "A video-and-slides explanation of the Paxos distributed-consensus protocol.",
+      "why_included": "It is a concrete learning aid for a famously difficult systems topic.",
+      "evidence": "A commenter recommended it as a clearer companion to Lamport’s paper, alongside the MIT 6.824 labs."
+    }
+  ]
+}

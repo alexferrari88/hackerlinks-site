@@ -3,6 +3,12 @@
   "cooldown_days": 90,
   "products": [
     {
+      "name": "1 Million Minecraft World",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
       "name": "1.38 Millimeter Microcontroller",
       "first_reported_at": "2026-06-30T21:15:09Z",
       "last_reported_at": "2026-06-30T21:15:09Z",
@@ -105,9 +111,21 @@
       "times_reported": 1
     },
     {
+      "name": "Agnost AI",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
       "name": "AI CAD Harness",
       "first_reported_at": "2026-05-01T21:05:24Z",
       "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ai-trains-ai",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
       "times_reported": 1
     },
     {
@@ -141,9 +159,21 @@
       "times_reported": 1
     },
     {
+      "name": "Anki",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
       "name": "Anna's Archive",
       "first_reported_at": "2026-07-04T21:00:48.537362+00:00",
       "last_reported_at": "2026-07-04T21:00:48.537362+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ant",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -279,6 +309,12 @@
       "times_reported": 1
     },
     {
+      "name": "Axiom",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
       "name": "Azure Bastion",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -363,6 +399,12 @@
       "times_reported": 1
     },
     {
+      "name": "biff.graph",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
+      "times_reported": 1
+    },
+    {
       "name": "Bifrost",
       "first_reported_at": "2026-06-15T21:10:59+00:00",
       "last_reported_at": "2026-06-15T21:10:59+00:00",
@@ -396,6 +438,12 @@
       "name": "BlueSCSI",
       "first_reported_at": "2026-06-22T21:21:10Z",
       "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Bonsai 27B",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
       "times_reported": 1
     },
     {
@@ -492,6 +540,12 @@
       "name": "Bubbles",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "bubblewrap",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
       "times_reported": 1
     },
     {
@@ -594,6 +648,12 @@
       "name": "Chatto",
       "first_reported_at": "2026-07-08T21:19:16Z",
       "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CheerpJ Applet Runner",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
       "times_reported": 1
     },
     {
@@ -789,6 +849,12 @@
       "times_reported": 1
     },
     {
+      "name": "Combustion Lab",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
       "name": "Comet (GL-RM1)",
       "first_reported_at": "2026-06-12T21:26:09Z",
       "last_reported_at": "2026-06-12T21:26:09Z",
@@ -810,6 +876,12 @@
       "name": "Composer 2.5",
       "first_reported_at": "2026-06-17T03:27:34Z",
       "last_reported_at": "2026-06-17T03:27:34Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Consent-O-Matic",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
       "times_reported": 1
     },
     {
@@ -855,6 +927,12 @@
       "times_reported": 1
     },
     {
+      "name": "Crafting Interpreters",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
+      "times_reported": 1
+    },
+    {
       "name": "Creapure",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -864,6 +942,12 @@
       "name": "CreepJS",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Croc",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
       "times_reported": 1
     },
     {
@@ -969,6 +1053,12 @@
       "times_reported": 1
     },
     {
+      "name": "DayClocks",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
       "name": "DBOS",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
@@ -999,12 +1089,6 @@
       "times_reported": 2
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "first_reported_at": "2026-05-16T21:36:59Z",
-      "last_reported_at": "2026-05-16T21:36:59Z",
-      "times_reported": 1
-    },
-    {
       "name": "DeepSeek V4 Preview",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
@@ -1020,6 +1104,12 @@
       "name": "DeepSeek Vision",
       "first_reported_at": "2026-06-18T21:28:27Z",
       "last_reported_at": "2026-06-18T21:28:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DeepSeek-V4-Flash",
+      "first_reported_at": "2026-05-16T21:36:59Z",
+      "last_reported_at": "2026-05-16T21:36:59Z",
       "times_reported": 1
     },
     {
@@ -1044,6 +1134,12 @@
       "name": "Deno Desktop",
       "first_reported_at": "2026-06-22T21:21:10Z",
       "last_reported_at": "2026-06-22T21:21:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Densha",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
       "times_reported": 1
     },
     {
@@ -1074,6 +1170,12 @@
       "name": "Docmost",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DOM-docx",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
       "times_reported": 1
     },
     {
@@ -1152,6 +1254,12 @@
       "name": "Dyalog APL",
       "first_reported_at": "2026-05-14T21:22:02Z",
       "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Dynamic Context Pruning",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
       "times_reported": 1
     },
     {
@@ -1269,6 +1377,12 @@
       "times_reported": 1
     },
     {
+      "name": "Fading Maize",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
       "name": "Fastmail",
       "first_reported_at": "2026-06-02T21:19:46+00:00",
       "last_reported_at": "2026-06-02T21:19:46+00:00",
@@ -1359,6 +1473,12 @@
       "times_reported": 1
     },
     {
+      "name": "Fluxmail MCP",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
       "name": "Follow London Trains in 3D",
       "first_reported_at": "2026-07-08T21:19:16Z",
       "last_reported_at": "2026-07-08T21:19:16Z",
@@ -1440,6 +1560,12 @@
       "name": "FreshRSS",
       "first_reported_at": "2026-05-06T21:05:20Z",
       "last_reported_at": "2026-05-06T21:05:20Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Frigade Skills",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
       "times_reported": 1
     },
     {
@@ -1569,21 +1695,27 @@
       "times_reported": 1
     },
     {
+      "name": "Ghostel",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
       "name": "Ghostty",
       "first_reported_at": "2026-05-11T21:14:25Z",
       "last_reported_at": "2026-05-11T21:14:25Z",
       "times_reported": 1
     },
     {
-      "name": "git-annex",
-      "first_reported_at": "2026-06-24T21:10:29Z",
-      "last_reported_at": "2026-06-24T21:10:29Z",
-      "times_reported": 1
-    },
-    {
       "name": "Git commits as folders via NFS",
       "first_reported_at": "2026-05-21T21:20:56Z",
       "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "git-annex",
+      "first_reported_at": "2026-06-24T21:10:29Z",
+      "last_reported_at": "2026-06-24T21:10:29Z",
       "times_reported": 1
     },
     {
@@ -1644,6 +1776,12 @@
       "name": "Godot",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Goeteia",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -1773,6 +1911,12 @@
       "times_reported": 1
     },
     {
+      "name": "Handy",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
       "name": "hdajackretask",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -1867,6 +2011,12 @@
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
       "times_reported": 2
+    },
+    {
+      "name": "Hoot",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
+      "times_reported": 1
     },
     {
       "name": "Hosting a website on an 8-bit microcontroller",
@@ -2085,6 +2235,12 @@
       "times_reported": 1
     },
     {
+      "name": "Juggler",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
       "name": "Jujutsu (jj)",
       "first_reported_at": "2026-04-15T03:02:00+00:00",
       "last_reported_at": "2026-04-15T03:02:00+00:00",
@@ -2241,6 +2397,12 @@
       "times_reported": 1
     },
     {
+      "name": "Landstrip",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
       "name": "LangAlpha",
       "first_reported_at": "2026-04-15T03:02:00+00:00",
       "last_reported_at": "2026-04-15T03:02:00+00:00",
@@ -2385,9 +2547,21 @@
       "times_reported": 1
     },
     {
+      "name": "Logseq DB",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
       "name": "Lore",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Lost Worlds",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
       "times_reported": 1
     },
     {
@@ -2424,6 +2598,12 @@
       "name": "Mado",
       "first_reported_at": "2026-05-17T21:23:02Z",
       "last_reported_at": "2026-05-17T21:23:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Magic Wormhole",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
       "times_reported": 1
     },
     {
@@ -2487,9 +2667,27 @@
       "times_reported": 1
     },
     {
+      "name": "Memory Machines",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
       "name": "Mercurial",
       "first_reported_at": "2026-05-17T21:23:02Z",
       "last_reported_at": "2026-05-17T21:23:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Meridian",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Mesh LLM",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -2757,6 +2955,12 @@
       "times_reported": 1
     },
     {
+      "name": "Narro",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
       "name": "NASA RELL",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
@@ -2796,6 +3000,18 @@
       "name": "NeoGeo AES+",
       "first_reported_at": "2026-04-17T21:19:50Z",
       "last_reported_at": "2026-04-17T21:19:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NEOS Server",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Neralie",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
       "times_reported": 1
     },
     {
@@ -2850,6 +3066,12 @@
       "name": "NixOS",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-23T21:17:00Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Nobie",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
       "times_reported": 1
     },
     {
@@ -2931,6 +3153,12 @@
       "times_reported": 1
     },
     {
+      "name": "Odin Book",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
       "name": "Odysseus",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -3003,18 +3231,6 @@
       "times_reported": 1
     },
     {
-      "name": "open-artisan",
-      "first_reported_at": "2026-05-08T04:35:23Z",
-      "last_reported_at": "2026-05-08T04:35:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Open-Source AI Racing Harness",
-      "first_reported_at": "2026-05-28T21:20:20Z",
-      "last_reported_at": "2026-05-28T21:20:20Z",
-      "times_reported": 1
-    },
-    {
       "name": "Open Source Low Tech",
       "first_reported_at": "2026-06-30T21:15:09Z",
       "last_reported_at": "2026-06-30T21:15:09Z",
@@ -3024,6 +3240,18 @@
       "name": "Open WebUI",
       "first_reported_at": "2026-06-15T21:10:59+00:00",
       "last_reported_at": "2026-06-15T21:10:59+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "open-artisan",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open-Source AI Racing Harness",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -3171,6 +3399,12 @@
       "times_reported": 1
     },
     {
+      "name": "Orbit",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
+      "times_reported": 1
+    },
+    {
       "name": "OrcaSlicer",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
@@ -3273,6 +3507,12 @@
       "times_reported": 1
     },
     {
+      "name": "Paxos Simplified",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
       "name": "PCBJam",
       "first_reported_at": "2026-07-05T21:17:49Z",
       "last_reported_at": "2026-07-05T21:17:49Z",
@@ -3345,9 +3585,21 @@
       "times_reported": 1
     },
     {
+      "name": "Pi",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
       "name": "pi.dev",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PicoDVI",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -3585,6 +3837,12 @@
       "times_reported": 1
     },
     {
+      "name": "QuadRF",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
       "name": "Quarkdown",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
@@ -3774,6 +4032,12 @@
       "name": "Ribbie",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RISCBoy",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -3969,6 +4233,18 @@
       "times_reported": 1
     },
     {
+      "name": "Ship That Code",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Shirei",
+      "first_reported_at": "2026-07-12T21:08:26Z",
+      "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
       "name": "Signal",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -4059,6 +4335,18 @@
       "times_reported": 1
     },
     {
+      "name": "Solar Sharer Calculator",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Source Library",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
       "name": "SourceHut",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-23T21:17:00Z",
@@ -4110,6 +4398,12 @@
       "name": "SponsorBlock",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "sqlite-utils",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -4266,6 +4560,12 @@
       "name": "SWE-1.7",
       "first_reported_at": "2026-07-08T21:19:16Z",
       "last_reported_at": "2026-07-08T21:19:16Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Sweetpad CLI",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
       "times_reported": 1
     },
     {
@@ -4428,6 +4728,12 @@
       "name": "Ti-84 Evo",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TIC-80",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
       "times_reported": 1
     },
     {
@@ -4719,6 +5025,12 @@
       "times_reported": 1
     },
     {
+      "name": "Verba Prima",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
       "name": "Veritasium video",
       "first_reported_at": "2026-04-28T21:25:41+00:00",
       "last_reported_at": "2026-04-28T21:25:41+00:00",
@@ -4728,6 +5040,12 @@
       "name": "Victron Phoenix Charger",
       "first_reported_at": "2026-05-12T21:14:38Z",
       "last_reported_at": "2026-05-12T21:14:38Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Video Hub App",
+      "first_reported_at": "2026-07-13T21:04:47Z",
+      "last_reported_at": "2026-07-13T21:04:47Z",
       "times_reported": 1
     },
     {
@@ -4794,6 +5112,12 @@
       "name": "Wander",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "War Atlas",
+      "first_reported_at": "2026-07-10T21:08:51.108728Z",
+      "last_reported_at": "2026-07-10T21:08:51.108728Z",
       "times_reported": 1
     },
     {
@@ -5091,279 +5415,15 @@
       "times_reported": 1
     },
     {
-      "name": "Zulip",
-      "first_reported_at": "2026-05-15T21:17:01Z",
-      "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "QuadRF",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "War Atlas",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Combustion Lab",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Anki",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Memory Machines",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Lost Worlds",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Frigade Skills",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Fading Maize",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Neralie",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "DayClocks",
-      "first_reported_at": "2026-07-10T21:08:51.108728Z",
-      "last_reported_at": "2026-07-10T21:08:51.108728Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Mesh LLM",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Goeteia",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Hoot",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ant",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "RISCBoy",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "PicoDVI",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "sqlite-utils",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "biff.graph",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "NEOS Server",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ship That Code",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Crafting Interpreters",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Orbit",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Pi",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Dynamic Context Pruning",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Meridian",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ghostel",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Shirei",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Odin Book",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Croc",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Magic Wormhole",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "CheerpJ Applet Runner",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Landstrip",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "bubblewrap",
-      "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Handy",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Axiom",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Sweetpad CLI",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Logseq DB",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Densha",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "DOM-docx",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Nobie",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
       "name": "Zork-Bench",
       "first_reported_at": "2026-07-13T21:04:47Z",
       "last_reported_at": "2026-07-13T21:04:47Z",
       "times_reported": 1
     },
     {
-      "name": "Video Hub App",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Fluxmail MCP",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Source Library",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Narro",
-      "first_reported_at": "2026-07-13T21:04:47Z",
-      "last_reported_at": "2026-07-13T21:04:47Z",
+      "name": "Zulip",
+      "first_reported_at": "2026-05-15T21:17:01Z",
+      "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
     }
   ]

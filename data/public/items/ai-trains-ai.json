@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-14T21:11:27.041308Z",
+  "id": "ai-trains-ai",
+  "last_seen_at": "2026-07-14T21:11:27.041308Z",
+  "latest_mention_id": "2026-07-14:ai-trains-ai:48905919",
+  "mention_ids": [
+    "2026-07-14:ai-trains-ai:48905919"
+  ],
+  "name": "ai-trains-ai",
+  "slug": "ai-trains-ai",
+  "summary": "An open-source experiment where an RL agent writes RL training jobs.",
+  "thing_url": "https://github.com/Danau5tin/ai-trains-ai",
+  "times_seen": 1,
+  "why_included": "A concrete, reproducible nested-RL prototype with a clear cost and limitation discussion."
+}
