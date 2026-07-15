@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-15T21:08:41Z",
+  "id": "deja-vu",
+  "last_seen_at": "2026-07-15T21:08:41Z",
+  "latest_mention_id": "2026-07-15:deja-vu:48923111",
+  "mention_ids": [
+    "2026-07-15:deja-vu:48923111"
+  ],
+  "name": "D\u00e9j\u00e0 Vu",
+  "slug": "deja-vu",
+  "summary": "Open-source persistent memory for coding agents, synchronized over SSH.",
+  "thing_url": "https://github.com/vshulcz/deja-vu/",
+  "times_seen": 1,
+  "why_included": "A focused, self-hostable approach to agent context persistence."
+}

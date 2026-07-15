@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-15T21:08:41Z",
+  "id": "clocks-dev",
+  "last_seen_at": "2026-07-15T21:08:41Z",
+  "latest_mention_id": "2026-07-15:clocks-dev:48923380",
+  "mention_ids": [
+    "2026-07-15:clocks-dev:48923380"
+  ],
+  "name": "clocks.dev",
+  "slug": "clocks-dev",
+  "summary": "A gallery of interactive digital clock designs and time-display experiments.",
+  "thing_url": "https://clocks.dev/",
+  "times_seen": 1,
+  "why_included": "A compact, playful web collection that prompted concrete design discussion."
+}

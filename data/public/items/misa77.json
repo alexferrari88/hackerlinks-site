@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-15T21:08:41Z",
+  "id": "misa77",
+  "last_seen_at": "2026-07-15T21:08:41Z",
+  "latest_mention_id": "2026-07-15:misa77:48922838",
+  "mention_ids": [
+    "2026-07-15:misa77:48922838"
+  ],
+  "name": "misa77",
+  "slug": "misa77",
+  "summary": "An experimental compression codec optimized for very fast decompression.",
+  "thing_url": "https://github.com/welcome-to-the-sunny-side/misa77",
+  "times_seen": 1,
+  "why_included": "Its measured throughput and clear engineering trade-off make it worth watching."
+}

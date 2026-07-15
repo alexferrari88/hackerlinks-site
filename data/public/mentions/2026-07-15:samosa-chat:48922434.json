@@ -1,0 +1,12 @@
+{
+  "evidence": "The discussion linked Samosa Chat alongside a claimed 7\u20139 tokens/sec Qwen setup.",
+  "hn_url": "https://news.ycombinator.com/item?id=48922434",
+  "id": "2026-07-15:samosa-chat:48922434",
+  "is_repeat": false,
+  "issue_id": "2026-07-15",
+  "item_id": "samosa-chat",
+  "rank": 2,
+  "seen_at": "2026-07-15T21:08:41Z",
+  "source_story_id": "48922434",
+  "source_story_title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
+}

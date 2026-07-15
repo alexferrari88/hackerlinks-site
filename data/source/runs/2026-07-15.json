@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "run_date": "2026-07-15",
+  "generated_at": "2026-07-15T21:08:41Z",
+  "summary": "Fresh concrete tools, projects, design references, and civic-data games surfaced from Hacker News discussions.",
+  "stories_scraped": 20,
+  "stories_total": 20,
+  "telegram_footer": "10 items surfaced | 20/20 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "category": "AI & Local Models",
+      "name": "Inkling",
+      "thing_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "hn_url": "https://news.ycombinator.com/item?id=48924912",
+      "source_story_title": "Inkling: Our Open-Weights Model",
+      "summary": "An open-weights multimodal model with audio support for local experimentation.",
+      "why_included": "A high-interest model release with practical local-run links and direct comparisons in the thread.",
+      "evidence": "Commenters highlighted its audio capability and shared llama.cpp and GGUF paths for local use."
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "Samosa Chat",
+      "thing_url": "https://github.com/deepanwadhwa/samosa-chat",
+      "hn_url": "https://news.ycombinator.com/item?id=48922434",
+      "source_story_title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "summary": "A local chat app for running open models on modest Mac hardware.",
+      "why_included": "A commenter reported GPT-4-level local use on a 16GB MacBook Air.",
+      "evidence": "The discussion linked Samosa Chat alongside a claimed 7–9 tokens/sec Qwen setup."
+    },
+    {
+      "category": "Dev Tools & Infrastructure",
+      "name": "misa77",
+      "thing_url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "hn_url": "https://news.ycombinator.com/item?id=48922838",
+      "source_story_title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "summary": "An experimental compression codec optimized for very fast decompression.",
+      "why_included": "Its measured throughput and clear engineering trade-off make it worth watching.",
+      "evidence": "A Google compression engineer called the approach a known but useful speed-versus-encode-time trade-off."
+    },
+    {
+      "category": "Dev Tools & Infrastructure",
+      "name": "Déjà Vu",
+      "thing_url": "https://github.com/vshulcz/deja-vu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48923111",
+      "source_story_title": "Open-source memory for coding agents, synced over SSH",
+      "summary": "Open-source persistent memory for coding agents, synchronized over SSH.",
+      "why_included": "A focused, self-hostable approach to agent context persistence.",
+      "evidence": "The Show HN submission presented the repository as agent memory that can sync between machines over SSH."
+    },
+    {
+      "category": "Dev Tools & Infrastructure",
+      "name": "Telegram Serverless",
+      "thing_url": "https://core.telegram.org/bots/serverless",
+      "hn_url": "https://news.ycombinator.com/item?id=48918534",
+      "source_story_title": "Telegram Serverless",
+      "summary": "A serverless execution platform for Telegram bots and mini-app workflows.",
+      "why_included": "It extends Telegram’s already broad bot platform with hosted execution.",
+      "evidence": "Commenters called Telegram’s bot platform powerful while probing execution and storage limits."
+    },
+    {
+      "category": "Design & Web",
+      "name": "clocks.dev",
+      "thing_url": "https://clocks.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48923380",
+      "source_story_title": "Collection of Digital Clock Designs",
+      "summary": "A gallery of interactive digital clock designs and time-display experiments.",
+      "why_included": "A compact, playful web collection that prompted concrete design discussion.",
+      "evidence": "Commenters praised the collection and specifically recommended its timeline interaction."
+    },
+    {
+      "category": "Design & Web",
+      "name": "ibiblio Icon Archive",
+      "thing_url": "https://ibiblio-icon-archive.danq.dev/icons/1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48883578",
+      "source_story_title": "Today I Rescued 7,234 Old GIFs",
+      "summary": "A browsable rescue archive of thousands of vintage web and file-format GIF icons.",
+      "why_included": "It preserves a distinctive piece of early-web visual culture in a usable form.",
+      "evidence": "Commenters appreciated the rescued source-extension icons and linked the public archive."
+    },
+    {
+      "category": "Games & Civic Data",
+      "name": "CityRider",
+      "thing_url": "https://cityrider.jpsmaps.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48906893",
+      "source_story_title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+      "summary": "An open-world Philadelphia game built from terrain, map, and civic data.",
+      "why_included": "A creative use of public geospatial data with a live playable prototype.",
+      "evidence": "A commenter described its Philadelphia terrain, tree inventory, litter-collection loop, and customization systems."
+    },
+    {
+      "category": "Games & Civic Data",
+      "name": "Siedler Österreich",
+      "thing_url": "https://siedler-oesterreich.exe.xyz/",
+      "hn_url": "https://news.ycombinator.com/item?id=48906893",
+      "source_story_title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+      "summary": "A settlers-style game generated from Austrian public LiDAR and aerial data.",
+      "why_included": "It is a concrete example of turning national open data into a playable world.",
+      "evidence": "HN commenters supplied the direct game link after readers asked where to try it."
+    },
+    {
+      "category": "Privacy & Networking",
+      "name": "Teletun",
+      "thing_url": "https://github.com/PiMaker/Teletun",
+      "hn_url": "https://news.ycombinator.com/item?id=48918534",
+      "source_story_title": "Telegram Serverless",
+      "summary": "An experimental tunnel that carries network traffic over Telegram.",
+      "why_included": "A pointed networking curiosity surfaced during the serverless-bot discussion.",
+      "evidence": "A commenter linked Teletun while comparing Telegram tunneling with DNS tunneling."
+    }
+  ]
+}

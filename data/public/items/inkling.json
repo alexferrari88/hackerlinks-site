@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-15T21:08:41Z",
+  "id": "inkling",
+  "last_seen_at": "2026-07-15T21:08:41Z",
+  "latest_mention_id": "2026-07-15:inkling:48924912",
+  "mention_ids": [
+    "2026-07-15:inkling:48924912"
+  ],
+  "name": "Inkling",
+  "slug": "inkling",
+  "summary": "An open-weights multimodal model with audio support for local experimentation.",
+  "thing_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "times_seen": 1,
+  "why_included": "A high-interest model release with practical local-run links and direct comparisons in the thread."
+}

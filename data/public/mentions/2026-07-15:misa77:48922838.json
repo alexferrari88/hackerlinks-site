@@ -1,0 +1,12 @@
+{
+  "evidence": "A Google compression engineer called the approach a known but useful speed-versus-encode-time trade-off.",
+  "hn_url": "https://news.ycombinator.com/item?id=48922838",
+  "id": "2026-07-15:misa77:48922838",
+  "is_repeat": false,
+  "issue_id": "2026-07-15",
+  "item_id": "misa77",
+  "rank": 3,
+  "seen_at": "2026-07-15T21:08:41Z",
+  "source_story_id": "48922838",
+  "source_story_title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)"
+}
