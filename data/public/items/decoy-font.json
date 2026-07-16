@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "decoy-font",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:decoy-font:48936584",
+  "mention_ids": [
+    "2026-07-16:decoy-font:48936584"
+  ],
+  "name": "Decoy Font",
+  "slug": "decoy-font",
+  "summary": "A free TTF optical-illusion font that embeds two messages in each glyph.",
+  "thing_url": "https://www.mixfont.com/experiments/decoy-font",
+  "times_seen": 1,
+  "why_included": "A memorable creative experiment with an immediately testable download."
+}

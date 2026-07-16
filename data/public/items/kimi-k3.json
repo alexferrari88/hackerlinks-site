@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "kimi-k3",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:kimi-k3:48935342",
+  "mention_ids": [
+    "2026-07-16:kimi-k3:48935342"
+  ],
+  "name": "Kimi K3",
+  "slug": "kimi-k3",
+  "summary": "An AI model for agentic coding and knowledge work, praised as a credible frontier alternative.",
+  "thing_url": "https://www.kimi.com/en",
+  "times_seen": 1,
+  "why_included": "A high-signal model launch with substantive hands-on discussion rather than benchmark-only interest."
+}

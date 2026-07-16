@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "sling",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:sling:48935510",
+  "mention_ids": [
+    "2026-07-16:sling:48935510"
+  ],
+  "name": "Sling",
+  "slug": "sling",
+  "summary": "An open-source Go CLI for ELT, data replication, and quality checks.",
+  "thing_url": "https://slingdata.io/",
+  "times_seen": 1,
+  "why_included": "A concrete data-integration recommendation surfaced from a broad developer tooling guide."
+}

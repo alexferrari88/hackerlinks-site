@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters linked the official Hugging Face project and challenged its benchmark baselines and possible contamination.",
+  "hn_url": "https://news.ycombinator.com/item?id=48937756",
+  "id": "2026-07-16:soofi-s:48937756",
+  "is_repeat": false,
+  "issue_id": "2026-07-16",
+  "item_id": "soofi-s",
+  "rank": 2,
+  "seen_at": "2026-07-16T21:12:29.961642Z",
+  "source_story_id": "48937756",
+  "source_story_title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks"
+}

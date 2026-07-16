@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "paper2audio",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:paper2audio:48936451",
+  "mention_ids": [
+    "2026-07-16:paper2audio:48936451"
+  ],
+  "name": "Paper2Audio",
+  "slug": "paper2audio",
+  "summary": "A document text-to-speech service optimized for papers, math, and complex PDFs.",
+  "thing_url": "https://www.paper2audio.com/",
+  "times_seen": 1,
+  "why_included": "A concrete alternative for people who want reliable audio narration of technical material."
+}

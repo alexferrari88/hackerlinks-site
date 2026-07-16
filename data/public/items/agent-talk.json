@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "agent-talk",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:agent-talk:48936534",
+  "mention_ids": [
+    "2026-07-16:agent-talk:48936534"
+  ],
+  "name": "Agent-talk",
+  "slug": "agent-talk",
+  "summary": "A plugin and CLI for direct messaging between coding-agent sessions.",
+  "thing_url": "https://github.com/xhluca/agent-talk",
+  "times_seen": 1,
+  "why_included": "It targets a practical coordination gap in multi-agent coding workflows."
+}

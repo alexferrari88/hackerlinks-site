@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "jellypod",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:jellypod:48936451",
+  "mention_ids": [
+    "2026-07-16:jellypod:48936451"
+  ],
+  "name": "Jellypod",
+  "slug": "jellypod",
+  "summary": "An AI podcast platform with editable scripts, custom hosts, publishing, and RSS.",
+  "thing_url": "https://www.jellypod.ai/",
+  "times_seen": 1,
+  "why_included": "It adds editorial control and distribution features beyond simple audio summaries."
+}

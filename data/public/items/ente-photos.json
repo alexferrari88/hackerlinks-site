@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "ente-photos",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:ente-photos:48932697",
+  "mention_ids": [
+    "2026-07-16:ente-photos:48932697"
+  ],
+  "name": "Ente Photos",
+  "slug": "ente-photos",
+  "summary": "An open-source, end-to-end encrypted, cross-platform photo backup service.",
+  "thing_url": "https://ente.com/",
+  "times_seen": 1,
+  "why_included": "A mature privacy-oriented alternative with hosted and self-hosted paths."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "soofi-s",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:soofi-s:48937756",
+  "mention_ids": [
+    "2026-07-16:soofi-s:48937756"
+  ],
+  "name": "Soofi S",
+  "slug": "soofi-s",
+  "summary": "A sovereign German-English open foundation-model family with 32B preview checkpoints.",
+  "thing_url": "https://huggingface.co/Soofi-Project",
+  "times_seen": 1,
+  "why_included": "A concrete European open-model release worth watching despite unresolved benchmark-comparison questions."
+}

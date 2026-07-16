@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "run_date": "2026-07-16",
+  "generated_at": "2026-07-16T21:12:29.961642Z",
+  "summary": "Daily Hacker News product scout: 12 fresh, concrete items selected from 19 fully crawled qualifying discussions.",
+  "stories_scraped": 19,
+  "stories_total": 19,
+  "telegram_footer": "12 items surfaced | 19/19 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "Kimi K3",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://www.kimi.com/en",
+      "hn_url": "https://news.ycombinator.com/item?id=48935342",
+      "source_story_title": "Kimi K3 is now live",
+      "summary": "An AI model for agentic coding and knowledge work, praised as a credible frontier alternative.",
+      "why_included": "A high-signal model launch with substantive hands-on discussion rather than benchmark-only interest.",
+      "evidence": "Commenters called its jump in coding usefulness striking, while debating price, openness, and real-world reliability."
+    },
+    {
+      "name": "Soofi S",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://huggingface.co/Soofi-Project",
+      "hn_url": "https://news.ycombinator.com/item?id=48937756",
+      "source_story_title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "summary": "A sovereign German-English open foundation-model family with 32B preview checkpoints.",
+      "why_included": "A concrete European open-model release worth watching despite unresolved benchmark-comparison questions.",
+      "evidence": "HN commenters linked the official Hugging Face project and challenged its benchmark baselines and possible contamination."
+    },
+    {
+      "name": "Agent-talk",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/xhluca/agent-talk",
+      "hn_url": "https://news.ycombinator.com/item?id=48936534",
+      "source_story_title": "Agent-talk: Enabling coding agents to work together",
+      "summary": "A plugin and CLI for direct messaging between coding-agent sessions.",
+      "why_included": "It targets a practical coordination gap in multi-agent coding workflows.",
+      "evidence": "Discussion focused on trust, push delivery, harness integration, and avoiding stale-session costs."
+    },
+    {
+      "name": "Wire",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/SlanchaAi/wire",
+      "hn_url": "https://news.ycombinator.com/item?id=48936534",
+      "source_story_title": "Agent-talk: Enabling coding agents to work together",
+      "summary": "A vendor-free agent-to-agent communication protocol with a telephone-exchange model.",
+      "why_included": "A concrete alternative surfaced in the agent-collaboration discussion.",
+      "evidence": "Its creator described Wire as an open-source approach to zero-knowledge trust across agent environments."
+    },
+    {
+      "name": "Microsoft Comic Chat",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/microsoft/comic-chat",
+      "hn_url": "https://news.ycombinator.com/item?id=48936426",
+      "source_story_title": "Microsoft Comic Chat is now open source",
+      "summary": "Microsoft’s 1990s comic-book IRC client, now released as source code.",
+      "why_included": "A historically interesting code release with active interest in modernizing and building it.",
+      "evidence": "HN commenters supplied the official repository and discussed its IRC extensions and current-toolchain revival."
+    },
+    {
+      "name": "Leaves",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/patonw/leaves",
+      "hn_url": "https://news.ycombinator.com/item?id=48936389",
+      "source_story_title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
+      "summary": "A Rust text-mode treemap for inspecting disk usage interactively.",
+      "why_included": "A small, direct utility that commenters wanted beside their everyday Linux tools.",
+      "evidence": "Users compared it favorably with WinDirStat, duc, and SequoiaView while suggesting indexing improvements."
+    },
+    {
+      "name": "Sling",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://slingdata.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48935510",
+      "source_story_title": "Guide to data tools landscape for developers",
+      "summary": "An open-source Go CLI for ELT, data replication, and quality checks.",
+      "why_included": "A concrete data-integration recommendation surfaced from a broad developer tooling guide.",
+      "evidence": "A commenter recommended Sling as a CLI-first single Go binary for data ingestion."
+    },
+    {
+      "name": "Decoy Font",
+      "category": "Creative Tools & Media",
+      "thing_url": "https://www.mixfont.com/experiments/decoy-font",
+      "hn_url": "https://news.ycombinator.com/item?id=48936584",
+      "source_story_title": "Decoy Font",
+      "summary": "A free TTF optical-illusion font that embeds two messages in each glyph.",
+      "why_included": "A memorable creative experiment with an immediately testable download.",
+      "evidence": "Commenters tested its AI-readability claims and argued its strongest use is visual art, not security."
+    },
+    {
+      "name": "Paper2Audio",
+      "category": "Creative Tools & Media",
+      "thing_url": "https://www.paper2audio.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48936451",
+      "source_story_title": "NotebookLM is now Gemini Notebook",
+      "summary": "A document text-to-speech service optimized for papers, math, and complex PDFs.",
+      "why_included": "A concrete alternative for people who want reliable audio narration of technical material.",
+      "evidence": "Its founder highlighted complex-document accuracy, and another commenter independently called it great."
+    },
+    {
+      "name": "Jellypod",
+      "category": "Creative Tools & Media",
+      "thing_url": "https://www.jellypod.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48936451",
+      "source_story_title": "NotebookLM is now Gemini Notebook",
+      "summary": "An AI podcast platform with editable scripts, custom hosts, publishing, and RSS.",
+      "why_included": "It adds editorial control and distribution features beyond simple audio summaries.",
+      "evidence": "A commenter specifically recommended it for script editing, selectable hosts, websites, and RSS publishing."
+    },
+    {
+      "name": "Immersive Linear Algebra",
+      "category": "Learning & Reference",
+      "thing_url": "https://immersivemath.com/ila/",
+      "hn_url": "https://news.ycombinator.com/item?id=48935951",
+      "source_story_title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "summary": "A free linear algebra book built around fully interactive visual figures.",
+      "why_included": "A durable, self-contained educational resource rather than a disposable product announcement.",
+      "evidence": "HN surfaced the book for its interactive treatment of vectors, matrices, mappings, and eigenvalues."
+    },
+    {
+      "name": "Ente Photos",
+      "category": "Privacy & Data",
+      "thing_url": "https://ente.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48932697",
+      "source_story_title": "Ente – Opening Our Books",
+      "summary": "An open-source, end-to-end encrypted, cross-platform photo backup service.",
+      "why_included": "A mature privacy-oriented alternative with hosted and self-hosted paths.",
+      "evidence": "Commenters praised feature parity, desktop apps, continuous exports, and its viability for de-Googling."
+    }
+  ]
+}

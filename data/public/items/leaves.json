@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "leaves",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:leaves:48936389",
+  "mention_ids": [
+    "2026-07-16:leaves:48936389"
+  ],
+  "name": "Leaves",
+  "slug": "leaves",
+  "summary": "A Rust text-mode treemap for inspecting disk usage interactively.",
+  "thing_url": "https://github.com/patonw/leaves",
+  "times_seen": 1,
+  "why_included": "A small, direct utility that commenters wanted beside their everyday Linux tools."
+}

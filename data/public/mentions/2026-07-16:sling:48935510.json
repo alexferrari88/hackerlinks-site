@@ -1,0 +1,12 @@
+{
+  "evidence": "A commenter recommended Sling as a CLI-first single Go binary for data ingestion.",
+  "hn_url": "https://news.ycombinator.com/item?id=48935510",
+  "id": "2026-07-16:sling:48935510",
+  "is_repeat": false,
+  "issue_id": "2026-07-16",
+  "item_id": "sling",
+  "rank": 7,
+  "seen_at": "2026-07-16T21:12:29.961642Z",
+  "source_story_id": "48935510",
+  "source_story_title": "Guide to data tools landscape for developers"
+}

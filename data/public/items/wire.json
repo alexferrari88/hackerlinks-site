@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "wire",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:wire:48936534",
+  "mention_ids": [
+    "2026-07-16:wire:48936534"
+  ],
+  "name": "Wire",
+  "slug": "wire",
+  "summary": "A vendor-free agent-to-agent communication protocol with a telephone-exchange model.",
+  "thing_url": "https://github.com/SlanchaAi/wire",
+  "times_seen": 1,
+  "why_included": "A concrete alternative surfaced in the agent-collaboration discussion."
+}

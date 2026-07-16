@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "immersive-linear-algebra",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:immersive-linear-algebra:48935951",
+  "mention_ids": [
+    "2026-07-16:immersive-linear-algebra:48935951"
+  ],
+  "name": "Immersive Linear Algebra",
+  "slug": "immersive-linear-algebra",
+  "summary": "A free linear algebra book built around fully interactive visual figures.",
+  "thing_url": "https://immersivemath.com/ila/",
+  "times_seen": 1,
+  "why_included": "A durable, self-contained educational resource rather than a disposable product announcement."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-16T21:12:29.961642Z",
+  "id": "microsoft-comic-chat",
+  "last_seen_at": "2026-07-16T21:12:29.961642Z",
+  "latest_mention_id": "2026-07-16:microsoft-comic-chat:48936426",
+  "mention_ids": [
+    "2026-07-16:microsoft-comic-chat:48936426"
+  ],
+  "name": "Microsoft Comic Chat",
+  "slug": "microsoft-comic-chat",
+  "summary": "Microsoft\u2019s 1990s comic-book IRC client, now released as source code.",
+  "thing_url": "https://github.com/microsoft/comic-chat",
+  "times_seen": 1,
+  "why_included": "A historically interesting code release with active interest in modernizing and building it."
+}
