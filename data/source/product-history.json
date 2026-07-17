@@ -99,6 +99,12 @@
       "times_reported": 1
     },
     {
+      "name": "Agent-talk",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "Agentic test harness for play-testing",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
@@ -318,6 +324,12 @@
       "name": "Azure Bastion",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Babashka",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
       "times_reported": 1
     },
     {
@@ -597,6 +609,12 @@
       "times_reported": 1
     },
     {
+      "name": "Camera Chase Vehicle",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
+      "times_reported": 1
+    },
+    {
       "name": "CanvasBlocker",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -687,6 +705,12 @@
       "times_reported": 1
     },
     {
+      "name": "CityRider",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "Claude Code",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
@@ -774,6 +798,12 @@
       "name": "clipper.dev",
       "first_reported_at": "2026-05-05T21:17:42.347177Z",
       "last_reported_at": "2026-05-05T21:17:42.347177Z",
+      "times_reported": 1
+    },
+    {
+      "name": "clocks.dev",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
       "times_reported": 1
     },
     {
@@ -1077,6 +1107,12 @@
       "times_reported": 1
     },
     {
+      "name": "Decoy Font",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "DeepSeek 4 Flash",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -1275,6 +1311,12 @@
       "times_reported": 1
     },
     {
+      "name": "Déjà Vu",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "E2B",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -1323,6 +1365,12 @@
       "times_reported": 1
     },
     {
+      "name": "Ente Photos",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "Epicure",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
@@ -1338,6 +1386,12 @@
       "name": "Essential Mathematics for Games and Interactive Applications",
       "first_reported_at": "2026-07-01T21:11:31Z",
       "last_reported_at": "2026-07-01T21:11:31Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Everything",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
       "times_reported": 1
     },
     {
@@ -1518,6 +1572,12 @@
       "name": "Frama-C",
       "first_reported_at": "2026-06-29T21:35:35Z",
       "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Frame",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
       "times_reported": 1
     },
     {
@@ -2007,6 +2067,12 @@
       "times_reported": 1
     },
     {
+      "name": "Honeypot Live",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
+      "times_reported": 1
+    },
+    {
       "name": "Honker",
       "first_reported_at": "2026-04-23T21:17:00Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
@@ -2055,6 +2121,12 @@
       "times_reported": 1
     },
     {
+      "name": "ibiblio Icon Archive",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "IFDB",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
@@ -2079,6 +2151,12 @@
       "times_reported": 1
     },
     {
+      "name": "Immersive Linear Algebra",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "Immich",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
@@ -2094,6 +2172,12 @@
       "name": "Infuse",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Inkling",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
       "times_reported": 1
     },
     {
@@ -2205,6 +2289,12 @@
       "times_reported": 1
     },
     {
+      "name": "Jellypod",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "JetKVM",
       "first_reported_at": "2026-06-12T21:26:09Z",
       "last_reported_at": "2026-06-12T21:26:09Z",
@@ -2304,6 +2394,12 @@
       "name": "Kimi K2.7-Code",
       "first_reported_at": "2026-06-12T21:26:09Z",
       "last_reported_at": "2026-06-12T21:26:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kimi K3",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
       "times_reported": 1
     },
     {
@@ -2454,6 +2550,12 @@
       "name": "Leanstral 1.5",
       "first_reported_at": "2026-07-04T21:00:48.537362+00:00",
       "last_reported_at": "2026-07-04T21:00:48.537362+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Leaves",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
       "times_reported": 1
     },
     {
@@ -2727,6 +2829,12 @@
       "times_reported": 1
     },
     {
+      "name": "Microsoft Comic Chat",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "MicroUI",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
@@ -2802,6 +2910,12 @@
       "name": "Mir Books",
       "first_reported_at": "2026-07-04T21:00:48.537362+00:00",
       "last_reported_at": "2026-07-04T21:00:48.537362+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "misa77",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
       "times_reported": 1
     },
     {
@@ -3483,6 +3597,12 @@
       "times_reported": 1
     },
     {
+      "name": "Paper2Audio",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "Paperclip",
       "first_reported_at": "2026-07-09T21:13:39.342792Z",
       "last_reported_at": "2026-07-09T21:13:39.342792Z",
@@ -3527,8 +3647,8 @@
     {
       "name": "Pebble",
       "first_reported_at": "2026-04-23T21:17:00Z",
-      "last_reported_at": "2026-04-23T21:17:00Z",
-      "times_reported": 1
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
+      "times_reported": 2
     },
     {
       "name": "peerd",
@@ -4143,6 +4263,12 @@
       "times_reported": 1
     },
     {
+      "name": "Samosa Chat",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "SANA-WM",
       "first_reported_at": "2026-05-16T21:36:59Z",
       "last_reported_at": "2026-05-16T21:36:59Z",
@@ -4245,6 +4371,12 @@
       "times_reported": 1
     },
     {
+      "name": "Siedler Österreich",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
+      "times_reported": 1
+    },
+    {
       "name": "Signal",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -4293,6 +4425,12 @@
       "times_reported": 1
     },
     {
+      "name": "Sling",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "Slop Grenade",
       "first_reported_at": "2026-05-21T21:20:56Z",
       "last_reported_at": "2026-05-21T21:20:56Z",
@@ -4329,6 +4467,12 @@
       "times_reported": 1
     },
     {
+      "name": "So Far",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
+      "times_reported": 1
+    },
+    {
       "name": "Social Animal",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
@@ -4338,6 +4482,12 @@
       "name": "Solar Sharer Calculator",
       "first_reported_at": "2026-07-14T21:11:27.041308Z",
       "last_reported_at": "2026-07-14T21:11:27.041308Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Soofi S",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
       "times_reported": 1
     },
     {
@@ -4644,6 +4794,18 @@
       "name": "tea",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Telegram Serverless",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Teletun",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
       "times_reported": 1
     },
     {
@@ -5103,6 +5265,12 @@
       "times_reported": 1
     },
     {
+      "name": "VulnHunter",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
+      "times_reported": 1
+    },
+    {
       "name": "WAL-G",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
@@ -5217,6 +5385,12 @@
       "times_reported": 1
     },
     {
+      "name": "Wire",
+      "first_reported_at": "2026-07-16T21:12:29.961642Z",
+      "last_reported_at": "2026-07-16T21:12:29.961642Z",
+      "times_reported": 1
+    },
+    {
       "name": "WireMCP",
       "first_reported_at": "2026-07-03T21:00:19.436601+00:00",
       "last_reported_at": "2026-07-03T21:00:19.436601+00:00",
@@ -5250,6 +5424,12 @@
       "name": "Wordgrinder",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Workspaces",
+      "first_reported_at": "2026-07-17T21:11:36.594896Z",
+      "last_reported_at": "2026-07-17T21:11:36.594896Z",
       "times_reported": 1
     },
     {
@@ -5424,138 +5604,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Inkling",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Samosa Chat",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "misa77",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Déjà Vu",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Telegram Serverless",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "clocks.dev",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "ibiblio Icon Archive",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "CityRider",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Siedler Österreich",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Teletun",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Kimi K3",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Soofi S",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Agent-talk",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Wire",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Microsoft Comic Chat",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Leaves",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Sling",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Decoy Font",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Paper2Audio",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Jellypod",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Immersive Linear Algebra",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ente Photos",
-      "first_reported_at": "2026-07-16T21:12:29.961642Z",
-      "last_reported_at": "2026-07-16T21:12:29.961642Z",
       "times_reported": 1
     }
   ]

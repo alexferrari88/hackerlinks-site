@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T21:11:36.594896Z",
+  "headline": "9 interesting things surfaced from HN on 2026-07-17",
+  "id": "2026-07-17",
+  "mention_ids": [
+    "2026-07-17:frame:48948597",
+    "2026-07-17:everything:48950774",
+    "2026-07-17:honeypot-live:48947548",
+    "2026-07-17:workspaces:48948693",
+    "2026-07-17:pebble:48943174",
+    "2026-07-17:so-far:48949240",
+    "2026-07-17:camera-chase-vehicle:48854988",
+    "2026-07-17:vulnhunter:48946692",
+    "2026-07-17:babashka:48947455"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

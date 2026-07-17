@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "honeypot-live",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:honeypot-live:48947548",
+  "mention_ids": [
+    "2026-07-17:honeypot-live:48947548"
+  ],
+  "name": "Honeypot Live",
+  "slug": "honeypot-live",
+  "summary": "A live visual feed of bots interacting with an SSH honeypot.",
+  "thing_url": "https://honeypotlive.cc/",
+  "times_seen": 1,
+  "why_included": "It makes otherwise invisible background internet noise immediately tangible."
+}

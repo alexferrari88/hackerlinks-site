@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "vulnhunter",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:vulnhunter:48946692",
+  "mention_ids": [
+    "2026-07-17:vulnhunter:48946692"
+  ],
+  "name": "VulnHunter",
+  "slug": "vulnhunter",
+  "summary": "An open-source agentic workflow for code security assessments.",
+  "thing_url": "https://github.com/capitalone/VulnHunter",
+  "times_seen": 1,
+  "why_included": "A reusable, concrete security-assessment methodology released in public."
+}

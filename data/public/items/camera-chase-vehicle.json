@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "camera-chase-vehicle",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:camera-chase-vehicle:48854988",
+  "mention_ids": [
+    "2026-07-17:camera-chase-vehicle:48854988"
+  ],
+  "name": "Camera Chase Vehicle",
+  "slug": "camera-chase-vehicle",
+  "summary": "A meticulously documented DIY camera rover with a stabilized gimbal.",
+  "thing_url": "https://transistor-man.com/gimbal_camera_rover.html",
+  "times_seen": 1,
+  "why_included": "A high-signal maker build that prioritizes practical detail over product hype."
+}

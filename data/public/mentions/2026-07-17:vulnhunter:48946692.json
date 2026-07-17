@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters described it as an open-sourced methodology, debated its differentiation, and linked its public repository.",
+  "hn_url": "https://news.ycombinator.com/item?id=48946692",
+  "id": "2026-07-17:vulnhunter:48946692",
+  "is_repeat": false,
+  "issue_id": "2026-07-17",
+  "item_id": "vulnhunter",
+  "rank": 8,
+  "seen_at": "2026-07-17T21:11:36.594896Z",
+  "source_story_id": "48946692",
+  "source_story_title": "VulnHunter: Capital One's agentic AI code security tool"
+}

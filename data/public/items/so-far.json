@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "so-far",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:so-far:48949240",
+  "mention_ids": [
+    "2026-07-17:so-far:48949240"
+  ],
+  "name": "So Far",
+  "slug": "so-far",
+  "summary": "A browser demo of fast homomorphic-encrypted image classification.",
+  "thing_url": "https://sofar.belfortlabs.cloud/",
+  "times_seen": 1,
+  "why_included": "It is a notable hands-on demonstration of private inference performance."
+}

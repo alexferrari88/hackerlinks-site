@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "frame",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:frame:48948597",
+  "mention_ids": [
+    "2026-07-17:frame:48948597"
+  ],
+  "name": "Frame",
+  "slug": "frame",
+  "summary": "A Linux X server implemented in x86-64 assembly language.",
+  "thing_url": "https://isene.org/2026/07/Frame.html",
+  "times_seen": 1,
+  "why_included": "A striking systems project with a direct, readable build write-up."
+}

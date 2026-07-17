@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters verified the demo\u2019s 200ms claim context while flagging that its shared demo keys are not a production trust model.",
+  "hn_url": "https://news.ycombinator.com/item?id=48949240",
+  "id": "2026-07-17:so-far:48949240",
+  "is_repeat": false,
+  "issue_id": "2026-07-17",
+  "item_id": "so-far",
+  "rank": 6,
+  "seen_at": "2026-07-17T21:11:36.594896Z",
+  "source_story_id": "48949240",
+  "source_story_title": "Homomorphically encrypted CIFAR-10 inference in 200ms"
+}

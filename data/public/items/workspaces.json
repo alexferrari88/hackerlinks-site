@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "workspaces",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:workspaces:48948693",
+  "mention_ids": [
+    "2026-07-17:workspaces:48948693"
+  ],
+  "name": "Workspaces",
+  "slug": "workspaces",
+  "summary": "An archive of creator workspaces, gear lists, and interviews.",
+  "thing_url": "https://workspaces.xyz/",
+  "times_seen": 1,
+  "why_included": "The six-year, 500-plus interview archive is a useful source of real setup ideas."
+}

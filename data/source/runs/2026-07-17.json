@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "run_date": "2026-07-17",
+  "generated_at": "2026-07-17T21:11:36.594896Z",
+  "summary": "Daily Hacker News product scout: nine new concrete projects, products, and tools selected after broad front-page comment coverage.",
+  "stories_scraped": 25,
+  "stories_total": 25,
+  "telegram_footer": "9 items surfaced | 25/25 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "category": "Dev Tools & Systems",
+      "name": "Frame",
+      "thing_url": "https://isene.org/2026/07/Frame.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48948597",
+      "source_story_title": "Frame – Linux X server in Assembly",
+      "summary": "A Linux X server implemented in x86-64 assembly language.",
+      "why_included": "A striking systems project with a direct, readable build write-up.",
+      "evidence": "HN discussion examined its tiny implementation and the trade-offs of building an X server in assembly."
+    },
+    {
+      "category": "Apps & Side Projects",
+      "name": "Everything",
+      "thing_url": "https://app.everything.diena.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=48950774",
+      "source_story_title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "summary": "A zoomable visual timeline for exploring four million Wikipedia events.",
+      "why_included": "A concrete exploration interface that offers a novel way to browse historical data.",
+      "evidence": "HN commenters discussed the scale and interactive timeline presentation of the Show HN project."
+    },
+    {
+      "category": "Security & Networking",
+      "name": "Honeypot Live",
+      "thing_url": "https://honeypotlive.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=48947548",
+      "source_story_title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "summary": "A live visual feed of bots interacting with an SSH honeypot.",
+      "why_included": "It makes otherwise invisible background internet noise immediately tangible.",
+      "evidence": "HN commenters called the project fun to watch and discussed privacy-safe ways to enrich the live telemetry."
+    },
+    {
+      "category": "Apps & Side Projects",
+      "name": "Workspaces",
+      "thing_url": "https://workspaces.xyz/",
+      "hn_url": "https://news.ycombinator.com/item?id=48948693",
+      "source_story_title": "Workspaces – Explore the workspaces of modern creators",
+      "summary": "An archive of creator workspaces, gear lists, and interviews.",
+      "why_included": "The six-year, 500-plus interview archive is a useful source of real setup ideas.",
+      "evidence": "HN commenters praised the archive while pushing it toward less staged, more representative workspaces."
+    },
+    {
+      "category": "Hardware & Maker Projects",
+      "name": "Pebble",
+      "thing_url": "https://repebble.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48943174",
+      "source_story_title": "Pebble Mega Update – July 2026",
+      "summary": "The revived Pebble brand building e-paper watches and a smart ring.",
+      "why_included": "The hardware update surfaced concrete new devices and candid early-production discussion.",
+      "evidence": "HN discussion covered Pebble Time 2 and Index 01 details, especially the smart ring’s sizing and battery design."
+    },
+    {
+      "category": "Security & Networking",
+      "name": "So Far",
+      "thing_url": "https://sofar.belfortlabs.cloud/",
+      "hn_url": "https://news.ycombinator.com/item?id=48949240",
+      "source_story_title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+      "summary": "A browser demo of fast homomorphic-encrypted image classification.",
+      "why_included": "It is a notable hands-on demonstration of private inference performance.",
+      "evidence": "HN commenters verified the demo’s 200ms claim context while flagging that its shared demo keys are not a production trust model."
+    },
+    {
+      "category": "Hardware & Maker Projects",
+      "name": "Camera Chase Vehicle",
+      "thing_url": "https://transistor-man.com/gimbal_camera_rover.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48854988",
+      "source_story_title": "Camera Chase Vehicle",
+      "summary": "A meticulously documented DIY camera rover with a stabilized gimbal.",
+      "why_included": "A high-signal maker build that prioritizes practical detail over product hype.",
+      "evidence": "HN commenters praised the exhaustive build log, engineering choices, and playful physical design."
+    },
+    {
+      "category": "Security & Networking",
+      "name": "VulnHunter",
+      "thing_url": "https://github.com/capitalone/VulnHunter",
+      "hn_url": "https://news.ycombinator.com/item?id=48946692",
+      "source_story_title": "VulnHunter: Capital One's agentic AI code security tool",
+      "summary": "An open-source agentic workflow for code security assessments.",
+      "why_included": "A reusable, concrete security-assessment methodology released in public.",
+      "evidence": "HN commenters described it as an open-sourced methodology, debated its differentiation, and linked its public repository."
+    },
+    {
+      "category": "Dev Tools & Systems",
+      "name": "Babashka",
+      "thing_url": "https://babashka.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48947455",
+      "source_story_title": "A Road to Lisp: Which Lisp",
+      "summary": "A fast scripting runtime for Clojure on the JVM ecosystem.",
+      "why_included": "A direct community recommendation for practical Clojure scripting and developer ergonomics.",
+      "evidence": "HN commenters specifically recommended Babashka and praised its REPL-driven scripting workflow."
+    }
+  ]
+}

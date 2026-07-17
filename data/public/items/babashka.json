@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-17T21:11:36.594896Z",
+  "id": "babashka",
+  "last_seen_at": "2026-07-17T21:11:36.594896Z",
+  "latest_mention_id": "2026-07-17:babashka:48947455",
+  "mention_ids": [
+    "2026-07-17:babashka:48947455"
+  ],
+  "name": "Babashka",
+  "slug": "babashka",
+  "summary": "A fast scripting runtime for Clojure on the JVM ecosystem.",
+  "thing_url": "https://babashka.org/",
+  "times_seen": 1,
+  "why_included": "A direct community recommendation for practical Clojure scripting and developer ergonomics."
+}

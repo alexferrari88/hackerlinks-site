@@ -1,0 +1,12 @@
+{
+  "evidence": "HN commenters called the project fun to watch and discussed privacy-safe ways to enrich the live telemetry.",
+  "hn_url": "https://news.ycombinator.com/item?id=48947548",
+  "id": "2026-07-17:honeypot-live:48947548",
+  "is_repeat": false,
+  "issue_id": "2026-07-17",
+  "item_id": "honeypot-live",
+  "rank": 3,
+  "seen_at": "2026-07-17T21:11:36.594896Z",
+  "source_story_id": "48947548",
+  "source_story_title": "Show HN: Watch bots interact with an SSH honeypot in real time"
+}
