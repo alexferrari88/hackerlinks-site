@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "hyperbola-gnu-linux",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:hyperbola-gnu-linux:48907063",
+  "mention_ids": [
+    "2026-07-18:hyperbola-gnu-linux:48907063"
+  ],
+  "name": "Hyperbola GNU/Linux",
+  "slug": "hyperbola-gnu-linux",
+  "summary": "A lightweight GNU/Linux distribution used to keep low-spec netbooks useful.",
+  "thing_url": "https://www.hyperbola.info/",
+  "times_seen": 1,
+  "why_included": "A commenter supplied detailed first-hand evidence of a workable vintage-netbook setup."
+}

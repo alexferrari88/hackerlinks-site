@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "run_date": "2026-07-18",
+  "generated_at": "2026-07-19T04:11:24Z",
+  "summary": "Eight newly surfaced, comment-endorsed tools, systems, and a book from the 2026-07-18 HN front page.",
+  "stories_scraped": 65,
+  "stories_total": 157,
+  "stories_unreachable": 92,
+  "telegram_footer": "8 items surfaced | 65/157 stories scraped (92 unreachable) | history + run artifact updated",
+  "items": [
+    {
+      "category": "Dev Tools & Infrastructure",
+      "name": "cjpegli",
+      "thing_url": "https://github.com/libjxl/libjxl",
+      "hn_url": "https://news.ycombinator.com/item?id=48954851",
+      "source_story_title": "Regressive JPEGs",
+      "summary": "A JPEG encoder from the libjxl project, praised for high-quality progressive 4:4:4 compression.",
+      "why_included": "A commenter gave clear first-hand approval and a concrete compression-quality rationale.",
+      "evidence": "A commenter said they use cjpegli and that it “compresses best” with its default progressive, full-4:4:4 approach."
+    },
+    {
+      "category": "Dev Tools & Infrastructure",
+      "name": "Solaar",
+      "thing_url": "https://github.com/pwr-Solaar/Solaar",
+      "hn_url": "https://news.ycombinator.com/item?id=48956688",
+      "source_story_title": "LG monitors silently install software through Windows Update without consent",
+      "summary": "A Linux manager for Logitech wireless devices, praised for exposing full Bolt-receiver features.",
+      "why_included": "The recommendation was grounded in long-term personal use of Logitech hardware on Linux.",
+      "evidence": "A commenter called Logitech MX hardware “rock solid” and said the Bolt receiver works great with Linux via Solaar."
+    },
+    {
+      "category": "Dev Tools & Infrastructure",
+      "name": "curl_cffi",
+      "thing_url": "https://github.com/lexiforest/curl_cffi",
+      "hn_url": "https://news.ycombinator.com/item?id=48960551",
+      "source_story_title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "summary": "A Python HTTP client with curl-style browser impersonation, recommended for difficult web requests.",
+      "why_included": "A commenter named it as their first library choice for the concrete Cloudflare-access problem.",
+      "evidence": "A commenter wrote that curl_cffi is “the first library I reach for” when dealing with that situation."
+    },
+    {
+      "category": "Personal Computing",
+      "name": "Logitech MX Keys Mini",
+      "thing_url": "https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48956688",
+      "source_story_title": "LG monitors silently install software through Windows Update without consent",
+      "summary": "A compact wireless keyboard, praised as durable in multi-PC Linux use.",
+      "why_included": "It received explicit long-term, first-hand approval in a discussion of peripheral software bloat.",
+      "evidence": "A commenter said their MX Keys Mini, MX Anywhere mice, and trackballs are “all rock solid.”"
+    },
+    {
+      "category": "Open Source & Systems",
+      "name": "Moonshine Micro",
+      "thing_url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "hn_url": "https://news.ycombinator.com/item?id=48911793",
+      "source_story_title": "Speech Recognition and TTS in less than 500kb",
+      "summary": "A sub-500 KB speech-recognition and text-to-speech runtime for constrained devices.",
+      "why_included": "The project received direct positive reaction and was noted as useful for fast Raspberry Pi voice recognition.",
+      "evidence": "One commenter said fast voice recognition on a Raspberry Pi “alone is worth it”; another wrote, “very nice I love it.”"
+    },
+    {
+      "category": "Open Source & Systems",
+      "name": "Hyperbola GNU/Linux",
+      "thing_url": "https://www.hyperbola.info/",
+      "hn_url": "https://news.ycombinator.com/item?id=48907063",
+      "source_story_title": "Reviving a 15-year-old netbook with Arch Linux",
+      "summary": "A lightweight GNU/Linux distribution used to keep low-spec netbooks useful.",
+      "why_included": "A commenter supplied detailed first-hand evidence of a workable vintage-netbook setup.",
+      "evidence": "A commenter said their Hyperbola GNU/Linux netbook setup is “really fast” and listed the tools they use on it."
+    },
+    {
+      "category": "Games & Creative Tools",
+      "name": "Q3Edit",
+      "thing_url": "https://q3edit.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48958854",
+      "source_story_title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "summary": "A browser editor and player for Quake 3 maps, valued for hands-on engine exploration.",
+      "why_included": "The project earned direct praise from commenters interested in exploring classic game engines.",
+      "evidence": "A commenter called Q3Edit “awesome” and said they love experimenting with older source-available engines."
+    },
+    {
+      "category": "Books & Learning",
+      "name": "How to Read a Book",
+      "thing_url": "https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094",
+      "hn_url": "https://news.ycombinator.com/item?id=48962893",
+      "source_story_title": "Judge a book by its first pages",
+      "summary": "Mortimer J. Adler's guide to analytical reading, recommended for its practical reading techniques.",
+      "why_included": "Multiple commenters described it as useful for serious nonfiction reading and gave direct approval.",
+      "evidence": "One commenter said they were “quite impressed”; another wrote, “Can’t recommend the book enough, taught me a lot of tricks.”"
+    }
+  ]
+}

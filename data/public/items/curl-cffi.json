@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "curl-cffi",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:curl-cffi:48960551",
+  "mention_ids": [
+    "2026-07-18:curl-cffi:48960551"
+  ],
+  "name": "curl_cffi",
+  "slug": "curl-cffi",
+  "summary": "A Python HTTP client with curl-style browser impersonation, recommended for difficult web requests.",
+  "thing_url": "https://github.com/lexiforest/curl_cffi",
+  "times_seen": 1,
+  "why_included": "A commenter named it as their first library choice for the concrete Cloudflare-access problem."
+}

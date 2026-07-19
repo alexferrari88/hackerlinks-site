@@ -5605,6 +5605,78 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "Vāgdhenu",
+      "first_reported_at": "2026-07-18T09:27:56Z",
+      "last_reported_at": "2026-07-18T09:27:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Topcoat",
+      "first_reported_at": "2026-07-18T09:27:56Z",
+      "last_reported_at": "2026-07-18T09:27:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open Book Touch",
+      "first_reported_at": "2026-07-18T09:27:56Z",
+      "last_reported_at": "2026-07-18T09:27:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Stenchill",
+      "first_reported_at": "2026-07-18T09:27:56Z",
+      "last_reported_at": "2026-07-18T09:27:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "cjpegli",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Logitech MX Keys Mini",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Solaar",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Moonshine Micro",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Hyperbola GNU/Linux",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Q3Edit",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "curl_cffi",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "How to Read a Book",
+      "first_reported_at": "2026-07-19T04:11:24Z",
+      "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
     }
   ]
 }

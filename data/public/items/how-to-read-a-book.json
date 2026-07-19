@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "how-to-read-a-book",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:how-to-read-a-book:48962893",
+  "mention_ids": [
+    "2026-07-18:how-to-read-a-book:48962893"
+  ],
+  "name": "How to Read a Book",
+  "slug": "how-to-read-a-book",
+  "summary": "Mortimer J. Adler's guide to analytical reading, recommended for its practical reading techniques.",
+  "thing_url": "https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094",
+  "times_seen": 1,
+  "why_included": "Multiple commenters described it as useful for serious nonfiction reading and gave direct approval."
+}

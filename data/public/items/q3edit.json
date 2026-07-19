@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "q3edit",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:q3edit:48958854",
+  "mention_ids": [
+    "2026-07-18:q3edit:48958854"
+  ],
+  "name": "Q3Edit",
+  "slug": "q3edit",
+  "summary": "A browser editor and player for Quake 3 maps, valued for hands-on engine exploration.",
+  "thing_url": "https://q3edit.com/",
+  "times_seen": 1,
+  "why_included": "The project earned direct praise from commenters interested in exploring classic game engines."
+}

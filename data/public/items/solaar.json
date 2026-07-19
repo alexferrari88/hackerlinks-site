@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "solaar",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:solaar:48956688",
+  "mention_ids": [
+    "2026-07-18:solaar:48956688"
+  ],
+  "name": "Solaar",
+  "slug": "solaar",
+  "summary": "A Linux manager for Logitech wireless devices, praised for exposing full Bolt-receiver features.",
+  "thing_url": "https://github.com/pwr-Solaar/Solaar",
+  "times_seen": 1,
+  "why_included": "The recommendation was grounded in long-term personal use of Logitech hardware on Linux."
+}

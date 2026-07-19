@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "logitech-mx-keys-mini",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:logitech-mx-keys-mini:48956688",
+  "mention_ids": [
+    "2026-07-18:logitech-mx-keys-mini:48956688"
+  ],
+  "name": "Logitech MX Keys Mini",
+  "slug": "logitech-mx-keys-mini",
+  "summary": "A compact wireless keyboard, praised as durable in multi-PC Linux use.",
+  "thing_url": "https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.html",
+  "times_seen": 1,
+  "why_included": "It received explicit long-term, first-hand approval in a discussion of peripheral software bloat."
+}

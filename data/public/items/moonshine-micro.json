@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "moonshine-micro",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:moonshine-micro:48911793",
+  "mention_ids": [
+    "2026-07-18:moonshine-micro:48911793"
+  ],
+  "name": "Moonshine Micro",
+  "slug": "moonshine-micro",
+  "summary": "A sub-500 KB speech-recognition and text-to-speech runtime for constrained devices.",
+  "thing_url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+  "times_seen": 1,
+  "why_included": "The project received direct positive reaction and was noted as useful for fast Raspberry Pi voice recognition."
+}

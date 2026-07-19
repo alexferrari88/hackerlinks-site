@@ -1,0 +1,12 @@
+{
+  "evidence": "One commenter said fast voice recognition on a Raspberry Pi \u201calone is worth it\u201d; another wrote, \u201cvery nice I love it.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=48911793",
+  "id": "2026-07-18:moonshine-micro:48911793",
+  "is_repeat": false,
+  "issue_id": "2026-07-18",
+  "item_id": "moonshine-micro",
+  "rank": 5,
+  "seen_at": "2026-07-19T04:11:24Z",
+  "source_story_id": "48911793",
+  "source_story_title": "Speech Recognition and TTS in less than 500kb"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-19T04:11:24Z",
+  "id": "cjpegli",
+  "last_seen_at": "2026-07-19T04:11:24Z",
+  "latest_mention_id": "2026-07-18:cjpegli:48954851",
+  "mention_ids": [
+    "2026-07-18:cjpegli:48954851"
+  ],
+  "name": "cjpegli",
+  "slug": "cjpegli",
+  "summary": "A JPEG encoder from the libjxl project, praised for high-quality progressive 4:4:4 compression.",
+  "thing_url": "https://github.com/libjxl/libjxl",
+  "times_seen": 1,
+  "why_included": "A commenter gave clear first-hand approval and a concrete compression-quality rationale."
+}
