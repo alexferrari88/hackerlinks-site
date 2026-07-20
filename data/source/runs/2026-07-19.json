@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "run_date": "2026-07-19",
+  "generated_at": "2026-07-20T04:02:35Z",
+  "summary": {
+    "status": "intake_failed",
+    "reason": "Front-page archive intake failed; no story list was available for comment scanning.",
+    "collector_error": "front archive fetch failed: RuntimeError('curl: (22) The requested URL returned error: 403')"
+  },
+  "stories_scraped": 0,
+  "stories_total": 0,
+  "telegram_footer": "HN intake failed | 0/0 stories scraped | history unchanged",
+  "items": []
+}
