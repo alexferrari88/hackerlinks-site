@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-20T12:20:10Z",
+  "id": "orion-browser",
+  "last_seen_at": "2026-07-20T12:20:10Z",
+  "latest_mention_id": "2026-07-20:orion-browser:48970894",
+  "mention_ids": [
+    "2026-07-20:orion-browser:48970894"
+  ],
+  "name": "Orion Browser",
+  "slug": "orion-browser",
+  "summary": "A Kagi browser beta with built-in ad blocking and nested vertical tabs.",
+  "thing_url": "https://orionbrowser.com/",
+  "times_seen": 1,
+  "why_included": "A Linux user gave specific positive first-hand feedback on features that replace Firefox extensions."
+}

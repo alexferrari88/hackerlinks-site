@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-20T12:20:10Z",
+  "id": "winbox",
+  "last_seen_at": "2026-07-20T12:20:10Z",
+  "latest_mention_id": "2026-07-20:winbox:48970772",
+  "mention_ids": [
+    "2026-07-20:winbox:48970772"
+  ],
+  "name": "WinBox",
+  "slug": "winbox",
+  "summary": "A cross-platform desktop utility for configuring MikroTik RouterOS devices.",
+  "thing_url": "https://mikrotik.com/download/winbox/",
+  "times_seen": 1,
+  "why_included": "Multiple users independently praised the newer cross-platform WinBox v4 experience."
+}

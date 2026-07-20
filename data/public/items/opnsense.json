@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-20T12:20:10Z",
+  "id": "opnsense",
+  "last_seen_at": "2026-07-20T12:20:10Z",
+  "latest_mention_id": "2026-07-20:opnsense:48970772",
+  "mention_ids": [
+    "2026-07-20:opnsense:48970772"
+  ],
+  "name": "OPNsense",
+  "slug": "opnsense",
+  "summary": "An open-source firewall and routing platform recommended as a capable homelab alternative.",
+  "thing_url": "https://opnsense.org/",
+  "times_seen": 1,
+  "why_included": "A commenter gave a concrete home-router build recommendation and said it had been running like a dream."
+}

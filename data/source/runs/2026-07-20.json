@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "run_date": "2026-07-20",
+  "generated_at": "2026-07-20T12:20:10Z",
+  "summary": "Seven new comment-endorsed tools and learning resources from 30 current Hacker News front-page stories.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "7 items surfaced | 30/30 stories scraped | history + run artifact updated",
+  "items": [
+    {
+      "name": "OPNsense",
+      "category": "Privacy & Networking",
+      "thing_url": "https://opnsense.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48970772",
+      "source_story_title": "HomeLab #1: MikroTik as a Home Router",
+      "summary": "An open-source firewall and routing platform recommended as a capable homelab alternative.",
+      "why_included": "A commenter gave a concrete home-router build recommendation and said it had been running like a dream.",
+      "evidence": "In the MikroTik discussion, a commenter said homelab users are far better served installing OPNsense on repurposed Sophos hardware."
+    },
+    {
+      "name": "WinBox",
+      "category": "Privacy & Networking",
+      "thing_url": "https://mikrotik.com/download/winbox/",
+      "hn_url": "https://news.ycombinator.com/item?id=48970772",
+      "source_story_title": "HomeLab #1: MikroTik as a Home Router",
+      "summary": "A cross-platform desktop utility for configuring MikroTik RouterOS devices.",
+      "why_included": "Multiple users independently praised the newer cross-platform WinBox v4 experience.",
+      "evidence": "One commenter called the all-platform WinBox release a huge QoL improvement; another said v4 is much nicer and runs on Linux."
+    },
+    {
+      "name": "Orion Browser",
+      "category": "Privacy & Networking",
+      "thing_url": "https://orionbrowser.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48970894",
+      "source_story_title": "Orion Browser by Kagi",
+      "summary": "A Kagi browser beta with built-in ad blocking and nested vertical tabs.",
+      "why_included": "A Linux user gave specific positive first-hand feedback on features that replace Firefox extensions.",
+      "evidence": "A commenter wrote that the Linux beta feels nice and that its ad blocking and nested tabs meet their main Firefox needs."
+    },
+    {
+      "name": "The Riemann Hypothesis, Part 1",
+      "category": "Watch & Learn",
+      "thing_url": "https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48952713",
+      "source_story_title": "What does the Riemann zeta function have to do with the distribution of primes?",
+      "summary": "An introductory article series explaining the Riemann hypothesis and prime distribution.",
+      "why_included": "It was directly recommended as a more approachable explanation than the submitted article.",
+      "evidence": "A commenter said they had personally found this overview much more approachable for the question in the title."
+    },
+    {
+      "name": "OTR Food & History",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@OTRontheroad",
+      "hn_url": "https://news.ycombinator.com/item?id=48968063",
+      "source_story_title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "summary": "A long-form YouTube documentary channel about food and global history.",
+      "why_included": "The channel received a direct, enthusiastic first-hand recommendation with a specific banana-history documentary.",
+      "evidence": "A commenter called OTR their favorite YouTube long-form documentary maker and recommended its History of the Banana video."
+    },
+    {
+      "name": "Technology Connections",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@TechnologyConnections",
+      "hn_url": "https://news.ycombinator.com/item?id=48968063",
+      "source_story_title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "summary": "A YouTube channel explaining everyday technology through detailed video essays.",
+      "why_included": "It received an unambiguous recommendation alongside other high-quality long-form channels.",
+      "evidence": "A commenter called Technology Connections one of the rare gems among YouTube channels."
+    },
+    {
+      "name": "Alexander the OK",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@Alexander-the-ok",
+      "hn_url": "https://news.ycombinator.com/item?id=48968063",
+      "source_story_title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "summary": "A YouTube channel recommended for thoughtful long-form video essays.",
+      "why_included": "It was explicitly named as one of a commenter's rare YouTube-channel gems.",
+      "evidence": "A commenter grouped Alexander the OK with channels they described as rare gems among YouTube channels."
+    }
+  ]
+}

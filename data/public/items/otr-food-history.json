@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-20T12:20:10Z",
+  "id": "otr-food-history",
+  "last_seen_at": "2026-07-20T12:20:10Z",
+  "latest_mention_id": "2026-07-20:otr-food-history:48968063",
+  "mention_ids": [
+    "2026-07-20:otr-food-history:48968063"
+  ],
+  "name": "OTR Food & History",
+  "slug": "otr-food-history",
+  "summary": "A long-form YouTube documentary channel about food and global history.",
+  "thing_url": "https://www.youtube.com/@OTRontheroad",
+  "times_seen": 1,
+  "why_included": "The channel received a direct, enthusiastic first-hand recommendation with a specific banana-history documentary."
+}
