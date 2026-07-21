@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "jelly-ui",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:jelly-ui:48981620",
+  "mention_ids": [
+    "2026-07-21:jelly-ui:48981620"
+  ],
+  "name": "Jelly UI",
+  "slug": "jelly-ui",
+  "summary": "A web-component library that adds soft-body physics to HTML form controls.",
+  "thing_url": "https://jelly-ui.com/",
+  "times_seen": 1,
+  "why_included": "Several commenters independently praised its creative, usable interaction design."
+}

@@ -1,0 +1,12 @@
+{
+  "evidence": "A user said GNU Parallel\u2019s `--dry-run` made them confident enough to do more batch processing than with xargs.",
+  "hn_url": "https://news.ycombinator.com/item?id=48984270",
+  "id": "2026-07-21:gnu-parallel:48984270",
+  "is_repeat": false,
+  "issue_id": "2026-07-21",
+  "item_id": "gnu-parallel",
+  "rank": 2,
+  "seen_at": "2026-07-21T04:50:22Z",
+  "source_story_id": "48984270",
+  "source_story_title": "I wrote an bash enumerator because I was sick of xargs"
+}

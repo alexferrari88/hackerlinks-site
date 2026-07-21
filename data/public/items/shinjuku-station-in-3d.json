@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "shinjuku-station-in-3d",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:shinjuku-station-in-3d:48978792",
+  "mention_ids": [
+    "2026-07-21:shinjuku-station-in-3d:48978792"
+  ],
+  "name": "Shinjuku Station in 3D",
+  "slug": "shinjuku-station-in-3d",
+  "summary": "An interactive 3D visualization of Tokyo\u2019s vast Shinjuku Station complex.",
+  "thing_url": "https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo",
+  "times_seen": 1,
+  "why_included": "The visualizer was praised as both excellent and potentially useful for real-world navigation training."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "the-psychology-of-computer-programming",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:the-psychology-of-computer-programming:48923130",
+  "mention_ids": [
+    "2026-07-21:the-psychology-of-computer-programming:48923130"
+  ],
+  "name": "The Psychology of Computer Programming",
+  "slug": "the-psychology-of-computer-programming",
+  "summary": "Gerald Weinberg\u2019s classic book on the human and social side of programming.",
+  "thing_url": "https://geraldmweinberg.com/Site/Programming_Psychology.html",
+  "times_seen": 1,
+  "why_included": "It was singled out as a standout resource for understanding software-team psychology."
+}

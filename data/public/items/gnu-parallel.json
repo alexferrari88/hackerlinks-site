@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "gnu-parallel",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:gnu-parallel:48984270",
+  "mention_ids": [
+    "2026-07-21:gnu-parallel:48984270"
+  ],
+  "name": "GNU Parallel",
+  "slug": "gnu-parallel",
+  "summary": "A command-line utility for running shell jobs concurrently with rich controls.",
+  "thing_url": "https://www.gnu.org/software/parallel/",
+  "times_seen": 1,
+  "why_included": "It received specific first-hand praise for making batch work safer and more approachable."
+}

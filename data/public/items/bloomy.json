@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "bloomy",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:bloomy:48981136",
+  "mention_ids": [
+    "2026-07-21:bloomy:48981136"
+  ],
+  "name": "Bloomy",
+  "slug": "bloomy",
+  "summary": "An AI-assisted K-12 mastery-learning platform with adaptive lessons and Socratic tutoring.",
+  "thing_url": "https://www.bloomylearning.com/",
+  "times_seen": 1,
+  "why_included": "It received direct enthusiasm from educators alongside substantive discussion of learning design."
+}

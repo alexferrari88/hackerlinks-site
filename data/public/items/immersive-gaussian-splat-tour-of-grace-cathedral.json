@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "immersive-gaussian-splat-tour-of-grace-cathedral",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:immersive-gaussian-splat-tour-of-grace-cathedral:48984254",
+  "mention_ids": [
+    "2026-07-21:immersive-gaussian-splat-tour-of-grace-cathedral:48984254"
+  ],
+  "name": "Immersive Gaussian Splat Tour of Grace Cathedral",
+  "slug": "immersive-gaussian-splat-tour-of-grace-cathedral",
+  "summary": "A mobile-friendly interactive 3D Gaussian-splat tour of San Francisco\u2019s Grace Cathedral.",
+  "thing_url": "https://vincentwoo.com/3d/grace_cathedral/",
+  "times_seen": 1,
+  "why_included": "The tour earned unusually strong praise for its visual quality and mobile experience."
+}

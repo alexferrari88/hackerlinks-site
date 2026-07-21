@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "pengy",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:pengy:48981703",
+  "mention_ids": [
+    "2026-07-21:pengy:48981703"
+  ],
+  "name": "Pengy",
+  "slug": "pengy",
+  "summary": "An open agent specification and reference project for building custom tool-using agents.",
+  "thing_url": "https://github.com/patw/pengy",
+  "times_seen": 1,
+  "why_included": "It was recommended as a practical, inspectable starting point for a tailored agent system."
+}

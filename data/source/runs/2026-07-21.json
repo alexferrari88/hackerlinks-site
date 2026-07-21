@@ -1,0 +1,114 @@
+{
+  "version": 2,
+  "run_date": "2026-07-21",
+  "generated_at": "2026-07-21T04:50:22Z",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-21.json",
+    "sha256": "4cf0b6a98fc6c6cfe606608009c5c725f8a6ee0059428989eab68de4b00b9fe3",
+    "bytes": 1899000,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3118,
+    "fetched_item_count": 3148,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Nine concrete, comment-endorsed tools, experiences, and learning resources from the current Hacker News front page.",
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Jelly UI",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://jelly-ui.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48981620",
+      "source_story_title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "summary": "A web-component library that adds soft-body physics to HTML form controls.",
+      "why_included": "Several commenters independently praised its creative, usable interaction design.",
+      "evidence": "One commenter called it “stupidly creative” and said it felt naturally intuitive; another praised its web-component implementation."
+    },
+    {
+      "name": "GNU Parallel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.gnu.org/software/parallel/",
+      "hn_url": "https://news.ycombinator.com/item?id=48984270",
+      "source_story_title": "I wrote an bash enumerator because I was sick of xargs",
+      "summary": "A command-line utility for running shell jobs concurrently with rich controls.",
+      "why_included": "It received specific first-hand praise for making batch work safer and more approachable.",
+      "evidence": "A user said GNU Parallel’s `--dry-run` made them confident enough to do more batch processing than with xargs."
+    },
+    {
+      "name": "Paseo",
+      "category": "AI & Local Models",
+      "thing_url": "https://paseo.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48981703",
+      "source_story_title": "Kimi Work",
+      "summary": "A desktop and mobile interface for running local coding-agent CLIs.",
+      "why_included": "A direct recommendation identified it as a strong companion interface for existing agent CLIs.",
+      "evidence": "A commenter recommended paseo.sh as “a great interface for desktop and mobile” with Claude, OpenCode, or Pi running underneath."
+    },
+    {
+      "name": "Pengy",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/patw/pengy",
+      "hn_url": "https://news.ycombinator.com/item?id=48981703",
+      "source_story_title": "Kimi Work",
+      "summary": "An open agent specification and reference project for building custom tool-using agents.",
+      "why_included": "It was recommended as a practical, inspectable starting point for a tailored agent system.",
+      "evidence": "A commenter recommended Pengy’s `spec.md` as a blueprint to feed to an agent and adapt to one’s own stack and workflow."
+    },
+    {
+      "name": "Immersive Gaussian Splat Tour of Grace Cathedral",
+      "category": "Watch & Learn",
+      "thing_url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "hn_url": "https://news.ycombinator.com/item?id=48984254",
+      "source_story_title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "summary": "A mobile-friendly interactive 3D Gaussian-splat tour of San Francisco’s Grace Cathedral.",
+      "why_included": "The tour earned unusually strong praise for its visual quality and mobile experience.",
+      "evidence": "A commenter called the tour “such a cool immersive experience on mobile,” while another described the stained glass and cutaway view as stunning."
+    },
+    {
+      "name": "Bloomy",
+      "category": "Learning & Education",
+      "thing_url": "https://www.bloomylearning.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48981136",
+      "source_story_title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "summary": "An AI-assisted K-12 mastery-learning platform with adaptive lessons and Socratic tutoring.",
+      "why_included": "It received direct enthusiasm from educators alongside substantive discussion of learning design.",
+      "evidence": "One commenter said “HELL YES and TAKE MY MONEY”; a former teacher said a program like Bloomy could have enabled better student relationships."
+    },
+    {
+      "name": "The Psychology of Computer Programming",
+      "category": "Books & Ideas",
+      "thing_url": "https://geraldmweinberg.com/Site/Programming_Psychology.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48923130",
+      "source_story_title": "The Psychology of Software Teams",
+      "summary": "Gerald Weinberg’s classic book on the human and social side of programming.",
+      "why_included": "It was singled out as a standout resource for understanding software-team psychology.",
+      "evidence": "A commenter described Weinberg’s book as “one of the best pieces of work in this genre.”"
+    },
+    {
+      "name": "Shinjuku Station in 3D",
+      "category": "Watch & Learn",
+      "thing_url": "https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo",
+      "hn_url": "https://news.ycombinator.com/item?id=48978792",
+      "source_story_title": "Shinjuku Station in 3D",
+      "summary": "An interactive 3D visualization of Tokyo’s vast Shinjuku Station complex.",
+      "why_included": "The visualizer was praised as both excellent and potentially useful for real-world navigation training.",
+      "evidence": "A commenter called it “an excellent visualization” and proposed turning it into a first-person navigation trainer for visitors."
+    },
+    {
+      "name": "The Exit 8",
+      "category": "Games & Side Projects",
+      "thing_url": "https://store.steampowered.com/app/2653790/The_Exit_8/",
+      "hn_url": "https://news.ycombinator.com/item?id=48978792",
+      "source_story_title": "Shinjuku Station in 3D",
+      "summary": "A short anomaly-spotting walking simulator set in an endless Japanese underground passage.",
+      "why_included": "A firsthand player recommendation surfaced it as an enjoyable, compact liminal-space game.",
+      "evidence": "A commenter said they expected a Shinjuku navigation game, but found that The Exit 8’s single-hallway premise was “still a lot of fun.”"
+    }
+  ]
+}

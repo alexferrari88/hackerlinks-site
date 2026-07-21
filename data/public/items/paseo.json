@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-21T04:50:22Z",
+  "id": "paseo",
+  "last_seen_at": "2026-07-21T04:50:22Z",
+  "latest_mention_id": "2026-07-21:paseo:48981703",
+  "mention_ids": [
+    "2026-07-21:paseo:48981703"
+  ],
+  "name": "Paseo",
+  "slug": "paseo",
+  "summary": "A desktop and mobile interface for running local coding-agent CLIs.",
+  "thing_url": "https://paseo.sh/",
+  "times_seen": 1,
+  "why_included": "A direct recommendation identified it as a strong companion interface for existing agent CLIs."
+}
