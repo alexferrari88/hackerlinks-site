@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "filmot",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:filmot:48993414",
+  "mention_ids": [
+    "2026-07-22:filmot:48993414"
+  ],
+  "name": "Filmot",
+  "slug": "filmot",
+  "summary": "A search engine for finding YouTube videos through their transcripts.",
+  "thing_url": "https://filmot.com/",
+  "times_seen": 1,
+  "why_included": "It is a durable, directly useful discovery tool for recovering lectures and videos from partial memories."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "late-sh",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:late-sh:49001127",
+  "mention_ids": [
+    "2026-07-22:late-sh:49001127"
+  ],
+  "name": "Late.sh",
+  "slug": "late-sh",
+  "summary": "A command-line social space for live computer-oriented conversation, music, games, and bots.",
+  "thing_url": "https://late.sh/",
+  "times_seen": 1,
+  "why_included": "It drew unambiguous enthusiasm for both its unusual interaction model and polished presentation."
+}

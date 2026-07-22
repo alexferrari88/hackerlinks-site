@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "aalu",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:aalu:48996318",
+  "mention_ids": [
+    "2026-07-22:aalu:48996318"
+  ],
+  "name": "AALU",
+  "slug": "aalu",
+  "summary": "An e-reader firmware focused on grouping book series together visually.",
+  "thing_url": "https://github.com/dawsonfi/aalu",
+  "times_seen": 1,
+  "why_included": "A focused recommendation for readers who want better library organization on small e-ink devices."
+}

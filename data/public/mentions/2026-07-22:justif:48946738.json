@@ -1,0 +1,12 @@
+{
+  "evidence": "After testing a 5k-word, three-column page, a commenter said Justif\u2019s output \u201clooks like typesetting rather than CSS.\u201d",
+  "hn_url": "https://news.ycombinator.com/item?id=48946738",
+  "id": "2026-07-22:justif:48946738",
+  "is_repeat": false,
+  "issue_id": "2026-07-22",
+  "item_id": "justif",
+  "rank": 5,
+  "seen_at": "2026-07-22T04:06:53Z",
+  "source_story_id": "48946738",
+  "source_story_title": "Show HN: Justif \u2013 Knuth-Plass justification and microtypography for the web"
+}

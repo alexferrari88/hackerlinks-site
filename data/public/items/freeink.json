@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "freeink",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:freeink:48996318",
+  "mention_ids": [
+    "2026-07-22:freeink:48996318"
+  ],
+  "name": "FreeInk",
+  "slug": "freeink",
+  "summary": "An open ecosystem for hackable, lightweight e-readers and custom firmware.",
+  "thing_url": "https://freeink.org/",
+  "times_seen": 1,
+  "why_included": "A commenter called the project \u201cdangerously cool,\u201d making it a strong open-hardware reading pick."
+}

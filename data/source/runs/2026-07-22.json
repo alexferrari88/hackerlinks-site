@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "run_date": "2026-07-22",
+  "generated_at": "2026-07-22T04:06:53Z",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-22.json",
+    "sha256": "21a8ce95ba6dde46c73a7a79e95ccea60a894311aa0460d1c2d25eaaeaabf778",
+    "bytes": 2076655,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3562,
+    "fetched_item_count": 3592,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "summary": "Ten comment-endorsed tools and projects from a verified full crawl of the current Hacker News front page.",
+  "items": [
+    {
+      "name": "FreeInk",
+      "category": "Reading & E-Ink",
+      "thing_url": "https://freeink.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48996318",
+      "source_story_title": "FreeInk: Open ecosystem for e-readers",
+      "summary": "An open ecosystem for hackable, lightweight e-readers and custom firmware.",
+      "why_included": "A commenter called the project “dangerously cool,” making it a strong open-hardware reading pick.",
+      "evidence": "An HN commenter said FreeInk is “already dangerously cool” and could become far more consequential with Kindle support."
+    },
+    {
+      "name": "Witch Reader",
+      "category": "Reading & E-Ink",
+      "thing_url": "https://github.com/jpirnay/witchhunt-reader",
+      "hn_url": "https://news.ycombinator.com/item?id=48996318",
+      "source_story_title": "FreeInk: Open ecosystem for e-readers",
+      "summary": "An e-reader firmware with enhanced book rendering and CrossPoint-compatible features.",
+      "why_included": "It had unusually concrete, comparative praise from someone who tried many alternatives.",
+      "evidence": "A commenter called Witch Reader their favorite, praising its rendering and saying they keep coming back to it."
+    },
+    {
+      "name": "AALU",
+      "category": "Reading & E-Ink",
+      "thing_url": "https://github.com/dawsonfi/aalu",
+      "hn_url": "https://news.ycombinator.com/item?id=48996318",
+      "source_story_title": "FreeInk: Open ecosystem for e-readers",
+      "summary": "An e-reader firmware focused on grouping book series together visually.",
+      "why_included": "A focused recommendation for readers who want better library organization on small e-ink devices.",
+      "evidence": "A commenter recommended AALU as worth a look for displaying all books in a series together."
+    },
+    {
+      "name": "inx",
+      "category": "Reading & E-Ink",
+      "thing_url": "https://github.com/obijuankenobiii/inx",
+      "hn_url": "https://news.ycombinator.com/item?id=48996318",
+      "source_story_title": "FreeInk: Open ecosystem for e-readers",
+      "summary": "A Rust-oriented e-reader firmware notable for annotation support.",
+      "why_included": "It is a niche but concrete firmware option with a distinctive capability absent from peers.",
+      "evidence": "A commenter called inx their favorite and said it was the only option they knew with annotation support, while noting occasional crashes."
+    },
+    {
+      "name": "Justif",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://justif.lyall.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=48946738",
+      "source_story_title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+      "summary": "A web typography library bringing Knuth-Plass line breaking and microtypography to CSS layouts.",
+      "why_included": "Real-world testing reported typeset-quality columns, small payload size, and fast long-document layout.",
+      "evidence": "After testing a 5k-word, three-column page, a commenter said Justif’s output “looks like typesetting rather than CSS.”"
+    },
+    {
+      "name": "Laguna S 2.1",
+      "category": "AI & Local Models",
+      "thing_url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48995261",
+      "source_story_title": "Laguna S 2.1",
+      "summary": "An open-weight 118B-parameter MoE coding model designed for practical local deployment.",
+      "why_included": "Several users reported capable local coding results, with an important configuration caveat for thinking mode.",
+      "evidence": "A commenter reported markedly better code quality once thinking was enabled and another described the model as “great for coding.”"
+    },
+    {
+      "name": "llm-compressor",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/vllm-project/llm-compressor",
+      "hn_url": "https://news.ycombinator.com/item?id=48995261",
+      "source_story_title": "Laguna S 2.1",
+      "summary": "A model-compression tool that can quantize models too large to fit in memory.",
+      "why_included": "It solves a practical local-model deployment constraint and came with specific first-hand usage guidance.",
+      "evidence": "A commenter said they use llm-compressor’s sequential pipeline to quantize models that do not fit in memory."
+    },
+    {
+      "name": "PCjs Machines",
+      "category": "Retro Computing",
+      "thing_url": "https://www.pcjs.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48992323",
+      "source_story_title": "PCjs Machines",
+      "summary": "Browser-based emulations of vintage PCs, software, and operating systems.",
+      "why_included": "A first-hand test demonstrated a complete browser-to-real-hardware Windows 3.1 development loop.",
+      "evidence": "A commenter created a Visual Basic executable in PCjs, moved it to real 1992 hardware, and reported it ran without issue."
+    },
+    {
+      "name": "Filmot",
+      "category": "Watch & Learn",
+      "thing_url": "https://filmot.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48993414",
+      "source_story_title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "A search engine for finding YouTube videos through their transcripts.",
+      "why_included": "It is a durable, directly useful discovery tool for recovering lectures and videos from partial memories.",
+      "evidence": "A commenter said they have used Filmot for years to find lectures when they remember only fragments."
+    },
+    {
+      "name": "Late.sh",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://late.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49001127",
+      "source_story_title": "Late.sh – a command-line Clubhouse for computer people",
+      "summary": "A command-line social space for live computer-oriented conversation, music, games, and bots.",
+      "why_included": "It drew unambiguous enthusiasm for both its unusual interaction model and polished presentation.",
+      "evidence": "HN commenters called Late.sh “amazing” and “fantastic,” highlighting its Icecast, IRC, 2048, and LLM features."
+    }
+  ]
+}

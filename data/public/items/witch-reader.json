@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "witch-reader",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:witch-reader:48996318",
+  "mention_ids": [
+    "2026-07-22:witch-reader:48996318"
+  ],
+  "name": "Witch Reader",
+  "slug": "witch-reader",
+  "summary": "An e-reader firmware with enhanced book rendering and CrossPoint-compatible features.",
+  "thing_url": "https://github.com/jpirnay/witchhunt-reader",
+  "times_seen": 1,
+  "why_included": "It had unusually concrete, comparative praise from someone who tried many alternatives."
+}

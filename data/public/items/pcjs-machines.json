@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "pcjs-machines",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:pcjs-machines:48992323",
+  "mention_ids": [
+    "2026-07-22:pcjs-machines:48992323"
+  ],
+  "name": "PCjs Machines",
+  "slug": "pcjs-machines",
+  "summary": "Browser-based emulations of vintage PCs, software, and operating systems.",
+  "thing_url": "https://www.pcjs.org/",
+  "times_seen": 1,
+  "why_included": "A first-hand test demonstrated a complete browser-to-real-hardware Windows 3.1 development loop."
+}

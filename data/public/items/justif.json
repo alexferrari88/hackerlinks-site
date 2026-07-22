@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "justif",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:justif:48946738",
+  "mention_ids": [
+    "2026-07-22:justif:48946738"
+  ],
+  "name": "Justif",
+  "slug": "justif",
+  "summary": "A web typography library bringing Knuth-Plass line breaking and microtypography to CSS layouts.",
+  "thing_url": "https://justif.lyall.co/",
+  "times_seen": 1,
+  "why_included": "Real-world testing reported typeset-quality columns, small payload size, and fast long-document layout."
+}

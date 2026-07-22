@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-22T04:06:53Z",
+  "id": "laguna-s-2-1",
+  "last_seen_at": "2026-07-22T04:06:53Z",
+  "latest_mention_id": "2026-07-22:laguna-s-2-1:48995261",
+  "mention_ids": [
+    "2026-07-22:laguna-s-2-1:48995261"
+  ],
+  "name": "Laguna S 2.1",
+  "slug": "laguna-s-2-1",
+  "summary": "An open-weight 118B-parameter MoE coding model designed for practical local deployment.",
+  "thing_url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+  "times_seen": 1,
+  "why_included": "Several users reported capable local coding results, with an important configuration caveat for thinking mode."
+}
