@@ -53,7 +53,7 @@ export default function HomePage() {
     <div className="content-grid">
       <JsonLd data={homeJsonLd} />
       <PageIntro
-        eyebrow="Worth opening. Easy to verify."
+        eyebrow="For the links you nearly missed."
         title={SITE_TAGLINE}
         summary={
           <>
