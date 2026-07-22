@@ -24,15 +24,15 @@ const DEFAULT_STATE: ArchiveState = {
 };
 
 const filters: Array<{ value: ArchiveFilter; label: string }> = [
-  { value: "all", label: "All items" },
-  { value: "resurfaced", label: "Resurfaced" },
-  { value: "recent", label: "Recently added" },
+  { value: "all", label: "Everything" },
+  { value: "resurfaced", label: "Seen more than once" },
+  { value: "recent", label: "New in the last 14 days" },
 ];
 
 const sorts: Array<{ value: ArchiveSort; label: string }> = [
-  { value: "recent", label: "Recently seen" },
-  { value: "seen", label: "Most sightings" },
-  { value: "newest", label: "Newest additions" },
+  { value: "recent", label: "Last seen" },
+  { value: "seen", label: "Seen most often" },
+  { value: "newest", label: "First seen" },
   { value: "name", label: "Name A–Z" },
 ];
 
@@ -104,7 +104,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
       <div className="archive-toolbar">
         <div className="archive-search-group">
           <label htmlFor="archive-search" className="archive-control-label">
-            Search the archive
+            Find something
           </label>
           <div className="archive-search-field">
             <Search aria-hidden="true" size={20} />
@@ -113,7 +113,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
               type="search"
               value={state.query}
               onChange={(event) => updateState({ query: event.target.value })}
-              placeholder="Name, description, or domain"
+              placeholder="Name, description, or website"
               autoComplete="off"
             />
             {state.query ? (
@@ -147,7 +147,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
         </div>
 
         <fieldset className="archive-filters">
-          <legend className="archive-control-label">Show</legend>
+          <legend className="archive-control-label">Filter</legend>
           <div className="archive-filter-list">
             {filters.map((filter) => (
               <button
@@ -166,9 +166,9 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
 
       <div className="archive-results-heading">
         <div>
-          <p className="archive-results-kicker">Archive results</p>
+          <p className="archive-results-kicker">Matching finds</p>
           <h2 id="archive-results-heading">
-            {filteredItems.length.toLocaleString("en")} {filteredItems.length === 1 ? "item" : "items"}
+            {filteredItems.length.toLocaleString("en")} {filteredItems.length === 1 ? "find" : "finds"}
           </h2>
         </div>
         {hasActiveFilters ? (
@@ -179,7 +179,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
       </div>
 
       <div className="sr-only" aria-live="polite">
-        {filteredItems.length} archive results
+        {filteredItems.length} matching archive results
       </div>
 
       {visibleItems.length > 0 ? (
@@ -206,7 +206,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
                     <dd>{formatDate(item.last_seen_at)}</dd>
                   </div>
                   <div>
-                    <dt>Sightings</dt>
+                    <dt>Times seen</dt>
                     <dd>{item.times_seen}</dd>
                   </div>
                 </dl>
@@ -216,10 +216,10 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
         </div>
       ) : (
         <div className="archive-empty-state">
-          <h3>No matching items</h3>
-          <p>Try a broader search, or clear the current view filter.</p>
+          <h3>Nothing matched</h3>
+          <p>Try fewer words, search for the website, or remove a filter.</p>
           <button type="button" className="archive-reset" onClick={resetExplorer}>
-            Show all items
+            Show everything
           </button>
         </div>
       )}
@@ -231,7 +231,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
             {filteredItems.length.toLocaleString("en")}
           </p>
           <button type="button" onClick={() => setVisibleLimit((current) => current + PAGE_SIZE)}>
-            Load 50 more
+            Show 50 more
           </button>
         </div>
       ) : null}

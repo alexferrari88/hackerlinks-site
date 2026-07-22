@@ -9,9 +9,9 @@ import { Badge } from "@/components/ui/badge";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 const links = [
-  { href: `${SITE_BASE_PATH}/`, label: "Front page" },
-  { href: `${SITE_BASE_PATH}/issues/`, label: "Issues" },
-  { href: `${SITE_BASE_PATH}/archive/`, label: "Archive" },
+  { href: `${SITE_BASE_PATH}/`, label: "Latest" },
+  { href: `${SITE_BASE_PATH}/issues/`, label: "Daily issues" },
+  { href: `${SITE_BASE_PATH}/archive/`, label: "Search" },
   { href: `${SITE_BASE_PATH}/about/`, label: "About" },
 ];
 
@@ -39,7 +39,7 @@ export function SiteHeader() {
             </span>
           </Link>
           <Badge variant="accent" className="hidden lg:inline-flex">
-            Curated Tools
+            From real HN threads
           </Badge>
         </div>
         <nav className="hidden items-center gap-2 lg:flex" aria-label="Primary navigation">

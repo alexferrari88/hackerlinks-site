@@ -8,9 +8,9 @@ import { getIssueListing, getIssuesNewestFirst, issueHref } from "@/lib/site-dat
 import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
 
 export const metadata = buildPageMetadata({
-  title: "Issues",
+  title: "Daily issues",
   description:
-    "Browse every daily HackerLinks issue in chronological order, with each issue preserving the original thread context and surfaced items.",
+    "Browse every daily HackerLinks issue and see which useful things surfaced in Hacker News discussions each day.",
   path: "/issues/",
 });
 
@@ -28,7 +28,7 @@ export default function IssuesPage() {
         "@id": absoluteUrl("/issues/", "collection"),
         url: absoluteUrl("/issues/"),
         name: "HackerLinks Issues",
-        description: "Chronological index of daily HackerLinks issues.",
+        description: "Daily collections of useful things surfaced in Hacker News discussions.",
         mainEntity: {
           "@id": absoluteUrl("/issues/", "list"),
         },
@@ -58,11 +58,12 @@ export default function IssuesPage() {
         ]}
       />
       <PageIntro
-        eyebrow="Issue Index"
-        title="Every tool recommendation, saved chronologically."
+        eyebrow="Daily issues"
+        title="A day-by-day trail of what HN uncovered."
         summary={
           <p>
-            Browse the historical archive of everything we&apos;ve discovered. Each issue collects the best tools, libraries, and discussions from Hacker News on that day.
+            Each issue gathers the specific things that caught our attention in Hacker News
+            discussions that day, with the original threads attached.
           </p>
         }
         meta={[

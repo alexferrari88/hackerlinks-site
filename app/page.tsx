@@ -21,9 +21,9 @@ import { buildPageMetadata, dataCatalogJsonLd, organizationJsonLd, websiteJsonLd
 import { SITE_TAGLINE, TELEGRAM_BOT_URL } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
-  title: "Developer tools surfaced from Hacker News",
+  title: "Useful things discovered on Hacker News",
   description:
-    "Find source-linked tools, libraries, apps, books, and other concrete things that keep surfacing in Hacker News discussions.",
+    "Explore useful tools, books, products, talks, hardware, and other finds from real Hacker News discussions. Every find links back to its source thread.",
   path: "/",
 });
 
@@ -53,13 +53,13 @@ export default function HomePage() {
     <div className="content-grid">
       <JsonLd data={homeJsonLd} />
       <PageIntro
-        eyebrow="Hacker News Distilled"
+        eyebrow="Worth opening. Easy to verify."
         title={SITE_TAGLINE}
         summary={
           <>
             <p>
-              HackerLinks is a source-linked archive of tools, libraries, apps, books, and other
-              concrete things that developers keep surfacing in real Hacker News threads.
+              HackerLinks pulls useful tools, books, products, talks, hardware, and other finds out
+              of sprawling Hacker News threads—then saves the context that made each one worth a look.
             </p>
             <a
               href={TELEGRAM_BOT_URL}
@@ -67,7 +67,7 @@ export default function HomePage() {
               rel="noopener noreferrer"
               className="group mt-4 inline-flex items-center gap-2 border-2 border-[var(--border)] bg-[var(--surface)] px-3 py-2 font-mono text-xs font-bold uppercase tracking-[0.12em] text-[var(--foreground)] shadow-[3px_3px_0_0_var(--shadow-color)] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:bg-[var(--primary)] hover:text-[var(--primary-foreground)] hover:shadow-[5px_5px_0_0_var(--shadow-color)]"
             >
-              <span>Telegram digest</span>
+              <span>Get the daily finds</span>
               <span className="font-sans normal-case tracking-normal text-[var(--muted-foreground)] group-hover:text-[var(--primary-foreground)]">
                 @hn_links_bot
               </span>
@@ -76,7 +76,7 @@ export default function HomePage() {
         }
         meta={[
           { label: "Issue", value: latestIssue.date, accent: true },
-          { label: "Items", value: latestIssue.summary.items_surfaced },
+          { label: "Finds", value: latestIssue.summary.items_surfaced },
           { label: "Threads", value: getThreadCount(latestIssue) },
         ]}
       />
@@ -85,12 +85,12 @@ export default function HomePage() {
         <div className="space-y-6">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
-              <p className="eyebrow">Latest issue</p>
+              <p className="eyebrow">Today&apos;s finds</p>
               <h2 className="section-title mt-3">{latestIssue.headline}</h2>
             </div>
             <Button asChild variant="frame" size="md">
               <Link href={issueHref(latestIssue.id)}>
-                Open issue
+                See today&apos;s issue
                 <ArrowRight />
               </Link>
             </Button>
@@ -104,7 +104,7 @@ export default function HomePage() {
 
         <aside className="rail-stack">
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Most recommended</p>
+            <p className="eyebrow">Keeps coming up</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <div className="space-y-3">
               {repeatItems.map((item) => (
@@ -117,7 +117,7 @@ export default function HomePage() {
           </section>
 
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Newly discovered</p>
+            <p className="eyebrow">Fresh finds</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <div className="space-y-3">
               {recentItems.map((item) => (

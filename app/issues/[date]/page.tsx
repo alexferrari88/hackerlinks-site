@@ -33,12 +33,12 @@ export async function generateMetadata({
   const issue = getIssueByDate(date);
 
   if (!issue) {
-    return { title: "Issue not found" };
+    return { title: "Daily issue not found" };
   }
 
   return buildPageMetadata({
     title: issue.headline,
-    description: `${issue.headline}. Daily board of source-linked items surfaced from Hacker News on ${issue.date}.`,
+    description: `${issue.headline}. Useful, source-linked finds surfaced in Hacker News discussions on ${issue.date}.`,
     path: `/issues/${issue.date}/`,
   });
 }
@@ -114,39 +114,39 @@ export default async function IssuePage({
         ]}
       />
       <PageIntro
-        eyebrow={`Issue / ${issue.date}`}
+        eyebrow={`Daily issue / ${issue.date}`}
         title={issue.headline}
         summary={
           <p>
-            A daily board of tools, apps, and references that Hacker News readers pulled into view
-            on {issue.date}. Each row keeps the original HN thread close to the claim.
+            Useful things that surfaced in Hacker News discussions on {issue.date}. Open the context
+            to see why each one caught our attention—or jump straight to the original thread.
           </p>
         }
         meta={[
-          { label: "Items", value: issue.summary.items_surfaced, accent: true },
+          { label: "Finds", value: issue.summary.items_surfaced, accent: true },
           { label: "Threads", value: getThreadCount(issue) },
         ]}
       />
 
       <section className="stack-frame">
         <div className="mb-6">
-          <ProvenanceNote title="How this issue was compiled" />
+          <ProvenanceNote title="How these finds were selected" />
         </div>
         <div className="flex flex-wrap gap-3">
           <Button asChild variant="frame" size="sm">
             <Link href={previousIssue ? issueHref(previousIssue.id) : `${SITE_BASE_PATH}/issues/`}>
-              {previousIssue ? "Previous issue" : "Issue index"}
+              {previousIssue ? "Older issue" : "All issues"}
             </Link>
           </Button>
           <Button asChild variant="ghost" size="sm">
             <Link href={nextIssue ? issueHref(nextIssue.id) : `${SITE_BASE_PATH}/issues/`}>
-              {nextIssue ? "Next issue" : "Back to issues"}
+              {nextIssue ? "Newer issue" : "All issues"}
             </Link>
           </Button>
         </div>
 
         <div className="mt-6">
-          <p className="eyebrow">What surfaced that day</p>
+          <p className="eyebrow">What we found</p>
         </div>
         <div className="mt-6 space-y-4">
           {listing.mentions.map((mention) => (

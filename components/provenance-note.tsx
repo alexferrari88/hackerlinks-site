@@ -3,7 +3,7 @@ import Link from "next/link";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 export function ProvenanceNote({
-  title = "How this page is compiled",
+  title = "Where this comes from",
   className = "",
 }: {
   title?: string;
@@ -13,20 +13,18 @@ export function ProvenanceNote({
     <aside className={`frame px-4 py-4 md:px-5 ${className}`.trim()}>
       <p className="eyebrow">{title}</p>
       <p className="mt-4 text-sm leading-6 text-[var(--muted-foreground)]">
-        HackerLinks publishes structured summaries of things surfaced in Hacker News discussions.
-        Every canonical page keeps the source link, the issue date, and the supporting evidence
-        close to the claim.
+        Every find starts with a real Hacker News discussion. We keep the original thread, the date,
+        and the passage that caught our attention beside the summary, so you can judge it yourself.
       </p>
       <p className="mt-3 text-sm leading-6 text-[var(--muted-foreground)]">
-        Read the{" "}
+        See the{" "}
         <Link href={`${SITE_BASE_PATH}/methodology/`} className="font-semibold text-[var(--primary)] hover:underline">
-          methodology
+          full methodology
         </Link>{" "}
-        for provenance rules and the{" "}
+        for the selection rules, or read{" "}
         <Link href={`${SITE_BASE_PATH}/about/`} className="font-semibold text-[var(--primary)] hover:underline">
-          about page
-        </Link>{" "}
-        for the editorial brief.
+          why HackerLinks exists
+        </Link>.
       </p>
     </aside>
   );

@@ -8,9 +8,9 @@ import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
-  title: "Archive",
+  title: "Search the archive",
   description:
-    "Search every source-linked tool, library, app, book, and project surfaced from Hacker News discussions.",
+    "Search the tools, books, products, talks, hardware, and other useful finds surfaced in Hacker News discussions.",
   path: "/archive/",
 });
 
@@ -39,7 +39,7 @@ export default function ArchivePage() {
         url: absoluteUrl("/archive/"),
         name: "HackerLinks Archive",
         description:
-          "Searchable archive of source-linked tools, libraries, apps, books, and projects surfaced from Hacker News discussions.",
+          "Searchable archive of useful, source-linked finds surfaced in Hacker News discussions.",
         mainEntity: {
           "@id": absoluteUrl("/archive/", "items"),
         },
@@ -70,19 +70,19 @@ export default function ArchivePage() {
 
       <section className="stack-frame archive-intro">
         <div>
-          <p className="eyebrow">Item archive</p>
-          <h1>Find anything HackerLinks has surfaced.</h1>
+          <p className="eyebrow">Search every find</p>
+          <h1>What was that thing someone mentioned on HN?</h1>
           <p className="archive-intro-summary">
-            Search by name, description, or source. Find repeat sightings and the newest additions.
+            Search by name, description, or website. See what just appeared—and what keeps coming back.
           </p>
         </div>
         <dl className="archive-intro-stats">
           <div>
-            <dt>Items</dt>
+            <dt>Finds</dt>
             <dd>{items.length.toLocaleString("en")}</dd>
           </div>
           <div>
-            <dt>Daily issues</dt>
+            <dt>Issues</dt>
             <dd>{issues.length.toLocaleString("en")}</dd>
           </div>
           <div>
@@ -96,10 +96,10 @@ export default function ArchivePage() {
 
       <aside className="archive-issues-link">
         <div>
-          <h2>Looking for the daily editions?</h2>
-          <p>The issue index preserves the chronological record without mixing it into item search.</p>
+          <h2>Want to browse instead?</h2>
+          <p>Open the daily issues to retrace the archive in the order each find appeared.</p>
         </div>
-        <Link href={`${SITE_BASE_PATH}/issues/`}>Browse all {issues.length} issues</Link>
+        <Link href={`${SITE_BASE_PATH}/issues/`}>Browse {issues.length} daily issues</Link>
       </aside>
     </div>
   );

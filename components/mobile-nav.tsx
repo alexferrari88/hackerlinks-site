@@ -16,9 +16,9 @@ import {
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 const links = [
-  { href: `${SITE_BASE_PATH}/`, label: "Front page" },
-  { href: `${SITE_BASE_PATH}/issues/`, label: "Issues" },
-  { href: `${SITE_BASE_PATH}/archive/`, label: "Archive" },
+  { href: `${SITE_BASE_PATH}/`, label: "Latest finds" },
+  { href: `${SITE_BASE_PATH}/issues/`, label: "Daily issues" },
+  { href: `${SITE_BASE_PATH}/archive/`, label: "Search the archive" },
   { href: `${SITE_BASE_PATH}/about/`, label: "About" },
   { href: `${SITE_BASE_PATH}/methodology/`, label: "Methodology" },
 ];
@@ -36,7 +36,7 @@ export function MobileNav() {
         <SheetHeader>
           <SheetTitle>HackerLinks</SheetTitle>
           <SheetDescription>
-            Dense, source-linked sightings from Hacker News without the startup-marketing varnish.
+            The useful things buried in Hacker News threads, saved with their sources.
           </SheetDescription>
         </SheetHeader>
         <div className="mt-10 flex flex-col gap-4">

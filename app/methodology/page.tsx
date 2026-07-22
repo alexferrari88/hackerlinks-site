@@ -7,7 +7,7 @@ import { absoluteUrl, buildPageMetadata } from "@/lib/seo";
 export const metadata = buildPageMetadata({
   title: "Methodology",
   description:
-    "How HackerLinks compiles daily issues and item pages, including provenance rules, automation flow, limitations, and update policy.",
+    "How HackerLinks selects finds from Hacker News, preserves source context, builds the archive, and handles incomplete records.",
   path: "/methodology/",
 });
 
@@ -18,7 +18,7 @@ export default function MethodologyPage() {
     url: absoluteUrl("/methodology/"),
     name: "HackerLinks Methodology",
     description:
-      "Methodology for the HackerLinks archive, including data sources, editorial rules, automation flow, and known limitations.",
+      "How HackerLinks selects useful finds from Hacker News and keeps every summary tied to its source discussion.",
   };
 
   return (
@@ -33,55 +33,55 @@ export default function MethodologyPage() {
 
       <PageIntro
         eyebrow="Methodology"
-        title="How the archive is compiled."
+        title="Every find should lead back to the thread."
         summary={
           <p>
-            HackerLinks publishes deterministic, source-linked pages from structured scout
-            artifacts. This page explains what gets included, how updates flow into the site, and
-            where the archive still has limitations.
+            HackerLinks uses automation to spot specific things mentioned in Hacker News
+            discussions. The public archive is built from saved records—not generated on demand—and
+            keeps the evidence beside every summary.
           </p>
         }
         meta={[
           { label: "Source", value: "HN discussions", accent: true },
-          { label: "Pipeline", value: "Structured artifacts" },
-          { label: "Output", value: "Static pages + JSON" },
+          { label: "Rule", value: "Specific + checkable" },
+          { label: "Site", value: "Static + source-linked" },
         ]}
       />
 
       <section className="stack-frame">
-        <p className="eyebrow">Selection rules</p>
+        <p className="eyebrow">What gets included</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-          The archive focuses on concrete references that surfaced in Hacker News discussion:
-          products, tools, libraries, books, hardware, talks, and similar specific things. The
-          canonical long-term unit is an item page. The daily freshness unit is an issue page.
+          A find must be a specific thing a reader can investigate: a product, tool, library, book,
+          piece of hardware, talk, video, or similarly specific reference. Broad ideas, passing
+          topics, and unsupported claims do not belong in the archive.
         </p>
         <Separator className="my-6" />
-        <p className="eyebrow">Provenance rules</p>
+        <p className="eyebrow">How the source is preserved</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-          Every item page keeps the issue date, the cited HN thread, and the supporting evidence
-          near the summary. The archive prefers source URLs when available and preserves repeat
-          sightings over time instead of replacing them with a single abstract description.
+          Each find&apos;s page shows when it appeared, which HN discussion mentioned it, and what
+          prompted its inclusion. When the same thing resurfaces, the new sighting is added instead
+          of erasing the earlier context.
         </p>
         <Separator className="my-6" />
-        <p className="eyebrow">Update flow</p>
+        <p className="eyebrow">How updates reach the site</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-          Private scout artifacts are synced into the repository, normalized into public JSON, and
-          rendered into static HTML. The public site does not scrape Hacker News or call models at
-          request time.
+          An upstream scout collects structured records. Those records are cleaned, converted to
+          public JSON, and rendered as static pages. Visiting HackerLinks never triggers a live HN
+          scrape or an AI request.
         </p>
         <Separator className="my-6" />
-        <p className="eyebrow">Automation and AI usage</p>
+        <p className="eyebrow">Where automation stops</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-          Automation is used upstream to collect and normalize structured records. The website
-          itself is deterministic downstream: static pages, JSON manifests, and machine-readable
-          metadata are built from checked-in artifacts.
+          Automation helps collect, summarize, and normalize the upstream records. The published
+          site is deterministic: the pages, feeds, manifests, and metadata are built from the same
+          checked-in data and can be traced back to it.
         </p>
         <Separator className="my-6" />
-        <p className="eyebrow">Known limitations</p>
+        <p className="eyebrow">What can go wrong</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-          Coverage depends on the upstream artifact quality. Some items still have thin summaries
-          or missing source URLs. The archive is meant to improve over time by preserving history,
-          not by pretending every record is already complete.
+          HackerLinks does not capture every worthwhile mention, and automation can miss context.
+          Some records have thin summaries or no direct product URL. The HN thread is kept visible
+          precisely so the archive can be checked rather than taken on faith.
         </p>
       </section>
     </div>

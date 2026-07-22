@@ -7,7 +7,7 @@ import { absoluteUrl, buildPageMetadata, organizationJsonLd } from "@/lib/seo";
 export const metadata = buildPageMetadata({
   title: "About",
   description:
-    "Editorial brief for HackerLinks: what the site covers, who it is for, and why provenance stays close to every claim.",
+    "Why HackerLinks turns useful finds from Hacker News discussions into a searchable archive with the original context attached.",
   path: "/about/",
 });
 
@@ -21,7 +21,7 @@ export default function AboutPage() {
         url: absoluteUrl("/about/"),
         name: "About HackerLinks",
         description:
-          "Editorial brief describing what HackerLinks covers, who it serves, and why the archive keeps evidence close to every claim.",
+          "Why HackerLinks saves useful finds from Hacker News discussions with their original context attached.",
       },
     ],
   };
@@ -38,60 +38,60 @@ export default function AboutPage() {
 
       <PageIntro
         eyebrow="About"
-        title="A public archive of what developers keep surfacing."
+        title="The links worth saving are often buried in the comments."
         summary={
           <p>
-            HackerLinks turns recurring Hacker News references into stable, source-linked pages so
-            readers can understand what was mentioned, why it mattered, and where the claim came
-            from.
+            HackerLinks digs useful tools, books, products, talks, hardware, and other worthwhile
+            finds out of Hacker News discussions—then keeps the context that made them interesting.
           </p>
         }
         meta={[
-          { label: "Format", value: "Static archive", accent: true },
-          { label: "Audience", value: "Readers and agents" },
-          { label: "Focus", value: "Concrete references" },
+          { label: "Built for", value: "Curious people", accent: true },
+          { label: "Drawn from", value: "Real HN threads" },
+          { label: "Every find", value: "Source-linked" },
         ]}
       />
 
       <section className="grid gap-8 xl:grid-cols-[1.1fr_0.9fr]">
         <article className="stack-frame">
-          <p className="eyebrow">What HackerLinks covers</p>
+          <p className="eyebrow">What you&apos;ll find</p>
           <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-            The archive is intentionally broad. It tracks tools, libraries, products, books, talks,
-            videos, hardware, and other concrete things that Hacker News users pull into view while
-            discussing what they actually use.
+            Not just launches. Not just software. HackerLinks follows the useful side trails: tools,
+            libraries, books, talks, videos, physical products, and anything else specific enough to
+            open, try, read, watch, or buy.
           </p>
           <Separator className="my-6" />
-          <p className="eyebrow">Why it exists</p>
+          <p className="eyebrow">Why save it</p>
           <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-            Daily discussion is noisy and ephemeral. HackerLinks keeps the useful references stable,
-            cumulative, and legible so readers do not have to reconstruct the context from scratch.
+            An offhand mention can sit deep in a thread and vanish from view by tomorrow. HackerLinks
+            gives each find a permanent page, records when it resurfaces, and preserves the reason it
+            was mentioned.
           </p>
           <Separator className="my-6" />
-          <p className="eyebrow">Who it is for</p>
+          <p className="eyebrow">Who it&apos;s for</p>
           <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-            It is built for developers, researchers, and retrieval systems that need more than a
-            link dump. Every canonical page is designed to keep provenance, dates, and evidence
-            close to the summary.
+            People who enjoy Hacker News for the unexpected discoveries but do not want to read
+            every thread to find them. Browse the daily issue for serendipity, or search the archive
+            when you need something specific.
           </p>
         </article>
 
         <aside className="rail-stack">
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Editorial posture</p>
+            <p className="eyebrow">The short version</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="text-sm leading-6 text-[var(--muted-foreground)]">
-              Canonical unit: item page. Freshness unit: daily issue page. Trust comes from keeping
-              the source thread and evidence close to the claim.
+              The daily issue shows what surfaced now. The item page shows where it has surfaced
+              over time. The original HN discussion stays one click away.
             </p>
           </section>
 
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">What it avoids</p>
+            <p className="eyebrow">What it isn&apos;t</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="text-sm leading-6 text-[var(--muted-foreground)]">
-              HackerLinks is not a generic AI content farm, not a startup launch tracker, and not a
-              broad taxonomy project. The archive only keeps concrete references with evidence.
+              Not an AI-written link farm. Not a launch leaderboard. Not a claim that HN agrees on
+              anything. It is a trail of specific, checkable finds from real discussions.
             </p>
           </section>
         </aside>

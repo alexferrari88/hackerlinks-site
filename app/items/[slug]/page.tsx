@@ -32,12 +32,12 @@ export async function generateMetadata({
   const item = getItemBySlug(slug);
 
   if (!item) {
-    return { title: "Item not found" };
+    return { title: "Find not found" };
   }
 
   return buildPageMetadata({
-    title: `${item.name}: why developers mention it on Hacker News`,
-    description: `${item.summary} Source-linked record of how Hacker News users referenced ${item.name}.`,
+    title: `${item.name}: why it surfaced on Hacker News`,
+    description: `${item.summary} See when ${item.name} surfaced on Hacker News and the discussion context behind it.`,
     path: `/items/${item.slug}/`,
   });
 }
@@ -69,7 +69,7 @@ export default async function ItemPage({
         "@type": "WebPage",
         "@id": absoluteUrl(itemPath, "webpage"),
         url: absoluteUrl(itemPath),
-        name: `${item.name}: why developers mention it on Hacker News`,
+        name: `${item.name}: why it surfaced on Hacker News`,
         description: item.summary,
         datePublished: item.first_seen_at,
         dateModified: item.last_seen_at,
@@ -133,14 +133,14 @@ export default async function ItemPage({
         ]}
       />
       <PageIntro
-        eyebrow="Tool Profile"
+        eyebrow="From the HackerLinks archive"
         title={item.name}
         summary={<p>{item.summary}</p>}
         meta={[
           { label: "First seen", value: formatDate(item.first_seen_at) },
           { label: "Last seen", value: formatDate(item.last_seen_at) },
-          { label: "Sightings", value: item.times_seen, accent: true },
-          { label: "Source", value: domain ?? "Unknown" },
+          { label: "Times seen", value: item.times_seen, accent: true },
+          { label: "Website", value: domain ?? "Not found" },
         ]}
       />
 
@@ -149,14 +149,14 @@ export default async function ItemPage({
           <div className="flex flex-wrap gap-3">
             <Button asChild variant="solid">
               <Link href={item.thing_url || latestMention?.hn_url || "/"} target="_blank" rel="noreferrer">
-                Open source
+                {item.thing_url ? "Visit website" : "Open the HN thread"}
                 <ArrowUpRight />
               </Link>
             </Button>
             {latestMention ? (
               <Button asChild variant="frame">
                 <Link href={latestMention.hn_url} target="_blank" rel="noreferrer">
-                  Latest HN thread
+                  See the latest HN mention
                   <ArrowUpRight />
                 </Link>
               </Button>
@@ -165,13 +165,13 @@ export default async function ItemPage({
 
           <div className="dossier-grid mt-8">
             <article className="frame px-4 py-4 md:px-5">
-              <p className="eyebrow">What it is</p>
+              <p className="eyebrow">The short version</p>
               <p className="mt-4 text-sm leading-7 text-[var(--muted-foreground)] md:text-base">
                 {item.summary}
               </p>
             </article>
             <article className="frame px-4 py-4 md:px-5">
-              <p className="eyebrow">Why developers recommend it</p>
+              <p className="eyebrow">Why it caught our attention</p>
               <p className="mt-4 text-sm leading-7 text-[var(--muted-foreground)] md:text-base">
                 {item.why_included}
               </p>
@@ -179,7 +179,7 @@ export default async function ItemPage({
           </div>
 
           <article className="frame mt-8 px-4 py-4 md:px-5">
-            <p className="eyebrow">Hacker News evidence</p>
+            <p className="eyebrow">Where it surfaced on Hacker News</p>
             <div className="mt-4">
               {mentions.map((mention, index) => (
                 <div key={mention.id}>
@@ -196,11 +196,11 @@ export default async function ItemPage({
                     </div>
                     <div className="flex flex-wrap gap-2 md:justify-end">
                       <Button asChild variant="frame" size="sm">
-                        <Link href={issueHref(mention.issue_id)}>Issue</Link>
+                        <Link href={issueHref(mention.issue_id)}>Daily issue</Link>
                       </Button>
                       <Button asChild variant="ghost" size="sm">
                         <Link href={mention.hn_url} target="_blank" rel="noreferrer">
-                          HN thread
+                          Original thread
                         </Link>
                       </Button>
                     </div>
@@ -212,18 +212,18 @@ export default async function ItemPage({
         </div>
 
         <aside className="rail-stack">
-          <ProvenanceNote title="Why this record is trustworthy" />
+          <ProvenanceNote title="How this record is sourced" />
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">History</p>
+            <p className="eyebrow">In the archive</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="text-sm leading-6 text-[var(--muted-foreground)]">
               {item.times_seen > 1
-                ? `Seen ${item.times_seen} times between ${formatDate(item.first_seen_at)} and ${formatDate(item.last_seen_at)}.`
-                : `Seen once in the current dataset on ${formatDate(item.first_seen_at)}.`}
+                ? `This find surfaced ${item.times_seen} times between ${formatDate(item.first_seen_at)} and ${formatDate(item.last_seen_at)}.`
+                : `This find surfaced once, on ${formatDate(item.first_seen_at)}.`}
             </p>
           </section>
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Reference ID</p>
+            <p className="eyebrow">Archive ID</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="font-display text-2xl uppercase tracking-[0.06em]">{item.slug}</p>
           </section>

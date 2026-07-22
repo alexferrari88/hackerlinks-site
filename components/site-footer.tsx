@@ -9,17 +9,16 @@ export function SiteFooter() {
         <div>
           <p className="eyebrow">HackerLinks</p>
           <p className="mt-3 max-w-[44ch] text-sm leading-6 text-[var(--muted-foreground)]">
-            Source-linked archive of concrete things surfaced from Hacker News discussion. Built
-            for readers, search engines, and retrieval agents that need provenance close to the
-            claim.
+            Useful things found in Hacker News discussions, minus the thread-diving. Every find
+            keeps the original discussion close enough to check for yourself.
           </p>
         </div>
         <div className="flex flex-wrap items-start gap-3 md:justify-end">
           <Link href={`${SITE_BASE_PATH}/issues/`} className="nav-chip">
-            Browse issues
+            Daily issues
           </Link>
           <Link href={`${SITE_BASE_PATH}/archive/`} className="nav-chip">
-            Open archive
+            Search the archive
           </Link>
           <Link href={`${SITE_BASE_PATH}/about/`} className="nav-chip">
             About
@@ -31,7 +30,7 @@ export function SiteFooter() {
             RSS feed
           </Link>
           <a href={TELEGRAM_BOT_URL} target="_blank" rel="noopener noreferrer" className="nav-chip">
-            Telegram bot
+            Daily finds on Telegram
           </a>
         </div>
       </div>
