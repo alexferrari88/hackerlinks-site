@@ -4,7 +4,6 @@ import { ArrowRight } from "lucide-react";
 import { JsonLd } from "@/components/json-ld";
 import { IssueRow } from "@/components/issue-row";
 import { PageIntro } from "@/components/page-intro";
-import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import {
@@ -14,7 +13,6 @@ import {
   getLatestIssue,
   getRecentItems,
   getRepeatItems,
-  getThreadCount,
   issueHref,
   itemHref,
 } from "@/lib/site-data";
@@ -84,21 +82,13 @@ export default function HomePage() {
             </a>
           </>
         }
-        meta={[
-          { label: "Issue", value: latestIssue.date, accent: true },
-          { label: "Finds", value: latestIssue.summary.items_surfaced },
-          { label: "Threads", value: getThreadCount(latestIssue) },
-        ]}
       />
 
       <section className="grid gap-8 xl:grid-cols-[1.55fr_0.75fr]">
         <div className="space-y-6">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
-              <div className="flex flex-wrap items-center gap-3">
-                <p className="eyebrow">Latest issue</p>
-                <Badge variant="accent">{latestIssue.summary.items_surfaced} finds</Badge>
-              </div>
+              <p className="eyebrow">Latest issue</p>
               <h2 className="mt-3 font-display text-[clamp(1.8rem,3.5vw,2.8rem)] font-black uppercase leading-none tracking-[-0.02em]">
                 {formatIssueDate(latestIssue.date)}
               </h2>
@@ -112,7 +102,7 @@ export default function HomePage() {
           </div>
           <div className="space-y-4">
             {listing.mentions.map((mention) => (
-              <IssueRow key={mention.id} mention={mention} />
+              <IssueRow key={mention.id} mention={mention} showDate={false} />
             ))}
           </div>
         </div>

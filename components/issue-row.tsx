@@ -12,7 +12,13 @@ import {
   type MentionRecord,
 } from "@/lib/site-data";
 
-export function IssueRow({ mention }: { mention: MentionRecord }) {
+export function IssueRow({
+  mention,
+  showDate = true,
+}: {
+  mention: MentionRecord;
+  showDate?: boolean;
+}) {
   const item = getItemForMention(mention);
   if (!item) {
     return null;
@@ -49,7 +55,7 @@ export function IssueRow({ mention }: { mention: MentionRecord }) {
         )}
       </div>
       <div className="board-meta">
-        <Badge variant="default" className="w-fit">{formatDate(mention.seen_at)}</Badge>
+        {showDate ? <Badge variant="default" className="w-fit">{formatDate(mention.seen_at)}</Badge> : null}
         <div className="board-actions flex-col items-start gap-3">
           <Button asChild variant="solid" size="sm" className="w-full justify-between">
             <Link href={item.thing_url || mention.hn_url} target="_blank" rel="noreferrer">

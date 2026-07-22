@@ -5,7 +5,6 @@ import { usePathname } from "next/navigation";
 
 import { MobileNav } from "@/components/mobile-nav";
 import { ThemeToggle } from "@/components/theme-toggle";
-import { Badge } from "@/components/ui/badge";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 const links = [
@@ -38,9 +37,6 @@ export function SiteHeader() {
               HackerLinks
             </span>
           </Link>
-          <Badge variant="accent" className="hidden lg:inline-flex">
-            From real HN threads
-          </Badge>
         </div>
         <nav className="hidden items-center gap-2 lg:flex" aria-label="Primary navigation">
           {links.map((link) => (
