@@ -4,6 +4,7 @@ import { ArrowRight } from "lucide-react";
 import { JsonLd } from "@/components/json-ld";
 import { IssueRow } from "@/components/issue-row";
 import { PageIntro } from "@/components/page-intro";
+import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import {
@@ -26,6 +27,15 @@ export const metadata = buildPageMetadata({
     "Explore useful tools, books, products, talks, hardware, and other finds from real Hacker News discussions. Every find links back to its source thread.",
   path: "/",
 });
+
+function formatIssueDate(value: string) {
+  return new Intl.DateTimeFormat("en-GB", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(new Date(`${value}T00:00:00Z`));
+}
 
 export default function HomePage() {
   const records = loadPublicRecords();
@@ -85,8 +95,13 @@ export default function HomePage() {
         <div className="space-y-6">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
-              <p className="eyebrow">Today&apos;s finds</p>
-              <h2 className="section-title mt-3">{latestIssue.headline}</h2>
+              <div className="flex flex-wrap items-center gap-3">
+                <p className="eyebrow">Latest issue</p>
+                <Badge variant="accent">{latestIssue.summary.items_surfaced} finds</Badge>
+              </div>
+              <h2 className="mt-3 font-display text-[clamp(1.8rem,3.5vw,2.8rem)] font-black uppercase leading-none tracking-[-0.02em]">
+                {formatIssueDate(latestIssue.date)}
+              </h2>
             </div>
             <Button asChild variant="frame" size="md">
               <Link href={issueHref(latestIssue.id)}>
