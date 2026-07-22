@@ -27,7 +27,7 @@ export function MobileNav() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="frame" size="icon" className="md:hidden">
+        <Button variant="frame" size="icon" className="lg:hidden">
           <Menu />
           <span className="sr-only">Open navigation</span>
         </Button>

@@ -103,7 +103,9 @@ class BuildTests(unittest.TestCase):
             self.assertIn("/issues/2026-04-14", index_html)
             self.assertIn("/_next/static/", index_html)
             self.assertIn("Every tool recommendation, saved chronologically.", issues_html)
-            self.assertIn("Archive Map", (dist_root / "archive" / "index.html").read_text())
+            archive_html = (dist_root / "archive" / "index.html").read_text()
+            self.assertIn("Find anything HackerLinks has surfaced.", archive_html)
+            self.assertIn("Search the archive", archive_html)
             self.assertIn("About", about_html)
             self.assertIn("Methodology", methodology_html)
             self.assertIn("Issue / 2026-04-14", issue_html)
@@ -239,8 +241,9 @@ class BuildTests(unittest.TestCase):
             self.assertIn("/issues/2026-04-15", issue_1_html)
             self.assertIn("Previous issue", issue_2_html)
             self.assertIn("/issues/2026-04-14", issue_2_html)
-            self.assertIn("Issue timeline", archive_html)
-            self.assertIn("Resurfacing items", archive_html)
+            self.assertIn("Archive results", archive_html)
+            self.assertIn("Resurfaced", archive_html)
+            self.assertNotIn("Issue timeline", archive_html)
             self.assertIn("Omega New", archive_html)
 
 

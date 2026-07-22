@@ -7,7 +7,6 @@ env/
 venv/
 ENV/
 bin/
-lib/
 develop-eggs/
 dist/
 eggs/
@@ -91,3 +90,4 @@ Thumbs.db
 
 # Project specific
 site/
+artifacts/
