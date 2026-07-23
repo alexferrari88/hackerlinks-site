@@ -124,10 +124,42 @@ class SyncTests(unittest.TestCase):
                     "2026-04-15:davinci-resolve:48888888",
                 ],
             )
-            self.assertIn("Hacker News evidence", item_html)
+            archive = json.loads((repo_root / "data" / "public" / "manifests" / "archive.json").read_text())
+            self.assertEqual([issue["id"] for issue in archive["issues"]], ["2026-04-15", "2026-04-14"])
+            self.assertTrue((repo_root / "data" / "public" / "issues" / "2026-04-14.json").exists())
+            self.assertTrue((repo_root / "data" / "public" / "issues" / "2026-04-15.json").exists())
+            self.assertIn("Where it surfaced on Hacker News", item_html)
             self.assertIn("DaVinci Resolve", item_html)
             self.assertIn("Resolve again", item_html)
             self.assertIn("A second thread praised Resolve again.", item_html)
+
+    def test_sync_repo_validates_every_private_run_before_copying_source(self) -> None:
+        sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
+        sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            private_root = root / "private"
+            repo_root = root / "repo"
+            private_runs = private_root / "runs"
+            source_runs = repo_root / "data" / "source" / "runs"
+            private_runs.mkdir(parents=True)
+            source_runs.mkdir(parents=True)
+
+            (private_runs / "2026-04-13.json").write_text("{invalid json\n")
+            (private_runs / "2026-04-14.json").write_text(json.dumps(sample_run, indent=2) + "\n")
+            (private_root / "product-history.json").write_text(json.dumps(sample_history, indent=2) + "\n")
+            existing_history = repo_root / "data" / "source" / "product-history.json"
+            existing_history.write_text('{"sentinel": true}\n')
+            existing_run = source_runs / "2026-04-12.json"
+            existing_run.write_text('{"sentinel": true}\n')
+
+            with self.assertRaises(json.JSONDecodeError):
+                sync_repo(private_root=private_root, repo_root=repo_root)
+
+            self.assertEqual(existing_history.read_text(), '{"sentinel": true}\n')
+            self.assertEqual(existing_run.read_text(), '{"sentinel": true}\n')
+            self.assertFalse((source_runs / "2026-04-14.json").exists())
 
     def test_blocking_dirty_paths_flags_unrelated_repo_changes(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:

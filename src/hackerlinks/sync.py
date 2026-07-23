@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any
 
 from .build import build_public_site
-from .normalize import normalize_artifacts, write_public_records
+from .normalize import rebuild_public_records, validate_run_artifacts
 
 PUBLISHABLE_PREFIXES = ("data/source/", "data/public/")
 IGNORED_DIRTY_PREFIXES = ("dist/", ".next/", "out/", "node_modules/")
@@ -37,34 +37,22 @@ def _run_files(runs_dir: Path) -> list[Path]:
     return run_files
 
 
-def _latest_run_date(run_files: list[Path]) -> str:
-    latest_run = _load_json(run_files[-1])
-    run_date = latest_run.get("run_date")
-    if not isinstance(run_date, str) or not run_date:
-        raise ValueError(f"latest run missing run_date: {run_files[-1]}")
-    return run_date
-
-
 def rebuild_repo(repo_root: Path) -> dict[str, Any]:
     source_root = repo_root / "data" / "source"
     public_root = repo_root / "data" / "public"
     dist_root = repo_root / "dist"
     static_root = repo_root / "static"
 
-    history_data = _load_json(source_root / "product-history.json")
     run_files = _run_files(source_root / "runs")
 
-    last_public: dict[str, Any] | None = None
-    for run_file in run_files:
-        run_data = _load_json(run_file)
-        last_public = normalize_artifacts(run_data, history_data)
-        write_public_records(public_root, last_public)
+    rebuild_summary = rebuild_public_records(
+        [(run_file, _load_json(run_file)) for run_file in run_files], public_root
+    )
 
     build_public_site(public_root, dist_root, static_root)
-    latest_issue = last_public["issue"] if last_public else {"id": None, "summary": {"items_surfaced": 0}}
     return {
-        "issue_id": latest_issue["id"],
-        "items_surfaced": latest_issue["summary"]["items_surfaced"],
+        "issue_id": rebuild_summary["issue_id"],
+        "items_surfaced": rebuild_summary["items_surfaced"],
         "run_file_count": len(run_files),
     }
 
@@ -72,19 +60,21 @@ def rebuild_repo(repo_root: Path) -> dict[str, Any]:
 def sync_repo(private_root: Path, repo_root: Path) -> dict[str, Any]:
     private_runs_dir = private_root / "runs"
     run_files = _run_files(private_runs_dir)
-    latest_run_date = _latest_run_date(run_files)
 
     copied_files: list[str] = []
     history_src = private_root / "product-history.json"
     if not history_src.exists():
         raise FileNotFoundError(f"missing private history file: {history_src}")
     _load_json(history_src)
+    loaded_runs = [(run_file, _load_json(run_file)) for run_file in run_files]
+    validate_run_artifacts(loaded_runs)
+    latest_run_date = loaded_runs[-1][1]["run_date"]
+
     history_dst = repo_root / "data" / "source" / "product-history.json"
     if _write_if_changed(history_src, history_dst):
         copied_files.append(str(history_dst.relative_to(repo_root)))
 
     for run_src in run_files:
-        _load_json(run_src)
         run_dst = repo_root / "data" / "source" / "runs" / run_src.name
         if _write_if_changed(run_src, run_dst):
             copied_files.append(str(run_dst.relative_to(repo_root)))
