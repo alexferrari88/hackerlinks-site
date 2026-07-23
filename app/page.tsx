@@ -105,18 +105,17 @@ export default function HomePage() {
         }
       />
 
-      <section className="grid min-w-0 gap-8 border-t-[3px] border-[var(--line-strong)] pt-8 md:border-t-0 md:pt-0 xl:grid-cols-[1.55fr_0.75fr]">
+      <section className="grid min-w-0 gap-x-8 gap-y-6 xl:grid-cols-[1.55fr_0.75fr]">
+        <header className="min-w-0 border-[3px] border-[var(--line-strong)] bg-[#09090b] px-5 py-5 text-[#fdfaf6] shadow-[6px_6px_0_0_var(--primary)] md:flex md:items-end md:justify-between md:gap-8 md:px-7 md:py-6 xl:col-span-2">
+          <h2 className="font-display text-[clamp(1.9rem,5vw,3.25rem)] font-black uppercase leading-none tracking-[-0.02em] text-[var(--primary)]">
+            {formatIssueDate(latestIssue.date)}
+          </h2>
+          <p className="mt-3 max-w-[38ch] text-sm leading-6 text-[#d4d4d8] md:mt-0 md:text-right">
+            Showing {previewMentions.length} source-linked finds, with the discussion context that made each one useful.
+          </p>
+        </header>
+
         <div className="min-w-0 space-y-6">
-          <div className="flex flex-wrap items-end justify-between gap-4">
-            <div>
-              <h2 className="font-display text-[clamp(1.8rem,3.5vw,2.8rem)] font-black uppercase leading-none tracking-[-0.02em]">
-                {formatIssueDate(latestIssue.date)}
-              </h2>
-            </div>
-            <p className="max-w-[34ch] text-sm leading-6 text-[var(--muted-foreground)]">
-              Showing {previewMentions.length} source-linked finds, with the discussion context that made each one useful.
-            </p>
-          </div>
           <div className="min-w-0 space-y-4">
             {previewMentions.map((mention) => (
               <IssueRow key={mention.id} mention={mention} showDate={false} />
