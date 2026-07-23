@@ -97,6 +97,8 @@ class BuildTests(unittest.TestCase):
             self.assertTrue((dist_root / "archive" / "index.html").exists())
             self.assertTrue((dist_root / "data" / "items" / "davinci-resolve.json").exists())
             self.assertIn("Find the good stuff buried in Hacker News.", index_html)
+            self.assertNotIn("For the links you nearly missed.", index_html)
+            self.assertNotIn("Evidence from the latest issue", index_html)
             self.assertIn("saves the context that made each one worth a look", index_html)
             self.assertIn('href="/archive/"', index_html)
             self.assertIn('href="/issues/2026-04-14/"', index_html)
