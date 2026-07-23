@@ -8,16 +8,14 @@ import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import {
   loadPublicRecords,
-  formatDate,
   getIssueListing,
   getLatestIssue,
-  getRecentItems,
   getRepeatItems,
   issueHref,
   itemHref,
 } from "@/lib/site-data";
 import { buildPageMetadata, dataCatalogJsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
-import { SITE_TAGLINE, TELEGRAM_BOT_URL } from "@/lib/site-config";
+import { SITE_BASE_PATH, SITE_TAGLINE, TELEGRAM_BOT_URL } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
   title: "Useful things discovered on Hacker News",
@@ -39,8 +37,9 @@ export default function HomePage() {
   const records = loadPublicRecords();
   const latestIssue = getLatestIssue();
   const listing = getIssueListing(latestIssue);
+  const previewMentions = listing.mentions.slice(0, 5);
+  const completeIssueLabel = `View all ${listing.mentions.length} finds in this issue`;
   const repeatItems = getRepeatItems();
-  const recentItems = getRecentItems();
   const homeJsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -61,6 +60,7 @@ export default function HomePage() {
     <div className="content-grid">
       <JsonLd data={homeJsonLd} />
       <PageIntro
+        className="min-w-0 [&>.stack-frame]:min-w-0"
         eyebrow="For the links you nearly missed."
         title={SITE_TAGLINE}
         summary={
@@ -69,46 +69,78 @@ export default function HomePage() {
               HackerLinks pulls useful tools, books, products, talks, hardware, and other finds out
               of sprawling Hacker News threads—then saves the context that made each one worth a look.
             </p>
+            <div className="mt-5 flex min-w-0 flex-wrap gap-3">
+              <Button
+                asChild
+                variant="solid"
+                size="md"
+                className="max-[360px]:w-full max-[360px]:px-3"
+              >
+                <Link href={`${SITE_BASE_PATH}/archive/`}>
+                  Search the archive
+                  <ArrowRight />
+                </Link>
+              </Button>
+              <Button
+                asChild
+                variant="frame"
+                size="md"
+                className="max-[360px]:w-full max-[360px]:px-3"
+              >
+                <Link href={issueHref(latestIssue.id)}>
+                  Browse latest issue
+                  <ArrowRight />
+                </Link>
+              </Button>
+            </div>
             <a
               href={TELEGRAM_BOT_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="group mt-4 inline-flex items-center gap-2 border-2 border-[var(--border)] bg-[var(--surface)] px-3 py-2 font-mono text-xs font-bold uppercase tracking-[0.12em] text-[var(--foreground)] shadow-[3px_3px_0_0_var(--shadow-color)] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:bg-[var(--primary)] hover:text-[var(--primary-foreground)] hover:shadow-[5px_5px_0_0_var(--shadow-color)]"
+              className="mt-4 inline-flex max-w-full flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs font-bold uppercase tracking-[0.12em] text-[var(--muted-foreground)] hover:text-[var(--primary)] hover:underline"
             >
               <span>Get the daily finds</span>
-              <span className="font-sans normal-case tracking-normal text-[var(--muted-foreground)] group-hover:text-[var(--primary-foreground)]">
-                @hn_links_bot
-              </span>
+              <span className="font-sans normal-case tracking-normal">@hn_links_bot</span>
             </a>
           </>
         }
       />
 
-      <section className="grid gap-8 xl:grid-cols-[1.55fr_0.75fr]">
-        <div className="space-y-6">
+      <section className="grid min-w-0 gap-8 xl:grid-cols-[1.55fr_0.75fr]">
+        <div className="min-w-0 space-y-6">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
-              <p className="eyebrow">Latest issue</p>
+              <p className="eyebrow">Evidence from the latest issue</p>
               <h2 className="mt-3 font-display text-[clamp(1.8rem,3.5vw,2.8rem)] font-black uppercase leading-none tracking-[-0.02em]">
                 {formatIssueDate(latestIssue.date)}
               </h2>
             </div>
-            <Button asChild variant="frame" size="md">
+            <p className="max-w-[34ch] text-sm leading-6 text-[var(--muted-foreground)]">
+              Showing {previewMentions.length} source-linked finds, with the discussion context that made each one useful.
+            </p>
+          </div>
+          <div className="min-w-0 space-y-4">
+            {previewMentions.map((mention) => (
+              <IssueRow key={mention.id} mention={mention} showDate={false} />
+            ))}
+          </div>
+          <div className="flex justify-end">
+            <Button
+              asChild
+              variant="frame"
+              size="md"
+              className="max-[360px]:w-full max-[360px]:px-3 max-[360px]:text-[0.65rem]"
+            >
               <Link href={issueHref(latestIssue.id)}>
-                See today&apos;s issue
+                {completeIssueLabel}
                 <ArrowRight />
               </Link>
             </Button>
           </div>
-          <div className="space-y-4">
-            {listing.mentions.map((mention) => (
-              <IssueRow key={mention.id} mention={mention} showDate={false} />
-            ))}
-          </div>
         </div>
 
-        <aside className="rail-stack">
-          <section className="frame px-4 py-4 md:px-5">
+        <aside className="rail-stack min-w-0">
+          <section className="frame min-w-0 px-4 py-4 md:px-5">
             <p className="eyebrow">Keeps coming up</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <div className="space-y-3">
@@ -116,19 +148,6 @@ export default function HomePage() {
                 <Link key={item.slug} href={itemHref(item.slug)} className="rail-link">
                   <span>{item.name}</span>
                   <span className="rail-link-meta">{item.times_seen}x</span>
-                </Link>
-              ))}
-            </div>
-          </section>
-
-          <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">Fresh finds</p>
-            <Separator className="my-4 bg-[var(--line-strong)]" />
-            <div className="space-y-3">
-              {recentItems.map((item) => (
-                <Link key={item.slug} href={itemHref(item.slug)} className="rail-link">
-                  <span>{item.name}</span>
-                  <span className="rail-link-meta">{formatDate(item.first_seen_at)}</span>
                 </Link>
               ))}
             </div>
