@@ -14,7 +14,9 @@ import {
   formatDate,
   getItemBySlug,
   getMentionsForItem,
+  getSameDiscussionItems,
   issueHref,
+  itemHref,
 } from "@/lib/site-data";
 import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata, WEBSITE_ID } from "@/lib/seo";
 
@@ -54,6 +56,7 @@ export default async function ItemPage({
   }
 
   const mentions = getMentionsForItem(item);
+  const sameDiscussionItems = getSameDiscussionItems(item);
   const latestMention = mentions[0];
   const domain = domainFromUrl(item.thing_url);
   const itemPath = `/items/${item.slug}/`;
@@ -209,6 +212,36 @@ export default async function ItemPage({
               ))}
             </div>
           </article>
+
+          {sameDiscussionItems.length > 0 ? (
+            <section className="frame mt-8 px-4 py-4 md:px-5">
+              <p className="eyebrow">Also surfaced in this discussion</p>
+              <div className="mt-4">
+                {sameDiscussionItems.map(({ item: relatedItem, latestSharedMention }, index) => (
+                  <div key={relatedItem.slug}>
+                    {index > 0 ? <Separator className="my-5" /> : null}
+                    <div className="grid gap-2 md:grid-cols-[1fr_auto] md:items-start">
+                      <div>
+                        <Link
+                          href={itemHref(relatedItem.slug)}
+                          className="font-display text-xl uppercase tracking-[0.04em] hover:text-[var(--primary)] hover:underline"
+                        >
+                          {relatedItem.name}
+                        </Link>
+                        <p className="mt-2 text-sm leading-6 text-[var(--muted-foreground)]">
+                          {latestSharedMention.source_story_title ||
+                            `HN #${latestSharedMention.source_story_id}`}
+                        </p>
+                      </div>
+                      <p className="text-sm font-semibold uppercase tracking-[0.14em] text-[var(--muted-foreground)]">
+                        {formatDate(latestSharedMention.seen_at)}
+                      </p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          ) : null}
         </div>
 
         <aside className="rail-stack">

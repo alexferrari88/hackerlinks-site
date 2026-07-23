@@ -42,6 +42,19 @@ export function IssueRow({
         <p className="mt-3 max-w-[72ch] text-base leading-relaxed text-[var(--muted-foreground)] md:text-lg">
           {item.summary}
         </p>
+        {mention.source_story_title ? (
+          <p className="mt-2 text-sm leading-6 text-[var(--muted-foreground)]">
+            Source discussion:{" "}
+            <Link
+              href={mention.hn_url}
+              target="_blank"
+              rel="noreferrer"
+              className="font-semibold text-[var(--foreground)] hover:text-[var(--primary)] hover:underline"
+            >
+              {mention.source_story_title}
+            </Link>
+          </p>
+        ) : null}
         {mention.evidence && (
           <details className="group mt-4 cursor-pointer">
             <summary className="flex w-fit items-center gap-1 text-sm font-bold uppercase tracking-wider text-[var(--primary)] hover:underline">

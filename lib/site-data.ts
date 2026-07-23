@@ -195,6 +195,49 @@ export function getMentionsForItem(item: ItemRecord) {
     });
 }
 
+export interface SameDiscussionItem {
+  item: ItemRecord;
+  latestSharedMention: MentionRecord;
+}
+
+export function getSameDiscussionItems(
+  item: ItemRecord,
+  records: Pick<PublicRecords, "items" | "mentions"> = loadPublicRecords(),
+): SameDiscussionItem[] {
+  const sharedStoryIds = new Set(
+    item.mention_ids
+      .map((mentionId) => records.mentions[mentionId]?.source_story_id)
+      .filter((storyId): storyId is string => Boolean(storyId)),
+  );
+  const relatedBySlug = new Map<string, SameDiscussionItem>();
+
+  for (const mention of Object.values(records.mentions)) {
+    if (mention.item_id === item.id || !mention.source_story_id || !sharedStoryIds.has(mention.source_story_id)) {
+      continue;
+    }
+
+    const relatedItem = records.items[mention.item_id];
+    if (!relatedItem) {
+      continue;
+    }
+
+    const existing = relatedBySlug.get(relatedItem.slug);
+    if (
+      !existing ||
+      mention.seen_at > existing.latestSharedMention.seen_at ||
+      (mention.seen_at === existing.latestSharedMention.seen_at &&
+        mention.id > existing.latestSharedMention.id)
+    ) {
+      relatedBySlug.set(relatedItem.slug, { item: relatedItem, latestSharedMention: mention });
+    }
+  }
+
+  return [...relatedBySlug.values()].sort((a, b) => {
+    const byDate = b.latestSharedMention.seen_at.localeCompare(a.latestSharedMention.seen_at);
+    return byDate || a.item.slug.localeCompare(b.item.slug);
+  });
+}
+
 export function getIssueListing(issue: IssueRecord): IssueListing {
   const records = loadPublicRecords();
   const mentions = getMentionsForIssue(issue);
