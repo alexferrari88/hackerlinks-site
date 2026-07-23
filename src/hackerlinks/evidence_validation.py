@@ -149,9 +149,21 @@ def _fold_excerpt(value: str) -> str:
     return " ".join(html.unescape(value).split())
 
 
-def validate_run_evidence_authenticity(run_data: dict[str, Any]) -> None:
+def validate_run_evidence_authenticity(
+    run_data: dict[str, Any], *, require_evidence_sources: bool = False
+) -> None:
     """Authenticate every supplied citation against the run's exact SHA-bound packet."""
-    citation_items = [item for item in run_data.get("items", []) if "evidence_sources" in item]
+    raw_items = run_data.get("items", [])
+    if not isinstance(raw_items, list):
+        raise ValueError("run items must be a list")
+    if require_evidence_sources:
+        for item in raw_items:
+            if not isinstance(item, dict) or not item.get("evidence_sources"):
+                raise ValueError("every selected item requires non-empty evidence_sources")
+
+    citation_items = [
+        item for item in raw_items if isinstance(item, dict) and "evidence_sources" in item
+    ]
     if not citation_items:
         return
 

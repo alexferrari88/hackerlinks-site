@@ -154,6 +154,17 @@ class AuthenticityValidationTests(unittest.TestCase):
     def test_legacy_run_without_citations_needs_no_packet(self) -> None:
         validate_run_evidence_authenticity({"run_date": "2026-07-23", "items": [{"name": "Bento"}]})
 
+    def test_future_run_mode_requires_nonempty_citations_for_every_item(self) -> None:
+        for item in (
+            {"name": "Bento"},
+            {"name": "Bento", "evidence_sources": []},
+        ):
+            with self.subTest(item=item), self.assertRaisesRegex(ValueError, "evidence_sources"):
+                validate_run_evidence_authenticity(
+                    {"run_date": "2026-07-23", "items": [item]},
+                    require_evidence_sources=True,
+                )
+
 
 if __name__ == "__main__":
     unittest.main()
