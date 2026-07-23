@@ -9,6 +9,8 @@ import {
   buildArchiveParams,
   paginateArchiveItems,
   parseArchiveParams,
+  resetArchiveState,
+  selectArchiveSort,
   type ArchiveFilter,
   type ArchiveItem,
   type ArchiveSort,
@@ -17,11 +19,7 @@ import {
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
 const PAGE_SIZE = 50;
-const DEFAULT_STATE: ArchiveState = {
-  query: "",
-  filter: "all",
-  sort: "recent",
-};
+const DEFAULT_STATE: ArchiveState = resetArchiveState();
 
 const filters: Array<{ value: ArchiveFilter; label: string }> = [
   { value: "all", label: "Everything" },
@@ -87,7 +85,8 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
 
   const filteredItems = useMemo(() => applyArchiveView(items, state), [items, state]);
   const { visibleItems, hasMore } = paginateArchiveItems(filteredItems, visibleLimit);
-  const hasActiveFilters = state.query.trim() !== "" || state.filter !== "all";
+  const hasActiveFilters =
+    state.query.trim() !== "" || state.filter !== "all" || Boolean(state.explicitSort);
 
   function updateState(patch: Partial<ArchiveState>) {
     setState((current) => ({ ...current, ...patch }));
@@ -95,7 +94,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
   }
 
   function resetExplorer() {
-    setState(DEFAULT_STATE);
+    setState(resetArchiveState());
     setVisibleLimit(PAGE_SIZE);
   }
 
@@ -136,7 +135,19 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
           <select
             id="archive-sort"
             value={state.sort}
-            onChange={(event) => updateState({ sort: event.target.value as ArchiveSort })}
+            onPointerDown={() => {
+              // Native selects do not fire change when the user re-selects the displayed default.
+              setState((current) => selectArchiveSort(current, current.sort));
+            }}
+            onKeyDown={(event) => {
+              if (event.key === "Enter" || event.key === " ") {
+                setState((current) => selectArchiveSort(current, current.sort));
+              }
+            }}
+            onChange={(event) => {
+              setState((current) => selectArchiveSort(current, event.target.value as ArchiveSort));
+              setVisibleLimit(PAGE_SIZE);
+            }}
           >
             {sorts.map((sort) => (
               <option key={sort.value} value={sort.value}>

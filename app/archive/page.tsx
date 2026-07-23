@@ -17,15 +17,27 @@ export const metadata = buildPageMetadata({
 export default function ArchivePage() {
   const records = loadPublicRecords();
   const issues = getIssuesNewestFirst();
-  const items = Object.values(records.items).map((item) => ({
-    slug: item.slug,
-    name: item.name,
-    summary: item.summary,
-    thing_url: item.thing_url,
-    first_seen_at: item.first_seen_at,
-    last_seen_at: item.last_seen_at,
-    times_seen: item.times_seen,
-  }));
+  const items = Object.values(records.items).map((item) => {
+    const mentions = item.mention_ids.flatMap((mentionId) => {
+      const mention = records.mentions[mentionId];
+      return mention ? [mention] : [];
+    });
+
+    return {
+      slug: item.slug,
+      name: item.name,
+      summary: item.summary,
+      why_included: item.why_included,
+      evidence: mentions.map((mention) => mention.evidence),
+      story_titles: mentions.flatMap((mention) =>
+        mention.source_story_title ? [mention.source_story_title] : [],
+      ),
+      thing_url: item.thing_url,
+      first_seen_at: item.first_seen_at,
+      last_seen_at: item.last_seen_at,
+      times_seen: item.times_seen,
+    };
+  });
   const archiveJsonLd = {
     "@context": "https://schema.org",
     "@graph": [
