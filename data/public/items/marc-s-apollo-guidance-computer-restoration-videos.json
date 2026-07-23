@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "marc-s-apollo-guidance-computer-restoration-videos",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:marc-s-apollo-guidance-computer-restoration-videos:49002166",
+  "mention_ids": [
+    "2026-07-23:marc-s-apollo-guidance-computer-restoration-videos:49002166"
+  ],
+  "name": "Marc's Apollo Guidance Computer restoration videos",
+  "slug": "marc-s-apollo-guidance-computer-restoration-videos",
+  "summary": "A video series documenting the restoration and operation of the Apollo Guidance Computer.",
+  "thing_url": "https://www.youtube.com/playlist?list=PL-_93BVApb59FWrLZfdlisi_x7-Ut_-w7",
+  "times_seen": 1,
+  "why_included": "A deep technical historical resource, recommended specifically as an exceptional AGC explainer."
+}

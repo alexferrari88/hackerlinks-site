@@ -1,0 +1,12 @@
+{
+  "evidence": "One team reported easy setup and reliable point-in-time recovery; another said it saved substantial storage cost.",
+  "hn_url": "https://news.ycombinator.com/item?id=49005787",
+  "id": "2026-07-23:pgbackrest:49005787",
+  "is_repeat": false,
+  "issue_id": "2026-07-23",
+  "item_id": "pgbackrest",
+  "rank": 5,
+  "seen_at": "2026-07-23T03:17:07Z",
+  "source_story_id": "49005787",
+  "source_story_title": "The startup's Postgres survival guide"
+}

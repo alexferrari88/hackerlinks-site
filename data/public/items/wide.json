@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "wide",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:wide:49010648",
+  "mention_ids": [
+    "2026-07-23:wide:49010648"
+  ],
+  "name": "wide",
+  "slug": "wide",
+  "summary": "A Rust crate that makes common SIMD operations more accessible than manual intrinsics.",
+  "thing_url": "https://docs.rs/wide/latest/wide/",
+  "times_seen": 1,
+  "why_included": "It is a small, directly actionable recommendation from real high-performance code work."
+}

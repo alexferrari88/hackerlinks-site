@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "radio-paradise",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:radio-paradise:48999825",
+  "mention_ids": [
+    "2026-07-23:radio-paradise:48999825"
+  ],
+  "name": "Radio Paradise",
+  "slug": "radio-paradise",
+  "summary": "A listener-supported internet radio station focused on eclectic, human-curated music discovery.",
+  "thing_url": "https://radioparadise.com/",
+  "times_seen": 1,
+  "why_included": "A long-running listener recommendation offers a practical answer to the thread\u2019s search for good radio."
+}

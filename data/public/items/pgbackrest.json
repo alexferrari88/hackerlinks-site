@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "pgbackrest",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:pgbackrest:49005787",
+  "mention_ids": [
+    "2026-07-23:pgbackrest:49005787"
+  ],
+  "name": "pgBackRest",
+  "slug": "pgbackrest",
+  "summary": "A PostgreSQL backup and restore tool with point-in-time recovery and efficient incremental backups.",
+  "thing_url": "https://pgbackrest.org/",
+  "times_seen": 1,
+  "why_included": "Several experienced operators independently preferred it over hand-rolled backup scripts."
+}

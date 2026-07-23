@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T03:17:07Z",
+  "headline": "10 interesting things surfaced from HN on 2026-07-23",
+  "id": "2026-07-23",
+  "mention_ids": [
+    "2026-07-23:bento:49008211",
+    "2026-07-23:nash:49008211",
+    "2026-07-23:gigatoken:49010167",
+    "2026-07-23:natural-number-game:48969200",
+    "2026-07-23:pgbackrest:49005787",
+    "2026-07-23:wide:49010648",
+    "2026-07-23:fearless-simd:49010648",
+    "2026-07-23:marc-s-apollo-guidance-computer-restoration-videos:49002166",
+    "2026-07-23:screenwall:48945804",
+    "2026-07-23:radio-paradise:48999825"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

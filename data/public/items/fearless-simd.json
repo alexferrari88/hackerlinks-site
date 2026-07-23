@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "fearless-simd",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:fearless-simd:49010648",
+  "mention_ids": [
+    "2026-07-23:fearless-simd:49010648"
+  ],
+  "name": "fearless_simd",
+  "slug": "fearless-simd",
+  "summary": "A Rust SIMD library from the Linebender ecosystem for writing vectorized code.",
+  "thing_url": "https://crates.io/crates/fearless_simd",
+  "times_seen": 1,
+  "why_included": "It was specifically identified as the starting package for Rust developers adding SIMD."
+}

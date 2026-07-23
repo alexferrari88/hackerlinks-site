@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "nash",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:nash:49008211",
+  "mention_ids": [
+    "2026-07-23:nash:49008211"
+  ],
+  "name": "Nash",
+  "slug": "nash",
+  "summary": "A standalone HTML note-taking app intended as a lighter alternative to TiddlyWiki.",
+  "thing_url": "https://github.com/keepworking/nash",
+  "times_seen": 1,
+  "why_included": "A concrete personal recommendation for people overwhelmed by heavier personal-wiki software."
+}

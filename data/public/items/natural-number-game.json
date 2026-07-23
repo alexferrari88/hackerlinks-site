@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "natural-number-game",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:natural-number-game:48969200",
+  "mention_ids": [
+    "2026-07-23:natural-number-game:48969200"
+  ],
+  "name": "Natural Number Game",
+  "slug": "natural-number-game",
+  "summary": "An interactive Lean course that builds natural-number proofs from the Peano axioms.",
+  "thing_url": "https://adam.math.hhu.de/#/g/leanprover-community/nng4",
+  "times_seen": 1,
+  "why_included": "It is a notably approachable on-ramp to Lean rather than another passive reference."
+}

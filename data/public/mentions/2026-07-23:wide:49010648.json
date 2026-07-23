@@ -1,0 +1,12 @@
+{
+  "evidence": "A bioinformatics developer reported AVX-512 gains and said wide makes common operations \u2018completely trivial.\u2019",
+  "hn_url": "https://news.ycombinator.com/item?id=49010648",
+  "id": "2026-07-23:wide:49010648",
+  "is_repeat": false,
+  "issue_id": "2026-07-23",
+  "item_id": "wide",
+  "rank": 6,
+  "seen_at": "2026-07-23T03:17:07Z",
+  "source_story_id": "49010648",
+  "source_story_title": "Everyone Should Know SIMD"
+}

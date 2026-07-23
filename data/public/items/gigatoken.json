@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "gigatoken",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:gigatoken:49010167",
+  "mention_ids": [
+    "2026-07-23:gigatoken:49010167"
+  ],
+  "name": "GigaToken",
+  "slug": "gigatoken",
+  "summary": "A high-throughput tokenizer targeting model training pipelines and lower inference time-to-first-token.",
+  "thing_url": "https://github.com/marcelroed/gigatoken/",
+  "times_seen": 1,
+  "why_included": "Independent tokenization researchers singled out its cache and pretokenization work as broadly useful."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-23T03:17:07Z",
+  "id": "bento",
+  "last_seen_at": "2026-07-23T03:17:07Z",
+  "latest_mention_id": "2026-07-23:bento:49008211",
+  "mention_ids": [
+    "2026-07-23:bento:49008211"
+  ],
+  "name": "Bento",
+  "slug": "bento",
+  "summary": "A self-contained HTML presentation editor with offline use and optional encrypted collaboration.",
+  "thing_url": "https://bento.page/slides/",
+  "times_seen": 1,
+  "why_included": "Exceptional practical enthusiasm for a portable, editable presentation file made this stand out."
+}

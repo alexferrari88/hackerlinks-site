@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "run_date": "2026-07-23",
+  "generated_at": "2026-07-23T03:17:07Z",
+  "summary": "10 concrete, comment-endorsed recommendations selected from a verified complete HN front-page comment crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history and run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-23.json",
+    "sha256": "ccd342a1efc59fe04883a961db6e843c179c16521c836713962e700a23714187",
+    "bytes": 3905328,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6206,
+    "fetched_item_count": 6236,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Bento",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://bento.page/slides/",
+      "hn_url": "https://news.ycombinator.com/item?id=49008211",
+      "source_story_title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "summary": "A self-contained HTML presentation editor with offline use and optional encrypted collaboration.",
+      "why_included": "Exceptional practical enthusiasm for a portable, editable presentation file made this stand out.",
+      "evidence": "A commenter called it ‘really clever,’ praised the self-contained direction, and said it was worth using soon."
+    },
+    {
+      "name": "Nash",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/keepworking/nash",
+      "hn_url": "https://news.ycombinator.com/item?id=49008211",
+      "source_story_title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "summary": "A standalone HTML note-taking app intended as a lighter alternative to TiddlyWiki.",
+      "why_included": "A concrete personal recommendation for people overwhelmed by heavier personal-wiki software.",
+      "evidence": "A commenter explicitly recommended Nash for people who feel overwhelmed by TiddlyWiki."
+    },
+    {
+      "name": "GigaToken",
+      "category": "AI & Data Tools",
+      "thing_url": "https://github.com/marcelroed/gigatoken/",
+      "hn_url": "https://news.ycombinator.com/item?id=49010167",
+      "source_story_title": "GigaToken: ~1000x faster Language model tokenization",
+      "summary": "A high-throughput tokenizer targeting model training pipelines and lower inference time-to-first-token.",
+      "why_included": "Independent tokenization researchers singled out its cache and pretokenization work as broadly useful.",
+      "evidence": "A practitioner called it ‘fantastic work,’ saying the tokenization community wanted to absorb its lessons."
+    },
+    {
+      "name": "Natural Number Game",
+      "category": "Learning & Formal Methods",
+      "thing_url": "https://adam.math.hhu.de/#/g/leanprover-community/nng4",
+      "hn_url": "https://news.ycombinator.com/item?id=48969200",
+      "source_story_title": "Introduction to Formal Verification with Lean Part 1",
+      "summary": "An interactive Lean course that builds natural-number proofs from the Peano axioms.",
+      "why_included": "It is a notably approachable on-ramp to Lean rather than another passive reference.",
+      "evidence": "Multiple commenters called it ‘amazing’ and ‘the best intro to Lean,’ strongly recommending it to beginners."
+    },
+    {
+      "name": "pgBackRest",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pgbackrest.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49005787",
+      "source_story_title": "The startup's Postgres survival guide",
+      "summary": "A PostgreSQL backup and restore tool with point-in-time recovery and efficient incremental backups.",
+      "why_included": "Several experienced operators independently preferred it over hand-rolled backup scripts.",
+      "evidence": "One team reported easy setup and reliable point-in-time recovery; another said it saved substantial storage cost."
+    },
+    {
+      "name": "wide",
+      "category": "Programming & Verification",
+      "thing_url": "https://docs.rs/wide/latest/wide/",
+      "hn_url": "https://news.ycombinator.com/item?id=49010648",
+      "source_story_title": "Everyone Should Know SIMD",
+      "summary": "A Rust crate that makes common SIMD operations more accessible than manual intrinsics.",
+      "why_included": "It is a small, directly actionable recommendation from real high-performance code work.",
+      "evidence": "A bioinformatics developer reported AVX-512 gains and said wide makes common operations ‘completely trivial.’"
+    },
+    {
+      "name": "fearless_simd",
+      "category": "Programming & Verification",
+      "thing_url": "https://crates.io/crates/fearless_simd",
+      "hn_url": "https://news.ycombinator.com/item?id=49010648",
+      "source_story_title": "Everyone Should Know SIMD",
+      "summary": "A Rust SIMD library from the Linebender ecosystem for writing vectorized code.",
+      "why_included": "It was specifically identified as the starting package for Rust developers adding SIMD.",
+      "evidence": "A commenter recommended it directly as the package to start with for Rust SIMD."
+    },
+    {
+      "name": "Marc's Apollo Guidance Computer restoration videos",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/playlist?list=PL-_93BVApb59FWrLZfdlisi_x7-Ut_-w7",
+      "hn_url": "https://news.ycombinator.com/item?id=49002166",
+      "source_story_title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "summary": "A video series documenting the restoration and operation of the Apollo Guidance Computer.",
+      "why_included": "A deep technical historical resource, recommended specifically as an exceptional AGC explainer.",
+      "evidence": "A commenter said they could not recommend Marc’s restoration videos enough and called the work incredible."
+    },
+    {
+      "name": "ScreenWall",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://screenwall.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48945804",
+      "source_story_title": "ScreenWall – Turn old phones into synced widgets for your space",
+      "summary": "A browser-based system for turning old phones into synchronized widgets and display walls.",
+      "why_included": "It solves a concrete reuse problem with unusually broad home-dashboard and installation potential.",
+      "evidence": "A commenter called it ‘cool and useful,’ while others highlighted home dashboards, flight simulators, and e-readers."
+    },
+    {
+      "name": "Radio Paradise",
+      "category": "Media & Discovery",
+      "thing_url": "https://radioparadise.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48999825",
+      "source_story_title": "It's a shame what's happened to radio",
+      "summary": "A listener-supported internet radio station focused on eclectic, human-curated music discovery.",
+      "why_included": "A long-running listener recommendation offers a practical answer to the thread’s search for good radio.",
+      "evidence": "A commenter said it had been their go-to for years and that they had discovered much great music through it."
+    }
+  ]
+}
