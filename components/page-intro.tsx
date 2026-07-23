@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 
 interface PageIntroProps {
-  eyebrow: string;
+  eyebrow?: string;
   title: string;
   summary: ReactNode;
   meta?: Array<{ label: string; value: ReactNode; accent?: boolean }>;
@@ -15,8 +15,8 @@ export function PageIntro({ eyebrow, title, summary, meta, className }: PageIntr
   return (
     <section className={cn("grid gap-6", className)}>
       <div className="stack-frame">
-        <p className="eyebrow">{eyebrow}</p>
-        <h1 className="headline mt-4">{title}</h1>
+        {eyebrow ? <p className="eyebrow">{eyebrow}</p> : null}
+        <h1 className={cn("headline", eyebrow && "mt-4")}>{title}</h1>
         <div className="mt-5 max-w-[62ch] text-base leading-7 text-[var(--muted-foreground)] md:text-lg">
           {summary}
         </div>
