@@ -214,6 +214,9 @@ class NormalizeTests(unittest.TestCase):
         self.assertIn("Adobe alternative", davinci["summary"])
         self.assertIn("color workflow", davinci["why_included"])
 
+        davinci_mention = public["mentions"]["2026-04-14:davinci-resolve:47760529"]
+        self.assertEqual(davinci_mention["evidence_sources"], run_data["items"][0]["evidence_sources"])
+
         jellyfin_mention = public["mentions"]["2026-04-14:jellyfin:47759341"]
         self.assertEqual(jellyfin_mention["source_story_id"], "47759341")
         self.assertEqual(jellyfin_mention["item_id"], "jellyfin")

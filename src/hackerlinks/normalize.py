@@ -9,6 +9,7 @@ import uuid
 from pathlib import Path
 from typing import Any, Iterable
 
+from .evidence_validation import validate_evidence_sources
 from .models import IssueRecord, ItemRecord, MentionRecord
 from .slugs import extract_story_id, mention_id, slugify
 
@@ -43,6 +44,11 @@ def normalize_artifacts(run_data: dict[str, Any], history_data: dict[str, Any]) 
         first_seen = history_entry.get("first_reported_at", generated_at)
         last_seen = history_entry.get("last_reported_at", generated_at)
         times_seen = int(history_entry.get("times_reported", 1))
+        evidence_sources = (
+            validate_evidence_sources(raw_item["evidence_sources"], story_id=story_id)
+            if "evidence_sources" in raw_item
+            else None
+        )
 
         mention = MentionRecord(
             id=current_mention_id,
@@ -55,6 +61,7 @@ def normalize_artifacts(run_data: dict[str, Any], history_data: dict[str, Any]) 
             evidence=raw_item.get("evidence") or _PLACEHOLDER_EVIDENCE,
             rank=rank,
             is_repeat=times_seen > 1,
+            evidence_sources=evidence_sources,
         )
         item = ItemRecord(
             id=slug,
@@ -213,6 +220,8 @@ def validate_run_artifacts(run_data_list: Iterable[RunInput]) -> list[tuple[Path
                 raise ValueError(f"run {run_date} contains an item without a name")
             slug = slugify(name)
             story_id = extract_story_id(raw_item.get("hn_url", ""))
+            if "evidence_sources" in raw_item:
+                validate_evidence_sources(raw_item["evidence_sources"], story_id=story_id)
             current_mention_id = mention_id(run_date, name, story_id)
             if current_mention_id in mention_ids_seen:
                 raise ValueError(f"duplicate mention id: {current_mention_id}")
@@ -291,6 +300,11 @@ def _build_corpus(runs: list[tuple[Path | None, dict[str, Any]]]) -> dict[str, A
                 evidence=raw_item.get("evidence") or _PLACEHOLDER_EVIDENCE,
                 rank=row["rank"],
                 is_repeat=occurrence > 0,
+                evidence_sources=(
+                    validate_evidence_sources(raw_item["evidence_sources"], story_id=row["story_id"])
+                    if "evidence_sources" in raw_item
+                    else None
+                ),
             )
             mentions[row["mention_id"]] = mention.to_dict()
 

@@ -23,6 +23,31 @@
     "source_story_id": {"type": ["string", "null"]},
     "source_story_title": {"type": ["string", "null"]},
     "evidence": {"type": "string"},
+    "evidence_sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["comment_id", "comment_url", "author", "excerpt", "kind", "parent_comment_id"],
+        "properties": {
+          "comment_id": {"type": "string", "pattern": "^[0-9]+$"},
+          "comment_url": {
+            "type": "string",
+            "pattern": "^https://news\\.ycombinator\\.com/item\\?id=[0-9]+(?:#[0-9]+)?$"
+          },
+          "author": {"type": "string", "minLength": 1},
+          "excerpt": {"type": "string", "pattern": ".*\\S.*"},
+          "kind": {
+            "enum": ["recommendation", "comparison", "criticism", "caveat", "incidental", "author_context"]
+          },
+          "context": {
+            "enum": ["first_hand_use", "production_use", "evaluated", "rejected", "author_or_maintainer"]
+          },
+          "parent_comment_id": {"type": ["string", "null"], "pattern": "^[0-9]+$"}
+        },
+        "additionalProperties": false
+      }
+    },
     "rank": {"type": ["integer", "null"]},
     "is_repeat": {"type": "boolean"}
   },

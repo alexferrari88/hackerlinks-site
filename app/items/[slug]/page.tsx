@@ -168,7 +168,42 @@ export default async function ItemPage({
                       {formatDate(mention.seen_at)}
                     </div>
                     <div>
-                      <p className="text-sm leading-7 text-[var(--foreground)]">{mention.evidence}</p>
+                      {mention.evidence_sources?.length ? (
+                        <div className="space-y-4">
+                          {mention.evidence_sources.map((source) => (
+                            <blockquote key={source.comment_id} className="border-l-4 border-[var(--primary)] pl-4">
+                              <p className="text-sm leading-7 text-[var(--foreground)]">“{source.excerpt}”</p>
+                              <p className="mt-2 text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)]">
+                                {source.author} · {source.kind.replaceAll("_", " ")}
+                                {source.context ? ` · ${source.context.replaceAll("_", " ")}` : ""}
+                              </p>
+                              <Link
+                                href={source.comment_url}
+                                target="_blank"
+                                rel="noreferrer"
+                                className="mt-1 inline-block text-sm font-semibold text-[var(--primary)] hover:underline"
+                              >
+                                Direct HN comment
+                              </Link>
+                            </blockquote>
+                          ))}
+                        </div>
+                      ) : (
+                        <div>
+                          <p className="text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)]">
+                            Editorial paraphrase
+                          </p>
+                          <p className="mt-2 text-sm leading-7 text-[var(--foreground)]">{mention.evidence}</p>
+                          <Link
+                            href={mention.hn_url}
+                            target="_blank"
+                            rel="noreferrer"
+                            className="mt-2 inline-block text-sm font-semibold text-[var(--primary)] hover:underline"
+                          >
+                            Original thread
+                          </Link>
+                        </div>
+                      )}
                       <p className="mt-3 text-sm leading-6 text-[var(--muted-foreground)]">
                         {mention.source_story_title || `HN #${mention.source_story_id ?? "unknown"}`}
                       </p>

@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Any
 
 from .build import build_public_site
+from .evidence_validation import validate_run_evidence_authenticity
 from .normalize import rebuild_public_records, validate_run_artifacts
 
 PUBLISHABLE_PREFIXES = ("data/source/", "data/public/")
@@ -68,6 +69,8 @@ def sync_repo(private_root: Path, repo_root: Path) -> dict[str, Any]:
     _load_json(history_src)
     loaded_runs = [(run_file, _load_json(run_file)) for run_file in run_files]
     validate_run_artifacts(loaded_runs)
+    for _, run_data in loaded_runs:
+        validate_run_evidence_authenticity(run_data)
     latest_run_date = loaded_runs[-1][1]["run_date"]
 
     history_dst = repo_root / "data" / "source" / "product-history.json"

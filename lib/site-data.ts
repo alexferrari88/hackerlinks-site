@@ -6,6 +6,31 @@ import Ajv2020 from "ajv/dist/2020";
 
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
+export type EvidenceKind =
+  | "recommendation"
+  | "comparison"
+  | "criticism"
+  | "caveat"
+  | "incidental"
+  | "author_context";
+
+export type EvidenceContext =
+  | "first_hand_use"
+  | "production_use"
+  | "evaluated"
+  | "rejected"
+  | "author_or_maintainer";
+
+export interface EvidenceSource {
+  comment_id: string;
+  comment_url: string;
+  author: string;
+  excerpt: string;
+  kind: EvidenceKind;
+  context?: EvidenceContext;
+  parent_comment_id: string | null;
+}
+
 export interface MentionRecord {
   id: string;
   issue_id: string;
@@ -15,6 +40,7 @@ export interface MentionRecord {
   source_story_id: string | null;
   source_story_title: string | null;
   evidence: string;
+  evidence_sources?: EvidenceSource[];
   rank?: number | null;
   is_repeat?: boolean;
 }

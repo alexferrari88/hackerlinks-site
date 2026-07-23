@@ -13,8 +13,12 @@ export function ProvenanceNote({
     <aside className={`frame px-4 py-4 md:px-5 ${className}`.trim()}>
       <p className="eyebrow">{title}</p>
       <p className="mt-4 text-sm leading-6 text-[var(--muted-foreground)]">
-        Every find starts with a real Hacker News discussion. We keep the original thread, the date,
-        and the passage that caught our attention beside the summary, so you can judge it yourself.
+        Every find starts with a real Hacker News discussion. Exact excerpts include the commenter,
+        context, and a direct comment link so you can verify the words in place.
+      </p>
+      <p className="mt-3 text-sm leading-6 text-[var(--muted-foreground)]">
+        Older records without a retained exact citation are labelled Editorial paraphrase and link to
+        the original thread; they are summaries, not quotations.
       </p>
       <p className="mt-3 text-sm leading-6 text-[var(--muted-foreground)]">
         See the{" "}
