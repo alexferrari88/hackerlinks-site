@@ -1,5 +1,6 @@
 export type ArchiveFilter = "all" | "resurfaced" | "recent";
 export type ArchiveSort = "recent" | "seen" | "newest" | "name";
+export const ARCHIVE_INITIAL_RESULT_COUNT = 50;
 
 export interface ArchiveItem {
   slug: string;
@@ -19,6 +20,10 @@ export interface ArchiveState {
   filter: ArchiveFilter;
   sort: ArchiveSort;
   explicitSort?: boolean;
+}
+
+export function getInitialArchiveItems<T>(items: T[]): T[] {
+  return items.slice(0, ARCHIVE_INITIAL_RESULT_COUNT);
 }
 
 const FILTERS = new Set<ArchiveFilter>(["all", "resurfaced", "recent"]);

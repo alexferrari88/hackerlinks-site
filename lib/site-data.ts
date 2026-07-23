@@ -140,10 +140,26 @@ export function loadPublicRecords(): PublicRecords {
   const root = publicRoot();
 
   if (!recordsCache.has(root)) {
+    const issues = Object.fromEntries(
+      Object.entries(loadDirectory<IssueRecord>("issues", "issue")).filter(
+        ([, issue]) => issue.mention_ids.length > 0,
+      ),
+    );
+    const mentions = Object.fromEntries(
+      Object.entries(loadDirectory<MentionRecord>("mentions", "mention")).filter(
+        ([, mention]) => Boolean(issues[mention.issue_id]),
+      ),
+    );
+    const items = Object.fromEntries(
+      Object.entries(loadDirectory<ItemRecord>("items", "item")).map(([slug, item]) => [
+        slug,
+        { ...item, mention_ids: item.mention_ids.filter((mentionId) => Boolean(mentions[mentionId])) },
+      ]),
+    );
     recordsCache.set(root, {
-      issues: loadDirectory<IssueRecord>("issues", "issue"),
-      items: loadDirectory<ItemRecord>("items", "item"),
-      mentions: loadDirectory<MentionRecord>("mentions", "mention"),
+      issues,
+      items,
+      mentions,
       manifests: {
         archive: readJsonFile<ArchiveManifest>(path.join(root, "manifests", "archive.json")),
         latest: readJsonFile<LatestManifest>(path.join(root, "manifests", "latest.json")),

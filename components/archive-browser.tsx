@@ -5,6 +5,7 @@ import { Search, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import {
+  ARCHIVE_INITIAL_RESULT_COUNT,
   applyArchiveView,
   buildArchiveParams,
   paginateArchiveItems,
@@ -18,7 +19,6 @@ import {
 } from "@/lib/archive-browser";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
-const PAGE_SIZE = 50;
 const DEFAULT_STATE: ArchiveState = resetArchiveState();
 
 const filters: Array<{ value: ArchiveFilter; label: string }> = [
@@ -57,13 +57,13 @@ function formatDate(value: string) {
 
 export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
   const [state, setState] = useState<ArchiveState>(DEFAULT_STATE);
-  const [visibleLimit, setVisibleLimit] = useState(PAGE_SIZE);
+  const [visibleLimit, setVisibleLimit] = useState(ARCHIVE_INITIAL_RESULT_COUNT);
   const [urlStateLoaded, setUrlStateLoaded] = useState(false);
 
   useEffect(() => {
     const syncFromUrl = () => {
       setState(parseArchiveParams(new URLSearchParams(window.location.search)));
-      setVisibleLimit(PAGE_SIZE);
+      setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
       setUrlStateLoaded(true);
     };
 
@@ -90,12 +90,12 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
 
   function updateState(patch: Partial<ArchiveState>) {
     setState((current) => ({ ...current, ...patch }));
-    setVisibleLimit(PAGE_SIZE);
+    setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
   }
 
   function resetExplorer() {
     setState(resetArchiveState());
-    setVisibleLimit(PAGE_SIZE);
+    setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
   }
 
   return (
@@ -146,7 +146,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
             }}
             onChange={(event) => {
               setState((current) => selectArchiveSort(current, event.target.value as ArchiveSort));
-              setVisibleLimit(PAGE_SIZE);
+              setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
             }}
           >
             {sorts.map((sort) => (
@@ -241,7 +241,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
             Showing {visibleItems.length.toLocaleString("en")} of{" "}
             {filteredItems.length.toLocaleString("en")}
           </p>
-          <button type="button" onClick={() => setVisibleLimit((current) => current + PAGE_SIZE)}>
+          <button type="button" onClick={() => setVisibleLimit((current) => current + ARCHIVE_INITIAL_RESULT_COUNT)}>
             Show 50 more
           </button>
         </div>

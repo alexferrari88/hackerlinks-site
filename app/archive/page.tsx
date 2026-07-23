@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArchiveBrowser } from "@/components/archive-browser";
 import { BreadcrumbTrail } from "@/components/breadcrumb-trail";
 import { JsonLd } from "@/components/json-ld";
+import { getInitialArchiveItems } from "@/lib/archive-browser";
 import { getIssuesNewestFirst, loadPublicRecords } from "@/lib/site-data";
 import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
 import { SITE_BASE_PATH } from "@/lib/site-config";
@@ -38,6 +39,7 @@ export default function ArchivePage() {
       times_seen: item.times_seen,
     };
   });
+  const initialItems = getInitialArchiveItems(items);
   const archiveJsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -59,8 +61,8 @@ export default function ArchivePage() {
       {
         "@type": "ItemList",
         "@id": absoluteUrl("/archive/", "items"),
-        numberOfItems: items.length,
-        itemListElement: items.map((item, index) => ({
+        numberOfItems: initialItems.length,
+        itemListElement: initialItems.map((item, index) => ({
           "@type": "ListItem",
           position: index + 1,
           url: absoluteUrl(`/items/${item.slug}/`),

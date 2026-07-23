@@ -2,8 +2,10 @@ import test from "node:test";
 import assert from "node:assert/strict";
 
 import {
+  ARCHIVE_INITIAL_RESULT_COUNT,
   applyArchiveView,
   buildArchiveParams,
+  getInitialArchiveItems,
   getRecentCutoff,
   paginateArchiveItems,
   parseArchiveParams,
@@ -50,6 +52,19 @@ const items: ArchiveItem[] = [
     times_seen: 2,
   },
 ];
+
+test("archive structured data uses the browser's bounded initial result count", () => {
+  const manyItems = Array.from({ length: ARCHIVE_INITIAL_RESULT_COUNT + 7 }, (_, index) => ({
+    ...items[0],
+    slug: `item-${index}`,
+  }));
+
+  assert.equal(getInitialArchiveItems(manyItems).length, ARCHIVE_INITIAL_RESULT_COUNT);
+  assert.deepEqual(
+    getInitialArchiveItems(manyItems).map((item) => item.slug),
+    manyItems.slice(0, ARCHIVE_INITIAL_RESULT_COUNT).map((item) => item.slug),
+  );
+});
 
 test("archive search matches names, summaries, and domains case-insensitively", () => {
   assert.deepEqual(

@@ -96,32 +96,8 @@ export default async function ItemPage({
         mainEntityOfPage: {
           "@id": absoluteUrl(itemPath, "webpage"),
         },
-        subjectOf: mentions.map((mention) => ({
-          "@id": absoluteUrl(itemPath, `mention-${mention.id}`),
-        })),
         ...(item.thing_url ? { sameAs: item.thing_url } : {}),
       },
-      ...mentions.map((mention) => ({
-        "@type": "DiscussionForumPosting",
-        "@id": absoluteUrl(itemPath, `mention-${mention.id}`),
-        url: mention.hn_url,
-        datePublished: mention.seen_at,
-        headline: mention.source_story_title || `Hacker News thread ${mention.source_story_id ?? mention.id}`,
-        articleBody: mention.evidence,
-        publisher: {
-          "@type": "Organization",
-          name: "Hacker News",
-          url: "https://news.ycombinator.com/",
-        },
-        about: {
-          "@id": absoluteUrl(itemPath, "thing"),
-        },
-        isPartOf: {
-          "@type": "CollectionPage",
-          "@id": absoluteUrl(`/issues/${mention.issue_id}/`, "collection"),
-          url: absoluteUrl(`/issues/${mention.issue_id}/`),
-        },
-      })),
     ],
   };
 
