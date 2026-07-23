@@ -5,10 +5,13 @@ import { Search, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import {
+  ARCHIVE_INITIAL_RESULT_COUNT,
   applyArchiveView,
   buildArchiveParams,
   paginateArchiveItems,
   parseArchiveParams,
+  resetArchiveState,
+  selectArchiveSort,
   type ArchiveFilter,
   type ArchiveItem,
   type ArchiveSort,
@@ -16,12 +19,7 @@ import {
 } from "@/lib/archive-browser";
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
-const PAGE_SIZE = 50;
-const DEFAULT_STATE: ArchiveState = {
-  query: "",
-  filter: "all",
-  sort: "recent",
-};
+const DEFAULT_STATE: ArchiveState = resetArchiveState();
 
 const filters: Array<{ value: ArchiveFilter; label: string }> = [
   { value: "all", label: "Everything" },
@@ -59,13 +57,13 @@ function formatDate(value: string) {
 
 export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
   const [state, setState] = useState<ArchiveState>(DEFAULT_STATE);
-  const [visibleLimit, setVisibleLimit] = useState(PAGE_SIZE);
+  const [visibleLimit, setVisibleLimit] = useState(ARCHIVE_INITIAL_RESULT_COUNT);
   const [urlStateLoaded, setUrlStateLoaded] = useState(false);
 
   useEffect(() => {
     const syncFromUrl = () => {
       setState(parseArchiveParams(new URLSearchParams(window.location.search)));
-      setVisibleLimit(PAGE_SIZE);
+      setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
       setUrlStateLoaded(true);
     };
 
@@ -87,16 +85,17 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
 
   const filteredItems = useMemo(() => applyArchiveView(items, state), [items, state]);
   const { visibleItems, hasMore } = paginateArchiveItems(filteredItems, visibleLimit);
-  const hasActiveFilters = state.query.trim() !== "" || state.filter !== "all";
+  const hasActiveFilters =
+    state.query.trim() !== "" || state.filter !== "all" || Boolean(state.explicitSort);
 
   function updateState(patch: Partial<ArchiveState>) {
     setState((current) => ({ ...current, ...patch }));
-    setVisibleLimit(PAGE_SIZE);
+    setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
   }
 
   function resetExplorer() {
-    setState(DEFAULT_STATE);
-    setVisibleLimit(PAGE_SIZE);
+    setState(resetArchiveState());
+    setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
   }
 
   return (
@@ -136,7 +135,19 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
           <select
             id="archive-sort"
             value={state.sort}
-            onChange={(event) => updateState({ sort: event.target.value as ArchiveSort })}
+            onPointerDown={() => {
+              // Native selects do not fire change when the user re-selects the displayed default.
+              setState((current) => selectArchiveSort(current, current.sort));
+            }}
+            onKeyDown={(event) => {
+              if (event.key === "Enter" || event.key === " ") {
+                setState((current) => selectArchiveSort(current, current.sort));
+              }
+            }}
+            onChange={(event) => {
+              setState((current) => selectArchiveSort(current, event.target.value as ArchiveSort));
+              setVisibleLimit(ARCHIVE_INITIAL_RESULT_COUNT);
+            }}
           >
             {sorts.map((sort) => (
               <option key={sort.value} value={sort.value}>
@@ -230,7 +241,7 @@ export function ArchiveBrowser({ items }: { items: ArchiveItem[] }) {
             Showing {visibleItems.length.toLocaleString("en")} of{" "}
             {filteredItems.length.toLocaleString("en")}
           </p>
-          <button type="button" onClick={() => setVisibleLimit((current) => current + PAGE_SIZE)}>
+          <button type="button" onClick={() => setVisibleLimit((current) => current + ARCHIVE_INITIAL_RESULT_COUNT)}>
             Show 50 more
           </button>
         </div>

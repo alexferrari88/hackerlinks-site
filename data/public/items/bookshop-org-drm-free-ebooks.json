@@ -1,5 +1,5 @@
 {
-  "first_seen_at": "2026-06-28T21:09:22Z",
+  "first_seen_at": "2026-06-28T21:10:52Z",
   "id": "bookshop-org-drm-free-ebooks",
   "last_seen_at": "2026-06-28T21:10:52Z",
   "latest_mention_id": "2026-06-28:bookshop-org-drm-free-ebooks:48709186",
@@ -10,6 +10,6 @@
   "slug": "bookshop-org-drm-free-ebooks",
   "summary": "A Bookshop.org ebook list filtered to DRM-free titles.",
   "thing_url": "https://bookshop.org/lists/drm-free-ebooks",
-  "times_seen": 2,
+  "times_seen": 1,
   "why_included": "It gives readers a direct way to find DRM-free books before checkout."
 }

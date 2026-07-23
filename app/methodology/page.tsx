@@ -1,8 +1,11 @@
+import Link from "next/link";
+
 import { BreadcrumbTrail } from "@/components/breadcrumb-trail";
 import { JsonLd } from "@/components/json-ld";
 import { PageIntro } from "@/components/page-intro";
 import { Separator } from "@/components/ui/separator";
 import { absoluteUrl, buildPageMetadata } from "@/lib/seo";
+import { SITE_BASE_PATH } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
   title: "Methodology",
@@ -72,9 +75,9 @@ export default function MethodologyPage() {
         <Separator className="my-6" />
         <p className="eyebrow">Where automation stops</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
-          Automation helps collect, summarize, and normalize the upstream records. The published
-          site is deterministic: the pages, feeds, manifests, and metadata are built from the same
-          checked-in data and can be traced back to it.
+          Selection and editorial summarization are automated and AI-assisted. The published site is
+          deterministic: pages, feeds, manifests, and metadata are built from the same checked-in
+          data. Summaries help readers navigate, but the original comments are authoritative.
         </p>
         <Separator className="my-6" />
         <p className="eyebrow">What can go wrong</p>
@@ -82,6 +85,19 @@ export default function MethodologyPage() {
           HackerLinks does not capture every worthwhile mention, and automation can miss context.
           Some records have thin summaries or no direct product URL. The HN thread is kept visible
           precisely so the archive can be checked rather than taken on faith.
+        </p>
+        <Separator className="my-6" />
+        <p className="eyebrow">Corrections</p>
+        <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
+          If a record misstates its source or links to the wrong place, use the{" "}
+          <Link
+            href={`${SITE_BASE_PATH}/corrections/`}
+            className="font-semibold text-[var(--foreground)] underline underline-offset-4"
+          >
+            corrections and contact page
+          </Link>{" "}
+          to report it. Reports are checked against the original discussion and corrected in the
+          source record.
         </p>
       </section>
     </div>

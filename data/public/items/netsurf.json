@@ -1,5 +1,5 @@
 {
-  "first_seen_at": "2026-06-28T21:09:22Z",
+  "first_seen_at": "2026-06-28T21:10:52Z",
   "id": "netsurf",
   "last_seen_at": "2026-06-28T21:10:52Z",
   "latest_mention_id": "2026-06-28:netsurf:48709187",
@@ -10,6 +10,6 @@
   "slug": "netsurf",
   "summary": "A lightweight web browser with a tiny footprint and few dependencies.",
   "thing_url": "https://www.netsurf-browser.org/",
-  "times_seen": 2,
+  "times_seen": 1,
   "why_included": "HN called out its OpenBSD framebuffer frontend as the practical build."
 }

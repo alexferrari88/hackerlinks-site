@@ -6,6 +6,31 @@ import Ajv2020 from "ajv/dist/2020";
 
 import { SITE_BASE_PATH } from "@/lib/site-config";
 
+export type EvidenceKind =
+  | "recommendation"
+  | "comparison"
+  | "criticism"
+  | "caveat"
+  | "incidental"
+  | "author_context";
+
+export type EvidenceContext =
+  | "first_hand_use"
+  | "production_use"
+  | "evaluated"
+  | "rejected"
+  | "author_or_maintainer";
+
+export interface EvidenceSource {
+  comment_id: string;
+  comment_url: string;
+  author: string;
+  excerpt: string;
+  kind: EvidenceKind;
+  context?: EvidenceContext;
+  parent_comment_id: string | null;
+}
+
 export interface MentionRecord {
   id: string;
   issue_id: string;
@@ -15,6 +40,7 @@ export interface MentionRecord {
   source_story_id: string | null;
   source_story_title: string | null;
   evidence: string;
+  evidence_sources?: EvidenceSource[];
   rank?: number | null;
   is_repeat?: boolean;
 }
@@ -140,10 +166,26 @@ export function loadPublicRecords(): PublicRecords {
   const root = publicRoot();
 
   if (!recordsCache.has(root)) {
+    const issues = Object.fromEntries(
+      Object.entries(loadDirectory<IssueRecord>("issues", "issue")).filter(
+        ([, issue]) => issue.mention_ids.length > 0,
+      ),
+    );
+    const mentions = Object.fromEntries(
+      Object.entries(loadDirectory<MentionRecord>("mentions", "mention")).filter(
+        ([, mention]) => Boolean(issues[mention.issue_id]),
+      ),
+    );
+    const items = Object.fromEntries(
+      Object.entries(loadDirectory<ItemRecord>("items", "item")).map(([slug, item]) => [
+        slug,
+        { ...item, mention_ids: item.mention_ids.filter((mentionId) => Boolean(mentions[mentionId])) },
+      ]),
+    );
     recordsCache.set(root, {
-      issues: loadDirectory<IssueRecord>("issues", "issue"),
-      items: loadDirectory<ItemRecord>("items", "item"),
-      mentions: loadDirectory<MentionRecord>("mentions", "mention"),
+      issues,
+      items,
+      mentions,
       manifests: {
         archive: readJsonFile<ArchiveManifest>(path.join(root, "manifests", "archive.json")),
         latest: readJsonFile<LatestManifest>(path.join(root, "manifests", "latest.json")),
@@ -193,6 +235,49 @@ export function getMentionsForItem(item: ItemRecord) {
       }
       return b.id.localeCompare(a.id);
     });
+}
+
+export interface SameDiscussionItem {
+  item: ItemRecord;
+  latestSharedMention: MentionRecord;
+}
+
+export function getSameDiscussionItems(
+  item: ItemRecord,
+  records: Pick<PublicRecords, "items" | "mentions"> = loadPublicRecords(),
+): SameDiscussionItem[] {
+  const sharedStoryIds = new Set(
+    item.mention_ids
+      .map((mentionId) => records.mentions[mentionId]?.source_story_id)
+      .filter((storyId): storyId is string => Boolean(storyId)),
+  );
+  const relatedBySlug = new Map<string, SameDiscussionItem>();
+
+  for (const mention of Object.values(records.mentions)) {
+    if (mention.item_id === item.id || !mention.source_story_id || !sharedStoryIds.has(mention.source_story_id)) {
+      continue;
+    }
+
+    const relatedItem = records.items[mention.item_id];
+    if (!relatedItem) {
+      continue;
+    }
+
+    const existing = relatedBySlug.get(relatedItem.slug);
+    if (
+      !existing ||
+      mention.seen_at > existing.latestSharedMention.seen_at ||
+      (mention.seen_at === existing.latestSharedMention.seen_at &&
+        mention.id > existing.latestSharedMention.id)
+    ) {
+      relatedBySlug.set(relatedItem.slug, { item: relatedItem, latestSharedMention: mention });
+    }
+  }
+
+  return [...relatedBySlug.values()].sort((a, b) => {
+    const byDate = b.latestSharedMention.seen_at.localeCompare(a.latestSharedMention.seen_at);
+    return byDate || a.item.slug.localeCompare(b.item.slug);
+  });
 }
 
 export function getIssueListing(issue: IssueRecord): IssueListing {

@@ -42,17 +42,55 @@ export function IssueRow({
         <p className="mt-3 max-w-[72ch] text-base leading-relaxed text-[var(--muted-foreground)] md:text-lg">
           {item.summary}
         </p>
-        {mention.evidence && (
-          <details className="group mt-4 cursor-pointer">
-            <summary className="flex w-fit items-center gap-1 text-sm font-bold uppercase tracking-wider text-[var(--primary)] hover:underline">
-              <span className="group-open:hidden">Why it surfaced</span>
-              <span className="hidden group-open:inline">Hide context</span>
-            </summary>
-            <p className="mt-3 border-l-4 border-[var(--primary)] pl-4 text-base leading-relaxed text-[var(--foreground)]/92">
-              {mention.evidence}
+        {mention.source_story_title ? (
+          <p className="mt-2 text-sm leading-6 text-[var(--muted-foreground)]">
+            Source discussion:{" "}
+            <Link
+              href={mention.hn_url}
+              target="_blank"
+              rel="noreferrer"
+              className="font-semibold text-[var(--foreground)] hover:text-[var(--primary)] hover:underline"
+            >
+              {mention.source_story_title}
+            </Link>
+          </p>
+        ) : null}
+        {mention.evidence_sources?.length ? (
+          <div className="mt-4 space-y-3">
+            {mention.evidence_sources.map((source) => (
+              <blockquote key={source.comment_id} className="border-l-4 border-[var(--primary)] pl-4">
+                <p className="text-base leading-relaxed text-[var(--foreground)]/92">“{source.excerpt}”</p>
+                <p className="mt-2 text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)]">
+                  {source.author} · {source.kind.replaceAll("_", " ")}
+                  {source.context ? ` · ${source.context.replaceAll("_", " ")}` : ""}
+                </p>
+                <Link
+                  href={source.comment_url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mt-1 inline-block text-sm font-semibold text-[var(--primary)] hover:underline"
+                >
+                  Direct HN comment
+                </Link>
+              </blockquote>
+            ))}
+          </div>
+        ) : mention.evidence ? (
+          <div className="mt-4 border-l-4 border-[var(--line-strong)] pl-4">
+            <p className="text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)]">
+              Editorial paraphrase
             </p>
-          </details>
-        )}
+            <p className="mt-2 text-base leading-relaxed text-[var(--foreground)]/92">{mention.evidence}</p>
+            <Link
+              href={mention.hn_url}
+              target="_blank"
+              rel="noreferrer"
+              className="mt-2 inline-block text-sm font-semibold text-[var(--primary)] hover:underline"
+            >
+              Read the original thread
+            </Link>
+          </div>
+        ) : null}
       </div>
       <div className="board-meta">
         {showDate ? <Badge variant="default" className="w-fit">{formatDate(mention.seen_at)}</Badge> : null}

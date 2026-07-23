@@ -14,7 +14,9 @@ import {
   formatDate,
   getItemBySlug,
   getMentionsForItem,
+  getSameDiscussionItems,
   issueHref,
+  itemHref,
 } from "@/lib/site-data";
 import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata, WEBSITE_ID } from "@/lib/seo";
 
@@ -54,6 +56,7 @@ export default async function ItemPage({
   }
 
   const mentions = getMentionsForItem(item);
+  const sameDiscussionItems = getSameDiscussionItems(item);
   const latestMention = mentions[0];
   const domain = domainFromUrl(item.thing_url);
   const itemPath = `/items/${item.slug}/`;
@@ -93,32 +96,8 @@ export default async function ItemPage({
         mainEntityOfPage: {
           "@id": absoluteUrl(itemPath, "webpage"),
         },
-        subjectOf: mentions.map((mention) => ({
-          "@id": absoluteUrl(itemPath, `mention-${mention.id}`),
-        })),
         ...(item.thing_url ? { sameAs: item.thing_url } : {}),
       },
-      ...mentions.map((mention) => ({
-        "@type": "DiscussionForumPosting",
-        "@id": absoluteUrl(itemPath, `mention-${mention.id}`),
-        url: mention.hn_url,
-        datePublished: mention.seen_at,
-        headline: mention.source_story_title || `Hacker News thread ${mention.source_story_id ?? mention.id}`,
-        articleBody: mention.evidence,
-        publisher: {
-          "@type": "Organization",
-          name: "Hacker News",
-          url: "https://news.ycombinator.com/",
-        },
-        about: {
-          "@id": absoluteUrl(itemPath, "thing"),
-        },
-        isPartOf: {
-          "@type": "CollectionPage",
-          "@id": absoluteUrl(`/issues/${mention.issue_id}/`, "collection"),
-          url: absoluteUrl(`/issues/${mention.issue_id}/`),
-        },
-      })),
     ],
   };
 
@@ -189,7 +168,42 @@ export default async function ItemPage({
                       {formatDate(mention.seen_at)}
                     </div>
                     <div>
-                      <p className="text-sm leading-7 text-[var(--foreground)]">{mention.evidence}</p>
+                      {mention.evidence_sources?.length ? (
+                        <div className="space-y-4">
+                          {mention.evidence_sources.map((source) => (
+                            <blockquote key={source.comment_id} className="border-l-4 border-[var(--primary)] pl-4">
+                              <p className="text-sm leading-7 text-[var(--foreground)]">“{source.excerpt}”</p>
+                              <p className="mt-2 text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)]">
+                                {source.author} · {source.kind.replaceAll("_", " ")}
+                                {source.context ? ` · ${source.context.replaceAll("_", " ")}` : ""}
+                              </p>
+                              <Link
+                                href={source.comment_url}
+                                target="_blank"
+                                rel="noreferrer"
+                                className="mt-1 inline-block text-sm font-semibold text-[var(--primary)] hover:underline"
+                              >
+                                Direct HN comment
+                              </Link>
+                            </blockquote>
+                          ))}
+                        </div>
+                      ) : (
+                        <div>
+                          <p className="text-xs font-bold uppercase tracking-wider text-[var(--muted-foreground)]">
+                            Editorial paraphrase
+                          </p>
+                          <p className="mt-2 text-sm leading-7 text-[var(--foreground)]">{mention.evidence}</p>
+                          <Link
+                            href={mention.hn_url}
+                            target="_blank"
+                            rel="noreferrer"
+                            className="mt-2 inline-block text-sm font-semibold text-[var(--primary)] hover:underline"
+                          >
+                            Original thread
+                          </Link>
+                        </div>
+                      )}
                       <p className="mt-3 text-sm leading-6 text-[var(--muted-foreground)]">
                         {mention.source_story_title || `HN #${mention.source_story_id ?? "unknown"}`}
                       </p>
@@ -209,6 +223,36 @@ export default async function ItemPage({
               ))}
             </div>
           </article>
+
+          {sameDiscussionItems.length > 0 ? (
+            <section className="frame mt-8 px-4 py-4 md:px-5">
+              <p className="eyebrow">Also surfaced in this discussion</p>
+              <div className="mt-4">
+                {sameDiscussionItems.map(({ item: relatedItem, latestSharedMention }, index) => (
+                  <div key={relatedItem.slug}>
+                    {index > 0 ? <Separator className="my-5" /> : null}
+                    <div className="grid gap-2 md:grid-cols-[1fr_auto] md:items-start">
+                      <div>
+                        <Link
+                          href={itemHref(relatedItem.slug)}
+                          className="font-display text-xl uppercase tracking-[0.04em] hover:text-[var(--primary)] hover:underline"
+                        >
+                          {relatedItem.name}
+                        </Link>
+                        <p className="mt-2 text-sm leading-6 text-[var(--muted-foreground)]">
+                          {latestSharedMention.source_story_title ||
+                            `HN #${latestSharedMention.source_story_id}`}
+                        </p>
+                      </div>
+                      <p className="text-sm font-semibold uppercase tracking-[0.14em] text-[var(--muted-foreground)]">
+                        {formatDate(latestSharedMention.seen_at)}
+                      </p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          ) : null}
         </div>
 
         <aside className="rail-stack">

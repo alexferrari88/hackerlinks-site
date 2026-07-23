@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArchiveBrowser } from "@/components/archive-browser";
 import { BreadcrumbTrail } from "@/components/breadcrumb-trail";
 import { JsonLd } from "@/components/json-ld";
+import { getInitialArchiveItems } from "@/lib/archive-browser";
 import { getIssuesNewestFirst, loadPublicRecords } from "@/lib/site-data";
 import { absoluteUrl, breadcrumbJsonLd, buildPageMetadata } from "@/lib/seo";
 import { SITE_BASE_PATH } from "@/lib/site-config";
@@ -17,15 +18,28 @@ export const metadata = buildPageMetadata({
 export default function ArchivePage() {
   const records = loadPublicRecords();
   const issues = getIssuesNewestFirst();
-  const items = Object.values(records.items).map((item) => ({
-    slug: item.slug,
-    name: item.name,
-    summary: item.summary,
-    thing_url: item.thing_url,
-    first_seen_at: item.first_seen_at,
-    last_seen_at: item.last_seen_at,
-    times_seen: item.times_seen,
-  }));
+  const items = Object.values(records.items).map((item) => {
+    const mentions = item.mention_ids.flatMap((mentionId) => {
+      const mention = records.mentions[mentionId];
+      return mention ? [mention] : [];
+    });
+
+    return {
+      slug: item.slug,
+      name: item.name,
+      summary: item.summary,
+      why_included: item.why_included,
+      evidence: mentions.map((mention) => mention.evidence),
+      story_titles: mentions.flatMap((mention) =>
+        mention.source_story_title ? [mention.source_story_title] : [],
+      ),
+      thing_url: item.thing_url,
+      first_seen_at: item.first_seen_at,
+      last_seen_at: item.last_seen_at,
+      times_seen: item.times_seen,
+    };
+  });
+  const initialItems = getInitialArchiveItems(items);
   const archiveJsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -47,8 +61,8 @@ export default function ArchivePage() {
       {
         "@type": "ItemList",
         "@id": absoluteUrl("/archive/", "items"),
-        numberOfItems: items.length,
-        itemListElement: items.map((item, index) => ({
+        numberOfItems: initialItems.length,
+        itemListElement: initialItems.map((item, index) => ({
           "@type": "ListItem",
           position: index + 1,
           url: absoluteUrl(`/items/${item.slug}/`),

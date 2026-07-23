@@ -1,4 +1,5 @@
 import copy
+import hashlib
 import json
 import subprocess
 import tempfile
@@ -10,9 +11,16 @@ from hackerlinks.sync import blocking_dirty_paths, publish_repo, sync_repo
 FIXTURES = Path(__file__).parent / "fixtures"
 
 
+def _legacy_sample_run() -> dict:
+    run = json.loads((FIXTURES / "sample-run.json").read_text())
+    for item in run["items"]:
+        item.pop("evidence_sources", None)
+    return run
+
+
 class SyncTests(unittest.TestCase):
     def test_sync_repo_uses_latest_private_run_and_builds_public_site(self) -> None:
-        sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
+        sample_run = _legacy_sample_run()
         sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
 
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -43,7 +51,7 @@ class SyncTests(unittest.TestCase):
             self.assertGreaterEqual(len(result["copied_files"]), 2)
 
     def test_sync_repo_ignores_non_run_json_artifacts(self) -> None:
-        sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
+        sample_run = _legacy_sample_run()
         sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
 
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -68,7 +76,7 @@ class SyncTests(unittest.TestCase):
             self.assertTrue((repo_root / "data" / "public" / "items" / "davinci-resolve.json").exists())
 
     def test_sync_repo_accumulates_item_mentions_across_multiple_runs(self) -> None:
-        sample_run = json.loads((FIXTURES / "sample-run.json").read_text())
+        sample_run = _legacy_sample_run()
         sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
 
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -124,10 +132,93 @@ class SyncTests(unittest.TestCase):
                     "2026-04-15:davinci-resolve:48888888",
                 ],
             )
-            self.assertIn("Hacker News evidence", item_html)
+            archive = json.loads((repo_root / "data" / "public" / "manifests" / "archive.json").read_text())
+            self.assertEqual([issue["id"] for issue in archive["issues"]], ["2026-04-15", "2026-04-14"])
+            self.assertTrue((repo_root / "data" / "public" / "issues" / "2026-04-14.json").exists())
+            self.assertTrue((repo_root / "data" / "public" / "issues" / "2026-04-15.json").exists())
+            self.assertIn("Where it surfaced on Hacker News", item_html)
             self.assertIn("DaVinci Resolve", item_html)
             self.assertIn("Resolve again", item_html)
             self.assertIn("A second thread praised Resolve again.", item_html)
+
+    def test_sync_repo_validates_every_private_run_before_copying_source(self) -> None:
+        sample_run = _legacy_sample_run()
+        sample_history = json.loads((FIXTURES / "sample-history.json").read_text())
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            private_root = root / "private"
+            repo_root = root / "repo"
+            private_runs = private_root / "runs"
+            source_runs = repo_root / "data" / "source" / "runs"
+            private_runs.mkdir(parents=True)
+            source_runs.mkdir(parents=True)
+
+            (private_runs / "2026-04-13.json").write_text("{invalid json\n")
+            (private_runs / "2026-04-14.json").write_text(json.dumps(sample_run, indent=2) + "\n")
+            (private_root / "product-history.json").write_text(json.dumps(sample_history, indent=2) + "\n")
+            existing_history = repo_root / "data" / "source" / "product-history.json"
+            existing_history.write_text('{"sentinel": true}\n')
+            existing_run = source_runs / "2026-04-12.json"
+            existing_run.write_text('{"sentinel": true}\n')
+
+            with self.assertRaises(json.JSONDecodeError):
+                sync_repo(private_root=private_root, repo_root=repo_root)
+
+            self.assertEqual(existing_history.read_text(), '{"sentinel": true}\n')
+            self.assertEqual(existing_run.read_text(), '{"sentinel": true}\n')
+            self.assertFalse((source_runs / "2026-04-14.json").exists())
+
+    def test_sync_repo_authenticates_all_citations_before_copying_any_source(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            private_root = root / "private"
+            repo_root = root / "repo"
+            private_runs = private_root / "runs"
+            source_runs = repo_root / "data" / "source" / "runs"
+            packet_path = private_root / "comment-packets" / "2026-07-23.json"
+            private_runs.mkdir(parents=True)
+            source_runs.mkdir(parents=True)
+            packet_path.parent.mkdir(parents=True)
+
+            packet_bytes = (json.dumps({
+                "stories": [{
+                    "id": 49008211,
+                    "comments": [{"id": 49010177, "by": "vonnieda", "text": "Authentic words."}],
+                }],
+            }, sort_keys=True) + "\n").encode()
+            packet_path.write_bytes(packet_bytes)
+            run = {
+                "run_date": "2026-07-23",
+                "generated_at": "2026-07-23T03:17:07Z",
+                "comment_packet": {
+                    "path": str(packet_path),
+                    "sha256": hashlib.sha256(packet_bytes).hexdigest(),
+                },
+                "items": [{
+                    "name": "Bento",
+                    "hn_url": "https://news.ycombinator.com/item?id=49008211",
+                    "evidence_sources": [{
+                        "comment_id": "49010177",
+                        "comment_url": "https://news.ycombinator.com/item?id=49008211#49010177",
+                        "author": "vonnieda",
+                        "excerpt": "Fabricated words.",
+                        "kind": "recommendation",
+                        "parent_comment_id": None,
+                    }],
+                }],
+            }
+            (private_runs / "2026-07-23.json").write_text(json.dumps(run) + "\n")
+            (private_root / "product-history.json").write_text("{}\n")
+            existing_history = repo_root / "data" / "source" / "product-history.json"
+            existing_history.parent.mkdir(parents=True, exist_ok=True)
+            existing_history.write_text('{"sentinel": true}\n')
+
+            with self.assertRaisesRegex(ValueError, "excerpt"):
+                sync_repo(private_root=private_root, repo_root=repo_root)
+
+            self.assertEqual(existing_history.read_text(), '{"sentinel": true}\n')
+            self.assertFalse((source_runs / "2026-07-23.json").exists())
 
     def test_blocking_dirty_paths_flags_unrelated_repo_changes(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:

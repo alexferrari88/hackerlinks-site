@@ -1,5 +1,5 @@
 {
-  "first_seen_at": "2026-06-28T21:09:22Z",
+  "first_seen_at": "2026-06-28T21:10:52Z",
   "id": "the-mumps-76-primer-anniversary-edition",
   "last_seen_at": "2026-06-28T21:10:52Z",
   "latest_mention_id": "2026-06-28:the-mumps-76-primer-anniversary-edition:48706796",
@@ -10,6 +10,6 @@
   "slug": "the-mumps-76-primer-anniversary-edition",
   "summary": "An anniversary primer for the classic MUMPS language/database, with runnable interpreter builds.",
   "thing_url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
-  "times_seen": 2,
+  "times_seen": 1,
   "why_included": "The thread mixed historical interest with a still-usable interpreter and long-lived production systems."
 }

@@ -8,9 +8,10 @@ export function SiteFooter() {
       <div className="frame grid gap-6 px-4 py-6 md:grid-cols-[1.2fr_0.8fr] md:px-6">
         <div>
           <p className="eyebrow">HackerLinks</p>
-          <p className="mt-3 max-w-[44ch] text-sm leading-6 text-[var(--muted-foreground)]">
-            Useful things found in Hacker News discussions, minus the thread-diving. Every find
-            keeps the original discussion close enough to check for yourself.
+          <p className="mt-3 max-w-[52ch] text-sm leading-6 text-[var(--muted-foreground)]">
+            Useful things found in Hacker News discussions, minus the thread-diving. HackerLinks is
+            independent and unaffiliated with Hacker News or Y Combinator. Check the original
+            discussion before relying on a summary.
           </p>
         </div>
         <div className="flex flex-wrap items-start gap-3 md:justify-end">
@@ -25,6 +26,9 @@ export function SiteFooter() {
           </Link>
           <Link href={`${SITE_BASE_PATH}/methodology/`} className="nav-chip">
             Methodology
+          </Link>
+          <Link href={`${SITE_BASE_PATH}/corrections/`} className="nav-chip">
+            Corrections &amp; contact
           </Link>
           <Link href={`${SITE_BASE_PATH}/feed.xml`} className="nav-chip">
             RSS feed

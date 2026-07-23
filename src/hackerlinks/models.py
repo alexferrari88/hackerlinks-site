@@ -6,6 +6,23 @@ from dataclasses import asdict, dataclass
 from typing import Any
 
 
+@dataclass(frozen=True, slots=True)
+class EvidenceSource:
+    comment_id: str
+    comment_url: str
+    author: str
+    excerpt: str
+    kind: str
+    parent_comment_id: str | None
+    context: str | None = None
+
+    def to_dict(self) -> dict[str, Any]:
+        payload = asdict(self)
+        if self.context is None:
+            payload.pop("context")
+        return payload
+
+
 @dataclass(slots=True)
 class MentionRecord:
     id: str
@@ -18,9 +35,13 @@ class MentionRecord:
     evidence: str
     rank: int | None = None
     is_repeat: bool = False
+    evidence_sources: list[dict[str, Any]] | None = None
 
     def to_dict(self) -> dict[str, Any]:
-        return asdict(self)
+        payload = asdict(self)
+        if self.evidence_sources is None:
+            payload.pop("evidence_sources")
+        return payload
 
 
 @dataclass(slots=True)

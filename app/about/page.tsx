@@ -4,6 +4,8 @@ import { PageIntro } from "@/components/page-intro";
 import { Separator } from "@/components/ui/separator";
 import { absoluteUrl, buildPageMetadata, organizationJsonLd } from "@/lib/seo";
 
+const OPERATOR_URL = "https://github.com/alexferrari88";
+
 export const metadata = buildPageMetadata({
   title: "About",
   description:
@@ -68,6 +70,20 @@ export default function AboutPage() {
             was mentioned.
           </p>
           <Separator className="my-6" />
+          <p className="eyebrow">Independence</p>
+          <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
+            HackerLinks is independent and unaffiliated with Hacker News or Y Combinator. It is a
+            separate archive built from publicly linked discussions; neither organization selects,
+            reviews, or endorses its entries. It is operated and edited by the maintainer of the
+            public HackerLinks repository, {" "}
+            <a
+              href={OPERATOR_URL}
+              className="font-semibold text-[var(--foreground)] underline underline-offset-4"
+            >
+              @alexferrari88
+            </a>.
+          </p>
+          <Separator className="my-6" />
           <p className="eyebrow">Who it&apos;s for</p>
           <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
             People who enjoy Hacker News for the unexpected discoveries but do not want to read
@@ -87,11 +103,12 @@ export default function AboutPage() {
           </section>
 
           <section className="frame px-4 py-4 md:px-5">
-            <p className="eyebrow">What it isn&apos;t</p>
+            <p className="eyebrow">How it works</p>
             <Separator className="my-4 bg-[var(--line-strong)]" />
             <p className="text-sm leading-6 text-[var(--muted-foreground)]">
-              Not an AI-written link farm. Not a launch leaderboard. Not a claim that HN agrees on
-              anything. It is a trail of specific, checkable finds from real discussions.
+              Automated, AI-assisted selection and summarization turn source discussions into
+              structured records. Static pages publish those records with the source close by so
+              readers can check the editorial summary against the original comments.
             </p>
           </section>
         </aside>

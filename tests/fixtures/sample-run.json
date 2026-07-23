@@ -13,7 +13,18 @@
       "source_story_title": "DaVinci Resolve – Photo",
       "summary": "Blackmagic expanded DaVinci Resolve with a photo workflow, and HN users framed it as a serious Adobe alternative with a one-time license.",
       "why_included": "Repeated praise for Resolve's value and color workflow made it the clear concrete tool surfaced by the thread.",
-      "evidence": "Commenters highlighted the $295 perpetual license and said Resolve remains a go-to editor for high-quality video work."
+      "evidence": "Commenters highlighted the $295 perpetual license and said Resolve remains a go-to editor for high-quality video work.",
+      "evidence_sources": [
+        {
+          "comment_id": "47760601",
+          "comment_url": "https://news.ycombinator.com/item?id=47760529#47760601",
+          "author": "fixture-user",
+          "excerpt": "Resolve remains my go-to editor.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
     },
     {
       "name": "Jellyfin",

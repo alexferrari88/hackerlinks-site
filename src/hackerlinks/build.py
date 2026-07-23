@@ -36,11 +36,45 @@ def _load_json_dir(path: Path) -> dict[str, dict[str, Any]]:
 
 
 def load_public_records(public_root: Path) -> dict[str, Any]:
+    issues = {
+        issue_id: issue
+        for issue_id, issue in _load_json_dir(public_root / "issues").items()
+        if issue.get("mention_ids")
+    }
+    manifests = _load_json_dir(public_root / "manifests")
+    archive = manifests.get("archive")
+    if isinstance(archive, dict):
+        archive["issues"] = [
+            issue for issue in archive.get("issues", []) if issue.get("id") in issues
+        ]
+    latest = manifests.get("latest")
+    if issues and isinstance(latest, dict) and latest.get("issue_id") not in issues:
+        latest_issue = max(
+            issues.values(),
+            key=lambda issue: str(issue.get("date") or issue.get("id") or ""),
+        )
+        manifests["latest"] = {
+            "issue_id": latest_issue["id"],
+            "generated_at": latest_issue.get("generated_at"),
+            "item_count": len(latest_issue.get("mention_ids", [])),
+        }
+
+    mentions = {
+        mention_id: mention
+        for mention_id, mention in _load_json_dir(public_root / "mentions").items()
+        if mention.get("issue_id") in issues
+    }
+    items = _load_json_dir(public_root / "items")
+    for item in items.values():
+        item["mention_ids"] = [
+            mention_id for mention_id in item.get("mention_ids", []) if mention_id in mentions
+        ]
+
     return {
-        "issues": _load_json_dir(public_root / "issues"),
-        "items": _load_json_dir(public_root / "items"),
-        "mentions": _load_json_dir(public_root / "mentions"),
-        "manifests": _load_json_dir(public_root / "manifests"),
+        "issues": issues,
+        "items": items,
+        "mentions": mentions,
+        "manifests": manifests,
     }
 
 
@@ -256,6 +290,26 @@ def _write_robots(dist_root: Path, *, site_url: str) -> None:
 def _write_public_data_exports(records: dict[str, Any], public_root: Path, dist_root: Path, *, site_url: str) -> None:
     data_root = dist_root / "data"
     shutil.copytree(public_root, data_root)
+    exported_issues_root = data_root / "issues"
+    for issue_path in exported_issues_root.glob("*.json"):
+        if issue_path.stem not in records["issues"]:
+            issue_path.unlink()
+    exported_mentions_root = data_root / "mentions"
+    for mention_path in exported_mentions_root.glob("*.json"):
+        if mention_path.stem not in records["mentions"]:
+            mention_path.unlink()
+    for item_id, item in records["items"].items():
+        _write(
+            data_root / "items" / f"{item_id}.json",
+            json.dumps(item, indent=2, sort_keys=True) + "\n",
+        )
+    for manifest_name in ("archive", "latest"):
+        manifest = records["manifests"].get(manifest_name)
+        if manifest is not None:
+            _write(
+                data_root / "manifests" / f"{manifest_name}.json",
+                json.dumps(manifest, indent=2, sort_keys=True) + "\n",
+            )
 
     latest_generated_at = records.get("manifests", {}).get("latest", {}).get("generated_at")
     site_manifest = {
