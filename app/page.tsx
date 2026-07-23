@@ -105,7 +105,7 @@ export default function HomePage() {
         }
       />
 
-      <section className="grid min-w-0 gap-8 xl:grid-cols-[1.55fr_0.75fr]">
+      <section className="grid min-w-0 gap-8 border-t-[3px] border-[var(--line-strong)] pt-8 md:border-t-0 md:pt-0 xl:grid-cols-[1.55fr_0.75fr]">
         <div className="min-w-0 space-y-6">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
