@@ -111,7 +111,7 @@ export default function HomePage() {
             {formatIssueDate(latestIssue.date)}
           </h2>
           <p className="mt-3 max-w-[38ch] text-sm leading-6 text-[#d4d4d8] md:mt-0 md:text-right">
-            Showing {previewMentions.length} source-linked finds, with the discussion context that made each one useful.
+            {previewMentions.length} useful {previewMentions.length === 1 ? "find" : "finds"} without the thread-diving—each with the Hacker News context that made it worth saving.
           </p>
         </header>
 
