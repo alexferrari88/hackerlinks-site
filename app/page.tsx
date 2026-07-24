@@ -6,6 +6,7 @@ import { IssueRow } from "@/components/issue-row";
 import { PageIntro } from "@/components/page-intro";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
+import { TelegramSubscribeLink } from "@/components/telegram-subscribe-link";
 import {
   loadPublicRecords,
   getIssueListing,
@@ -15,7 +16,7 @@ import {
   itemHref,
 } from "@/lib/site-data";
 import { buildPageMetadata, dataCatalogJsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
-import { SITE_BASE_PATH, SITE_TAGLINE, TELEGRAM_BOT_URL } from "@/lib/site-config";
+import { SITE_BASE_PATH, SITE_TAGLINE } from "@/lib/site-config";
 
 export const metadata = buildPageMetadata({
   title: "Useful things discovered on Hacker News",
@@ -92,15 +93,12 @@ export default function HomePage() {
                 </Link>
               </Button>
             </div>
-            <a
-              href={TELEGRAM_BOT_URL}
-              target="_blank"
-              rel="noopener noreferrer"
+            <TelegramSubscribeLink
               className="mt-4 inline-flex max-w-full flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs font-bold uppercase tracking-[0.12em] text-[var(--muted-foreground)] hover:text-[var(--primary)] hover:underline"
             >
               <span>Get the daily finds</span>
               <span className="font-sans normal-case tracking-normal">@hn_links_bot</span>
-            </a>
+            </TelegramSubscribeLink>
           </>
         }
       />

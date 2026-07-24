@@ -1,6 +1,7 @@
 import Link from "next/link";
 
-import { SITE_BASE_PATH, TELEGRAM_BOT_URL } from "@/lib/site-config";
+import { TelegramSubscribeLink } from "@/components/telegram-subscribe-link";
+import { SITE_BASE_PATH } from "@/lib/site-config";
 
 export function SiteFooter() {
   return (
@@ -33,9 +34,9 @@ export function SiteFooter() {
           <Link href={`${SITE_BASE_PATH}/feed.xml`} className="nav-chip">
             RSS feed
           </Link>
-          <a href={TELEGRAM_BOT_URL} target="_blank" rel="noopener noreferrer" className="nav-chip">
+          <TelegramSubscribeLink className="nav-chip">
             Daily finds on Telegram
-          </a>
+          </TelegramSubscribeLink>
         </div>
       </div>
     </footer>

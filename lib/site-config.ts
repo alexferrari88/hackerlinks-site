@@ -6,4 +6,3 @@ export const SITE_URL =
   "https://hackerlinks.cc";
 export const SITE_BASE_PATH = process.env.NEXT_BASE_PATH || "";
 export const SITE_TAGLINE = "Find the good stuff buried in Hacker News.";
-export const TELEGRAM_BOT_URL = "https://t.me/hn_links_bot";

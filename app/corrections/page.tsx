@@ -72,6 +72,15 @@ export default function CorrectionsPage() {
           carries the change across the site. Original comments remain authoritative.
         </p>
         <Separator className="my-6" />
+        <p className="eyebrow">Measurement and privacy</p>
+        <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
+          Telegram subscription links attach a coarse source label so HackerLinks can distinguish
+          Hacker News launch conversions from other site subscriptions. The site does not send the
+          referring URL to Telegram, and it keeps the Hacker News label only in browser session
+          storage while you navigate. The bot reports aggregate conversion counts and does not expose
+          subscriber identifiers in analytics output.
+        </p>
+        <Separator className="my-6" />
         <p className="eyebrow">Sponsorships and affiliate links</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
           HackerLinks currently has no paid placements, sponsorships, or affiliate commissions.
