@@ -31,6 +31,9 @@ export function SiteFooter() {
           <Link href={`${SITE_BASE_PATH}/corrections/`} className="nav-chip">
             Corrections &amp; contact
           </Link>
+          <Link href={`${SITE_BASE_PATH}/privacy/`} className="nav-chip">
+            Privacy
+          </Link>
           <Link href={`${SITE_BASE_PATH}/feed.xml`} className="nav-chip">
             RSS feed
           </Link>

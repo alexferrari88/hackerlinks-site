@@ -13,14 +13,6 @@ export function telegramSourceFromReferrer(referrer: string): TelegramSource {
   }
 }
 
-export function telegramSourceForSession(referrer: string, storedSource: string | null): TelegramSource {
-  const referralSource = telegramSourceFromReferrer(referrer);
-  if (referralSource === TELEGRAM_HN_SOURCE) {
-    return TELEGRAM_HN_SOURCE;
-  }
-  return storedSource === TELEGRAM_HN_SOURCE ? TELEGRAM_HN_SOURCE : TELEGRAM_SITE_SOURCE;
-}
-
 export function telegramBotUrl(source: TelegramSource): string {
   const url = new URL("https://t.me/hn_links_bot");
   url.searchParams.set("start", source);

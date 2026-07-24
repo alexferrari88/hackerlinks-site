@@ -75,10 +75,18 @@ export default function CorrectionsPage() {
         <p className="eyebrow">Measurement and privacy</p>
         <p className="mt-6 text-base leading-7 text-[var(--muted-foreground)]">
           Telegram subscription links attach a coarse source label so HackerLinks can distinguish
-          Hacker News launch conversions from other site subscriptions. The site does not send the
-          referring URL to Telegram, and it keeps the Hacker News label only in browser session
-          storage while you navigate. The bot reports aggregate conversion counts and does not expose
-          subscriber identifiers in analytics output.
+          direct Hacker News conversions from other site subscriptions. The site does not send the
+          referring URL to Telegram and does not persist the label in browser storage. The bot reports
+          aggregate conversion counts and does not expose subscriber identifiers in analytics output.
+          HackerLinks also uses cookie-free Cloudflare Web Analytics for aggregate traffic and
+          performance measurement. Read the {" "}
+          <a
+            href="/privacy/"
+            className="font-semibold text-[var(--foreground)] underline underline-offset-4"
+          >
+            privacy notice
+          </a>{" "}
+          for the data, legal basis, retention, service providers, and visitor rights.
         </p>
         <Separator className="my-6" />
         <p className="eyebrow">Sponsorships and affiliate links</p>
