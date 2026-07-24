@@ -105,9 +105,16 @@ export default function PrivacyPage() {
           Dutch Telecommunications Act rather than displaying a consent banner.
         </p>
         <p className="mt-4 text-base leading-7 text-[var(--muted-foreground)]">
-          Cloudflare states that unsampled beacon data is retained for seven days and then reduced to
-          aggregated data; the Web Analytics dashboard provides up to six months of history.
-          Cloudflare acts as a service provider under its {" "}
+          Cloudflare also hosts and delivers HackerLinks through Cloudflare Pages and its edge network.
+          Like any web host or content-delivery network, Cloudflare may process ordinary request and
+          security metadata, including an IP address, request headers, requested path, and threat
+          signals, to deliver and protect the site. The lawful basis is the legitimate interest in
+          providing a secure, reliable public website.
+        </p>
+        <p className="mt-4 text-base leading-7 text-[var(--muted-foreground)]">
+          Cloudflare states that unsampled Web Analytics beacon data is retained for seven days and
+          then reduced to aggregated data; the Web Analytics dashboard provides up to six months of
+          history. Cloudflare acts as a service provider under its {" "}
           <ExternalTextLink href={CLOUDFLARE_DPA_URL}>Data Processing Addendum</ExternalTextLink>,
           which includes safeguards for international transfers. See {" "}
           <ExternalTextLink href={CLOUDFLARE_PRIVACY_URL}>
