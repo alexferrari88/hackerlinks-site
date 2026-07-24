@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended it as the Chinese Hugging Face equivalent for finding Chinese models.",
+  "evidence_sources": [
+    {
+      "author": "shixinhb",
+      "comment_id": "49025501",
+      "comment_url": "https://news.ycombinator.com/item?id=49023016#49025501",
+      "excerpt": "Instead you can use the Chinese version of huggingface with all Chinese models",
+      "kind": "recommendation",
+      "parent_comment_id": "49023016"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49023016",
+  "id": "2026-07-24:modelscope:49023016",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "modelscope",
+  "rank": 10,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49023016",
+  "source_story_title": "Startup founders urge U.S. government not to shut off Chinese open weight AI"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said the resource taught them WebGPU and explicitly recommended it.",
+  "evidence_sources": [
+    {
+      "author": "ChadNauseam",
+      "comment_id": "49025755",
+      "comment_url": "https://news.ycombinator.com/item?id=49022663#49025755",
+      "context": "first_hand_use",
+      "excerpt": "This resource taught me WebGPU a couple years ago. I can recommend it. It's the best WebGPU tutorial I've found.",
+      "kind": "recommendation",
+      "parent_comment_id": "49022663"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49022663",
+  "id": "2026-07-24:learn-webgpu-for-c:49022663",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "learn-webgpu-for-c",
+  "rank": 7,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49022663",
+  "source_story_title": "Learn WebGPU for C++"
+}

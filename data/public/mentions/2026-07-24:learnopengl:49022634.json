@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter urged graphics beginners to work through the site and its examples sequentially.",
+  "evidence_sources": [
+    {
+      "author": "cyber_kinetist",
+      "comment_id": "49024659",
+      "comment_url": "https://news.ycombinator.com/item?id=49022634#49024659",
+      "excerpt": "If you're starting to learn computer graphics, just study through the entire site and do the examples one by one.",
+      "kind": "recommendation",
+      "parent_comment_id": "49022634"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49022634",
+  "id": "2026-07-24:learnopengl:49022634",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "learnopengl",
+  "rank": 5,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49022634",
+  "source_story_title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL"
+}

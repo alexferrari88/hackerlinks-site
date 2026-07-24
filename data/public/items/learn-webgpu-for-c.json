@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "learn-webgpu-for-c",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:learn-webgpu-for-c:49022663",
+  "mention_ids": [
+    "2026-07-24:learn-webgpu-for-c:49022663"
+  ],
+  "name": "Learn WebGPU for C++",
+  "slug": "learn-webgpu-for-c",
+  "summary": "A C++ tutorial for WebGPU graphics programming, from setup through rendering fundamentals.",
+  "thing_url": "https://eliemichel.github.io/LearnWebGPU/",
+  "times_seen": 1,
+  "why_included": "A practitioner called it the best WebGPU tutorial they found after using it in a project."
+}

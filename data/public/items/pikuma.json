@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "pikuma",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:pikuma:49022038",
+  "mention_ids": [
+    "2026-07-24:pikuma:49022038"
+  ],
+  "name": "Pikuma",
+  "slug": "pikuma",
+  "summary": "A course library covering low-level programming, graphics, compilers, and game development.",
+  "thing_url": "https://pikuma.com/",
+  "times_seen": 1,
+  "why_included": "A learner praised its lectures after working through both compiler and 3D-renderer courses."
+}

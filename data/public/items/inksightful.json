@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "inksightful",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:inksightful:49022152",
+  "mention_ids": [
+    "2026-07-24:inksightful:49022152"
+  ],
+  "name": "Inksightful",
+  "slug": "inksightful",
+  "summary": "An iOS app that turns photographed handwriting into searchable digital text.",
+  "thing_url": "https://inksightful.app/",
+  "times_seen": 1,
+  "why_included": "Its maker described using it successfully to digitize handwritten diaries and general paper notes."
+}

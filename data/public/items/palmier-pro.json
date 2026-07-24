@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "palmier-pro",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:palmier-pro:49022911",
+  "mention_ids": [
+    "2026-07-24:palmier-pro:49022911"
+  ],
+  "name": "Palmier Pro",
+  "slug": "palmier-pro",
+  "summary": "An open-source native macOS video editor built around AI-assisted editing workflows.",
+  "thing_url": "https://github.com/palmier-io/palmier-pro",
+  "times_seen": 1,
+  "why_included": "Independent commenters praised the project and its promotional demonstration."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "the-beam-engine",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:the-beam-engine:49007221",
+  "mention_ids": [
+    "2026-07-24:the-beam-engine:49007221"
+  ],
+  "name": "The Beam Engine",
+  "slug": "the-beam-engine",
+  "summary": "An interactive visual explainer of the steam engine and its mechanical controls.",
+  "thing_url": "https://glinscott.github.io/beam-engine/",
+  "times_seen": 1,
+  "why_included": "The technical explainer earned direct praise for making a complex historic machine approachable."
+}

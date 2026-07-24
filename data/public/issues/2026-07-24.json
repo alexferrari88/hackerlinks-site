@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T03:17:58Z",
+  "headline": "10 interesting things surfaced from HN on 2026-07-24",
+  "id": "2026-07-24",
+  "mention_ids": [
+    "2026-07-24:book-prize-index:49007247",
+    "2026-07-24:inksightful:49022152",
+    "2026-07-24:the-beam-engine:49007221",
+    "2026-07-24:pikuma:49022038",
+    "2026-07-24:learnopengl:49022634",
+    "2026-07-24:sokol:49022634",
+    "2026-07-24:learn-webgpu-for-c:49022663",
+    "2026-07-24:palmier-pro:49022911",
+    "2026-07-24:onecli:49023427",
+    "2026-07-24:modelscope:49023016"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

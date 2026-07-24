@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the project nice and described an analogous GitHub-specific safety proxy.",
+  "evidence_sources": [
+    {
+      "author": "denysvitali",
+      "comment_id": "49025055",
+      "comment_url": "https://news.ycombinator.com/item?id=49023427#49025055",
+      "excerpt": "Nice! I've built something like this, although specific to GitHub",
+      "kind": "recommendation",
+      "parent_comment_id": "49023427"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49023427",
+  "id": "2026-07-24:onecli:49023427",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "onecli",
+  "rank": 9,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49023427",
+  "source_story_title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents"
+}

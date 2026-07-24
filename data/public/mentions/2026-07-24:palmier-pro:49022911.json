@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter described the editor as very nice and its promo video as wonderful.",
+  "evidence_sources": [
+    {
+      "author": "draw_down",
+      "comment_id": "49024974",
+      "comment_url": "https://news.ycombinator.com/item?id=49022911#49024974",
+      "excerpt": "I don't work with video but this seems very nice, and your promo video is wonderful. Great work!",
+      "kind": "recommendation",
+      "parent_comment_id": "49022911"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49022911",
+  "id": "2026-07-24:palmier-pro:49022911",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "palmier-pro",
+  "rank": 8,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49022911",
+  "source_story_title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI"
+}

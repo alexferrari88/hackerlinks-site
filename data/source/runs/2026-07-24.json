@@ -1,0 +1,229 @@
+{
+  "version": 2,
+  "run_date": "2026-07-24",
+  "generated_at": "2026-07-24T03:17:58Z",
+  "summary": "Ten concrete recommendations surfaced from 30 fully crawled HN front-page stories.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-24.json",
+    "sha256": "86fb940925489b36b3d3c7518648949054c7eb913b9f206169abfb62cab527bb",
+    "bytes": 3220840,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5038,
+    "fetched_item_count": 5068,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "category": "Books & Reading",
+      "name": "Book Prize Index",
+      "thing_url": "https://book-prize-index.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49007247",
+      "source_story_title": "Quality non-fiction books are the antithesis of AI slop",
+      "summary": "A searchable nonfiction-book discovery site organized around literary and subject awards.",
+      "why_included": "A reader found strong technology and science picks and said it revived their reading habit.",
+      "evidence": "A reader reported finding excellent books and new book-club ideas after browsing its categories.",
+      "evidence_sources": [
+        {
+          "comment_id": "49015025",
+          "comment_url": "https://news.ycombinator.com/item?id=49007247#49015025",
+          "author": "titanomachy",
+          "excerpt": "I sorted the \"technology\" and \"science\" sections and saw a few excellent books that I've read and a few that I would really like to read.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49007247"
+        }
+      ]
+    },
+    {
+      "category": "Learning & Creative",
+      "name": "Inksightful",
+      "thing_url": "https://inksightful.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022152",
+      "source_story_title": "Writing by hand is good for your brain",
+      "summary": "An iOS app that turns photographed handwriting into searchable digital text.",
+      "why_included": "Its maker described using it successfully to digitize handwritten diaries and general paper notes.",
+      "evidence": "The maker says the app worked for handwritten diaries and any handwritten paper.",
+      "evidence_sources": [
+        {
+          "comment_id": "49025018",
+          "comment_url": "https://news.ycombinator.com/item?id=49022152#49025018",
+          "author": "brian-dewey",
+          "excerpt": "I used it to digitize my handwritten diaries, but it works for any handwritten paper.",
+          "kind": "author_context",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49022152"
+        }
+      ]
+    },
+    {
+      "category": "Learning & Creative",
+      "name": "The Beam Engine",
+      "thing_url": "https://glinscott.github.io/beam-engine/",
+      "hn_url": "https://news.ycombinator.com/item?id=49007221",
+      "source_story_title": "The Beam Engine",
+      "summary": "An interactive visual explainer of the steam engine and its mechanical controls.",
+      "why_included": "The technical explainer earned direct praise for making a complex historic machine approachable.",
+      "evidence": "A reader explicitly said they loved the article.",
+      "evidence_sources": [
+        {
+          "comment_id": "49028921",
+          "comment_url": "https://news.ycombinator.com/item?id=49007221#49028921",
+          "author": "diggernet",
+          "excerpt": "Love this article!",
+          "kind": "recommendation",
+          "parent_comment_id": "49007221"
+        }
+      ]
+    },
+    {
+      "category": "Learning & Creative",
+      "name": "Pikuma",
+      "thing_url": "https://pikuma.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022038",
+      "source_story_title": "Software rendering in 500 lines of bare C++",
+      "summary": "A course library covering low-level programming, graphics, compilers, and game development.",
+      "why_included": "A learner praised its lectures after working through both compiler and 3D-renderer courses.",
+      "evidence": "A commenter called Gustavo's lectures great and reported using two of the courses.",
+      "evidence_sources": [
+        {
+          "comment_id": "49029731",
+          "comment_url": "https://news.ycombinator.com/item?id=49022038#49029731",
+          "author": "AlexeyBrin",
+          "excerpt": "Gustavo's lectures are great! I work through his Compiler lectures now and I bought the 3D renderer course too.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49028435"
+        }
+      ]
+    },
+    {
+      "category": "Learning & Creative",
+      "name": "LearnOpenGL",
+      "thing_url": "https://learnopengl.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022634",
+      "source_story_title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "summary": "A practical tutorial sequence for learning modern graphics programming with OpenGL.",
+      "why_included": "A commenter strongly endorsed it as a fundamentals-first route into computer graphics.",
+      "evidence": "A commenter urged graphics beginners to work through the site and its examples sequentially.",
+      "evidence_sources": [
+        {
+          "comment_id": "49024659",
+          "comment_url": "https://news.ycombinator.com/item?id=49022634#49024659",
+          "author": "cyber_kinetist",
+          "excerpt": "If you're starting to learn computer graphics, just study through the entire site and do the examples one by one.",
+          "kind": "recommendation",
+          "parent_comment_id": "49022634"
+        }
+      ]
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "Sokol",
+      "thing_url": "https://github.com/floooh/sokol",
+      "hn_url": "https://news.ycombinator.com/item?id=49022634",
+      "source_story_title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "summary": "A lightweight cross-platform C framework for graphics, audio, and application development.",
+      "why_included": "It was directly recommended as a practical next step after learning graphics fundamentals.",
+      "evidence": "A commenter recommended Sokol for applying the graphics knowledge gained from LearnOpenGL.",
+      "evidence_sources": [
+        {
+          "comment_id": "49023489",
+          "comment_url": "https://news.ycombinator.com/item?id=49022634#49023489",
+          "author": "AyanamiKaine",
+          "excerpt": "If you want to use the learned knowledge I would recommend to use something like Sokol",
+          "kind": "recommendation",
+          "parent_comment_id": "49022634"
+        }
+      ]
+    },
+    {
+      "category": "Learning & Creative",
+      "name": "Learn WebGPU for C++",
+      "thing_url": "https://eliemichel.github.io/LearnWebGPU/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022663",
+      "source_story_title": "Learn WebGPU for C++",
+      "summary": "A C++ tutorial for WebGPU graphics programming, from setup through rendering fundamentals.",
+      "why_included": "A practitioner called it the best WebGPU tutorial they found after using it in a project.",
+      "evidence": "A commenter said the resource taught them WebGPU and explicitly recommended it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49025755",
+          "comment_url": "https://news.ycombinator.com/item?id=49022663#49025755",
+          "author": "ChadNauseam",
+          "excerpt": "This resource taught me WebGPU a couple years ago. I can recommend it. It's the best WebGPU tutorial I've found.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49022663"
+        }
+      ]
+    },
+    {
+      "category": "Apps & Side Projects",
+      "name": "Palmier Pro",
+      "thing_url": "https://github.com/palmier-io/palmier-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=49022911",
+      "source_story_title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "summary": "An open-source native macOS video editor built around AI-assisted editing workflows.",
+      "why_included": "Independent commenters praised the project and its promotional demonstration.",
+      "evidence": "A commenter described the editor as very nice and its promo video as wonderful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49024974",
+          "comment_url": "https://news.ycombinator.com/item?id=49022911#49024974",
+          "author": "draw_down",
+          "excerpt": "I don't work with video but this seems very nice, and your promo video is wonderful. Great work!",
+          "kind": "recommendation",
+          "parent_comment_id": "49022911"
+        }
+      ]
+    },
+    {
+      "category": "Dev Tools & Workflows",
+      "name": "OneCLI",
+      "thing_url": "https://github.com/onecli/onecli",
+      "hn_url": "https://news.ycombinator.com/item?id=49023427",
+      "source_story_title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "summary": "An open-source credential gateway that keeps secrets outside AI-agent execution environments.",
+      "why_included": "The thread positively received its credential-broker pattern for isolating secrets from agents.",
+      "evidence": "A commenter called the project nice and described an analogous GitHub-specific safety proxy.",
+      "evidence_sources": [
+        {
+          "comment_id": "49025055",
+          "comment_url": "https://news.ycombinator.com/item?id=49023427#49025055",
+          "author": "denysvitali",
+          "excerpt": "Nice! I've built something like this, although specific to GitHub",
+          "kind": "recommendation",
+          "parent_comment_id": "49023427"
+        }
+      ]
+    },
+    {
+      "category": "AI & Local Models",
+      "name": "ModelScope",
+      "thing_url": "https://modelscope.ai/models",
+      "hn_url": "https://news.ycombinator.com/item?id=49023016",
+      "source_story_title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "summary": "A China-based model hub hosting open-weight models, finetunes, and quantized variants.",
+      "why_included": "It was directly suggested as a practical alternative catalog for Chinese open-weight models.",
+      "evidence": "A commenter recommended it as the Chinese Hugging Face equivalent for finding Chinese models.",
+      "evidence_sources": [
+        {
+          "comment_id": "49025501",
+          "comment_url": "https://news.ycombinator.com/item?id=49023016#49025501",
+          "author": "shixinhb",
+          "excerpt": "Instead you can use the Chinese version of huggingface with all Chinese models",
+          "kind": "recommendation",
+          "parent_comment_id": "49023016"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "sokol",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:sokol:49022634",
+  "mention_ids": [
+    "2026-07-24:sokol:49022634"
+  ],
+  "name": "Sokol",
+  "slug": "sokol",
+  "summary": "A lightweight cross-platform C framework for graphics, audio, and application development.",
+  "thing_url": "https://github.com/floooh/sokol",
+  "times_seen": 1,
+  "why_included": "It was directly recommended as a practical next step after learning graphics fundamentals."
+}

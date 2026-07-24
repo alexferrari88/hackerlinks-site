@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader reported finding excellent books and new book-club ideas after browsing its categories.",
+  "evidence_sources": [
+    {
+      "author": "titanomachy",
+      "comment_id": "49015025",
+      "comment_url": "https://news.ycombinator.com/item?id=49007247#49015025",
+      "context": "first_hand_use",
+      "excerpt": "I sorted the \"technology\" and \"science\" sections and saw a few excellent books that I've read and a few that I would really like to read.",
+      "kind": "recommendation",
+      "parent_comment_id": "49007247"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49007247",
+  "id": "2026-07-24:book-prize-index:49007247",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "book-prize-index",
+  "rank": 1,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49007247",
+  "source_story_title": "Quality non-fiction books are the antithesis of AI slop"
+}

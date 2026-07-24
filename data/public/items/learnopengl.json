@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "learnopengl",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:learnopengl:49022634",
+  "mention_ids": [
+    "2026-07-24:learnopengl:49022634"
+  ],
+  "name": "LearnOpenGL",
+  "slug": "learnopengl",
+  "summary": "A practical tutorial sequence for learning modern graphics programming with OpenGL.",
+  "thing_url": "https://learnopengl.com/",
+  "times_seen": 1,
+  "why_included": "A commenter strongly endorsed it as a fundamentals-first route into computer graphics."
+}

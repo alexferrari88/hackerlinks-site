@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "onecli",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:onecli:49023427",
+  "mention_ids": [
+    "2026-07-24:onecli:49023427"
+  ],
+  "name": "OneCLI",
+  "slug": "onecli",
+  "summary": "An open-source credential gateway that keeps secrets outside AI-agent execution environments.",
+  "thing_url": "https://github.com/onecli/onecli",
+  "times_seen": 1,
+  "why_included": "The thread positively received its credential-broker pattern for isolating secrets from agents."
+}

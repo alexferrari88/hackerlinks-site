@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Sokol for applying the graphics knowledge gained from LearnOpenGL.",
+  "evidence_sources": [
+    {
+      "author": "AyanamiKaine",
+      "comment_id": "49023489",
+      "comment_url": "https://news.ycombinator.com/item?id=49022634#49023489",
+      "excerpt": "If you want to use the learned knowledge I would recommend to use something like Sokol",
+      "kind": "recommendation",
+      "parent_comment_id": "49022634"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49022634",
+  "id": "2026-07-24:sokol:49022634",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "sokol",
+  "rank": 6,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49022634",
+  "source_story_title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL"
+}

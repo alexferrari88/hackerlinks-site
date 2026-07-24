@@ -1,0 +1,22 @@
+{
+  "evidence": "A reader explicitly said they loved the article.",
+  "evidence_sources": [
+    {
+      "author": "diggernet",
+      "comment_id": "49028921",
+      "comment_url": "https://news.ycombinator.com/item?id=49007221#49028921",
+      "excerpt": "Love this article!",
+      "kind": "recommendation",
+      "parent_comment_id": "49007221"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49007221",
+  "id": "2026-07-24:the-beam-engine:49007221",
+  "is_repeat": false,
+  "issue_id": "2026-07-24",
+  "item_id": "the-beam-engine",
+  "rank": 3,
+  "seen_at": "2026-07-24T03:17:58Z",
+  "source_story_id": "49007221",
+  "source_story_title": "The Beam Engine"
+}

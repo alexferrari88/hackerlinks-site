@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-24T03:17:58Z",
+  "id": "book-prize-index",
+  "last_seen_at": "2026-07-24T03:17:58Z",
+  "latest_mention_id": "2026-07-24:book-prize-index:49007247",
+  "mention_ids": [
+    "2026-07-24:book-prize-index:49007247"
+  ],
+  "name": "Book Prize Index",
+  "slug": "book-prize-index",
+  "summary": "A searchable nonfiction-book discovery site organized around literary and subject awards.",
+  "thing_url": "https://book-prize-index.vercel.app/",
+  "times_seen": 1,
+  "why_included": "A reader found strong technology and science picks and said it revived their reading habit."
+}
