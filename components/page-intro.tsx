@@ -25,8 +25,8 @@ export function PageIntro({ eyebrow, title, summary, meta, className }: PageIntr
             <span className="text-sm font-bold uppercase tracking-wider text-[var(--muted-foreground)]">At a glance:</span>
             {meta.map((entry) => (
               <Badge key={entry.label} variant={entry.accent ? "accent" : "default"} className="gap-1.5 px-3 py-1">
-                <span className={entry.accent ? "text-white/80" : "text-[var(--muted-foreground)]"}>{entry.label}:</span>
-                <span className={entry.accent ? "text-white" : "text-[var(--foreground)]"}>{entry.value}</span>
+                <span className={entry.accent ? "text-[var(--primary-foreground)]" : "text-[var(--muted-foreground)]"}>{entry.label}:</span>
+                <span className={entry.accent ? "text-[var(--primary-foreground)]" : "text-[var(--foreground)]"}>{entry.value}</span>
               </Badge>
             ))}
           </div>

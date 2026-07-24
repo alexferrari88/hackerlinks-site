@@ -12,7 +12,7 @@ const buttonVariants = cva(
     variants: {
       variant: {
         solid:
-          "bg-[var(--primary)] text-white shadow-[var(--shadow-offset)_var(--shadow-offset)_0_0_var(--shadow-color)] hover:-translate-y-0.5 hover:-translate-x-0.5 hover:shadow-[calc(var(--shadow-offset)*1.5)_calc(var(--shadow-offset)*1.5)_0_0_var(--shadow-color)] active:translate-y-[2px] active:translate-x-[2px] active:shadow-[2px_2px_0_0_var(--shadow-color)]",
+          "bg-[var(--primary)] text-[var(--primary-foreground)]! shadow-[var(--shadow-offset)_var(--shadow-offset)_0_0_var(--shadow-color)] hover:-translate-y-0.5 hover:-translate-x-0.5 hover:shadow-[calc(var(--shadow-offset)*1.5)_calc(var(--shadow-offset)*1.5)_0_0_var(--shadow-color)] active:translate-y-[2px] active:translate-x-[2px] active:shadow-[2px_2px_0_0_var(--shadow-color)]",
         frame:
           "bg-[var(--surface)] text-[var(--foreground)] shadow-[var(--shadow-offset)_var(--shadow-offset)_0_0_var(--shadow-color)] hover:-translate-y-0.5 hover:-translate-x-0.5 hover:bg-[var(--muted)] hover:shadow-[calc(var(--shadow-offset)*1.5)_calc(var(--shadow-offset)*1.5)_0_0_var(--shadow-color)] active:translate-y-[2px] active:translate-x-[2px] active:shadow-[2px_2px_0_0_var(--shadow-color)]",
         ghost:

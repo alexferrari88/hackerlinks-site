@@ -39,13 +39,13 @@
   --popover: #ffffff;
   --popover-foreground: #09090b;
   --primary: #ff6600; /* Hacker News Orange */
-  --primary-foreground: #ffffff;
+  --primary-foreground: #09090b;
   --secondary: #e4e4e7;
   --secondary-foreground: #09090b;
   --muted: #f4f4f5;
   --muted-foreground: #71717a;
   --accent: #ff6600;
-  --accent-foreground: #ffffff;
+  --accent-foreground: #09090b;
   --destructive: #ef4444;
   --destructive-foreground: #fafafa;
   --border: #000000; /* Brutalist thick black borders */
@@ -73,13 +73,13 @@
   --popover: #121214;
   --popover-foreground: #fdfaf6;
   --primary: #ff6600; /* Hacker News Orange */
-  --primary-foreground: #ffffff;
+  --primary-foreground: #09090b;
   --secondary: #27272a;
   --secondary-foreground: #fdfaf6;
   --muted: #27272a;
   --muted-foreground: #a1a1aa;
   --accent: #ff6600;
-  --accent-foreground: #ffffff;
+  --accent-foreground: #09090b;
   --destructive: #7f1d1d;
   --destructive-foreground: #fdfaf6;
   --border: #fdfaf6; /* Brutalist white borders in dark mode */
