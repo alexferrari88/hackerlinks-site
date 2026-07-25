@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "ideogram-4",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:ideogram-4:49031796",
+  "mention_ids": [
+    "2026-07-25:ideogram-4:49031796"
+  ],
+  "name": "Ideogram 4",
+  "slug": "ideogram-4",
+  "summary": "Open-weight text-to-image model focused on layout, text rendering, and design work.",
+  "thing_url": "https://ideogram.ai/models/4.0/",
+  "times_seen": 1,
+  "why_included": "A practitioner running a high-traffic image-model site called it the best current open-weights option for text-to-image."
+}

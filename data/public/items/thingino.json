@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "thingino",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:thingino:49034292",
+  "mention_ids": [
+    "2026-07-25:thingino:49034292"
+  ],
+  "name": "Thingino",
+  "slug": "thingino",
+  "summary": "Open firmware for supported IP cameras, with straightforward SD-card installation.",
+  "thing_url": "https://thingino.com/",
+  "times_seen": 1,
+  "why_included": "Two commenters provided concrete, successful installation and day-to-day-use reports."
+}

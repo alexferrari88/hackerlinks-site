@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said their team found the process dramatically improved agent-assisted development when moving from 1 to 100.",
+  "evidence_sources": [
+    {
+      "author": "sharathr",
+      "comment_id": "49044094",
+      "comment_url": "https://news.ycombinator.com/item?id=49033004#49044094",
+      "context": "production_use",
+      "excerpt": "we found that using a stable AI-SDLC process like: https://github.com/highflame-ai/ai-factory improves code agent assisted development dramatically specially when going from 1-100.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49033004",
+  "id": "2026-07-25:ai-factory:49033004",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "ai-factory",
+  "rank": 3,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49033004",
+  "source_story_title": "If coding has been solved, why does software keep getting worse?"
+}

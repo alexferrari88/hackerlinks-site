@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "comfyui-kjnodes",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:comfyui-kjnodes:49031796",
+  "mention_ids": [
+    "2026-07-25:comfyui-kjnodes:49031796"
+  ],
+  "name": "ComfyUI-KJNodes",
+  "slug": "comfyui-kjnodes",
+  "summary": "ComfyUI node collection that includes structured prompt-building support for image generation.",
+  "thing_url": "https://github.com/kijai/ComfyUI-KJNodes",
+  "times_seen": 1,
+  "why_included": "It was suggested as an out-of-the-box way to handle Ideogram 4's structured JSON prompts."
+}

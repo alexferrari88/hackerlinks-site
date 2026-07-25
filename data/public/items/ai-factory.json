@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "ai-factory",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:ai-factory:49033004",
+  "mention_ids": [
+    "2026-07-25:ai-factory:49033004"
+  ],
+  "name": "AI Factory",
+  "slug": "ai-factory",
+  "summary": "An AI-assisted software-development process for taking products from early build to scale.",
+  "thing_url": "https://github.com/highflame-ai/ai-factory",
+  "times_seen": 1,
+  "why_included": "It was reported to materially improve code-agent-assisted development in a real workflow."
+}

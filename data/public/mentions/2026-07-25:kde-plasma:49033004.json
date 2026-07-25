@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter specifically praised KDE Plasma's global focus-stealing setting and said they miss it on macOS and Windows.",
+  "evidence_sources": [
+    {
+      "author": "frameset",
+      "comment_id": "49033527",
+      "comment_url": "https://news.ycombinator.com/item?id=49033004#49033527",
+      "context": "first_hand_use",
+      "excerpt": "One of my absolute favourite features on KDE Plasma with Wayland is the global setting to control what can steal focus. It works wonderfully, and I always miss it when I have to use my work mac or windows computers.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49033004",
+  "id": "2026-07-25:kde-plasma:49033004",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "kde-plasma",
+  "rank": 2,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49033004",
+  "source_story_title": "If coding has been solved, why does software keep getting worse?"
+}

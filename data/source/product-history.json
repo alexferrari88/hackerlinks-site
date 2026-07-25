@@ -5953,6 +5953,60 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "Thingino",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "KDE Plasma",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AI Factory",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CachyOS",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ideogram 4",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ComfyUI-KJNodes",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Brick",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Next Spaceflight",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "When the Heavens Went on Sale",
+      "first_reported_at": "2026-07-25T05:16:59+02:00",
+      "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
     }
   ]
 }

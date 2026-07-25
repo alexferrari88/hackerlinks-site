@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "brick",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:brick:49032660",
+  "mention_ids": [
+    "2026-07-25:brick:49032660"
+  ],
+  "name": "Brick",
+  "slug": "brick",
+  "summary": "A physical device that blocks selected distracting apps on a smartphone.",
+  "thing_url": "https://getbrick.com/",
+  "times_seen": 1,
+  "why_included": "A recent purchaser gave an unusually strong direct recommendation for reducing social-media use."
+}

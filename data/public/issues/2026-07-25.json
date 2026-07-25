@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T05:16:59+02:00",
+  "headline": "9 interesting things surfaced from HN on 2026-07-25",
+  "id": "2026-07-25",
+  "mention_ids": [
+    "2026-07-25:thingino:49034292",
+    "2026-07-25:kde-plasma:49033004",
+    "2026-07-25:ai-factory:49033004",
+    "2026-07-25:cachyos:49033004",
+    "2026-07-25:ideogram-4:49031796",
+    "2026-07-25:comfyui-kjnodes:49031796",
+    "2026-07-25:brick:49032660",
+    "2026-07-25:next-spaceflight:48973835",
+    "2026-07-25:when-the-heavens-went-on-sale:48973835"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

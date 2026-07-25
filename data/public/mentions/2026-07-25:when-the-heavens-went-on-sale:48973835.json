@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommended the book and noted that it profiles Astra, Firefly, Planet Labs, and Rocket Lab.",
+  "evidence_sources": [
+    {
+      "author": "josefresco",
+      "comment_id": "49037548",
+      "comment_url": "https://news.ycombinator.com/item?id=48973835#49037548",
+      "context": "first_hand_use",
+      "excerpt": "For those interested, just read a great book on this topic: When the Heavens Went on Sale by Ashlee Vance",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=48973835",
+  "id": "2026-07-25:when-the-heavens-went-on-sale:48973835",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "when-the-heavens-went-on-sale",
+  "rank": 9,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "48973835",
+  "source_story_title": "India's first privately-developed rocket reaches orbit on debut launch"
+}

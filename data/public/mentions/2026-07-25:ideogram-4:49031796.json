@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported that Ideogram 4 outperformed Flux.2 in their prompt-adherence comparison and called it the best open-weights option for text-to-image.",
+  "evidence_sources": [
+    {
+      "author": "vunderba",
+      "comment_id": "49038190",
+      "comment_url": "https://news.ycombinator.com/item?id=49031796#49038190",
+      "context": "production_use",
+      "excerpt": "Ideogram 4 is probably the best option",
+      "kind": "recommendation",
+      "parent_comment_id": "49038058"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49031796",
+  "id": "2026-07-25:ideogram-4:49031796",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "ideogram-4",
+  "rank": 5,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49031796",
+  "source_story_title": "Flux 3"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "kde-plasma",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:kde-plasma:49033004",
+  "mention_ids": [
+    "2026-07-25:kde-plasma:49033004"
+  ],
+  "name": "KDE Plasma",
+  "slug": "kde-plasma",
+  "summary": "Linux desktop environment with configurable prevention of unwanted focus stealing.",
+  "thing_url": "https://kde.org/plasma-desktop/",
+  "times_seen": 1,
+  "why_included": "A firsthand user called its focus-stealing control a favourite feature that works wonderfully."
+}

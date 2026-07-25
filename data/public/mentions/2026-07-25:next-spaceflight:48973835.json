@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they had recently discovered the site and described it as showing all upcoming rocket launches.",
+  "evidence_sources": [
+    {
+      "author": "ck2",
+      "comment_id": "49038242",
+      "comment_url": "https://news.ycombinator.com/item?id=48973835#49038242",
+      "context": "first_hand_use",
+      "excerpt": "btw recently discovered this neat website that shows ALL upcoming rocket launches",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=48973835",
+  "id": "2026-07-25:next-spaceflight:48973835",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "next-spaceflight",
+  "rank": 8,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "48973835",
+  "source_story_title": "India's first privately-developed rocket reaches orbit on debut launch"
+}

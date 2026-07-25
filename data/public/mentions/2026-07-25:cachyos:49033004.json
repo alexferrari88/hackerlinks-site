@@ -1,0 +1,32 @@
+{
+  "evidence": "One user reported six months with only one brief driver issue, while another said games needed minimal fussing and the desktop was strong out of the box.",
+  "evidence_sources": [
+    {
+      "author": "pixard",
+      "comment_id": "49035951",
+      "comment_url": "https://news.ycombinator.com/item?id=49033004#49035951",
+      "context": "first_hand_use",
+      "excerpt": "Hey may I suggest CachyOS + KDE? It\u2019s very gaming oriented and you have a lot of great built in features. Everything just works.",
+      "kind": "recommendation",
+      "parent_comment_id": "49035690"
+    },
+    {
+      "author": "BoxOfRain",
+      "comment_id": "49037457",
+      "comment_url": "https://news.ycombinator.com/item?id=49033004#49037457",
+      "context": "first_hand_use",
+      "excerpt": "Another vote of confidence for CachyOS + KDE!",
+      "kind": "recommendation",
+      "parent_comment_id": "49035951"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49033004",
+  "id": "2026-07-25:cachyos:49033004",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "cachyos",
+  "rank": 4,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49033004",
+  "source_story_title": "If coding has been solved, why does software keep getting worse?"
+}

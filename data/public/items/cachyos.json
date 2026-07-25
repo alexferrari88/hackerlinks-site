@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "cachyos",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:cachyos:49033004",
+  "mention_ids": [
+    "2026-07-25:cachyos:49033004"
+  ],
+  "name": "CachyOS",
+  "slug": "cachyos",
+  "summary": "Performance-focused Arch Linux distribution with a KDE desktop option for gaming.",
+  "thing_url": "https://cachyos.org/",
+  "times_seen": 1,
+  "why_included": "Two first-hand reports praised its smooth gaming support and usable out-of-box desktop."
+}

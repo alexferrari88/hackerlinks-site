@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they could not recommend Brick enough for cutting back on social media.",
+  "evidence_sources": [
+    {
+      "author": "morelandjs",
+      "comment_id": "49034696",
+      "comment_url": "https://news.ycombinator.com/item?id=49032660#49034696",
+      "context": "first_hand_use",
+      "excerpt": "Unsolicited endorsement, but I bought a \u201cBrick\u201d device recently, and I can\u2019t recommend it enough for cutting back on social media.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49032660",
+  "id": "2026-07-25:brick:49032660",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "brick",
+  "rank": 7,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49032660",
+  "source_story_title": "It's getting harder to focus every day"
+}

@@ -1,0 +1,232 @@
+{
+  "version": 2,
+  "run_date": "2026-07-25",
+  "generated_at": "2026-07-25T05:16:59+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-25.json",
+    "sha256": "cdaf431b6b95ce5ed9399f737d03665e5094976e3ca130d64ee884874f4d3803",
+    "bytes": 3553718,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5718,
+    "fetched_item_count": 5748,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Nine concrete, comment-endorsed tools, a book, and a launch tracker surfaced from 5,718 fully crawled comments.",
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Thingino",
+      "category": "Privacy & Home Tech",
+      "thing_url": "https://thingino.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49034292",
+      "source_story_title": "My security camera shipped a GitHub admin token in its login page",
+      "summary": "Open firmware for supported IP cameras, with straightforward SD-card installation.",
+      "why_included": "Two commenters provided concrete, successful installation and day-to-day-use reports.",
+      "evidence": "One commenter upgraded two supported Sonoff cameras without issues, and another found the interface useful after an easy installation.",
+      "evidence_sources": [
+        {
+          "comment_id": "49039936",
+          "comment_url": "https://news.ycombinator.com/item?id=49034292#49039936",
+          "author": "makefu",
+          "excerpt": "The installation is straight forward if you choose a cam with SD-Card flashing support. I upgraded two of the Sonoff Slim Gen2 without any issues.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49037936"
+        },
+        {
+          "comment_id": "49043436",
+          "comment_url": "https://news.ycombinator.com/item?id=49034292#49043436",
+          "author": "jonah",
+          "excerpt": "I bought the cheapest PTZ camera they have listed and, as you say the install was easy. The interface is useful and it does what it says on the tin.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49039936"
+        }
+      ]
+    },
+    {
+      "name": "KDE Plasma",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://kde.org/plasma-desktop/",
+      "hn_url": "https://news.ycombinator.com/item?id=49033004",
+      "source_story_title": "If coding has been solved, why does software keep getting worse?",
+      "summary": "Linux desktop environment with configurable prevention of unwanted focus stealing.",
+      "why_included": "A firsthand user called its focus-stealing control a favourite feature that works wonderfully.",
+      "evidence": "A commenter specifically praised KDE Plasma's global focus-stealing setting and said they miss it on macOS and Windows.",
+      "evidence_sources": [
+        {
+          "comment_id": "49033527",
+          "comment_url": "https://news.ycombinator.com/item?id=49033004#49033527",
+          "author": "frameset",
+          "excerpt": "One of my absolute favourite features on KDE Plasma with Wayland is the global setting to control what can steal focus. It works wonderfully, and I always miss it when I have to use my work mac or windows computers.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "AI Factory",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/highflame-ai/ai-factory",
+      "hn_url": "https://news.ycombinator.com/item?id=49033004",
+      "source_story_title": "If coding has been solved, why does software keep getting worse?",
+      "summary": "An AI-assisted software-development process for taking products from early build to scale.",
+      "why_included": "It was reported to materially improve code-agent-assisted development in a real workflow.",
+      "evidence": "A commenter said their team found the process dramatically improved agent-assisted development when moving from 1 to 100.",
+      "evidence_sources": [
+        {
+          "comment_id": "49044094",
+          "comment_url": "https://news.ycombinator.com/item?id=49033004#49044094",
+          "author": "sharathr",
+          "excerpt": "we found that using a stable AI-SDLC process like: https://github.com/highflame-ai/ai-factory improves code agent assisted development dramatically specially when going from 1-100.",
+          "kind": "recommendation",
+          "context": "production_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "CachyOS",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://cachyos.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49033004",
+      "source_story_title": "If coding has been solved, why does software keep getting worse?",
+      "summary": "Performance-focused Arch Linux distribution with a KDE desktop option for gaming.",
+      "why_included": "Two first-hand reports praised its smooth gaming support and usable out-of-box desktop.",
+      "evidence": "One user reported six months with only one brief driver issue, while another said games needed minimal fussing and the desktop was strong out of the box.",
+      "evidence_sources": [
+        {
+          "comment_id": "49035951",
+          "comment_url": "https://news.ycombinator.com/item?id=49033004#49035951",
+          "author": "pixard",
+          "excerpt": "Hey may I suggest CachyOS + KDE? It’s very gaming oriented and you have a lot of great built in features. Everything just works.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49035690"
+        },
+        {
+          "comment_id": "49037457",
+          "comment_url": "https://news.ycombinator.com/item?id=49033004#49037457",
+          "author": "BoxOfRain",
+          "excerpt": "Another vote of confidence for CachyOS + KDE!",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49035951"
+        }
+      ]
+    },
+    {
+      "name": "Ideogram 4",
+      "category": "AI & Local Models",
+      "thing_url": "https://ideogram.ai/models/4.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=49031796",
+      "source_story_title": "Flux 3",
+      "summary": "Open-weight text-to-image model focused on layout, text rendering, and design work.",
+      "why_included": "A practitioner running a high-traffic image-model site called it the best current open-weights option for text-to-image.",
+      "evidence": "The commenter reported that Ideogram 4 outperformed Flux.2 in their prompt-adherence comparison and called it the best open-weights option for text-to-image.",
+      "evidence_sources": [
+        {
+          "comment_id": "49038190",
+          "comment_url": "https://news.ycombinator.com/item?id=49031796#49038190",
+          "author": "vunderba",
+          "excerpt": "Ideogram 4 is probably the best option",
+          "kind": "recommendation",
+          "context": "production_use",
+          "parent_comment_id": "49038058"
+        }
+      ]
+    },
+    {
+      "name": "ComfyUI-KJNodes",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/kijai/ComfyUI-KJNodes",
+      "hn_url": "https://news.ycombinator.com/item?id=49031796",
+      "source_story_title": "Flux 3",
+      "summary": "ComfyUI node collection that includes structured prompt-building support for image generation.",
+      "why_included": "It was suggested as an out-of-the-box way to handle Ideogram 4's structured JSON prompts.",
+      "evidence": "A commenter who uses a Qwen prompt preprocessor said the KJ prompt-builder node handles the required format out of the box.",
+      "evidence_sources": [
+        {
+          "comment_id": "49041672",
+          "comment_url": "https://news.ycombinator.com/item?id=49031796#49041672",
+          "author": "vunderba",
+          "excerpt": "I think that the KJ prompt builder node handles this out of the box in ComfyUI.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49041535"
+        }
+      ]
+    },
+    {
+      "name": "Brick",
+      "category": "Focus & Wellbeing",
+      "thing_url": "https://getbrick.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49032660",
+      "source_story_title": "It's getting harder to focus every day",
+      "summary": "A physical device that blocks selected distracting apps on a smartphone.",
+      "why_included": "A recent purchaser gave an unusually strong direct recommendation for reducing social-media use.",
+      "evidence": "A commenter said they could not recommend Brick enough for cutting back on social media.",
+      "evidence_sources": [
+        {
+          "comment_id": "49034696",
+          "comment_url": "https://news.ycombinator.com/item?id=49032660#49034696",
+          "author": "morelandjs",
+          "excerpt": "Unsolicited endorsement, but I bought a “Brick” device recently, and I can’t recommend it enough for cutting back on social media.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Next Spaceflight",
+      "category": "Science & Space",
+      "thing_url": "https://nextspaceflight.com/launches/",
+      "hn_url": "https://news.ycombinator.com/item?id=48973835",
+      "source_story_title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "summary": "A website tracking upcoming rocket launches across providers and missions.",
+      "why_included": "A commenter explicitly recommended it as a neat way to see all upcoming launches.",
+      "evidence": "A commenter said they had recently discovered the site and described it as showing all upcoming rocket launches.",
+      "evidence_sources": [
+        {
+          "comment_id": "49038242",
+          "comment_url": "https://news.ycombinator.com/item?id=48973835#49038242",
+          "author": "ck2",
+          "excerpt": "btw recently discovered this neat website that shows ALL upcoming rocket launches",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "When the Heavens Went on Sale",
+      "category": "Books & Learning",
+      "thing_url": "https://www.harpercollins.com/products/when-the-heavens-went-on-sale-ashlee-vance",
+      "hn_url": "https://news.ycombinator.com/item?id=48973835",
+      "source_story_title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "summary": "Ashlee Vance's book about private companies reshaping launch and satellite infrastructure.",
+      "why_included": "A commenter called it a great book for readers interested in private-space development.",
+      "evidence": "A commenter recommended the book and noted that it profiles Astra, Firefly, Planet Labs, and Rocket Lab.",
+      "evidence_sources": [
+        {
+          "comment_id": "49037548",
+          "comment_url": "https://news.ycombinator.com/item?id=48973835#49037548",
+          "author": "josefresco",
+          "excerpt": "For those interested, just read a great book on this topic: When the Heavens Went on Sale by Ashlee Vance",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    }
+  ]
+}

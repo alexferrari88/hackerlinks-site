@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-25T05:16:59+02:00",
+  "id": "next-spaceflight",
+  "last_seen_at": "2026-07-25T05:16:59+02:00",
+  "latest_mention_id": "2026-07-25:next-spaceflight:48973835",
+  "mention_ids": [
+    "2026-07-25:next-spaceflight:48973835"
+  ],
+  "name": "Next Spaceflight",
+  "slug": "next-spaceflight",
+  "summary": "A website tracking upcoming rocket launches across providers and missions.",
+  "thing_url": "https://nextspaceflight.com/launches/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended it as a neat way to see all upcoming launches."
+}

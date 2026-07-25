@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who uses a Qwen prompt preprocessor said the KJ prompt-builder node handles the required format out of the box.",
+  "evidence_sources": [
+    {
+      "author": "vunderba",
+      "comment_id": "49041672",
+      "comment_url": "https://news.ycombinator.com/item?id=49031796#49041672",
+      "context": "first_hand_use",
+      "excerpt": "I think that the KJ prompt builder node handles this out of the box in ComfyUI.",
+      "kind": "recommendation",
+      "parent_comment_id": "49041535"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49031796",
+  "id": "2026-07-25:comfyui-kjnodes:49031796",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "comfyui-kjnodes",
+  "rank": 6,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49031796",
+  "source_story_title": "Flux 3"
+}

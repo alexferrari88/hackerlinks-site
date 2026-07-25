@@ -1,0 +1,32 @@
+{
+  "evidence": "One commenter upgraded two supported Sonoff cameras without issues, and another found the interface useful after an easy installation.",
+  "evidence_sources": [
+    {
+      "author": "makefu",
+      "comment_id": "49039936",
+      "comment_url": "https://news.ycombinator.com/item?id=49034292#49039936",
+      "context": "first_hand_use",
+      "excerpt": "The installation is straight forward if you choose a cam with SD-Card flashing support. I upgraded two of the Sonoff Slim Gen2 without any issues.",
+      "kind": "recommendation",
+      "parent_comment_id": "49037936"
+    },
+    {
+      "author": "jonah",
+      "comment_id": "49043436",
+      "comment_url": "https://news.ycombinator.com/item?id=49034292#49043436",
+      "context": "first_hand_use",
+      "excerpt": "I bought the cheapest PTZ camera they have listed and, as you say the install was easy. The interface is useful and it does what it says on the tin.",
+      "kind": "recommendation",
+      "parent_comment_id": "49039936"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49034292",
+  "id": "2026-07-25:thingino:49034292",
+  "is_repeat": false,
+  "issue_id": "2026-07-25",
+  "item_id": "thingino",
+  "rank": 1,
+  "seen_at": "2026-07-25T05:16:59+02:00",
+  "source_story_id": "49034292",
+  "source_story_title": "My security camera shipped a GitHub admin token in its login page"
+}
