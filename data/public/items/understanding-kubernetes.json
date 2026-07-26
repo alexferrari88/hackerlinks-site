@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "understanding-kubernetes",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:understanding-kubernetes:49048034",
+  "mention_ids": [
+    "2026-07-26:understanding-kubernetes:49048034"
+  ],
+  "name": "Understanding Kubernetes",
+  "slug": "understanding-kubernetes",
+  "summary": "A hands-on exercise series for building intuition about Docker and Kubernetes.",
+  "thing_url": "https://ojensen.net/infra/understanding-k8s-1",
+  "times_seen": 1,
+  "why_included": "It is a concrete learning resource backed by a first-hand endorsement after completing the exercises."
+}

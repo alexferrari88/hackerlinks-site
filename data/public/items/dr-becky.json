@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "dr-becky",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:dr-becky:49014034",
+  "mention_ids": [
+    "2026-07-26:dr-becky:49014034"
+  ],
+  "name": "Dr Becky",
+  "slug": "dr-becky",
+  "summary": "A science video channel covering astronomy and space policy with energetic commentary.",
+  "thing_url": "https://www.youtube.com/watch?v=Rr52wOlyOaM",
+  "times_seen": 1,
+  "why_included": "A commenter specifically highlighted the presenter\u2019s knowledge and infectious enthusiasm."
+}

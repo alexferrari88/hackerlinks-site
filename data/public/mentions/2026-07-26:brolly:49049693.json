@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter praised Brolly\u2019s interactivity and better mobile experience than wttr.in.",
+  "evidence_sources": [
+    {
+      "author": "speerer",
+      "comment_id": "49051122",
+      "comment_url": "https://news.ycombinator.com/item?id=49049693#49051122",
+      "context": "first_hand_use",
+      "excerpt": "Love it. This reminds me of wttr.in, but with the benefit of interactivity and that it works much better on mobile.",
+      "kind": "recommendation",
+      "parent_comment_id": "49049693"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49049693",
+  "id": "2026-07-26:brolly:49049693",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "brolly",
+  "rank": 1,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49049693",
+  "source_story_title": "Show HN: Brolly, a plain-text weather forecast site"
+}

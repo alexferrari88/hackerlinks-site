@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "didder",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:didder:49006096",
+  "mention_ids": [
+    "2026-07-26:didder:49006096"
+  ],
+  "name": "Didder",
+  "slug": "didder",
+  "summary": "A dithering tool for image conversion, including six-color e-ink preparation.",
+  "thing_url": "https://github.com/makew0rld/didder",
+  "times_seen": 1,
+  "why_included": "It is a concrete, first-hand recommendation for practical e-ink image preprocessing."
+}

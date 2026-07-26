@@ -1,0 +1,23 @@
+{
+  "evidence": "Its creator recommended contributing to OpenStreetMap through the Bookcases map.",
+  "evidence_sources": [
+    {
+      "author": "pietervdvn",
+      "comment_id": "49047133",
+      "comment_url": "https://news.ycombinator.com/item?id=49012604#49047133",
+      "context": "author_or_maintainer",
+      "excerpt": "we'd better all contribute to OpenStreetMap",
+      "kind": "author_context",
+      "parent_comment_id": "49046047"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49012604",
+  "id": "2026-07-26:mapcomplete-bookcases:49012604",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "mapcomplete-bookcases",
+  "rank": 9,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49012604",
+  "source_story_title": "Book Corners: Community map of neighborhood book exchange spots"
+}

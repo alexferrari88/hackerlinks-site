@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who uses head, eye, and facial tracking said they would really love this device.",
+  "evidence_sources": [
+    {
+      "author": "arm32",
+      "comment_id": "49047720",
+      "comment_url": "https://news.ycombinator.com/item?id=49045446#49047720",
+      "context": "first_hand_use",
+      "excerpt": "As someone who uses head, eye and facial gesture tracking regularly while doing long medical treatments which tie up both my hands, I would really love something like this.",
+      "kind": "recommendation",
+      "parent_comment_id": "49045446"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49045446",
+  "id": "2026-07-26:mouthpad:49045446",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "mouthpad",
+  "rank": 5,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49045446",
+  "source_story_title": "MouthPad: A Tongue-Controlled Touchpad"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "juice",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:juice:48976262",
+  "mention_ids": [
+    "2026-07-26:juice:48976262"
+  ],
+  "name": "Juice",
+  "slug": "juice",
+  "summary": "An interactive visual explainer for adding satisfying feedback to interface controls.",
+  "thing_url": "https://garden.bradwoods.io/notes/design/juice",
+  "times_seen": 1,
+  "why_included": "It is a specific, enthusiastically endorsed resource for studying interaction polish."
+}

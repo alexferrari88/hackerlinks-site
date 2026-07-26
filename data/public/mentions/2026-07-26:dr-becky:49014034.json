@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended a recent Dr Becky episode and praised her knowledge and enthusiasm.",
+  "evidence_sources": [
+    {
+      "author": "ck2",
+      "comment_id": "49046689",
+      "comment_url": "https://news.ycombinator.com/item?id=49014034#49046689",
+      "excerpt": "her knowledge + enthusiasm is infectious, love it",
+      "kind": "recommendation",
+      "parent_comment_id": "49014034"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49014034",
+  "id": "2026-07-26:dr-becky:49014034",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "dr-becky",
+  "rank": 8,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49014034",
+  "source_story_title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico"
+}

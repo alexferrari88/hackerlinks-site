@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter described pairing wireproxy with browser containers as extremely useful for per-container VPN routing.",
+  "evidence_sources": [
+    {
+      "author": "nbaksalyar",
+      "comment_id": "49046276",
+      "comment_url": "https://news.ycombinator.com/item?id=48995409#49046276",
+      "context": "first_hand_use",
+      "excerpt": "I pair it with wireproxy [0]. This way you can assign any Wireguard-capable VPN for specific containers. It's extremely useful.",
+      "kind": "recommendation",
+      "parent_comment_id": "48996206"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=48995409",
+  "id": "2026-07-26:wireproxy:48995409",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "wireproxy",
+  "rank": 4,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "48995409",
+  "source_story_title": "Firefox Containers Preview"
+}

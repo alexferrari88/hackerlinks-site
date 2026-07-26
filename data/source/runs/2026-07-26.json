@@ -1,0 +1,219 @@
+{
+  "version": 2,
+  "run_date": "2026-07-26",
+  "generated_at": "2026-07-26T06:09:53+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-26.json",
+    "sha256": "308d315b22b07adcbe8102c26d54369096c996cdd59804e7a884ca321a07a19c",
+    "bytes": 1974417,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3157,
+    "fetched_item_count": 3187,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Nine concrete, comment-endorsed tools, guides, and places surfaced from 30 fully crawled front-page stories.",
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Brolly",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://brolly.sh/forecast/RWFP2qW8",
+      "hn_url": "https://news.ycombinator.com/item?id=49049693",
+      "source_story_title": "Show HN: Brolly, a plain-text weather forecast site",
+      "summary": "A compact, text-first weather forecast site with mobile-friendly interactivity.",
+      "why_included": "A commenter preferred it to wttr.in for interactive, narrow-screen weather checks.",
+      "evidence": "One commenter praised Brolly’s interactivity and better mobile experience than wttr.in.",
+      "evidence_sources": [
+        {
+          "comment_id": "49051122",
+          "comment_url": "https://news.ycombinator.com/item?id=49049693#49051122",
+          "author": "speerer",
+          "excerpt": "Love it. This reminds me of wttr.in, but with the benefit of interactivity and that it works much better on mobile.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49049693"
+        }
+      ]
+    },
+    {
+      "name": "Didder",
+      "category": "Creative Tools",
+      "thing_url": "https://github.com/makew0rld/didder",
+      "hn_url": "https://news.ycombinator.com/item?id=49006096",
+      "source_story_title": "How My Images Are Dithered",
+      "summary": "A dithering tool for image conversion, including six-color e-ink preparation.",
+      "why_included": "It is a concrete, first-hand recommendation for practical e-ink image preprocessing.",
+      "evidence": "A commenter called Didder a good dithering tool and described using it for six-color e-ink displays.",
+      "evidence_sources": [
+        {
+          "comment_id": "49048912",
+          "comment_url": "https://news.ycombinator.com/item?id=49006096#49048912",
+          "author": "ectoloph",
+          "excerpt": "Didder[0] is a good tool for dithering. I use it to pre-process images for the 6-color e-ink displays.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49006096"
+        }
+      ]
+    },
+    {
+      "name": "Juice",
+      "category": "Design & UX",
+      "thing_url": "https://garden.bradwoods.io/notes/design/juice",
+      "hn_url": "https://news.ycombinator.com/item?id=48976262",
+      "source_story_title": "Stolen Buttons",
+      "summary": "An interactive visual explainer for adding satisfying feedback to interface controls.",
+      "why_included": "It is a specific, enthusiastically endorsed resource for studying interaction polish.",
+      "evidence": "A commenter described the site as an amazing demonstration of visual, audio, and haptic interface feedback.",
+      "evidence_sources": [
+        {
+          "comment_id": "49053940",
+          "comment_url": "https://news.ycombinator.com/item?id=48976262#49053940",
+          "author": "1zael",
+          "excerpt": "Brad Woods has an amazing website dynamically illustrating the concept of \"juice\"",
+          "kind": "recommendation",
+          "parent_comment_id": "48976262"
+        },
+        {
+          "comment_id": "49054222",
+          "comment_url": "https://news.ycombinator.com/item?id=48976262#49054222",
+          "author": "chrisweekly",
+          "excerpt": "Yes! Awesome site and post, I'd forgotten about it. Thanks for sharing!",
+          "kind": "recommendation",
+          "parent_comment_id": "49053940"
+        }
+      ]
+    },
+    {
+      "name": "wireproxy",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/windtf/wireproxy",
+      "hn_url": "https://news.ycombinator.com/item?id=48995409",
+      "source_story_title": "Firefox Containers Preview",
+      "summary": "A WireGuard-to-SOCKS proxy for routing selected browser containers through specific VPNs.",
+      "why_included": "It was directly recommended as a practical way to route individual containers through WireGuard-capable VPNs.",
+      "evidence": "A commenter described pairing wireproxy with browser containers as extremely useful for per-container VPN routing.",
+      "evidence_sources": [
+        {
+          "comment_id": "49046276",
+          "comment_url": "https://news.ycombinator.com/item?id=48995409#49046276",
+          "author": "nbaksalyar",
+          "excerpt": "I pair it with wireproxy [0]. This way you can assign any Wireguard-capable VPN for specific containers. It's extremely useful.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "48996206"
+        }
+      ]
+    },
+    {
+      "name": "MouthPad",
+      "category": "Accessibility Hardware",
+      "thing_url": "https://www.augmental.tech/",
+      "hn_url": "https://news.ycombinator.com/item?id=49045446",
+      "source_story_title": "MouthPad: A Tongue-Controlled Touchpad",
+      "summary": "A tongue-controlled touchpad designed to provide hands-free computer access.",
+      "why_included": "It received a clear use-case endorsement from someone who relies on alternative input during medical treatment.",
+      "evidence": "A commenter who uses head, eye, and facial tracking said they would really love this device.",
+      "evidence_sources": [
+        {
+          "comment_id": "49047720",
+          "comment_url": "https://news.ycombinator.com/item?id=49045446#49047720",
+          "author": "arm32",
+          "excerpt": "As someone who uses head, eye and facial gesture tracking regularly while doing long medical treatments which tie up both my hands, I would really love something like this.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49045446"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Kubernetes",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://ojensen.net/infra/understanding-k8s-1",
+      "hn_url": "https://news.ycombinator.com/item?id=49048034",
+      "source_story_title": "Open-weight AI is having its Kubernetes moment",
+      "summary": "A hands-on exercise series for building intuition about Docker and Kubernetes.",
+      "why_included": "It is a concrete learning resource backed by a first-hand endorsement after completing the exercises.",
+      "evidence": "A commenter called the exercises neat and wished they had learned Kubernetes through them earlier.",
+      "evidence_sources": [
+        {
+          "comment_id": "49049485",
+          "comment_url": "https://news.ycombinator.com/item?id=49048034#49049485",
+          "author": "chias",
+          "excerpt": "It's actually really neat, i wish i had bothered to learn it years ago.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49049278"
+        }
+      ]
+    },
+    {
+      "name": "Meguro Parasitological Museum",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.kiseichu.org/e-top",
+      "hn_url": "https://news.ycombinator.com/item?id=49044874",
+      "source_story_title": "Extinct Media Museum Tokyo",
+      "summary": "A Tokyo museum dedicated to parasites and parasitology exhibits.",
+      "why_included": "It is a strongly endorsed, distinctive Tokyo stop surfaced in a museum recommendation thread.",
+      "evidence": "A commenter called the museum fantastic and highly recommended it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49052303",
+          "comment_url": "https://news.ycombinator.com/item?id=49044874#49052303",
+          "author": "cl42",
+          "excerpt": "Meguro Parasitological Museum is fantastic and en...grossing. :) It's a fun area to visit in general. Highly recommend it.",
+          "kind": "recommendation",
+          "parent_comment_id": "49046259"
+        }
+      ]
+    },
+    {
+      "name": "Dr Becky",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=Rr52wOlyOaM",
+      "hn_url": "https://news.ycombinator.com/item?id=49014034",
+      "source_story_title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+      "summary": "A science video channel covering astronomy and space policy with energetic commentary.",
+      "why_included": "A commenter specifically highlighted the presenter’s knowledge and infectious enthusiasm.",
+      "evidence": "A commenter recommended a recent Dr Becky episode and praised her knowledge and enthusiasm.",
+      "evidence_sources": [
+        {
+          "comment_id": "49046689",
+          "comment_url": "https://news.ycombinator.com/item?id=49014034#49046689",
+          "author": "ck2",
+          "excerpt": "her knowledge + enthusiasm is infectious, love it",
+          "kind": "recommendation",
+          "parent_comment_id": "49014034"
+        }
+      ]
+    },
+    {
+      "name": "MapComplete Bookcases",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://mapcomplete.org/bookcases.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49012604",
+      "source_story_title": "Book Corners: Community map of neighborhood book exchange spots",
+      "summary": "An OpenStreetMap-based map for finding and contributing neighborhood bookcases.",
+      "why_included": "It is a concrete community mapping tool recommended as a better shared database for book exchanges.",
+      "evidence": "Its creator recommended contributing to OpenStreetMap through the Bookcases map.",
+      "evidence_sources": [
+        {
+          "comment_id": "49047133",
+          "comment_url": "https://news.ycombinator.com/item?id=49012604#49047133",
+          "author": "pietervdvn",
+          "excerpt": "we'd better all contribute to OpenStreetMap",
+          "kind": "author_context",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49046047"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the museum fantastic and highly recommended it.",
+  "evidence_sources": [
+    {
+      "author": "cl42",
+      "comment_id": "49052303",
+      "comment_url": "https://news.ycombinator.com/item?id=49044874#49052303",
+      "excerpt": "Meguro Parasitological Museum is fantastic and en...grossing. :) It's a fun area to visit in general. Highly recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49046259"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49044874",
+  "id": "2026-07-26:meguro-parasitological-museum:49044874",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "meguro-parasitological-museum",
+  "rank": 7,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49044874",
+  "source_story_title": "Extinct Media Museum Tokyo"
+}

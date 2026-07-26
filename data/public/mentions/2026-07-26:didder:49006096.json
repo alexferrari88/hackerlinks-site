@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called Didder a good dithering tool and described using it for six-color e-ink displays.",
+  "evidence_sources": [
+    {
+      "author": "ectoloph",
+      "comment_id": "49048912",
+      "comment_url": "https://news.ycombinator.com/item?id=49006096#49048912",
+      "context": "first_hand_use",
+      "excerpt": "Didder[0] is a good tool for dithering. I use it to pre-process images for the 6-color e-ink displays.",
+      "kind": "recommendation",
+      "parent_comment_id": "49006096"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49006096",
+  "id": "2026-07-26:didder:49006096",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "didder",
+  "rank": 2,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49006096",
+  "source_story_title": "How My Images Are Dithered"
+}

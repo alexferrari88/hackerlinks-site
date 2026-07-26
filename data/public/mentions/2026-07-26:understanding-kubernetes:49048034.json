@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called the exercises neat and wished they had learned Kubernetes through them earlier.",
+  "evidence_sources": [
+    {
+      "author": "chias",
+      "comment_id": "49049485",
+      "comment_url": "https://news.ycombinator.com/item?id=49048034#49049485",
+      "context": "first_hand_use",
+      "excerpt": "It's actually really neat, i wish i had bothered to learn it years ago.",
+      "kind": "recommendation",
+      "parent_comment_id": "49049278"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49048034",
+  "id": "2026-07-26:understanding-kubernetes:49048034",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "understanding-kubernetes",
+  "rank": 6,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "49048034",
+  "source_story_title": "Open-weight AI is having its Kubernetes moment"
+}

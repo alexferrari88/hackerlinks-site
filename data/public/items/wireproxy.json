@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "wireproxy",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:wireproxy:48995409",
+  "mention_ids": [
+    "2026-07-26:wireproxy:48995409"
+  ],
+  "name": "wireproxy",
+  "slug": "wireproxy",
+  "summary": "A WireGuard-to-SOCKS proxy for routing selected browser containers through specific VPNs.",
+  "thing_url": "https://github.com/windtf/wireproxy",
+  "times_seen": 1,
+  "why_included": "It was directly recommended as a practical way to route individual containers through WireGuard-capable VPNs."
+}

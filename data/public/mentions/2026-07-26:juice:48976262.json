@@ -1,0 +1,30 @@
+{
+  "evidence": "A commenter described the site as an amazing demonstration of visual, audio, and haptic interface feedback.",
+  "evidence_sources": [
+    {
+      "author": "1zael",
+      "comment_id": "49053940",
+      "comment_url": "https://news.ycombinator.com/item?id=48976262#49053940",
+      "excerpt": "Brad Woods has an amazing website dynamically illustrating the concept of \"juice\"",
+      "kind": "recommendation",
+      "parent_comment_id": "48976262"
+    },
+    {
+      "author": "chrisweekly",
+      "comment_id": "49054222",
+      "comment_url": "https://news.ycombinator.com/item?id=48976262#49054222",
+      "excerpt": "Yes! Awesome site and post, I'd forgotten about it. Thanks for sharing!",
+      "kind": "recommendation",
+      "parent_comment_id": "49053940"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=48976262",
+  "id": "2026-07-26:juice:48976262",
+  "is_repeat": false,
+  "issue_id": "2026-07-26",
+  "item_id": "juice",
+  "rank": 3,
+  "seen_at": "2026-07-26T06:09:53+02:00",
+  "source_story_id": "48976262",
+  "source_story_title": "Stolen Buttons"
+}

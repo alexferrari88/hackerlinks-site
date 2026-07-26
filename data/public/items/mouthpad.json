@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "mouthpad",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:mouthpad:49045446",
+  "mention_ids": [
+    "2026-07-26:mouthpad:49045446"
+  ],
+  "name": "MouthPad",
+  "slug": "mouthpad",
+  "summary": "A tongue-controlled touchpad designed to provide hands-free computer access.",
+  "thing_url": "https://www.augmental.tech/",
+  "times_seen": 1,
+  "why_included": "It received a clear use-case endorsement from someone who relies on alternative input during medical treatment."
+}

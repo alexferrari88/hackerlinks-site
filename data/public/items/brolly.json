@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-26T06:09:53+02:00",
+  "id": "brolly",
+  "last_seen_at": "2026-07-26T06:09:53+02:00",
+  "latest_mention_id": "2026-07-26:brolly:49049693",
+  "mention_ids": [
+    "2026-07-26:brolly:49049693"
+  ],
+  "name": "Brolly",
+  "slug": "brolly",
+  "summary": "A compact, text-first weather forecast site with mobile-friendly interactivity.",
+  "thing_url": "https://brolly.sh/forecast/RWFP2qW8",
+  "times_seen": 1,
+  "why_included": "A commenter preferred it to wttr.in for interactive, narrow-screen weather checks."
+}
