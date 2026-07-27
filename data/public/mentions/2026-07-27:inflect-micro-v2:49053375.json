@@ -1,0 +1,23 @@
+{
+  "evidence": "HN commenter modinfo directly praised it after replacing an older ONNX model.",
+  "evidence_sources": [
+    {
+      "author": "modinfo",
+      "comment_id": "49055122",
+      "comment_url": "https://news.ycombinator.com/item?id=49053375#49055122",
+      "context": "first_hand_use",
+      "excerpt": "This is amazing, the quality blow my mind for such small model! I just replaced my old onnx model with yours! here my implementation with speech dispatcher and server: https://github.com/skorotkiewicz/inflect-speechd thanks for shearing!",
+      "kind": "recommendation",
+      "parent_comment_id": "49053375"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49053375",
+  "id": "2026-07-27:inflect-micro-v2:49053375",
+  "is_repeat": false,
+  "issue_id": "2026-07-27",
+  "item_id": "inflect-micro-v2",
+  "rank": 1,
+  "seen_at": "2026-07-27T05:15:00+02:00",
+  "source_story_id": "49053375",
+  "source_story_title": "Inflect-Micro-v2: complete voice in 9.36M parameters"
+}

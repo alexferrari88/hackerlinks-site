@@ -1,0 +1,23 @@
+{
+  "evidence": "A SpiceDB contributor said their team has had substantial success with custom analyzers.",
+  "evidence_sources": [
+    {
+      "author": "jzelinskie",
+      "comment_id": "49060636",
+      "comment_url": "https://news.ycombinator.com/item?id=49057398#49060636",
+      "context": "production_use",
+      "excerpt": "For SpiceDB[0], we've found a lot of success using this framework to define our own analyzers; it's probably 10x easier now with LLMs.",
+      "kind": "recommendation",
+      "parent_comment_id": "49057398"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49057398",
+  "id": "2026-07-27:go-analysis-framework:49057398",
+  "is_repeat": false,
+  "issue_id": "2026-07-27",
+  "item_id": "go-analysis-framework",
+  "rank": 5,
+  "seen_at": "2026-07-27T05:15:00+02:00",
+  "source_story_id": "49057398",
+  "source_story_title": "Go Analysis Framework: modular static analysis by go team"
+}

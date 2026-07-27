@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called it a great book for the mathematics behind the topic.",
+  "evidence_sources": [
+    {
+      "author": "milanhbs",
+      "comment_id": "49053942",
+      "comment_url": "https://news.ycombinator.com/item?id=49053382#49053942",
+      "excerpt": "For people interested in the related math, \"Nonlinear Dynamics and Chaos\" by Steven Strogatz is a great book! Pdfs abound online.",
+      "kind": "recommendation",
+      "parent_comment_id": "49053382"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49053382",
+  "id": "2026-07-27:nonlinear-dynamics-and-chaos:49053382",
+  "is_repeat": false,
+  "issue_id": "2026-07-27",
+  "item_id": "nonlinear-dynamics-and-chaos",
+  "rank": 6,
+  "seen_at": "2026-07-27T05:15:00+02:00",
+  "source_story_id": "49053382",
+  "source_story_title": "Systems and Delays"
+}

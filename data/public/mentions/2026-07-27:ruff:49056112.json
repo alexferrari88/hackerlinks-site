@@ -1,0 +1,23 @@
+{
+  "evidence": "A maintainer of a 3,000-line project reported useful newly enabled checks.",
+  "evidence_sources": [
+    {
+      "author": "nickjj",
+      "comment_id": "49057133",
+      "comment_url": "https://news.ycombinator.com/item?id=49056112#49057133",
+      "context": "first_hand_use",
+      "excerpt": "I updated a ~3k line Python project with this the other day. I was using v0.15.x beforehand. It didn't take too long and the new rules do improve code quality. It caught quite a few things previous versions didn't.",
+      "kind": "recommendation",
+      "parent_comment_id": "49056112"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49056112",
+  "id": "2026-07-27:ruff:49056112",
+  "is_repeat": false,
+  "issue_id": "2026-07-27",
+  "item_id": "ruff",
+  "rank": 4,
+  "seen_at": "2026-07-27T05:15:00+02:00",
+  "source_story_id": "49056112",
+  "source_story_title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59"
+}

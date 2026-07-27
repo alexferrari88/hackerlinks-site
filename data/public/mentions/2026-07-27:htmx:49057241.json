@@ -1,0 +1,23 @@
+{
+  "evidence": "A home-server user said htmx replacements were lightweight, responsive, and easy to maintain.",
+  "evidence_sources": [
+    {
+      "author": "throw2ih020",
+      "comment_id": "49059574",
+      "comment_url": "https://news.ycombinator.com/item?id=49057241#49059574",
+      "context": "first_hand_use",
+      "excerpt": "HTMX is awesome. I've replaced several OSS web apps on my home server with HTMX + Go + PostgreSQL replacements. The results are lightweight, responsive, work great on desktop and mobile alike, all with the absolute minimum complexity required.",
+      "kind": "recommendation",
+      "parent_comment_id": "49057241"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49057241",
+  "id": "2026-07-27:htmx:49057241",
+  "is_repeat": false,
+  "issue_id": "2026-07-27",
+  "item_id": "htmx",
+  "rank": 3,
+  "seen_at": "2026-07-27T05:15:00+02:00",
+  "source_story_id": "49057241",
+  "source_story_title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy"
+}

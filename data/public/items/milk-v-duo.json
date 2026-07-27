@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-27T05:15:00+02:00",
+  "id": "milk-v-duo",
+  "last_seen_at": "2026-07-27T05:15:00+02:00",
+  "latest_mention_id": "2026-07-27:milk-v-duo:49050512",
+  "mention_ids": [
+    "2026-07-27:milk-v-duo:49050512"
+  ],
+  "name": "Milk-V Duo",
+  "slug": "milk-v-duo",
+  "summary": "Low-cost Linux-capable RISC-V boards with optional TPU acceleration.",
+  "thing_url": "https://milkv.io",
+  "times_seen": 1,
+  "why_included": "A hands-on user praised the value and bought several."
+}

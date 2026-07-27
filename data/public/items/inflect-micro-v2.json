@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-27T05:15:00+02:00",
+  "id": "inflect-micro-v2",
+  "last_seen_at": "2026-07-27T05:15:00+02:00",
+  "latest_mention_id": "2026-07-27:inflect-micro-v2:49053375",
+  "mention_ids": [
+    "2026-07-27:inflect-micro-v2:49053375"
+  ],
+  "name": "Inflect-Micro-v2",
+  "slug": "inflect-micro-v2",
+  "summary": "A 9.36M-parameter speech model praised for its unusually small footprint.",
+  "thing_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+  "times_seen": 1,
+  "why_included": "A developer replaced an older ONNX model and called its quality amazing."
+}
