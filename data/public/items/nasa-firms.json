@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "nasa-firms",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:nasa-firms:49060495",
+  "mention_ids": [
+    "2026-07-28:nasa-firms:49060495"
+  ],
+  "name": "NASA FIRMS",
+  "slug": "nasa-firms",
+  "summary": "NASA's near-real-time satellite map for active fire and hotspot monitoring.",
+  "thing_url": "https://firms.modaps.eosdis.nasa.gov/map",
+  "times_seen": 1,
+  "why_included": "It was directly recommended as a way to track an active wildfire, with the usual limitation that satellite detections are not emergency guidance."
+}

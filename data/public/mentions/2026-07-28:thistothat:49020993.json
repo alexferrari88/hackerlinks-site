@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter described ThisToThat as one of their favorite old-school websites.",
+  "evidence_sources": [
+    {
+      "author": "oflannabhra",
+      "comment_id": "49072307",
+      "comment_url": "https://news.ycombinator.com/item?id=49020993#49072307",
+      "excerpt": "I guess one of my favorite old-school websites will need to get updated, ThisToThat [0].",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49020993",
+  "id": "2026-07-28:thistothat:49020993",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "thistothat",
+  "rank": 8,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49020993",
+  "source_story_title": "Glue bonds to nonstick surfaces and wipes clean with ethanol"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who settled on Bangle.js 2 as a clock solution called it the most perfect smartwatch ever made for Android phones.",
+  "evidence_sources": [
+    {
+      "author": "kjjohnsen",
+      "comment_id": "49069151",
+      "comment_url": "https://news.ycombinator.com/item?id=49020219#49069151",
+      "context": "first_hand_use",
+      "excerpt": "One is the Bangle JS2, which is the most perfect smartwatch ever made if you use android phones.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49020219",
+  "id": "2026-07-28:bangle-js-2:49020219",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "bangle-js-2",
+  "rank": 9,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49020219",
+  "source_story_title": "I wanted a clock that never needed setting. Things escalated"
+}

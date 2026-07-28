@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the site really cool and quoted its practical speaker and device-compatibility guidance.",
+  "evidence_sources": [
+    {
+      "author": "whatsdoom",
+      "comment_id": "49070168",
+      "comment_url": "https://news.ycombinator.com/item?id=49020219#49070168",
+      "excerpt": "This site is really cool! Thanks for sharing",
+      "kind": "recommendation",
+      "parent_comment_id": "49068878"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49020219",
+  "id": "2026-07-28:time-station-emulator:49020219",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "time-station-emulator",
+  "rank": 11,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49020219",
+  "source_story_title": "I wanted a clock that never needed setting. Things escalated"
+}

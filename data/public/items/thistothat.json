@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "thistothat",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:thistothat:49020993",
+  "mention_ids": [
+    "2026-07-28:thistothat:49020993"
+  ],
+  "name": "ThisToThat",
+  "slug": "thistothat",
+  "summary": "An adhesive-selection website for matching materials to suitable glues.",
+  "thing_url": "https://www.thistothat.com/",
+  "times_seen": 1,
+  "why_included": "A commenter independently called it a favorite old-school website in a discussion about bonding difficult surfaces."
+}

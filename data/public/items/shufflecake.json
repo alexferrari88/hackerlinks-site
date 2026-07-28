@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "shufflecake",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:shufflecake:49063022",
+  "mention_ids": [
+    "2026-07-28:shufflecake:49063022"
+  ],
+  "name": "Shufflecake",
+  "slug": "shufflecake",
+  "summary": "A project exploring plausible deniability and storage threat models.",
+  "thing_url": "https://shufflecake.net/",
+  "times_seen": 1,
+  "why_included": "A commenter specifically highlighted its FAQ as a useful introduction to threat vectors and TRIM and ORAM trade-offs."
+}

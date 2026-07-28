@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "run_date": "2026-07-28",
+  "generated_at": "2026-07-28T03:17:21Z",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-28.json",
+    "sha256": "39bc4472ff21b91eb41bc79193ff2f67e4e44eaf28e219872cb191eabb62ba66",
+    "bytes": 3783245,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6069,
+    "fetched_item_count": 6099,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "11 concrete, comment-endorsed tools, projects, and experiences selected from a verified 30-story HN front-page crawl.",
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "PGSimCity",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://nikolays.github.io/PGSimCity/",
+      "hn_url": "https://news.ycombinator.com/item?id=49063754",
+      "source_story_title": "PGSimCity - How PostgreSQL Works",
+      "summary": "An interactive 3D visualization for learning PostgreSQL internals.",
+      "why_included": "A commenter praised its engaging explanation of complex database scheduling and its reuse potential across systems domains.",
+      "evidence": "A commenter said the visualization made a complex implementation process engaging and suggested the approach could transfer to cloud computing and Kubernetes.",
+      "evidence_sources": [
+        {
+          "comment_id": "49064171",
+          "comment_url": "https://news.ycombinator.com/item?id=49063754#49064171",
+          "author": "Curtis_Guan",
+          "excerpt": "I was amazed when I saw PGSimCity — it presents such a complex technical implementation process in such an engaging way.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Fal.ai",
+      "category": "AI & Model Tools",
+      "thing_url": "https://fal.ai/explore",
+      "hn_url": "https://news.ycombinator.com/item?id=49065752",
+      "source_story_title": "Kimi-K3 on HuggingFace",
+      "summary": "A platform for running and comparing proprietary image models.",
+      "why_included": "It was directly recommended by a commenter who uses it for a generative-AI benchmark site.",
+      "evidence": "A commenter described using Fal.ai to put proprietary image models through their paces and called it highly recommended.",
+      "evidence_sources": [
+        {
+          "comment_id": "49074716",
+          "comment_url": "https://news.ycombinator.com/item?id=49065752#49074716",
+          "author": "vunderba",
+          "excerpt": "Fal.AI is what I use for running proprietary image models through their paces as part of my GenAI benchmark site. Highly recommended.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49073975"
+        }
+      ]
+    },
+    {
+      "name": "Verus",
+      "category": "AI & Model Tools",
+      "thing_url": "https://github.com/verus-lang/verus",
+      "hn_url": "https://news.ycombinator.com/item?id=49062291",
+      "source_story_title": "We have proof automation now",
+      "summary": "A Rust-oriented verification language for proving program correctness.",
+      "why_included": "It is a concrete entry point for applying formal specifications and proofs in the Rust ecosystem.",
+      "evidence": "A commenter called Verus a good start for Rust, while noting that it remains a standalone language with its own syntax and type system.",
+      "evidence_sources": [
+        {
+          "comment_id": "49064650",
+          "comment_url": "https://news.ycombinator.com/item?id=49062291#49064650",
+          "author": "gz09",
+          "excerpt": "Verus (https://github.com/verus-lang/verus) is a good start for the rust ecosystem, but it's essentially a standalone language today (with custom syntax and type system).",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Alpine Ajax",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://alpine-ajax.js.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49067301",
+      "source_story_title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "summary": "An Alpine.js extension for progressively enhanced, server-driven interfaces.",
+      "why_included": "A first-hand report found it made a large filtered listing interface substantially snappier than the prior HTMX approach.",
+      "evidence": "A commenter switched to Alpine Ajax, reduced returned HTML to the results list, and found the experience much snappier.",
+      "evidence_sources": [
+        {
+          "comment_id": "49072139",
+          "comment_url": "https://news.ycombinator.com/item?id=49067301#49072139",
+          "author": "james2doyle",
+          "excerpt": "I ended up switching to Alpine Ajax (https://alpine-ajax.js.org/) and pulled the form out of the response and just used a local x-data on it to track the state. This greatly reduced the HTML I needed to send back to just the list of results.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "PyView",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pyview.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49067301",
+      "source_story_title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "summary": "A server-rendered UI framework inspired by Phoenix LiveView.",
+      "why_included": "It is a direct recommendation for lightweight DOM patching from a Python-oriented server-rendered application.",
+      "evidence": "A commenter recommended PyView for server-rendered partial updates, saying it works nicely and its patches are light to apply.",
+      "evidence_sources": [
+        {
+          "comment_id": "49075764",
+          "comment_url": "https://news.ycombinator.com/item?id=49067301#49075764",
+          "author": "gchamonlive",
+          "excerpt": "I'd recommend https://pyview.rocks/. Borrows from Elixir Phoenix's Liveview and works really nice and patches are light to apply.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Shufflecake",
+      "category": "Privacy & Resilience",
+      "thing_url": "https://shufflecake.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49063022",
+      "source_story_title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "summary": "A project exploring plausible deniability and storage threat models.",
+      "why_included": "A commenter specifically highlighted its FAQ as a useful introduction to threat vectors and TRIM and ORAM trade-offs.",
+      "evidence": "A commenter called Shufflecake a cool project and recommended its FAQ as a good introduction to the relevant threat vectors and trade-offs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49065112",
+          "comment_url": "https://news.ycombinator.com/item?id=49063022#49065112",
+          "author": "OGWhales",
+          "excerpt": "I found the shufflecake FAQ to be a good intro to the topic for anyone curious. It does a good job explaining the threat vectors and the relevant trade offs, in particular the TRIM and ORAM sections. It’s also just a cool project:",
+          "kind": "recommendation",
+          "parent_comment_id": "49063904"
+        }
+      ]
+    },
+    {
+      "name": "Outer Wilds",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.mobiusdigitalgames.com/outer-wilds.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49021270",
+      "source_story_title": "Show HN: Physically accurate black hole you can put in your room",
+      "summary": "A space-exploration mystery game with black-hole encounters and a time loop.",
+      "why_included": "It received a direct, enthusiastic recommendation from a commenter who highlighted its memorable black-hole sequence.",
+      "evidence": "A commenter strongly recommended Outer Wilds and described falling into its black hole as one of their most frightening gaming moments.",
+      "evidence_sources": [
+        {
+          "comment_id": "49064816",
+          "comment_url": "https://news.ycombinator.com/item?id=49021270#49064816",
+          "author": "chamomeal",
+          "excerpt": "Strongly recommend Outer Wilds. Falling into the black hole the first time was one of my most scared moments in gaming.",
+          "kind": "recommendation",
+          "parent_comment_id": "49064694"
+        }
+      ]
+    },
+    {
+      "name": "ThisToThat",
+      "category": "Useful Web & Hardware",
+      "thing_url": "https://www.thistothat.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49020993",
+      "source_story_title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "summary": "An adhesive-selection website for matching materials to suitable glues.",
+      "why_included": "A commenter independently called it a favorite old-school website in a discussion about bonding difficult surfaces.",
+      "evidence": "A commenter described ThisToThat as one of their favorite old-school websites.",
+      "evidence_sources": [
+        {
+          "comment_id": "49072307",
+          "comment_url": "https://news.ycombinator.com/item?id=49020993#49072307",
+          "author": "oflannabhra",
+          "excerpt": "I guess one of my favorite old-school websites will need to get updated, ThisToThat [0].",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Bangle.js 2",
+      "category": "Useful Web & Hardware",
+      "thing_url": "https://www.espruino.com/Bangle.js2",
+      "hn_url": "https://news.ycombinator.com/item?id=49020219",
+      "source_story_title": "I wanted a clock that never needed setting. Things escalated",
+      "summary": "An open, hackable JavaScript smartwatch with an always-on display.",
+      "why_included": "A first-hand user called it their most perfect smartwatch for Android phones.",
+      "evidence": "A commenter who settled on Bangle.js 2 as a clock solution called it the most perfect smartwatch ever made for Android phones.",
+      "evidence_sources": [
+        {
+          "comment_id": "49069151",
+          "comment_url": "https://news.ycombinator.com/item?id=49020219#49069151",
+          "author": "kjjohnsen",
+          "excerpt": "One is the Bangle JS2, which is the most perfect smartwatch ever made if you use android phones.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "NASA FIRMS",
+      "category": "Useful Web & Hardware",
+      "thing_url": "https://firms.modaps.eosdis.nasa.gov/map",
+      "hn_url": "https://news.ycombinator.com/item?id=49060495",
+      "source_story_title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "summary": "NASA's near-real-time satellite map for active fire and hotspot monitoring.",
+      "why_included": "It was directly recommended as a way to track an active wildfire, with the usual limitation that satellite detections are not emergency guidance.",
+      "evidence": "A commenter called NASA FIRMS good for tracking where a fire is and paired it with a local fire-information site.",
+      "evidence_sources": [
+        {
+          "comment_id": "49061405",
+          "comment_url": "https://news.ycombinator.com/item?id=49060495#49061405",
+          "author": "verzali",
+          "excerpt": "NASA FIRMS is good for tracking where the fire is.",
+          "kind": "recommendation",
+          "parent_comment_id": "49060869"
+        }
+      ]
+    },
+    {
+      "name": "Time Station Emulator",
+      "category": "Useful Web & Hardware",
+      "thing_url": "https://github.com/kangtastic/timestation",
+      "hn_url": "https://news.ycombinator.com/item?id=49020219",
+      "source_story_title": "I wanted a clock that never needed setting. Things escalated",
+      "summary": "A web tool that uses a phone speaker to synchronize radio-controlled clocks.",
+      "why_included": "It solves a delightfully specific hardware problem without needing radio coverage at the clock's location.",
+      "evidence": "A commenter called the site really cool and quoted its practical speaker and device-compatibility guidance.",
+      "evidence_sources": [
+        {
+          "comment_id": "49070168",
+          "comment_url": "https://news.ycombinator.com/item?id=49020219#49070168",
+          "author": "whatsdoom",
+          "excerpt": "This site is really cool! Thanks for sharing",
+          "kind": "recommendation",
+          "parent_comment_id": "49068878"
+        }
+      ]
+    }
+  ]
+}

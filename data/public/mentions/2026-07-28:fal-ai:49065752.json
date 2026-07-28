@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter described using Fal.ai to put proprietary image models through their paces and called it highly recommended.",
+  "evidence_sources": [
+    {
+      "author": "vunderba",
+      "comment_id": "49074716",
+      "comment_url": "https://news.ycombinator.com/item?id=49065752#49074716",
+      "context": "first_hand_use",
+      "excerpt": "Fal.AI is what I use for running proprietary image models through their paces as part of my GenAI benchmark site. Highly recommended.",
+      "kind": "recommendation",
+      "parent_comment_id": "49073975"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49065752",
+  "id": "2026-07-28:fal-ai:49065752",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "fal-ai",
+  "rank": 2,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49065752",
+  "source_story_title": "Kimi-K3 on HuggingFace"
+}

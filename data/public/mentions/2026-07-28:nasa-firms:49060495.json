@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called NASA FIRMS good for tracking where a fire is and paired it with a local fire-information site.",
+  "evidence_sources": [
+    {
+      "author": "verzali",
+      "comment_id": "49061405",
+      "comment_url": "https://news.ycombinator.com/item?id=49060495#49061405",
+      "excerpt": "NASA FIRMS is good for tracking where the fire is.",
+      "kind": "recommendation",
+      "parent_comment_id": "49060869"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49060495",
+  "id": "2026-07-28:nasa-firms:49060495",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "nasa-firms",
+  "rank": 10,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49060495",
+  "source_story_title": "French firefighters face 'pyrocumulonimbus' for first time"
+}

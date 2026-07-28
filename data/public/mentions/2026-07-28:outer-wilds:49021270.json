@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter strongly recommended Outer Wilds and described falling into its black hole as one of their most frightening gaming moments.",
+  "evidence_sources": [
+    {
+      "author": "chamomeal",
+      "comment_id": "49064816",
+      "comment_url": "https://news.ycombinator.com/item?id=49021270#49064816",
+      "excerpt": "Strongly recommend Outer Wilds. Falling into the black hole the first time was one of my most scared moments in gaming.",
+      "kind": "recommendation",
+      "parent_comment_id": "49064694"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49021270",
+  "id": "2026-07-28:outer-wilds:49021270",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "outer-wilds",
+  "rank": 7,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49021270",
+  "source_story_title": "Show HN: Physically accurate black hole you can put in your room"
+}

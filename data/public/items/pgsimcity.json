@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "pgsimcity",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:pgsimcity:49063754",
+  "mention_ids": [
+    "2026-07-28:pgsimcity:49063754"
+  ],
+  "name": "PGSimCity",
+  "slug": "pgsimcity",
+  "summary": "An interactive 3D visualization for learning PostgreSQL internals.",
+  "thing_url": "https://nikolays.github.io/PGSimCity/",
+  "times_seen": 1,
+  "why_included": "A commenter praised its engaging explanation of complex database scheduling and its reuse potential across systems domains."
+}

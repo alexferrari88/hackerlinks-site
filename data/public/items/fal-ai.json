@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "fal-ai",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:fal-ai:49065752",
+  "mention_ids": [
+    "2026-07-28:fal-ai:49065752"
+  ],
+  "name": "Fal.ai",
+  "slug": "fal-ai",
+  "summary": "A platform for running and comparing proprietary image models.",
+  "thing_url": "https://fal.ai/explore",
+  "times_seen": 1,
+  "why_included": "It was directly recommended by a commenter who uses it for a generative-AI benchmark site."
+}

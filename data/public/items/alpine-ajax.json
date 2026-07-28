@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "alpine-ajax",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:alpine-ajax:49067301",
+  "mention_ids": [
+    "2026-07-28:alpine-ajax:49067301"
+  ],
+  "name": "Alpine Ajax",
+  "slug": "alpine-ajax",
+  "summary": "An Alpine.js extension for progressively enhanced, server-driven interfaces.",
+  "thing_url": "https://alpine-ajax.js.org/",
+  "times_seen": 1,
+  "why_included": "A first-hand report found it made a large filtered listing interface substantially snappier than the prior HTMX approach."
+}

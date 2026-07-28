@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Verus a good start for Rust, while noting that it remains a standalone language with its own syntax and type system.",
+  "evidence_sources": [
+    {
+      "author": "gz09",
+      "comment_id": "49064650",
+      "comment_url": "https://news.ycombinator.com/item?id=49062291#49064650",
+      "excerpt": "Verus (https://github.com/verus-lang/verus) is a good start for the rust ecosystem, but it's essentially a standalone language today (with custom syntax and type system).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49062291",
+  "id": "2026-07-28:verus:49062291",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "verus",
+  "rank": 3,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49062291",
+  "source_story_title": "We have proof automation now"
+}

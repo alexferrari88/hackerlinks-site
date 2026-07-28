@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "bangle-js-2",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:bangle-js-2:49020219",
+  "mention_ids": [
+    "2026-07-28:bangle-js-2:49020219"
+  ],
+  "name": "Bangle.js 2",
+  "slug": "bangle-js-2",
+  "summary": "An open, hackable JavaScript smartwatch with an always-on display.",
+  "thing_url": "https://www.espruino.com/Bangle.js2",
+  "times_seen": 1,
+  "why_included": "A first-hand user called it their most perfect smartwatch for Android phones."
+}

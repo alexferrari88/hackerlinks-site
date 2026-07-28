@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said the visualization made a complex implementation process engaging and suggested the approach could transfer to cloud computing and Kubernetes.",
+  "evidence_sources": [
+    {
+      "author": "Curtis_Guan",
+      "comment_id": "49064171",
+      "comment_url": "https://news.ycombinator.com/item?id=49063754#49064171",
+      "excerpt": "I was amazed when I saw PGSimCity \u2014 it presents such a complex technical implementation process in such an engaging way.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49063754",
+  "id": "2026-07-28:pgsimcity:49063754",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "pgsimcity",
+  "rank": 1,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49063754",
+  "source_story_title": "PGSimCity - How PostgreSQL Works"
+}

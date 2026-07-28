@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended PyView for server-rendered partial updates, saying it works nicely and its patches are light to apply.",
+  "evidence_sources": [
+    {
+      "author": "gchamonlive",
+      "comment_id": "49075764",
+      "comment_url": "https://news.ycombinator.com/item?id=49067301#49075764",
+      "excerpt": "I'd recommend https://pyview.rocks/. Borrows from Elixir Phoenix's Liveview and works really nice and patches are light to apply.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49067301",
+  "id": "2026-07-28:pyview:49067301",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "pyview",
+  "rank": 5,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49067301",
+  "source_story_title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter switched to Alpine Ajax, reduced returned HTML to the results list, and found the experience much snappier.",
+  "evidence_sources": [
+    {
+      "author": "james2doyle",
+      "comment_id": "49072139",
+      "comment_url": "https://news.ycombinator.com/item?id=49067301#49072139",
+      "context": "first_hand_use",
+      "excerpt": "I ended up switching to Alpine Ajax (https://alpine-ajax.js.org/) and pulled the form out of the response and just used a local x-data on it to track the state. This greatly reduced the HTML I needed to send back to just the list of results.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49067301",
+  "id": "2026-07-28:alpine-ajax:49067301",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "alpine-ajax",
+  "rank": 4,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49067301",
+  "source_story_title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)"
+}

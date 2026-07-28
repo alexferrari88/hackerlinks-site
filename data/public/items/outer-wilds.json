@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-28T03:17:21Z",
+  "id": "outer-wilds",
+  "last_seen_at": "2026-07-28T03:17:21Z",
+  "latest_mention_id": "2026-07-28:outer-wilds:49021270",
+  "mention_ids": [
+    "2026-07-28:outer-wilds:49021270"
+  ],
+  "name": "Outer Wilds",
+  "slug": "outer-wilds",
+  "summary": "A space-exploration mystery game with black-hole encounters and a time loop.",
+  "thing_url": "https://www.mobiusdigitalgames.com/outer-wilds.html",
+  "times_seen": 1,
+  "why_included": "It received a direct, enthusiastic recommendation from a commenter who highlighted its memorable black-hole sequence."
+}

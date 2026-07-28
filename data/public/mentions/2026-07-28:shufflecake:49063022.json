@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Shufflecake a cool project and recommended its FAQ as a good introduction to the relevant threat vectors and trade-offs.",
+  "evidence_sources": [
+    {
+      "author": "OGWhales",
+      "comment_id": "49065112",
+      "comment_url": "https://news.ycombinator.com/item?id=49063022#49065112",
+      "excerpt": "I found the shufflecake FAQ to be a good intro to the topic for anyone curious. It does a good job explaining the threat vectors and the relevant trade offs, in particular the TRIM and ORAM sections. It\u2019s also just a cool project:",
+      "kind": "recommendation",
+      "parent_comment_id": "49063904"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49063022",
+  "id": "2026-07-28:shufflecake:49063022",
+  "is_repeat": false,
+  "issue_id": "2026-07-28",
+  "item_id": "shufflecake",
+  "rank": 6,
+  "seen_at": "2026-07-28T03:17:21Z",
+  "source_story_id": "49063022",
+  "source_story_title": "US citizen charged after GrapheneOS phone wipes during airport search"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T03:17:21Z",
+  "headline": "11 interesting things surfaced from HN on 2026-07-28",
+  "id": "2026-07-28",
+  "mention_ids": [
+    "2026-07-28:pgsimcity:49063754",
+    "2026-07-28:fal-ai:49065752",
+    "2026-07-28:verus:49062291",
+    "2026-07-28:alpine-ajax:49067301",
+    "2026-07-28:pyview:49067301",
+    "2026-07-28:shufflecake:49063022",
+    "2026-07-28:outer-wilds:49021270",
+    "2026-07-28:thistothat:49020993",
+    "2026-07-28:bangle-js-2:49020219",
+    "2026-07-28:nasa-firms:49060495",
+    "2026-07-28:time-station-emulator:49020219"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
