@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "verity",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:verity:49085731",
+  "mention_ids": [
+    "2026-07-29:verity:49085731"
+  ],
+  "name": "Verity",
+  "slug": "verity",
+  "summary": "A news service that presents competing framing and sourcing around current stories.",
+  "thing_url": "https://www.verity.news/",
+  "times_seen": 1,
+  "why_included": "It was suggested as a concrete option for readers seeking to compare competing narratives."
+}

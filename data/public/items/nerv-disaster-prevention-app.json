@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "nerv-disaster-prevention-app",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:nerv-disaster-prevention-app:49080664",
+  "mention_ids": [
+    "2026-07-29:nerv-disaster-prevention-app:49080664"
+  ],
+  "name": "NERV Disaster Prevention app",
+  "slug": "nerv-disaster-prevention-app",
+  "summary": "A Japanese disaster-alert app with real-time earthquake and seismic-intensity updates.",
+  "thing_url": "https://x.com/EN_NERV",
+  "times_seen": 1,
+  "why_included": "A firsthand user called it faster than official sources and useful enough to visualize an arriving shockwave."
+}

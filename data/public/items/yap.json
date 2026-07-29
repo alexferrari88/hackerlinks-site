@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "yap",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:yap:49073834",
+  "mention_ids": [
+    "2026-07-29:yap:49073834"
+  ],
+  "name": "Yap",
+  "slug": "yap",
+  "summary": "An open-source macOS dictation app built on on-device speech APIs.",
+  "thing_url": "https://github.com/FrigadeHQ/yap",
+  "times_seen": 1,
+  "why_included": "A commenter building a personal knowledge tool saw it as a promising way to add direct voice interaction."
+}

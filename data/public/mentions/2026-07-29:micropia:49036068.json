@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Micropia, highlighting its displays of foods and drinks aging over days to years.",
+  "evidence_sources": [
+    {
+      "author": "carschno",
+      "comment_id": "49083017",
+      "comment_url": "https://news.ycombinator.com/item?id=49036068#49083017",
+      "excerpt": "if you are ever in Amsterdam, I recommend to visit the Micropia museum",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49036068",
+  "id": "2026-07-29:micropia:49036068",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "micropia",
+  "rank": 2,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49036068",
+  "source_story_title": "How to survive boiling water"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "openspec",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:openspec:49076391",
+  "mention_ids": [
+    "2026-07-29:openspec:49076391"
+  ],
+  "name": "OpenSpec",
+  "slug": "openspec",
+  "summary": "A structured specification workflow for keeping coding-agent plans parseable and actionable.",
+  "thing_url": "https://openspec.dev/",
+  "times_seen": 1,
+  "why_included": "It was recommended as an existing implementation of a proposed plan-scaffolding and validation workflow."
+}

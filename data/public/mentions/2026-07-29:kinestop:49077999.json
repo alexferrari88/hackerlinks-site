@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said KineStop worked better for them than Apple's iOS implementation, but noted that it needs invasive permissions.",
+  "evidence_sources": [
+    {
+      "author": "Cider9986",
+      "comment_id": "49081549",
+      "comment_url": "https://news.ycombinator.com/item?id=49077999#49081549",
+      "context": "first_hand_use",
+      "excerpt": "I use KineStop and it works better than Apple's version on iOS did for me.",
+      "kind": "recommendation",
+      "parent_comment_id": "49080816"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49077999",
+  "id": "2026-07-29:kinestop:49077999",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "kinestop",
+  "rank": 10,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49077999",
+  "source_story_title": "Vehicle Motion Cues"
+}

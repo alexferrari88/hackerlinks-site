@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "tangle-news",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:tangle-news:49085731",
+  "mention_ids": [
+    "2026-07-29:tangle-news:49085731"
+  ],
+  "name": "Tangle News",
+  "slug": "tangle-news",
+  "summary": "A weekday news digest that gives detailed breakdowns of four major stories each week.",
+  "thing_url": "https://www.readtangle.com/",
+  "times_seen": 1,
+  "why_included": "It was positively recommended as a practical middle ground between breaking-news churn and long-delay retrospectives."
+}

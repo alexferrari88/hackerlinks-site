@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "pi-agent",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:pi-agent:49078583",
+  "mention_ids": [
+    "2026-07-29:pi-agent:49078583"
+  ],
+  "name": "Pi Agent",
+  "slug": "pi-agent",
+  "summary": "A lightweight coding-agent harness focused on a lean, manual workflow.",
+  "thing_url": "https://pi.dev/",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as an even leaner alternative in a discussion about open-model coding setups."
+}

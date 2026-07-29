@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "run_date": "2026-07-29",
+  "generated_at": "2026-07-29T03:18:28Z",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-29.json",
+    "sha256": "e684659cf95b7e20c4ab1c1c74b8ee0fd2c40b72b9e88cdaec08a8cf403c47a9",
+    "bytes": 2593901,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4103,
+    "fetched_item_count": 4133,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "11 concrete, comment-endorsed tools, services, and publications selected from a verified 30-story HN front-page crawl.",
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "NERV Disaster Prevention app",
+      "category": "Practical Apps & Services",
+      "thing_url": "https://x.com/EN_NERV",
+      "hn_url": "https://news.ycombinator.com/item?id=49080664",
+      "source_story_title": "7.1 Earthquake in Japan",
+      "summary": "A Japanese disaster-alert app with real-time earthquake and seismic-intensity updates.",
+      "why_included": "A firsthand user called it faster than official sources and useful enough to visualize an arriving shockwave.",
+      "evidence": "A commenter said the NERV app delivers real-time alerts faster than official sources and described watching an earthquake's shockwave before feeling it.",
+      "evidence_sources": [{"comment_id":"49083986","comment_url":"https://news.ycombinator.com/item?id=49080664#49083986","author":"timr","excerpt":"The Nerv app is quite good. It usually gives real-time alerts faster than the official sources.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49082957"}]
+    },
+    {
+      "name": "Micropia",
+      "category": "Watch, Learn & Visit",
+      "thing_url": "https://www.artis.nl/en/artis-micropia",
+      "hn_url": "https://news.ycombinator.com/item?id=49036068",
+      "source_story_title": "How to survive boiling water",
+      "summary": "An Amsterdam museum dedicated to microbes and their role in everyday life.",
+      "why_included": "It was directly recommended as a memorable in-person science experience.",
+      "evidence": "A commenter recommended Micropia, highlighting its displays of foods and drinks aging over days to years.",
+      "evidence_sources": [{"comment_id":"49083017","comment_url":"https://news.ycombinator.com/item?id=49036068#49083017","author":"carschno","excerpt":"if you are ever in Amsterdam, I recommend to visit the Micropia museum","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "OpenSpec",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://openspec.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49076391",
+      "source_story_title": "Benchmarking Opus 5 on SlopCodeBench",
+      "summary": "A structured specification workflow for keeping coding-agent plans parseable and actionable.",
+      "why_included": "It was recommended as an existing implementation of a proposed plan-scaffolding and validation workflow.",
+      "evidence": "A commenter recommended OpenSpec as a tool implementing reusable plan templates, validation, and workflow-state evaluation.",
+      "evidence_sources": [{"comment_id":"49091159","comment_url":"https://news.ycombinator.com/item?id=49076391#49091159","author":"LiveTheDream","excerpt":"You should take a look at OpenSpec[0]. It implements your points 1-3.","kind":"recommendation","parent_comment_id":"49080566"}]
+    },
+    {
+      "name": "Agent Scaffold",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/nothingnesses/agent-scaffold",
+      "hn_url": "https://news.ycombinator.com/item?id=49076391",
+      "source_story_title": "Benchmarking Opus 5 on SlopCodeBench",
+      "summary": "A CLI for structured agent plans, workflow transitions, and plan-file validation.",
+      "why_included": "Its creator reported that dogfooding it reduced long-run agent drift, while clearly flagging that the codebase remains unfinished.",
+      "evidence": "The creator said the tool scaffolds and validates structured plans, and that their own use suggested it let Claude run longer with less drift.",
+      "evidence_sources": [{"comment_id":"49080566","comment_url":"https://news.ycombinator.com/item?id=49076391#49080566","author":"nicoty","excerpt":"So far, I've been dogfooding the tool and it seems promising: I can leave Claude running for longer and it doesn't drift as much.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49079402"}]
+    },
+    {
+      "name": "Delayed Gratification",
+      "category": "Watch, Learn & Visit",
+      "thing_url": "https://www.slow-journalism.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49085731",
+      "source_story_title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "summary": "A print-led slow-journalism magazine that revisits news after the immediate cycle.",
+      "why_included": "A former subscriber strongly endorsed its design, writing, and physical production despite deciding it was not their personal reading habit.",
+      "evidence": "A former subscriber called the publication beautifully designed and well written, and said it was worth trying for readers drawn to the premise.",
+      "evidence_sources": [{"comment_id":"49087004","comment_url":"https://news.ycombinator.com/item?id=49085731#49087004","author":"petercooper","excerpt":"It's beautifully designed, well written, good paper stock, the works. If the idea appeals to you, it's worth trying.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Tangle News",
+      "category": "Watch, Learn & Visit",
+      "thing_url": "https://www.readtangle.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49085731",
+      "source_story_title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "summary": "A weekday news digest that gives detailed breakdowns of four major stories each week.",
+      "why_included": "It was positively recommended as a practical middle ground between breaking-news churn and long-delay retrospectives.",
+      "evidence": "A commenter said Tangle News strikes a good balance, with detailed coverage of four top stories each week.",
+      "evidence_sources": [{"comment_id":"49087055","comment_url":"https://news.ycombinator.com/item?id=49085731#49087055","author":"Brendinooo","excerpt":"Tangle News[0] strikes a pretty good balance here.","kind":"recommendation","parent_comment_id":"49086731"}]
+    },
+    {
+      "name": "Verity",
+      "category": "Watch, Learn & Visit",
+      "thing_url": "https://www.verity.news/",
+      "hn_url": "https://news.ycombinator.com/item?id=49085731",
+      "source_story_title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "summary": "A news service that presents competing framing and sourcing around current stories.",
+      "why_included": "It was suggested as a concrete option for readers seeking to compare competing narratives.",
+      "evidence": "A commenter suggested Verity for readers interested in seeing both sides of news spin.",
+      "evidence_sources": [{"comment_id":"49087941","comment_url":"https://news.ycombinator.com/item?id=49085731#49087941","author":"cachvico","excerpt":"https://www.verity.news/ might be interesting for you; they try to show you both sides of the spin.","kind":"recommendation","parent_comment_id":"49086731"}]
+    },
+    {
+      "name": "Pi Agent",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pi.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49078583",
+      "source_story_title": "Using an open model feels surprisingly good",
+      "summary": "A lightweight coding-agent harness focused on a lean, manual workflow.",
+      "why_included": "It was explicitly recommended as an even leaner alternative in a discussion about open-model coding setups.",
+      "evidence": "A commenter described Pi Agent as leaner-feeling and said it was worth trying.",
+      "evidence_sources": [{"comment_id":"49078975","comment_url":"https://news.ycombinator.com/item?id=49078583#49078975","author":"roywiggins","excerpt":"Pi Agent is even leaner feeling, it's worth a try.","kind":"recommendation","parent_comment_id":"49078920"}]
+    },
+    {
+      "name": "Yap",
+      "category": "Practical Apps & Services",
+      "thing_url": "https://github.com/FrigadeHQ/yap",
+      "hn_url": "https://news.ycombinator.com/item?id=49073834",
+      "source_story_title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "summary": "An open-source macOS dictation app built on on-device speech APIs.",
+      "why_included": "A commenter building a personal knowledge tool saw it as a promising way to add direct voice interaction.",
+      "evidence": "A commenter called Yap a great opportunity for adding voice interaction to their project.",
+      "evidence_sources": [{"comment_id":"49080105","comment_url":"https://news.ycombinator.com/item?id=49073834#49080105","author":"9dev","excerpt":"Yap looks like a great opportunity to learn!","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "KineStop",
+      "category": "Practical Apps & Services",
+      "thing_url": "https://f-droid.org/packages/dev.davidv.motionsickness/",
+      "hn_url": "https://news.ycombinator.com/item?id=49077999",
+      "source_story_title": "Vehicle Motion Cues",
+      "summary": "An Android motion-cue app designed to reduce screen-induced travel sickness.",
+      "why_included": "A firsthand user said it worked better for them than Apple's equivalent, while noting its permissions trade-off.",
+      "evidence": "A commenter said KineStop worked better for them than Apple's iOS implementation, but noted that it needs invasive permissions.",
+      "evidence_sources": [{"comment_id":"49081549","comment_url":"https://news.ycombinator.com/item?id=49077999#49081549","author":"Cider9986","excerpt":"I use KineStop and it works better than Apple's version on iOS did for me.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49080816"}]
+    },
+    {
+      "name": "security-skills",
+      "category": "Security & Verification",
+      "thing_url": "https://github.com/instavm/security-skills",
+      "hn_url": "https://news.ycombinator.com/item?id=49089755",
+      "source_story_title": "Codex Security",
+      "summary": "A collection of pentesting skills distilled from public HackerOne disclosures.",
+      "why_included": "It was directly recommended to pentesters as a reusable, concrete knowledge pack.",
+      "evidence": "A commenter recommended the skills collection to pentesters and described it as distilled from 4,000 public HackerOne disclosures.",
+      "evidence_sources": [{"comment_id":"49092989","comment_url":"https://news.ycombinator.com/item?id=49089755#49092989","author":"mkagenius","excerpt":"If you are a pentester who uses mitmproxy you can check out security skills distilled from 4000 Hackerone public disclosures","kind":"recommendation","parent_comment_id":null}]
+    }
+  ]
+}

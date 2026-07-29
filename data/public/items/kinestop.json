@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "kinestop",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:kinestop:49077999",
+  "mention_ids": [
+    "2026-07-29:kinestop:49077999"
+  ],
+  "name": "KineStop",
+  "slug": "kinestop",
+  "summary": "An Android motion-cue app designed to reduce screen-induced travel sickness.",
+  "thing_url": "https://f-droid.org/packages/dev.davidv.motionsickness/",
+  "times_seen": 1,
+  "why_included": "A firsthand user said it worked better for them than Apple's equivalent, while noting its permissions trade-off."
+}

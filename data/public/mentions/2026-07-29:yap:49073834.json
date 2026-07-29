@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Yap a great opportunity for adding voice interaction to their project.",
+  "evidence_sources": [
+    {
+      "author": "9dev",
+      "comment_id": "49080105",
+      "comment_url": "https://news.ycombinator.com/item?id=49073834#49080105",
+      "excerpt": "Yap looks like a great opportunity to learn!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49073834",
+  "id": "2026-07-29:yap:49073834",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "yap",
+  "rank": 9,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49073834",
+  "source_story_title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download"
+}

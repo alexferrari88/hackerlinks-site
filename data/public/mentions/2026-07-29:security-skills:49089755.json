@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended the skills collection to pentesters and described it as distilled from 4,000 public HackerOne disclosures.",
+  "evidence_sources": [
+    {
+      "author": "mkagenius",
+      "comment_id": "49092989",
+      "comment_url": "https://news.ycombinator.com/item?id=49089755#49092989",
+      "excerpt": "If you are a pentester who uses mitmproxy you can check out security skills distilled from 4000 Hackerone public disclosures",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49089755",
+  "id": "2026-07-29:security-skills:49089755",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "security-skills",
+  "rank": 11,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49089755",
+  "source_story_title": "Codex Security"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter described Pi Agent as leaner-feeling and said it was worth trying.",
+  "evidence_sources": [
+    {
+      "author": "roywiggins",
+      "comment_id": "49078975",
+      "comment_url": "https://news.ycombinator.com/item?id=49078583#49078975",
+      "excerpt": "Pi Agent is even leaner feeling, it's worth a try.",
+      "kind": "recommendation",
+      "parent_comment_id": "49078920"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49078583",
+  "id": "2026-07-29:pi-agent:49078583",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "pi-agent",
+  "rank": 8,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49078583",
+  "source_story_title": "Using an open model feels surprisingly good"
+}

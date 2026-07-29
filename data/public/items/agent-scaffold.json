@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-29T03:18:28Z",
+  "id": "agent-scaffold",
+  "last_seen_at": "2026-07-29T03:18:28Z",
+  "latest_mention_id": "2026-07-29:agent-scaffold:49076391",
+  "mention_ids": [
+    "2026-07-29:agent-scaffold:49076391"
+  ],
+  "name": "Agent Scaffold",
+  "slug": "agent-scaffold",
+  "summary": "A CLI for structured agent plans, workflow transitions, and plan-file validation.",
+  "thing_url": "https://github.com/nothingnesses/agent-scaffold",
+  "times_seen": 1,
+  "why_included": "Its creator reported that dogfooding it reduced long-run agent drift, while clearly flagging that the codebase remains unfinished."
+}

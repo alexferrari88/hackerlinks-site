@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said Tangle News strikes a good balance, with detailed coverage of four top stories each week.",
+  "evidence_sources": [
+    {
+      "author": "Brendinooo",
+      "comment_id": "49087055",
+      "comment_url": "https://news.ycombinator.com/item?id=49085731#49087055",
+      "excerpt": "Tangle News[0] strikes a pretty good balance here.",
+      "kind": "recommendation",
+      "parent_comment_id": "49086731"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49085731",
+  "id": "2026-07-29:tangle-news:49085731",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "tangle-news",
+  "rank": 6,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49085731",
+  "source_story_title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'"
+}

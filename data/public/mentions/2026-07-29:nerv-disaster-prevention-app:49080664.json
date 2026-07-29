@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said the NERV app delivers real-time alerts faster than official sources and described watching an earthquake's shockwave before feeling it.",
+  "evidence_sources": [
+    {
+      "author": "timr",
+      "comment_id": "49083986",
+      "comment_url": "https://news.ycombinator.com/item?id=49080664#49083986",
+      "context": "first_hand_use",
+      "excerpt": "The Nerv app is quite good. It usually gives real-time alerts faster than the official sources.",
+      "kind": "recommendation",
+      "parent_comment_id": "49082957"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49080664",
+  "id": "2026-07-29:nerv-disaster-prevention-app:49080664",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "nerv-disaster-prevention-app",
+  "rank": 1,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49080664",
+  "source_story_title": "7.1 Earthquake in Japan"
+}

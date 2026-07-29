@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator said the tool scaffolds and validates structured plans, and that their own use suggested it let Claude run longer with less drift.",
+  "evidence_sources": [
+    {
+      "author": "nicoty",
+      "comment_id": "49080566",
+      "comment_url": "https://news.ycombinator.com/item?id=49076391#49080566",
+      "context": "first_hand_use",
+      "excerpt": "So far, I've been dogfooding the tool and it seems promising: I can leave Claude running for longer and it doesn't drift as much.",
+      "kind": "recommendation",
+      "parent_comment_id": "49079402"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49076391",
+  "id": "2026-07-29:agent-scaffold:49076391",
+  "is_repeat": false,
+  "issue_id": "2026-07-29",
+  "item_id": "agent-scaffold",
+  "rank": 4,
+  "seen_at": "2026-07-29T03:18:28Z",
+  "source_story_id": "49076391",
+  "source_story_title": "Benchmarking Opus 5 on SlopCodeBench"
+}

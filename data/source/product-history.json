@@ -105,6 +105,12 @@
       "times_reported": 1
     },
     {
+      "name": "Agent Scaffold",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
       "name": "Agent-talk",
       "first_reported_at": "2026-07-16T21:12:29.961642Z",
       "last_reported_at": "2026-07-16T21:12:29.961642Z",
@@ -1236,6 +1242,12 @@
       "name": "Deepsid / Chordian SID player",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Delayed Gratification",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
       "times_reported": 1
     },
     {
@@ -2613,6 +2625,12 @@
       "times_reported": 1
     },
     {
+      "name": "KineStop",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
       "name": "Kioxia 10 PB 2RU server",
       "first_reported_at": "2026-05-16T21:36:59Z",
       "last_reported_at": "2026-05-16T21:36:59Z",
@@ -3093,6 +3111,12 @@
       "times_reported": 1
     },
     {
+      "name": "Micropia",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
       "name": "Microsoft Comic Chat",
       "first_reported_at": "2026-07-16T21:12:29.961642Z",
       "last_reported_at": "2026-07-16T21:12:29.961642Z",
@@ -3432,6 +3456,12 @@
       "name": "Neralie",
       "first_reported_at": "2026-07-10T21:08:51.108728Z",
       "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NERV Disaster Prevention app",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
       "times_reported": 1
     },
     {
@@ -3795,6 +3825,12 @@
       "times_reported": 1
     },
     {
+      "name": "OpenSpec",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
       "name": "OpenSpeedTest",
       "first_reported_at": "2026-05-30T21:12:13Z",
       "last_reported_at": "2026-05-30T21:12:13Z",
@@ -4098,6 +4134,12 @@
       "name": "Pi",
       "first_reported_at": "2026-07-12T21:08:26Z",
       "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pi Agent",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
       "times_reported": 1
     },
     {
@@ -4743,6 +4785,12 @@
       "times_reported": 1
     },
     {
+      "name": "security-skills",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
       "name": "Seestar",
       "first_reported_at": "2026-06-19T21:00:54Z",
       "last_reported_at": "2026-06-19T21:00:54Z",
@@ -5226,6 +5274,12 @@
       "name": "Tailscale",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Tangle News",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
       "times_reported": 1
     },
     {
@@ -5715,6 +5769,12 @@
       "times_reported": 1
     },
     {
+      "name": "Verity",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
       "name": "Verus",
       "first_reported_at": "2026-07-28T03:17:21Z",
       "last_reported_at": "2026-07-28T03:17:21Z",
@@ -6042,6 +6102,12 @@
       "name": "xteink X4",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Yap",
+      "first_reported_at": "2026-07-29T03:18:28Z",
+      "last_reported_at": "2026-07-29T03:18:28Z",
       "times_reported": 1
     },
     {
