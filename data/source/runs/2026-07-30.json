@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "run_date": "2026-07-30",
+  "generated_at": "2026-07-30T03:16:32Z",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-30.json",
+    "sha256": "c4c0b7db0b57b769ab055b147ab580880f8f189a873a22cf24358c4116abdd1e",
+    "bytes": 2412958,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3881,
+    "fetched_item_count": 3911,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "11 concrete, comment-endorsed tools and learning products selected from a verified 30-story HN front-page crawl.",
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "turbo-fieldfare",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/drumih/turbo-fieldfare",
+      "hn_url": "https://news.ycombinator.com/item?id=49098510",
+      "source_story_title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "summary": "An open-source Mac engine that streams Gemma 4 experts from storage to minimize RAM use.",
+      "why_included": "A firsthand benchmark reported fast, graceful performance under memory pressure on an M4 Max.",
+      "evidence": "A commenter benchmarked turbo-fieldfare on a 64 GB M4 Max and praised its gradual degradation under memory pressure.",
+      "evidence_sources": [{"comment_id":"49105161","comment_url":"https://news.ycombinator.com/item?id=49098510#49105161","author":"pwython","excerpt":"Ran this on a 64 GB M4 Max MacBook.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Hacker News Button",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/jstrieb/hackernews-button",
+      "hn_url": "https://news.ycombinator.com/item?id=49090607",
+      "source_story_title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "summary": "A Firefox extension that finds Hacker News discussions for the page currently being read.",
+      "why_included": "It offers an explicitly privacy-conscious alternative that avoids a request until the button is pressed.",
+      "evidence": "Its creator said the extension uses Bloom filters and makes no external request unless the user presses the button.",
+      "evidence_sources": [{"comment_id":"49094342","comment_url":"https://news.ycombinator.com/item?id=49090607#49094342","author":"jstrieb","excerpt":"Using Bloom filters means that there are no external requests unless you actually press the button.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "BookOrbit",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://bookorbit.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49095865",
+      "source_story_title": "KOReader",
+      "summary": "A self-hostable book-library service with KOReader sync for progress and annotations.",
+      "why_included": "A long-term Kindle user described it as part of their preferred open, self-hosted reading setup.",
+      "evidence": "A commenter said BookOrbit provides a KOReader plugin that syncs reading progress and annotations.",
+      "evidence_sources": [{"comment_id":"49097411","comment_url":"https://news.ycombinator.com/item?id=49095865#49097411","author":"joshstrange","excerpt":"BookOrbit: It provides a plugin for KOReader that syncs your progress, annotations, etc.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Murasaki",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://genjiapp.com/mac/murasaki/index_en.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49095865",
+      "source_story_title": "KOReader",
+      "summary": "A lightweight macOS reader for EPUB and PDF files.",
+      "why_included": "It was enthusiastically recommended for performance and a focused reading experience.",
+      "evidence": "A commenter called Murasaki the most performant and sleek macOS ebook reader they had found.",
+      "evidence_sources": [{"comment_id":"49096402","comment_url":"https://news.ycombinator.com/item?id=49095865#49096402","author":"carlosjobim","excerpt":"Murasaki [1] is the most performant and sleek ebook reader you can get for MacOS currently.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Librera",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://librera.mobi/",
+      "hn_url": "https://news.ycombinator.com/item?id=49093569",
+      "source_story_title": "More Tailscale tricks for your jailbroken Kindle",
+      "summary": "An Android ebook reader available in a full version through F-Droid.",
+      "why_included": "It was directly recommended as a strong Android alternative for configurable reading.",
+      "evidence": "A commenter called Librera a similarly awesome ebook reader on Android and noted that F-Droid carries the full version.",
+      "evidence_sources": [{"comment_id":"49094371","comment_url":"https://news.ycombinator.com/item?id=49093569#49094371","author":"dizhn","excerpt":"A similarly awesome ebook reader on Android is Librera.","kind":"recommendation","parent_comment_id":"49094189"}]
+    },
+    {
+      "name": "Picotron",
+      "category": "Creative Tools & Games",
+      "thing_url": "https://www.lexaloffle.com/picotron.php",
+      "hn_url": "https://news.ycombinator.com/item?id=49093434",
+      "source_story_title": "User Interfaces of the Demo Scene",
+      "summary": "A fantasy workstation for making and sharing small software, music, and visual tools.",
+      "why_included": "It was strongly recommended for preserving the expressive, custom-UI spirit of demoscene tools.",
+      "evidence": "A commenter strongly recommended Picotron for its nostalgic interface, music tracker, and ecosystem of custom utilities.",
+      "evidence_sources": [{"comment_id":"49098434","comment_url":"https://news.ycombinator.com/item?id=49093434#49098434","author":"aquova","excerpt":"If you're interested or nostalgic for these types of UIs, I would strongly recommend Picotron[0].","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "RapidRAW",
+      "category": "Creative Tools & Games",
+      "thing_url": "https://github.com/cybertimon/rapidraw",
+      "hn_url": "https://news.ycombinator.com/item?id=49096654",
+      "source_story_title": "Darktable",
+      "summary": "An open-source RAW photo editor with frequent releases and an active maintainer.",
+      "why_included": "A longtime Darktable user reported moving to it after repeated workflow and camera-color problems.",
+      "evidence": "A commenter said they were starting to love RapidRAW and highlighted its active development cadence.",
+      "evidence_sources": [{"comment_id":"49102294","comment_url":"https://news.ycombinator.com/item?id=49096654#49102294","author":"qurren","excerpt":"I'm currently starting to love RapidRAW","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49098654"}]
+    },
+    {
+      "name": "Math Academy",
+      "category": "Watch, Learn & Read",
+      "thing_url": "https://www.mathacademy.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49092499",
+      "source_story_title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary": "An adaptive math-learning platform centered on structured practice and progress tracking.",
+      "why_included": "A new user signed up after an HN recommendation and called it exactly what they wanted.",
+      "evidence": "A commenter said they signed up for Math Academy after a quick look and found it fantastic.",
+      "evidence_sources": [{"comment_id":"49095609","comment_url":"https://news.ycombinator.com/item?id=49092499#49095609","author":"Douger","excerpt":"After a quick look I signed up and it is fantastic - exactly what I wanted.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49093986"}]
+    },
+    {
+      "name": "Socratic Quiz skill",
+      "category": "Watch, Learn & Read",
+      "thing_url": "https://pchalasani.github.io/claude-code-tools/plugins-detail/workflow/#socratic-quiz",
+      "hn_url": "https://news.ycombinator.com/item?id=49092499",
+      "source_story_title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary": "A Claude skill that tutors through document-led Socratic questions rather than immediate answers.",
+      "why_included": "A user reported that it worked well for learning from dense linear-algebra and Postgres material.",
+      "evidence": "A commenter called the Socratic-method skill fantastic after using it with dense technical PDFs.",
+      "evidence_sources": [{"comment_id":"49092748","comment_url":"https://news.ycombinator.com/item?id=49092499#49092748","author":"genghisjahn","excerpt":"I’ve found this to be fantastic.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Hubble",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.hubble.md/",
+      "hn_url": "https://news.ycombinator.com/item?id=49091730",
+      "source_story_title": "Hubble: Open-source notetaking app for you and your agents",
+      "summary": "A local Markdown note app designed for shared use by people and coding agents.",
+      "why_included": "A commenter said it met nearly all of their Markdown-editor wishlist and was easy to extend locally.",
+      "evidence": "A commenter said Hubble had almost everything on their Markdown-editor wishlist and reported adding Mermaid rendering to a local build.",
+      "evidence_sources": [{"comment_id":"49093594","comment_url":"https://news.ycombinator.com/item?id=49091730#49093594","author":"shreddude","excerpt":"I’ve been waiting for an app like this to be developed!","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Kimi K3-256k",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "hn_url": "https://news.ycombinator.com/item?id=49101852",
+      "source_story_title": "Kimi K3-256k",
+      "summary": "A Kimi coding model offering a 256k-token context window.",
+      "why_included": "A long-term user endorsed its service recovery after demand surged following the K3 launch.",
+      "evidence": "A commenter said they had used Kimi for months and were glad capacity was prioritized for existing customers after K3's launch.",
+      "evidence_sources": [{"comment_id":"49103177","comment_url":"https://news.ycombinator.com/item?id=49101852#49103177","author":"zorked","excerpt":"I have been using Kimi for months.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49102494"}]
+    }
+  ]
+}

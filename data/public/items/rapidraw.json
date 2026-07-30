@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "rapidraw",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:rapidraw:49096654",
+  "mention_ids": [
+    "2026-07-30:rapidraw:49096654"
+  ],
+  "name": "RapidRAW",
+  "slug": "rapidraw",
+  "summary": "An open-source RAW photo editor with frequent releases and an active maintainer.",
+  "thing_url": "https://github.com/cybertimon/rapidraw",
+  "times_seen": 1,
+  "why_included": "A longtime Darktable user reported moving to it after repeated workflow and camera-color problems."
+}

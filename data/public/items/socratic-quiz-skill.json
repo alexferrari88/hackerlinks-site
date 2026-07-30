@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "socratic-quiz-skill",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:socratic-quiz-skill:49092499",
+  "mention_ids": [
+    "2026-07-30:socratic-quiz-skill:49092499"
+  ],
+  "name": "Socratic Quiz skill",
+  "slug": "socratic-quiz-skill",
+  "summary": "A Claude skill that tutors through document-led Socratic questions rather than immediate answers.",
+  "thing_url": "https://pchalasani.github.io/claude-code-tools/plugins-detail/workflow/#socratic-quiz",
+  "times_seen": 1,
+  "why_included": "A user reported that it worked well for learning from dense linear-algebra and Postgres material."
+}

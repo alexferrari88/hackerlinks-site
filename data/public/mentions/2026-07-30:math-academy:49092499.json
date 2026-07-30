@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they signed up for Math Academy after a quick look and found it fantastic.",
+  "evidence_sources": [
+    {
+      "author": "Douger",
+      "comment_id": "49095609",
+      "comment_url": "https://news.ycombinator.com/item?id=49092499#49095609",
+      "context": "first_hand_use",
+      "excerpt": "After a quick look I signed up and it is fantastic - exactly what I wanted.",
+      "kind": "recommendation",
+      "parent_comment_id": "49093986"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49092499",
+  "id": "2026-07-30:math-academy:49092499",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "math-academy",
+  "rank": 8,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49092499",
+  "source_story_title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences"
+}

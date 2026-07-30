@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "hubble",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:hubble:49091730",
+  "mention_ids": [
+    "2026-07-30:hubble:49091730"
+  ],
+  "name": "Hubble",
+  "slug": "hubble",
+  "summary": "A local Markdown note app designed for shared use by people and coding agents.",
+  "thing_url": "https://www.hubble.md/",
+  "times_seen": 1,
+  "why_included": "A commenter said it met nearly all of their Markdown-editor wishlist and was easy to extend locally."
+}

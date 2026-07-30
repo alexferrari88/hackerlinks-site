@@ -513,6 +513,12 @@
       "times_reported": 1
     },
     {
+      "name": "BookOrbit",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "BookShelves",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
@@ -2091,6 +2097,12 @@
       "times_reported": 1
     },
     {
+      "name": "Hacker News Button",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "HackTV",
       "first_reported_at": "2026-06-06T21:23:39Z",
       "last_reported_at": "2026-06-06T21:23:39Z",
@@ -2256,6 +2268,12 @@
       "name": "htmx",
       "first_reported_at": "2026-07-27T05:15:00+02:00",
       "last_reported_at": "2026-07-27T05:15:00+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hubble",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -2625,6 +2643,12 @@
       "times_reported": 1
     },
     {
+      "name": "Kimi K3-256k",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "KineStop",
       "first_reported_at": "2026-07-29T03:18:28Z",
       "last_reported_at": "2026-07-29T03:18:28Z",
@@ -2841,6 +2865,12 @@
       "times_reported": 2
     },
     {
+      "name": "Librera",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "LibreWolf",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -3018,6 +3048,12 @@
       "name": "Mastering Dyalog APL",
       "first_reported_at": "2026-05-24T21:19:07Z",
       "last_reported_at": "2026-05-24T21:19:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Math Academy",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -3348,6 +3384,12 @@
       "name": "Mullvad",
       "first_reported_at": "2026-06-29T21:35:35Z",
       "last_reported_at": "2026-06-29T21:35:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Murasaki",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -4167,6 +4209,12 @@
       "times_reported": 1
     },
     {
+      "name": "Picotron",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "Pieces of the Kingdom",
       "first_reported_at": "2026-06-25T21:17:10Z",
       "last_reported_at": "2026-06-25T21:17:10Z",
@@ -4500,6 +4548,12 @@
       "name": "RandomX.js",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "RapidRAW",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -4962,6 +5016,12 @@
       "name": "Social Animal",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Socratic Quiz skill",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -5574,6 +5634,12 @@
       "name": "tuicr",
       "first_reported_at": "2026-05-29T21:09:53Z",
       "last_reported_at": "2026-05-29T21:09:53Z",
+      "times_reported": 1
+    },
+    {
+      "name": "turbo-fieldfare",
+      "first_reported_at": "2026-07-30T03:16:32Z",
+      "last_reported_at": "2026-07-30T03:16:32Z",
       "times_reported": 1
     },
     {

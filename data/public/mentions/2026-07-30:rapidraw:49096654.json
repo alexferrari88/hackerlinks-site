@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they were starting to love RapidRAW and highlighted its active development cadence.",
+  "evidence_sources": [
+    {
+      "author": "qurren",
+      "comment_id": "49102294",
+      "comment_url": "https://news.ycombinator.com/item?id=49096654#49102294",
+      "context": "first_hand_use",
+      "excerpt": "I'm currently starting to love RapidRAW",
+      "kind": "recommendation",
+      "parent_comment_id": "49098654"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49096654",
+  "id": "2026-07-30:rapidraw:49096654",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "rapidraw",
+  "rank": 7,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49096654",
+  "source_story_title": "Darktable"
+}

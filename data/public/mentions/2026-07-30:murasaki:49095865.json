@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Murasaki the most performant and sleek macOS ebook reader they had found.",
+  "evidence_sources": [
+    {
+      "author": "carlosjobim",
+      "comment_id": "49096402",
+      "comment_url": "https://news.ycombinator.com/item?id=49095865#49096402",
+      "excerpt": "Murasaki [1] is the most performant and sleek ebook reader you can get for MacOS currently.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49095865",
+  "id": "2026-07-30:murasaki:49095865",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "murasaki",
+  "rank": 4,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49095865",
+  "source_story_title": "KOReader"
+}

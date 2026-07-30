@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "bookorbit",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:bookorbit:49095865",
+  "mention_ids": [
+    "2026-07-30:bookorbit:49095865"
+  ],
+  "name": "BookOrbit",
+  "slug": "bookorbit",
+  "summary": "A self-hostable book-library service with KOReader sync for progress and annotations.",
+  "thing_url": "https://bookorbit.app/",
+  "times_seen": 1,
+  "why_included": "A long-term Kindle user described it as part of their preferred open, self-hosted reading setup."
+}

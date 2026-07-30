@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they had used Kimi for months and were glad capacity was prioritized for existing customers after K3's launch.",
+  "evidence_sources": [
+    {
+      "author": "zorked",
+      "comment_id": "49103177",
+      "comment_url": "https://news.ycombinator.com/item?id=49101852#49103177",
+      "context": "first_hand_use",
+      "excerpt": "I have been using Kimi for months.",
+      "kind": "recommendation",
+      "parent_comment_id": "49102494"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49101852",
+  "id": "2026-07-30:kimi-k3-256k:49101852",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "kimi-k3-256k",
+  "rank": 11,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49101852",
+  "source_story_title": "Kimi K3-256k"
+}

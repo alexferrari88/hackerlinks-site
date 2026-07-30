@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "turbo-fieldfare",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:turbo-fieldfare:49098510",
+  "mention_ids": [
+    "2026-07-30:turbo-fieldfare:49098510"
+  ],
+  "name": "turbo-fieldfare",
+  "slug": "turbo-fieldfare",
+  "summary": "An open-source Mac engine that streams Gemma 4 experts from storage to minimize RAM use.",
+  "thing_url": "https://github.com/drumih/turbo-fieldfare",
+  "times_seen": 1,
+  "why_included": "A firsthand benchmark reported fast, graceful performance under memory pressure on an M4 Max."
+}

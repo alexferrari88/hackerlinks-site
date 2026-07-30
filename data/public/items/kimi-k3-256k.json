@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "kimi-k3-256k",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:kimi-k3-256k:49101852",
+  "mention_ids": [
+    "2026-07-30:kimi-k3-256k:49101852"
+  ],
+  "name": "Kimi K3-256k",
+  "slug": "kimi-k3-256k",
+  "summary": "A Kimi coding model offering a 256k-token context window.",
+  "thing_url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+  "times_seen": 1,
+  "why_included": "A long-term user endorsed its service recovery after demand surged following the K3 launch."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "murasaki",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:murasaki:49095865",
+  "mention_ids": [
+    "2026-07-30:murasaki:49095865"
+  ],
+  "name": "Murasaki",
+  "slug": "murasaki",
+  "summary": "A lightweight macOS reader for EPUB and PDF files.",
+  "thing_url": "https://genjiapp.com/mac/murasaki/index_en.html",
+  "times_seen": 1,
+  "why_included": "It was enthusiastically recommended for performance and a focused reading experience."
+}

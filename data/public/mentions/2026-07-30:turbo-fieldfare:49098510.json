@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter benchmarked turbo-fieldfare on a 64 GB M4 Max and praised its gradual degradation under memory pressure.",
+  "evidence_sources": [
+    {
+      "author": "pwython",
+      "comment_id": "49105161",
+      "comment_url": "https://news.ycombinator.com/item?id=49098510#49105161",
+      "context": "first_hand_use",
+      "excerpt": "Ran this on a 64 GB M4 Max MacBook.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49098510",
+  "id": "2026-07-30:turbo-fieldfare:49098510",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "turbo-fieldfare",
+  "rank": 1,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49098510",
+  "source_story_title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac"
+}

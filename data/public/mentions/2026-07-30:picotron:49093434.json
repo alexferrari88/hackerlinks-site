@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter strongly recommended Picotron for its nostalgic interface, music tracker, and ecosystem of custom utilities.",
+  "evidence_sources": [
+    {
+      "author": "aquova",
+      "comment_id": "49098434",
+      "comment_url": "https://news.ycombinator.com/item?id=49093434#49098434",
+      "excerpt": "If you're interested or nostalgic for these types of UIs, I would strongly recommend Picotron[0].",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49093434",
+  "id": "2026-07-30:picotron:49093434",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "picotron",
+  "rank": 6,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49093434",
+  "source_story_title": "User Interfaces of the Demo Scene"
+}

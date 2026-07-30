@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "hacker-news-button",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:hacker-news-button:49090607",
+  "mention_ids": [
+    "2026-07-30:hacker-news-button:49090607"
+  ],
+  "name": "Hacker News Button",
+  "slug": "hacker-news-button",
+  "summary": "A Firefox extension that finds Hacker News discussions for the page currently being read.",
+  "thing_url": "https://github.com/jstrieb/hackernews-button",
+  "times_seen": 1,
+  "why_included": "It offers an explicitly privacy-conscious alternative that avoids a request until the button is pressed."
+}

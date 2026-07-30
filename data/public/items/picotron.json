@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "picotron",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:picotron:49093434",
+  "mention_ids": [
+    "2026-07-30:picotron:49093434"
+  ],
+  "name": "Picotron",
+  "slug": "picotron",
+  "summary": "A fantasy workstation for making and sharing small software, music, and visual tools.",
+  "thing_url": "https://www.lexaloffle.com/picotron.php",
+  "times_seen": 1,
+  "why_included": "It was strongly recommended for preserving the expressive, custom-UI spirit of demoscene tools."
+}

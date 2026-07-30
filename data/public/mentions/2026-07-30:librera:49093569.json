@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Librera a similarly awesome ebook reader on Android and noted that F-Droid carries the full version.",
+  "evidence_sources": [
+    {
+      "author": "dizhn",
+      "comment_id": "49094371",
+      "comment_url": "https://news.ycombinator.com/item?id=49093569#49094371",
+      "excerpt": "A similarly awesome ebook reader on Android is Librera.",
+      "kind": "recommendation",
+      "parent_comment_id": "49094189"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49093569",
+  "id": "2026-07-30:librera:49093569",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "librera",
+  "rank": 5,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49093569",
+  "source_story_title": "More Tailscale tricks for your jailbroken Kindle"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said BookOrbit provides a KOReader plugin that syncs reading progress and annotations.",
+  "evidence_sources": [
+    {
+      "author": "joshstrange",
+      "comment_id": "49097411",
+      "comment_url": "https://news.ycombinator.com/item?id=49095865#49097411",
+      "context": "first_hand_use",
+      "excerpt": "BookOrbit: It provides a plugin for KOReader that syncs your progress, annotations, etc.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49095865",
+  "id": "2026-07-30:bookorbit:49095865",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "bookorbit",
+  "rank": 3,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49095865",
+  "source_story_title": "KOReader"
+}

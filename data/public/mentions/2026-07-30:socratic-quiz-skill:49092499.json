@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called the Socratic-method skill fantastic after using it with dense technical PDFs.",
+  "evidence_sources": [
+    {
+      "author": "genghisjahn",
+      "comment_id": "49092748",
+      "comment_url": "https://news.ycombinator.com/item?id=49092499#49092748",
+      "context": "first_hand_use",
+      "excerpt": "I\u2019ve found this to be fantastic.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49092499",
+  "id": "2026-07-30:socratic-quiz-skill:49092499",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "socratic-quiz-skill",
+  "rank": 9,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49092499",
+  "source_story_title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences"
+}

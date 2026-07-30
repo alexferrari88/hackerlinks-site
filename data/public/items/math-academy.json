@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-30T03:16:32Z",
+  "id": "math-academy",
+  "last_seen_at": "2026-07-30T03:16:32Z",
+  "latest_mention_id": "2026-07-30:math-academy:49092499",
+  "mention_ids": [
+    "2026-07-30:math-academy:49092499"
+  ],
+  "name": "Math Academy",
+  "slug": "math-academy",
+  "summary": "An adaptive math-learning platform centered on structured practice and progress tracking.",
+  "thing_url": "https://www.mathacademy.com/",
+  "times_seen": 1,
+  "why_included": "A new user signed up after an HN recommendation and called it exactly what they wanted."
+}

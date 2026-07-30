@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said Hubble had almost everything on their Markdown-editor wishlist and reported adding Mermaid rendering to a local build.",
+  "evidence_sources": [
+    {
+      "author": "shreddude",
+      "comment_id": "49093594",
+      "comment_url": "https://news.ycombinator.com/item?id=49091730#49093594",
+      "context": "first_hand_use",
+      "excerpt": "I\u2019ve been waiting for an app like this to be developed!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49091730",
+  "id": "2026-07-30:hubble:49091730",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "hubble",
+  "rank": 10,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49091730",
+  "source_story_title": "Hubble: Open-source notetaking app for you and your agents"
+}

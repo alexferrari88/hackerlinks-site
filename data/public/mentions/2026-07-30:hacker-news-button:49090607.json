@@ -1,0 +1,22 @@
+{
+  "evidence": "Its creator said the extension uses Bloom filters and makes no external request unless the user presses the button.",
+  "evidence_sources": [
+    {
+      "author": "jstrieb",
+      "comment_id": "49094342",
+      "comment_url": "https://news.ycombinator.com/item?id=49090607#49094342",
+      "excerpt": "Using Bloom filters means that there are no external requests unless you actually press the button.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49090607",
+  "id": "2026-07-30:hacker-news-button:49090607",
+  "is_repeat": false,
+  "issue_id": "2026-07-30",
+  "item_id": "hacker-news-button",
+  "rank": 2,
+  "seen_at": "2026-07-30T03:16:32Z",
+  "source_story_id": "49090607",
+  "source_story_title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript"
+}
