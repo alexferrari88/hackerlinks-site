@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "nvidia-shield",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:nvidia-shield:49112744",
+  "mention_ids": [
+    "2026-07-31:nvidia-shield:49112744"
+  ],
+  "name": "NVIDIA Shield",
+  "slug": "nvidia-shield",
+  "summary": "An older Android TV streaming device still praised for quality.",
+  "thing_url": "https://www.nvidia.com/en-us/shield/",
+  "times_seen": 1,
+  "why_included": "A commenter gave it a direct, emphatic recommendation despite its age."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommended the book as a detailed explanation of DeepMind and other frontier labs.",
+  "evidence_sources": [
+    {
+      "author": "ddfarmr",
+      "comment_id": "49115858",
+      "comment_url": "https://news.ycombinator.com/item?id=49111237#49115858",
+      "context": "first_hand_use",
+      "excerpt": "I recommend reading \u201eThe Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence\u201c from Sebastian Mallaby.",
+      "kind": "recommendation",
+      "parent_comment_id": "49112454"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49111237",
+  "id": "2026-07-31:the-infinity-machine:49111237",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "the-infinity-machine",
+  "rank": 6,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49111237",
+  "source_story_title": "Gemini Robotics 2 brings whole body intelligence to robots"
+}

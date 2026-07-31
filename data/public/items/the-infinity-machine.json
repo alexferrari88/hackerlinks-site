@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "the-infinity-machine",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:the-infinity-machine:49111237",
+  "mention_ids": [
+    "2026-07-31:the-infinity-machine:49111237"
+  ],
+  "name": "The Infinity Machine",
+  "slug": "the-infinity-machine",
+  "summary": "A reported book about Demis Hassabis, DeepMind, and the AI race.",
+  "thing_url": "https://www.penguinrandomhouse.com/books/752231/the-infinity-machine-by-sebastian-mallaby",
+  "times_seen": 1,
+  "why_included": "A reader called it their best book of the current vacation and recommended it for DeepMind context."
+}

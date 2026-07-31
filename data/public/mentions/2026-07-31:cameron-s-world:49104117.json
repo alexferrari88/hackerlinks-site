@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Cameron's World an absurdly great web mishmash of old GeoCities material.",
+  "evidence_sources": [
+    {
+      "author": "vunderba",
+      "comment_id": "49105593",
+      "comment_url": "https://news.ycombinator.com/item?id=49104117#49105593",
+      "excerpt": "Anyone who hasn't seen it should check out Cameron\u2019s World: an absurdly great web mishmash of text and images from old archived GeoCities pages.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49104117",
+  "id": "2026-07-31:cameron-s-world:49104117",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "cameron-s-world",
+  "rank": 9,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49104117",
+  "source_story_title": "LLM Honeypot"
+}

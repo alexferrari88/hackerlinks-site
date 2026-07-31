@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Azul a great board game, easy to start, complex, and heartily recommended.",
+  "evidence_sources": [
+    {
+      "author": "senko",
+      "comment_id": "49108222",
+      "comment_url": "https://news.ycombinator.com/item?id=49089502#49108222",
+      "excerpt": "is a great board game inspired by this style. Easy to start, can get quite complex, heartily recommended!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49089502",
+  "id": "2026-07-31:azul:49089502",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "azul",
+  "rank": 12,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49089502",
+  "source_story_title": "Azulejo"
+}

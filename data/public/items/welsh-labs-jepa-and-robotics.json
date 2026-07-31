@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "welsh-labs-jepa-and-robotics",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:welsh-labs-jepa-and-robotics:49111237",
+  "mention_ids": [
+    "2026-07-31:welsh-labs-jepa-and-robotics:49111237"
+  ],
+  "name": "Welsh Labs: JEPA and robotics",
+  "slug": "welsh-labs-jepa-and-robotics",
+  "summary": "A Welsh Labs video explaining JEPA concepts through robotics.",
+  "thing_url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
+  "times_seen": 1,
+  "why_included": "A commenter directly called the video great while discussing robotics architectures."
+}

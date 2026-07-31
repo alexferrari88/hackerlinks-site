@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "git-spice",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:git-spice:49112232",
+  "mention_ids": [
+    "2026-07-31:git-spice:49112232"
+  ],
+  "name": "git-spice",
+  "slug": "git-spice",
+  "summary": "An open-source Git tool for creating and managing stacked pull-request branches.",
+  "thing_url": "https://github.com/abhinav/git-spice",
+  "times_seen": 1,
+  "why_included": "Two commenters independently endorsed it as a focused, low-friction stacked-PR workflow."
+}

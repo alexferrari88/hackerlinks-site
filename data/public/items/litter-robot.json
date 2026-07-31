@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "litter-robot",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:litter-robot:49111237",
+  "mention_ids": [
+    "2026-07-31:litter-robot:49111237"
+  ],
+  "name": "Litter-Robot",
+  "slug": "litter-robot",
+  "summary": "An automatic litter box with a long-term owner report of durable use.",
+  "thing_url": "https://www.litter-robot.com/",
+  "times_seen": 1,
+  "why_included": "The owner reported a decade of use from one model and enthusiastically recommended the product."
+}

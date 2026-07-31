@@ -1,0 +1,23 @@
+{
+  "evidence": "One owner said a Litter-Robot 3 was still going strong after ten years and called the machines great.",
+  "evidence_sources": [
+    {
+      "author": "entropic",
+      "comment_id": "49113516",
+      "comment_url": "https://news.ycombinator.com/item?id=49111237#49113516",
+      "context": "first_hand_use",
+      "excerpt": "I have a litter robot 3 that is still going strong after 10 years,",
+      "kind": "recommendation",
+      "parent_comment_id": "49112479"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49111237",
+  "id": "2026-07-31:litter-robot:49111237",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "litter-robot",
+  "rank": 7,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49111237",
+  "source_story_title": "Gemini Robotics 2 brings whole body intelligence to robots"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "One commenter called the NVIDIA Shield pretty damn good even though it is old.",
+  "evidence_sources": [
+    {
+      "author": "trouve_search",
+      "comment_id": "49115589",
+      "comment_url": "https://news.ycombinator.com/item?id=49112744#49115589",
+      "excerpt": "The nvidia shield is pretty damn good as well, even if old at this point.",
+      "kind": "recommendation",
+      "parent_comment_id": "49113871"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49112744",
+  "id": "2026-07-31:nvidia-shield:49112744",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "nvidia-shield",
+  "rank": 5,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49112744",
+  "source_story_title": "Read this before you buy that TV streaming stick"
+}

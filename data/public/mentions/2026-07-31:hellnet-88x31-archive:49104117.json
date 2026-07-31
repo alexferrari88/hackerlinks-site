@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said people who like Cameron's World would probably love this huge button archive.",
+  "evidence_sources": [
+    {
+      "author": "crumb1e",
+      "comment_id": "49107677",
+      "comment_url": "https://news.ycombinator.com/item?id=49104117#49107677",
+      "excerpt": "you'll probably love this then, https://hellnet.work/8831/ a huge archive of 88x31 buttons scraped from the GeoCities archives.",
+      "kind": "recommendation",
+      "parent_comment_id": "49105593"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49104117",
+  "id": "2026-07-31:hellnet-88x31-archive:49104117",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "hellnet-88x31-archive",
+  "rank": 10,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49104117",
+  "source_story_title": "LLM Honeypot"
+}

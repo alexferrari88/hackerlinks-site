@@ -1,0 +1,23 @@
+{
+  "evidence": "One production user said OpenAI was their best provider after reliability issues elsewhere, and highlighted Luna's pricing.",
+  "evidence_sources": [
+    {
+      "author": "__jl__",
+      "comment_id": "49113390",
+      "comment_url": "https://news.ycombinator.com/item?id=49112867#49113390",
+      "context": "production_use",
+      "excerpt": "Luna pricing is crazy now. I don't think there is anything on the market that competes at this price-performance point.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49112867",
+  "id": "2026-07-31:gpt-5-6-luna:49112867",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "gpt-5-6-luna",
+  "rank": 1,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49112867",
+  "source_story_title": "Advancing the price-performance frontier with GPT\u20115.6"
+}

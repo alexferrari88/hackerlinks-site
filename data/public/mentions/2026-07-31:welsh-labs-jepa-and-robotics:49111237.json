@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Welsh Labs' video as a great resource on JEPA and robotics.",
+  "evidence_sources": [
+    {
+      "author": "swframe2",
+      "comment_id": "49111606",
+      "comment_url": "https://news.ycombinator.com/item?id=49111237#49111606",
+      "excerpt": "Welsh Labs has a great video on JEPA and robotics.",
+      "kind": "recommendation",
+      "parent_comment_id": "49111461"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49111237",
+  "id": "2026-07-31:welsh-labs-jepa-and-robotics:49111237",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "welsh-labs-jepa-and-robotics",
+  "rank": 8,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49111237",
+  "source_story_title": "Gemini Robotics 2 brings whole body intelligence to robots"
+}

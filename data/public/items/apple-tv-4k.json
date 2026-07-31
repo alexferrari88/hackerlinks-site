@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "apple-tv-4k",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:apple-tv-4k:49112744",
+  "mention_ids": [
+    "2026-07-31:apple-tv-4k:49112744"
+  ],
+  "name": "Apple TV 4K",
+  "slug": "apple-tv-4k",
+  "summary": "A streaming box praised as an ad-free, privacy-convenience compromise.",
+  "thing_url": "https://www.apple.com/apple-tv-4k/",
+  "times_seen": 1,
+  "why_included": "Several commenters independently recommended it over mainstream smart-TV alternatives."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "logic-for-programmers",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:logic-for-programmers:49104937",
+  "mention_ids": [
+    "2026-07-31:logic-for-programmers:49104937"
+  ],
+  "name": "Logic for Programmers",
+  "slug": "logic-for-programmers",
+  "summary": "A practical introduction to formal logic through programming-oriented examples.",
+  "thing_url": "https://logicforprogrammers.com/",
+  "times_seen": 1,
+  "why_included": "A programmer found the sample chapters promising and directly tied their approach to real programming practice."
+}

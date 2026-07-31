@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "hellnet-88x31-archive",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:hellnet-88x31-archive:49104117",
+  "mention_ids": [
+    "2026-07-31:hellnet-88x31-archive:49104117"
+  ],
+  "name": "Hellnet 88x31 Archive",
+  "slug": "hellnet-88x31-archive",
+  "summary": "A large archive of 88x31 buttons scraped from GeoCities pages.",
+  "thing_url": "https://hellnet.work/8831/",
+  "times_seen": 1,
+  "why_included": "A commenter specifically suggested it to a fan of web-archive collage art."
+}

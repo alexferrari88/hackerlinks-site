@@ -1,0 +1,175 @@
+{
+  "version": 2,
+  "run_date": "2026-07-31",
+  "generated_at": "2026-07-31T03:24:26Z",
+  "intake_status": {"state": "complete"},
+  "summary": "Thirteen concrete, comment-endorsed finds from the verified 30-story Hacker News front-page crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "13 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-07-31.json",
+    "sha256": "177e85887cca55d45b3b182427b8f48bfcbb2d6d8b83cd34fae049d5ce903098",
+    "bytes": 3107687,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5062,
+    "fetched_item_count": 5092,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "GPT-5.6 Luna",
+      "category": "AI & Local Models",
+      "thing_url": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+      "hn_url": "https://news.ycombinator.com/item?id=49112867",
+      "source_story_title": "Advancing the price-performance frontier with GPT‑5.6",
+      "summary": "A cost-efficient OpenAI model praised for production reliability and price-performance.",
+      "why_included": "A production user explicitly called its price-performance unmatched and its API reliable.",
+      "evidence": "One production user said OpenAI was their best provider after reliability issues elsewhere, and highlighted Luna's pricing.",
+      "evidence_sources": [{"comment_id":"49113390","comment_url":"https://news.ycombinator.com/item?id=49112867#49113390","author":"__jl__","excerpt":"Luna pricing is crazy now. I don't think there is anything on the market that competes at this price-performance point.","kind":"recommendation","context":"production_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Orb",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/getorb/Orb-Backend",
+      "hn_url": "https://news.ycombinator.com/item?id=49103285",
+      "source_story_title": "AI's top startups are barely publishing their research",
+      "summary": "An open-source proactive personal AI backend that connects personal-context signals.",
+      "why_included": "A commenter called the project really cool after its creator described the open-source system.",
+      "evidence": "A commenter described Orb as a promising pairing for a personal-data system they were building.",
+      "evidence_sources": [{"comment_id":"49110941","comment_url":"https://news.ycombinator.com/item?id=49103285#49110941","author":"colingauvin","excerpt":"OK really cool. I've been working on something similar but I started from the opposite direction.","kind":"recommendation","parent_comment_id":"49105405"}]
+    },
+    {
+      "name": "git-spice",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/abhinav/git-spice",
+      "hn_url": "https://news.ycombinator.com/item?id=49112232",
+      "source_story_title": "Stacked PRs are now live on GitHub",
+      "summary": "An open-source Git tool for creating and managing stacked pull-request branches.",
+      "why_included": "Two commenters independently endorsed it as a focused, low-friction stacked-PR workflow.",
+      "evidence": "One commenter recommended git-spice over Graphite; another said it does exactly what is needed without upsell.",
+      "evidence_sources": [
+        {"comment_id":"49113901","comment_url":"https://news.ycombinator.com/item?id=49112232#49113901","author":"theappsecguy","excerpt":"I'd recommend git-spice, it's very easy to use and powerful, and of course open-source.","kind":"recommendation","parent_comment_id":"49113003"},
+        {"comment_id":"49114134","comment_url":"https://news.ycombinator.com/item?id=49112232#49114134","author":"perspectivezoom","excerpt":"I will second git-spice. It does exactly what you want and, importantly, no more than that.","kind":"recommendation","parent_comment_id":"49113901"}
+      ]
+    },
+    {
+      "name": "Apple TV 4K",
+      "category": "Home Tech & Privacy",
+      "thing_url": "https://www.apple.com/apple-tv-4k/",
+      "hn_url": "https://news.ycombinator.com/item?id=49112744",
+      "source_story_title": "Read this before you buy that TV streaming stick",
+      "summary": "A streaming box praised as an ad-free, privacy-convenience compromise.",
+      "why_included": "Several commenters independently recommended it over mainstream smart-TV alternatives.",
+      "evidence": "Commenters praised the ad-free experience and called it the best balance of privacy and convenience.",
+      "evidence_sources": [
+        {"comment_id":"49113507","comment_url":"https://news.ycombinator.com/item?id=49112744#49113507","author":"Mistletoe","excerpt":"I recently got an Apple TV 4K and have been really enjoying the ad free experience. Worth every penny.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null},
+        {"comment_id":"49113264","comment_url":"https://news.ycombinator.com/item?id=49112744#49113264","author":"MattTheRealOne","excerpt":"Apple TV is currently the best balance of privacy and convenience.","kind":"recommendation","parent_comment_id":null}
+      ]
+    },
+    {
+      "name": "NVIDIA Shield",
+      "category": "Home Tech & Privacy",
+      "thing_url": "https://www.nvidia.com/en-us/shield/",
+      "hn_url": "https://news.ycombinator.com/item?id=49112744",
+      "source_story_title": "Read this before you buy that TV streaming stick",
+      "summary": "An older Android TV streaming device still praised for quality.",
+      "why_included": "A commenter gave it a direct, emphatic recommendation despite its age.",
+      "evidence": "One commenter called the NVIDIA Shield pretty damn good even though it is old.",
+      "evidence_sources": [{"comment_id":"49115589","comment_url":"https://news.ycombinator.com/item?id=49112744#49115589","author":"trouve_search","excerpt":"The nvidia shield is pretty damn good as well, even if old at this point.","kind":"recommendation","parent_comment_id":"49113871"}]
+    },
+    {
+      "name": "The Infinity Machine",
+      "category": "Books & Ideas",
+      "thing_url": "https://www.penguinrandomhouse.com/books/752231/the-infinity-machine-by-sebastian-mallaby",
+      "hn_url": "https://news.ycombinator.com/item?id=49111237",
+      "source_story_title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "A reported book about Demis Hassabis, DeepMind, and the AI race.",
+      "why_included": "A reader called it their best book of the current vacation and recommended it for DeepMind context.",
+      "evidence": "A commenter recommended the book as a detailed explanation of DeepMind and other frontier labs.",
+      "evidence_sources": [{"comment_id":"49115858","comment_url":"https://news.ycombinator.com/item?id=49111237#49115858","author":"ddfarmr","excerpt":"I recommend reading „The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence“ from Sebastian Mallaby.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49112454"}]
+    },
+    {
+      "name": "Litter-Robot",
+      "category": "Home Tech & Privacy",
+      "thing_url": "https://www.litter-robot.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49111237",
+      "source_story_title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "An automatic litter box with a long-term owner report of durable use.",
+      "why_included": "The owner reported a decade of use from one model and enthusiastically recommended the product.",
+      "evidence": "One owner said a Litter-Robot 3 was still going strong after ten years and called the machines great.",
+      "evidence_sources": [{"comment_id":"49113516","comment_url":"https://news.ycombinator.com/item?id=49111237#49113516","author":"entropic","excerpt":"I have a litter robot 3 that is still going strong after 10 years,","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49112479"}]
+    },
+    {
+      "name": "Welsh Labs: JEPA and robotics",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
+      "hn_url": "https://news.ycombinator.com/item?id=49111237",
+      "source_story_title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "A Welsh Labs video explaining JEPA concepts through robotics.",
+      "why_included": "A commenter directly called the video great while discussing robotics architectures.",
+      "evidence": "A commenter recommended Welsh Labs' video as a great resource on JEPA and robotics.",
+      "evidence_sources": [{"comment_id":"49111606","comment_url":"https://news.ycombinator.com/item?id=49111237#49111606","author":"swframe2","excerpt":"Welsh Labs has a great video on JEPA and robotics.","kind":"recommendation","parent_comment_id":"49111461"}]
+    },
+    {
+      "name": "Cameron's World",
+      "category": "Web Oddities & Archives",
+      "thing_url": "https://cameronsworld.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49104117",
+      "source_story_title": "LLM Honeypot",
+      "summary": "A web-art collage built from archived GeoCities pages, text, and images.",
+      "why_included": "It received unusually strong direct praise as a distinctive archival web experience.",
+      "evidence": "A commenter called Cameron's World an absurdly great web mishmash of old GeoCities material.",
+      "evidence_sources": [{"comment_id":"49105593","comment_url":"https://news.ycombinator.com/item?id=49104117#49105593","author":"vunderba","excerpt":"Anyone who hasn't seen it should check out Cameron’s World: an absurdly great web mishmash of text and images from old archived GeoCities pages.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Hellnet 88x31 Archive",
+      "category": "Web Oddities & Archives",
+      "thing_url": "https://hellnet.work/8831/",
+      "hn_url": "https://news.ycombinator.com/item?id=49104117",
+      "source_story_title": "LLM Honeypot",
+      "summary": "A large archive of 88x31 buttons scraped from GeoCities pages.",
+      "why_included": "A commenter specifically suggested it to a fan of web-archive collage art.",
+      "evidence": "A commenter said people who like Cameron's World would probably love this huge button archive.",
+      "evidence_sources": [{"comment_id":"49107677","comment_url":"https://news.ycombinator.com/item?id=49104117#49107677","author":"crumb1e","excerpt":"you'll probably love this then, https://hellnet.work/8831/ a huge archive of 88x31 buttons scraped from the GeoCities archives.","kind":"recommendation","parent_comment_id":"49105593"}]
+    },
+    {
+      "name": "The Drifter",
+      "category": "Games",
+      "thing_url": "https://thedriftergame.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49107246",
+      "source_story_title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "summary": "A modern pulp point-and-click adventure game from Powerhoof.",
+      "why_included": "It received a direct recommendation plus a detailed positive comparison within adventure-game discussion.",
+      "evidence": "Two commenters recommended The Drifter, with one calling it a great modernized adventure-game experience.",
+      "evidence_sources": [
+        {"comment_id":"49108844","comment_url":"https://news.ycombinator.com/item?id=49107246#49108844","author":"wisdomseaker","excerpt":"if anyone hasn't played The drifter yet that is worth checking out","kind":"recommendation","parent_comment_id":null},
+        {"comment_id":"49112160","comment_url":"https://news.ycombinator.com/item?id=49107246#49112160","author":"adamesque","excerpt":"The Drifter is a great example of a slightly more modernized take on the classic adventure genre.","kind":"recommendation","parent_comment_id":"49108844"}
+      ]
+    },
+    {
+      "name": "Azul",
+      "category": "Games",
+      "thing_url": "https://boardgamegeek.com/boardgame/230802/azul",
+      "hn_url": "https://news.ycombinator.com/item?id=49089502",
+      "source_story_title": "Azulejo",
+      "summary": "A tile-drafting board game inspired by Portuguese and Moorish decorative art.",
+      "why_included": "It received an unambiguous recommendation for accessible rules and strategic depth.",
+      "evidence": "A commenter called Azul a great board game, easy to start, complex, and heartily recommended.",
+      "evidence_sources": [{"comment_id":"49108222","comment_url":"https://news.ycombinator.com/item?id=49089502#49108222","author":"senko","excerpt":"is a great board game inspired by this style. Easy to start, can get quite complex, heartily recommended!","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Logic for Programmers",
+      "category": "Books & Ideas",
+      "thing_url": "https://logicforprogrammers.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49104937",
+      "source_story_title": "Logic for Programmers",
+      "summary": "A practical introduction to formal logic through programming-oriented examples.",
+      "why_included": "A programmer found the sample chapters promising and directly tied their approach to real programming practice.",
+      "evidence": "A commenter said the book looked useful for applying symbolic-logic knowledge back to programming.",
+      "evidence_sources": [{"comment_id":"49106111","comment_url":"https://news.ycombinator.com/item?id=49104937#49106111","author":"rmunn","excerpt":"Seems pretty useful; I'll give the sample chapters a more in-depth read soon.","kind":"recommendation","parent_comment_id":null}]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said the book looked useful for applying symbolic-logic knowledge back to programming.",
+  "evidence_sources": [
+    {
+      "author": "rmunn",
+      "comment_id": "49106111",
+      "comment_url": "https://news.ycombinator.com/item?id=49104937#49106111",
+      "excerpt": "Seems pretty useful; I'll give the sample chapters a more in-depth read soon.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49104937",
+  "id": "2026-07-31:logic-for-programmers:49104937",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "logic-for-programmers",
+  "rank": 13,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49104937",
+  "source_story_title": "Logic for Programmers"
+}

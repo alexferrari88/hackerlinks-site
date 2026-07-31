@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-07-31T03:24:26Z",
+  "id": "orb",
+  "last_seen_at": "2026-07-31T03:24:26Z",
+  "latest_mention_id": "2026-07-31:orb:49103285",
+  "mention_ids": [
+    "2026-07-31:orb:49103285"
+  ],
+  "name": "Orb",
+  "slug": "orb",
+  "summary": "An open-source proactive personal AI backend that connects personal-context signals.",
+  "thing_url": "https://github.com/getorb/Orb-Backend",
+  "times_seen": 1,
+  "why_included": "A commenter called the project really cool after its creator described the open-source system."
+}

@@ -1,0 +1,30 @@
+{
+  "evidence": "One commenter recommended git-spice over Graphite; another said it does exactly what is needed without upsell.",
+  "evidence_sources": [
+    {
+      "author": "theappsecguy",
+      "comment_id": "49113901",
+      "comment_url": "https://news.ycombinator.com/item?id=49112232#49113901",
+      "excerpt": "I'd recommend git-spice, it's very easy to use and powerful, and of course open-source.",
+      "kind": "recommendation",
+      "parent_comment_id": "49113003"
+    },
+    {
+      "author": "perspectivezoom",
+      "comment_id": "49114134",
+      "comment_url": "https://news.ycombinator.com/item?id=49112232#49114134",
+      "excerpt": "I will second git-spice. It does exactly what you want and, importantly, no more than that.",
+      "kind": "recommendation",
+      "parent_comment_id": "49113901"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49112232",
+  "id": "2026-07-31:git-spice:49112232",
+  "is_repeat": false,
+  "issue_id": "2026-07-31",
+  "item_id": "git-spice",
+  "rank": 3,
+  "seen_at": "2026-07-31T03:24:26Z",
+  "source_story_id": "49112232",
+  "source_story_title": "Stacked PRs are now live on GitHub"
+}
