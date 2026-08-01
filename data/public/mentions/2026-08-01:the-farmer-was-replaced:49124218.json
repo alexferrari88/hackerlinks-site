@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said they remembered it and that it deserved all sorts of praise.",
+  "evidence_sources": [
+    {
+      "author": "NooneAtAll3",
+      "comment_id": "49125669",
+      "comment_url": "https://news.ycombinator.com/item?id=49124218#49125669",
+      "excerpt": "I remember this one, it deserves all sorts of praise",
+      "kind": "recommendation",
+      "parent_comment_id": "49125384"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49124218",
+  "id": "2026-08-01:the-farmer-was-replaced:49124218",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "the-farmer-was-replaced",
+  "rank": 9,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49124218",
+  "source_story_title": "Elevators"
+}

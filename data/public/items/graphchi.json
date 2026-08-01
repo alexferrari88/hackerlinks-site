@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-01T03:16:32Z",
+  "id": "graphchi",
+  "last_seen_at": "2026-08-01T03:16:32Z",
+  "latest_mention_id": "2026-08-01:graphchi:49124658",
+  "mention_ids": [
+    "2026-08-01:graphchi:49124658"
+  ],
+  "name": "GraphChi",
+  "slug": "graphchi",
+  "summary": "A single-machine framework for large-scale graph computation.",
+  "thing_url": "https://github.com/GraphChi/graphchi-cpp",
+  "times_seen": 1,
+  "why_included": "It is a relevant, concrete alternative for large graph work that a commenter explicitly suggested exploring."
+}

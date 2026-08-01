@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-01T03:16:32Z",
+  "id": "the-farmer-was-replaced",
+  "last_seen_at": "2026-08-01T03:16:32Z",
+  "latest_mention_id": "2026-08-01:the-farmer-was-replaced:49124218",
+  "mention_ids": [
+    "2026-08-01:the-farmer-was-replaced:49124218"
+  ],
+  "name": "The Farmer Was Replaced",
+  "slug": "the-farmer-was-replaced",
+  "summary": "A programming automation game about managing a farm with code.",
+  "thing_url": "https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/",
+  "times_seen": 1,
+  "why_included": "It received an unambiguous personal endorsement as a game deserving considerable praise."
+}

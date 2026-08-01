@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-01T03:16:32Z",
+  "id": "jpeg2png",
+  "last_seen_at": "2026-08-01T03:16:32Z",
+  "latest_mention_id": "2026-08-01:jpeg2png:49070810",
+  "mention_ids": [
+    "2026-08-01:jpeg2png:49070810"
+  ],
+  "name": "jpeg2png",
+  "slug": "jpeg2png",
+  "summary": "A decoder that reconstructs a smoother image consistent with a JPEG.",
+  "thing_url": "https://github.com/victorvde/jpeg2png",
+  "times_seen": 1,
+  "why_included": "A user tested it on badly compressed images and reported materially better results."
+}

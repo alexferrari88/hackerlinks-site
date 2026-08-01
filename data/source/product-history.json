@@ -231,6 +231,12 @@
       "times_reported": 1
     },
     {
+      "name": "Apache DataFusion",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "ApiFlash",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
@@ -1473,6 +1479,12 @@
       "times_reported": 1
     },
     {
+      "name": "Elevator Saga",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "Elixir",
       "first_reported_at": "2026-06-03T21:00:19.653887+00:00",
       "last_reported_at": "2026-06-03T21:00:19.653887+00:00",
@@ -1821,6 +1833,12 @@
       "times_reported": 1
     },
     {
+      "name": "Gander",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "Garage",
       "first_reported_at": "2026-04-17T21:19:50Z",
       "last_reported_at": "2026-04-17T21:19:50Z",
@@ -2088,6 +2106,12 @@
       "name": "Granite 4.1",
       "first_reported_at": "2026-04-30T21:02:46Z",
       "last_reported_at": "2026-04-30T21:02:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GraphChi",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -2568,6 +2592,12 @@
       "name": "Journey",
       "first_reported_at": "2026-06-27T21:23:27Z",
       "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "jpeg2png",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -4413,6 +4443,12 @@
       "times_reported": 1
     },
     {
+      "name": "Project Highrise",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "Proton Mail",
       "first_reported_at": "2026-06-02T21:19:46+00:00",
       "last_reported_at": "2026-06-02T21:19:46+00:00",
@@ -5493,6 +5529,12 @@
       "times_reported": 1
     },
     {
+      "name": "The Farmer Was Replaced",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "The Flavor Bible",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
@@ -5508,6 +5550,12 @@
       "name": "The Infinity Machine",
       "first_reported_at": "2026-07-31T03:24:26Z",
       "last_reported_at": "2026-07-31T03:24:26Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Intuitionist",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
       "times_reported": 1
     },
     {
@@ -5964,6 +6012,12 @@
       "name": "Vivaldi",
       "first_reported_at": "2026-05-21T21:20:56Z",
       "last_reported_at": "2026-05-21T21:20:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "vLLM-Moet",
+      "first_reported_at": "2026-08-01T03:16:32Z",
+      "last_reported_at": "2026-08-01T03:16:32Z",
       "times_reported": 1
     },
     {

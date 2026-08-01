@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-01T03:16:32Z",
+  "id": "elevator-saga",
+  "last_seen_at": "2026-08-01T03:16:32Z",
+  "latest_mention_id": "2026-08-01:elevator-saga:49124218",
+  "mention_ids": [
+    "2026-08-01:elevator-saga:49124218"
+  ],
+  "name": "Elevator Saga",
+  "slug": "elevator-saga",
+  "summary": "A programming game about writing elevator scheduling algorithms.",
+  "thing_url": "https://play.elevatorsaga.com/",
+  "times_seen": 1,
+  "why_included": "It was presented as an enjoyable rabbit hole and fits hands-on algorithmic learning."
+}

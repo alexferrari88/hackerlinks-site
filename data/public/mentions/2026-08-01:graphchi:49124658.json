@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended GraphChi as another system designed for large-scale graph operations on one machine.",
+  "evidence_sources": [
+    {
+      "author": "cpdomina",
+      "comment_id": "49127427",
+      "comment_url": "https://news.ycombinator.com/item?id=49124658#49127427",
+      "excerpt": "you might be interested in graphchi (2012), also designed to do large scale graph operations on a single machine",
+      "kind": "recommendation",
+      "parent_comment_id": "49124658"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49124658",
+  "id": "2026-08-01:graphchi:49124658",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "graphchi",
+  "rank": 4,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49124658",
+  "source_story_title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+}

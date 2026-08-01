@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called it an amazing speculative mystery novel centered on two elevator-inspection philosophies.",
+  "evidence_sources": [
+    {
+      "author": "geephroh",
+      "comment_id": "49124762",
+      "comment_url": "https://news.ycombinator.com/item?id=49124218#49124762",
+      "excerpt": "Colson Whitehead's _The Intuitionist_[1], an amazing speculative mystery novel about two dueling schools of elevator inspection philosophies",
+      "kind": "recommendation",
+      "parent_comment_id": "49124218"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49124218",
+  "id": "2026-08-01:the-intuitionist:49124218",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "the-intuitionist",
+  "rank": 7,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49124218",
+  "source_story_title": "Elevators"
+}

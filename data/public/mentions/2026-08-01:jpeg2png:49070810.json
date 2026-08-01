@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they tried it on severely compressed images and found the outputs much better.",
+  "evidence_sources": [
+    {
+      "author": "netsharc",
+      "comment_id": "49128056",
+      "comment_url": "https://news.ycombinator.com/item?id=49070810#49128056",
+      "context": "first_hand_use",
+      "excerpt": "I tried it with some very terribly compressed images, and the outputs were a lot better.",
+      "kind": "recommendation",
+      "parent_comment_id": "49070810"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49070810",
+  "id": "2026-08-01:jpeg2png:49070810",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "jpeg2png",
+  "rank": 5,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49070810",
+  "source_story_title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
+}

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-08-01",
+  "generated_at": "2026-08-01T03:16:32Z",
+  "summary": "Nine concrete, comment-endorsed finds from the verified Hacker News front-page discussion crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-01.json",
+    "sha256": "b3eb6973e7c26de1eb93274275e0a08559f2d2758534c19bed7fa41271ab3504",
+    "bytes": 2780185,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4462,
+    "fetched_item_count": 4492,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Gander",
+      "category": "Privacy & Practical Apps",
+      "thing_url": "https://github.com/mokshablr/gander",
+      "hn_url": "https://news.ycombinator.com/item?id=49119425",
+      "source_story_title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+      "summary": "An offline Android file viewer for documents, media, Markdown, and code.",
+      "why_included": "A user independently praised its unusually quick PDF handling, while the project targets a real privacy and bloat problem.",
+      "evidence": "One commenter said Gander was pleasingly responsive and unlike other Android apps for rapidly opening and closing PDFs.",
+      "evidence_sources": [{"comment_id":"49123024","comment_url":"https://news.ycombinator.com/item?id=49119425#49123024","author":"array4277","excerpt":"The app is pleasingly very responsive. I don't think I've used anything else on Android that lets me open and close PDFs rapidly without getting bogged down. Nice!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49119425"}]
+    },
+    {
+      "name": "vLLM-Moet",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/kacper-daftcode/vLLM-Moet",
+      "hn_url": "https://news.ycombinator.com/item?id=49120299",
+      "source_story_title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "summary": "A vLLM patch for running giant MoE models with compressed experts.",
+      "why_included": "A hands-on commenter called it a very good engine and specifically recommended trying it for constrained high-memory GPUs.",
+      "evidence": "The commenter reported a 170 tokens-per-second DeepSeek V4 Flash demonstration and recommended spending a few hours trying it.",
+      "evidence_sources": [{"comment_id":"49124059","comment_url":"https://news.ycombinator.com/item?id=49120299#49124059","author":"ycui7","excerpt":"vllm-moet is a very good engine, although lesser known.","kind":"recommendation","context":"evaluated","parent_comment_id":"49120299"}]
+    },
+    {
+      "name": "Apache DataFusion",
+      "category": "Data & Developer Tools",
+      "thing_url": "https://datafusion.apache.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124658",
+      "source_story_title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "summary": "A Rust and Arrow query engine for fast extensible data systems.",
+      "why_included": "The discussion contained unusually strong, concrete praise for its design and extensibility.",
+      "evidence": "A commenter called DataFusion one of the best open-source projects, highlighting its powerful design and ability to compile custom query languages into logical plans.",
+      "evidence_sources": [{"comment_id":"49128658","comment_url":"https://news.ycombinator.com/item?id=49124658#49128658","author":"nylonstrung","excerpt":"Datafusion is undoubtedly one of the best open source projects of all time, it's so incredibly powerful and well designed.","kind":"recommendation","parent_comment_id":"49124658"}]
+    },
+    {
+      "name": "GraphChi",
+      "category": "Data & Developer Tools",
+      "thing_url": "https://github.com/GraphChi/graphchi-cpp",
+      "hn_url": "https://news.ycombinator.com/item?id=49124658",
+      "source_story_title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "summary": "A single-machine framework for large-scale graph computation.",
+      "why_included": "It is a relevant, concrete alternative for large graph work that a commenter explicitly suggested exploring.",
+      "evidence": "A commenter recommended GraphChi as another system designed for large-scale graph operations on one machine.",
+      "evidence_sources": [{"comment_id":"49127427","comment_url":"https://news.ycombinator.com/item?id=49124658#49127427","author":"cpdomina","excerpt":"you might be interested in graphchi (2012), also designed to do large scale graph operations on a single machine","kind":"recommendation","parent_comment_id":"49124658"}]
+    },
+    {
+      "name": "jpeg2png",
+      "category": "Creative & Media Tools",
+      "thing_url": "https://github.com/victorvde/jpeg2png",
+      "hn_url": "https://news.ycombinator.com/item?id=49070810",
+      "source_story_title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "summary": "A decoder that reconstructs a smoother image consistent with a JPEG.",
+      "why_included": "A user tested it on badly compressed images and reported materially better results.",
+      "evidence": "The commenter said they tried it on severely compressed images and found the outputs much better.",
+      "evidence_sources": [{"comment_id":"49128056","comment_url":"https://news.ycombinator.com/item?id=49070810#49128056","author":"netsharc","excerpt":"I tried it with some very terribly compressed images, and the outputs were a lot better.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49070810"}]
+    },
+    {
+      "name": "Elevator Saga",
+      "category": "Games & Learning",
+      "thing_url": "https://play.elevatorsaga.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "source_story_title": "Elevators",
+      "summary": "A programming game about writing elevator scheduling algorithms.",
+      "why_included": "It was presented as an enjoyable rabbit hole and fits hands-on algorithmic learning.",
+      "evidence": "A commenter introduced it as an elevator-scheduling game and encouraged readers to enjoy the rabbit hole.",
+      "evidence_sources": [{"comment_id":"49124638","comment_url":"https://news.ycombinator.com/item?id=49124218#49124638","author":"brandonpelfrey","excerpt":"For folks that have never seen elevator scheduling the game: https://play.elevatorsaga.com/ Enjoy this rabbit hole :D","kind":"recommendation","parent_comment_id":"49124218"}]
+    },
+    {
+      "name": "The Intuitionist",
+      "category": "Books & Ideas",
+      "thing_url": "https://en.wikipedia.org/wiki/The_Intuitionist",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "source_story_title": "Elevators",
+      "summary": "A speculative mystery novel about rival schools of elevator inspection.",
+      "why_included": "It is an idiosyncratic book recommendation with a clearly enthusiastic, specific endorsement.",
+      "evidence": "A commenter called it an amazing speculative mystery novel centered on two elevator-inspection philosophies.",
+      "evidence_sources": [{"comment_id":"49124762","comment_url":"https://news.ycombinator.com/item?id=49124218#49124762","author":"geephroh","excerpt":"Colson Whitehead's _The Intuitionist_[1], an amazing speculative mystery novel about two dueling schools of elevator inspection philosophies","kind":"recommendation","parent_comment_id":"49124218"}]
+    },
+    {
+      "name": "Project Highrise",
+      "category": "Games & Learning",
+      "thing_url": "https://store.steampowered.com/app/423580/Project_Highrise/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "source_story_title": "Elevators",
+      "summary": "A skyscraper construction and management simulation game.",
+      "why_included": "A direct recommendation in a thread full of elevator-system enthusiasts makes it a useful adjacent find.",
+      "evidence": "A commenter explicitly said Project Highrise was worth taking a look into for people who liked SimTower.",
+      "evidence_sources": [{"comment_id":"49125351","comment_url":"https://news.ycombinator.com/item?id=49124218#49125351","author":"Sohcahtoa82","excerpt":"If you liked SimTower, Project Highrise is worth taking a look into.","kind":"recommendation","parent_comment_id":"49124734"}]
+    },
+    {
+      "name": "The Farmer Was Replaced",
+      "category": "Games & Learning",
+      "thing_url": "https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "source_story_title": "Elevators",
+      "summary": "A programming automation game about managing a farm with code.",
+      "why_included": "It received an unambiguous personal endorsement as a game deserving considerable praise.",
+      "evidence": "A commenter said they remembered it and that it deserved all sorts of praise.",
+      "evidence_sources": [{"comment_id":"49125669","comment_url":"https://news.ycombinator.com/item?id=49124218#49125669","author":"NooneAtAll3","excerpt":"I remember this one, it deserves all sorts of praise","kind":"recommendation","parent_comment_id":"49125384"}]
+    }
+  ]
+}

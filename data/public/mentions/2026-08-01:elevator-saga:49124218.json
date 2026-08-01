@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter introduced it as an elevator-scheduling game and encouraged readers to enjoy the rabbit hole.",
+  "evidence_sources": [
+    {
+      "author": "brandonpelfrey",
+      "comment_id": "49124638",
+      "comment_url": "https://news.ycombinator.com/item?id=49124218#49124638",
+      "excerpt": "For folks that have never seen elevator scheduling the game: https://play.elevatorsaga.com/ Enjoy this rabbit hole :D",
+      "kind": "recommendation",
+      "parent_comment_id": "49124218"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49124218",
+  "id": "2026-08-01:elevator-saga:49124218",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "elevator-saga",
+  "rank": 6,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49124218",
+  "source_story_title": "Elevators"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported a 170 tokens-per-second DeepSeek V4 Flash demonstration and recommended spending a few hours trying it.",
+  "evidence_sources": [
+    {
+      "author": "ycui7",
+      "comment_id": "49124059",
+      "comment_url": "https://news.ycombinator.com/item?id=49120299#49124059",
+      "context": "evaluated",
+      "excerpt": "vllm-moet is a very good engine, although lesser known.",
+      "kind": "recommendation",
+      "parent_comment_id": "49120299"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49120299",
+  "id": "2026-08-01:vllm-moet:49120299",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "vllm-moet",
+  "rank": 2,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49120299",
+  "source_story_title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called DataFusion one of the best open-source projects, highlighting its powerful design and ability to compile custom query languages into logical plans.",
+  "evidence_sources": [
+    {
+      "author": "nylonstrung",
+      "comment_id": "49128658",
+      "comment_url": "https://news.ycombinator.com/item?id=49124658#49128658",
+      "excerpt": "Datafusion is undoubtedly one of the best open source projects of all time, it's so incredibly powerful and well designed.",
+      "kind": "recommendation",
+      "parent_comment_id": "49124658"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49124658",
+  "id": "2026-08-01:apache-datafusion:49124658",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "apache-datafusion",
+  "rank": 3,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49124658",
+  "source_story_title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter said Gander was pleasingly responsive and unlike other Android apps for rapidly opening and closing PDFs.",
+  "evidence_sources": [
+    {
+      "author": "array4277",
+      "comment_id": "49123024",
+      "comment_url": "https://news.ycombinator.com/item?id=49119425#49123024",
+      "context": "first_hand_use",
+      "excerpt": "The app is pleasingly very responsive. I don't think I've used anything else on Android that lets me open and close PDFs rapidly without getting bogged down. Nice!",
+      "kind": "recommendation",
+      "parent_comment_id": "49119425"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49119425",
+  "id": "2026-08-01:gander:49119425",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "gander",
+  "rank": 1,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49119425",
+  "source_story_title": "Show HN: Gander, an Android file viewer that asks for no permissions"
+}

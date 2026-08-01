@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter explicitly said Project Highrise was worth taking a look into for people who liked SimTower.",
+  "evidence_sources": [
+    {
+      "author": "Sohcahtoa82",
+      "comment_id": "49125351",
+      "comment_url": "https://news.ycombinator.com/item?id=49124218#49125351",
+      "excerpt": "If you liked SimTower, Project Highrise is worth taking a look into.",
+      "kind": "recommendation",
+      "parent_comment_id": "49124734"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49124218",
+  "id": "2026-08-01:project-highrise:49124218",
+  "is_repeat": false,
+  "issue_id": "2026-08-01",
+  "item_id": "project-highrise",
+  "rank": 8,
+  "seen_at": "2026-08-01T03:16:32Z",
+  "source_story_id": "49124218",
+  "source_story_title": "Elevators"
+}
