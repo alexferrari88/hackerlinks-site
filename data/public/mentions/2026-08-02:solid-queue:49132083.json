@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said the update looked fantastic for their asynchronous request-fan-out workflow.",
+  "evidence_sources": [
+    {
+      "author": "mrinterweb",
+      "comment_id": "49136619",
+      "comment_url": "https://news.ycombinator.com/item?id=49132083#49136619",
+      "context": "first_hand_use",
+      "excerpt": "This looks fantastic for a common async workflow I use.",
+      "kind": "recommendation",
+      "parent_comment_id": "49132083"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49132083",
+  "id": "2026-08-02:solid-queue:49132083",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "solid-queue",
+  "rank": 8,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49132083",
+  "source_story_title": "Solid Queue 1.6.0 now supports fiber workers"
+}

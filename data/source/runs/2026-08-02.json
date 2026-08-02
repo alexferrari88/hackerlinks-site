@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "run_date": "2026-08-02",
+  "generated_at": "2026-08-02T05:17:53+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-02.json",
+    "sha256": "cf8dd330cf827dee81bd8e62a16015b47f0acf0a93218da7ef801ff4b8bb499c",
+    "bytes": 2354691,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3543,
+    "fetched_item_count": 3573,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Ten concrete, comment-endorsed finds from the completed Hacker News front-page discussion crawl.",
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "WebXDC",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://webxdc.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49096605",
+      "source_story_title": "Software for One",
+      "summary": "A chat-distributed web-app format for self-contained, hackable group apps.",
+      "why_included": "A hands-on commenter had already built apps with it and praised its unusually open distribution model.",
+      "evidence": "A commenter reported building several apps with WebXDC and being pleasantly surprised by its design.",
+      "evidence_sources": [{"comment_id":"49131172","comment_url":"https://news.ycombinator.com/item?id=49096605#49131172","author":"rpdillon","excerpt":"I've built a few apps on it already, and I'm very pleasantly surprised by how cleverly inverted the whole model is (in combination with ChatMail).","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49130665"}]
+    },
+    {
+      "name": "SQLite WASM with OPFS",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://sqlite.org/wasm/doc/trunk/persistence.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49096605",
+      "source_story_title": "Software for One",
+      "summary": "Browser-side SQLite persistence backed by the Origin Private File System.",
+      "why_included": "It is a concrete alternative for local-first browser apps that need relational storage beyond IndexedDB.",
+      "evidence": "A commenter recommended it as easier to reason about than IndexedDB while retaining SQL.",
+      "evidence_sources": [{"comment_id":"49137613","comment_url":"https://news.ycombinator.com/item?id=49096605#49137613","author":"yladiz","excerpt":"I could also recommend SQLite with OPFS, if you’re comfortable with adding a web worker. I personally find it a lot easier to reason about than IndexedDB","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49135697"}]
+    },
+    {
+      "name": "Metacognitive Therapy for Anxiety and Depression",
+      "category": "Books & Learning",
+      "thing_url": "https://www.guilford.com/books/Metacognitive-Therapy-for-Anxiety-and-Depression/Adrian-Wells/9781609184964",
+      "hn_url": "https://news.ycombinator.com/item?id=49129990",
+      "source_story_title": "How to Exist",
+      "summary": "Adrian Wells's clinical guide to metacognitive therapy for anxiety and depression.",
+      "why_included": "A long-term user gave unusually specific, first-hand praise for its approach to intrusive thoughts and rumination.",
+      "evidence": "A commenter said the book's core technique helped enormously with rumination and anxiety around intrusive thoughts.",
+      "evidence_sources": [{"comment_id":"49134232","comment_url":"https://news.ycombinator.com/item?id=49129990#49134232","author":"rubslopes","excerpt":"The approach that finally worked for me (and one I still use today, years later) I learned from a book by Adrian Wells called Metacognitive Therapy.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49133503"}]
+    },
+    {
+      "name": "Song Gao's Zhan Zhuang basic-method video",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=xCVUojtpS80",
+      "hn_url": "https://news.ycombinator.com/item?id=49129990",
+      "source_story_title": "How to Exist",
+      "summary": "A video introduction to zhan zhuang, a standing qigong practice.",
+      "why_included": "The endorsement is concrete and experience-based, while the commenter also supplied a cautious account of limits and side effects.",
+      "evidence": "A commenter called the linked Song Gao video excellent and described zhan zhuang as having the most distinctive effect of the practices they tried.",
+      "evidence_sources": [{"comment_id":"49140021","comment_url":"https://news.ycombinator.com/item?id=49129990#49140021","author":"joveian","excerpt":"The one that had the most distinctive effect for me is zhan zhuang. Song Gao has a really excellent instructional video on YouTube about the basic method:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49137058"}]
+    },
+    {
+      "name": "Diátaxis",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://diataxis.fr/",
+      "hn_url": "https://news.ycombinator.com/item?id=49138188",
+      "source_story_title": "Diátaxis",
+      "summary": "A four-part framework for structuring technical documentation by user need.",
+      "why_included": "Multiple practitioners reported clearer, more coherent documentation after applying the framework.",
+      "evidence": "A team that used Diátaxis for a complex codebase handover described it as fantastic and said it made writing clearer.",
+      "evidence_sources": [{"comment_id":"49139014","comment_url":"https://news.ycombinator.com/item?id=49138188#49139014","author":"rkangel","excerpt":"Diataxis was fantastic.","kind":"recommendation","context":"production_use","parent_comment_id":"49138188"}]
+    },
+    {
+      "name": "NetNewsWire",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/Ranchero-Software/NetNewsWire",
+      "hn_url": "https://news.ycombinator.com/item?id=49136821",
+      "source_story_title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "summary": "A free, open-source RSS reader for following news without platform lock-in.",
+      "why_included": "It has a plain, durable first-hand recommendation from someone who has relied on it for years.",
+      "evidence": "A commenter said they had used NetNewsWire for years without problems reading the news they wanted.",
+      "evidence_sources": [{"comment_id":"49138441","comment_url":"https://news.ycombinator.com/item?id=49136821#49138441","author":"konsalexee","excerpt":"I use for the last many years NetNewsWire and have never had any problems reading the news I want to read.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49136821"}]
+    },
+    {
+      "name": "G'MIC",
+      "category": "Creative Tools",
+      "thing_url": "https://gmic.eu/gmic40/",
+      "hn_url": "https://news.ycombinator.com/item?id=49096847",
+      "source_story_title": "G'mic 4.0: Squaring the Pixel, Easier",
+      "summary": "An open-source image-processing framework and GIMP plug-in ecosystem.",
+      "why_included": "It is a long-lived creative tool with a specific endorsement for advanced GIMP image work.",
+      "evidence": "A commenter called G'MIC invaluable for more advanced image manipulation in GIMP.",
+      "evidence_sources": [{"comment_id":"49132670","comment_url":"https://news.ycombinator.com/item?id=49096847#49132670","author":"shrx","excerpt":"It's invaluable for more advanced image manipulation in GIMP.","kind":"recommendation","parent_comment_id":"49096847"}]
+    },
+    {
+      "name": "Solid Queue",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/rails/solid_queue",
+      "hn_url": "https://news.ycombinator.com/item?id=49132083",
+      "source_story_title": "Solid Queue 1.6.0 now supports fiber workers",
+      "summary": "A database-backed Active Job backend for Rails, now with fiber workers.",
+      "why_included": "A practitioner specifically endorsed the fiber-worker model for durable, retryable I/O-heavy job fan-out.",
+      "evidence": "A commenter said the update looked fantastic for their asynchronous request-fan-out workflow.",
+      "evidence_sources": [{"comment_id":"49136619","comment_url":"https://news.ycombinator.com/item?id=49132083#49136619","author":"mrinterweb","excerpt":"This looks fantastic for a common async workflow I use.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49132083"}]
+    },
+    {
+      "name": "The Art of 64-bit Assembly",
+      "category": "Books & Learning",
+      "thing_url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "hn_url": "https://news.ycombinator.com/item?id=49134599",
+      "source_story_title": "The Art of 64-bit Assembly",
+      "summary": "Randall Hyde's book for learning practical 64-bit assembly programming.",
+      "why_included": "It received a direct recommendation from a reader who judged the first volume strong and worth working through.",
+      "evidence": "A commenter said volume one was a really good book and that interested readers would find it worth working through.",
+      "evidence_sources": [{"comment_id":"49139905","comment_url":"https://news.ycombinator.com/item?id=49134599#49139905","author":"dinkumthinkum","excerpt":"Volume 1 is actually a really good book. Randall Hyde is a great author on this subject.","kind":"recommendation","parent_comment_id":"49137277"}]
+    },
+    {
+      "name": "30-Minute Pressure Cooker Pho Ga",
+      "category": "Food & Home",
+      "thing_url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+      "hn_url": "https://news.ycombinator.com/item?id=49135426",
+      "source_story_title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+      "summary": "Kenji López-Alt's pressure-cooker chicken pho recipe for fast weeknight broth.",
+      "why_included": "It has repeated long-term household-use praise rather than just a link or a topical mention.",
+      "evidence": "A commenter called it a regular in their home and praised Kenji's pressure-cooker recipes as easy and fantastic.",
+      "evidence_sources": [{"comment_id":"49137743","comment_url":"https://news.ycombinator.com/item?id=49135426#49137743","author":"MostlyStable","excerpt":"It's also one of my favorites of Kenji's though and a regular in our home.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49135426"}]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reported building several apps with WebXDC and being pleasantly surprised by its design.",
+  "evidence_sources": [
+    {
+      "author": "rpdillon",
+      "comment_id": "49131172",
+      "comment_url": "https://news.ycombinator.com/item?id=49096605#49131172",
+      "context": "first_hand_use",
+      "excerpt": "I've built a few apps on it already, and I'm very pleasantly surprised by how cleverly inverted the whole model is (in combination with ChatMail).",
+      "kind": "recommendation",
+      "parent_comment_id": "49130665"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49096605",
+  "id": "2026-08-02:webxdc:49096605",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "webxdc",
+  "rank": 1,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49096605",
+  "source_story_title": "Software for One"
+}

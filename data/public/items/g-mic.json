@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "g-mic",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:g-mic:49096847",
+  "mention_ids": [
+    "2026-08-02:g-mic:49096847"
+  ],
+  "name": "G'MIC",
+  "slug": "g-mic",
+  "summary": "An open-source image-processing framework and GIMP plug-in ecosystem.",
+  "thing_url": "https://gmic.eu/gmic40/",
+  "times_seen": 1,
+  "why_included": "It is a long-lived creative tool with a specific endorsement for advanced GIMP image work."
+}

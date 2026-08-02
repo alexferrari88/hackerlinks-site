@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommended it as easier to reason about than IndexedDB while retaining SQL.",
+  "evidence_sources": [
+    {
+      "author": "yladiz",
+      "comment_id": "49137613",
+      "comment_url": "https://news.ycombinator.com/item?id=49096605#49137613",
+      "context": "first_hand_use",
+      "excerpt": "I could also recommend SQLite with OPFS, if you\u2019re comfortable with adding a web worker. I personally find it a lot easier to reason about than IndexedDB",
+      "kind": "recommendation",
+      "parent_comment_id": "49135697"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49096605",
+  "id": "2026-08-02:sqlite-wasm-with-opfs:49096605",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "sqlite-wasm-with-opfs",
+  "rank": 2,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49096605",
+  "source_story_title": "Software for One"
+}

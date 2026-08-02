@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said volume one was a really good book and that interested readers would find it worth working through.",
+  "evidence_sources": [
+    {
+      "author": "dinkumthinkum",
+      "comment_id": "49139905",
+      "comment_url": "https://news.ycombinator.com/item?id=49134599#49139905",
+      "excerpt": "Volume 1 is actually a really good book. Randall Hyde is a great author on this subject.",
+      "kind": "recommendation",
+      "parent_comment_id": "49137277"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49134599",
+  "id": "2026-08-02:the-art-of-64-bit-assembly:49134599",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "the-art-of-64-bit-assembly",
+  "rank": 9,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49134599",
+  "source_story_title": "The Art of 64-bit Assembly"
+}

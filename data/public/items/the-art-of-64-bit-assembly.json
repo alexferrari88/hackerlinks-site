@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "the-art-of-64-bit-assembly",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:the-art-of-64-bit-assembly:49134599",
+  "mention_ids": [
+    "2026-08-02:the-art-of-64-bit-assembly:49134599"
+  ],
+  "name": "The Art of 64-bit Assembly",
+  "slug": "the-art-of-64-bit-assembly",
+  "summary": "Randall Hyde's book for learning practical 64-bit assembly programming.",
+  "thing_url": "https://nostarch.com/art-64-bit-assembly-v2",
+  "times_seen": 1,
+  "why_included": "It received a direct recommendation from a reader who judged the first volume strong and worth working through."
+}

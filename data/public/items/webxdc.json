@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "webxdc",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:webxdc:49096605",
+  "mention_ids": [
+    "2026-08-02:webxdc:49096605"
+  ],
+  "name": "WebXDC",
+  "slug": "webxdc",
+  "summary": "A chat-distributed web-app format for self-contained, hackable group apps.",
+  "thing_url": "https://webxdc.org/",
+  "times_seen": 1,
+  "why_included": "A hands-on commenter had already built apps with it and praised its unusually open distribution model."
+}

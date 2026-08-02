@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they had used NetNewsWire for years without problems reading the news they wanted.",
+  "evidence_sources": [
+    {
+      "author": "konsalexee",
+      "comment_id": "49138441",
+      "comment_url": "https://news.ycombinator.com/item?id=49136821#49138441",
+      "context": "first_hand_use",
+      "excerpt": "I use for the last many years NetNewsWire and have never had any problems reading the news I want to read.",
+      "kind": "recommendation",
+      "parent_comment_id": "49136821"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49136821",
+  "id": "2026-08-02:netnewswire:49136821",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "netnewswire",
+  "rank": 6,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49136821",
+  "source_story_title": "How Google helped destroy adoption of RSS feeds (2023)"
+}

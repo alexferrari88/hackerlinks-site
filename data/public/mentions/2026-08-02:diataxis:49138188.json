@@ -1,0 +1,23 @@
+{
+  "evidence": "A team that used Di\u00e1taxis for a complex codebase handover described it as fantastic and said it made writing clearer.",
+  "evidence_sources": [
+    {
+      "author": "rkangel",
+      "comment_id": "49139014",
+      "comment_url": "https://news.ycombinator.com/item?id=49138188#49139014",
+      "context": "production_use",
+      "excerpt": "Diataxis was fantastic.",
+      "kind": "recommendation",
+      "parent_comment_id": "49138188"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49138188",
+  "id": "2026-08-02:diataxis:49138188",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "diataxis",
+  "rank": 5,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49138188",
+  "source_story_title": "Di\u00e1taxis"
+}

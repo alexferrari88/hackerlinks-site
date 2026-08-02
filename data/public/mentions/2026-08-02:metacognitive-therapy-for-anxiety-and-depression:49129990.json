@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said the book's core technique helped enormously with rumination and anxiety around intrusive thoughts.",
+  "evidence_sources": [
+    {
+      "author": "rubslopes",
+      "comment_id": "49134232",
+      "comment_url": "https://news.ycombinator.com/item?id=49129990#49134232",
+      "context": "first_hand_use",
+      "excerpt": "The approach that finally worked for me (and one I still use today, years later) I learned from a book by Adrian Wells called Metacognitive Therapy.",
+      "kind": "recommendation",
+      "parent_comment_id": "49133503"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49129990",
+  "id": "2026-08-02:metacognitive-therapy-for-anxiety-and-depression:49129990",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "metacognitive-therapy-for-anxiety-and-depression",
+  "rank": 3,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49129990",
+  "source_story_title": "How to Exist"
+}

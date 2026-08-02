@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "solid-queue",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:solid-queue:49132083",
+  "mention_ids": [
+    "2026-08-02:solid-queue:49132083"
+  ],
+  "name": "Solid Queue",
+  "slug": "solid-queue",
+  "summary": "A database-backed Active Job backend for Rails, now with fiber workers.",
+  "thing_url": "https://github.com/rails/solid_queue",
+  "times_seen": 1,
+  "why_included": "A practitioner specifically endorsed the fiber-worker model for durable, retryable I/O-heavy job fan-out."
+}

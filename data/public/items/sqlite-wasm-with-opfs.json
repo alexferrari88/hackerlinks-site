@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "sqlite-wasm-with-opfs",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:sqlite-wasm-with-opfs:49096605",
+  "mention_ids": [
+    "2026-08-02:sqlite-wasm-with-opfs:49096605"
+  ],
+  "name": "SQLite WASM with OPFS",
+  "slug": "sqlite-wasm-with-opfs",
+  "summary": "Browser-side SQLite persistence backed by the Origin Private File System.",
+  "thing_url": "https://sqlite.org/wasm/doc/trunk/persistence.md",
+  "times_seen": 1,
+  "why_included": "It is a concrete alternative for local-first browser apps that need relational storage beyond IndexedDB."
+}

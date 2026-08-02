@@ -6427,6 +6427,66 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "WebXDC",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SQLite WASM with OPFS",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Metacognitive Therapy for Anxiety and Depression",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Song Gao's Zhan Zhuang basic-method video",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Diátaxis",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "NetNewsWire",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "G'MIC",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Solid Queue",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Art of 64-bit Assembly",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "30-Minute Pressure Cooker Pho Ga",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
     }
   ]
 }

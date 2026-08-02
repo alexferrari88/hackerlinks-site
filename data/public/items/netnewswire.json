@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "netnewswire",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:netnewswire:49136821",
+  "mention_ids": [
+    "2026-08-02:netnewswire:49136821"
+  ],
+  "name": "NetNewsWire",
+  "slug": "netnewswire",
+  "summary": "A free, open-source RSS reader for following news without platform lock-in.",
+  "thing_url": "https://github.com/Ranchero-Software/NetNewsWire",
+  "times_seen": 1,
+  "why_included": "It has a plain, durable first-hand recommendation from someone who has relied on it for years."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called G'MIC invaluable for more advanced image manipulation in GIMP.",
+  "evidence_sources": [
+    {
+      "author": "shrx",
+      "comment_id": "49132670",
+      "comment_url": "https://news.ycombinator.com/item?id=49096847#49132670",
+      "excerpt": "It's invaluable for more advanced image manipulation in GIMP.",
+      "kind": "recommendation",
+      "parent_comment_id": "49096847"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49096847",
+  "id": "2026-08-02:g-mic:49096847",
+  "is_repeat": false,
+  "issue_id": "2026-08-02",
+  "item_id": "g-mic",
+  "rank": 7,
+  "seen_at": "2026-08-02T05:17:53+02:00",
+  "source_story_id": "49096847",
+  "source_story_title": "G'mic 4.0: Squaring the Pixel, Easier"
+}

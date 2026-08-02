@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-02T05:17:53+02:00",
+  "id": "diataxis",
+  "last_seen_at": "2026-08-02T05:17:53+02:00",
+  "latest_mention_id": "2026-08-02:diataxis:49138188",
+  "mention_ids": [
+    "2026-08-02:diataxis:49138188"
+  ],
+  "name": "Di\u00e1taxis",
+  "slug": "diataxis",
+  "summary": "A four-part framework for structuring technical documentation by user need.",
+  "thing_url": "https://diataxis.fr/",
+  "times_seen": 1,
+  "why_included": "Multiple practitioners reported clearer, more coherent documentation after applying the framework."
+}
