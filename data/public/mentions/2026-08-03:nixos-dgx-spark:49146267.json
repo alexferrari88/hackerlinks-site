@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they had been running it on several Asus GX10 machines with k3s and found it great.",
+  "evidence_sources": [
+    {
+      "author": "redrove",
+      "comment_id": "49146758",
+      "comment_url": "https://news.ycombinator.com/item?id=49146267#49146758",
+      "context": "production_use",
+      "excerpt": "Been running this on a few Asus GX10 machines with k3s on top, it\u2019s been great.",
+      "kind": "recommendation",
+      "parent_comment_id": "49146267"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49146267",
+  "id": "2026-08-03:nixos-dgx-spark:49146267",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "nixos-dgx-spark",
+  "rank": 5,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49146267",
+  "source_story_title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark"
+}

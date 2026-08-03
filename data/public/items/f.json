@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "f",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:f:49143925",
+  "mention_ids": [
+    "2026-08-03:f:49143925"
+  ],
+  "name": "F*",
+  "slug": "f",
+  "summary": "A proof-oriented programming language for verified systems and incremental C migration.",
+  "thing_url": "https://fstar-lang.org/",
+  "times_seen": 1,
+  "why_included": "A practitioner reported a solid experience using it around existing C code."
+}

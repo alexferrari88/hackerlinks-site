@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "bor",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:bor:49142569",
+  "mention_ids": [
+    "2026-08-03:bor:49142569"
+  ],
+  "name": "Bor",
+  "slug": "bor",
+  "summary": "An open-source system for centrally managing Linux desktop policies.",
+  "thing_url": "https://getbor.dev/",
+  "times_seen": 1,
+  "why_included": "It addresses a concrete Linux fleet-management gap for a commenter managing nonprofit laptops."
+}

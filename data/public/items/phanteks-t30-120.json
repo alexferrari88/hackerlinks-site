@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "phanteks-t30-120",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:phanteks-t30-120:49140213",
+  "mention_ids": [
+    "2026-08-03:phanteks-t30-120:49140213"
+  ],
+  "name": "Phanteks T30-120",
+  "slug": "phanteks-t30-120",
+  "summary": "A 120 mm PC fan recommended for high-airflow custom cooling builds.",
+  "thing_url": "https://www.phanteks.com/T30-120.html",
+  "times_seen": 1,
+  "why_included": "A detailed comparison presented it as a substantially higher-airflow option with a better noise character."
+}

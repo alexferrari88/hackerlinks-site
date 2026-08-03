@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-08-03",
+  "generated_at": "2026-08-03T03:16:09Z",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-03.json",
+    "sha256": "3c742f8ced86937c2dc44c90d14c62915ade800c514e20b693b36b916b1956c5",
+    "bytes": 1667607,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 2691,
+    "fetched_item_count": 2721,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "10 concrete recommendations surfaced from 30 fully crawled HN front-page stories.",
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Meshdiff",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://meshdiff.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49143479",
+      "source_story_title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "summary": "A local-first browser tool for visually comparing two STL versions.",
+      "why_included": "A commenter specifically praised its local-first design and roadmap.",
+      "evidence": "A commenter called it very cool work and highlighted its client/local-first emphasis.",
+      "evidence_sources": [{"comment_id":"49145426","comment_url":"https://news.ycombinator.com/item?id=49143479#49145426","author":"sota_pop","excerpt":"Very cool work! Nice job. Road-map looks good too! I always appreciate client/local-first emphasis.","kind":"recommendation","parent_comment_id":"49143479"}]
+    },
+    {
+      "name": "F*",
+      "category": "🧪 Programming & Verification",
+      "thing_url": "https://fstar-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49143925",
+      "source_story_title": "F*: A general-purpose proof-oriented programming language",
+      "summary": "A proof-oriented programming language for verified systems and incremental C migration.",
+      "why_included": "A practitioner reported a solid experience using it around existing C code.",
+      "evidence": "One commenter liked F*'s external-library support while incrementally migrating C codebases and called it very solid.",
+      "evidence_sources": [{"comment_id":"49144797","comment_url":"https://news.ycombinator.com/item?id=49143925#49144797","author":"pvsnp","excerpt":"I liked being able to express calling external libraries while incrementally migrating existing C codebases to F*. Very solid language.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49143925"}]
+    },
+    {
+      "name": "Bor",
+      "category": "🔒 Privacy & Networking",
+      "thing_url": "https://getbor.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49142569",
+      "source_story_title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "summary": "An open-source system for centrally managing Linux desktop policies.",
+      "why_included": "It addresses a concrete Linux fleet-management gap for a commenter managing nonprofit laptops.",
+      "evidence": "A laptop administrator said Bor was close to what they needed and wanted to try it.",
+      "evidence_sources": [{"comment_id":"49143341","comment_url":"https://news.ycombinator.com/item?id=49142569#49143341","author":"V__","excerpt":"This looks really close to what I need. I manage a few laptops for a non-profit.","kind":"recommendation","context":"evaluated","parent_comment_id":"49142569"}]
+    },
+    {
+      "name": "Kakehashi",
+      "category": "🧪 Programming & Verification",
+      "thing_url": "https://github.com/wie-project/kakehashi",
+      "hn_url": "https://news.ycombinator.com/item?id=49145937",
+      "source_story_title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "summary": "An experimental Linux ARM userspace for running macOS binaries.",
+      "why_included": "The project drew clear demand for its longer-term Mac application compatibility goal.",
+      "evidence": "A commenter said they had waited a long time for this direction and would follow its progress closely.",
+      "evidence_sources": [{"comment_id":"49146285","comment_url":"https://news.ycombinator.com/item?id=49145937#49146285","author":"leothetechguy","excerpt":"this is something I've been waiting for a long time. I will be watching this with great interest.","kind":"recommendation","parent_comment_id":"49145937"}]
+    },
+    {
+      "name": "NixOS-DGX-Spark",
+      "category": "🤖 AI & Local Models",
+      "thing_url": "https://github.com/graham33/nixos-dgx-spark",
+      "hn_url": "https://news.ycombinator.com/item?id=49146267",
+      "source_story_title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "summary": "Nix and NixOS configuration for NVIDIA DGX Spark hardware.",
+      "why_included": "A practitioner reported a successful deployment across several related Asus machines.",
+      "evidence": "A commenter said they had been running it on several Asus GX10 machines with k3s and found it great.",
+      "evidence_sources": [{"comment_id":"49146758","comment_url":"https://news.ycombinator.com/item?id=49146267#49146758","author":"redrove","excerpt":"Been running this on a few Asus GX10 machines with k3s on top, it’s been great.","kind":"recommendation","context":"production_use","parent_comment_id":"49146267"}]
+    },
+    {
+      "name": "Flexify 2",
+      "category": "🎨 Creative Tools",
+      "thing_url": "http://www.flamingpear.com/flexify-2.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49093845",
+      "source_story_title": "Folding Paper Globes",
+      "summary": "A Photoshop plugin for transforming images into unusual map projections.",
+      "why_included": "A long-time user called it incredible and used it for a school paper-globe project.",
+      "evidence": "A commenter described Flexify as incredible and recalled using it with NASA maps to make polyhedral paper planets.",
+      "evidence_sources": [{"comment_id":"49147348","comment_url":"https://news.ycombinator.com/item?id=49093845#49147348","author":"rgovostes","excerpt":"is an incredible decades-old Photoshop plugin for making these.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49093845"}]
+    },
+    {
+      "name": "pydymax",
+      "category": "🎨 Creative Tools",
+      "thing_url": "https://github.com/Teque5/pydymax",
+      "hn_url": "https://news.ycombinator.com/item?id=49093845",
+      "source_story_title": "Folding Paper Globes",
+      "summary": "A Python library for turning 360-degree photographs into isospheres.",
+      "why_included": "A commenter directly recommended it as a free terminal-based route for this workflow.",
+      "evidence": "A commenter said they had used pydymax to make isospheres from 360 photographs.",
+      "evidence_sources": [{"comment_id":"49146943","comment_url":"https://news.ycombinator.com/item?id=49093845#49146943","author":"blululu","excerpt":"I have used this python libraries to make isospheres from 360 photographs: https://github.com/Teque5/pydymax","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49093845"}]
+    },
+    {
+      "name": "FastTracker II Clone",
+      "category": "🎧 Media & Publishing",
+      "thing_url": "https://16-bits.org/ft2.php",
+      "hn_url": "https://news.ycombinator.com/item?id=49094151",
+      "source_story_title": "Fasttracker II clone in C using SDL 2",
+      "summary": "A modern C and SDL 2 clone of the classic FastTracker II music tracker.",
+      "why_included": "A former user said the original started a lifelong fascination with electronic music making.",
+      "evidence": "A commenter praised the resurrection of FastTracker II after describing how it opened up electronic music creation for them.",
+      "evidence_sources": [{"comment_id":"49145719","comment_url":"https://news.ycombinator.com/item?id=49094151#49145719","author":"tomduncalf","excerpt":"So thank you to the author for resurrecting this amazing and somewhat esoteric bit of software!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49094151"}]
+    },
+    {
+      "name": "Holocloth",
+      "category": "🎨 Creative Tools",
+      "thing_url": "https://github.com/dmitrykurash/holocloth",
+      "hn_url": "https://news.ycombinator.com/item?id=49116917",
+      "source_story_title": "Holocloth",
+      "summary": "An interactive holographic cloth-effect web experiment.",
+      "why_included": "It received unambiguous aesthetic praise as a lightweight creative experiment.",
+      "evidence": "A commenter said they loved holographic effects and found Holocloth gorgeous.",
+      "evidence_sources": [{"comment_id":"49146009","comment_url":"https://news.ycombinator.com/item?id=49116917#49146009","author":"ghosty141","excerpt":"I don't know why but I just LOVE holographic effects. Looks gorgeous!","kind":"recommendation","parent_comment_id":"49116917"}]
+    },
+    {
+      "name": "Phanteks T30-120",
+      "category": "🔧 Hardware & Making",
+      "thing_url": "https://www.phanteks.com/T30-120.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49140213",
+      "source_story_title": "ASRock BC-250: Building the Budget Steam Machine",
+      "summary": "A 120 mm PC fan recommended for high-airflow custom cooling builds.",
+      "why_included": "A detailed comparison presented it as a substantially higher-airflow option with a better noise character.",
+      "evidence": "A commenter recommended fitting the Phanteks T30-120 for 105 CFM and described its noise as pleasant white noise.",
+      "evidence_sources": [{"comment_id":"49143351","comment_url":"https://news.ycombinator.com/item?id=49140213#49143351","author":"altairprime","excerpt":"then you can fit the Phanteks T30-120 which hits 105CFM at 43.6dBa, beating the P12 by a solid +30CFM for +4dBa.","kind":"recommendation","parent_comment_id":"49140213"}]
+    }
+  ]
+}

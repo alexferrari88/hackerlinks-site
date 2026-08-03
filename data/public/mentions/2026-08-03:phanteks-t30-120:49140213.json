@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended fitting the Phanteks T30-120 for 105 CFM and described its noise as pleasant white noise.",
+  "evidence_sources": [
+    {
+      "author": "altairprime",
+      "comment_id": "49143351",
+      "comment_url": "https://news.ycombinator.com/item?id=49140213#49143351",
+      "excerpt": "then you can fit the Phanteks T30-120 which hits 105CFM at 43.6dBa, beating the P12 by a solid +30CFM for +4dBa.",
+      "kind": "recommendation",
+      "parent_comment_id": "49140213"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49140213",
+  "id": "2026-08-03:phanteks-t30-120:49140213",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "phanteks-t30-120",
+  "rank": 10,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49140213",
+  "source_story_title": "ASRock BC-250: Building the Budget Steam Machine"
+}

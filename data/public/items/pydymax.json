@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "pydymax",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:pydymax:49093845",
+  "mention_ids": [
+    "2026-08-03:pydymax:49093845"
+  ],
+  "name": "pydymax",
+  "slug": "pydymax",
+  "summary": "A Python library for turning 360-degree photographs into isospheres.",
+  "thing_url": "https://github.com/Teque5/pydymax",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it as a free terminal-based route for this workflow."
+}

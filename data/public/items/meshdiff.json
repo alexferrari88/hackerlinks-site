@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "meshdiff",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:meshdiff:49143479",
+  "mention_ids": [
+    "2026-08-03:meshdiff:49143479"
+  ],
+  "name": "Meshdiff",
+  "slug": "meshdiff",
+  "summary": "A local-first browser tool for visually comparing two STL versions.",
+  "thing_url": "https://meshdiff.com/",
+  "times_seen": 1,
+  "why_included": "A commenter specifically praised its local-first design and roadmap."
+}

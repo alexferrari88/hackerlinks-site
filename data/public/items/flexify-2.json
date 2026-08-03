@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "flexify-2",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:flexify-2:49093845",
+  "mention_ids": [
+    "2026-08-03:flexify-2:49093845"
+  ],
+  "name": "Flexify 2",
+  "slug": "flexify-2",
+  "summary": "A Photoshop plugin for transforming images into unusual map projections.",
+  "thing_url": "http://www.flamingpear.com/flexify-2.html",
+  "times_seen": 1,
+  "why_included": "A long-time user called it incredible and used it for a school paper-globe project."
+}

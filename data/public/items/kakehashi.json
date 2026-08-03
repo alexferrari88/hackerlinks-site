@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "kakehashi",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:kakehashi:49145937",
+  "mention_ids": [
+    "2026-08-03:kakehashi:49145937"
+  ],
+  "name": "Kakehashi",
+  "slug": "kakehashi",
+  "summary": "An experimental Linux ARM userspace for running macOS binaries.",
+  "thing_url": "https://github.com/wie-project/kakehashi",
+  "times_seen": 1,
+  "why_included": "The project drew clear demand for its longer-term Mac application compatibility goal."
+}

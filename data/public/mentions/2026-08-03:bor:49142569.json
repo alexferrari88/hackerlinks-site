@@ -1,0 +1,23 @@
+{
+  "evidence": "A laptop administrator said Bor was close to what they needed and wanted to try it.",
+  "evidence_sources": [
+    {
+      "author": "V__",
+      "comment_id": "49143341",
+      "comment_url": "https://news.ycombinator.com/item?id=49142569#49143341",
+      "context": "evaluated",
+      "excerpt": "This looks really close to what I need. I manage a few laptops for a non-profit.",
+      "kind": "recommendation",
+      "parent_comment_id": "49142569"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49142569",
+  "id": "2026-08-03:bor:49142569",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "bor",
+  "rank": 3,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49142569",
+  "source_story_title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops"
+}

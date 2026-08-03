@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said they had waited a long time for this direction and would follow its progress closely.",
+  "evidence_sources": [
+    {
+      "author": "leothetechguy",
+      "comment_id": "49146285",
+      "comment_url": "https://news.ycombinator.com/item?id=49145937#49146285",
+      "excerpt": "this is something I've been waiting for a long time. I will be watching this with great interest.",
+      "kind": "recommendation",
+      "parent_comment_id": "49145937"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49145937",
+  "id": "2026-08-03:kakehashi:49145937",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "kakehashi",
+  "rank": 4,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49145937",
+  "source_story_title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "holocloth",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:holocloth:49116917",
+  "mention_ids": [
+    "2026-08-03:holocloth:49116917"
+  ],
+  "name": "Holocloth",
+  "slug": "holocloth",
+  "summary": "An interactive holographic cloth-effect web experiment.",
+  "thing_url": "https://github.com/dmitrykurash/holocloth",
+  "times_seen": 1,
+  "why_included": "It received unambiguous aesthetic praise as a lightweight creative experiment."
+}

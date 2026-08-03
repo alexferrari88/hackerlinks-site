@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter praised the resurrection of FastTracker II after describing how it opened up electronic music creation for them.",
+  "evidence_sources": [
+    {
+      "author": "tomduncalf",
+      "comment_id": "49145719",
+      "comment_url": "https://news.ycombinator.com/item?id=49094151#49145719",
+      "context": "first_hand_use",
+      "excerpt": "So thank you to the author for resurrecting this amazing and somewhat esoteric bit of software!",
+      "kind": "recommendation",
+      "parent_comment_id": "49094151"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49094151",
+  "id": "2026-08-03:fasttracker-ii-clone:49094151",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "fasttracker-ii-clone",
+  "rank": 8,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49094151",
+  "source_story_title": "Fasttracker II clone in C using SDL 2"
+}

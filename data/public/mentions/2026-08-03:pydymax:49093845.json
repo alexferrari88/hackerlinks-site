@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they had used pydymax to make isospheres from 360 photographs.",
+  "evidence_sources": [
+    {
+      "author": "blululu",
+      "comment_id": "49146943",
+      "comment_url": "https://news.ycombinator.com/item?id=49093845#49146943",
+      "context": "first_hand_use",
+      "excerpt": "I have used this python libraries to make isospheres from 360 photographs: https://github.com/Teque5/pydymax",
+      "kind": "recommendation",
+      "parent_comment_id": "49093845"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49093845",
+  "id": "2026-08-03:pydymax:49093845",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "pydymax",
+  "rank": 7,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49093845",
+  "source_story_title": "Folding Paper Globes"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said they loved holographic effects and found Holocloth gorgeous.",
+  "evidence_sources": [
+    {
+      "author": "ghosty141",
+      "comment_id": "49146009",
+      "comment_url": "https://news.ycombinator.com/item?id=49116917#49146009",
+      "excerpt": "I don't know why but I just LOVE holographic effects. Looks gorgeous!",
+      "kind": "recommendation",
+      "parent_comment_id": "49116917"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49116917",
+  "id": "2026-08-03:holocloth:49116917",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "holocloth",
+  "rank": 9,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49116917",
+  "source_story_title": "Holocloth"
+}

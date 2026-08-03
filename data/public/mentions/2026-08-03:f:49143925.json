@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter liked F*'s external-library support while incrementally migrating C codebases and called it very solid.",
+  "evidence_sources": [
+    {
+      "author": "pvsnp",
+      "comment_id": "49144797",
+      "comment_url": "https://news.ycombinator.com/item?id=49143925#49144797",
+      "context": "first_hand_use",
+      "excerpt": "I liked being able to express calling external libraries while incrementally migrating existing C codebases to F*. Very solid language.",
+      "kind": "recommendation",
+      "parent_comment_id": "49143925"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49143925",
+  "id": "2026-08-03:f:49143925",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "f",
+  "rank": 2,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49143925",
+  "source_story_title": "F*: A general-purpose proof-oriented programming language"
+}

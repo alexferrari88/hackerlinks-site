@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "nixos-dgx-spark",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:nixos-dgx-spark:49146267",
+  "mention_ids": [
+    "2026-08-03:nixos-dgx-spark:49146267"
+  ],
+  "name": "NixOS-DGX-Spark",
+  "slug": "nixos-dgx-spark",
+  "summary": "Nix and NixOS configuration for NVIDIA DGX Spark hardware.",
+  "thing_url": "https://github.com/graham33/nixos-dgx-spark",
+  "times_seen": 1,
+  "why_included": "A practitioner reported a successful deployment across several related Asus machines."
+}

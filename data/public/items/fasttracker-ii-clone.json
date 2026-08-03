@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-03T03:16:09Z",
+  "id": "fasttracker-ii-clone",
+  "last_seen_at": "2026-08-03T03:16:09Z",
+  "latest_mention_id": "2026-08-03:fasttracker-ii-clone:49094151",
+  "mention_ids": [
+    "2026-08-03:fasttracker-ii-clone:49094151"
+  ],
+  "name": "FastTracker II Clone",
+  "slug": "fasttracker-ii-clone",
+  "summary": "A modern C and SDL 2 clone of the classic FastTracker II music tracker.",
+  "thing_url": "https://16-bits.org/ft2.php",
+  "times_seen": 1,
+  "why_included": "A former user said the original started a lifelong fascination with electronic music making."
+}

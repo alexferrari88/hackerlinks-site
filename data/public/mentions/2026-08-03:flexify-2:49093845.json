@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter described Flexify as incredible and recalled using it with NASA maps to make polyhedral paper planets.",
+  "evidence_sources": [
+    {
+      "author": "rgovostes",
+      "comment_id": "49147348",
+      "comment_url": "https://news.ycombinator.com/item?id=49093845#49147348",
+      "context": "first_hand_use",
+      "excerpt": "is an incredible decades-old Photoshop plugin for making these.",
+      "kind": "recommendation",
+      "parent_comment_id": "49093845"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49093845",
+  "id": "2026-08-03:flexify-2:49093845",
+  "is_repeat": false,
+  "issue_id": "2026-08-03",
+  "item_id": "flexify-2",
+  "rank": 6,
+  "seen_at": "2026-08-03T03:16:09Z",
+  "source_story_id": "49093845",
+  "source_story_title": "Folding Paper Globes"
+}
