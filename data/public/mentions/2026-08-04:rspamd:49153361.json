@@ -1,0 +1,32 @@
+{
+  "evidence": "Two commenters reported using Rspamd, with one citing its DMARC module and broader inbound-mail use.",
+  "evidence_sources": [
+    {
+      "author": "oogali",
+      "comment_id": "49154539",
+      "comment_url": "https://news.ycombinator.com/item?id=49153361#49154539",
+      "context": "first_hand_use",
+      "excerpt": "I use rspamd. This might be a little heavy if you\u2019re solely looking for DMARC validation, but I use the other parts of rspamd as well for inbound email.",
+      "kind": "recommendation",
+      "parent_comment_id": "49154034"
+    },
+    {
+      "author": "1over137",
+      "comment_id": "49154633",
+      "comment_url": "https://news.ycombinator.com/item?id=49153361#49154633",
+      "context": "first_hand_use",
+      "excerpt": "Indeed opendmarc seems practically abandonware. rspamd is what I use.",
+      "kind": "recommendation",
+      "parent_comment_id": "49154034"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49153361",
+  "id": "2026-08-04:rspamd:49153361",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "rspamd",
+  "rank": 6,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49153361",
+  "source_story_title": "What DMARC Protects You From, and What It Does Not"
+}

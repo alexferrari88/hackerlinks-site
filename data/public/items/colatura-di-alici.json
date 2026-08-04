@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "colatura-di-alici",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:colatura-di-alici:49125168",
+  "mention_ids": [
+    "2026-08-04:colatura-di-alici:49125168"
+  ],
+  "name": "Colatura di Alici",
+  "slug": "colatura-di-alici",
+  "summary": "An Italian anchovy fish sauce used to add concentrated umami to dishes.",
+  "thing_url": "https://en.wikipedia.org/wiki/Colatura_di_alici",
+  "times_seen": 1,
+  "why_included": "A first-hand user called it magical, versatile, and especially useful in pasta dishes."
+}

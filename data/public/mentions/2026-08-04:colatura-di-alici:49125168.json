@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter described Colatura di Alici as a genuinely magical ingredient and said they use it often in pasta.",
+  "evidence_sources": [
+    {
+      "author": "BoxOfRain",
+      "comment_id": "49157036",
+      "comment_url": "https://news.ycombinator.com/item?id=49125168#49157036",
+      "context": "first_hand_use",
+      "excerpt": "Despite the fearsome smell when it\u2019s collected together in bulk, modern garum in the form of Colatura di Alici is a genuinely magical ingredient. It\u2019s very similar to what the Romans used, except it\u2019s made exclusively from anchovies whereas the Romans used many varieties of fish to make garum. I use it often in pasta dishes especially, but it\u2019s a versatile ingredient for adding umami in general.",
+      "kind": "recommendation",
+      "parent_comment_id": "49156796"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49125168",
+  "id": "2026-08-04:colatura-di-alici:49125168",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "colatura-di-alici",
+  "rank": 9,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49125168",
+  "source_story_title": "Decades-old fish sauce at abandoned factory in Canada finally being removed"
+}

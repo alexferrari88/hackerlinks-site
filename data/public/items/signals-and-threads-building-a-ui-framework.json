@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "signals-and-threads-building-a-ui-framework",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:signals-and-threads-building-a-ui-framework:49152842",
+  "mention_ids": [
+    "2026-08-04:signals-and-threads-building-a-ui-framework:49152842"
+  ],
+  "name": "Signals and Threads: Building a UI Framework",
+  "slug": "signals-and-threads-building-a-ui-framework",
+  "summary": "A Jane Street podcast episode about the design and implementation of Bonsai.",
+  "thing_url": "https://signalsandthreads.com/building-a-ui-framework/",
+  "times_seen": 1,
+  "why_included": "A commenter singled it out as a great episode for understanding the UI library."
+}

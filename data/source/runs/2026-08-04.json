@@ -1,0 +1,246 @@
+{
+  "version": 2,
+  "run_date": "2026-08-04",
+  "generated_at": "2026-08-04T05:17:18+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-04.json",
+    "sha256": "30183791ddf5445f5aed6df2731b8bc2a64ba8f7953538d8a6850823532b50da",
+    "bytes": 3388820,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5412,
+    "fetched_item_count": 5442,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "10 concrete, comment-endorsed recommendations from a verified full crawl of the HN front page.",
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Artificial Intelligence Natural Stupidity",
+      "category": "🤖 AI & Research",
+      "thing_url": "https://www.youtube.com/watch?v=7bx9UfDHf_k",
+      "hn_url": "https://news.ycombinator.com/item?id=49151933",
+      "source_story_title": "Don't be a meat proxy",
+      "summary": "A security talk on why human oversight cannot reliably catch LLM mistakes.",
+      "why_included": "A commenter specifically called it a great security talk with a sharp automation-safety framing.",
+      "evidence": "A commenter praised its comparison between pilots catching automation errors and people catching LLM mistakes.",
+      "evidence_sources": [
+        {
+          "comment_id": "49156080",
+          "comment_url": "https://news.ycombinator.com/item?id=49151933#49156080",
+          "author": "washbasin",
+          "excerpt": "Great security talk about how humans aren't setup to deal with LLMs as tools. I love the bullet point(s) : we don't trust [aircraft] pilots to catch automations mistakes (e.g. autopilot), but we are expecting humans to catch LLM mistakes.",
+          "kind": "recommendation",
+          "parent_comment_id": "49151933"
+        }
+      ]
+    },
+    {
+      "name": "Bonsai",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/janestreet/bonsai",
+      "hn_url": "https://news.ycombinator.com/item?id=49152842",
+      "source_story_title": "Bonsai: Janestreet's UI Library",
+      "summary": "Jane Street's OCaml library for dense, interactive web and terminal interfaces.",
+      "why_included": "HN commenters valued its utility-first interface model and reported using its terminal implementation.",
+      "evidence": "One commenter called the library great for fast, pleasant, information-dense tools; another uses its terminal implementation for contacts.",
+      "evidence_sources": [
+        {
+          "comment_id": "49155045",
+          "comment_url": "https://news.ycombinator.com/item?id=49152842#49155045",
+          "author": "MrBuddyCasino",
+          "excerpt": "This is great. It focuses on utility and information density over design. It looks like someone took a terminal UI and transplanted it to the web, Bloomberg terminal style. I'm pretty sure you can build tools with this that are fast and pleasant to use.",
+          "kind": "recommendation",
+          "parent_comment_id": "49152842"
+        },
+        {
+          "comment_id": "49153546",
+          "comment_url": "https://news.ycombinator.com/item?id=49152842#49153546",
+          "author": "avsm",
+          "excerpt": "There's a full terminal implementation of Bonsai as well. I actually use it in my personal workflow these days to manage my contacts database!",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49153108"
+        }
+      ]
+    },
+    {
+      "name": "Isopolis",
+      "category": "🎨 Creative Tools & Maps",
+      "thing_url": "https://sf.isopolis.city/",
+      "hn_url": "https://news.ycombinator.com/item?id=49149966",
+      "source_story_title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "summary": "An explorable isometric pixel-art map of San Francisco neighborhoods and landmarks.",
+      "why_included": "A commenter independently praised its interactive neighborhood exploration and SimCity-like feel.",
+      "evidence": "A commenter called it really cool and highlighted the clickable neighborhoods and regions.",
+      "evidence_sources": [
+        {
+          "comment_id": "49150422",
+          "comment_url": "https://news.ycombinator.com/item?id=49149966#49150422",
+          "author": "accrual",
+          "excerpt": "This is really cool, it gives me SimCity 2000 vibes. I like that I can click on neighborhoods and regions and get more information about them!",
+          "kind": "recommendation",
+          "parent_comment_id": "49149966"
+        }
+      ]
+    },
+    {
+      "name": "Floor796",
+      "category": "🎨 Creative Tools & Maps",
+      "thing_url": "https://floor796.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49149966",
+      "source_story_title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "summary": "A huge interactive pixel-art world filled with discoverable scenes and characters.",
+      "why_included": "It surfaced as a strongly praised reference for deep, scrollable pixel-art exploration.",
+      "evidence": "A commenter described Floor796 as easy to keep browsing and exploring, then linked it directly.",
+      "evidence_sources": [
+        {
+          "comment_id": "49150331",
+          "comment_url": "https://news.ycombinator.com/item?id=49149966#49150331",
+          "author": "murphyslab",
+          "excerpt": "Incredible. It's easy to just go on browsing and exploring. The massive, scrollable pixel art aspect reminds me a little of Floor796:",
+          "kind": "recommendation",
+          "parent_comment_id": "49149966"
+        }
+      ]
+    },
+    {
+      "name": "SmallDocs",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://smalldocs.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49153374",
+      "source_story_title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "summary": "An open-source tool for agent-generated, human-readable Markdown code walkthroughs.",
+      "why_included": "A practitioner uses it to stay connected to code produced by coding agents.",
+      "evidence": "Its author says they use SmallDocs frequently to stay in touch with LLM-generated code.",
+      "evidence_sources": [
+        {
+          "comment_id": "49155497",
+          "comment_url": "https://news.ycombinator.com/item?id=49153374#49155497",
+          "author": "FailMore",
+          "excerpt": "I use this a lot to stay in touch with the code the LLM is producing.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49153374"
+        }
+      ]
+    },
+    {
+      "name": "Rspamd",
+      "category": "🔒 Privacy & Networking",
+      "thing_url": "https://rspamd.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49153361",
+      "source_story_title": "What DMARC Protects You From, and What It Does Not",
+      "summary": "An open-source mail filter that includes inbound DMARC validation.",
+      "why_included": "It was directly recommended by users as a maintained alternative for receiving-side DMARC checks.",
+      "evidence": "Two commenters reported using Rspamd, with one citing its DMARC module and broader inbound-mail use.",
+      "evidence_sources": [
+        {
+          "comment_id": "49154539",
+          "comment_url": "https://news.ycombinator.com/item?id=49153361#49154539",
+          "author": "oogali",
+          "excerpt": "I use rspamd. This might be a little heavy if you’re solely looking for DMARC validation, but I use the other parts of rspamd as well for inbound email.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49154034"
+        },
+        {
+          "comment_id": "49154633",
+          "comment_url": "https://news.ycombinator.com/item?id=49153361#49154633",
+          "author": "1over137",
+          "excerpt": "Indeed opendmarc seems practically abandonware. rspamd is what I use.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49154034"
+        }
+      ]
+    },
+    {
+      "name": "C-Kermit",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://www.kermitproject.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49158474",
+      "source_story_title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "summary": "A mature communications toolkit with inline file transfer over SSH sessions.",
+      "why_included": "A commenter highlighted its useful SSH file-transfer workflow and open-source availability.",
+      "evidence": "A commenter called its inline transfer over an open SSH session a useful quick transfer path.",
+      "evidence_sources": [
+        {
+          "comment_id": "49162459",
+          "comment_url": "https://news.ycombinator.com/item?id=49158474#49162459",
+          "author": "donflamenco",
+          "excerpt": "One cool feature is that you can use C-Kermit to do inline file transfers over the open SSH session. It doesn't work over a terminal muxer like screen/tmux, but it is pretty useful for a quick way to transfer files between the client and the remote host.",
+          "kind": "recommendation",
+          "parent_comment_id": "49158474"
+        }
+      ]
+    },
+    {
+      "name": "Signals and Threads: Building a UI Framework",
+      "category": "🎥 Watch & Learn",
+      "thing_url": "https://signalsandthreads.com/building-a-ui-framework/",
+      "hn_url": "https://news.ycombinator.com/item?id=49152842",
+      "source_story_title": "Bonsai: Janestreet's UI Library",
+      "summary": "A Jane Street podcast episode about the design and implementation of Bonsai.",
+      "why_included": "A commenter singled it out as a great episode for understanding the UI library.",
+      "evidence": "A commenter explicitly recommended the episode as a great Signals and Threads discussion of this work.",
+      "evidence_sources": [
+        {
+          "comment_id": "49157870",
+          "comment_url": "https://news.ycombinator.com/item?id=49152842#49157870",
+          "author": "bsmith89",
+          "excerpt": "There's a great Signals and Threads (Jane Street's Podcast) episode about this work:",
+          "kind": "recommendation",
+          "parent_comment_id": "49152842"
+        }
+      ]
+    },
+    {
+      "name": "Colatura di Alici",
+      "category": "🍳 Food & Craft",
+      "thing_url": "https://en.wikipedia.org/wiki/Colatura_di_alici",
+      "hn_url": "https://news.ycombinator.com/item?id=49125168",
+      "source_story_title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
+      "summary": "An Italian anchovy fish sauce used to add concentrated umami to dishes.",
+      "why_included": "A first-hand user called it magical, versatile, and especially useful in pasta dishes.",
+      "evidence": "A commenter described Colatura di Alici as a genuinely magical ingredient and said they use it often in pasta.",
+      "evidence_sources": [
+        {
+          "comment_id": "49157036",
+          "comment_url": "https://news.ycombinator.com/item?id=49125168#49157036",
+          "author": "BoxOfRain",
+          "excerpt": "Despite the fearsome smell when it’s collected together in bulk, modern garum in the form of Colatura di Alici is a genuinely magical ingredient. It’s very similar to what the Romans used, except it’s made exclusively from anchovies whereas the Romans used many varieties of fish to make garum. I use it often in pasta dishes especially, but it’s a versatile ingredient for adding umami in general.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49156796"
+        }
+      ]
+    },
+    {
+      "name": "A Handwritten Blogging Platform",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://handwritten.blog/",
+      "hn_url": "https://news.ycombinator.com/item?id=49119751",
+      "source_story_title": "Show HN: A Handwritten Blogging Platform",
+      "summary": "A publishing platform for blogs and comments written and shared by hand.",
+      "why_included": "The physical-medium interaction drew direct praise from a reader who enjoyed handwritten comments.",
+      "evidence": "A commenter said they loved that some platform comments are handwritten too.",
+      "evidence_sources": [
+        {
+          "comment_id": "49151407",
+          "comment_url": "https://news.ycombinator.com/item?id=49119751#49151407",
+          "author": "jonas21",
+          "excerpt": "I love that the comments on some of the posts (like this one) are written by hand too!",
+          "kind": "recommendation",
+          "parent_comment_id": "49119751"
+        }
+      ]
+    }
+  ]
+}

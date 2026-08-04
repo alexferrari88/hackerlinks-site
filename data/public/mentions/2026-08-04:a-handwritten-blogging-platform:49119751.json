@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said they loved that some platform comments are handwritten too.",
+  "evidence_sources": [
+    {
+      "author": "jonas21",
+      "comment_id": "49151407",
+      "comment_url": "https://news.ycombinator.com/item?id=49119751#49151407",
+      "excerpt": "I love that the comments on some of the posts (like this one) are written by hand too!",
+      "kind": "recommendation",
+      "parent_comment_id": "49119751"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49119751",
+  "id": "2026-08-04:a-handwritten-blogging-platform:49119751",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "a-handwritten-blogging-platform",
+  "rank": 10,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49119751",
+  "source_story_title": "Show HN: A Handwritten Blogging Platform"
+}

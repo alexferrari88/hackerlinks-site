@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "artificial-intelligence-natural-stupidity",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:artificial-intelligence-natural-stupidity:49151933",
+  "mention_ids": [
+    "2026-08-04:artificial-intelligence-natural-stupidity:49151933"
+  ],
+  "name": "Artificial Intelligence Natural Stupidity",
+  "slug": "artificial-intelligence-natural-stupidity",
+  "summary": "A security talk on why human oversight cannot reliably catch LLM mistakes.",
+  "thing_url": "https://www.youtube.com/watch?v=7bx9UfDHf_k",
+  "times_seen": 1,
+  "why_included": "A commenter specifically called it a great security talk with a sharp automation-safety framing."
+}

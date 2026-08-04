@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter explicitly recommended the episode as a great Signals and Threads discussion of this work.",
+  "evidence_sources": [
+    {
+      "author": "bsmith89",
+      "comment_id": "49157870",
+      "comment_url": "https://news.ycombinator.com/item?id=49152842#49157870",
+      "excerpt": "There's a great Signals and Threads (Jane Street's Podcast) episode about this work:",
+      "kind": "recommendation",
+      "parent_comment_id": "49152842"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49152842",
+  "id": "2026-08-04:signals-and-threads-building-a-ui-framework:49152842",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "signals-and-threads-building-a-ui-framework",
+  "rank": 8,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49152842",
+  "source_story_title": "Bonsai: Janestreet's UI Library"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "bonsai",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:bonsai:49152842",
+  "mention_ids": [
+    "2026-08-04:bonsai:49152842"
+  ],
+  "name": "Bonsai",
+  "slug": "bonsai",
+  "summary": "Jane Street's OCaml library for dense, interactive web and terminal interfaces.",
+  "thing_url": "https://github.com/janestreet/bonsai",
+  "times_seen": 1,
+  "why_included": "HN commenters valued its utility-first interface model and reported using its terminal implementation."
+}

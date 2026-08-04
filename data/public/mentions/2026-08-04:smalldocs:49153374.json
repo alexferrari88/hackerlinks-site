@@ -1,0 +1,23 @@
+{
+  "evidence": "Its author says they use SmallDocs frequently to stay in touch with LLM-generated code.",
+  "evidence_sources": [
+    {
+      "author": "FailMore",
+      "comment_id": "49155497",
+      "comment_url": "https://news.ycombinator.com/item?id=49153374#49155497",
+      "context": "first_hand_use",
+      "excerpt": "I use this a lot to stay in touch with the code the LLM is producing.",
+      "kind": "recommendation",
+      "parent_comment_id": "49153374"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49153374",
+  "id": "2026-08-04:smalldocs:49153374",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "smalldocs",
+  "rank": 5,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49153374",
+  "source_story_title": "Prevent cognitive debt by manually retyping LLM-generated code"
+}

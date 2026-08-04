@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter described Floor796 as easy to keep browsing and exploring, then linked it directly.",
+  "evidence_sources": [
+    {
+      "author": "murphyslab",
+      "comment_id": "49150331",
+      "comment_url": "https://news.ycombinator.com/item?id=49149966#49150331",
+      "excerpt": "Incredible. It's easy to just go on browsing and exploring. The massive, scrollable pixel art aspect reminds me a little of Floor796:",
+      "kind": "recommendation",
+      "parent_comment_id": "49149966"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49149966",
+  "id": "2026-08-04:floor796:49149966",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "floor796",
+  "rank": 4,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49149966",
+  "source_story_title": "Show HN: Isopolis \u2013 Isometric pixel map of SF"
+}

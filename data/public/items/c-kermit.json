@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "c-kermit",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:c-kermit:49158474",
+  "mention_ids": [
+    "2026-08-04:c-kermit:49158474"
+  ],
+  "name": "C-Kermit",
+  "slug": "c-kermit",
+  "summary": "A mature communications toolkit with inline file transfer over SSH sessions.",
+  "thing_url": "https://www.kermitproject.org/",
+  "times_seen": 1,
+  "why_included": "A commenter highlighted its useful SSH file-transfer workflow and open-source availability."
+}

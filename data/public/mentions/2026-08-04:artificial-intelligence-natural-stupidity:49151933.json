@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praised its comparison between pilots catching automation errors and people catching LLM mistakes.",
+  "evidence_sources": [
+    {
+      "author": "washbasin",
+      "comment_id": "49156080",
+      "comment_url": "https://news.ycombinator.com/item?id=49151933#49156080",
+      "excerpt": "Great security talk about how humans aren't setup to deal with LLMs as tools. I love the bullet point(s) : we don't trust [aircraft] pilots to catch automations mistakes (e.g. autopilot), but we are expecting humans to catch LLM mistakes.",
+      "kind": "recommendation",
+      "parent_comment_id": "49151933"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49151933",
+  "id": "2026-08-04:artificial-intelligence-natural-stupidity:49151933",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "artificial-intelligence-natural-stupidity",
+  "rank": 1,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49151933",
+  "source_story_title": "Don't be a meat proxy"
+}

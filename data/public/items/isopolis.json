@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "isopolis",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:isopolis:49149966",
+  "mention_ids": [
+    "2026-08-04:isopolis:49149966"
+  ],
+  "name": "Isopolis",
+  "slug": "isopolis",
+  "summary": "An explorable isometric pixel-art map of San Francisco neighborhoods and landmarks.",
+  "thing_url": "https://sf.isopolis.city/",
+  "times_seen": 1,
+  "why_included": "A commenter independently praised its interactive neighborhood exploration and SimCity-like feel."
+}

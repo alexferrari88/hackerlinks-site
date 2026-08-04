@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "a-handwritten-blogging-platform",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:a-handwritten-blogging-platform:49119751",
+  "mention_ids": [
+    "2026-08-04:a-handwritten-blogging-platform:49119751"
+  ],
+  "name": "A Handwritten Blogging Platform",
+  "slug": "a-handwritten-blogging-platform",
+  "summary": "A publishing platform for blogs and comments written and shared by hand.",
+  "thing_url": "https://handwritten.blog/",
+  "times_seen": 1,
+  "why_included": "The physical-medium interaction drew direct praise from a reader who enjoyed handwritten comments."
+}

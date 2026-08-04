@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-04T05:17:18+02:00",
+  "id": "smalldocs",
+  "last_seen_at": "2026-08-04T05:17:18+02:00",
+  "latest_mention_id": "2026-08-04:smalldocs:49153374",
+  "mention_ids": [
+    "2026-08-04:smalldocs:49153374"
+  ],
+  "name": "SmallDocs",
+  "slug": "smalldocs",
+  "summary": "An open-source tool for agent-generated, human-readable Markdown code walkthroughs.",
+  "thing_url": "https://smalldocs.org/",
+  "times_seen": 1,
+  "why_included": "A practitioner uses it to stay connected to code produced by coding agents."
+}

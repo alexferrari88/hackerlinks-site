@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called it really cool and highlighted the clickable neighborhoods and regions.",
+  "evidence_sources": [
+    {
+      "author": "accrual",
+      "comment_id": "49150422",
+      "comment_url": "https://news.ycombinator.com/item?id=49149966#49150422",
+      "excerpt": "This is really cool, it gives me SimCity 2000 vibes. I like that I can click on neighborhoods and regions and get more information about them!",
+      "kind": "recommendation",
+      "parent_comment_id": "49149966"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49149966",
+  "id": "2026-08-04:isopolis:49149966",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "isopolis",
+  "rank": 3,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49149966",
+  "source_story_title": "Show HN: Isopolis \u2013 Isometric pixel map of SF"
+}

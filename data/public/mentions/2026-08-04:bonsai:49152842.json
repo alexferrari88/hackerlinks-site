@@ -1,0 +1,31 @@
+{
+  "evidence": "One commenter called the library great for fast, pleasant, information-dense tools; another uses its terminal implementation for contacts.",
+  "evidence_sources": [
+    {
+      "author": "MrBuddyCasino",
+      "comment_id": "49155045",
+      "comment_url": "https://news.ycombinator.com/item?id=49152842#49155045",
+      "excerpt": "This is great. It focuses on utility and information density over design. It looks like someone took a terminal UI and transplanted it to the web, Bloomberg terminal style. I'm pretty sure you can build tools with this that are fast and pleasant to use.",
+      "kind": "recommendation",
+      "parent_comment_id": "49152842"
+    },
+    {
+      "author": "avsm",
+      "comment_id": "49153546",
+      "comment_url": "https://news.ycombinator.com/item?id=49152842#49153546",
+      "context": "first_hand_use",
+      "excerpt": "There's a full terminal implementation of Bonsai as well. I actually use it in my personal workflow these days to manage my contacts database!",
+      "kind": "recommendation",
+      "parent_comment_id": "49153108"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49152842",
+  "id": "2026-08-04:bonsai:49152842",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "bonsai",
+  "rank": 2,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49152842",
+  "source_story_title": "Bonsai: Janestreet's UI Library"
+}

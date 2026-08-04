@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called its inline transfer over an open SSH session a useful quick transfer path.",
+  "evidence_sources": [
+    {
+      "author": "donflamenco",
+      "comment_id": "49162459",
+      "comment_url": "https://news.ycombinator.com/item?id=49158474#49162459",
+      "excerpt": "One cool feature is that you can use C-Kermit to do inline file transfers over the open SSH session. It doesn't work over a terminal muxer like screen/tmux, but it is pretty useful for a quick way to transfer files between the client and the remote host.",
+      "kind": "recommendation",
+      "parent_comment_id": "49158474"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49158474",
+  "id": "2026-08-04:c-kermit:49158474",
+  "is_repeat": false,
+  "issue_id": "2026-08-04",
+  "item_id": "c-kermit",
+  "rank": 7,
+  "seen_at": "2026-08-04T05:17:18+02:00",
+  "source_story_id": "49158474",
+  "source_story_title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
+}
