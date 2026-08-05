@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "tabpfn",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:tabpfn:49166442",
+  "mention_ids": [
+    "2026-08-05:tabpfn:49166442"
+  ],
+  "name": "TabPFN",
+  "slug": "tabpfn",
+  "summary": "A tabular foundation model for predictive tasks without prompting a general-purpose LLM.",
+  "thing_url": "https://github.com/PriorLabs/tabpfn",
+  "times_seen": 1,
+  "why_included": "It surfaced as a developing alternative for tabular work, with a clear inference-speed caveat."
+}

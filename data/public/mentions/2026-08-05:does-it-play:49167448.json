@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Does It Play? a good site for checking physical-media internet dependencies.",
+  "evidence_sources": [
+    {
+      "author": "tripleee",
+      "comment_id": "49171893",
+      "comment_url": "https://news.ycombinator.com/item?id=49167448#49171893",
+      "excerpt": "There's a good site for this: https://www.doesitplay.org/",
+      "kind": "recommendation",
+      "parent_comment_id": "49167448"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49167448",
+  "id": "2026-08-05:does-it-play:49167448",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "does-it-play",
+  "rank": 5,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49167448",
+  "source_story_title": "Xbox goes down. You can't play games you own on disc"
+}

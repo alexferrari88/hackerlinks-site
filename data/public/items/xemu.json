@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "xemu",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:xemu:49167448",
+  "mention_ids": [
+    "2026-08-05:xemu:49167448"
+  ],
+  "name": "Xemu",
+  "slug": "xemu",
+  "summary": "An open-source emulator for original Xbox games on modern computers.",
+  "thing_url": "https://xemu.app/",
+  "times_seen": 1,
+  "why_included": "It was suggested as a practical alternative for playing the original Halo without modern account friction."
+}

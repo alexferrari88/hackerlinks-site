@@ -1,0 +1,23 @@
+{
+  "evidence": "Its builder said their team uses Plannotator for specs and code review, then compiles feedback into evolving review skills.",
+  "evidence_sources": [
+    {
+      "author": "ramoz",
+      "comment_id": "49172577",
+      "comment_url": "https://news.ycombinator.com/item?id=49164896#49172577",
+      "context": "author_or_maintainer",
+      "excerpt": "I've built and my team uses plannotator [1] for specs and code review. It stores all human annotated feedback, which we compile from time-to-time and iterate on coding standard skills for automated review (that seems to get better with the more feedback we provide).",
+      "kind": "author_context",
+      "parent_comment_id": "49170298"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49164896",
+  "id": "2026-08-05:plannotator:49164896",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "plannotator",
+  "rank": 8,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49164896",
+  "source_story_title": "Harness engineering for self-improvement"
+}

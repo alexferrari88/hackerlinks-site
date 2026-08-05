@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter pointed readers to the book while discussing how residential landscapes could return to forest.",
+  "evidence_sources": [
+    {
+      "author": "forlorn_mammoth",
+      "comment_id": "49172606",
+      "comment_url": "https://news.ycombinator.com/item?id=49099336#49172606",
+      "excerpt": "you might be interested in https://en.wikipedia.org/wiki/The_World_Without_Us",
+      "kind": "recommendation",
+      "parent_comment_id": "49164748"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49099336",
+  "id": "2026-08-05:the-world-without-us:49099336",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "the-world-without-us",
+  "rank": 3,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49099336",
+  "source_story_title": "Amazonian civilization had estimated 3M people in 3% of forest area"
+}

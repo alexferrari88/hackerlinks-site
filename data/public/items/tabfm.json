@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "tabfm",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:tabfm:49166442",
+  "mention_ids": [
+    "2026-08-05:tabfm:49166442"
+  ],
+  "name": "TabFM",
+  "slug": "tabfm",
+  "summary": "Google's zero-shot foundation model for tabular prediction, following TimesFM.",
+  "thing_url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+  "times_seen": 1,
+  "why_included": "A commenter judged it the strongest current approach for the tabular-prediction problem under discussion."
+}

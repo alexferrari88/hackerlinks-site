@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "fd",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:fd:49166874",
+  "mention_ids": [
+    "2026-08-05:fd:49166874"
+  ],
+  "name": "fd",
+  "slug": "fd",
+  "summary": "A fast, user-friendly command-line alternative to find for filesystem searches.",
+  "thing_url": "https://github.com/sharkdp/fd",
+  "times_seen": 1,
+  "why_included": "It received a direct recommendation for quickly locating compromise indicators in a large codebase."
+}

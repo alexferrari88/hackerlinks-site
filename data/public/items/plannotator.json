@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "plannotator",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:plannotator:49164896",
+  "mention_ids": [
+    "2026-08-05:plannotator:49164896"
+  ],
+  "name": "Plannotator",
+  "slug": "plannotator",
+  "summary": "A tool for collecting human review feedback and iterating coding standards for automated review.",
+  "thing_url": "https://github.com/backnotprop/plannotator",
+  "times_seen": 1,
+  "why_included": "A team using it described a concrete feedback-to-skill loop that improves automated review over time."
+}

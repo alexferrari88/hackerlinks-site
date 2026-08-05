@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "codebase-memory-mcp",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:codebase-memory-mcp:49164896",
+  "mention_ids": [
+    "2026-08-05:codebase-memory-mcp:49164896"
+  ],
+  "name": "Codebase Memory MCP",
+  "slug": "codebase-memory-mcp",
+  "summary": "An MCP codebase index for faster agent understanding and fewer full-file reads.",
+  "thing_url": "https://github.com/DeusData/codebase-memory-mcp",
+  "times_seen": 1,
+  "why_included": "A practitioner named it as one of their two highest-return agent cost-reduction improvements."
+}

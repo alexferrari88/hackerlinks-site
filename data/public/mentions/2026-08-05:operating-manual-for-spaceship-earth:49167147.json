@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommended the short, light read and praised its perspective on technology and resources.",
+  "evidence_sources": [
+    {
+      "author": "bradly",
+      "comment_id": "49167777",
+      "comment_url": "https://news.ycombinator.com/item?id=49167147#49167777",
+      "excerpt": "For those unfamiliar with Bucky, I highly recommend his book Operating Manual for Spaceship Earth. Its a short, light read.",
+      "kind": "recommendation",
+      "parent_comment_id": "49167147"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49167147",
+  "id": "2026-08-05:operating-manual-for-spaceship-earth:49167147",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "operating-manual-for-spaceship-earth",
+  "rank": 2,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49167147",
+  "source_story_title": "Everything I Know (1975)"
+}

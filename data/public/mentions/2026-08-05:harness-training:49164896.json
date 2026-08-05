@@ -1,0 +1,23 @@
+{
+  "evidence": "Its creator reported that a trained harness matched or beat a reference harness across four unseen models while using fewer input tokens.",
+  "evidence_sources": [
+    {
+      "author": "megadragon9",
+      "comment_id": "49177077",
+      "comment_url": "https://news.ycombinator.com/item?id=49164896#49177077",
+      "context": "author_or_maintainer",
+      "excerpt": "I packaged the training loop as a PyTorch-style framework.",
+      "kind": "author_context",
+      "parent_comment_id": "49164896"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49164896",
+  "id": "2026-08-05:harness-training:49164896",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "harness-training",
+  "rank": 6,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49164896",
+  "source_story_title": "Harness engineering for self-improvement"
+}

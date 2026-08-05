@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommended fd for speed and demonstrated a search for malicious install-file names.",
+  "evidence_sources": [
+    {
+      "author": "chime",
+      "comment_id": "49171746",
+      "comment_url": "https://news.ycombinator.com/item?id=49166874#49171746",
+      "excerpt": "Highly recommend `fd` for the sheer speed:",
+      "kind": "recommendation",
+      "parent_comment_id": "49169136"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49166874",
+  "id": "2026-08-05:fd:49166874",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "fd",
+  "rank": 12,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49166874",
+  "source_story_title": "Keyv and friends compromised in active Shai-Hulud supply chain attack"
+}

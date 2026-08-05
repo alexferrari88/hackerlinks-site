@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-05T05:17:17+02:00",
+  "id": "harness-training",
+  "last_seen_at": "2026-08-05T05:17:17+02:00",
+  "latest_mention_id": "2026-08-05:harness-training:49164896",
+  "mention_ids": [
+    "2026-08-05:harness-training:49164896"
+  ],
+  "name": "Harness Training",
+  "slug": "harness-training",
+  "summary": "A PyTorch-style framework for optimizing agent harnesses with deterministic task evaluation.",
+  "thing_url": "https://github.com/workofart/harness-training",
+  "times_seen": 1,
+  "why_included": "The author reported cross-model benchmark gains with fewer input tokens after training a harness."
+}

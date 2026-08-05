@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter suggested downloading Xemu and the original game instead of the Master Chief Collection.",
+  "evidence_sources": [
+    {
+      "author": "MegaDeKay",
+      "comment_id": "49169940",
+      "comment_url": "https://news.ycombinator.com/item?id=49167448#49169940",
+      "excerpt": "Rather than download the 30GB Master Chief collection, you might try downloading the Xemu OG XBOX emulator plus the original game on archive.org.",
+      "kind": "recommendation",
+      "parent_comment_id": "49169001"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49167448",
+  "id": "2026-08-05:xemu:49167448",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "xemu",
+  "rank": 4,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49167448",
+  "source_story_title": "Xbox goes down. You can't play games you own on disc"
+}

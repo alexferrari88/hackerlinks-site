@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said using a codebase index MCP was an outsized ROI win that improved output quality.",
+  "evidence_sources": [
+    {
+      "author": "jtr1",
+      "comment_id": "49171701",
+      "comment_url": "https://news.ycombinator.com/item?id=49164896#49171701",
+      "context": "first_hand_use",
+      "excerpt": "from a cost reduction standpoint, the two most outsized ROI wins came from making sure the agent runs all terminal commands in quiet and using a codebase index mcp to speed up understanding and reduce full file reads [0]. I've also found the latter also dramatically improved the quality of output.",
+      "kind": "recommendation",
+      "parent_comment_id": "49170298"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49164896",
+  "id": "2026-08-05:codebase-memory-mcp:49164896",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "codebase-memory-mcp",
+  "rank": 7,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49164896",
+  "source_story_title": "Harness engineering for self-improvement"
+}

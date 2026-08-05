@@ -1,0 +1,268 @@
+{
+  "version": 2,
+  "run_date": "2026-08-05",
+  "generated_at": "2026-08-05T05:17:17+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-05.json",
+    "sha256": "82d3eab59a71f7edbe43dea97944a7665962f83cf78866b372c57e13a7779464",
+    "bytes": 3277703,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5351,
+    "fetched_item_count": 5381,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "12 concrete, comment-endorsed recommendations from a verified full crawl of the HN front page.",
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "1491: New Revelations of the Americas Before Columbus",
+      "category": "Books & Ideas",
+      "thing_url": "https://openlibrary.org/works/OL3494320W",
+      "hn_url": "https://news.ycombinator.com/item?id=49099336",
+      "source_story_title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "summary": "Charles C. Mann's history of the Americas before Columbus and their human-shaped landscapes.",
+      "why_included": "A reader explicitly recommended it and called it a book they loved for this subject.",
+      "evidence": "A commenter recommended 1491 to readers interested in the Amazonian-civilization discussion and said they loved it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49172218",
+          "comment_url": "https://news.ycombinator.com/item?id=49099336#49172218",
+          "author": "cambaceres",
+          "excerpt": "I recommend the book 1491 by Charles C. Mann to those of you who find this interesting. I loved it!",
+          "kind": "recommendation",
+          "parent_comment_id": "49099336"
+        }
+      ]
+    },
+    {
+      "name": "Operating Manual for Spaceship Earth",
+      "category": "Books & Ideas",
+      "thing_url": "https://www.lars-mueller-publishers.com/operating-manual-spaceship-earth",
+      "hn_url": "https://news.ycombinator.com/item?id=49167147",
+      "source_story_title": "Everything I Know (1975)",
+      "summary": "Buckminster Fuller's short book on technology, resources, and planetary stewardship.",
+      "why_included": "It was directly recommended as an accessible, thought-provoking introduction to Fuller's ideas.",
+      "evidence": "A commenter highly recommended the short, light read and praised its perspective on technology and resources.",
+      "evidence_sources": [
+        {
+          "comment_id": "49167777",
+          "comment_url": "https://news.ycombinator.com/item?id=49167147#49167777",
+          "author": "bradly",
+          "excerpt": "For those unfamiliar with Bucky, I highly recommend his book Operating Manual for Spaceship Earth. Its a short, light read.",
+          "kind": "recommendation",
+          "parent_comment_id": "49167147"
+        }
+      ]
+    },
+    {
+      "name": "The World Without Us",
+      "category": "Books & Ideas",
+      "thing_url": "https://us.macmillan.com/books/9781250834003/theworldwithoutus/",
+      "hn_url": "https://news.ycombinator.com/item?id=49099336",
+      "source_story_title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "summary": "Alan Weisman's nonfiction thought experiment about Earth after humans disappear.",
+      "why_included": "A commenter suggested it as directly relevant context for how quickly human landscapes can change.",
+      "evidence": "A commenter pointed readers to the book while discussing how residential landscapes could return to forest.",
+      "evidence_sources": [
+        {
+          "comment_id": "49172606",
+          "comment_url": "https://news.ycombinator.com/item?id=49099336#49172606",
+          "author": "forlorn_mammoth",
+          "excerpt": "you might be interested in https://en.wikipedia.org/wiki/The_World_Without_Us",
+          "kind": "recommendation",
+          "parent_comment_id": "49164748"
+        }
+      ]
+    },
+    {
+      "name": "Xemu",
+      "category": "Digital Ownership & Games",
+      "thing_url": "https://xemu.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49167448",
+      "source_story_title": "Xbox goes down. You can't play games you own on disc",
+      "summary": "An open-source emulator for original Xbox games on modern computers.",
+      "why_included": "It was suggested as a practical alternative for playing the original Halo without modern account friction.",
+      "evidence": "A commenter suggested downloading Xemu and the original game instead of the Master Chief Collection.",
+      "evidence_sources": [
+        {
+          "comment_id": "49169940",
+          "comment_url": "https://news.ycombinator.com/item?id=49167448#49169940",
+          "author": "MegaDeKay",
+          "excerpt": "Rather than download the 30GB Master Chief collection, you might try downloading the Xemu OG XBOX emulator plus the original game on archive.org.",
+          "kind": "recommendation",
+          "parent_comment_id": "49169001"
+        }
+      ]
+    },
+    {
+      "name": "Does It Play?",
+      "category": "Digital Ownership & Games",
+      "thing_url": "https://www.doesitplay.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49167448",
+      "source_story_title": "Xbox goes down. You can't play games you own on disc",
+      "summary": "A compatibility database for whether physical video games work fully offline.",
+      "why_included": "It was explicitly described as a useful site in a discussion of offline access to owned games.",
+      "evidence": "A commenter called Does It Play? a good site for checking physical-media internet dependencies.",
+      "evidence_sources": [
+        {
+          "comment_id": "49171893",
+          "comment_url": "https://news.ycombinator.com/item?id=49167448#49171893",
+          "author": "tripleee",
+          "excerpt": "There's a good site for this: https://www.doesitplay.org/",
+          "kind": "recommendation",
+          "parent_comment_id": "49167448"
+        }
+      ]
+    },
+    {
+      "name": "Harness Training",
+      "category": "Agent Engineering",
+      "thing_url": "https://github.com/workofart/harness-training",
+      "hn_url": "https://news.ycombinator.com/item?id=49164896",
+      "source_story_title": "Harness engineering for self-improvement",
+      "summary": "A PyTorch-style framework for optimizing agent harnesses with deterministic task evaluation.",
+      "why_included": "The author reported cross-model benchmark gains with fewer input tokens after training a harness.",
+      "evidence": "Its creator reported that a trained harness matched or beat a reference harness across four unseen models while using fewer input tokens.",
+      "evidence_sources": [
+        {
+          "comment_id": "49177077",
+          "comment_url": "https://news.ycombinator.com/item?id=49164896#49177077",
+          "author": "megadragon9",
+          "excerpt": "I packaged the training loop as a PyTorch-style framework.",
+          "kind": "author_context",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49164896"
+        }
+      ]
+    },
+    {
+      "name": "Codebase Memory MCP",
+      "category": "Agent Engineering",
+      "thing_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "hn_url": "https://news.ycombinator.com/item?id=49164896",
+      "source_story_title": "Harness engineering for self-improvement",
+      "summary": "An MCP codebase index for faster agent understanding and fewer full-file reads.",
+      "why_included": "A practitioner named it as one of their two highest-return agent cost-reduction improvements.",
+      "evidence": "A commenter said using a codebase index MCP was an outsized ROI win that improved output quality.",
+      "evidence_sources": [
+        {
+          "comment_id": "49171701",
+          "comment_url": "https://news.ycombinator.com/item?id=49164896#49171701",
+          "author": "jtr1",
+          "excerpt": "from a cost reduction standpoint, the two most outsized ROI wins came from making sure the agent runs all terminal commands in quiet and using a codebase index mcp to speed up understanding and reduce full file reads [0]. I've also found the latter also dramatically improved the quality of output.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49170298"
+        }
+      ]
+    },
+    {
+      "name": "Plannotator",
+      "category": "Agent Engineering",
+      "thing_url": "https://github.com/backnotprop/plannotator",
+      "hn_url": "https://news.ycombinator.com/item?id=49164896",
+      "source_story_title": "Harness engineering for self-improvement",
+      "summary": "A tool for collecting human review feedback and iterating coding standards for automated review.",
+      "why_included": "A team using it described a concrete feedback-to-skill loop that improves automated review over time.",
+      "evidence": "Its builder said their team uses Plannotator for specs and code review, then compiles feedback into evolving review skills.",
+      "evidence_sources": [
+        {
+          "comment_id": "49172577",
+          "comment_url": "https://news.ycombinator.com/item?id=49164896#49172577",
+          "author": "ramoz",
+          "excerpt": "I've built and my team uses plannotator [1] for specs and code review. It stores all human annotated feedback, which we compile from time-to-time and iterate on coding standard skills for automated review (that seems to get better with the more feedback we provide).",
+          "kind": "author_context",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49170298"
+        }
+      ]
+    },
+    {
+      "name": "VibeThinker",
+      "category": "Local AI & ML",
+      "thing_url": "https://github.com/WeiboAI/VibeThinker",
+      "hn_url": "https://news.ycombinator.com/item?id=49166984",
+      "source_story_title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "summary": "A small open reasoning-model family aimed at strong math and coding performance.",
+      "why_included": "It received an unusually direct recommendation for local-model users, including praise for speed and limited-VRAM use.",
+      "evidence": "A commenter highly recommended VibeThinker, describing it as a fast reasoning model with long-context support on limited VRAM.",
+      "evidence_sources": [
+        {
+          "comment_id": "49168317",
+          "comment_url": "https://news.ycombinator.com/item?id=49166984#49168317",
+          "author": "scotty79",
+          "excerpt": "If you are into small local models I highly recommend vibe thinker. It's a model trained specifically for reasoning. Basically a problem solver.",
+          "kind": "recommendation",
+          "parent_comment_id": "49168216"
+        }
+      ]
+    },
+    {
+      "name": "TabPFN",
+      "category": "Local AI & ML",
+      "thing_url": "https://github.com/PriorLabs/tabpfn",
+      "hn_url": "https://news.ycombinator.com/item?id=49166442",
+      "source_story_title": "Why Large Language Models Fail at Tabular Prediction",
+      "summary": "A tabular foundation model for predictive tasks without prompting a general-purpose LLM.",
+      "why_included": "It surfaced as a developing alternative for tabular work, with a clear inference-speed caveat.",
+      "evidence": "A commenter said TabPFN is improving in this area but remains slower at inference than traditional tabular models.",
+      "evidence_sources": [
+        {
+          "comment_id": "49171827",
+          "comment_url": "https://news.ycombinator.com/item?id=49166442#49171827",
+          "author": "woofwoofwoof",
+          "excerpt": "TabPFN [1] is also working in this area and getting better and better. The inference time is still much worse than any of the more traditional models (xg/catboost etc).",
+          "kind": "recommendation",
+          "parent_comment_id": "49171780"
+        }
+      ]
+    },
+    {
+      "name": "TabFM",
+      "category": "Local AI & ML",
+      "thing_url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=49166442",
+      "source_story_title": "Why Large Language Models Fail at Tabular Prediction",
+      "summary": "Google's zero-shot foundation model for tabular prediction, following TimesFM.",
+      "why_included": "A commenter judged it the strongest current approach for the tabular-prediction problem under discussion.",
+      "evidence": "A commenter said TabFM, following TimesFM, seemed the best approach so far for this area.",
+      "evidence_sources": [
+        {
+          "comment_id": "49171382",
+          "comment_url": "https://news.ycombinator.com/item?id=49166442#49171382",
+          "author": "tough",
+          "excerpt": "Google's TabFM [1] (and its previous TimesFM) seem the best approach so far on this area",
+          "kind": "recommendation",
+          "parent_comment_id": "49166442"
+        }
+      ]
+    },
+    {
+      "name": "fd",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/sharkdp/fd",
+      "hn_url": "https://news.ycombinator.com/item?id=49166874",
+      "source_story_title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "summary": "A fast, user-friendly command-line alternative to find for filesystem searches.",
+      "why_included": "It received a direct recommendation for quickly locating compromise indicators in a large codebase.",
+      "evidence": "A commenter highly recommended fd for speed and demonstrated a search for malicious install-file names.",
+      "evidence_sources": [
+        {
+          "comment_id": "49171746",
+          "comment_url": "https://news.ycombinator.com/item?id=49166874#49171746",
+          "author": "chime",
+          "excerpt": "Highly recommend `fd` for the sheer speed:",
+          "kind": "recommendation",
+          "parent_comment_id": "49169136"
+        }
+      ]
+    }
+  ]
+}

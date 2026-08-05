@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommended VibeThinker, describing it as a fast reasoning model with long-context support on limited VRAM.",
+  "evidence_sources": [
+    {
+      "author": "scotty79",
+      "comment_id": "49168317",
+      "comment_url": "https://news.ycombinator.com/item?id=49166984#49168317",
+      "excerpt": "If you are into small local models I highly recommend vibe thinker. It's a model trained specifically for reasoning. Basically a problem solver.",
+      "kind": "recommendation",
+      "parent_comment_id": "49168216"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49166984",
+  "id": "2026-08-05:vibethinker:49166984",
+  "is_repeat": false,
+  "issue_id": "2026-08-05",
+  "item_id": "vibethinker",
+  "rank": 9,
+  "seen_at": "2026-08-05T05:17:17+02:00",
+  "source_story_id": "49166984",
+  "source_story_title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU"
+}
