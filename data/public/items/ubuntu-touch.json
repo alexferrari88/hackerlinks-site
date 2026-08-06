@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "ubuntu-touch",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:ubuntu-touch:49188022",
+  "mention_ids": [
+    "2026-08-06:ubuntu-touch:49188022"
+  ],
+  "name": "Ubuntu Touch",
+  "slug": "ubuntu-touch",
+  "summary": "A Linux-based mobile operating system maintained by the UBports community.",
+  "thing_url": "https://www.ubuntu-touch.io/",
+  "times_seen": 1,
+  "why_included": "A four-year daily user says it covers their needs despite real app and reliability trade-offs."
+}

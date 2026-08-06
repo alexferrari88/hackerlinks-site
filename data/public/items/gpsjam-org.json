@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "gpsjam-org",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:gpsjam-org:49181099",
+  "mention_ids": [
+    "2026-08-06:gpsjam-org:49181099"
+  ],
+  "name": "GPSJAM.org",
+  "slug": "gpsjam-org",
+  "summary": "A GPS-interference map built from aircraft ADS-B observations.",
+  "thing_url": "https://gpsjam.org/",
+  "times_seen": 1,
+  "why_included": "An aviator explicitly recommends it for preflight and inflight awareness of GPS interference."
+}

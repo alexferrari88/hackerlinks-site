@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "ducktape",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:ducktape:49175924",
+  "mention_ids": [
+    "2026-08-06:ducktape:49175924"
+  ],
+  "name": "ducktape",
+  "slug": "ducktape",
+  "summary": "A Clojure integration for DuckDB with support for complex data types.",
+  "thing_url": "https://github.com/dynamic-alpha/ducktape",
+  "times_seen": 1,
+  "why_included": "A production user reports impressive performance and useful complex-type support in new projects."
+}

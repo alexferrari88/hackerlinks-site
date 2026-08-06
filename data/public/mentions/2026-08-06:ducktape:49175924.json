@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says their team is impressed by ducktape's performance and complex-type support.",
+  "evidence_sources": [
+    {
+      "author": "kianN",
+      "comment_id": "49176989",
+      "comment_url": "https://news.ycombinator.com/item?id=49175924#49176989",
+      "context": "production_use",
+      "excerpt": "we\u2019ve recently started exploring ducktape [1] in our new projects and have been really impressed with the performance. It also support more complex types on insertions and queries which has been helpful for us.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49175924",
+  "id": "2026-08-06:ducktape:49175924",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "ducktape",
+  "rank": 5,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49175924",
+  "source_story_title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)"
+}

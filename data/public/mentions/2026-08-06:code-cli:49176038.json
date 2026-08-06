@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says Code CLI is better for their needs and supports Pi-like extensions.",
+  "evidence_sources": [
+    {
+      "author": "ironfootnz",
+      "comment_id": "49178765",
+      "comment_url": "https://news.ycombinator.com/item?id=49176038#49178765",
+      "excerpt": "I found this one a little bit better and they do support Extensions like Pi. But comes with all features like codex, claude code and it's open-source.",
+      "kind": "comparison",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49176038",
+  "id": "2026-08-06:code-cli:49176038",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "code-cli",
+  "rank": 3,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49176038",
+  "source_story_title": "Pi's Minimalism Is Its Advantage"
+}

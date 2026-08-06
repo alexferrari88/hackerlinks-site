@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Swival their favourite agent for local models.",
+  "evidence_sources": [
+    {
+      "author": "jedisct1",
+      "comment_id": "49179312",
+      "comment_url": "https://news.ycombinator.com/item?id=49176038#49179312",
+      "excerpt": "https://swival.dev remains my favorite agent for local models.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49176038",
+  "id": "2026-08-06:swival:49176038",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "swival",
+  "rank": 1,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49176038",
+  "source_story_title": "Pi's Minimalism Is Its Advantage"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses GPSJAM during preflight and recommends it to other aviators.",
+  "evidence_sources": [
+    {
+      "author": "toomuchtodo",
+      "comment_id": "49183889",
+      "comment_url": "https://news.ycombinator.com/item?id=49181099#49183889",
+      "context": "first_hand_use",
+      "excerpt": "I've taken to checking https://gpsjam.org/ as part of preflight and inflight when connectivity is available. Cannot always trust the NOTAMs in this regard if those jamming or degrading GPS don't communicate intent or actual, so one must rely on direct observation and reports. I recommend other aviators do the same, the cost is free.",
+      "kind": "recommendation",
+      "parent_comment_id": "49182171"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49181099",
+  "id": "2026-08-06:gpsjam-org:49181099",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "gpsjam-org",
+  "rank": 6,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49181099",
+  "source_story_title": "Civilian plane crash in New Mexico tied to military GPS blocking"
+}

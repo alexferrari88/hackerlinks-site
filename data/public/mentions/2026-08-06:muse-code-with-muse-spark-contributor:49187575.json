@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter finds the low-cost Muse Code and Spark Contributor combination actually pretty good, while noting rough edges.",
+  "evidence_sources": [
+    {
+      "author": "alexeiz",
+      "comment_id": "49192088",
+      "comment_url": "https://news.ycombinator.com/item?id=49187575#49192088",
+      "context": "first_hand_use",
+      "excerpt": "Muse code is rough around the edges. But combined with almost free model (muse spark contributor) it's actually pretty good.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49187575",
+  "id": "2026-08-06:muse-code-with-muse-spark-contributor:49187575",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "muse-code-with-muse-spark-contributor",
+  "rank": 10,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49187575",
+  "source_story_title": "Muse Code and Muse Spark 1.2"
+}

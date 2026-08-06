@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Cloudflare OS a good move and likes its access-control direction.",
+  "evidence_sources": [
+    {
+      "author": "wxw",
+      "comment_id": "49183328",
+      "comment_url": "https://news.ycombinator.com/item?id=49182996#49183328",
+      "excerpt": "Good move from Cloudflare since it helps them sell their core infra offerings. I like the direction they\u2019re going with access control.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49182996",
+  "id": "2026-08-06:cloudflare-os:49182996",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "cloudflare-os",
+  "rank": 7,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49182996",
+  "source_story_title": "Cloudflare OS: an open platform for agents, apps, and work"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "code-cli",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:code-cli:49176038",
+  "mention_ids": [
+    "2026-08-06:code-cli:49176038"
+  ],
+  "name": "Code CLI",
+  "slug": "code-cli",
+  "summary": "An open-source coding-agent CLI with extensions and bundled features.",
+  "thing_url": "https://github.com/autohandai/code-cli",
+  "times_seen": 1,
+  "why_included": "A commenter preferred it to Pi for its batteries-included approach while retaining extensions."
+}

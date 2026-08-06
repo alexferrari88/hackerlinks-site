@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-08-06",
+  "generated_at": "2026-08-06T06:07:25+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-06.json",
+    "sha256": "cf814c35db6ee48c48aaa90eaad970a2cd767041e4a2a1d2beed91e8fb884fcc",
+    "bytes": 2536593,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4095,
+    "fetched_item_count": 4125,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Ten concrete, comment-endorsed tools and projects surfaced from a complete 30-story HN front-page crawl.",
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Swival",
+      "category": "AI & Local Models",
+      "thing_url": "https://swival.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038",
+      "source_story_title": "Pi's Minimalism Is Its Advantage",
+      "summary": "A local-model agent harness highlighted as a user's favourite.",
+      "why_included": "A concise, direct endorsement named it the commenter's preferred agent for local models.",
+      "evidence": "A commenter calls Swival their favourite agent for local models.",
+      "evidence_sources": [{"comment_id":"49179312","comment_url":"https://news.ycombinator.com/item?id=49176038#49179312","author":"jedisct1","excerpt":"https://swival.dev remains my favorite agent for local models.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Nono",
+      "category": "Developer Security",
+      "thing_url": "https://nono.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038",
+      "source_story_title": "Pi's Minimalism Is Its Advantage",
+      "summary": "A sandboxing tool used alongside an agent harness for safer operation.",
+      "why_included": "A user reports pairing it with OMP and feeling substantially safer.",
+      "evidence": "One user says pairing Nono with OMP lets them sleep more easily.",
+      "evidence_sources": [{"comment_id":"49177527","comment_url":"https://news.ycombinator.com/item?id=49176038#49177527","author":"frogperson","excerpt":"OMP is great. I pair it with https://nono.sh/ and sleep alot easier at night.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49177381"}]
+    },
+    {
+      "name": "Code CLI",
+      "category": "Developer Tools & Workflows",
+      "thing_url": "https://github.com/autohandai/code-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038",
+      "source_story_title": "Pi's Minimalism Is Its Advantage",
+      "summary": "An open-source coding-agent CLI with extensions and bundled features.",
+      "why_included": "A commenter preferred it to Pi for its batteries-included approach while retaining extensions.",
+      "evidence": "A commenter says Code CLI is better for their needs and supports Pi-like extensions.",
+      "evidence_sources": [{"comment_id":"49178765","comment_url":"https://news.ycombinator.com/item?id=49176038#49178765","author":"ironfootnz","excerpt":"I found this one a little bit better and they do support Extensions like Pi. But comes with all features like codex, claude code and it's open-source.","kind":"comparison","parent_comment_id":null}]
+    },
+    {
+      "name": "MCP Inspector",
+      "category": "Developer Tools & Workflows",
+      "thing_url": "https://github.com/modelcontextprotocol/inspector",
+      "hn_url": "https://news.ycombinator.com/item?id=49131438",
+      "source_story_title": "Stateless MCP has recaptured my interest",
+      "summary": "An interactive and CLI-capable inspector for MCP servers.",
+      "why_included": "It received a direct recommendation for interactive MCP-server probing.",
+      "evidence": "A commenter describes MCP Inspector as a nice tool usable interactively or from the CLI.",
+      "evidence_sources": [{"comment_id":"49178388","comment_url":"https://news.ycombinator.com/item?id=49131438#49178388","author":"ameshkov","excerpt":"What about mcp-inspector? It’s a nice tool, can be used interactively, can be used as a CLI.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "ducktape",
+      "category": "Data & Databases",
+      "thing_url": "https://github.com/dynamic-alpha/ducktape",
+      "hn_url": "https://news.ycombinator.com/item?id=49175924",
+      "source_story_title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "summary": "A Clojure integration for DuckDB with support for complex data types.",
+      "why_included": "A production user reports impressive performance and useful complex-type support in new projects.",
+      "evidence": "A commenter says their team is impressed by ducktape's performance and complex-type support.",
+      "evidence_sources": [{"comment_id":"49176989","comment_url":"https://news.ycombinator.com/item?id=49175924#49176989","author":"kianN","excerpt":"we’ve recently started exploring ducktape [1] in our new projects and have been really impressed with the performance. It also support more complex types on insertions and queries which has been helpful for us.","kind":"recommendation","context":"production_use","parent_comment_id":null}]
+    },
+    {
+      "name": "GPSJAM.org",
+      "category": "Aviation & Safety",
+      "thing_url": "https://gpsjam.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49181099",
+      "source_story_title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "summary": "A GPS-interference map built from aircraft ADS-B observations.",
+      "why_included": "An aviator explicitly recommends it for preflight and inflight awareness of GPS interference.",
+      "evidence": "A commenter uses GPSJAM during preflight and recommends it to other aviators.",
+      "evidence_sources": [{"comment_id":"49183889","comment_url":"https://news.ycombinator.com/item?id=49181099#49183889","author":"toomuchtodo","excerpt":"I've taken to checking https://gpsjam.org/ as part of preflight and inflight when connectivity is available. Cannot always trust the NOTAMs in this regard if those jamming or degrading GPS don't communicate intent or actual, so one must rely on direct observation and reports. I recommend other aviators do the same, the cost is free.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49182171"}]
+    },
+    {
+      "name": "Cloudflare OS",
+      "category": "AI & Workflows",
+      "thing_url": "https://github.com/cloudflare/cloudflare-os",
+      "hn_url": "https://news.ycombinator.com/item?id=49182996",
+      "source_story_title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "summary": "An agent-workspace platform emphasizing access control for company workflows.",
+      "why_included": "An independent commenter endorsed its direction and access-control approach.",
+      "evidence": "A commenter calls Cloudflare OS a good move and likes its access-control direction.",
+      "evidence_sources": [{"comment_id":"49183328","comment_url":"https://news.ycombinator.com/item?id=49182996#49183328","author":"wxw","excerpt":"Good move from Cloudflare since it helps them sell their core infra offerings. I like the direction they’re going with access control.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Ubuntu Touch",
+      "category": "Privacy & Mobile Computing",
+      "thing_url": "https://www.ubuntu-touch.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49188022",
+      "source_story_title": "I'm switching my phone from Android to Linux",
+      "summary": "A Linux-based mobile operating system maintained by the UBports community.",
+      "why_included": "A four-year daily user says it covers their needs despite real app and reliability trade-offs.",
+      "evidence": "A commenter reports four years of daily use and explicitly invites technical users to try UBports.",
+      "evidence_sources": [{"comment_id":"49189712","comment_url":"https://news.ycombinator.com/item?id=49188022#49189712","author":"pelzatessa","excerpt":"Been daily driving ubports for about 4 years now (OP5T, Noble).","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "sandbox-runtime (srt)",
+      "category": "Developer Security",
+      "thing_url": "https://github.com/anthropic-experimental/sandbox-runtime",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038",
+      "source_story_title": "Pi's Minimalism Is Its Advantage",
+      "summary": "A filesystem- and network-isolation runtime for running coding agents.",
+      "why_included": "A user reports satisfaction with its security-versus-convenience balance when running Pi.",
+      "evidence": "A commenter says srt gives Pi filesystem and network isolation with a reasonable balance of security and convenience.",
+      "evidence_sources": [{"comment_id":"49180558","comment_url":"https://news.ycombinator.com/item?id=49176038#49180558","author":"thehours","excerpt":"I've been satisfied with using Pi inside of srt [0]. I launch with `srt pi` and get file system and network isolation.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49177259"}]
+    },
+    {
+      "name": "Muse Code with Muse Spark Contributor",
+      "category": "AI & Local Models",
+      "thing_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49187575",
+      "source_story_title": "Muse Code and Muse Spark 1.2",
+      "summary": "A coding harness paired with Meta's low-cost, data-sharing model tier.",
+      "why_included": "A user calls the combination good despite noting that Muse Code remains rough around the edges.",
+      "evidence": "A commenter finds the low-cost Muse Code and Spark Contributor combination actually pretty good, while noting rough edges.",
+      "evidence_sources": [{"comment_id":"49192088","comment_url":"https://news.ycombinator.com/item?id=49187575#49192088","author":"alexeiz","excerpt":"Muse code is rough around the edges. But combined with almost free model (muse spark contributor) it's actually pretty good.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    }
+  ]
+}

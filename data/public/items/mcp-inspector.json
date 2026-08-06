@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "mcp-inspector",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:mcp-inspector:49131438",
+  "mention_ids": [
+    "2026-08-06:mcp-inspector:49131438"
+  ],
+  "name": "MCP Inspector",
+  "slug": "mcp-inspector",
+  "summary": "An interactive and CLI-capable inspector for MCP servers.",
+  "thing_url": "https://github.com/modelcontextprotocol/inspector",
+  "times_seen": 1,
+  "why_included": "It received a direct recommendation for interactive MCP-server probing."
+}

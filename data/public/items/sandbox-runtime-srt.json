@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "sandbox-runtime-srt",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:sandbox-runtime-srt:49176038",
+  "mention_ids": [
+    "2026-08-06:sandbox-runtime-srt:49176038"
+  ],
+  "name": "sandbox-runtime (srt)",
+  "slug": "sandbox-runtime-srt",
+  "summary": "A filesystem- and network-isolation runtime for running coding agents.",
+  "thing_url": "https://github.com/anthropic-experimental/sandbox-runtime",
+  "times_seen": 1,
+  "why_included": "A user reports satisfaction with its security-versus-convenience balance when running Pi."
+}

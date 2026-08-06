@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "muse-code-with-muse-spark-contributor",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:muse-code-with-muse-spark-contributor:49187575",
+  "mention_ids": [
+    "2026-08-06:muse-code-with-muse-spark-contributor:49187575"
+  ],
+  "name": "Muse Code with Muse Spark Contributor",
+  "slug": "muse-code-with-muse-spark-contributor",
+  "summary": "A coding harness paired with Meta's low-cost, data-sharing model tier.",
+  "thing_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2/",
+  "times_seen": 1,
+  "why_included": "A user calls the combination good despite noting that Muse Code remains rough around the edges."
+}

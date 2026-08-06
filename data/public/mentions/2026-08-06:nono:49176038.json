@@ -1,0 +1,23 @@
+{
+  "evidence": "One user says pairing Nono with OMP lets them sleep more easily.",
+  "evidence_sources": [
+    {
+      "author": "frogperson",
+      "comment_id": "49177527",
+      "comment_url": "https://news.ycombinator.com/item?id=49176038#49177527",
+      "context": "first_hand_use",
+      "excerpt": "OMP is great. I pair it with https://nono.sh/ and sleep alot easier at night.",
+      "kind": "recommendation",
+      "parent_comment_id": "49177381"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49176038",
+  "id": "2026-08-06:nono:49176038",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "nono",
+  "rank": 2,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49176038",
+  "source_story_title": "Pi's Minimalism Is Its Advantage"
+}

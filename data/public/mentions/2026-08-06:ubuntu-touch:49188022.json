@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reports four years of daily use and explicitly invites technical users to try UBports.",
+  "evidence_sources": [
+    {
+      "author": "pelzatessa",
+      "comment_id": "49189712",
+      "comment_url": "https://news.ycombinator.com/item?id=49188022#49189712",
+      "context": "first_hand_use",
+      "excerpt": "Been daily driving ubports for about 4 years now (OP5T, Noble).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49188022",
+  "id": "2026-08-06:ubuntu-touch:49188022",
+  "is_repeat": false,
+  "issue_id": "2026-08-06",
+  "item_id": "ubuntu-touch",
+  "rank": 8,
+  "seen_at": "2026-08-06T06:07:25+02:00",
+  "source_story_id": "49188022",
+  "source_story_title": "I'm switching my phone from Android to Linux"
+}

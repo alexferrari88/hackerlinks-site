@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "swival",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:swival:49176038",
+  "mention_ids": [
+    "2026-08-06:swival:49176038"
+  ],
+  "name": "Swival",
+  "slug": "swival",
+  "summary": "A local-model agent harness highlighted as a user's favourite.",
+  "thing_url": "https://swival.dev",
+  "times_seen": 1,
+  "why_included": "A concise, direct endorsement named it the commenter's preferred agent for local models."
+}

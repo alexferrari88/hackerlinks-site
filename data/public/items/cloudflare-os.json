@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-06T06:07:25+02:00",
+  "id": "cloudflare-os",
+  "last_seen_at": "2026-08-06T06:07:25+02:00",
+  "latest_mention_id": "2026-08-06:cloudflare-os:49182996",
+  "mention_ids": [
+    "2026-08-06:cloudflare-os:49182996"
+  ],
+  "name": "Cloudflare OS",
+  "slug": "cloudflare-os",
+  "summary": "An agent-workspace platform emphasizing access control for company workflows.",
+  "thing_url": "https://github.com/cloudflare/cloudflare-os",
+  "times_seen": 1,
+  "why_included": "An independent commenter endorsed its direction and access-control approach."
+}
