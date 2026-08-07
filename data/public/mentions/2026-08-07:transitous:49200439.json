@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Transitous for configurable walking, transit, and micromobility options.",
+  "evidence_sources": [
+    {
+      "author": "urineaut",
+      "comment_id": "49203984",
+      "comment_url": "https://news.ycombinator.com/item?id=49200439#49203984",
+      "excerpt": "Depending on where you live there is Transitous: https://transitous.org/ It's a FOSS public transport routing engine. In the options you can select what type and how much time you want to spend on the first and last \"mile\" (even something like bike/scooter sharing). It uses open data or data connectors for the routing. And being FOSS, if there is no data connector yet for you region, it may be interesting to contribute one if there is a sane way to query the data from the local transport compan(y|ies).",
+      "kind": "recommendation",
+      "parent_comment_id": "49200863"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49200439",
+  "id": "2026-08-07:transitous:49200439",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "transitous",
+  "rank": 10,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49200439",
+  "source_story_title": "My phone detects going on a run as \u201csomeone snatching my phone and running off\u201d"
+}

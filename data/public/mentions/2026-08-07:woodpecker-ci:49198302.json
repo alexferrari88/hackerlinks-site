@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended self-hosting Woodpecker, describing it as easy to use and capable.",
+  "evidence_sources": [
+    {
+      "author": "timetraveller26",
+      "comment_id": "49200225",
+      "comment_url": "https://news.ycombinator.com/item?id=49198302#49200225",
+      "excerpt": "If anybody is looking for alternatives, self host Woodpecker is really easy and it's a very capable CI/CD https://woodpecker-ci.org/docs/intro",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49198302",
+  "id": "2026-08-07:woodpecker-ci:49198302",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "woodpecker-ci",
+  "rank": 9,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49198302",
+  "source_story_title": "GitHub Actions and Pages are experiencing degraded availability"
+}

@@ -1,0 +1,30 @@
+{
+  "evidence": "Two commenters described the demo as magical and unusually impressive relative to typical model updates.",
+  "evidence_sources": [
+    {
+      "author": "wxw",
+      "comment_id": "49202758",
+      "comment_url": "https://news.ycombinator.com/item?id=49201970#49202758",
+      "excerpt": "I freakin' love this demo. It feels magical.",
+      "kind": "recommendation",
+      "parent_comment_id": "49202316"
+    },
+    {
+      "author": "appplication",
+      "comment_id": "49204390",
+      "comment_url": "https://news.ycombinator.com/item?id=49201970#49204390",
+      "excerpt": "This is the coolest LLM thing I\u2019ve seen since the original ChatGPT announcement a few years ago. IMO much more impressive than marginal gains of frontier models.",
+      "kind": "recommendation",
+      "parent_comment_id": "49202316"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49201970",
+  "id": "2026-08-07:chatjimmy:49201970",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "chatjimmy",
+  "rank": 6,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49201970",
+  "source_story_title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
+}

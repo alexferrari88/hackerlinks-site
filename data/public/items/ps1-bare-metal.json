@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "ps1-bare-metal",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:ps1-bare-metal:49168622",
+  "mention_ids": [
+    "2026-08-07:ps1-bare-metal:49168622"
+  ],
+  "name": "PS1 Bare Metal",
+  "slug": "ps1-bare-metal",
+  "summary": "A minimalist tutorial series for PlayStation 1 homebrew development.",
+  "thing_url": "https://github.com/spicyjpeg/ps1-bare-metal",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as modern learning material over old SDK-era examples."
+}

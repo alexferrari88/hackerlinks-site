@@ -1,0 +1,30 @@
+{
+  "evidence": "One commenter strongly recommended it for quick plant identification; another used it on a mystery houseplant.",
+  "evidence_sources": [
+    {
+      "author": "iammjm",
+      "comment_id": "49193461",
+      "comment_url": "https://news.ycombinator.com/item?id=49192566#49193461",
+      "excerpt": "I can strongly recommend the mobile app Flora Incognita for quickly identifying plants. It\u2019s made by one of the German universities so it\u2019s free, don\u2019t have ads, and don\u2019t collect your personal data. I even showed it to my mum and she loves it",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "otherayden",
+      "comment_id": "49200708",
+      "comment_url": "https://news.ycombinator.com/item?id=49192566#49200708",
+      "excerpt": "Thank you for the rec, I used it to identify a mystery house plant I was gifted :)",
+      "kind": "recommendation",
+      "parent_comment_id": "49193461"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49192566",
+  "id": "2026-08-07:flora-incognita:49192566",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "flora-incognita",
+  "rank": 2,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49192566",
+  "source_story_title": "Crime Pays but Botany Doesn't"
+}

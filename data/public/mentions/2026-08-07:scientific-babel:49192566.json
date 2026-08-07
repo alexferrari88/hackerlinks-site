@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Michael D. Gordin\u2019s book for its account of languages used in science over time.",
+  "evidence_sources": [
+    {
+      "author": "rhodin",
+      "comment_id": "49198721",
+      "comment_url": "https://news.ycombinator.com/item?id=49192566#49198721",
+      "excerpt": "I'd also recommend \"Scientific Babel How Science Was Done Before and After Global English\" by Michael D. Gordin [0]. It goes into detail about which languages scientists have used over time. [0] https://press.uchicago.edu/ucp/books/book/chicago/S/bo145049...",
+      "kind": "recommendation",
+      "parent_comment_id": "49193509"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49192566",
+  "id": "2026-08-07:scientific-babel:49192566",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "scientific-babel",
+  "rank": 8,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49192566",
+  "source_story_title": "Crime Pays but Botany Doesn't"
+}

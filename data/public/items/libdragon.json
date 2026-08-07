@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "libdragon",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:libdragon:49168622",
+  "mention_ids": [
+    "2026-08-07:libdragon:49168622"
+  ],
+  "name": "Libdragon",
+  "slug": "libdragon",
+  "summary": "An open-source SDK for making games for the Nintendo 64.",
+  "thing_url": "https://github.com/DragonMinded/libdragon",
+  "times_seen": 1,
+  "why_included": "The concrete praise cites rapid recent progress and unusually capable demos."
+}

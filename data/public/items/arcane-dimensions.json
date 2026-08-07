@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "arcane-dimensions",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:arcane-dimensions:49201930",
+  "mention_ids": [
+    "2026-08-07:arcane-dimensions:49201930"
+  ],
+  "name": "Arcane Dimensions",
+  "slug": "arcane-dimensions",
+  "summary": "A large single-player Quake mod with new maps, mechanics, and enemies.",
+  "thing_url": "https://www.moddb.com/mods/arcane-dimensions",
+  "times_seen": 1,
+  "why_included": "It received an unusually emphatic direct recommendation from a Quake player."
+}

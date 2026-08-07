@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "indigene",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:indigene:49192566",
+  "mention_ids": [
+    "2026-08-07:indigene:49192566"
+  ],
+  "name": "Indigene",
+  "slug": "indigene",
+  "summary": "A browser-based native-plant finder tailored to your exact location.",
+  "thing_url": "https://indigene.app/",
+  "times_seen": 1,
+  "why_included": "A commenter found its local recommendations useful and praised its explanatory diagrams."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "scientific-babel",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:scientific-babel:49192566",
+  "mention_ids": [
+    "2026-08-07:scientific-babel:49192566"
+  ],
+  "name": "Scientific Babel",
+  "slug": "scientific-babel",
+  "summary": "A history of how English became the dominant language of science.",
+  "thing_url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14504917.html",
+  "times_seen": 1,
+  "why_included": "The recommendation is specific and fits readers interested in language and scientific history."
+}

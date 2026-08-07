@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Ironwail for the Quake remaster\u2019s PAK files and Steam achievements.",
+  "evidence_sources": [
+    {
+      "author": "Lammy",
+      "comment_id": "49203088",
+      "comment_url": "https://news.ycombinator.com/item?id=49201930#49203088",
+      "excerpt": "PROTIP: Install the Kex-engine remaster, but then actually play IronWail: https://github.com/andrei-drexler/ironwail It's a real IdTech source port that will load the Remaster's PAKs and pretend to be the Remaster to Steam for achievement unlocks. Dimension of the Machine was fantastic so I'm hyped to play Dawn of the Machine tonight :D",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49201930",
+  "id": "2026-08-07:ironwail:49201930",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "ironwail",
+  "rank": 11,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49201930",
+  "source_story_title": "Quake \u2013 30th Anniversary Update"
+}

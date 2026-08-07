@@ -1,0 +1,30 @@
+{
+  "evidence": "A user in New England said the tool gave \u201cgreat recs\u201d for their land and another praised its plant-size diagrams.",
+  "evidence_sources": [
+    {
+      "author": "nja",
+      "comment_id": "49200734",
+      "comment_url": "https://news.ycombinator.com/item?id=49192566#49200734",
+      "excerpt": "Wow, this is a lovely tool, and it's clearly built with a lot of your own knowledge! I'm in New England and this has some great recs for my land. One slight piece of feedback: it's pretty clear a lot of the text was output of AI. IME (and just _my_ E, of course), this detracts somewhat from the authority of the page, as it makes it seem more like it just came from a conversation with Claude, rather than from your knowledge filtered through building an app. Might be worth doing a couple of passes to tighten up and human-ize it a bit :). (since it's open source, I suppose I could always PR myself if you'd be open to it)",
+      "kind": "recommendation",
+      "parent_comment_id": "49200066"
+    },
+    {
+      "author": "lelandbatey",
+      "comment_id": "49204668",
+      "comment_url": "https://news.ycombinator.com/item?id=49192566#49204668",
+      "excerpt": "You've done a great job with the \"how big does it get\"/\"what will it look like\" SVG diagrams, those are incredibly helpful. https://indigene.app/plants/symphyotrichum-subspicatum https://indigene.app/plants/juncus-patens Very helpful for choosing plants.",
+      "kind": "recommendation",
+      "parent_comment_id": "49200066"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49192566",
+  "id": "2026-08-07:indigene:49192566",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "indigene",
+  "rank": 1,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49192566",
+  "source_story_title": "Crime Pays but Botany Doesn't"
+}

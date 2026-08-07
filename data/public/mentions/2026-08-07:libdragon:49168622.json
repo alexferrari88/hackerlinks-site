@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praised the core team and pointed to advanced demos as a reason to follow the project.",
+  "evidence_sources": [
+    {
+      "author": "Mizza",
+      "comment_id": "49195693",
+      "comment_url": "https://news.ycombinator.com/item?id=49168622#49195693",
+      "excerpt": "Libdragon has been improved massively in the past year or so, there are now simple demo games that show capabilities far beyond the original N64 games (bump mapping textures, HDR, seamless loading of massive overworld maps, etc.) Really talented core team, fun to give them a follow. Demos: https://www.youtube.com/watch?v=XP8g2ngHftY",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49168622",
+  "id": "2026-08-07:libdragon:49168622",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "libdragon",
+  "rank": 3,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49168622",
+  "source_story_title": "How to Make a Nintendo 64 Game in 2026"
+}

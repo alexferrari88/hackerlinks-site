@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "ironwail",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:ironwail:49201930",
+  "mention_ids": [
+    "2026-08-07:ironwail:49201930"
+  ],
+  "name": "Ironwail",
+  "slug": "ironwail",
+  "summary": "A modern source port for playing Quake and its community expansions.",
+  "thing_url": "https://github.com/andrei-drexler/ironwail",
+  "times_seen": 1,
+  "why_included": "The recommendation gives a specific, practical reason to choose it with the current remaster."
+}

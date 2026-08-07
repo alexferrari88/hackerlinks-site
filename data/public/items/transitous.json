@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "transitous",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:transitous:49200439",
+  "mention_ids": [
+    "2026-08-07:transitous:49200439"
+  ],
+  "name": "Transitous",
+  "slug": "transitous",
+  "summary": "An open-source public-transit routing engine with configurable first- and last-mile choices.",
+  "thing_url": "https://transitous.org/",
+  "times_seen": 1,
+  "why_included": "It offers controls that directly address the discussion\u2019s complaint about routing defaults."
+}

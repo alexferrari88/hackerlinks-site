@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "woodpecker-ci",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:woodpecker-ci:49198302",
+  "mention_ids": [
+    "2026-08-07:woodpecker-ci:49198302"
+  ],
+  "name": "Woodpecker CI",
+  "slug": "woodpecker-ci",
+  "summary": "A self-hosted, open-source CI/CD system.",
+  "thing_url": "https://woodpecker-ci.org/",
+  "times_seen": 1,
+  "why_included": "It was offered as a practical, explicitly capable alternative during a GitHub Actions outage."
+}

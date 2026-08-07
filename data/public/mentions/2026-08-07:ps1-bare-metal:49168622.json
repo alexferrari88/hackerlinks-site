@@ -1,0 +1,22 @@
+{
+  "evidence": "Its author encouraged prospective PS1 homebrew developers to use modern tooling and linked the tutorial series.",
+  "evidence_sources": [
+    {
+      "author": "spicyjpeg",
+      "comment_id": "49195671",
+      "comment_url": "https://news.ycombinator.com/item?id=49168622#49195671",
+      "excerpt": "I am still amazed my own minimalist PS1 tutorial series [1] became as popular as it did, given that prior to it basically all learning material on the internet was written around the decent-for-the-time-but-horrible-now Sony SDK and often based on 30-year-old example code full of 30-year-old C practices (in particular the complete disregard for aliasing and concurrency, which resulted in plenty of headaches once people started using those ancient libraries and example code with modern GCC). We even have bleeding-edge C++ SDK options [2] complete with an STL and coroutine support, so if anybody here wants to try their hand at PS1 homebrew development I would highly encourage checking out the ",
+      "kind": "recommendation",
+      "parent_comment_id": "49194126"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49168622",
+  "id": "2026-08-07:ps1-bare-metal:49168622",
+  "is_repeat": false,
+  "issue_id": "2026-08-07",
+  "item_id": "ps1-bare-metal",
+  "rank": 4,
+  "seen_at": "2026-08-07T03:18:01Z",
+  "source_story_id": "49168622",
+  "source_story_title": "How to Make a Nintendo 64 Game in 2026"
+}

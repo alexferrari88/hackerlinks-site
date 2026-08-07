@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-07T03:18:01Z",
+  "id": "chatjimmy",
+  "last_seen_at": "2026-08-07T03:18:01Z",
+  "latest_mention_id": "2026-08-07:chatjimmy:49201970",
+  "mention_ids": [
+    "2026-08-07:chatjimmy:49201970"
+  ],
+  "name": "ChatJimmy",
+  "slug": "chatjimmy",
+  "summary": "A public demo of extremely high-throughput language-model inference.",
+  "thing_url": "https://chatjimmy.ai/",
+  "times_seen": 1,
+  "why_included": "Multiple commenters singled out the experience as unusually compelling despite the small model."
+}
