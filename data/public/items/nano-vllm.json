@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-08T03:18:23Z",
+  "id": "nano-vllm",
+  "last_seen_at": "2026-08-08T03:18:23Z",
+  "latest_mention_id": "2026-08-08:nano-vllm:49202852",
+  "mention_ids": [
+    "2026-08-08:nano-vllm:49202852"
+  ],
+  "name": "nano-vLLM",
+  "slug": "nano-vllm",
+  "summary": "A compact vLLM implementation for learning the essentials of fast LLM inference.",
+  "thing_url": "https://github.com/GeeeekExplorer/nano-vllm",
+  "times_seen": 1,
+  "why_included": "It was singled out as a more approachable route to understanding a complex inference stack."
+}

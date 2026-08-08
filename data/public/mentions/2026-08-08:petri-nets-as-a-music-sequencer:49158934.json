@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter described the approach as a very nice balance of simplicity and expressiveness for swing, microtiming, and groove.",
+  "evidence_sources": [
+    {
+      "author": "jarth9",
+      "comment_id": "49212798",
+      "comment_url": "https://news.ycombinator.com/item?id=49158934#49212798",
+      "context": "first_hand_use",
+      "excerpt": "Compared to other ways of writing down musical rhythm, I've found this to be a very nice balance of simplicity and expressiveness.",
+      "kind": "recommendation",
+      "parent_comment_id": "49158934"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49158934",
+  "id": "2026-08-08:petri-nets-as-a-music-sequencer:49158934",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "petri-nets-as-a-music-sequencer",
+  "rank": 10,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49158934",
+  "source_story_title": "Petri Nets as a Music Sequencer"
+}

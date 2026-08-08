@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T03:18:23Z",
+  "headline": "10 interesting things surfaced from HN on 2026-08-08",
+  "id": "2026-08-08",
+  "mention_ids": [
+    "2026-08-08:treedix-usb-cable-tester:49152255",
+    "2026-08-08:nano-vllm:49202852",
+    "2026-08-08:wyzer:49209385",
+    "2026-08-08:textlog:49208458",
+    "2026-08-08:qxw:49211660",
+    "2026-08-08:prime-quine-asic:49156157",
+    "2026-08-08:the-storm-before-the-storm:49208314",
+    "2026-08-08:the-salt-of-the-earth:49138446",
+    "2026-08-08:the-man-who-planted-trees:49138446",
+    "2026-08-08:petri-nets-as-a-music-sequencer:49158934"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

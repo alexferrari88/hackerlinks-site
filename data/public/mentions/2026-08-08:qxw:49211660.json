@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called qxw a wonderful open-source app for making crosswords with interesting topologies.",
+  "evidence_sources": [
+    {
+      "author": "zem",
+      "comment_id": "49217251",
+      "comment_url": "https://news.ycombinator.com/item?id=49211660#49217251",
+      "excerpt": "is a wonderful open source app that lets you make crosswords with interesting topologies, complete with grid filler support, if anyone wants to experiment with them.",
+      "kind": "recommendation",
+      "parent_comment_id": "49211660"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49211660",
+  "id": "2026-08-08:qxw:49211660",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "qxw",
+  "rank": 5,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49211660",
+  "source_story_title": "M\u00f6bius-Strip Crosswords"
+}

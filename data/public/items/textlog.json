@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-08T03:18:23Z",
+  "id": "textlog",
+  "last_seen_at": "2026-08-08T03:18:23Z",
+  "latest_mention_id": "2026-08-08:textlog:49208458",
+  "mention_ids": [
+    "2026-08-08:textlog:49208458"
+  ],
+  "name": "textlog",
+  "slug": "textlog",
+  "summary": "A no-JavaScript, open-source microblog built around individual short notes rather than blogs.",
+  "thing_url": "https://textlog.cc/",
+  "times_seen": 1,
+  "why_included": "Its note-first model was praised as lowering the psychological friction of posting."
+}

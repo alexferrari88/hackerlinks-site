@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-08T03:18:23Z",
+  "id": "wyzer",
+  "last_seen_at": "2026-08-08T03:18:23Z",
+  "latest_mention_id": "2026-08-08:wyzer:49209385",
+  "mention_ids": [
+    "2026-08-08:wyzer:49209385"
+  ],
+  "name": "Wyzer",
+  "slug": "wyzer",
+  "summary": "An experimental language that treats distributed communication as a choreographed program.",
+  "thing_url": "https://github.com/Wyzer-Lang/wyzer",
+  "times_seen": 1,
+  "why_included": "Its attempt to generalize server-function style coordination into a language feature drew a concrete endorsement."
+}

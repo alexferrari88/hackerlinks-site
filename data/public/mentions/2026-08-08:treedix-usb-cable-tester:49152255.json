@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said the tester exposed a cable with only its ground connected, which they immediately discarded.",
+  "evidence_sources": [
+    {
+      "author": "lrasinen",
+      "comment_id": "49207202",
+      "comment_url": "https://news.ycombinator.com/item?id=49152255#49207202",
+      "context": "first_hand_use",
+      "excerpt": "The Treedix cable tester is awesome.",
+      "kind": "recommendation",
+      "parent_comment_id": "49152255"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49152255",
+  "id": "2026-08-08:treedix-usb-cable-tester:49152255",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "treedix-usb-cable-tester",
+  "rank": 1,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49152255",
+  "source_story_title": "I stopped trusting USB-C cable labels and started testing them"
+}

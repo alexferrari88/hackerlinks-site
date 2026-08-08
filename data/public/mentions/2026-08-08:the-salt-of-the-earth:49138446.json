@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter explicitly recommended Sebasti\u00e3o Salgado's documentary, The Salt of the Earth.",
+  "evidence_sources": [
+    {
+      "author": "rbreve",
+      "comment_id": "49208364",
+      "comment_url": "https://news.ycombinator.com/item?id=49138446#49208364",
+      "excerpt": "Related a recommend this documentary by Sebasti\u00e3o Salgado, The Salt of the Earth",
+      "kind": "recommendation",
+      "parent_comment_id": "49138446"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49138446",
+  "id": "2026-08-08:the-salt-of-the-earth:49138446",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "the-salt-of-the-earth",
+  "rank": 8,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49138446",
+  "source_story_title": "S\u00e3o Paulo resident transforms degraded area into urban forest"
+}

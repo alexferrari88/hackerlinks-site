@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-08T03:18:23Z",
+  "id": "petri-nets-as-a-music-sequencer",
+  "last_seen_at": "2026-08-08T03:18:23Z",
+  "latest_mention_id": "2026-08-08:petri-nets-as-a-music-sequencer:49158934",
+  "mention_ids": [
+    "2026-08-08:petri-nets-as-a-music-sequencer:49158934"
+  ],
+  "name": "Petri Nets as a Music Sequencer",
+  "slug": "petri-nets-as-a-music-sequencer",
+  "summary": "A visual rhythm sequencer exploring Petri-net and rhythm-necklace representations.",
+  "thing_url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+  "times_seen": 1,
+  "why_included": "A practicing commenter found the representation a strong balance of simplicity and expressive rhythmic detail."
+}

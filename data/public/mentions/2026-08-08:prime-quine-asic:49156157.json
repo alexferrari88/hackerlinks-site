@@ -1,0 +1,23 @@
+{
+  "evidence": "Its creator surfaced it specifically to readers interested in visual-output quines.",
+  "evidence_sources": [
+    {
+      "author": "jamesaross",
+      "comment_id": "49213628",
+      "comment_url": "https://news.ycombinator.com/item?id=49156157#49213628",
+      "context": "author_or_maintainer",
+      "excerpt": "If you like quines with a visual output like this, I recently taped out an self-reproducing ASIC",
+      "kind": "author_context",
+      "parent_comment_id": "49156157"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49156157",
+  "id": "2026-08-08:prime-quine-asic:49156157",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "prime-quine-asic",
+  "rank": 6,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49156157",
+  "source_story_title": "A quine in Piet \u2013 a GIF image that prints itself [video]"
+}

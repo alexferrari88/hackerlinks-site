@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-08T03:18:23Z",
+  "id": "qxw",
+  "last_seen_at": "2026-08-08T03:18:23Z",
+  "latest_mention_id": "2026-08-08:qxw:49211660",
+  "mention_ids": [
+    "2026-08-08:qxw:49211660"
+  ],
+  "name": "qxw",
+  "slug": "qxw",
+  "summary": "An open-source crossword constructor with grid filling and unusual grid topologies.",
+  "thing_url": "https://www.quinapalus.com/qxw.html",
+  "times_seen": 1,
+  "why_included": "It is a direct recommendation for anyone inspired to experiment with nonstandard crosswords."
+}

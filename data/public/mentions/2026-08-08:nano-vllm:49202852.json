@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended reading its roughly 5,000 lines because it retains the major pieces that make an inference engine fast.",
+  "evidence_sources": [
+    {
+      "author": "miki123211",
+      "comment_id": "49204082",
+      "comment_url": "https://news.ycombinator.com/item?id=49202852#49204082",
+      "excerpt": "Another great way to understand how vllm works is to read the code of nano-vllm",
+      "kind": "recommendation",
+      "parent_comment_id": "49202852"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49202852",
+  "id": "2026-08-08:nano-vllm:49202852",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "nano-vllm",
+  "rank": 2,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49202852",
+  "source_story_title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
+}

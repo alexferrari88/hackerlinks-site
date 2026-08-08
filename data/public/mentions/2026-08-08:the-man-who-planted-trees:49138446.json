@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter shared the film directly in response to the urban-forest story.",
+  "evidence_sources": [
+    {
+      "author": "celias",
+      "comment_id": "49140460",
+      "comment_url": "https://news.ycombinator.com/item?id=49138446#49140460",
+      "excerpt": "The Man Who Planted Trees",
+      "kind": "recommendation",
+      "parent_comment_id": "49138446"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49138446",
+  "id": "2026-08-08:the-man-who-planted-trees:49138446",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "the-man-who-planted-trees",
+  "rank": 9,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49138446",
+  "source_story_title": "S\u00e3o Paulo resident transforms degraded area into urban forest"
+}

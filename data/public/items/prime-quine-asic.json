@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-08T03:18:23Z",
+  "id": "prime-quine-asic",
+  "last_seen_at": "2026-08-08T03:18:23Z",
+  "latest_mention_id": "2026-08-08:prime-quine-asic:49156157",
+  "mention_ids": [
+    "2026-08-08:prime-quine-asic:49156157"
+  ],
+  "name": "Prime Quine ASIC",
+  "slug": "prime-quine-asic",
+  "summary": "A self-reproducing ASIC that displays its own Verilog source over VGA.",
+  "thing_url": "https://github.com/jar/ttsky26a_prime_quine",
+  "times_seen": 1,
+  "why_included": "It is a delightfully concrete hardware quine with both source and a browser-viewable simulation."
+}

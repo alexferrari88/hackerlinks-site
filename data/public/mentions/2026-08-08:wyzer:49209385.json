@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter described its choreography feature as a generalized form of server functions and called it a cool idea.",
+  "evidence_sources": [
+    {
+      "author": "nicoburns",
+      "comment_id": "49215163",
+      "comment_url": "https://news.ycombinator.com/item?id=49209385#49215163",
+      "excerpt": "Definitely a cool idea.",
+      "kind": "recommendation",
+      "parent_comment_id": "49209385"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49209385",
+  "id": "2026-08-08:wyzer:49209385",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "wyzer",
+  "rank": 3,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49209385",
+  "source_story_title": "Show HN: Wyzer Programming Language"
+}

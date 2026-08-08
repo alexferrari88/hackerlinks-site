@@ -6805,6 +6805,66 @@
       "first_reported_at": "2026-08-07T03:18:01Z",
       "last_reported_at": "2026-08-07T03:18:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "Treedix USB Cable Tester",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "nano-vLLM",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Wyzer",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "textlog",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "qxw",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Prime Quine ASIC",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Storm Before the Storm",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Salt of the Earth",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Man Who Planted Trees",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Petri Nets as a Music Sequencer",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
     }
   ]
 }

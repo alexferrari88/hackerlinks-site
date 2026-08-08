@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called it neat and said individual notes make quick posting easier than managing a blog identity.",
+  "evidence_sources": [
+    {
+      "author": "anupamk",
+      "comment_id": "49217579",
+      "comment_url": "https://news.ycombinator.com/item?id=49208458#49217579",
+      "excerpt": "This is really neat!",
+      "kind": "recommendation",
+      "parent_comment_id": "49208458"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49208458",
+  "id": "2026-08-08:textlog:49208458",
+  "is_repeat": false,
+  "issue_id": "2026-08-08",
+  "item_id": "textlog",
+  "rank": 4,
+  "seen_at": "2026-08-08T03:18:23Z",
+  "source_story_id": "49208458",
+  "source_story_title": "Show HN: textlog \u2013 A quiet, text-only microblogging platform, open-source, no JS"
+}

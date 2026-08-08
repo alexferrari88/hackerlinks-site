@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "run_date": "2026-08-08",
+  "generated_at": "2026-08-08T03:18:23Z",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-08.json",
+    "sha256": "5b92f89b11ff0dfa2ff3309cdd75f5fe96c877b84c0f37f077b90b51da71402a",
+    "bytes": 3521026,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5696,
+    "fetched_item_count": 5726,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Ten concrete, comment-endorsed tools and media picks from a verified 30-story HN front-page crawl.",
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Treedix USB Cable Tester",
+      "category": "Hardware & Practical Tools",
+      "thing_url": "https://treedix.com/products/treedix-usb-cable-tester-usb-c-cable-tester-usb-tester-for-data-transmission-and-power-transmission-cable-testing-resistor-testing-type-c-emarker-for-usb-a-micro-b-micro-b-3-0-type-c-lighting-mini-b",
+      "hn_url": "https://news.ycombinator.com/item?id=49152255",
+      "source_story_title": "I stopped trusting USB-C cable labels and started testing them",
+      "summary": "A cable tester for sorting USB cables by wiring and finding broken ones.",
+      "why_included": "A first-hand user called it awesome after checking every cable they owned.",
+      "evidence": "A commenter said the tester exposed a cable with only its ground connected, which they immediately discarded.",
+      "evidence_sources": [
+        {"comment_id": "49207202", "comment_url": "https://news.ycombinator.com/item?id=49152255#49207202", "author": "lrasinen", "excerpt": "The Treedix cable tester is awesome.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49152255"}
+      ]
+    },
+    {
+      "name": "nano-vLLM",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/GeeeekExplorer/nano-vllm",
+      "hn_url": "https://news.ycombinator.com/item?id=49202852",
+      "source_story_title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "summary": "A compact vLLM implementation for learning the essentials of fast LLM inference.",
+      "why_included": "It was singled out as a more approachable route to understanding a complex inference stack.",
+      "evidence": "A commenter recommended reading its roughly 5,000 lines because it retains the major pieces that make an inference engine fast.",
+      "evidence_sources": [
+        {"comment_id": "49204082", "comment_url": "https://news.ycombinator.com/item?id=49202852#49204082", "author": "miki123211", "excerpt": "Another great way to understand how vllm works is to read the code of nano-vllm", "kind": "recommendation", "parent_comment_id": "49202852"}
+      ]
+    },
+    {
+      "name": "Wyzer",
+      "category": "Programming Languages",
+      "thing_url": "https://github.com/Wyzer-Lang/wyzer",
+      "hn_url": "https://news.ycombinator.com/item?id=49209385",
+      "source_story_title": "Show HN: Wyzer Programming Language",
+      "summary": "An experimental language that treats distributed communication as a choreographed program.",
+      "why_included": "Its attempt to generalize server-function style coordination into a language feature drew a concrete endorsement.",
+      "evidence": "A commenter described its choreography feature as a generalized form of server functions and called it a cool idea.",
+      "evidence_sources": [
+        {"comment_id": "49215163", "comment_url": "https://news.ycombinator.com/item?id=49209385#49215163", "author": "nicoburns", "excerpt": "Definitely a cool idea.", "kind": "recommendation", "parent_comment_id": "49209385"}
+      ]
+    },
+    {
+      "name": "textlog",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://textlog.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49208458",
+      "source_story_title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "summary": "A no-JavaScript, open-source microblog built around individual short notes rather than blogs.",
+      "why_included": "Its note-first model was praised as lowering the psychological friction of posting.",
+      "evidence": "A commenter called it neat and said individual notes make quick posting easier than managing a blog identity.",
+      "evidence_sources": [
+        {"comment_id": "49217579", "comment_url": "https://news.ycombinator.com/item?id=49208458#49217579", "author": "anupamk", "excerpt": "This is really neat!", "kind": "recommendation", "parent_comment_id": "49208458"}
+      ]
+    },
+    {
+      "name": "qxw",
+      "category": "Games & Creative Tools",
+      "thing_url": "https://www.quinapalus.com/qxw.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49211660",
+      "source_story_title": "Möbius-Strip Crosswords",
+      "summary": "An open-source crossword constructor with grid filling and unusual grid topologies.",
+      "why_included": "It is a direct recommendation for anyone inspired to experiment with nonstandard crosswords.",
+      "evidence": "A commenter called qxw a wonderful open-source app for making crosswords with interesting topologies.",
+      "evidence_sources": [
+        {"comment_id": "49217251", "comment_url": "https://news.ycombinator.com/item?id=49211660#49217251", "author": "zem", "excerpt": "is a wonderful open source app that lets you make crosswords with interesting topologies, complete with grid filler support, if anyone wants to experiment with them.", "kind": "recommendation", "parent_comment_id": "49211660"}
+      ]
+    },
+    {
+      "name": "Prime Quine ASIC",
+      "category": "Hardware & Rabbit Holes",
+      "thing_url": "https://github.com/jar/ttsky26a_prime_quine",
+      "hn_url": "https://news.ycombinator.com/item?id=49156157",
+      "source_story_title": "A quine in Piet – a GIF image that prints itself [video]",
+      "summary": "A self-reproducing ASIC that displays its own Verilog source over VGA.",
+      "why_included": "It is a delightfully concrete hardware quine with both source and a browser-viewable simulation.",
+      "evidence": "Its creator surfaced it specifically to readers interested in visual-output quines.",
+      "evidence_sources": [
+        {"comment_id": "49213628", "comment_url": "https://news.ycombinator.com/item?id=49156157#49213628", "author": "jamesaross", "excerpt": "If you like quines with a visual output like this, I recently taped out an self-reproducing ASIC", "kind": "author_context", "context": "author_or_maintainer", "parent_comment_id": "49156157"}
+      ]
+    },
+    {
+      "name": "The Storm Before the Storm",
+      "category": "Books & Podcasts",
+      "thing_url": "https://www.semcoop.com/event/mike-duncan-storm-storm-beginning-end-roman-republic",
+      "hn_url": "https://news.ycombinator.com/item?id=49208314",
+      "source_story_title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "summary": "Mike Duncan's history of the Roman Republic's destabilization before its final collapse.",
+      "why_included": "A commenter recommended it as a useful account of the forces that set Rome's republican decline in motion.",
+      "evidence": "A commenter said it covers what set the fall of the Republic in motion and praised Duncan's related History of Rome narration.",
+      "evidence_sources": [
+        {"comment_id": "49212197", "comment_url": "https://news.ycombinator.com/item?id=49208314#49212197", "author": "hnra", "excerpt": "covers what sets in motion the fall of the republic.", "kind": "recommendation", "parent_comment_id": "49210403"}
+      ]
+    },
+    {
+      "name": "The Salt of the Earth",
+      "category": "Watch & Learn",
+      "thing_url": "https://le-pacte.com/international/film/the-salt-of-the-earth",
+      "hn_url": "https://news.ycombinator.com/item?id=49138446",
+      "source_story_title": "São Paulo resident transforms degraded area into urban forest",
+      "summary": "A documentary about photographer Sebastião Salgado's work and changing landscapes around the world.",
+      "why_included": "It was directly recommended in a thread about one person's long-running urban reforestation effort.",
+      "evidence": "A commenter explicitly recommended Sebastião Salgado's documentary, The Salt of the Earth.",
+      "evidence_sources": [
+        {"comment_id": "49208364", "comment_url": "https://news.ycombinator.com/item?id=49138446#49208364", "author": "rbreve", "excerpt": "Related a recommend this documentary by Sebastião Salgado, The Salt of the Earth", "kind": "recommendation", "parent_comment_id": "49138446"}
+      ]
+    },
+    {
+      "name": "The Man Who Planted Trees",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=aY_zuNtf3_g",
+      "hn_url": "https://news.ycombinator.com/item?id=49138446",
+      "source_story_title": "São Paulo resident transforms degraded area into urban forest",
+      "summary": "Frédéric Back's animated short about a shepherd patiently restoring a barren valley.",
+      "why_included": "It is an apt, concrete viewing recommendation for a discussion of persistent individual ecological repair.",
+      "evidence": "A commenter shared the film directly in response to the urban-forest story.",
+      "evidence_sources": [
+        {"comment_id": "49140460", "comment_url": "https://news.ycombinator.com/item?id=49138446#49140460", "author": "celias", "excerpt": "The Man Who Planted Trees", "kind": "recommendation", "parent_comment_id": "49138446"}
+      ]
+    },
+    {
+      "name": "Petri Nets as a Music Sequencer",
+      "category": "Games & Creative Tools",
+      "thing_url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+      "hn_url": "https://news.ycombinator.com/item?id=49158934",
+      "source_story_title": "Petri Nets as a Music Sequencer",
+      "summary": "A visual rhythm sequencer exploring Petri-net and rhythm-necklace representations.",
+      "why_included": "A practicing commenter found the representation a strong balance of simplicity and expressive rhythmic detail.",
+      "evidence": "A commenter described the approach as a very nice balance of simplicity and expressiveness for swing, microtiming, and groove.",
+      "evidence_sources": [
+        {"comment_id": "49212798", "comment_url": "https://news.ycombinator.com/item?id=49158934#49212798", "author": "jarth9", "excerpt": "Compared to other ways of writing down musical rhythm, I've found this to be a very nice balance of simplicity and expressiveness.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49158934"}
+      ]
+    }
+  ]
+}
