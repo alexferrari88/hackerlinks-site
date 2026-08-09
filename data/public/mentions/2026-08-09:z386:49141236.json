@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter describes z386 as where current development momentum is.",
+  "evidence_sources": [
+    {
+      "author": "nizmow",
+      "comment_id": "49220044",
+      "comment_url": "https://news.ycombinator.com/item?id=49141236#49220044",
+      "excerpt": "z386 is where the action is right now",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49141236",
+  "id": "2026-08-09:z386:49141236",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "z386",
+  "rank": 8,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49141236",
+  "source_story_title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)"
+}

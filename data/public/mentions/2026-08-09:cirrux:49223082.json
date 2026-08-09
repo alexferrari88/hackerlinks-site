@@ -1,0 +1,23 @@
+{
+  "evidence": "The recommendation is a direct first-hand endorsement in an email-sovereignty discussion.",
+  "evidence_sources": [
+    {
+      "author": "Marciplan",
+      "comment_id": "49224336",
+      "comment_url": "https://news.ycombinator.com/item?id=49223082#49224336",
+      "context": "first_hand_use",
+      "excerpt": "using cirrux.me and very happy with an actual EU hosted option (Team is Dutch)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49223082",
+  "id": "2026-08-09:cirrux:49223082",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "cirrux",
+  "rank": 10,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49223082",
+  "source_story_title": "Fastmail offers EU data region"
+}

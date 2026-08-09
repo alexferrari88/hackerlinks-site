@@ -1,0 +1,23 @@
+{
+  "evidence": "The author points to stravacli as a possible cheaper alternative for automated Strava uploads.",
+  "evidence_sources": [
+    {
+      "author": "dlenski",
+      "comment_id": "49218984",
+      "comment_url": "https://news.ycombinator.com/item?id=49189457#49218984",
+      "context": "author_or_maintainer",
+      "excerpt": "He might be able to use https://github.com/dlenski/stravacli",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49189457",
+  "id": "2026-08-09:stravacli:49189457",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "stravacli",
+  "rank": 1,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49189457",
+  "source_story_title": "A physicist rigged his pet hamster\u2019s wheel to upload to Strava"
+}

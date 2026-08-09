@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-09T05:19:45+02:00",
+  "id": "stagex",
+  "last_seen_at": "2026-08-09T05:19:45+02:00",
+  "latest_mention_id": "2026-08-09:stagex:49217993",
+  "mention_ids": [
+    "2026-08-09:stagex:49217993"
+  ],
+  "name": "StageX",
+  "slug": "stagex",
+  "summary": "A deterministic, container-native system for source-bootstrapped software builds.",
+  "thing_url": "https://stagex.tools",
+  "times_seen": 1,
+  "why_included": "It was directly proposed as a deterministic alternative to Nix."
+}

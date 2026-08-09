@@ -6865,6 +6865,16 @@
       "first_reported_at": "2026-08-08T03:18:23Z",
       "last_reported_at": "2026-08-08T03:18:23Z",
       "times_reported": 1
-    }
+    },
+    {"name": "stravacli", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "It's Quieter in the Twilight", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "Zoom Earth", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "Tropical Tidbits", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "WindNinja", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "StageX", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "SuperDuper!", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "z386", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "News Feed Eradicator", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1},
+    {"name": "Cirrux", "first_reported_at": "2026-08-09T05:19:45+02:00", "last_reported_at": "2026-08-09T05:19:45+02:00", "times_reported": 1}
   ]
 }

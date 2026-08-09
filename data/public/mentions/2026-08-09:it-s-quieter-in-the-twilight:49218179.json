@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation is explicit and enthusiastic.",
+  "evidence_sources": [
+    {
+      "author": "bcraven",
+      "comment_id": "49218512",
+      "comment_url": "https://news.ycombinator.com/item?id=49218179#49218512",
+      "excerpt": "Ah, good, an opportunity to recommend It's Quieter in the Twilight (2022). Beautiful documentary.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49218179",
+  "id": "2026-08-09:it-s-quieter-in-the-twilight:49218179",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "it-s-quieter-in-the-twilight",
+  "rank": 2,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49218179",
+  "source_story_title": "NASA figured out how to keep its Voyager 2 probe running for another year"
+}

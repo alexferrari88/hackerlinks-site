@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-09T05:19:45+02:00",
+  "id": "zoom-earth",
+  "last_seen_at": "2026-08-09T05:19:45+02:00",
+  "latest_mention_id": "2026-08-09:zoom-earth:49220126",
+  "mention_ids": [
+    "2026-08-09:zoom-earth:49220126"
+  ],
+  "name": "Zoom Earth",
+  "slug": "zoom-earth",
+  "summary": "A weather and storm-tracking app with detailed tropical-cyclone forecasts.",
+  "thing_url": "https://zoom.earth",
+  "times_seen": 1,
+  "why_included": "A newly discovered user calls its iPhone app terrific for cyclone tracking."
+}

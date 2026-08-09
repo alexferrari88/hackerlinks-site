@@ -1,0 +1,22 @@
+{
+  "evidence": "The maintainer-level recommendation specifies its supply-chain and portability properties.",
+  "evidence_sources": [
+    {
+      "author": "lrvick",
+      "comment_id": "49218497",
+      "comment_url": "https://news.ycombinator.com/item?id=49217993#49218497",
+      "excerpt": "Anyone looking for a full source bootstrapped, multi-party-signed, container native, and deterministic alternative to nix, check out https://stagex.tools",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49217993",
+  "id": "2026-08-09:stagex:49217993",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "stagex",
+  "rank": 6,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49217993",
+  "source_story_title": "The Nixpkgs core team has disbanded"
+}

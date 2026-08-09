@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-09T05:19:45+02:00",
+  "id": "cirrux",
+  "last_seen_at": "2026-08-09T05:19:45+02:00",
+  "latest_mention_id": "2026-08-09:cirrux:49223082",
+  "mention_ids": [
+    "2026-08-09:cirrux:49223082"
+  ],
+  "name": "Cirrux",
+  "slug": "cirrux",
+  "summary": "A Dutch-hosted email option for people seeking EU-based service.",
+  "thing_url": "https://cirrux.me",
+  "times_seen": 1,
+  "why_included": "A user reported being very happy with its Dutch, EU-hosted setup."
+}

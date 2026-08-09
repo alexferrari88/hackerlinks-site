@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommends it for comparing individual model runs against forecast guidance.",
+  "evidence_sources": [
+    {
+      "author": "trescenzi",
+      "comment_id": "49221532",
+      "comment_url": "https://news.ycombinator.com/item?id=49220126#49221532",
+      "context": "first_hand_use",
+      "excerpt": "tropical tidbits",
+      "kind": "recommendation",
+      "parent_comment_id": "49221025"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49220126",
+  "id": "2026-08-09:tropical-tidbits:49220126",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "tropical-tidbits",
+  "rank": 4,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49220126",
+  "source_story_title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones"
+}

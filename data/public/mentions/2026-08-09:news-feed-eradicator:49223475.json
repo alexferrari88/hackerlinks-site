@@ -1,0 +1,23 @@
+{
+  "evidence": "The user recommends it for Instagram, Facebook, Reddit, and Hacker News feeds.",
+  "evidence_sources": [
+    {
+      "author": "nippoo",
+      "comment_id": "49225474",
+      "comment_url": "https://news.ycombinator.com/item?id=49223475#49225474",
+      "context": "first_hand_use",
+      "excerpt": "I use News Feed Eradicator (works for Instagram, Facebook, Reddit, HN etc etc) it's wonderful and has changed my life!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49223475",
+  "id": "2026-08-09:news-feed-eradicator:49223475",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "news-feed-eradicator",
+  "rank": 9,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49223475",
+  "source_story_title": "LinkedIn Feed Blocker"
+}

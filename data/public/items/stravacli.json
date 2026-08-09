@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-09T05:19:45+02:00",
+  "id": "stravacli",
+  "last_seen_at": "2026-08-09T05:19:45+02:00",
+  "latest_mention_id": "2026-08-09:stravacli:49189457",
+  "mention_ids": [
+    "2026-08-09:stravacli:49189457"
+  ],
+  "name": "stravacli",
+  "slug": "stravacli",
+  "summary": "A command-line client for uploading activities to Strava without a premium account.",
+  "thing_url": "https://github.com/dlenski/stravacli",
+  "times_seen": 1,
+  "why_included": "Its author suggested it as a way to avoid the premium auto-upload requirement."
+}

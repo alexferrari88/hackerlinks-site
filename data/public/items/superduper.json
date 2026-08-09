@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-09T05:19:45+02:00",
+  "id": "superduper",
+  "last_seen_at": "2026-08-09T05:19:45+02:00",
+  "latest_mention_id": "2026-08-09:superduper:49135261",
+  "mention_ids": [
+    "2026-08-09:superduper:49135261"
+  ],
+  "name": "SuperDuper!",
+  "slug": "superduper",
+  "summary": "A long-lived macOS backup utility focused on straightforward disk cloning.",
+  "thing_url": "https://www.shirtpocket.com/blog/supererduperer",
+  "times_seen": 1,
+  "why_included": "A two-decade user praised its reliability, restraint, and upgrade value."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The first-hand account says the app works, stays lean, and has avoided ads and bloat.",
+  "evidence_sources": [
+    {
+      "author": "jwr",
+      "comment_id": "49219777",
+      "comment_url": "https://news.ycombinator.com/item?id=49135261#49219777",
+      "context": "first_hand_use",
+      "excerpt": "I have been using SuperDuper for the last 20 years. It works. It does its job. It doesn't pester me with popups.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49135261",
+  "id": "2026-08-09:superduper:49135261",
+  "is_repeat": false,
+  "issue_id": "2026-08-09",
+  "item_id": "superduper",
+  "rank": 7,
+  "seen_at": "2026-08-09T05:19:45+02:00",
+  "source_story_id": "49135261",
+  "source_story_title": "SupererDuperer"
+}

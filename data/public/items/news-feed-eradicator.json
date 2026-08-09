@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-09T05:19:45+02:00",
+  "id": "news-feed-eradicator",
+  "last_seen_at": "2026-08-09T05:19:45+02:00",
+  "latest_mention_id": "2026-08-09:news-feed-eradicator:49223475",
+  "mention_ids": [
+    "2026-08-09:news-feed-eradicator:49223475"
+  ],
+  "name": "News Feed Eradicator",
+  "slug": "news-feed-eradicator",
+  "summary": "A browser extension that removes distracting feeds across major social platforms.",
+  "thing_url": "https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en",
+  "times_seen": 1,
+  "why_included": "A first-hand user called it wonderful and life-changing across several sites."
+}
