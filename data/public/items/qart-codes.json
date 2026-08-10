@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "qart-codes",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:qart-codes:49226742",
+  "mention_ids": [
+    "2026-08-10:qart-codes:49226742"
+  ],
+  "name": "QArt Codes",
+  "slug": "qart-codes",
+  "summary": "Russ Cox's technical write-up on embedding images in valid QR codes through encoding.",
+  "thing_url": "https://research.swtch.com/qart",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly treats the post as the canonical resource for the technique."
+}

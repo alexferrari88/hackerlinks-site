@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says they have always been impressed by NBA* and links its repository and demo.",
+  "evidence_sources": [
+    {
+      "author": "leeoniya",
+      "comment_id": "49228740",
+      "comment_url": "https://news.ycombinator.com/item?id=49079995#49228740",
+      "excerpt": "i've always been impressed by NBA*:",
+      "kind": "recommendation",
+      "parent_comment_id": "49079995"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49079995",
+  "id": "2026-08-10:nba:49079995",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "nba",
+  "rank": 4,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49079995",
+  "source_story_title": "Improving Heuristics for A* Pathfinding"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says they always think of Russ Cox's QArt posts as canonical.",
+  "evidence_sources": [
+    {
+      "author": "zellyn",
+      "comment_id": "49232268",
+      "comment_url": "https://news.ycombinator.com/item?id=49226742#49232268",
+      "excerpt": "I always think of Russ Cox\u2019s blog posts as canonical here:",
+      "kind": "recommendation",
+      "parent_comment_id": "49226742"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49226742",
+  "id": "2026-08-10:qart-codes:49226742",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "qart-codes",
+  "rank": 7,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49226742",
+  "source_story_title": "Dithered QR Codes"
+}

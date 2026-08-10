@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reports using Wego for roughly a decade and needing only one configuration change.",
+  "evidence_sources": [
+    {
+      "author": "Hackbraten",
+      "comment_id": "49236040",
+      "comment_url": "https://news.ycombinator.com/item?id=49232138#49236040",
+      "context": "first_hand_use",
+      "excerpt": "I\u2019ve used Wego [0] for roughly a decade. It\u2019s been good enough for me.",
+      "kind": "recommendation",
+      "parent_comment_id": "49235117"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49232138",
+  "id": "2026-08-10:wego:49232138",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "wego",
+  "rank": 5,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49232138",
+  "source_story_title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM"
+}

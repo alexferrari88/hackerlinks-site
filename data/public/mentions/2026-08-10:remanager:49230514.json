@@ -1,0 +1,23 @@
+{
+  "evidence": "A reMarkable owner says reManager worked out of the box, installed KoReader, and transferred large files.",
+  "evidence_sources": [
+    {
+      "author": "haskman",
+      "comment_id": "49232844",
+      "comment_url": "https://news.ycombinator.com/item?id=49230514#49232844",
+      "context": "first_hand_use",
+      "excerpt": "It just worked out of the box, did not require a firmware update, and I was able to install KoReader and other goodies",
+      "kind": "recommendation",
+      "parent_comment_id": "49230514"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49230514",
+  "id": "2026-08-10:remanager:49230514",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "remanager",
+  "rank": 6,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49230514",
+  "source_story_title": "Reviving a four year old reMarkable 2"
+}

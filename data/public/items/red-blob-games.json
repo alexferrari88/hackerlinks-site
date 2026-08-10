@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "red-blob-games",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:red-blob-games:49079995",
+  "mention_ids": [
+    "2026-08-10:red-blob-games:49079995"
+  ],
+  "name": "Red Blob Games",
+  "slug": "red-blob-games",
+  "summary": "An interactive programming and game-development reference site, especially strong on pathfinding.",
+  "thing_url": "https://www.redblobgames.com/",
+  "times_seen": 1,
+  "why_included": "The site received a direct high-confidence recommendation from a reader of its pathfinding work."
+}

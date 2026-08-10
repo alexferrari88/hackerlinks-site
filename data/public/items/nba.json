@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "nba",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:nba:49079995",
+  "mention_ids": [
+    "2026-08-10:nba:49079995"
+  ],
+  "name": "NBA*",
+  "slug": "nba",
+  "summary": "A JavaScript graph-pathfinding library featuring the NBA* bidirectional A* algorithm.",
+  "thing_url": "https://github.com/anvaka/ngraph.path",
+  "times_seen": 1,
+  "why_included": "It was singled out as a pathfinding implementation that has consistently impressed its user."
+}

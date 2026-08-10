@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T05:16:58+02:00",
+  "headline": "8 interesting things surfaced from HN on 2026-08-10",
+  "id": "2026-08-10",
+  "mention_ids": [
+    "2026-08-10:camoufox:49226636",
+    "2026-08-10:orbstack:49226636",
+    "2026-08-10:red-blob-games:49079995",
+    "2026-08-10:nba:49079995",
+    "2026-08-10:wego:49232138",
+    "2026-08-10:remanager:49230514",
+    "2026-08-10:qart-codes:49226742",
+    "2026-08-10:termic:49233448"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

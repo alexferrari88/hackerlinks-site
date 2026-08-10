@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "run_date": "2026-08-10",
+  "generated_at": "2026-08-10T05:16:58+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-10.json",
+    "sha256": "029a7434f413121a3a85671dd951fa4d10147c72eb500af05c607b5dd9e3d0e5",
+    "bytes": 2729144,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4290,
+    "fetched_item_count": 4320,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Eight concrete, comment-endorsed tools and resources surfaced from the verified HN front-page comment crawl.",
+  "telegram_footer": "8 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Camoufox",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://camoufox.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49226636",
+      "source_story_title": "My server is a phone now",
+      "summary": "A browser automation tool a commenter runs at high density on a cheap VPS.",
+      "why_included": "It received an unambiguous practical recommendation backed by direct first-hand use.",
+      "evidence": "A commenter says they run ten Camoufox instances on an $8 VPS and highly recommends it.",
+      "evidence_sources": [
+        {"comment_id": "49227078", "comment_url": "https://news.ycombinator.com/item?id=49226636#49227078", "author": "hackernud3s", "excerpt": "I've never heard of Surf but I can run 10x camoufox instances on a $8 VPS no problem. I highly recommend it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49226636"}
+      ]
+    },
+    {
+      "name": "OrbStack",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://orbstack.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49226636",
+      "source_story_title": "My server is a phone now",
+      "summary": "A macOS container runtime that uses native containerization APIs instead of Docker Desktop.",
+      "why_included": "A first-hand Mac user named it their preferred Docker runtime and cited performance.",
+      "evidence": "A commenter calls OrbStack their go-to for Docker on Mac and says its native APIs improve performance.",
+      "evidence_sources": [
+        {"comment_id": "49231859", "comment_url": "https://news.ycombinator.com/item?id=49226636#49231859", "author": "chrisldgk", "excerpt": "OrbStack is my go-to when it comes to running docker on Mac. It also uses macOS native containerization APIs so containers will be a bit more performant than they would (at least use to) be on Docker Desktop.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49229501"}
+      ]
+    },
+    {
+      "name": "Red Blob Games",
+      "category": "📚 Learn & Explore",
+      "thing_url": "https://www.redblobgames.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49079995",
+      "source_story_title": "Improving Heuristics for A* Pathfinding",
+      "summary": "An interactive programming and game-development reference site, especially strong on pathfinding.",
+      "why_included": "The site received a direct high-confidence recommendation from a reader of its pathfinding work.",
+      "evidence": "A commenter says Red Blob Games has several S-tier posts and highly recommends exploring it.",
+      "evidence_sources": [
+        {"comment_id": "49227264", "comment_url": "https://news.ycombinator.com/item?id=49079995#49227264", "author": "Groxx", "excerpt": "Red Blob Games has quite a few S-tier posts, highly recommend exploring further if this is at all interesting to you", "kind": "recommendation", "parent_comment_id": "49079995"}
+      ]
+    },
+    {
+      "name": "NBA*",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/anvaka/ngraph.path",
+      "hn_url": "https://news.ycombinator.com/item?id=49079995",
+      "source_story_title": "Improving Heuristics for A* Pathfinding",
+      "summary": "A JavaScript graph-pathfinding library featuring the NBA* bidirectional A* algorithm.",
+      "why_included": "It was singled out as a pathfinding implementation that has consistently impressed its user.",
+      "evidence": "A commenter says they have always been impressed by NBA* and links its repository and demo.",
+      "evidence_sources": [
+        {"comment_id": "49228740", "comment_url": "https://news.ycombinator.com/item?id=49079995#49228740", "author": "leeoniya", "excerpt": "i've always been impressed by NBA*:", "kind": "recommendation", "parent_comment_id": "49079995"}
+      ]
+    },
+    {
+      "name": "Wego",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://github.com/schachmat/wego",
+      "hn_url": "https://news.ycombinator.com/item?id=49232138",
+      "source_story_title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "summary": "A terminal weather app that one long-term user found dependable with minimal maintenance.",
+      "why_included": "It has a rare decade-scale first-hand endorsement for a deliberately small weather tool.",
+      "evidence": "A commenter reports using Wego for roughly a decade and needing only one configuration change.",
+      "evidence_sources": [
+        {"comment_id": "49236040", "comment_url": "https://news.ycombinator.com/item?id=49232138#49236040", "author": "Hackbraten", "excerpt": "I’ve used Wego [0] for roughly a decade. It’s been good enough for me.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49235117"}
+      ]
+    },
+    {
+      "name": "reManager",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/rmitchellscott/reManager",
+      "hn_url": "https://news.ycombinator.com/item?id=49230514",
+      "source_story_title": "Reviving a four year old reMarkable 2",
+      "summary": "A reMarkable tablet management tool for installing apps and transferring large files.",
+      "why_included": "It solved a detailed real-world reMarkable setup problem without firmware changes.",
+      "evidence": "A reMarkable owner says reManager worked out of the box, installed KoReader, and transferred large files.",
+      "evidence_sources": [
+        {"comment_id": "49232844", "comment_url": "https://news.ycombinator.com/item?id=49230514#49232844", "author": "haskman", "excerpt": "It just worked out of the box, did not require a firmware update, and I was able to install KoReader and other goodies", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49230514"}
+      ]
+    },
+    {
+      "name": "QArt Codes",
+      "category": "📚 Learn & Explore",
+      "thing_url": "https://research.swtch.com/qart",
+      "hn_url": "https://news.ycombinator.com/item?id=49226742",
+      "source_story_title": "Dithered QR Codes",
+      "summary": "Russ Cox's technical write-up on embedding images in valid QR codes through encoding.",
+      "why_included": "A commenter explicitly treats the post as the canonical resource for the technique.",
+      "evidence": "A commenter says they always think of Russ Cox's QArt posts as canonical.",
+      "evidence_sources": [
+        {"comment_id": "49232268", "comment_url": "https://news.ycombinator.com/item?id=49226742#49232268", "author": "zellyn", "excerpt": "I always think of Russ Cox’s blog posts as canonical here:", "kind": "recommendation", "parent_comment_id": "49226742"}
+      ]
+    },
+    {
+      "name": "Termic",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/simion/termic",
+      "hn_url": "https://news.ycombinator.com/item?id=49233448",
+      "source_story_title": "OpenChamber: An Agentic Development Environment",
+      "summary": "A desktop manager for coding-agent worktrees, terminals, diffs, and inline feedback.",
+      "why_included": "It received a specific recommendation for its focused design and active maintenance.",
+      "evidence": "A commenter highly recommends Termic, saying it works well and its developer is responsive.",
+      "evidence_sources": [
+        {"comment_id": "49234605", "comment_url": "https://news.ycombinator.com/item?id=49233448#49234605", "author": "0xbadcafebee", "excerpt": "As a simpler desktop-only multi-platform option, I can highly recommend Termic", "kind": "recommendation", "parent_comment_id": "49233448"}
+      ]
+    }
+  ]
+}

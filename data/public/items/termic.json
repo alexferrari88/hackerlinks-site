@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "termic",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:termic:49233448",
+  "mention_ids": [
+    "2026-08-10:termic:49233448"
+  ],
+  "name": "Termic",
+  "slug": "termic",
+  "summary": "A desktop manager for coding-agent worktrees, terminals, diffs, and inline feedback.",
+  "thing_url": "https://github.com/simion/termic",
+  "times_seen": 1,
+  "why_included": "It received a specific recommendation for its focused design and active maintenance."
+}

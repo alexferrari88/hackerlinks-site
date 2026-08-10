@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls OrbStack their go-to for Docker on Mac and says its native APIs improve performance.",
+  "evidence_sources": [
+    {
+      "author": "chrisldgk",
+      "comment_id": "49231859",
+      "comment_url": "https://news.ycombinator.com/item?id=49226636#49231859",
+      "context": "first_hand_use",
+      "excerpt": "OrbStack is my go-to when it comes to running docker on Mac. It also uses macOS native containerization APIs so containers will be a bit more performant than they would (at least use to) be on Docker Desktop.",
+      "kind": "recommendation",
+      "parent_comment_id": "49229501"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49226636",
+  "id": "2026-08-10:orbstack:49226636",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "orbstack",
+  "rank": 2,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49226636",
+  "source_story_title": "My server is a phone now"
+}

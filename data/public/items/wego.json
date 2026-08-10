@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "wego",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:wego:49232138",
+  "mention_ids": [
+    "2026-08-10:wego:49232138"
+  ],
+  "name": "Wego",
+  "slug": "wego",
+  "summary": "A terminal weather app that one long-term user found dependable with minimal maintenance.",
+  "thing_url": "https://github.com/schachmat/wego",
+  "times_seen": 1,
+  "why_included": "It has a rare decade-scale first-hand endorsement for a deliberately small weather tool."
+}

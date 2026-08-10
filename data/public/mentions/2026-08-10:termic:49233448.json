@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends Termic, saying it works well and its developer is responsive.",
+  "evidence_sources": [
+    {
+      "author": "0xbadcafebee",
+      "comment_id": "49234605",
+      "comment_url": "https://news.ycombinator.com/item?id=49233448#49234605",
+      "excerpt": "As a simpler desktop-only multi-platform option, I can highly recommend Termic",
+      "kind": "recommendation",
+      "parent_comment_id": "49233448"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49233448",
+  "id": "2026-08-10:termic:49233448",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "termic",
+  "rank": 8,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49233448",
+  "source_story_title": "OpenChamber: An Agentic Development Environment"
+}

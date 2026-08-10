@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "remanager",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:remanager:49230514",
+  "mention_ids": [
+    "2026-08-10:remanager:49230514"
+  ],
+  "name": "reManager",
+  "slug": "remanager",
+  "summary": "A reMarkable tablet management tool for installing apps and transferring large files.",
+  "thing_url": "https://github.com/rmitchellscott/reManager",
+  "times_seen": 1,
+  "why_included": "It solved a detailed real-world reMarkable setup problem without firmware changes."
+}

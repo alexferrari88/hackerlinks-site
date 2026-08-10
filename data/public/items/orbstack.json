@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "orbstack",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:orbstack:49226636",
+  "mention_ids": [
+    "2026-08-10:orbstack:49226636"
+  ],
+  "name": "OrbStack",
+  "slug": "orbstack",
+  "summary": "A macOS container runtime that uses native containerization APIs instead of Docker Desktop.",
+  "thing_url": "https://orbstack.dev/",
+  "times_seen": 1,
+  "why_included": "A first-hand Mac user named it their preferred Docker runtime and cited performance."
+}

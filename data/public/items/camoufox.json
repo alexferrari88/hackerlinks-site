@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-10T05:16:58+02:00",
+  "id": "camoufox",
+  "last_seen_at": "2026-08-10T05:16:58+02:00",
+  "latest_mention_id": "2026-08-10:camoufox:49226636",
+  "mention_ids": [
+    "2026-08-10:camoufox:49226636"
+  ],
+  "name": "Camoufox",
+  "slug": "camoufox",
+  "summary": "A browser automation tool a commenter runs at high density on a cheap VPS.",
+  "thing_url": "https://camoufox.com/",
+  "times_seen": 1,
+  "why_included": "It received an unambiguous practical recommendation backed by direct first-hand use."
+}

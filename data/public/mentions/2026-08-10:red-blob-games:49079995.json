@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says Red Blob Games has several S-tier posts and highly recommends exploring it.",
+  "evidence_sources": [
+    {
+      "author": "Groxx",
+      "comment_id": "49227264",
+      "comment_url": "https://news.ycombinator.com/item?id=49079995#49227264",
+      "excerpt": "Red Blob Games has quite a few S-tier posts, highly recommend exploring further if this is at all interesting to you",
+      "kind": "recommendation",
+      "parent_comment_id": "49079995"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49079995",
+  "id": "2026-08-10:red-blob-games:49079995",
+  "is_repeat": false,
+  "issue_id": "2026-08-10",
+  "item_id": "red-blob-games",
+  "rank": 3,
+  "seen_at": "2026-08-10T05:16:58+02:00",
+  "source_story_id": "49079995",
+  "source_story_title": "Improving Heuristics for A* Pathfinding"
+}
