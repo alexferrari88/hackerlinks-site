@@ -1,0 +1,23 @@
+{
+  "evidence": "A user said Sonic Pi is a favorite project that lets them make cool work despite limited musical experience.",
+  "evidence_sources": [
+    {
+      "author": "fmo91",
+      "comment_id": "49247788",
+      "comment_url": "https://news.ycombinator.com/item?id=49208296#49247788",
+      "context": "first_hand_use",
+      "excerpt": "This is one of my favorite software projects.",
+      "kind": "recommendation",
+      "parent_comment_id": "49208296"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49208296",
+  "id": "2026-08-11:sonic-pi:49208296",
+  "is_repeat": false,
+  "issue_id": "2026-08-11",
+  "item_id": "sonic-pi",
+  "rank": 7,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49208296",
+  "source_story_title": "Sonic Pi v5"
+}

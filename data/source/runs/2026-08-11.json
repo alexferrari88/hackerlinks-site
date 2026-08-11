@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "run_date": "2026-08-11",
+  "generated_at": "2026-08-11T05:17:22+02:00",
+  "intake_status": {"state": "complete"},
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-11.json",
+    "sha256": "7313cce6a963c713694aab8217d3b0552e041cdbbfab7b5bb8568cc5d8705f4d",
+    "bytes": 2801223,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4553,
+    "fetched_item_count": 4583,
+    "fetch_error_count": 0
+  },
+  "summary": "Eight concrete, comment-endorsed tools and projects from a verified complete HN front-page comment crawl.",
+  "items": [
+    {
+      "name": "Muse Glimmer 30B",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "source_story_title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "summary": "A 30B local agentic model with encouraging early hands-on reports.",
+      "why_included": "A commenter reported good local results on a 32GB Mac mini, while another cited promising early comparisons with Qwen 3.6 27B.",
+      "evidence": "One early user got good local results, though slowly; another reported encouraging but still preliminary testing signals.",
+      "evidence_sources": [
+        {"comment_id": "49244699", "comment_url": "https://news.ycombinator.com/item?id=49241679#49244699", "author": "mark_l_watson", "excerpt": "Starting this morning I am running their new local 30B model muse-glimmer on my old MacMini 32G using Ollama", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49245534", "comment_url": "https://news.ycombinator.com/item?id=49241679#49245534", "author": "Aurornis", "excerpt": "Initial reports are good.", "kind": "caveat", "context": "evaluated", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Docker Sandboxes",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.docker.com/products/docker-sandboxes/",
+      "hn_url": "https://news.ycombinator.com/item?id=49239751",
+      "source_story_title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "summary": "A microVM-based agent sandbox with outbound firewall and placeholder secret injection.",
+      "why_included": "A daily user called it effective out of the box for worktree-based agent workflows, despite the login requirement.",
+      "evidence": "A commenter uses it daily with git worktrees and praised its outbound firewall and secret-injection features.",
+      "evidence_sources": [
+        {"comment_id": "49240545", "comment_url": "https://news.ycombinator.com/item?id=49239751#49240545", "author": "rusch", "excerpt": "this has been my daily driver for a while now because it works great out of the box with two key features: outbound firewall and secret injection with placeholders.", "kind": "recommendation", "context": "production_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "oMLX",
+      "category": "AI & Local Models",
+      "thing_url": "https://omlx.ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "source_story_title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "summary": "An Apple Silicon local-model runtime with UMA and NVMe caching optimizations.",
+      "why_included": "It was explicitly recommended as a high-performance Apple Silicon project for local model work.",
+      "evidence": "A commenter recommended oMLX for its Apple Silicon performance optimizations.",
+      "evidence_sources": [
+        {"comment_id": "49247723", "comment_url": "https://news.ycombinator.com/item?id=49241679#49247723", "author": "reilly3000", "excerpt": "try oMLX or vMLX - both great projects that offer some amazing performance optimizations for Apple Silicon", "kind": "recommendation", "parent_comment_id": "49247624"}
+      ]
+    },
+    {
+      "name": "vMLX",
+      "category": "AI & Local Models",
+      "thing_url": "https://vmlx.net",
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "source_story_title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "summary": "An Apple Silicon local-model runtime with UMA and NVMe caching optimizations.",
+      "why_included": "It was explicitly recommended alongside oMLX for local-model performance work on Apple Silicon.",
+      "evidence": "A commenter recommended vMLX for its Apple Silicon performance optimizations.",
+      "evidence_sources": [
+        {"comment_id": "49247723", "comment_url": "https://news.ycombinator.com/item?id=49241679#49247723", "author": "reilly3000", "excerpt": "try oMLX or vMLX - both great projects that offer some amazing performance optimizations for Apple Silicon", "kind": "recommendation", "parent_comment_id": "49247624"}
+      ]
+    },
+    {
+      "name": "Cuis Smalltalk",
+      "category": "Programming & Learning",
+      "thing_url": "https://cuis.st/",
+      "hn_url": "https://news.ycombinator.com/item?id=49242653",
+      "source_story_title": "Squeak 6.1",
+      "summary": "A simplified Smalltalk system with a vector-graphics, high-DPI Morphic UI.",
+      "why_included": "It received a direct recommendation as a modernized Squeak-derived environment with crisp, flexible live UI tooling.",
+      "evidence": "A commenter recommended Cuis and highlighted its vector-graphics UI; another confirmed its high-DPI support.",
+      "evidence_sources": [
+        {"comment_id": "49250820", "comment_url": "https://news.ycombinator.com/item?id=49242653#49250820", "author": "isr", "excerpt": "Can I suggest you take a look at Cuis Smalltalk (a simplified fork from squeak)", "kind": "recommendation", "parent_comment_id": "49243822"},
+        {"comment_id": "49249925", "comment_url": "https://news.ycombinator.com/item?id=49242653#49249925", "author": "adius", "excerpt": "Cuis Smalltalk has full high-DPI support as its GUI is based on vector graphics", "kind": "comparison", "parent_comment_id": "49243210"}
+      ]
+    },
+    {
+      "name": "Whodunnit AI",
+      "category": "Games & Experiences",
+      "thing_url": "https://www.whodunnitai.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49238851",
+      "source_story_title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "summary": "A voice-driven murder mystery where players interview AI suspects.",
+      "why_included": "Multiple commenters independently described the experience as engaging and fun rather than a thin AI demo.",
+      "evidence": "One player said it kept them hooked, and another simply called it really fun.",
+      "evidence_sources": [
+        {"comment_id": "49246710", "comment_url": "https://news.ycombinator.com/item?id=49238851#49246710", "author": "aswegs8", "excerpt": "Kept me hooked, even though I am not a crime nut.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49238851"},
+        {"comment_id": "49247567", "comment_url": "https://news.ycombinator.com/item?id=49238851#49247567", "author": "dbx842", "excerpt": "This is really fun, great work!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49238851"}
+      ]
+    },
+    {
+      "name": "Sonic Pi",
+      "category": "Music & Creative Tools",
+      "thing_url": "https://sonic-pi.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49208296",
+      "source_story_title": "Sonic Pi v5",
+      "summary": "A free code-based music creation and live-performance tool.",
+      "why_included": "A long-time user called it a favorite project and said they regularly recommend it to others.",
+      "evidence": "A user said Sonic Pi is a favorite project that lets them make cool work despite limited musical experience.",
+      "evidence_sources": [
+        {"comment_id": "49247788", "comment_url": "https://news.ycombinator.com/item?id=49208296#49247788", "author": "fmo91", "excerpt": "This is one of my favorite software projects.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49208296"}
+      ]
+    },
+    {
+      "name": "EinkBro",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/plateaukao/einkbro",
+      "hn_url": "https://news.ycombinator.com/item?id=49213660",
+      "source_story_title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+      "summary": "An Android browser designed around readable, paginated e-ink web browsing.",
+      "why_included": "A daily e-ink user described it as their best Android app discovery and essential for e-ink web browsing.",
+      "evidence": "A commenter called EinkBro their best Android app discovery and an e-ink browsing essential.",
+      "evidence_sources": [
+        {"comment_id": "49251365", "comment_url": "https://news.ycombinator.com/item?id=49213660#49251365", "author": "dredmorbius", "excerpt": "Einkbro is easily the best app I've found for Android (save Termux), and an absolute essential for e-ink Web browsing.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49251124"}
+      ]
+    }
+  ]
+}

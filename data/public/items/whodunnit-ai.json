@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-11T05:17:22+02:00",
+  "id": "whodunnit-ai",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:whodunnit-ai:49238851",
+  "mention_ids": [
+    "2026-08-11:whodunnit-ai:49238851"
+  ],
+  "name": "Whodunnit AI",
+  "slug": "whodunnit-ai",
+  "summary": "A voice-driven murder mystery where players interview AI suspects.",
+  "thing_url": "https://www.whodunnitai.com/",
+  "times_seen": 1,
+  "why_included": "Multiple commenters independently described the experience as engaging and fun rather than a thin AI demo."
+}

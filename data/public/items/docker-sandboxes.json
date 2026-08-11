@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-11T05:17:22+02:00",
+  "id": "docker-sandboxes",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:docker-sandboxes:49239751",
+  "mention_ids": [
+    "2026-08-11:docker-sandboxes:49239751"
+  ],
+  "name": "Docker Sandboxes",
+  "slug": "docker-sandboxes",
+  "summary": "A microVM-based agent sandbox with outbound firewall and placeholder secret injection.",
+  "thing_url": "https://www.docker.com/products/docker-sandboxes/",
+  "times_seen": 1,
+  "why_included": "A daily user called it effective out of the box for worktree-based agent workflows, despite the login requirement."
+}

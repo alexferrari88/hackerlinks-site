@@ -1,0 +1,30 @@
+{
+  "evidence": "A commenter recommended Cuis and highlighted its vector-graphics UI; another confirmed its high-DPI support.",
+  "evidence_sources": [
+    {
+      "author": "isr",
+      "comment_id": "49250820",
+      "comment_url": "https://news.ycombinator.com/item?id=49242653#49250820",
+      "excerpt": "Can I suggest you take a look at Cuis Smalltalk (a simplified fork from squeak)",
+      "kind": "recommendation",
+      "parent_comment_id": "49243822"
+    },
+    {
+      "author": "adius",
+      "comment_id": "49249925",
+      "comment_url": "https://news.ycombinator.com/item?id=49242653#49249925",
+      "excerpt": "Cuis Smalltalk has full high-DPI support as its GUI is based on vector graphics",
+      "kind": "comparison",
+      "parent_comment_id": "49243210"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49242653",
+  "id": "2026-08-11:cuis-smalltalk:49242653",
+  "is_repeat": false,
+  "issue_id": "2026-08-11",
+  "item_id": "cuis-smalltalk",
+  "rank": 5,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49242653",
+  "source_story_title": "Squeak 6.1"
+}

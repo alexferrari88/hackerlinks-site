@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses it daily with git worktrees and praised its outbound firewall and secret-injection features.",
+  "evidence_sources": [
+    {
+      "author": "rusch",
+      "comment_id": "49240545",
+      "comment_url": "https://news.ycombinator.com/item?id=49239751#49240545",
+      "context": "production_use",
+      "excerpt": "this has been my daily driver for a while now because it works great out of the box with two key features: outbound firewall and secret injection with placeholders.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49239751",
+  "id": "2026-08-11:docker-sandboxes:49239751",
+  "is_repeat": false,
+  "issue_id": "2026-08-11",
+  "item_id": "docker-sandboxes",
+  "rank": 2,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49239751",
+  "source_story_title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents"
+}

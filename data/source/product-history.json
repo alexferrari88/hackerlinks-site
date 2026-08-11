@@ -3989,8 +3989,8 @@
     {
       "name": "oMLX",
       "first_reported_at": "2026-06-12T21:26:09Z",
-      "last_reported_at": "2026-06-12T21:26:09Z",
-      "times_reported": 1
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 2
     },
     {
       "name": "One Sec",
@@ -6972,6 +6972,48 @@
       "name": "Termic",
       "first_reported_at": "2026-08-10T05:16:58+02:00",
       "last_reported_at": "2026-08-10T05:16:58+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Muse Glimmer 30B",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Docker Sandboxes",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "vMLX",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cuis Smalltalk",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Whodunnit AI",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sonic Pi",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "EinkBro",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
       "times_reported": 1
     }
   ]

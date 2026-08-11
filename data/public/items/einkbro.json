@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-11T05:17:22+02:00",
+  "id": "einkbro",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:einkbro:49213660",
+  "mention_ids": [
+    "2026-08-11:einkbro:49213660"
+  ],
+  "name": "EinkBro",
+  "slug": "einkbro",
+  "summary": "An Android browser designed around readable, paginated e-ink web browsing.",
+  "thing_url": "https://github.com/plateaukao/einkbro",
+  "times_seen": 1,
+  "why_included": "A daily e-ink user described it as their best Android app discovery and essential for e-ink web browsing."
+}

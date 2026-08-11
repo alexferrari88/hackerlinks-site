@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T05:17:22+02:00",
+  "headline": "8 interesting things surfaced from HN on 2026-08-11",
+  "id": "2026-08-11",
+  "mention_ids": [
+    "2026-08-11:muse-glimmer-30b:49241679",
+    "2026-08-11:docker-sandboxes:49239751",
+    "2026-08-11:omlx:49241679",
+    "2026-08-11:vmlx:49241679",
+    "2026-08-11:cuis-smalltalk:49242653",
+    "2026-08-11:whodunnit-ai:49238851",
+    "2026-08-11:sonic-pi:49208296",
+    "2026-08-11:einkbro:49213660"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

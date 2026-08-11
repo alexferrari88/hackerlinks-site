@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-11T05:17:22+02:00",
+  "id": "vmlx",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:vmlx:49241679",
+  "mention_ids": [
+    "2026-08-11:vmlx:49241679"
+  ],
+  "name": "vMLX",
+  "slug": "vmlx",
+  "summary": "An Apple Silicon local-model runtime with UMA and NVMe caching optimizations.",
+  "thing_url": "https://vmlx.net",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended alongside oMLX for local-model performance work on Apple Silicon."
+}

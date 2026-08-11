@@ -1,0 +1,32 @@
+{
+  "evidence": "One player said it kept them hooked, and another simply called it really fun.",
+  "evidence_sources": [
+    {
+      "author": "aswegs8",
+      "comment_id": "49246710",
+      "comment_url": "https://news.ycombinator.com/item?id=49238851#49246710",
+      "context": "first_hand_use",
+      "excerpt": "Kept me hooked, even though I am not a crime nut.",
+      "kind": "recommendation",
+      "parent_comment_id": "49238851"
+    },
+    {
+      "author": "dbx842",
+      "comment_id": "49247567",
+      "comment_url": "https://news.ycombinator.com/item?id=49238851#49247567",
+      "context": "first_hand_use",
+      "excerpt": "This is really fun, great work!",
+      "kind": "recommendation",
+      "parent_comment_id": "49238851"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49238851",
+  "id": "2026-08-11:whodunnit-ai:49238851",
+  "is_repeat": false,
+  "issue_id": "2026-08-11",
+  "item_id": "whodunnit-ai",
+  "rank": 6,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49238851",
+  "source_story_title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice"
+}

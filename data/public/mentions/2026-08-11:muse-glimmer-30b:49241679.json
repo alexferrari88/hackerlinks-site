@@ -1,0 +1,32 @@
+{
+  "evidence": "One early user got good local results, though slowly; another reported encouraging but still preliminary testing signals.",
+  "evidence_sources": [
+    {
+      "author": "mark_l_watson",
+      "comment_id": "49244699",
+      "comment_url": "https://news.ycombinator.com/item?id=49241679#49244699",
+      "context": "first_hand_use",
+      "excerpt": "Starting this morning I am running their new local 30B model muse-glimmer on my old MacMini 32G using Ollama",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "Aurornis",
+      "comment_id": "49245534",
+      "comment_url": "https://news.ycombinator.com/item?id=49241679#49245534",
+      "context": "evaluated",
+      "excerpt": "Initial reports are good.",
+      "kind": "caveat",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49241679",
+  "id": "2026-08-11:muse-glimmer-30b:49241679",
+  "is_repeat": false,
+  "issue_id": "2026-08-11",
+  "item_id": "muse-glimmer-30b",
+  "rank": 1,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49241679",
+  "source_story_title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+}

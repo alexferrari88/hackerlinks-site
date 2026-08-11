@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended oMLX for its Apple Silicon performance optimizations.",
+  "evidence_sources": [
+    {
+      "author": "reilly3000",
+      "comment_id": "49247723",
+      "comment_url": "https://news.ycombinator.com/item?id=49241679#49247723",
+      "excerpt": "try oMLX or vMLX - both great projects that offer some amazing performance optimizations for Apple Silicon",
+      "kind": "recommendation",
+      "parent_comment_id": "49247624"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49241679",
+  "id": "2026-08-11:omlx:49241679",
+  "is_repeat": true,
+  "issue_id": "2026-08-11",
+  "item_id": "omlx",
+  "rank": 3,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49241679",
+  "source_story_title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+}

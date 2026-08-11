@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called EinkBro their best Android app discovery and an e-ink browsing essential.",
+  "evidence_sources": [
+    {
+      "author": "dredmorbius",
+      "comment_id": "49251365",
+      "comment_url": "https://news.ycombinator.com/item?id=49213660#49251365",
+      "context": "first_hand_use",
+      "excerpt": "Einkbro is easily the best app I've found for Android (save Termux), and an absolute essential for e-ink Web browsing.",
+      "kind": "recommendation",
+      "parent_comment_id": "49251124"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49213660",
+  "id": "2026-08-11:einkbro:49213660",
+  "is_repeat": false,
+  "issue_id": "2026-08-11",
+  "item_id": "einkbro",
+  "rank": 8,
+  "seen_at": "2026-08-11T05:17:22+02:00",
+  "source_story_id": "49213660",
+  "source_story_title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?"
+}

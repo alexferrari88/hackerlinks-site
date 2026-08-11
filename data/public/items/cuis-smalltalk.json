@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-11T05:17:22+02:00",
+  "id": "cuis-smalltalk",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:cuis-smalltalk:49242653",
+  "mention_ids": [
+    "2026-08-11:cuis-smalltalk:49242653"
+  ],
+  "name": "Cuis Smalltalk",
+  "slug": "cuis-smalltalk",
+  "summary": "A simplified Smalltalk system with a vector-graphics, high-DPI Morphic UI.",
+  "thing_url": "https://cuis.st/",
+  "times_seen": 1,
+  "why_included": "It received a direct recommendation as a modernized Squeak-derived environment with crisp, flexible live UI tooling."
+}

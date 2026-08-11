@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-11T05:17:22+02:00",
+  "id": "muse-glimmer-30b",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:muse-glimmer-30b:49241679",
+  "mention_ids": [
+    "2026-08-11:muse-glimmer-30b:49241679"
+  ],
+  "name": "Muse Glimmer 30B",
+  "slug": "muse-glimmer-30b",
+  "summary": "A 30B local agentic model with encouraging early hands-on reports.",
+  "thing_url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+  "times_seen": 1,
+  "why_included": "A commenter reported good local results on a 32GB Mac mini, while another cited promising early comparisons with Qwen 3.6 27B."
+}

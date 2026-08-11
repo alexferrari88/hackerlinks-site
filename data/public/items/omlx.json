@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-06-12T21:26:09Z",
   "id": "omlx",
-  "last_seen_at": "2026-06-12T21:26:09Z",
-  "latest_mention_id": "2026-06-12:omlx:48507020",
+  "last_seen_at": "2026-08-11T05:17:22+02:00",
+  "latest_mention_id": "2026-08-11:omlx:49241679",
   "mention_ids": [
-    "2026-06-12:omlx:48507020"
+    "2026-06-12:omlx:48507020",
+    "2026-08-11:omlx:49241679"
   ],
   "name": "oMLX",
   "slug": "omlx",
-  "summary": "oMLX \u2014 macOS-native MLX inference server with SSD caching for local coding agents.",
-  "thing_url": "https://omlx.ai/",
-  "times_seen": 1,
-  "why_included": "HN commenters treated it as the practical Mac setup for local agents."
+  "summary": "An Apple Silicon local-model runtime with UMA and NVMe caching optimizations.",
+  "thing_url": "https://omlx.ai",
+  "times_seen": 2,
+  "why_included": "It was explicitly recommended as a high-performance Apple Silicon project for local model work."
 }
