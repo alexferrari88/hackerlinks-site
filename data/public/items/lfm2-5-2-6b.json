@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "lfm2-5-2-6b",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:lfm2-5-2-6b:49173107",
+  "mention_ids": [
+    "2026-08-12:lfm2-5-2-6b:49173107"
+  ],
+  "name": "LFM2.5 2.6B",
+  "slug": "lfm2-5-2-6b",
+  "summary": "A 2.6B-parameter local model aimed at lightweight agentic and extraction workloads.",
+  "thing_url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+  "times_seen": 1,
+  "why_included": "It has concrete evidence of useful local speed on unusually old hardware, alongside a case for intentionally small-model design."
+}

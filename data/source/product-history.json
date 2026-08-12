@@ -7015,6 +7015,54 @@
       "first_reported_at": "2026-08-11T05:17:22+02:00",
       "last_reported_at": "2026-08-11T05:17:22+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Saracroche",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Hister",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "uBlacklist",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Stowaway",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "LFM2.5 2.6B",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MiniMax H3",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Git-knife",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Jolt",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
     }
   ]
 }

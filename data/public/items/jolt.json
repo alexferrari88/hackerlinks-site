@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "jolt",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:jolt:49223965",
+  "mention_ids": [
+    "2026-08-12:jolt:49223965"
+  ],
+  "name": "Jolt",
+  "slug": "jolt",
+  "summary": "A Clojure implementation on Chez Scheme for self-contained native applications.",
+  "thing_url": "https://jolt-lang.github.io/",
+  "times_seen": 1,
+  "why_included": "It has an explicit early report of successfully building small standalone applications across macOS and Linux."
+}

@@ -1,0 +1,32 @@
+{
+  "evidence": "Commenters cite correcting mistaken author identity and reconstructing accurate archival commit dates as real uses.",
+  "evidence_sources": [
+    {
+      "author": "f1shy",
+      "comment_id": "49260358",
+      "comment_url": "https://news.ycombinator.com/item?id=49259611#49260358",
+      "context": "first_hand_use",
+      "excerpt": "Many times I had a wrong configured terminal and messed up the author.",
+      "kind": "recommendation",
+      "parent_comment_id": "49260132"
+    },
+    {
+      "author": "simonw",
+      "comment_id": "49260617",
+      "comment_url": "https://news.ycombinator.com/item?id=49259611#49260617",
+      "context": "first_hand_use",
+      "excerpt": "Sometimes I do a scraping project where I want the commit dates to match when the data actually changed",
+      "kind": "recommendation",
+      "parent_comment_id": "49260132"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49259611",
+  "id": "2026-08-12:git-knife:49259611",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "git-knife",
+  "rank": 7,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49259611",
+  "source_story_title": "Show HN: Git-knife \u2013 Edit commit messages, authors, and dates like a spreadsheet"
+}

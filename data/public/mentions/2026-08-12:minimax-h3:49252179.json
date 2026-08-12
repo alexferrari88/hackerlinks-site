@@ -1,0 +1,31 @@
+{
+  "evidence": "A MacBook Pro owner says the model works extremely well through ComfyUI, while another commenter calls the open-weights release disruptive.",
+  "evidence_sources": [
+    {
+      "author": "Meleagris",
+      "comment_id": "49252931",
+      "comment_url": "https://news.ycombinator.com/item?id=49252179#49252931",
+      "context": "first_hand_use",
+      "excerpt": "I've been using MiniMax H3 on my M5 Pro 64GB MacBook Pro through ComfyUI. It works extremely well.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "Art9681",
+      "comment_id": "49257434",
+      "comment_url": "https://news.ycombinator.com/item?id=49252179#49257434",
+      "excerpt": "It's a VERY disruptive model in all the good ways.",
+      "kind": "recommendation",
+      "parent_comment_id": "49254525"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49252179",
+  "id": "2026-08-12:minimax-h3:49252179",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "minimax-h3",
+  "rank": 6,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49252179",
+  "source_story_title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon"
+}

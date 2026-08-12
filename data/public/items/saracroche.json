@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "saracroche",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:saracroche:49254880",
+  "mention_ids": [
+    "2026-08-12:saracroche:49254880"
+  ],
+  "name": "Saracroche",
+  "slug": "saracroche",
+  "summary": "An open-source French call-filtering app that blocks unsolicited calls.",
+  "thing_url": "https://saracroche.org/",
+  "times_seen": 1,
+  "why_included": "Multiple commenters reported sustained success blocking spam calls for themselves and family."
+}

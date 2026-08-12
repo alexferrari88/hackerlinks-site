@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter surfaces Hister as a personal archive that indexes full page and file contents for later retrieval.",
+  "evidence_sources": [
+    {
+      "author": "swed420",
+      "comment_id": "49251966",
+      "comment_url": "https://news.ycombinator.com/item?id=49250836#49251966",
+      "excerpt": "Hister is a private search engine for the pages you visit and the files you keep.",
+      "kind": "recommendation",
+      "parent_comment_id": "49251544"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49250836",
+  "id": "2026-08-12:hister:49250836",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "hister",
+  "rank": 2,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49250836",
+  "source_story_title": "As AI eats the web, the internet\u2019s collective memory is disappearing"
+}

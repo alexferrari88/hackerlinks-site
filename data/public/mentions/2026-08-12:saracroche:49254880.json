@@ -1,0 +1,32 @@
+{
+  "evidence": "A French user warmly recommends it after two months of family use, and a reply reports no spam calls since installation.",
+  "evidence_sources": [
+    {
+      "author": "ducdetronquito",
+      "comment_id": "49261100",
+      "comment_url": "https://news.ycombinator.com/item?id=49254880#49261100",
+      "context": "first_hand_use",
+      "excerpt": "It\u2019s free, open source, all my family uses it for about 2 months now and it just works.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "RockstarSprain",
+      "comment_id": "49261147",
+      "comment_url": "https://news.ycombinator.com/item?id=49254880#49261147",
+      "context": "first_hand_use",
+      "excerpt": "Great app, had no spam calls going through since installing it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49261100"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49254880",
+  "id": "2026-08-12:saracroche:49254880",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "saracroche",
+  "rank": 1,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49254880",
+  "source_story_title": "France to ban unsolicited telemarketing calls"
+}

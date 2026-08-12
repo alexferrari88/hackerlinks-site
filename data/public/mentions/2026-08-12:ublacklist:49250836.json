@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommends uBlacklist as their practical response to poor-quality search results.",
+  "evidence_sources": [
+    {
+      "author": "duskdozer",
+      "comment_id": "49256507",
+      "comment_url": "https://news.ycombinator.com/item?id=49250836#49256507",
+      "context": "first_hand_use",
+      "excerpt": "ublacklist is the only thing that makes searching bearable for me now.",
+      "kind": "recommendation",
+      "parent_comment_id": "49254591"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49250836",
+  "id": "2026-08-12:ublacklist:49250836",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "ublacklist",
+  "rank": 3,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49250836",
+  "source_story_title": "As AI eats the web, the internet\u2019s collective memory is disappearing"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "hister",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:hister:49250836",
+  "mention_ids": [
+    "2026-08-12:hister:49250836"
+  ],
+  "name": "Hister",
+  "slug": "hister",
+  "summary": "A private search engine for visited pages and local files, with MCP access.",
+  "thing_url": "https://github.com/asciimoo/hister",
+  "times_seen": 1,
+  "why_included": "It directly addresses the thread\u2019s concern that useful pages disappear or become hard to retrieve."
+}

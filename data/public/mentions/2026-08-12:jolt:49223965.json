@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter tested it successfully for small self-contained apps and reports macOS and Linux support.",
+  "evidence_sources": [
+    {
+      "author": "mark_l_watson",
+      "comment_id": "49223966",
+      "comment_url": "https://news.ycombinator.com/item?id=49223965#49223966",
+      "context": "first_hand_use",
+      "excerpt": "works great to build small self contained apps.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49223965",
+  "id": "2026-08-12:jolt:49223965",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "jolt",
+  "rank": 8,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49223965",
+  "source_story_title": "Jolt: Clojure compiler implemented with Chez Scheme"
+}

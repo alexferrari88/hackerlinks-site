@@ -1,0 +1,31 @@
+{
+  "evidence": "One commenter reports 25\u201330 tokens per second on a 2013 Mac Pro, while another highlights Liquid AI\u2019s focus on reliable tiny models.",
+  "evidence_sources": [
+    {
+      "author": "h14h",
+      "comment_id": "49262585",
+      "comment_url": "https://news.ycombinator.com/item?id=49173107#49262585",
+      "context": "first_hand_use",
+      "excerpt": "the official 6-bit quant of 2.6B runs at 25-30 tok/s under llama.cpp on one of the D500 GPUs.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "0xbadcafebee",
+      "comment_id": "49253806",
+      "comment_url": "https://news.ycombinator.com/item?id=49173107#49253806",
+      "excerpt": "They target reliable operation of tiny models in ways other model families don't",
+      "kind": "comparison",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49173107",
+  "id": "2026-08-12:lfm2-5-2-6b:49173107",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "lfm2-5-2-6b",
+  "rank": 5,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49173107",
+  "source_story_title": "LFM2.5 2.6B model competitive with 4x larger models"
+}

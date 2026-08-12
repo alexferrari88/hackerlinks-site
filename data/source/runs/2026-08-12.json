@@ -1,0 +1,132 @@
+{
+  "version": 2,
+  "run_date": "2026-08-12",
+  "generated_at": "2026-08-12T03:16:39Z",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-12.json",
+    "sha256": "6b93445cd3f98abae90024aa1d50a476ac353641789ed4b2c4eb44ae96eee561",
+    "bytes": 3683366,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5888,
+    "fetched_item_count": 5918,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Eight concrete, comment-endorsed products and tools from the verified HN front-page discussion.",
+  "telegram_footer": "8 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Saracroche",
+      "category": "Privacy & Everyday Tools",
+      "thing_url": "https://saracroche.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49254880",
+      "source_story_title": "France to ban unsolicited telemarketing calls",
+      "summary": "An open-source French call-filtering app that blocks unsolicited calls.",
+      "why_included": "Multiple commenters reported sustained success blocking spam calls for themselves and family.",
+      "evidence": "A French user warmly recommends it after two months of family use, and a reply reports no spam calls since installation.",
+      "evidence_sources": [
+        {"comment_id": "49261100", "comment_url": "https://news.ycombinator.com/item?id=49254880#49261100", "author": "ducdetronquito", "excerpt": "It’s free, open source, all my family uses it for about 2 months now and it just works.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49261147", "comment_url": "https://news.ycombinator.com/item?id=49254880#49261147", "author": "RockstarSprain", "excerpt": "Great app, had no spam calls going through since installing it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49261100"}
+      ]
+    },
+    {
+      "name": "Hister",
+      "category": "Privacy & Everyday Tools",
+      "thing_url": "https://github.com/asciimoo/hister",
+      "hn_url": "https://news.ycombinator.com/item?id=49250836",
+      "source_story_title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "summary": "A private search engine for visited pages and local files, with MCP access.",
+      "why_included": "It directly addresses the thread’s concern that useful pages disappear or become hard to retrieve.",
+      "evidence": "A commenter surfaces Hister as a personal archive that indexes full page and file contents for later retrieval.",
+      "evidence_sources": [
+        {"comment_id": "49251966", "comment_url": "https://news.ycombinator.com/item?id=49250836#49251966", "author": "swed420", "excerpt": "Hister is a private search engine for the pages you visit and the files you keep.", "kind": "recommendation", "parent_comment_id": "49251544"}
+      ]
+    },
+    {
+      "name": "uBlacklist",
+      "category": "Privacy & Everyday Tools",
+      "thing_url": "https://github.com/iorate/ublacklist",
+      "hn_url": "https://news.ycombinator.com/item?id=49250836",
+      "source_story_title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "summary": "A browser extension for blocking unwanted sites from search results.",
+      "why_included": "The endorsement is unusually concrete: it made web search bearable again for the commenter.",
+      "evidence": "A commenter recommends uBlacklist as their practical response to poor-quality search results.",
+      "evidence_sources": [
+        {"comment_id": "49256507", "comment_url": "https://news.ycombinator.com/item?id=49250836#49256507", "author": "duskdozer", "excerpt": "ublacklist is the only thing that makes searching bearable for me now.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49254591"}
+      ]
+    },
+    {
+      "name": "Stowaway",
+      "category": "Watch & Explore",
+      "thing_url": "https://stowaway.live/",
+      "hn_url": "https://news.ycombinator.com/item?id=49209918",
+      "source_story_title": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "summary": "A live-feeling visual ride-along from aircraft and satellite viewpoints.",
+      "why_included": "The project earned clear praise for turning live flight and satellite data into a distinctive exploratory experience.",
+      "evidence": "Commenters praised both its surprising concept and the sensory details of the experience.",
+      "evidence_sources": [
+        {"comment_id": "49213034", "comment_url": "https://news.ycombinator.com/item?id=49209918#49213034", "author": "vintagedave", "excerpt": "I love this: the sound effects oddly are what really make it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49253703", "comment_url": "https://news.ycombinator.com/item?id=49209918#49253703", "author": "stevage", "excerpt": "Pretty amazing. One of those great sites that is just \"wow, I would never have thought of trying to build that\".", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "LFM2.5 2.6B",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "hn_url": "https://news.ycombinator.com/item?id=49173107",
+      "source_story_title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "summary": "A 2.6B-parameter local model aimed at lightweight agentic and extraction workloads.",
+      "why_included": "It has concrete evidence of useful local speed on unusually old hardware, alongside a case for intentionally small-model design.",
+      "evidence": "One commenter reports 25–30 tokens per second on a 2013 Mac Pro, while another highlights Liquid AI’s focus on reliable tiny models.",
+      "evidence_sources": [
+        {"comment_id": "49262585", "comment_url": "https://news.ycombinator.com/item?id=49173107#49262585", "author": "h14h", "excerpt": "the official 6-bit quant of 2.6B runs at 25-30 tok/s under llama.cpp on one of the D500 GPUs.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49253806", "comment_url": "https://news.ycombinator.com/item?id=49173107#49253806", "author": "0xbadcafebee", "excerpt": "They target reliable operation of tiny models in ways other model families don't",  "kind": "comparison", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "MiniMax H3",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/antirez/h3.c",
+      "hn_url": "https://news.ycombinator.com/item?id=49252179",
+      "source_story_title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "summary": "An open-weights video model with a native Apple Silicon inference implementation.",
+      "why_included": "First-hand local use and strong enthusiasm make it a notable option for Apple Silicon video experimentation.",
+      "evidence": "A MacBook Pro owner says the model works extremely well through ComfyUI, while another commenter calls the open-weights release disruptive.",
+      "evidence_sources": [
+        {"comment_id": "49252931", "comment_url": "https://news.ycombinator.com/item?id=49252179#49252931", "author": "Meleagris", "excerpt": "I've been using MiniMax H3 on my M5 Pro 64GB MacBook Pro through ComfyUI. It works extremely well.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49257434", "comment_url": "https://news.ycombinator.com/item?id=49252179#49257434", "author": "Art9681", "excerpt": "It's a VERY disruptive model in all the good ways.", "kind": "recommendation", "parent_comment_id": "49254525"}
+      ]
+    },
+    {
+      "name": "Git-knife",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/TheRealYT/git-knife",
+      "hn_url": "https://news.ycombinator.com/item?id=49259611",
+      "source_story_title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "summary": "A spreadsheet-like interface for rewriting Git commit messages, authors, and dates.",
+      "why_included": "The thread gives concrete maintenance cases where a visual history editor is genuinely useful.",
+      "evidence": "Commenters cite correcting mistaken author identity and reconstructing accurate archival commit dates as real uses.",
+      "evidence_sources": [
+        {"comment_id": "49260358", "comment_url": "https://news.ycombinator.com/item?id=49259611#49260358", "author": "f1shy", "excerpt": "Many times I had a wrong configured terminal and messed up the author.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49260132"},
+        {"comment_id": "49260617", "comment_url": "https://news.ycombinator.com/item?id=49259611#49260617", "author": "simonw", "excerpt": "Sometimes I do a scraping project where I want the commit dates to match when the data actually changed",  "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49260132"}
+      ]
+    },
+    {
+      "name": "Jolt",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://jolt-lang.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49223965",
+      "source_story_title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "summary": "A Clojure implementation on Chez Scheme for self-contained native applications.",
+      "why_included": "It has an explicit early report of successfully building small standalone applications across macOS and Linux.",
+      "evidence": "A commenter tested it successfully for small self-contained apps and reports macOS and Linux support.",
+      "evidence_sources": [
+        {"comment_id": "49223966", "comment_url": "https://news.ycombinator.com/item?id=49223965#49223966", "author": "mark_l_watson", "excerpt": "works great to build small self contained apps.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    }
+  ]
+}

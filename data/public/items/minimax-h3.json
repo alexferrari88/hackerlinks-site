@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "minimax-h3",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:minimax-h3:49252179",
+  "mention_ids": [
+    "2026-08-12:minimax-h3:49252179"
+  ],
+  "name": "MiniMax H3",
+  "slug": "minimax-h3",
+  "summary": "An open-weights video model with a native Apple Silicon inference implementation.",
+  "thing_url": "https://github.com/antirez/h3.c",
+  "times_seen": 1,
+  "why_included": "First-hand local use and strong enthusiasm make it a notable option for Apple Silicon video experimentation."
+}

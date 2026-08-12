@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "git-knife",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:git-knife:49259611",
+  "mention_ids": [
+    "2026-08-12:git-knife:49259611"
+  ],
+  "name": "Git-knife",
+  "slug": "git-knife",
+  "summary": "A spreadsheet-like interface for rewriting Git commit messages, authors, and dates.",
+  "thing_url": "https://github.com/TheRealYT/git-knife",
+  "times_seen": 1,
+  "why_included": "The thread gives concrete maintenance cases where a visual history editor is genuinely useful."
+}

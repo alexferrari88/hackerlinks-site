@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-12T03:16:39Z",
+  "id": "ublacklist",
+  "last_seen_at": "2026-08-12T03:16:39Z",
+  "latest_mention_id": "2026-08-12:ublacklist:49250836",
+  "mention_ids": [
+    "2026-08-12:ublacklist:49250836"
+  ],
+  "name": "uBlacklist",
+  "slug": "ublacklist",
+  "summary": "A browser extension for blocking unwanted sites from search results.",
+  "thing_url": "https://github.com/iorate/ublacklist",
+  "times_seen": 1,
+  "why_included": "The endorsement is unusually concrete: it made web search bearable again for the commenter."
+}

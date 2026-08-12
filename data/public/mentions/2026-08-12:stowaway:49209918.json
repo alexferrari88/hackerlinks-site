@@ -1,0 +1,31 @@
+{
+  "evidence": "Commenters praised both its surprising concept and the sensory details of the experience.",
+  "evidence_sources": [
+    {
+      "author": "vintagedave",
+      "comment_id": "49213034",
+      "comment_url": "https://news.ycombinator.com/item?id=49209918#49213034",
+      "context": "first_hand_use",
+      "excerpt": "I love this: the sound effects oddly are what really make it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "stevage",
+      "comment_id": "49253703",
+      "comment_url": "https://news.ycombinator.com/item?id=49209918#49253703",
+      "excerpt": "Pretty amazing. One of those great sites that is just \"wow, I would never have thought of trying to build that\".",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49209918",
+  "id": "2026-08-12:stowaway:49209918",
+  "is_repeat": false,
+  "issue_id": "2026-08-12",
+  "item_id": "stowaway",
+  "rank": 4,
+  "seen_at": "2026-08-12T03:16:39Z",
+  "source_story_id": "49209918",
+  "source_story_title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead"
+}
