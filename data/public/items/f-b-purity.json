@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-13T03:17:58Z",
+  "id": "f-b-purity",
+  "last_seen_at": "2026-08-13T03:17:58Z",
+  "latest_mention_id": "2026-08-13:f-b-purity:49270726",
+  "mention_ids": [
+    "2026-08-13:f-b-purity:49270726"
+  ],
+  "name": "F.B. Purity",
+  "slug": "f-b-purity",
+  "summary": "A browser extension that filters Facebook content and interface clutter.",
+  "thing_url": "https://www.fbpurity.com/",
+  "times_seen": 1,
+  "why_included": "It was offered as a durable practical alternative while uBlock Origin maintainers step back from Facebook-specific filters."
+}

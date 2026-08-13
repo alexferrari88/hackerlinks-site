@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter linked the project repository and described it as simple and elegant.",
+  "evidence_sources": [
+    {
+      "author": "culi",
+      "comment_id": "49280105",
+      "comment_url": "https://news.ycombinator.com/item?id=49270953#49280105",
+      "excerpt": "A simple and elegant project",
+      "kind": "recommendation",
+      "parent_comment_id": "49271716"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49270953#49280105",
+  "id": "2026-08-13:2026-eclipse-webcams:49270953",
+  "is_repeat": false,
+  "issue_id": "2026-08-13",
+  "item_id": "2026-eclipse-webcams",
+  "rank": 6,
+  "seen_at": "2026-08-13T03:17:58Z",
+  "source_story_id": "49270953",
+  "source_story_title": "2026 Eclipse Webcams"
+}

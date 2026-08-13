@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter credited Delphi with enabling single developers to prototype quickly and sustain products as they gained users.",
+  "evidence_sources": [
+    {
+      "author": "kqr",
+      "comment_id": "49271751",
+      "comment_url": "https://news.ycombinator.com/item?id=49270621#49271751",
+      "excerpt": "there is (was?) something promoted by a Delphi environment that is rare to find elsewhere, that lets people (a) quickly prototype cool stuff, and then (b) sustainably grow it into a mature product as it gains users.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49270621#49271751",
+  "id": "2026-08-13:delphi-13-community-edition:49270621",
+  "is_repeat": false,
+  "issue_id": "2026-08-13",
+  "item_id": "delphi-13-community-edition",
+  "rank": 7,
+  "seen_at": "2026-08-13T03:17:58Z",
+  "source_story_id": "49270621",
+  "source_story_title": "Delphi 13 Community Edition Is Now Available"
+}

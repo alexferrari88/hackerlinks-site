@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-13T03:17:58Z",
+  "id": "shade-map",
+  "last_seen_at": "2026-08-13T03:17:58Z",
+  "latest_mention_id": "2026-08-13:shade-map:49271757",
+  "mention_ids": [
+    "2026-08-13:shade-map:49271757"
+  ],
+  "name": "Shade Map",
+  "slug": "shade-map",
+  "summary": "An interactive map for visualizing terrain, building, and tree shadows by time and date.",
+  "thing_url": "https://shademap.app",
+  "times_seen": 1,
+  "why_included": "It has clear practical use cases, including planning solar-panel placement and checking sight lines."
+}

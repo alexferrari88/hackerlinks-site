@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter explicitly called it an excellent video in an ongoing series.",
+  "evidence_sources": [
+    {
+      "author": "sheeeeesh",
+      "comment_id": "49263792",
+      "comment_url": "https://news.ycombinator.com/item?id=49263497#49263792",
+      "excerpt": "Grant Sanderson has an excellent video on the same topic [0]. It's part of a series that is ongoing.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49263497#49263792",
+  "id": "2026-08-13:compression-is-intelligence:49263497",
+  "is_repeat": false,
+  "issue_id": "2026-08-13",
+  "item_id": "compression-is-intelligence",
+  "rank": 5,
+  "seen_at": "2026-08-13T03:17:58Z",
+  "source_story_id": "49263497",
+  "source_story_title": "Compression is prediction"
+}

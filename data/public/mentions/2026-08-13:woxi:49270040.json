@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter tested algebra problems across several CAS tools and said Woxi was among the few to produce the expected answers.",
+  "evidence_sources": [
+    {
+      "author": "bobajeff",
+      "comment_id": "49272207",
+      "comment_url": "https://news.ycombinator.com/item?id=49270040#49272207",
+      "context": "evaluated",
+      "excerpt": "I've tried a few algebra problems with Sympy, Sage, Xcas, Maxima and Woxi. Of these only Sage, Maxima and Woxi were capable of giving the expected answers.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49270040",
+  "id": "2026-08-13:woxi:49270040",
+  "is_repeat": false,
+  "issue_id": "2026-08-13",
+  "item_id": "woxi",
+  "rank": 1,
+  "seen_at": "2026-08-13T03:17:58Z",
+  "source_story_id": "49270040",
+  "source_story_title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
+}

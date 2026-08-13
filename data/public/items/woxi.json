@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-13T03:17:58Z",
+  "id": "woxi",
+  "last_seen_at": "2026-08-13T03:17:58Z",
+  "latest_mention_id": "2026-08-13:woxi:49270040",
+  "mention_ids": [
+    "2026-08-13:woxi:49270040"
+  ],
+  "name": "Woxi",
+  "slug": "woxi",
+  "summary": "An open-source Rust reimplementation of Mathematica and the Wolfram Language.",
+  "thing_url": "https://woxi.ad-si.com",
+  "times_seen": 1,
+  "why_included": "It received concrete positive reports for symbolic algebra and notebook compatibility from experienced CAS users."
+}

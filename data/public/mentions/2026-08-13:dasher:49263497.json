@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter described David MacKay as a great explainer and praised Dasher as an early language-model-like text-entry tool.",
+  "evidence_sources": [
+    {
+      "author": "smath",
+      "comment_id": "49266006",
+      "comment_url": "https://news.ycombinator.com/item?id=49263497#49266006",
+      "excerpt": "Ah Sir David MacKay. I so respect him. Great explainer and speaker. He had built this text entry tool called Dasher [0]",
+      "kind": "recommendation",
+      "parent_comment_id": "49264395"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49263497#49266006",
+  "id": "2026-08-13:dasher:49263497",
+  "is_repeat": false,
+  "issue_id": "2026-08-13",
+  "item_id": "dasher",
+  "rank": 4,
+  "seen_at": "2026-08-13T03:17:58Z",
+  "source_story_id": "49263497",
+  "source_story_title": "Compression is prediction"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-13T03:17:58Z",
+  "id": "dasher",
+  "last_seen_at": "2026-08-13T03:17:58Z",
+  "latest_mention_id": "2026-08-13:dasher:49263497",
+  "mention_ids": [
+    "2026-08-13:dasher:49263497"
+  ],
+  "name": "Dasher",
+  "slug": "dasher",
+  "summary": "A predictive text-entry interface driven by next-character probabilities.",
+  "thing_url": "https://dasher.at/about/",
+  "times_seen": 1,
+  "why_included": "It is a distinctive, mature interface idea with a direct recommendation from someone familiar with its creator's work."
+}

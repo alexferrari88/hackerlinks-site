@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-13T03:17:58Z",
+  "id": "compression-is-intelligence",
+  "last_seen_at": "2026-08-13T03:17:58Z",
+  "latest_mention_id": "2026-08-13:compression-is-intelligence:49263497",
+  "mention_ids": [
+    "2026-08-13:compression-is-intelligence:49263497"
+  ],
+  "name": "Compression is Intelligence",
+  "slug": "compression-is-intelligence",
+  "summary": "A 3Blue1Brown video exploring the relationship between compression and intelligence.",
+  "thing_url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+  "times_seen": 1,
+  "why_included": "It is a highly praised visual explainer for a recurring thread of discussion about language models and compression."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reported using it successfully across multiple browsers for years.",
+  "evidence_sources": [
+    {
+      "author": "The-Old-Hacker",
+      "comment_id": "49271476",
+      "comment_url": "https://news.ycombinator.com/item?id=49270726#49271476",
+      "context": "first_hand_use",
+      "excerpt": "I use a browser extension called F.B. Purity. It's worked across multiple browsers for years.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49270726",
+  "id": "2026-08-13:f-b-purity:49270726",
+  "is_repeat": false,
+  "issue_id": "2026-08-13",
+  "item_id": "f-b-purity",
+  "rank": 3,
+  "seen_at": "2026-08-13T03:17:58Z",
+  "source_story_id": "49270726",
+  "source_story_title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook"
+}

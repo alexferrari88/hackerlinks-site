@@ -1,0 +1,168 @@
+{
+  "version": 2,
+  "run_date": "2026-08-13",
+  "generated_at": "2026-08-13T03:17:58Z",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-13.json",
+    "sha256": "b3a50eef4f20f6858c2cd81e3e2261ff12805c89f1ce9a7a142a9335670c4fd0",
+    "bytes": 3491571,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5738,
+    "fetched_item_count": 5768,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Seven concrete tools and learning resources were selected from verified HN comment endorsements.",
+  "telegram_footer": "7 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Woxi",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://woxi.ad-si.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49270040",
+      "source_story_title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "summary": "An open-source Rust reimplementation of Mathematica and the Wolfram Language.",
+      "why_included": "It received concrete positive reports for symbolic algebra and notebook compatibility from experienced CAS users.",
+      "evidence": "One commenter tested algebra problems across several CAS tools and said Woxi was among the few to produce the expected answers.",
+      "evidence_sources": [
+        {
+          "comment_id": "49272207",
+          "comment_url": "https://news.ycombinator.com/item?id=49270040#49272207",
+          "author": "bobajeff",
+          "excerpt": "I've tried a few algebra problems with Sympy, Sage, Xcas, Maxima and Woxi. Of these only Sage, Maxima and Woxi were capable of giving the expected answers.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Shade Map",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://shademap.app",
+      "hn_url": "https://news.ycombinator.com/item?id=49271757",
+      "source_story_title": "Shade Map",
+      "summary": "An interactive map for visualizing terrain, building, and tree shadows by time and date.",
+      "why_included": "It has clear practical use cases, including planning solar-panel placement and checking sight lines.",
+      "evidence": "A commenter said it helped their group choose a solar-panel location at a wooded campsite, avoiding generator use until later.",
+      "evidence_sources": [
+        {
+          "comment_id": "49278794",
+          "comment_url": "https://news.ycombinator.com/item?id=49271757#49278794",
+          "author": "km3r",
+          "excerpt": "My friends and I used this for a camping party's solar panel's placement (for charging a battery).",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "F.B. Purity",
+      "category": "🔒 Privacy & Networking",
+      "thing_url": "https://www.fbpurity.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49270726",
+      "source_story_title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "summary": "A browser extension that filters Facebook content and interface clutter.",
+      "why_included": "It was offered as a durable practical alternative while uBlock Origin maintainers step back from Facebook-specific filters.",
+      "evidence": "A commenter reported using it successfully across multiple browsers for years.",
+      "evidence_sources": [
+        {
+          "comment_id": "49271476",
+          "comment_url": "https://news.ycombinator.com/item?id=49270726#49271476",
+          "author": "The-Old-Hacker",
+          "excerpt": "I use a browser extension called F.B. Purity. It's worked across multiple browsers for years.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Dasher",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://dasher.at/about/",
+      "hn_url": "https://news.ycombinator.com/item?id=49263497#49266006",
+      "source_story_title": "Compression is prediction",
+      "summary": "A predictive text-entry interface driven by next-character probabilities.",
+      "why_included": "It is a distinctive, mature interface idea with a direct recommendation from someone familiar with its creator's work.",
+      "evidence": "A commenter described David MacKay as a great explainer and praised Dasher as an early language-model-like text-entry tool.",
+      "evidence_sources": [
+        {
+          "comment_id": "49266006",
+          "comment_url": "https://news.ycombinator.com/item?id=49263497#49266006",
+          "author": "smath",
+          "excerpt": "Ah Sir David MacKay. I so respect him. Great explainer and speaker. He had built this text entry tool called Dasher [0]",
+          "kind": "recommendation",
+          "parent_comment_id": "49264395"
+        }
+      ]
+    },
+    {
+      "name": "Compression is Intelligence",
+      "category": "🎥 Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+      "hn_url": "https://news.ycombinator.com/item?id=49263497#49263792",
+      "source_story_title": "Compression is prediction",
+      "summary": "A 3Blue1Brown video exploring the relationship between compression and intelligence.",
+      "why_included": "It is a highly praised visual explainer for a recurring thread of discussion about language models and compression.",
+      "evidence": "A commenter explicitly called it an excellent video in an ongoing series.",
+      "evidence_sources": [
+        {
+          "comment_id": "49263792",
+          "comment_url": "https://news.ycombinator.com/item?id=49263497#49263792",
+          "author": "sheeeeesh",
+          "excerpt": "Grant Sanderson has an excellent video on the same topic [0]. It's part of a series that is ongoing.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "2026 Eclipse Webcams",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://github.com/Jonty/2026_eclipse_webcams",
+      "hn_url": "https://news.ycombinator.com/item?id=49270953#49280105",
+      "source_story_title": "2026 Eclipse Webcams",
+      "summary": "An open-source map collecting webcams along the 2026 total solar-eclipse path.",
+      "why_included": "It is a compact, open-source utility that commenters praised for its simplicity and usefulness around a live event.",
+      "evidence": "A commenter linked the project repository and described it as simple and elegant.",
+      "evidence_sources": [
+        {
+          "comment_id": "49280105",
+          "comment_url": "https://news.ycombinator.com/item?id=49270953#49280105",
+          "author": "culi",
+          "excerpt": "A simple and elegant project",
+          "kind": "recommendation",
+          "parent_comment_id": "49271716"
+        }
+      ]
+    },
+    {
+      "name": "Delphi 13 Community Edition",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "hn_url": "https://news.ycombinator.com/item?id=49270621#49271751",
+      "source_story_title": "Delphi 13 Community Edition Is Now Available",
+      "summary": "A free community edition of the native Object Pascal development environment.",
+      "why_included": "It remains notable for rapid visual prototyping that can grow into mature desktop software.",
+      "evidence": "A commenter credited Delphi with enabling single developers to prototype quickly and sustain products as they gained users.",
+      "evidence_sources": [
+        {
+          "comment_id": "49271751",
+          "comment_url": "https://news.ycombinator.com/item?id=49270621#49271751",
+          "author": "kqr",
+          "excerpt": "there is (was?) something promoted by a Delphi environment that is rare to find elsewhere, that lets people (a) quickly prototype cool stuff, and then (b) sustainably grow it into a mature product as it gains users.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    }
+  ]
+}

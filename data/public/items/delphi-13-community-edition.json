@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-13T03:17:58Z",
+  "id": "delphi-13-community-edition",
+  "last_seen_at": "2026-08-13T03:17:58Z",
+  "latest_mention_id": "2026-08-13:delphi-13-community-edition:49270621",
+  "mention_ids": [
+    "2026-08-13:delphi-13-community-edition:49270621"
+  ],
+  "name": "Delphi 13 Community Edition",
+  "slug": "delphi-13-community-edition",
+  "summary": "A free community edition of the native Object Pascal development environment.",
+  "thing_url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+  "times_seen": 1,
+  "why_included": "It remains notable for rapid visual prototyping that can grow into mature desktop software."
+}
