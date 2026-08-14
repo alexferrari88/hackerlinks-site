@@ -1,0 +1,212 @@
+{
+  "version": 2,
+  "run_date": "2026-08-14",
+  "generated_at": "2026-08-14T05:18:33+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-14.json",
+    "sha256": "46d4990dca72ba05a80846c4d23f26b7e703e28105582a11564f0d69383b02b8",
+    "bytes": 3105374,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5086,
+    "fetched_item_count": 5116,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Nine concrete, comment-backed recommendations selected from a complete 30-story HN front-page crawl.",
+  "items": [
+    {
+      "name": "DeepSeek Harness",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://deepseek.com/harness/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285244",
+      "source_story_title": "DeepSeek Harness developer preview",
+      "summary": "An AI coding harness with traceable sessions and replayable event streams.",
+      "why_included": "A commenter highlighted its traceability view as unusually useful and said its concepts looked novel.",
+      "evidence": "One commenter called the traceability view pretty cool and said it seemed helpful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49286215",
+          "comment_url": "https://news.ycombinator.com/item?id=49285244#49286215",
+          "author": "kamranjon",
+          "excerpt": "New coding harness that seems to have some novel concepts and one of the pretty cool things on their landing page",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49286014"
+        }
+      ]
+    },
+    {
+      "name": "Bullet",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.codewithbullet.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49283063",
+      "source_story_title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "summary": "A Linux GUI coding agent designed for fast, Codex-style workflows.",
+      "why_included": "A Codex CLI user tried it and thought it could be the GUI workflow they had been looking for.",
+      "evidence": "One commenter said, after trying Bullet, that it might be the Codex-like GUI they wanted.",
+      "evidence_sources": [
+        {
+          "comment_id": "49293672",
+          "comment_url": "https://news.ycombinator.com/item?id=49283063#49293672",
+          "author": "karanraina",
+          "excerpt": "Gave this a try. I think this might be it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49283063"
+        }
+      ]
+    },
+    {
+      "name": "Talos Linux",
+      "category": "Infrastructure & Self-Hosting",
+      "thing_url": "https://www.talos.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49286485",
+      "source_story_title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "summary": "A minimal immutable Linux operating system for Kubernetes clusters.",
+      "why_included": "A home-lab user gave it a direct, positive recommendation based on their own use.",
+      "evidence": "One commenter said Talos had been great for home use.",
+      "evidence_sources": [
+        {
+          "comment_id": "49291689",
+          "comment_url": "https://news.ycombinator.com/item?id=49286485#49291689",
+          "author": "sudomateo",
+          "excerpt": "Talos for home use has been great.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49288963"
+        }
+      ]
+    },
+    {
+      "name": "AMD Radeon AI PRO R9700",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro/ai-9000-series/amd-radeon-ai-pro-r9700.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49288293",
+      "source_story_title": "AI At Home Part 1: A Box Of Scraps",
+      "summary": "A 32GB workstation GPU for local AI inference and development.",
+      "why_included": "A hands-on AMD GPU owner explicitly recommended current R9700 cards over an older alternative.",
+      "evidence": "One commenter recommended current Radeon AI Pro 9700 cards over V620 hardware.",
+      "evidence_sources": [
+        {
+          "comment_id": "49290310",
+          "comment_url": "https://news.ycombinator.com/item?id=49288293#49290310",
+          "author": "SwellJoe",
+          "excerpt": "I'd recommend current Radeon AI Pro 9700 cards over the V620 now",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49289576"
+        }
+      ]
+    },
+    {
+      "name": "GAMBAS",
+      "category": "Programming Languages",
+      "thing_url": "https://gambaswiki.org/website/en/main.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49289465",
+      "source_story_title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "summary": "A Basic-derived programming language and development environment for Linux.",
+      "why_included": "A commenter directly suggested it to readers who remember Visual Basic rather than QBasic.",
+      "evidence": "One commenter told Visual Basic-era readers to check out GAMBAS.",
+      "evidence_sources": [
+        {
+          "comment_id": "49291887",
+          "comment_url": "https://news.ycombinator.com/item?id=49289465#49291887",
+          "author": "d3Xt3r",
+          "excerpt": "for the slightly younger folks who have more memories of Visual Basic than QBasic, check out GAMBAS",
+          "kind": "recommendation",
+          "parent_comment_id": "49289804"
+        }
+      ]
+    },
+    {
+      "name": "pi-task-compaction",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/spott/pi-task-compaction",
+      "hn_url": "https://news.ycombinator.com/item?id=49289654",
+      "source_story_title": "How Compaction Works in Pi",
+      "summary": "A Pi extension that replaces completed task regions with model-generated summaries.",
+      "why_included": "Its author reported strong compaction results in long real-world sessions.",
+      "evidence": "The author said the summaries had been sufficient in practice and long sessions ended near 6% context use.",
+      "evidence_sources": [
+        {
+          "comment_id": "49293288",
+          "comment_url": "https://news.ycombinator.com/item?id=49289654#49293288",
+          "author": "spott",
+          "excerpt": "in practice the summaries have been good enough it hasn’t needed to. I’ve been using it with 5.6 sol, and even really long sessions have like 6% context used at the end.",
+          "kind": "recommendation",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49292776"
+        }
+      ]
+    },
+    {
+      "name": "explain-diff",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://gist.github.com/geoffreylitt/a29df1b5f9865506e8952488eac3d524",
+      "hn_url": "https://news.ycombinator.com/item?id=49290299",
+      "source_story_title": "Understanding is the new bottleneck",
+      "summary": "A skill that turns code diffs into explanatory documentation.",
+      "why_included": "A user reported liking it in their personal software workflow and explicitly recommended trying it.",
+      "evidence": "One commenter said they were using explain-diff, liked it, and recommended at least trying it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49291525",
+          "comment_url": "https://news.ycombinator.com/item?id=49290299#49291525",
+          "author": "dtkav",
+          "excerpt": "I've been using Geoffrey's /explain-diff skill in my replace-github-with-tailor-fit-personal-software journey, and I'm liking it. I recommend at least giving it a try.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49290299"
+        }
+      ]
+    },
+    {
+      "name": "Sentry",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://sentry.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49280047",
+      "source_story_title": "Build Wide, Ship Narrow",
+      "summary": "An application monitoring platform that tracks errors by software version.",
+      "why_included": "A commenter found version-linked error context very useful for identifying root causes.",
+      "evidence": "One commenter said Sentry's commit context made root-cause analysis much easier.",
+      "evidence_sources": [
+        {
+          "comment_id": "49285951",
+          "comment_url": "https://news.ycombinator.com/item?id=49280047#49285951",
+          "author": "bquaresma",
+          "excerpt": "Sentry being one of them, and I've found it very useful when those errors include context about which commit introduced the issue.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49282413"
+        }
+      ]
+    },
+    {
+      "name": "Psychological Warfare in Reverse Engineering",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=HlUe0TUHOIc",
+      "hn_url": "https://news.ycombinator.com/item?id=49286341",
+      "source_story_title": "Spaghettifying DRAM",
+      "summary": "A Black Hat talk on reverse engineering by hardware hacker Christopher Domas.",
+      "why_included": "A commenter praised Domas as an exceptional explainer and named this among their favorite talks.",
+      "evidence": "One commenter called Christopher Domas a favorite hacker and highlighted this as one of his favorite talks.",
+      "evidence_sources": [
+        {
+          "comment_id": "49286925",
+          "comment_url": "https://news.ycombinator.com/item?id=49286341#49286925",
+          "author": "MattSteelblade",
+          "excerpt": "Christopher Domas is one of my absolute favorite all-time hackers. He does such a fantastic job of explaining his work. Some of my favorite talks of his: - Psychological Warfare in Reverse Engineering",
+          "kind": "recommendation",
+          "parent_comment_id": "49286341"
+        }
+      ]
+    }
+  ],
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated."
+}

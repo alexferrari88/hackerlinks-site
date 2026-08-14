@@ -7063,6 +7063,60 @@
       "first_reported_at": "2026-08-12T03:16:39Z",
       "last_reported_at": "2026-08-12T03:16:39Z",
       "times_reported": 1
+    },
+    {
+      "name": "DeepSeek Harness",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Bullet",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Talos Linux",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AMD Radeon AI PRO R9700",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "GAMBAS",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "pi-task-compaction",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "explain-diff",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sentry",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Psychological Warfare in Reverse Engineering",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
     }
   ]
 }

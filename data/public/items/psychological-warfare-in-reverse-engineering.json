@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "psychological-warfare-in-reverse-engineering",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:psychological-warfare-in-reverse-engineering:49286341",
+  "mention_ids": [
+    "2026-08-14:psychological-warfare-in-reverse-engineering:49286341"
+  ],
+  "name": "Psychological Warfare in Reverse Engineering",
+  "slug": "psychological-warfare-in-reverse-engineering",
+  "summary": "A Black Hat talk on reverse engineering by hardware hacker Christopher Domas.",
+  "thing_url": "https://www.youtube.com/watch?v=HlUe0TUHOIc",
+  "times_seen": 1,
+  "why_included": "A commenter praised Domas as an exceptional explainer and named this among their favorite talks."
+}

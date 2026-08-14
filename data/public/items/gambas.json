@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "gambas",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:gambas:49289465",
+  "mention_ids": [
+    "2026-08-14:gambas:49289465"
+  ],
+  "name": "GAMBAS",
+  "slug": "gambas",
+  "summary": "A Basic-derived programming language and development environment for Linux.",
+  "thing_url": "https://gambaswiki.org/website/en/main.html",
+  "times_seen": 1,
+  "why_included": "A commenter directly suggested it to readers who remember Visual Basic rather than QBasic."
+}

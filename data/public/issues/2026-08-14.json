@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T05:18:33+02:00",
+  "headline": "9 interesting things surfaced from HN on 2026-08-14",
+  "id": "2026-08-14",
+  "mention_ids": [
+    "2026-08-14:deepseek-harness:49285244",
+    "2026-08-14:bullet:49283063",
+    "2026-08-14:talos-linux:49286485",
+    "2026-08-14:amd-radeon-ai-pro-r9700:49288293",
+    "2026-08-14:gambas:49289465",
+    "2026-08-14:pi-task-compaction:49289654",
+    "2026-08-14:explain-diff:49290299",
+    "2026-08-14:sentry:49280047",
+    "2026-08-14:psychological-warfare-in-reverse-engineering:49286341"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

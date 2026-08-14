@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter recommended current Radeon AI Pro 9700 cards over V620 hardware.",
+  "evidence_sources": [
+    {
+      "author": "SwellJoe",
+      "comment_id": "49290310",
+      "comment_url": "https://news.ycombinator.com/item?id=49288293#49290310",
+      "context": "first_hand_use",
+      "excerpt": "I'd recommend current Radeon AI Pro 9700 cards over the V620 now",
+      "kind": "recommendation",
+      "parent_comment_id": "49289576"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49288293",
+  "id": "2026-08-14:amd-radeon-ai-pro-r9700:49288293",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "amd-radeon-ai-pro-r9700",
+  "rank": 4,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49288293",
+  "source_story_title": "AI At Home Part 1: A Box Of Scraps"
+}

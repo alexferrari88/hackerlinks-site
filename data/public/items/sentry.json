@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "sentry",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:sentry:49280047",
+  "mention_ids": [
+    "2026-08-14:sentry:49280047"
+  ],
+  "name": "Sentry",
+  "slug": "sentry",
+  "summary": "An application monitoring platform that tracks errors by software version.",
+  "thing_url": "https://sentry.io/",
+  "times_seen": 1,
+  "why_included": "A commenter found version-linked error context very useful for identifying root causes."
+}

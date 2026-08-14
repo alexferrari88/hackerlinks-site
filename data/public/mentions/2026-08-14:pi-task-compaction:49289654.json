@@ -1,0 +1,23 @@
+{
+  "evidence": "The author said the summaries had been sufficient in practice and long sessions ended near 6% context use.",
+  "evidence_sources": [
+    {
+      "author": "spott",
+      "comment_id": "49293288",
+      "comment_url": "https://news.ycombinator.com/item?id=49289654#49293288",
+      "context": "author_or_maintainer",
+      "excerpt": "in practice the summaries have been good enough it hasn\u2019t needed to. I\u2019ve been using it with 5.6 sol, and even really long sessions have like 6% context used at the end.",
+      "kind": "recommendation",
+      "parent_comment_id": "49292776"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49289654",
+  "id": "2026-08-14:pi-task-compaction:49289654",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "pi-task-compaction",
+  "rank": 6,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49289654",
+  "source_story_title": "How Compaction Works in Pi"
+}

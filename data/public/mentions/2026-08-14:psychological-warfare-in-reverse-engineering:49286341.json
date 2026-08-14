@@ -1,0 +1,22 @@
+{
+  "evidence": "One commenter called Christopher Domas a favorite hacker and highlighted this as one of his favorite talks.",
+  "evidence_sources": [
+    {
+      "author": "MattSteelblade",
+      "comment_id": "49286925",
+      "comment_url": "https://news.ycombinator.com/item?id=49286341#49286925",
+      "excerpt": "Christopher Domas is one of my absolute favorite all-time hackers. He does such a fantastic job of explaining his work. Some of my favorite talks of his: - Psychological Warfare in Reverse Engineering",
+      "kind": "recommendation",
+      "parent_comment_id": "49286341"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49286341",
+  "id": "2026-08-14:psychological-warfare-in-reverse-engineering:49286341",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "psychological-warfare-in-reverse-engineering",
+  "rank": 9,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49286341",
+  "source_story_title": "Spaghettifying DRAM"
+}

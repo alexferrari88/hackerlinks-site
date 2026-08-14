@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter said, after trying Bullet, that it might be the Codex-like GUI they wanted.",
+  "evidence_sources": [
+    {
+      "author": "karanraina",
+      "comment_id": "49293672",
+      "comment_url": "https://news.ycombinator.com/item?id=49283063#49293672",
+      "context": "first_hand_use",
+      "excerpt": "Gave this a try. I think this might be it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49283063"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49283063",
+  "id": "2026-08-14:bullet:49283063",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "bullet",
+  "rank": 2,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49283063",
+  "source_story_title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent"
+}

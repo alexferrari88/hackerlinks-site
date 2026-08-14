@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter called the traceability view pretty cool and said it seemed helpful.",
+  "evidence_sources": [
+    {
+      "author": "kamranjon",
+      "comment_id": "49286215",
+      "comment_url": "https://news.ycombinator.com/item?id=49285244#49286215",
+      "context": "first_hand_use",
+      "excerpt": "New coding harness that seems to have some novel concepts and one of the pretty cool things on their landing page",
+      "kind": "recommendation",
+      "parent_comment_id": "49286014"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49285244",
+  "id": "2026-08-14:deepseek-harness:49285244",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "deepseek-harness",
+  "rank": 1,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49285244",
+  "source_story_title": "DeepSeek Harness developer preview"
+}

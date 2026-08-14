@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "pi-task-compaction",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:pi-task-compaction:49289654",
+  "mention_ids": [
+    "2026-08-14:pi-task-compaction:49289654"
+  ],
+  "name": "pi-task-compaction",
+  "slug": "pi-task-compaction",
+  "summary": "A Pi extension that replaces completed task regions with model-generated summaries.",
+  "thing_url": "https://github.com/spott/pi-task-compaction",
+  "times_seen": 1,
+  "why_included": "Its author reported strong compaction results in long real-world sessions."
+}

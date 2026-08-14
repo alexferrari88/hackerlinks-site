@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "talos-linux",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:talos-linux:49286485",
+  "mention_ids": [
+    "2026-08-14:talos-linux:49286485"
+  ],
+  "name": "Talos Linux",
+  "slug": "talos-linux",
+  "summary": "A minimal immutable Linux operating system for Kubernetes clusters.",
+  "thing_url": "https://www.talos.dev/",
+  "times_seen": 1,
+  "why_included": "A home-lab user gave it a direct, positive recommendation based on their own use."
+}

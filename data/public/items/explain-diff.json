@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "explain-diff",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:explain-diff:49290299",
+  "mention_ids": [
+    "2026-08-14:explain-diff:49290299"
+  ],
+  "name": "explain-diff",
+  "slug": "explain-diff",
+  "summary": "A skill that turns code diffs into explanatory documentation.",
+  "thing_url": "https://gist.github.com/geoffreylitt/a29df1b5f9865506e8952488eac3d524",
+  "times_seen": 1,
+  "why_included": "A user reported liking it in their personal software workflow and explicitly recommended trying it."
+}

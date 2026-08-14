@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter said Talos had been great for home use.",
+  "evidence_sources": [
+    {
+      "author": "sudomateo",
+      "comment_id": "49291689",
+      "comment_url": "https://news.ycombinator.com/item?id=49286485#49291689",
+      "context": "first_hand_use",
+      "excerpt": "Talos for home use has been great.",
+      "kind": "recommendation",
+      "parent_comment_id": "49288963"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49286485",
+  "id": "2026-08-14:talos-linux:49286485",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "talos-linux",
+  "rank": 3,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49286485",
+  "source_story_title": "Kubernetes on Oxide: How customer needs shaped our integrations"
+}

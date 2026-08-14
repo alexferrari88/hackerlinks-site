@@ -1,0 +1,22 @@
+{
+  "evidence": "One commenter told Visual Basic-era readers to check out GAMBAS.",
+  "evidence_sources": [
+    {
+      "author": "d3Xt3r",
+      "comment_id": "49291887",
+      "comment_url": "https://news.ycombinator.com/item?id=49289465#49291887",
+      "excerpt": "for the slightly younger folks who have more memories of Visual Basic than QBasic, check out GAMBAS",
+      "kind": "recommendation",
+      "parent_comment_id": "49289804"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49289465",
+  "id": "2026-08-14:gambas:49289465",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "gambas",
+  "rank": 5,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49289465",
+  "source_story_title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory"
+}

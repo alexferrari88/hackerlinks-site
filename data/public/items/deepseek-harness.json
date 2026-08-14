@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "deepseek-harness",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:deepseek-harness:49285244",
+  "mention_ids": [
+    "2026-08-14:deepseek-harness:49285244"
+  ],
+  "name": "DeepSeek Harness",
+  "slug": "deepseek-harness",
+  "summary": "An AI coding harness with traceable sessions and replayable event streams.",
+  "thing_url": "https://deepseek.com/harness/en/",
+  "times_seen": 1,
+  "why_included": "A commenter highlighted its traceability view as unusually useful and said its concepts looked novel."
+}

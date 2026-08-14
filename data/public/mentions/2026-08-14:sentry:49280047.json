@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter said Sentry's commit context made root-cause analysis much easier.",
+  "evidence_sources": [
+    {
+      "author": "bquaresma",
+      "comment_id": "49285951",
+      "comment_url": "https://news.ycombinator.com/item?id=49280047#49285951",
+      "context": "first_hand_use",
+      "excerpt": "Sentry being one of them, and I've found it very useful when those errors include context about which commit introduced the issue.",
+      "kind": "recommendation",
+      "parent_comment_id": "49282413"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49280047",
+  "id": "2026-08-14:sentry:49280047",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "sentry",
+  "rank": 8,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49280047",
+  "source_story_title": "Build Wide, Ship Narrow"
+}

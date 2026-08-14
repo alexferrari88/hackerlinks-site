@@ -1,0 +1,23 @@
+{
+  "evidence": "One commenter said they were using explain-diff, liked it, and recommended at least trying it.",
+  "evidence_sources": [
+    {
+      "author": "dtkav",
+      "comment_id": "49291525",
+      "comment_url": "https://news.ycombinator.com/item?id=49290299#49291525",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Geoffrey's /explain-diff skill in my replace-github-with-tailor-fit-personal-software journey, and I'm liking it. I recommend at least giving it a try.",
+      "kind": "recommendation",
+      "parent_comment_id": "49290299"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49290299",
+  "id": "2026-08-14:explain-diff:49290299",
+  "is_repeat": false,
+  "issue_id": "2026-08-14",
+  "item_id": "explain-diff",
+  "rank": 7,
+  "seen_at": "2026-08-14T05:18:33+02:00",
+  "source_story_id": "49290299",
+  "source_story_title": "Understanding is the new bottleneck"
+}

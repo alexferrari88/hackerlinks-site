@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "bullet",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:bullet:49283063",
+  "mention_ids": [
+    "2026-08-14:bullet:49283063"
+  ],
+  "name": "Bullet",
+  "slug": "bullet",
+  "summary": "A Linux GUI coding agent designed for fast, Codex-style workflows.",
+  "thing_url": "https://www.codewithbullet.com",
+  "times_seen": 1,
+  "why_included": "A Codex CLI user tried it and thought it could be the GUI workflow they had been looking for."
+}

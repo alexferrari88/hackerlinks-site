@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-14T05:18:33+02:00",
+  "id": "amd-radeon-ai-pro-r9700",
+  "last_seen_at": "2026-08-14T05:18:33+02:00",
+  "latest_mention_id": "2026-08-14:amd-radeon-ai-pro-r9700:49288293",
+  "mention_ids": [
+    "2026-08-14:amd-radeon-ai-pro-r9700:49288293"
+  ],
+  "name": "AMD Radeon AI PRO R9700",
+  "slug": "amd-radeon-ai-pro-r9700",
+  "summary": "A 32GB workstation GPU for local AI inference and development.",
+  "thing_url": "https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro/ai-9000-series/amd-radeon-ai-pro-r9700.html",
+  "times_seen": 1,
+  "why_included": "A hands-on AMD GPU owner explicitly recommended current R9700 cards over an older alternative."
+}
