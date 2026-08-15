@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-08-15",
+  "generated_at": "2026-08-15T05:16:29+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-15.json",
+    "sha256": "d7d4fb8ce9da7523828e276c21a7cf19cb6b1fa89af0d84cf34365591e73275c",
+    "bytes": 3164865,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5205,
+    "fetched_item_count": 5235,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "10 concrete, comment-endorsed tools, learning resources, and media picks from a verified full front-page comment crawl.",
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "LuaCAD",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://luacad.ad-si.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49301215",
+      "source_story_title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "summary": "A Lua-scripted parametric CAD tool praised as a welcome alternative to OpenSCAD.",
+      "why_included": "A commenter gave direct approval while contrasting its approach with OpenSCAD's painful syntax.",
+      "evidence": "A commenter said they loved LuaCAD and highlighted dissatisfaction with OpenSCAD's syntax.",
+      "evidence_sources": [{"comment_id":"49302341","comment_url":"https://news.ycombinator.com/item?id=49302341","author":"manny_rat","excerpt":"Love it! OpenSCAD has very painful syntax.","kind":"recommendation","parent_comment_id":"49301215"}]
+    },
+    {
+      "name": "RustDesk",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://rustdesk.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49300759",
+      "source_story_title": "RustDesk now supports true unattended remote access on Wayland",
+      "summary": "An open-source remote-desktop tool with new unattended Wayland access support.",
+      "why_included": "It received concise, unequivocal long-term first-hand praise.",
+      "evidence": "A long-time user said they love RustDesk.",
+      "evidence_sources": [{"comment_id":"49306193","comment_url":"https://news.ycombinator.com/item?id=49306193","author":"j_aime","excerpt":"I've been using rustdesk for years. I love it.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49300759"}]
+    },
+    {
+      "name": "Miniflux",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://miniflux.app",
+      "hn_url": "https://news.ycombinator.com/item?id=49299081",
+      "source_story_title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "summary": "A minimal RSS reader that can fetch full article text and integrate with Wallabag.",
+      "why_included": "A heavy RSS user reported reliable full-text fetching across more than 150 subscriptions.",
+      "evidence": "A commenter said Miniflux works very reliably and fails on fewer than five of their 150-plus feeds.",
+      "evidence_sources": [{"comment_id":"49300832","comment_url":"https://news.ycombinator.com/item?id=49300832","author":"MattTheRealOne","excerpt":"I use Miniflux which has an option to fetch the full article text and works very reliably.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49300505"}]
+    },
+    {
+      "name": "Voyage AI",
+      "category": "AI & Learning",
+      "thing_url": "https://www.voyageai.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49299746",
+      "source_story_title": "Introducing Toast 1",
+      "summary": "An embedding and retrieval-model provider used in a production search workflow.",
+      "why_included": "The evidence is a direct production-use endorsement rather than a topical mention.",
+      "evidence": "A commenter reported using Voyage AI in production.",
+      "evidence_sources": [{"comment_id":"49306455","comment_url":"https://news.ycombinator.com/item?id=49306455","author":"dmix","excerpt":"I've been using https://www.voyageai.com/ for this in production.","kind":"recommendation","context":"production_use","parent_comment_id":"49299746"}]
+    },
+    {
+      "name": "Train your own LLM",
+      "category": "AI & Learning",
+      "thing_url": "https://github.com/angelos-p/llm-from-scratch",
+      "hn_url": "https://news.ycombinator.com/item?id=49300568",
+      "source_story_title": "AI by Hand",
+      "summary": "A hands-on GitHub learning project for building large language models from scratch.",
+      "why_included": "It was explicitly recommended as reading for learning how to build LLMs.",
+      "evidence": "A commenter explicitly recommended the project for learning LLM construction.",
+      "evidence_sources": [{"comment_id":"49303570","comment_url":"https://news.ycombinator.com/item?id=49303570","author":"iamnotarobotman","excerpt":"This is also recommended reading if you want to learn more about building LLMs from scratch: See: Train your own LLM","kind":"recommendation","parent_comment_id":"49300568"}]
+    },
+    {
+      "name": "Deep Learning: A Visual Approach",
+      "category": "AI & Learning",
+      "thing_url": "https://nostarch.com/deep-learning-visual-approach",
+      "hn_url": "https://news.ycombinator.com/item?id=49300568",
+      "source_story_title": "AI by Hand",
+      "summary": "A visual introductory book on deep learning from No Starch Press.",
+      "why_included": "A reader called it an excellent primer on AI foundations.",
+      "evidence": "A commenter described the book as an excellent primer on the foundation of AI.",
+      "evidence_sources": [{"comment_id":"49305238","comment_url":"https://news.ycombinator.com/item?id=49305238","author":"slowin","excerpt":"I found Deep Learning by No Starch Press to be an excellent primer the foundation of AI:","kind":"recommendation","parent_comment_id":"49300568"}]
+    },
+    {
+      "name": "FHE Textbook",
+      "category": "AI & Learning",
+      "thing_url": "https://fhetextbook.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300314",
+      "source_story_title": "Google is making private AI practical with homomorphic encryption",
+      "summary": "An online textbook introducing fully homomorphic encryption concepts and practice.",
+      "why_included": "A commenter identified it as the resource they used to learn the topic.",
+      "evidence": "A commenter said they used the FHE Textbook to learn how the technology works.",
+      "evidence_sources": [{"comment_id":"49305792","comment_url":"https://news.ycombinator.com/item?id=49305792","author":"magios","excerpt":"https://fhetextbook.github.io/ which i believe was linked on this website previous is what i used to learn about how this stuff works.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49300314"}]
+    },
+    {
+      "name": "OneLook Thesaurus",
+      "category": "Reading & Reference",
+      "thing_url": "https://www.onelook.com/thesaurus/",
+      "hn_url": "https://news.ycombinator.com/item?id=49299675",
+      "source_story_title": "Seven books I keep close because I love them",
+      "summary": "A web thesaurus and word-finding assistant for choosing more precise language.",
+      "why_included": "It received a clear first-hand endorsement as a long-running go-to word tool.",
+      "evidence": "A commenter called OneLook Thesaurus their go-to digital word-picking assistant.",
+      "evidence_sources": [{"comment_id":"49301317","comment_url":"https://news.ycombinator.com/item?id=49301317","author":"cryzinger","excerpt":"my go-to digital word picking assistant has always been OneLook Thesaurus","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49300277"}]
+    },
+    {
+      "name": "Volts",
+      "category": "Media & Publishing",
+      "thing_url": "https://www.volts.wtf/p/how-to-make-rooftop-solar-power-as",
+      "hn_url": "https://news.ycombinator.com/item?id=49298910",
+      "source_story_title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "summary": "An energy-policy podcast episode about making rooftop solar power affordable.",
+      "why_included": "A commenter called the episode very good and specifically worth listening to.",
+      "evidence": "A commenter recommended this Volts episode as worth listening to.",
+      "evidence_sources": [{"comment_id":"49299234","comment_url":"https://news.ycombinator.com/item?id=49299234","author":"black_puppydog","excerpt":"As ever, Volts did a really good episode on this:","kind":"recommendation","parent_comment_id":"49298910"}]
+    },
+    {
+      "name": "Differential Heuristics",
+      "category": "Programming & Verification",
+      "thing_url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49231490",
+      "source_story_title": "Differential Heuristics",
+      "summary": "A Red Blob Games exploration of pathfinding heuristics using differential landmarks.",
+      "why_included": "A reader praised the explanation as assumption-changing and called the technique handy.",
+      "evidence": "A commenter called the write-up very good and the technique a very handy tool.",
+      "evidence_sources": [{"comment_id":"49297756","comment_url":"https://news.ycombinator.com/item?id=49297756","author":"plomme","excerpt":"Very good write up, as always, from Red Blob. It turned my high-level assumption on Google Maps pathfinding upside down.","kind":"recommendation","parent_comment_id":"49231490"}]
+    }
+  ]
+}

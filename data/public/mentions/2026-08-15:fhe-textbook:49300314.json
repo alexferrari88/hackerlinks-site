@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they used the FHE Textbook to learn how the technology works.",
+  "evidence_sources": [
+    {
+      "author": "magios",
+      "comment_id": "49305792",
+      "comment_url": "https://news.ycombinator.com/item?id=49305792",
+      "context": "first_hand_use",
+      "excerpt": "https://fhetextbook.github.io/ which i believe was linked on this website previous is what i used to learn about how this stuff works.",
+      "kind": "recommendation",
+      "parent_comment_id": "49300314"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49300314",
+  "id": "2026-08-15:fhe-textbook:49300314",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "fhe-textbook",
+  "rank": 7,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49300314",
+  "source_story_title": "Google is making private AI practical with homomorphic encryption"
+}

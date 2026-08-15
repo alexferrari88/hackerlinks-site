@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "miniflux",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:miniflux:49299081",
+  "mention_ids": [
+    "2026-08-15:miniflux:49299081"
+  ],
+  "name": "Miniflux",
+  "slug": "miniflux",
+  "summary": "A minimal RSS reader that can fetch full article text and integrate with Wallabag.",
+  "thing_url": "https://miniflux.app",
+  "times_seen": 1,
+  "why_included": "A heavy RSS user reported reliable full-text fetching across more than 150 subscriptions."
+}

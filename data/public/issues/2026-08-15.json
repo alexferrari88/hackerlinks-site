@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T05:16:29+02:00",
+  "headline": "10 interesting things surfaced from HN on 2026-08-15",
+  "id": "2026-08-15",
+  "mention_ids": [
+    "2026-08-15:luacad:49301215",
+    "2026-08-15:rustdesk:49300759",
+    "2026-08-15:miniflux:49299081",
+    "2026-08-15:voyage-ai:49299746",
+    "2026-08-15:train-your-own-llm:49300568",
+    "2026-08-15:deep-learning-a-visual-approach:49300568",
+    "2026-08-15:fhe-textbook:49300314",
+    "2026-08-15:onelook-thesaurus:49299675",
+    "2026-08-15:volts:49298910",
+    "2026-08-15:differential-heuristics:49231490"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

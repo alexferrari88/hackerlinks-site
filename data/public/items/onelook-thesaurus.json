@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "onelook-thesaurus",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:onelook-thesaurus:49299675",
+  "mention_ids": [
+    "2026-08-15:onelook-thesaurus:49299675"
+  ],
+  "name": "OneLook Thesaurus",
+  "slug": "onelook-thesaurus",
+  "summary": "A web thesaurus and word-finding assistant for choosing more precise language.",
+  "thing_url": "https://www.onelook.com/thesaurus/",
+  "times_seen": 1,
+  "why_included": "It received a clear first-hand endorsement as a long-running go-to word tool."
+}

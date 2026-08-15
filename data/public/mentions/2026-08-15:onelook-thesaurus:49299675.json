@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called OneLook Thesaurus their go-to digital word-picking assistant.",
+  "evidence_sources": [
+    {
+      "author": "cryzinger",
+      "comment_id": "49301317",
+      "comment_url": "https://news.ycombinator.com/item?id=49301317",
+      "context": "first_hand_use",
+      "excerpt": "my go-to digital word picking assistant has always been OneLook Thesaurus",
+      "kind": "recommendation",
+      "parent_comment_id": "49300277"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49299675",
+  "id": "2026-08-15:onelook-thesaurus:49299675",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "onelook-thesaurus",
+  "rank": 8,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49299675",
+  "source_story_title": "Seven books I keep close because I love them"
+}

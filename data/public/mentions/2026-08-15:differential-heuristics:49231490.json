@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the write-up very good and the technique a very handy tool.",
+  "evidence_sources": [
+    {
+      "author": "plomme",
+      "comment_id": "49297756",
+      "comment_url": "https://news.ycombinator.com/item?id=49297756",
+      "excerpt": "Very good write up, as always, from Red Blob. It turned my high-level assumption on Google Maps pathfinding upside down.",
+      "kind": "recommendation",
+      "parent_comment_id": "49231490"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49231490",
+  "id": "2026-08-15:differential-heuristics:49231490",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "differential-heuristics",
+  "rank": 10,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49231490",
+  "source_story_title": "Differential Heuristics"
+}

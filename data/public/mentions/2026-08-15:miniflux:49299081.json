@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said Miniflux works very reliably and fails on fewer than five of their 150-plus feeds.",
+  "evidence_sources": [
+    {
+      "author": "MattTheRealOne",
+      "comment_id": "49300832",
+      "comment_url": "https://news.ycombinator.com/item?id=49300832",
+      "context": "first_hand_use",
+      "excerpt": "I use Miniflux which has an option to fetch the full article text and works very reliably.",
+      "kind": "recommendation",
+      "parent_comment_id": "49300505"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49299081",
+  "id": "2026-08-15:miniflux:49299081",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "miniflux",
+  "rank": 3,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49299081",
+  "source_story_title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
+}

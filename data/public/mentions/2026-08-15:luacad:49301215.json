@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said they loved LuaCAD and highlighted dissatisfaction with OpenSCAD's syntax.",
+  "evidence_sources": [
+    {
+      "author": "manny_rat",
+      "comment_id": "49302341",
+      "comment_url": "https://news.ycombinator.com/item?id=49302341",
+      "excerpt": "Love it! OpenSCAD has very painful syntax.",
+      "kind": "recommendation",
+      "parent_comment_id": "49301215"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49301215",
+  "id": "2026-08-15:luacad:49301215",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "luacad",
+  "rank": 1,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49301215",
+  "source_story_title": "Show HN: LuaCAD \u2013 Parametric CAD Scripted in Lua"
+}

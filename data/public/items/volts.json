@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "volts",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:volts:49298910",
+  "mention_ids": [
+    "2026-08-15:volts:49298910"
+  ],
+  "name": "Volts",
+  "slug": "volts",
+  "summary": "An energy-policy podcast episode about making rooftop solar power affordable.",
+  "thing_url": "https://www.volts.wtf/p/how-to-make-rooftop-solar-power-as",
+  "times_seen": 1,
+  "why_included": "A commenter called the episode very good and specifically worth listening to."
+}

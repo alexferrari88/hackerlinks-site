@@ -1,0 +1,23 @@
+{
+  "evidence": "A long-time user said they love RustDesk.",
+  "evidence_sources": [
+    {
+      "author": "j_aime",
+      "comment_id": "49306193",
+      "comment_url": "https://news.ycombinator.com/item?id=49306193",
+      "context": "first_hand_use",
+      "excerpt": "I've been using rustdesk for years. I love it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49300759"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49300759",
+  "id": "2026-08-15:rustdesk:49300759",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "rustdesk",
+  "rank": 2,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49300759",
+  "source_story_title": "RustDesk now supports true unattended remote access on Wayland"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter explicitly recommended the project for learning LLM construction.",
+  "evidence_sources": [
+    {
+      "author": "iamnotarobotman",
+      "comment_id": "49303570",
+      "comment_url": "https://news.ycombinator.com/item?id=49303570",
+      "excerpt": "This is also recommended reading if you want to learn more about building LLMs from scratch: See: Train your own LLM",
+      "kind": "recommendation",
+      "parent_comment_id": "49300568"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49300568",
+  "id": "2026-08-15:train-your-own-llm:49300568",
+  "is_repeat": false,
+  "issue_id": "2026-08-15",
+  "item_id": "train-your-own-llm",
+  "rank": 5,
+  "seen_at": "2026-08-15T05:16:29+02:00",
+  "source_story_id": "49300568",
+  "source_story_title": "AI by Hand"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "fhe-textbook",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:fhe-textbook:49300314",
+  "mention_ids": [
+    "2026-08-15:fhe-textbook:49300314"
+  ],
+  "name": "FHE Textbook",
+  "slug": "fhe-textbook",
+  "summary": "An online textbook introducing fully homomorphic encryption concepts and practice.",
+  "thing_url": "https://fhetextbook.github.io/",
+  "times_seen": 1,
+  "why_included": "A commenter identified it as the resource they used to learn the topic."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "luacad",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:luacad:49301215",
+  "mention_ids": [
+    "2026-08-15:luacad:49301215"
+  ],
+  "name": "LuaCAD",
+  "slug": "luacad",
+  "summary": "A Lua-scripted parametric CAD tool praised as a welcome alternative to OpenSCAD.",
+  "thing_url": "https://luacad.ad-si.com",
+  "times_seen": 1,
+  "why_included": "A commenter gave direct approval while contrasting its approach with OpenSCAD's painful syntax."
+}

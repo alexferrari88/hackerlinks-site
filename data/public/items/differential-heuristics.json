@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "differential-heuristics",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:differential-heuristics:49231490",
+  "mention_ids": [
+    "2026-08-15:differential-heuristics:49231490"
+  ],
+  "name": "Differential Heuristics",
+  "slug": "differential-heuristics",
+  "summary": "A Red Blob Games exploration of pathfinding heuristics using differential landmarks.",
+  "thing_url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+  "times_seen": 1,
+  "why_included": "A reader praised the explanation as assumption-changing and called the technique handy."
+}

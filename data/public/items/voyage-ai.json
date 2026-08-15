@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "voyage-ai",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:voyage-ai:49299746",
+  "mention_ids": [
+    "2026-08-15:voyage-ai:49299746"
+  ],
+  "name": "Voyage AI",
+  "slug": "voyage-ai",
+  "summary": "An embedding and retrieval-model provider used in a production search workflow.",
+  "thing_url": "https://www.voyageai.com/",
+  "times_seen": 1,
+  "why_included": "The evidence is a direct production-use endorsement rather than a topical mention."
+}

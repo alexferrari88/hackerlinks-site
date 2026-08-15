@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-15T05:16:29+02:00",
+  "id": "train-your-own-llm",
+  "last_seen_at": "2026-08-15T05:16:29+02:00",
+  "latest_mention_id": "2026-08-15:train-your-own-llm:49300568",
+  "mention_ids": [
+    "2026-08-15:train-your-own-llm:49300568"
+  ],
+  "name": "Train your own LLM",
+  "slug": "train-your-own-llm",
+  "summary": "A hands-on GitHub learning project for building large language models from scratch.",
+  "thing_url": "https://github.com/angelos-p/llm-from-scratch",
+  "times_seen": 1,
+  "why_included": "It was explicitly recommended as reading for learning how to build LLMs."
+}

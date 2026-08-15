@@ -7117,6 +7117,66 @@
       "first_reported_at": "2026-08-14T05:18:33+02:00",
       "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "LuaCAD",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "RustDesk",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Miniflux",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Voyage AI",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Train your own LLM",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Deep Learning: A Visual Approach",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "FHE Textbook",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OneLook Thesaurus",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Volts",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Differential Heuristics",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
     }
   ]
 }
