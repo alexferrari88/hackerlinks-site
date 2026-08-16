@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-16T05:17:40+02:00",
+  "id": "fugashi",
+  "last_seen_at": "2026-08-16T05:17:40+02:00",
+  "latest_mention_id": "2026-08-16:fugashi:49310926",
+  "mention_ids": [
+    "2026-08-16:fugashi:49310926"
+  ],
+  "name": "Fugashi",
+  "slug": "fugashi",
+  "summary": "A Python wrapper for MeCab, a Japanese-language tokenizer.",
+  "thing_url": "https://github.com/polm/fugashi",
+  "times_seen": 1,
+  "why_included": "The package was singled out within a strongly positive first-hand account of Japanese NLP work."
+}

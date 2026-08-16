@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-16T05:17:40+02:00",
+  "id": "bezier-curves",
+  "last_seen_at": "2026-08-16T05:17:40+02:00",
+  "latest_mention_id": "2026-08-16:bezier-curves:49237183",
+  "mention_ids": [
+    "2026-08-16:bezier-curves:49237183"
+  ],
+  "name": "B\u00e9zier Curves",
+  "slug": "bezier-curves",
+  "summary": "An interactive explainer on B\u00e9zier curves, their geometry, and visual construction.",
+  "thing_url": "https://jamie-wong.com/post/bezier-curves/",
+  "times_seen": 1,
+  "why_included": "A commenter credited its explainers and animations with surpassing every alternative they found."
+}

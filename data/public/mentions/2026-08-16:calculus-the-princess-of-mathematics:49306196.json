@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the two-volume set a must-have and praised its emphasis on understanding calculus.",
+  "evidence_sources": [
+    {
+      "author": "rramadass",
+      "comment_id": "49308281",
+      "comment_url": "https://news.ycombinator.com/item?id=49306196#49308281",
+      "excerpt": "Calculus: The Princess of Mathematics by H.C.Verma et al. A two-vol must-have affordable set.",
+      "kind": "recommendation",
+      "parent_comment_id": "49306196"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49306196",
+  "id": "2026-08-16:calculus-the-princess-of-mathematics:49306196",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "calculus-the-princess-of-mathematics",
+  "rank": 10,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49306196",
+  "source_story_title": "Simplifying and Refactoring Introductory Calculus (2018)"
+}

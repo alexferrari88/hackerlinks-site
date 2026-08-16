@@ -1,0 +1,154 @@
+{
+  "version": 2,
+  "run_date": "2026-08-16",
+  "generated_at": "2026-08-16T05:17:40+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-16.json",
+    "sha256": "9855d7da27160778c0ab8551d971bdfa034cc39da558d6f61139cbe452bf8ac4",
+    "bytes": 1810657,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 2767,
+    "fetched_item_count": 2797,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": {"items_surfaced": 10, "stories_scraped": 30, "stories_total": 30},
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Eigendrum",
+      "category": "Creative Tools & Games",
+      "thing_url": "https://baselashraf81.github.io/eigendrum/",
+      "hn_url": "https://news.ycombinator.com/item?id=49246366",
+      "source_story_title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "summary": "A browser drum visualizer that turns drawn shapes into resonant sounds.",
+      "why_included": "Two commenters directly praised the interactive visualizer as brilliant and revealing.",
+      "evidence": "Commenters called Eigendrum brilliant and a great visualizer tool, with one saying it revealed a connection to cymatics.",
+      "evidence_sources": [
+        {"comment_id": "49314246", "comment_url": "https://news.ycombinator.com/item?id=49246366#49314246", "author": "peter_d_sherman", "excerpt": "What a great visualizer tool!", "kind": "recommendation", "parent_comment_id": "49246366"},
+        {"comment_id": "49309633", "comment_url": "https://news.ycombinator.com/item?id=49246366#49309633", "author": "rpastuszak", "excerpt": "This is brilliant!", "kind": "recommendation", "parent_comment_id": "49246366"}
+      ]
+    },
+    {
+      "name": "Silent Shark",
+      "category": "Creative Tools & Games",
+      "thing_url": "https://silentshark.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49277535",
+      "source_story_title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
+      "summary": "A tactical map-based World War II submarine simulation game with native Linux support.",
+      "why_included": "A purchaser gave unusually concrete first-hand praise for both the game and tutorial.",
+      "evidence": "A buyer said Silent Shark was really fun and that its tutorial was great after trying the Linux version.",
+      "evidence_sources": [
+        {"comment_id": "49309301", "comment_url": "https://news.ycombinator.com/item?id=49277535#49309301", "author": "marvinblum", "excerpt": "I bought it a few days ago. Thank you for including native Linux support <3 So far, it's really fun and the tutorial is great!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49277535"}
+      ]
+    },
+    {
+      "name": "Racket",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://racket-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49302562",
+      "source_story_title": "Racket v9.3",
+      "summary": "A language-oriented programming language with a featureful runtime and standard library.",
+      "why_included": "A decade-long maintainer described substantial real-world use and concrete strengths.",
+      "evidence": "A long-time Racket user praised its runtime, standard library, threading, FFI, and macro design.",
+      "evidence_sources": [
+        {"comment_id": "49307696", "comment_url": "https://news.ycombinator.com/item?id=49302562#49307696", "author": "pavpanchekha", "excerpt": "Racket is great! The runtime is reasonably fast, and the standard library is exceptionally featureful", "kind": "recommendation", "context": "production_use", "parent_comment_id": "49302562"}
+      ]
+    },
+    {
+      "name": "Fugashi",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/polm/fugashi",
+      "hn_url": "https://news.ycombinator.com/item?id=49310926",
+      "source_story_title": "A spectre is haunting Unicode",
+      "summary": "A Python wrapper for MeCab, a Japanese-language tokenizer.",
+      "why_included": "The package was singled out within a strongly positive first-hand account of Japanese NLP work.",
+      "evidence": "A language-learning developer said Paul McCann's Japanese NLP work had really helped their projects and identified Fugashi as his MeCab wrapper.",
+      "evidence_sources": [
+        {"comment_id": "49312152", "comment_url": "https://news.ycombinator.com/item?id=49310926#49312152", "author": "joshdavham", "excerpt": "He’s done awesome work in the Japanese NLP space over the last decade which has really helped me in my language learning projects. He maintains a mecab (Japanese tokenizer) wrapper for Python", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49310926"}
+      ]
+    },
+    {
+      "name": "HitchStory",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/hitchdev/hitchstory",
+      "hn_url": "https://news.ycombinator.com/item?id=49310495",
+      "source_story_title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "summary": "A typed YAML story framework for executable integration-test specifications.",
+      "why_included": "A practitioner preferred it over Cucumber because its YAML stories are terse and typed.",
+      "evidence": "A commenter described using HitchStory for YAML-based stories and valued its terse, typed format.",
+      "evidence_sources": [
+        {"comment_id": "49315004", "comment_url": "https://news.ycombinator.com/item?id=49310495#49315004", "author": "MoreQARespect", "excerpt": "I used hitchstory (YAML based stories) for doing this coz it's terse and typed.", "kind": "comparison", "context": "first_hand_use", "parent_comment_id": "49313331"}
+      ]
+    },
+    {
+      "name": "Messerschmitt’s Remarkably Good Supersonic Fighter",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=nqIpJuqvsWQ",
+      "hn_url": "https://news.ycombinator.com/item?id=49271382",
+      "source_story_title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
+      "summary": "A YouTube documentary about the Helwan HA-300 and its Cold War origins.",
+      "why_included": "A commenter explicitly called the documentary pretty good and linked it as their entry point.",
+      "evidence": "A commenter said they first learned of the Helwan HA-300 through this pretty good YouTube documentary.",
+      "evidence_sources": [
+        {"comment_id": "49309732", "comment_url": "https://news.ycombinator.com/item?id=49271382#49309732", "author": "somat", "excerpt": "I First heard of the project via a pretty good youtube documentary", "kind": "recommendation", "parent_comment_id": "49271382"}
+      ]
+    },
+    {
+      "name": "Bézier Curves",
+      "category": "Watch & Learn",
+      "thing_url": "https://jamie-wong.com/post/bezier-curves/",
+      "hn_url": "https://news.ycombinator.com/item?id=49237183",
+      "source_story_title": "The mathematical beauty of hyperbezier curves",
+      "summary": "An interactive explainer on Bézier curves, their geometry, and visual construction.",
+      "why_included": "A commenter credited its explainers and animations with surpassing every alternative they found.",
+      "evidence": "A commenter revisited the explainer years later and said its animations were leagues beyond any other resource they found.",
+      "evidence_sources": [
+        {"comment_id": "49310489", "comment_url": "https://news.ycombinator.com/item?id=49237183#49310489", "author": "momojo", "excerpt": "This guy's explainers and animations were leagues beyond any other resource I could find through Google searc at the time.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49237183"}
+      ]
+    },
+    {
+      "name": "Calculus: Basic Concepts for High Schools",
+      "category": "Books & Learning",
+      "thing_url": "https://mirtitles.org/2018/09/04/calculus-basic-concepts-for-high-schools/",
+      "hn_url": "https://news.ycombinator.com/item?id=49306196",
+      "source_story_title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "summary": "A dialogue-style introductory calculus book by Lev Tarasov.",
+      "why_included": "It received the strongest direct book endorsement in a concrete calculus reading list.",
+      "evidence": "A commenter called Tarasov's dialogue-style calculus book absolutely fantastic.",
+      "evidence_sources": [
+        {"comment_id": "49308281", "comment_url": "https://news.ycombinator.com/item?id=49306196#49308281", "author": "rramadass", "excerpt": "Calculus: Basic Concepts for High Schools by Lev Tarasov. Soviet-era book written as a dialogue between the author and reader. Absolutely fantastic", "kind": "recommendation", "parent_comment_id": "49306196"}
+      ]
+    },
+    {
+      "name": "Calculus: An Intuitive and Physical Approach",
+      "category": "Books & Learning",
+      "thing_url": "https://store.doverpublications.com/products/9780486404530",
+      "hn_url": "https://news.ycombinator.com/item?id=49306196",
+      "source_story_title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "summary": "A classic introductory calculus book by Morris Kline.",
+      "why_included": "It was explicitly recommended as a classic, alongside a broader endorsement of its author.",
+      "evidence": "A commenter described Kline's book as a classic and said any book by Morris Kline is a must-have.",
+      "evidence_sources": [
+        {"comment_id": "49308281", "comment_url": "https://news.ycombinator.com/item?id=49306196#49308281", "author": "rramadass", "excerpt": "Calculus: An Intuitive and Physical Approach by Morris Kline. A classic; any book by Morris Kline is a must-have", "kind": "recommendation", "parent_comment_id": "49306196"}
+      ]
+    },
+    {
+      "name": "Calculus: The Princess of Mathematics",
+      "category": "Books & Learning",
+      "thing_url": "https://garudalife.in/calculus-the-princess-of-mathematics-volume-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49306196",
+      "source_story_title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "summary": "A two-volume introductory calculus set by H. C. Verma and collaborators.",
+      "why_included": "The commenter recommended it as an affordable, student-focused alternative to typical textbooks.",
+      "evidence": "A commenter called the two-volume set a must-have and praised its emphasis on understanding calculus.",
+      "evidence_sources": [
+        {"comment_id": "49308281", "comment_url": "https://news.ycombinator.com/item?id=49306196#49308281", "author": "rramadass", "excerpt": "Calculus: The Princess of Mathematics by H.C.Verma et al. A two-vol must-have affordable set.", "kind": "recommendation", "parent_comment_id": "49306196"}
+      ]
+    }
+  ]
+}

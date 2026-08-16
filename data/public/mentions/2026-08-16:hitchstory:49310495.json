@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter described using HitchStory for YAML-based stories and valued its terse, typed format.",
+  "evidence_sources": [
+    {
+      "author": "MoreQARespect",
+      "comment_id": "49315004",
+      "comment_url": "https://news.ycombinator.com/item?id=49310495#49315004",
+      "context": "first_hand_use",
+      "excerpt": "I used hitchstory (YAML based stories) for doing this coz it's terse and typed.",
+      "kind": "comparison",
+      "parent_comment_id": "49313331"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49310495",
+  "id": "2026-08-16:hitchstory:49310495",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "hitchstory",
+  "rank": 5,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49310495",
+  "source_story_title": "Yadda 3.0.0: BDD in the Age of AI Agents"
+}

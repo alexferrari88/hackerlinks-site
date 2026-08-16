@@ -1,0 +1,23 @@
+{
+  "evidence": "A language-learning developer said Paul McCann's Japanese NLP work had really helped their projects and identified Fugashi as his MeCab wrapper.",
+  "evidence_sources": [
+    {
+      "author": "joshdavham",
+      "comment_id": "49312152",
+      "comment_url": "https://news.ycombinator.com/item?id=49310926#49312152",
+      "context": "first_hand_use",
+      "excerpt": "He\u2019s done awesome work in the Japanese NLP space over the last decade which has really helped me in my language learning projects. He maintains a mecab (Japanese tokenizer) wrapper for Python",
+      "kind": "recommendation",
+      "parent_comment_id": "49310926"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49310926",
+  "id": "2026-08-16:fugashi:49310926",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "fugashi",
+  "rank": 4,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49310926",
+  "source_story_title": "A spectre is haunting Unicode"
+}

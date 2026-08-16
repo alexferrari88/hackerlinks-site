@@ -1,0 +1,30 @@
+{
+  "evidence": "Commenters called Eigendrum brilliant and a great visualizer tool, with one saying it revealed a connection to cymatics.",
+  "evidence_sources": [
+    {
+      "author": "peter_d_sherman",
+      "comment_id": "49314246",
+      "comment_url": "https://news.ycombinator.com/item?id=49246366#49314246",
+      "excerpt": "What a great visualizer tool!",
+      "kind": "recommendation",
+      "parent_comment_id": "49246366"
+    },
+    {
+      "author": "rpastuszak",
+      "comment_id": "49309633",
+      "comment_url": "https://news.ycombinator.com/item?id=49246366#49309633",
+      "excerpt": "This is brilliant!",
+      "kind": "recommendation",
+      "parent_comment_id": "49246366"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49246366",
+  "id": "2026-08-16:eigendrum:49246366",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "eigendrum",
+  "rank": 1,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49246366",
+  "source_story_title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum"
+}

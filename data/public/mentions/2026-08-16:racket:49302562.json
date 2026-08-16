@@ -1,0 +1,23 @@
+{
+  "evidence": "A long-time Racket user praised its runtime, standard library, threading, FFI, and macro design.",
+  "evidence_sources": [
+    {
+      "author": "pavpanchekha",
+      "comment_id": "49307696",
+      "comment_url": "https://news.ycombinator.com/item?id=49302562#49307696",
+      "context": "production_use",
+      "excerpt": "Racket is great! The runtime is reasonably fast, and the standard library is exceptionally featureful",
+      "kind": "recommendation",
+      "parent_comment_id": "49302562"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49302562",
+  "id": "2026-08-16:racket:49302562",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "racket",
+  "rank": 3,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49302562",
+  "source_story_title": "Racket v9.3"
+}

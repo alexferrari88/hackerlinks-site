@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter revisited the explainer years later and said its animations were leagues beyond any other resource they found.",
+  "evidence_sources": [
+    {
+      "author": "momojo",
+      "comment_id": "49310489",
+      "comment_url": "https://news.ycombinator.com/item?id=49237183#49310489",
+      "context": "first_hand_use",
+      "excerpt": "This guy's explainers and animations were leagues beyond any other resource I could find through Google searc at the time.",
+      "kind": "recommendation",
+      "parent_comment_id": "49237183"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49237183",
+  "id": "2026-08-16:bezier-curves:49237183",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "bezier-curves",
+  "rank": 7,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49237183",
+  "source_story_title": "The mathematical beauty of hyperbezier curves"
+}

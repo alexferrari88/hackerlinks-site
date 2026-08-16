@@ -1,0 +1,23 @@
+{
+  "evidence": "A buyer said Silent Shark was really fun and that its tutorial was great after trying the Linux version.",
+  "evidence_sources": [
+    {
+      "author": "marvinblum",
+      "comment_id": "49309301",
+      "comment_url": "https://news.ycombinator.com/item?id=49277535#49309301",
+      "context": "first_hand_use",
+      "excerpt": "I bought it a few days ago. Thank you for including native Linux support <3 So far, it's really fun and the tutorial is great!",
+      "kind": "recommendation",
+      "parent_comment_id": "49277535"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49277535",
+  "id": "2026-08-16:silent-shark:49277535",
+  "is_repeat": false,
+  "issue_id": "2026-08-16",
+  "item_id": "silent-shark",
+  "rank": 2,
+  "seen_at": "2026-08-16T05:17:40+02:00",
+  "source_story_id": "49277535",
+  "source_story_title": "Show HN: Silent Shark \u2013 tactical map-based WWII submarine sim"
+}

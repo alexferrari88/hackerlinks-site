@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-16T05:17:40+02:00",
+  "id": "racket",
+  "last_seen_at": "2026-08-16T05:17:40+02:00",
+  "latest_mention_id": "2026-08-16:racket:49302562",
+  "mention_ids": [
+    "2026-08-16:racket:49302562"
+  ],
+  "name": "Racket",
+  "slug": "racket",
+  "summary": "A language-oriented programming language with a featureful runtime and standard library.",
+  "thing_url": "https://racket-lang.org/",
+  "times_seen": 1,
+  "why_included": "A decade-long maintainer described substantial real-world use and concrete strengths."
+}

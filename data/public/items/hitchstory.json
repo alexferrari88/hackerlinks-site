@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-16T05:17:40+02:00",
+  "id": "hitchstory",
+  "last_seen_at": "2026-08-16T05:17:40+02:00",
+  "latest_mention_id": "2026-08-16:hitchstory:49310495",
+  "mention_ids": [
+    "2026-08-16:hitchstory:49310495"
+  ],
+  "name": "HitchStory",
+  "slug": "hitchstory",
+  "summary": "A typed YAML story framework for executable integration-test specifications.",
+  "thing_url": "https://github.com/hitchdev/hitchstory",
+  "times_seen": 1,
+  "why_included": "A practitioner preferred it over Cucumber because its YAML stories are terse and typed."
+}
