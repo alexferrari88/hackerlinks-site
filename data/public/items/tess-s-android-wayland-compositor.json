@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-17T05:17:04+02:00",
+  "id": "tess-s-android-wayland-compositor",
+  "last_seen_at": "2026-08-17T05:17:04+02:00",
+  "latest_mention_id": "2026-08-17:tess-s-android-wayland-compositor:49313068",
+  "mention_ids": [
+    "2026-08-17:tess-s-android-wayland-compositor:49313068"
+  ],
+  "name": "Tess's Android Wayland Compositor",
+  "slug": "tess-s-android-wayland-compositor",
+  "summary": "An Android Wayland compositor project for running Linux desktop applications on Android.",
+  "thing_url": "https://github.com/wmww/tawc",
+  "times_seen": 1,
+  "why_included": "The project received direct positive reaction for its potential on foldable devices."
+}

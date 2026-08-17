@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-08-17",
+  "generated_at": "2026-08-17T05:17:04+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-17.json",
+    "sha256": "bd653aeda1e4b6f82f2e21b4a7bf00d2f10bbf65c70f335e450f31fad0ab3f68",
+    "bytes": 1968438,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3176,
+    "fetched_item_count": 3206,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Eight concrete, comment-endorsed tools and projects surfaced from a complete 30-story HN front-page crawl.",
+  "telegram_footer": "8 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Testafize",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/brian-learns/testafize",
+      "hn_url": "https://news.ycombinator.com/item?id=49314902",
+      "source_story_title": "Software Engineering fundamentals matter more",
+      "summary": "A Python-project template that establishes tests and automated checks before coding.",
+      "why_included": "A commenter described repeat use for generated projects and a successful Python 2 migration.",
+      "evidence": "One developer uses Testafize as a starting template and reports that its check workflow also helped migrate an old Python 2 script.",
+      "evidence_sources": [{"comment_id": "49322710", "comment_url": "https://news.ycombinator.com/item?id=49314902#49322710", "author": "tingletech", "excerpt": "I have a template I use with generated python projects that sets up all the test info first. https://github.com/brian-learns/testafize", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49317049"}]
+    },
+    {
+      "name": "Numba",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://numba.pydata.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49269451",
+      "source_story_title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
+      "summary": "A Python JIT compiler for writing NumPy-like code with native-speed execution.",
+      "why_included": "A detailed first-hand endorsement explained its practical performance-versus-ergonomics trade-off.",
+      "evidence": "A commenter praised Numba for letting them retain a NumPy-like workflow while getting bytecode-level performance, while noting its sizable installation footprint.",
+      "evidence_sources": [{"comment_id": "49317231", "comment_url": "https://news.ycombinator.com/item?id=49269451#49317231", "author": "momojo", "excerpt": "Numba is a little magic because you get to write stuff that feels like numpy, but get literal bytecode perf.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49269451"}]
+    },
+    {
+      "name": "tinygrad",
+      "category": "🤖 AI & Local Models",
+      "thing_url": "https://tinygrad.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49292385",
+      "source_story_title": "Chestnut – eGPU dock with open-source firmware",
+      "summary": "A lightweight neural-network framework for running deep-learning workloads across hardware.",
+      "why_included": "A user gave a clear cross-platform, first-hand reliability endorsement.",
+      "evidence": "A commenter said the setup works well with tinygrad across Mac, Windows, and Linux.",
+      "evidence_sources": [{"comment_id": "49319735", "comment_url": "https://news.ycombinator.com/item?id=49292385#49319735", "author": "rvz", "excerpt": "I can rest assured that when I use this on any machine running Mac, Windows or Linux, I know it just works well with tinygrad.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49292385"}]
+    },
+    {
+      "name": "Tess's Android Wayland Compositor",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://github.com/wmww/tawc",
+      "hn_url": "https://news.ycombinator.com/item?id=49313068",
+      "source_story_title": "Tess's Android Wayland Compositor",
+      "summary": "An Android Wayland compositor project for running Linux desktop applications on Android.",
+      "why_included": "The project received direct positive reaction for its potential on foldable devices.",
+      "evidence": "A commenter called the compositor cool and highlighted the prospect of running interesting applications on foldables.",
+      "evidence_sources": [{"comment_id": "49314676", "comment_url": "https://news.ycombinator.com/item?id=49313068#49314676", "author": "alex7o", "excerpt": "Oh that Is cool especially on a foldable you can run some interesting apps on it.", "kind": "recommendation", "parent_comment_id": "49313068"}]
+    },
+    {
+      "name": "CircuitJS",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://www.falstad.com/circuit/circuitjs.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49316872",
+      "source_story_title": "Falstad Math and Physics Simulations",
+      "summary": "A browser-based circuit simulator for interactive electronics prototyping and probing.",
+      "why_included": "A regular user gave a specific workflow comparison against SPICE simulators.",
+      "evidence": "A commenter regularly uses CircuitJS for prototyping because components can be modified and probed in real time, then uses SPICE for final checking.",
+      "evidence_sources": [{"comment_id": "49318605", "comment_url": "https://news.ycombinator.com/item?id=49316872#49318605", "author": "peterus", "excerpt": "He also made circuitjs, a very useful circuit simulator which I regularly use for prototyping.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49316872"}]
+    },
+    {
+      "name": "Nightscout",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://nightscout.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49314884",
+      "source_story_title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "summary": "A self-hostable platform for viewing and managing continuous glucose-monitor data.",
+      "why_included": "The recommendation was specific about self-hosting and practical glucose-monitor support.",
+      "evidence": "A commenter called Nightscout an awesome self-hostable tool for continuous glucose-monitor workflows.",
+      "evidence_sources": [{"comment_id": "49316160", "comment_url": "https://news.ycombinator.com/item?id=49314884#49316160", "author": "VoidWhisperer", "excerpt": "Nightscout is an awesome tool because it can be self-hosted", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49314884"}]
+    },
+    {
+      "name": "Everything is a Remix",
+      "category": "🎥 Watch & Learn",
+      "thing_url": "https://www.everythingisaremix.info/",
+      "hn_url": "https://news.ycombinator.com/item?id=49316271",
+      "source_story_title": "Patterns and problems in emerging multi-agent systems",
+      "summary": "A video essay series about creativity, influence, and the reuse of existing ideas.",
+      "why_included": "It received an unambiguous recommendation as useful context for understanding creative work.",
+      "evidence": "A commenter highly recommended the series as a way to see how creative work combines existing material.",
+      "evidence_sources": [{"comment_id": "49319517", "comment_url": "https://news.ycombinator.com/item?id=49316271#49319517", "author": "alexpotato", "excerpt": "I would highly recommend the \"Everything is a Remix\" series on YouTube", "kind": "recommendation", "parent_comment_id": "49319242"}]
+    },
+    {
+      "name": "Mic Drop",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://www.micdrop.gg/",
+      "hn_url": "https://news.ycombinator.com/item?id=49315742",
+      "source_story_title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "summary": "A real-time multiplayer karaoke game for performing with friends online.",
+      "why_included": "A commenter independently reacted positively and expressed intent to try it with a friend.",
+      "evidence": "A commenter called Mic Drop very cool and said they would find a friend to play with.",
+      "evidence_sources": [{"comment_id": "49323579", "comment_url": "https://news.ycombinator.com/item?id=49315742#49323579", "author": "kalamarico", "excerpt": "It seems very cool!! Congrats!", "kind": "recommendation", "parent_comment_id": "49315742"}]
+    }
+  ]
+}

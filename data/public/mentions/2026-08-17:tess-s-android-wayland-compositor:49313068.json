@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the compositor cool and highlighted the prospect of running interesting applications on foldables.",
+  "evidence_sources": [
+    {
+      "author": "alex7o",
+      "comment_id": "49314676",
+      "comment_url": "https://news.ycombinator.com/item?id=49313068#49314676",
+      "excerpt": "Oh that Is cool especially on a foldable you can run some interesting apps on it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49313068"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49313068",
+  "id": "2026-08-17:tess-s-android-wayland-compositor:49313068",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "tess-s-android-wayland-compositor",
+  "rank": 4,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49313068",
+  "source_story_title": "Tess's Android Wayland Compositor"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommended the series as a way to see how creative work combines existing material.",
+  "evidence_sources": [
+    {
+      "author": "alexpotato",
+      "comment_id": "49319517",
+      "comment_url": "https://news.ycombinator.com/item?id=49316271#49319517",
+      "excerpt": "I would highly recommend the \"Everything is a Remix\" series on YouTube",
+      "kind": "recommendation",
+      "parent_comment_id": "49319242"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49316271",
+  "id": "2026-08-17:everything-is-a-remix:49316271",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "everything-is-a-remix",
+  "rank": 7,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49316271",
+  "source_story_title": "Patterns and problems in emerging multi-agent systems"
+}

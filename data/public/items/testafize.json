@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-17T05:17:04+02:00",
+  "id": "testafize",
+  "last_seen_at": "2026-08-17T05:17:04+02:00",
+  "latest_mention_id": "2026-08-17:testafize:49314902",
+  "mention_ids": [
+    "2026-08-17:testafize:49314902"
+  ],
+  "name": "Testafize",
+  "slug": "testafize",
+  "summary": "A Python-project template that establishes tests and automated checks before coding.",
+  "thing_url": "https://github.com/brian-learns/testafize",
+  "times_seen": 1,
+  "why_included": "A commenter described repeat use for generated projects and a successful Python 2 migration."
+}

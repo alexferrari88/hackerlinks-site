@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter praised Numba for letting them retain a NumPy-like workflow while getting bytecode-level performance, while noting its sizable installation footprint.",
+  "evidence_sources": [
+    {
+      "author": "momojo",
+      "comment_id": "49317231",
+      "comment_url": "https://news.ycombinator.com/item?id=49269451#49317231",
+      "context": "first_hand_use",
+      "excerpt": "Numba is a little magic because you get to write stuff that feels like numpy, but get literal bytecode perf.",
+      "kind": "recommendation",
+      "parent_comment_id": "49269451"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49269451",
+  "id": "2026-08-17:numba:49269451",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "numba",
+  "rank": 2,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49269451",
+  "source_story_title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite"
+}

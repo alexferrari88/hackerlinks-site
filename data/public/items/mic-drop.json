@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-17T05:17:04+02:00",
+  "id": "mic-drop",
+  "last_seen_at": "2026-08-17T05:17:04+02:00",
+  "latest_mention_id": "2026-08-17:mic-drop:49315742",
+  "mention_ids": [
+    "2026-08-17:mic-drop:49315742"
+  ],
+  "name": "Mic Drop",
+  "slug": "mic-drop",
+  "summary": "A real-time multiplayer karaoke game for performing with friends online.",
+  "thing_url": "https://www.micdrop.gg/",
+  "times_seen": 1,
+  "why_included": "A commenter independently reacted positively and expressed intent to try it with a friend."
+}

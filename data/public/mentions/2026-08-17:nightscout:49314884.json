@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called Nightscout an awesome self-hostable tool for continuous glucose-monitor workflows.",
+  "evidence_sources": [
+    {
+      "author": "VoidWhisperer",
+      "comment_id": "49316160",
+      "comment_url": "https://news.ycombinator.com/item?id=49314884#49316160",
+      "context": "first_hand_use",
+      "excerpt": "Nightscout is an awesome tool because it can be self-hosted",
+      "kind": "recommendation",
+      "parent_comment_id": "49314884"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49314884",
+  "id": "2026-08-17:nightscout:49314884",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "nightscout",
+  "rank": 6,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49314884",
+  "source_story_title": "SugarTrack \u2013 an offline Android logbook for blood sugar (no account, no cloud)"
+}

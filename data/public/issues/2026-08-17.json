@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T05:17:04+02:00",
+  "headline": "8 interesting things surfaced from HN on 2026-08-17",
+  "id": "2026-08-17",
+  "mention_ids": [
+    "2026-08-17:testafize:49314902",
+    "2026-08-17:numba:49269451",
+    "2026-08-17:tinygrad:49292385",
+    "2026-08-17:tess-s-android-wayland-compositor:49313068",
+    "2026-08-17:circuitjs:49316872",
+    "2026-08-17:nightscout:49314884",
+    "2026-08-17:everything-is-a-remix:49316271",
+    "2026-08-17:mic-drop:49315742"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

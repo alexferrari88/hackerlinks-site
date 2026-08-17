@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-17T05:17:04+02:00",
+  "id": "tinygrad",
+  "last_seen_at": "2026-08-17T05:17:04+02:00",
+  "latest_mention_id": "2026-08-17:tinygrad:49292385",
+  "mention_ids": [
+    "2026-08-17:tinygrad:49292385"
+  ],
+  "name": "tinygrad",
+  "slug": "tinygrad",
+  "summary": "A lightweight neural-network framework for running deep-learning workloads across hardware.",
+  "thing_url": "https://tinygrad.org/",
+  "times_seen": 1,
+  "why_included": "A user gave a clear cross-platform, first-hand reliability endorsement."
+}

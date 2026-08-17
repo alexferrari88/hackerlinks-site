@@ -1,0 +1,23 @@
+{
+  "evidence": "One developer uses Testafize as a starting template and reports that its check workflow also helped migrate an old Python 2 script.",
+  "evidence_sources": [
+    {
+      "author": "tingletech",
+      "comment_id": "49322710",
+      "comment_url": "https://news.ycombinator.com/item?id=49314902#49322710",
+      "context": "first_hand_use",
+      "excerpt": "I have a template I use with generated python projects that sets up all the test info first. https://github.com/brian-learns/testafize",
+      "kind": "recommendation",
+      "parent_comment_id": "49317049"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49314902",
+  "id": "2026-08-17:testafize:49314902",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "testafize",
+  "rank": 1,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49314902",
+  "source_story_title": "Software Engineering fundamentals matter more"
+}

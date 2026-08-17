@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Mic Drop very cool and said they would find a friend to play with.",
+  "evidence_sources": [
+    {
+      "author": "kalamarico",
+      "comment_id": "49323579",
+      "comment_url": "https://news.ycombinator.com/item?id=49315742#49323579",
+      "excerpt": "It seems very cool!! Congrats!",
+      "kind": "recommendation",
+      "parent_comment_id": "49315742"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49315742",
+  "id": "2026-08-17:mic-drop:49315742",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "mic-drop",
+  "rank": 8,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49315742",
+  "source_story_title": "Show HN: Mic Drop, a real-time multiplayer karaoke game"
+}

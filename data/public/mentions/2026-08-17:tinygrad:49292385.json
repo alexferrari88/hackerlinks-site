@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said the setup works well with tinygrad across Mac, Windows, and Linux.",
+  "evidence_sources": [
+    {
+      "author": "rvz",
+      "comment_id": "49319735",
+      "comment_url": "https://news.ycombinator.com/item?id=49292385#49319735",
+      "context": "first_hand_use",
+      "excerpt": "I can rest assured that when I use this on any machine running Mac, Windows or Linux, I know it just works well with tinygrad.",
+      "kind": "recommendation",
+      "parent_comment_id": "49292385"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49292385",
+  "id": "2026-08-17:tinygrad:49292385",
+  "is_repeat": false,
+  "issue_id": "2026-08-17",
+  "item_id": "tinygrad",
+  "rank": 3,
+  "seen_at": "2026-08-17T05:17:04+02:00",
+  "source_story_id": "49292385",
+  "source_story_title": "Chestnut \u2013 eGPU dock with open-source firmware"
+}

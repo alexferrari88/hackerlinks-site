@@ -7237,6 +7237,54 @@
       "first_reported_at": "2026-08-16T05:17:40+02:00",
       "last_reported_at": "2026-08-16T05:17:40+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Testafize",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Numba",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "tinygrad",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Tess's Android Wayland Compositor",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CircuitJS",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nightscout",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Everything is a Remix",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mic Drop",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
     }
   ]
 }

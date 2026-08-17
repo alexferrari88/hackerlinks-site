@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-17T05:17:04+02:00",
+  "id": "numba",
+  "last_seen_at": "2026-08-17T05:17:04+02:00",
+  "latest_mention_id": "2026-08-17:numba:49269451",
+  "mention_ids": [
+    "2026-08-17:numba:49269451"
+  ],
+  "name": "Numba",
+  "slug": "numba",
+  "summary": "A Python JIT compiler for writing NumPy-like code with native-speed execution.",
+  "thing_url": "https://numba.pydata.org/",
+  "times_seen": 1,
+  "why_included": "A detailed first-hand endorsement explained its practical performance-versus-ergonomics trade-off."
+}

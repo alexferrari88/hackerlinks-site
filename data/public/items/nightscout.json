@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-17T05:17:04+02:00",
+  "id": "nightscout",
+  "last_seen_at": "2026-08-17T05:17:04+02:00",
+  "latest_mention_id": "2026-08-17:nightscout:49314884",
+  "mention_ids": [
+    "2026-08-17:nightscout:49314884"
+  ],
+  "name": "Nightscout",
+  "slug": "nightscout",
+  "summary": "A self-hostable platform for viewing and managing continuous glucose-monitor data.",
+  "thing_url": "https://nightscout.github.io/",
+  "times_seen": 1,
+  "why_included": "The recommendation was specific about self-hosting and practical glucose-monitor support."
+}
