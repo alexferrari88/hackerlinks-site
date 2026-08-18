@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-18T05:16:47+02:00",
+  "id": "carplay",
+  "last_seen_at": "2026-08-18T05:16:47+02:00",
+  "latest_mention_id": "2026-08-18:carplay:49331220",
+  "mention_ids": [
+    "2026-08-18:carplay:49331220"
+  ],
+  "name": "CarPlay",
+  "slug": "carplay",
+  "summary": "Apple's in-car interface for using phone apps on a vehicle display.",
+  "thing_url": "https://www.apple.com/ios/carplay/",
+  "times_seen": 1,
+  "why_included": "A commenter gave a detailed first-hand endorsement over built-in infotainment systems."
+}

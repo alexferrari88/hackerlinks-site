@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-18T05:16:47+02:00",
+  "id": "agi-64",
+  "last_seen_at": "2026-08-18T05:16:47+02:00",
+  "latest_mention_id": "2026-08-18:agi-64:49325714",
+  "mention_ids": [
+    "2026-08-18:agi-64:49325714"
+  ],
+  "name": "AGI-64",
+  "slug": "agi-64",
+  "summary": "A Commodore 64 port of Sierra's AGI adventure-game interpreter.",
+  "thing_url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+  "times_seen": 1,
+  "why_included": "A commenter directly praised the technical achievement of fitting it onto the machine."
+}

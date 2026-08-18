@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter named AWS Athena as their favorite and valued not needing to host a server.",
+  "evidence_sources": [
+    {
+      "author": "fifilura",
+      "comment_id": "49333130",
+      "comment_url": "https://news.ycombinator.com/item?id=49330781#49333130",
+      "context": "first_hand_use",
+      "excerpt": "My favourite is AWS Athena (backed by Trino). \"If we use this we get indefinite RAM indefinite CPU and do not need to host a server\".",
+      "kind": "recommendation",
+      "parent_comment_id": "49332405"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49330781",
+  "id": "2026-08-18:aws-athena:49330781",
+  "is_repeat": false,
+  "issue_id": "2026-08-18",
+  "item_id": "aws-athena",
+  "rank": 7,
+  "seen_at": "2026-08-18T05:16:47+02:00",
+  "source_story_id": "49330781",
+  "source_story_title": "A Preview of DuckDB v2.0"
+}

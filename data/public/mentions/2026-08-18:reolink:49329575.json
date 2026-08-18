@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said they had used Reolink for years and were very satisfied, while noting its default UI as a drawback.",
+  "evidence_sources": [
+    {
+      "author": "eks391",
+      "comment_id": "49332742",
+      "comment_url": "https://news.ycombinator.com/item?id=49329575#49332742",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Reolink for years and been very satisfied with it. The only quip is the default UI isn't very good.",
+      "kind": "recommendation",
+      "parent_comment_id": "49330566"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49329575",
+  "id": "2026-08-18:reolink:49329575",
+  "is_repeat": false,
+  "issue_id": "2026-08-18",
+  "item_id": "reolink",
+  "rank": 2,
+  "seen_at": "2026-08-18T05:16:47+02:00",
+  "source_story_id": "49329575",
+  "source_story_title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the AGI implementation impressive for fitting into the Commodore 64.",
+  "evidence_sources": [
+    {
+      "author": "JoshTriplett",
+      "comment_id": "49327036",
+      "comment_url": "https://news.ycombinator.com/item?id=49325714#49327036",
+      "excerpt": "The only good AGI. Impressive fitting into the machine.",
+      "kind": "recommendation",
+      "parent_comment_id": "49325714"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49325714",
+  "id": "2026-08-18:agi-64:49325714",
+  "is_repeat": false,
+  "issue_id": "2026-08-18",
+  "item_id": "agi-64",
+  "rank": 4,
+  "seen_at": "2026-08-18T05:16:47+02:00",
+  "source_story_id": "49325714",
+  "source_story_title": "AGI-64 Brings Sierra Adventures to the Commodore 64"
+}

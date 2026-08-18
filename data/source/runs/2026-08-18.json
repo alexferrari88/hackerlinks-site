@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "run_date": "2026-08-18",
+  "generated_at": "2026-08-18T05:16:47+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-18.json",
+    "sha256": "6fa13934e95d24cb45bc4e32348d8cfb400985655e79022d566ebd97f366626f",
+    "bytes": 3437410,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5673,
+    "fetched_item_count": 5703,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Seven concrete, comment-endorsed recommendations surfaced from a complete 30-story HN front-page crawl.",
+  "telegram_footer": "7 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "zizmor",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/zizmorcore/zizmor",
+      "hn_url": "https://news.ycombinator.com/item?id=49331423",
+      "source_story_title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "summary": "A GitHub Actions security linter for catching workflow footguns.",
+      "why_included": "A commenter gave it an unambiguous recent personal endorsement.",
+      "evidence": "A commenter called zizmor a “huge” recent favorite for asking whether a workflow will create a footgun.",
+      "evidence_sources": [
+        {
+          "comment_id": "49332565",
+          "comment_url": "https://news.ycombinator.com/item?id=49331423#49332565",
+          "author": "thejosh",
+          "excerpt": "also been a huge fan of zizmor (https://github.com/zizmorcore/zizmor) lately, basically: \"am I going to footgun myself?\"",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49332126"
+        }
+      ]
+    },
+    {
+      "name": "Reolink",
+      "category": "Home & Self-Hosting",
+      "thing_url": "https://reolink.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49329575",
+      "source_story_title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "summary": "Security cameras that can be used outside a vendor walled garden.",
+      "why_included": "A long-term user reported satisfaction and valued the ability to avoid lock-in.",
+      "evidence": "A commenter said they had used Reolink for years and were very satisfied, while noting its default UI as a drawback.",
+      "evidence_sources": [
+        {
+          "comment_id": "49332742",
+          "comment_url": "https://news.ycombinator.com/item?id=49329575#49332742",
+          "author": "eks391",
+          "excerpt": "I've been using Reolink for years and been very satisfied with it. The only quip is the default UI isn't very good.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49330566"
+        }
+      ]
+    },
+    {
+      "name": "WeatherSpark",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://weatherspark.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49333824",
+      "source_story_title": "Sun Clock",
+      "summary": "A weather site for comparing locations across yearly climate conditions.",
+      "why_included": "A commenter described it as a favorite site they consistently use for trips and relocation decisions.",
+      "evidence": "A commenter praised WeatherSpark's daylight and climate comparisons and said they always check it before vacations or relocating.",
+      "evidence_sources": [
+        {
+          "comment_id": "49336155",
+          "comment_url": "https://news.ycombinator.com/item?id=49333824#49336155",
+          "author": "fer",
+          "excerpt": "One of my favourite sites, which also shows daylight, is WeatherSpark[0], obviously focused on weather and it allows you to compare locations based on yearly rainfall, cloud cover, muggy conditions, all sorts of stuff. Always check it when going on vacation or relocating.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49333824"
+        }
+      ]
+    },
+    {
+      "name": "AGI-64",
+      "category": "Games & Retro Computing",
+      "thing_url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "hn_url": "https://news.ycombinator.com/item?id=49325714",
+      "source_story_title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "summary": "A Commodore 64 port of Sierra's AGI adventure-game interpreter.",
+      "why_included": "A commenter directly praised the technical achievement of fitting it onto the machine.",
+      "evidence": "A commenter called the AGI implementation impressive for fitting into the Commodore 64.",
+      "evidence_sources": [
+        {
+          "comment_id": "49327036",
+          "comment_url": "https://news.ycombinator.com/item?id=49325714#49327036",
+          "author": "JoshTriplett",
+          "excerpt": "The only good AGI. Impressive fitting into the machine.",
+          "kind": "recommendation",
+          "parent_comment_id": "49325714"
+        }
+      ]
+    },
+    {
+      "name": "Eclipse of Titan",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.skytopia.com/project/illusion/ipage-et.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49270194",
+      "source_story_title": "Olo (Color)",
+      "summary": "An interactive optical illusion and color-perception experience.",
+      "why_included": "A commenter singled it out as a favorite optical experience.",
+      "evidence": "A commenter said Eclipse of Titan was one of their favorite optical experiences.",
+      "evidence_sources": [
+        {
+          "comment_id": "49334821",
+          "comment_url": "https://news.ycombinator.com/item?id=49270194#49334821",
+          "author": "yboris",
+          "excerpt": "Love this - references one of my favorite ever optical experiences Eclipse of Titan https://www.skytopia.com/project/illusion/ipage-et.html",
+          "kind": "recommendation",
+          "parent_comment_id": "49334078"
+        }
+      ]
+    },
+    {
+      "name": "CarPlay",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.apple.com/ios/carplay/",
+      "hn_url": "https://news.ycombinator.com/item?id=49331220",
+      "source_story_title": "How to disable or avoid intrusive AI",
+      "summary": "Apple's in-car interface for using phone apps on a vehicle display.",
+      "why_included": "A commenter gave a detailed first-hand endorsement over built-in infotainment systems.",
+      "evidence": "A commenter said CarPlay was vastly better than built-in infotainment for navigation and phone-based apps.",
+      "evidence_sources": [
+        {
+          "comment_id": "49336559",
+          "comment_url": "https://news.ycombinator.com/item?id=49331220#49336559",
+          "author": "starkrights",
+          "excerpt": "CarPlay is literally infinity percent better than every single built in infotainment system",
+          "kind": "comparison",
+          "context": "first_hand_use",
+          "parent_comment_id": "49336480"
+        }
+      ]
+    },
+    {
+      "name": "AWS Athena",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://aws.amazon.com/athena/",
+      "hn_url": "https://news.ycombinator.com/item?id=49330781",
+      "source_story_title": "A Preview of DuckDB v2.0",
+      "summary": "A serverless AWS query service for analyzing data with SQL.",
+      "why_included": "A commenter named it as their favorite for avoiding server hosting while scaling compute.",
+      "evidence": "A commenter named AWS Athena as their favorite and valued not needing to host a server.",
+      "evidence_sources": [
+        {
+          "comment_id": "49333130",
+          "comment_url": "https://news.ycombinator.com/item?id=49330781#49333130",
+          "author": "fifilura",
+          "excerpt": "My favourite is AWS Athena (backed by Trino). \"If we use this we get indefinite RAM indefinite CPU and do not need to host a server\".",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49332405"
+        }
+      ]
+    }
+  ]
+}

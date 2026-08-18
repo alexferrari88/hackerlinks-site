@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said CarPlay was vastly better than built-in infotainment for navigation and phone-based apps.",
+  "evidence_sources": [
+    {
+      "author": "starkrights",
+      "comment_id": "49336559",
+      "comment_url": "https://news.ycombinator.com/item?id=49331220#49336559",
+      "context": "first_hand_use",
+      "excerpt": "CarPlay is literally infinity percent better than every single built in infotainment system",
+      "kind": "comparison",
+      "parent_comment_id": "49336480"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49331220",
+  "id": "2026-08-18:carplay:49331220",
+  "is_repeat": false,
+  "issue_id": "2026-08-18",
+  "item_id": "carplay",
+  "rank": 6,
+  "seen_at": "2026-08-18T05:16:47+02:00",
+  "source_story_id": "49331220",
+  "source_story_title": "How to disable or avoid intrusive AI"
+}

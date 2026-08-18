@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter praised WeatherSpark's daylight and climate comparisons and said they always check it before vacations or relocating.",
+  "evidence_sources": [
+    {
+      "author": "fer",
+      "comment_id": "49336155",
+      "comment_url": "https://news.ycombinator.com/item?id=49333824#49336155",
+      "context": "first_hand_use",
+      "excerpt": "One of my favourite sites, which also shows daylight, is WeatherSpark[0], obviously focused on weather and it allows you to compare locations based on yearly rainfall, cloud cover, muggy conditions, all sorts of stuff. Always check it when going on vacation or relocating.",
+      "kind": "recommendation",
+      "parent_comment_id": "49333824"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49333824",
+  "id": "2026-08-18:weatherspark:49333824",
+  "is_repeat": false,
+  "issue_id": "2026-08-18",
+  "item_id": "weatherspark",
+  "rank": 3,
+  "seen_at": "2026-08-18T05:16:47+02:00",
+  "source_story_id": "49333824",
+  "source_story_title": "Sun Clock"
+}

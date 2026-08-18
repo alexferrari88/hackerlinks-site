@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T05:16:47+02:00",
+  "headline": "7 interesting things surfaced from HN on 2026-08-18",
+  "id": "2026-08-18",
+  "mention_ids": [
+    "2026-08-18:zizmor:49331423",
+    "2026-08-18:reolink:49329575",
+    "2026-08-18:weatherspark:49333824",
+    "2026-08-18:agi-64:49325714",
+    "2026-08-18:eclipse-of-titan:49270194",
+    "2026-08-18:carplay:49331220",
+    "2026-08-18:aws-athena:49330781"
+  ],
+  "summary": {
+    "items_surfaced": 7,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

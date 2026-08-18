@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-18T05:16:47+02:00",
+  "id": "aws-athena",
+  "last_seen_at": "2026-08-18T05:16:47+02:00",
+  "latest_mention_id": "2026-08-18:aws-athena:49330781",
+  "mention_ids": [
+    "2026-08-18:aws-athena:49330781"
+  ],
+  "name": "AWS Athena",
+  "slug": "aws-athena",
+  "summary": "A serverless AWS query service for analyzing data with SQL.",
+  "thing_url": "https://aws.amazon.com/athena/",
+  "times_seen": 1,
+  "why_included": "A commenter named it as their favorite for avoiding server hosting while scaling compute."
+}

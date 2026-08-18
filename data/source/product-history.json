@@ -147,6 +147,12 @@
       "times_reported": 1
     },
     {
+      "name": "AGI-64",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Agnost AI",
       "first_reported_at": "2026-07-14T21:11:27.041308Z",
       "last_reported_at": "2026-07-14T21:11:27.041308Z",
@@ -192,6 +198,12 @@
       "name": "Am I Unique?",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "AMD Radeon AI PRO R9700",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -282,6 +294,12 @@
       "name": "Aqua Voice",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Arcane Dimensions",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
       "times_reported": 1
     },
     {
@@ -378,6 +396,12 @@
       "name": "Avoxelgame",
       "first_reported_at": "2026-06-21T21:07:25Z",
       "last_reported_at": "2026-06-21T21:07:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "AWS Athena",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
       "times_reported": 1
     },
     {
@@ -693,6 +717,12 @@
       "times_reported": 1
     },
     {
+      "name": "Bullet",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Bun",
       "first_reported_at": "2026-05-09T21:20:22Z",
       "last_reported_at": "2026-05-09T21:20:22Z",
@@ -714,6 +744,12 @@
       "name": "BYTE magazine archive",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Bézier Curves",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
       "times_reported": 1
     },
     {
@@ -741,6 +777,24 @@
       "times_reported": 1
     },
     {
+      "name": "Calculus: An Intuitive and Physical Approach",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Calculus: Basic Concepts for High Schools",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Calculus: The Princess of Mathematics",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Calibre",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
@@ -759,6 +813,12 @@
       "times_reported": 1
     },
     {
+      "name": "Camoufox",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "CanvasBlocker",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -774,6 +834,12 @@
       "name": "Carbon Copy Cloner",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CarPlay",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
       "times_reported": 1
     },
     {
@@ -804,6 +870,12 @@
       "name": "ChatGPT Work",
       "first_reported_at": "2026-07-09T21:13:39.342792Z",
       "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ChatJimmy",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
       "times_reported": 1
     },
     {
@@ -846,6 +918,18 @@
       "name": "Chrome DevTools MCP",
       "first_reported_at": "2026-07-03T21:00:19.436601+00:00",
       "last_reported_at": "2026-07-03T21:00:19.436601+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CircuitJS",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cirrux",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
       "times_reported": 1
     },
     {
@@ -1191,6 +1275,12 @@
       "times_reported": 1
     },
     {
+      "name": "Cuis Smalltalk",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "CuriousMarc videos",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -1299,9 +1389,21 @@
       "times_reported": 1
     },
     {
+      "name": "Deep Learning: A Visual Approach",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "DeepSeek 4 Flash",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "DeepSeek Harness",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -1383,6 +1485,12 @@
       "times_reported": 1
     },
     {
+      "name": "Differential Heuristics",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Dillo Browser",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
@@ -1404,6 +1512,12 @@
       "name": "Djot",
       "first_reported_at": "2026-04-18T21:11:46Z",
       "last_reported_at": "2026-04-18T21:11:46Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Docker Sandboxes",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
       "times_reported": 1
     },
     {
@@ -1563,6 +1677,24 @@
       "times_reported": 1
     },
     {
+      "name": "Eclipse of Titan",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Eigendrum",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "EinkBro",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Elevator Saga",
       "first_reported_at": "2026-08-01T03:16:32Z",
       "last_reported_at": "2026-08-01T03:16:32Z",
@@ -1617,9 +1749,21 @@
       "times_reported": 1
     },
     {
+      "name": "Eve",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
+      "times_reported": 1
+    },
+    {
       "name": "Everything",
       "first_reported_at": "2026-07-17T21:11:36.594896Z",
       "last_reported_at": "2026-07-17T21:11:36.594896Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Everything is a Remix",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
       "times_reported": 1
     },
     {
@@ -1644,6 +1788,12 @@
       "name": "Expanse",
       "first_reported_at": "2026-06-01T21:20:14Z",
       "last_reported_at": "2026-06-01T21:20:14Z",
+      "times_reported": 1
+    },
+    {
+      "name": "explain-diff",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -1710,6 +1860,12 @@
       "name": "fearless_simd",
       "first_reported_at": "2026-07-23T03:17:07Z",
       "last_reported_at": "2026-07-23T03:17:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "FHE Textbook",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
       "times_reported": 1
     },
     {
@@ -1794,6 +1950,12 @@
       "name": "floppinux",
       "first_reported_at": "2026-06-21T21:07:25Z",
       "last_reported_at": "2026-06-21T21:07:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Flora Incognita",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
       "times_reported": 1
     },
     {
@@ -1911,6 +2073,12 @@
       "times_reported": 1
     },
     {
+      "name": "Fugashi",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Fungible",
       "first_reported_at": "2026-06-14T21:10:20.514906Z",
       "last_reported_at": "2026-06-14T21:10:20.514906Z",
@@ -1950,6 +2118,12 @@
       "name": "Gadgetbridge",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GAMBAS",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -2076,6 +2250,12 @@
       "name": "git-annex",
       "first_reported_at": "2026-06-24T21:10:29Z",
       "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Git-knife",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
       "times_reported": 1
     },
     {
@@ -2397,6 +2577,18 @@
       "times_reported": 1
     },
     {
+      "name": "Hister",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
+      "name": "HitchStory",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Hmmsim 2",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -2559,6 +2751,12 @@
       "times_reported": 1
     },
     {
+      "name": "Indigene",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
+      "times_reported": 1
+    },
+    {
       "name": "Inference Club",
       "first_reported_at": "2026-06-14T21:10:20.514906Z",
       "last_reported_at": "2026-06-14T21:10:20.514906Z",
@@ -2667,6 +2865,12 @@
       "times_reported": 1
     },
     {
+      "name": "Ironwail",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
+      "times_reported": 1
+    },
+    {
       "name": "Isopolis",
       "first_reported_at": "2026-08-04T03:17:18Z",
       "last_reported_at": "2026-08-04T03:17:18Z",
@@ -2676,6 +2880,12 @@
       "name": "ISOtunes",
       "first_reported_at": "2026-06-19T21:00:54Z",
       "last_reported_at": "2026-06-19T21:00:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "It's Quieter in the Twilight",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
       "times_reported": 1
     },
     {
@@ -2730,6 +2940,12 @@
       "name": "Jim's TrueType QR Code Font",
       "first_reported_at": "2026-07-07T21:24:40Z",
       "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Jolt",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
       "times_reported": 1
     },
     {
@@ -3057,9 +3273,21 @@
       "times_reported": 1
     },
     {
+      "name": "LFM2.5 2.6B",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "Libby",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Libdragon",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
       "times_reported": 1
     },
     {
@@ -3186,6 +3414,12 @@
       "name": "Lost Worlds",
       "first_reported_at": "2026-07-10T21:08:51.108728Z",
       "last_reported_at": "2026-07-10T21:08:51.108728Z",
+      "times_reported": 1
+    },
+    {
+      "name": "LuaCAD",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
       "times_reported": 1
     },
     {
@@ -3363,6 +3597,12 @@
       "times_reported": 1
     },
     {
+      "name": "Messerschmitt’s Remarkably Good Supersonic Fighter",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Metacognitive Therapy for Anxiety and Depression",
       "first_reported_at": "2026-08-02T05:17:53+02:00",
       "last_reported_at": "2026-08-02T05:17:53+02:00",
@@ -3378,6 +3618,12 @@
       "name": "Metropolis 1998",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Mic Drop",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
       "times_reported": 1
     },
     {
@@ -3474,6 +3720,18 @@
       "name": "Minicor",
       "first_reported_at": "2026-05-26T21:11:22Z",
       "last_reported_at": "2026-05-26T21:11:22Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Miniflux",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MiniMax H3",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
       "times_reported": 1
     },
     {
@@ -3645,6 +3903,12 @@
       "times_reported": 1
     },
     {
+      "name": "Muse Glimmer 30B",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Muse Spark 1.1",
       "first_reported_at": "2026-07-09T21:13:39.342792Z",
       "last_reported_at": "2026-07-09T21:13:39.342792Z",
@@ -3666,6 +3930,12 @@
       "name": "Nand to Tetris",
       "first_reported_at": "2026-05-09T21:20:22Z",
       "last_reported_at": "2026-05-09T21:20:22Z",
+      "times_reported": 1
+    },
+    {
+      "name": "nano-vLLM",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
       "times_reported": 1
     },
     {
@@ -3708,6 +3978,12 @@
       "name": "Natural Number Game",
       "first_reported_at": "2026-07-23T03:17:07Z",
       "last_reported_at": "2026-07-23T03:17:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "NBA*",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
       "times_reported": 1
     },
     {
@@ -3795,9 +4071,21 @@
       "times_reported": 1
     },
     {
+      "name": "News Feed Eradicator",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Next Spaceflight",
       "first_reported_at": "2026-07-25T05:16:59+02:00",
       "last_reported_at": "2026-07-25T05:16:59+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nightscout",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
       "times_reported": 1
     },
     {
@@ -3900,6 +4188,12 @@
       "name": "Nub",
       "first_reported_at": "2026-06-24T21:10:29Z",
       "last_reported_at": "2026-06-24T21:10:29Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Numba",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
       "times_reported": 1
     },
     {
@@ -4008,6 +4302,12 @@
       "name": "OneDev",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OneLook Thesaurus",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
       "times_reported": 1
     },
     {
@@ -4221,6 +4521,12 @@
       "times_reported": 1
     },
     {
+      "name": "OrbStack",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "OrcaSlicer",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
@@ -4431,6 +4737,12 @@
       "times_reported": 1
     },
     {
+      "name": "Petri Nets as a Music Sequencer",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "pg_durable",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
@@ -4476,6 +4788,12 @@
       "name": "Pi Agent",
       "first_reported_at": "2026-07-29T03:18:28Z",
       "last_reported_at": "2026-07-29T03:18:28Z",
+      "times_reported": 1
+    },
+    {
+      "name": "pi-task-compaction",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -4635,6 +4953,12 @@
       "times_reported": 1
     },
     {
+      "name": "Prime Quine ASIC",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "Probity",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -4686,6 +5010,18 @@
       "name": "Prusa CORE One",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
       "last_reported_at": "2026-05-10T21:13:50.159568Z",
+      "times_reported": 1
+    },
+    {
+      "name": "PS1 Bare Metal",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Psychological Warfare in Reverse Engineering",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -4752,6 +5088,12 @@
       "name": "Q3Edit",
       "first_reported_at": "2026-07-19T04:11:24Z",
       "last_reported_at": "2026-07-19T04:11:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "QArt Codes",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
       "times_reported": 1
     },
     {
@@ -4836,6 +5178,18 @@
       "name": "Qwen3.7-Max",
       "first_reported_at": "2026-05-20T21:00:52Z",
       "last_reported_at": "2026-05-20T21:00:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "qxw",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Racket",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
       "times_reported": 1
     },
     {
@@ -4929,6 +5283,12 @@
       "times_reported": 1
     },
     {
+      "name": "Red Blob Games",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "RegelRecht",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
@@ -4941,9 +5301,21 @@
       "times_reported": 1
     },
     {
+      "name": "reManager",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Remind",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Reolink",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
       "times_reported": 1
     },
     {
@@ -5079,6 +5451,12 @@
       "times_reported": 1
     },
     {
+      "name": "RustDesk",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "S.E.C.R.E.T",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -5115,6 +5493,12 @@
       "times_reported": 1
     },
     {
+      "name": "Saracroche",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "SBB Mobile",
       "first_reported_at": "2026-04-15T04:39:17+00:00",
       "last_reported_at": "2026-04-15T04:39:17+00:00",
@@ -5136,6 +5520,12 @@
       "name": "schedyou",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Scientific Babel",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
       "times_reported": 1
     },
     {
@@ -5190,6 +5580,12 @@
       "name": "send.djazz.se",
       "first_reported_at": "2026-07-04T21:00:48.537362+00:00",
       "last_reported_at": "2026-07-04T21:00:48.537362+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sentry",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -5250,6 +5646,12 @@
       "name": "Signals and Threads: Building a UI Framework",
       "first_reported_at": "2026-08-04T03:17:18Z",
       "last_reported_at": "2026-08-04T03:17:18Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Silent Shark",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
       "times_reported": 1
     },
     {
@@ -5391,6 +5793,12 @@
       "times_reported": 1
     },
     {
+      "name": "Sonic Pi",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Soofi S",
       "first_reported_at": "2026-07-16T21:12:29.961642Z",
       "last_reported_at": "2026-07-16T21:12:29.961642Z",
@@ -5493,6 +5901,12 @@
       "times_reported": 1
     },
     {
+      "name": "StageX",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Stainless",
       "first_reported_at": "2026-05-18T21:15:39Z",
       "last_reported_at": "2026-05-18T21:15:39Z",
@@ -5553,9 +5967,21 @@
       "times_reported": 1
     },
     {
+      "name": "Stowaway",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
+      "times_reported": 1
+    },
+    {
       "name": "Strava",
       "first_reported_at": "2026-06-27T21:23:27Z",
       "last_reported_at": "2026-06-27T21:23:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "stravacli",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
       "times_reported": 1
     },
     {
@@ -5598,6 +6024,12 @@
       "name": "Super ZSNES",
       "first_reported_at": "2026-04-27T21:27:33Z",
       "last_reported_at": "2026-04-27T21:27:33Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SuperDuper!",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
       "times_reported": 1
     },
     {
@@ -5709,6 +6141,12 @@
       "times_reported": 1
     },
     {
+      "name": "Talos Linux",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Tangle News",
       "first_reported_at": "2026-07-29T03:18:28Z",
       "last_reported_at": "2026-07-29T03:18:28Z",
@@ -5769,6 +6207,24 @@
       "times_reported": 1
     },
     {
+      "name": "Termic",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Tess's Android Wayland Compositor",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Testafize",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "TesterArmy",
       "first_reported_at": "2026-06-18T21:28:27Z",
       "last_reported_at": "2026-06-18T21:28:27Z",
@@ -5778,6 +6234,12 @@
       "name": "Text-to-CAD",
       "first_reported_at": "2026-05-03T21:17:03Z",
       "last_reported_at": "2026-05-03T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "textlog",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
       "times_reported": 1
     },
     {
@@ -5841,6 +6303,12 @@
       "times_reported": 1
     },
     {
+      "name": "The Man Who Planted Trees",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "The MUMPS 76 Primer – anniversary edition",
       "first_reported_at": "2026-06-28T21:09:22Z",
       "last_reported_at": "2026-06-28T21:10:52Z",
@@ -5862,6 +6330,18 @@
       "name": "The Riemann Hypothesis, Part 1",
       "first_reported_at": "2026-07-20T12:20:10Z",
       "last_reported_at": "2026-07-20T12:20:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Salt of the Earth",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Storm Before the Storm",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
       "times_reported": 1
     },
     {
@@ -5955,6 +6435,12 @@
       "times_reported": 1
     },
     {
+      "name": "tinygrad",
+      "first_reported_at": "2026-08-17T05:17:04+02:00",
+      "last_reported_at": "2026-08-17T05:17:04+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "tlaplus-process-studio",
       "first_reported_at": "2026-07-03T21:00:19.436601+00:00",
       "last_reported_at": "2026-07-03T21:00:19.436601+00:00",
@@ -6009,9 +6495,27 @@
       "times_reported": 1
     },
     {
+      "name": "Train your own LLM",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Transitous",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
+      "times_reported": 1
+    },
+    {
       "name": "Tree-sitter",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Treedix USB Cable Tester",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
       "times_reported": 1
     },
     {
@@ -6030,6 +6534,12 @@
       "name": "Trolley",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Tropical Tidbits",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
       "times_reported": 1
     },
     {
@@ -6090,6 +6600,12 @@
       "name": "Ubiquiti Enterprise NAS",
       "first_reported_at": "2026-06-18T21:28:27Z",
       "last_reported_at": "2026-06-18T21:28:27Z",
+      "times_reported": 1
+    },
+    {
+      "name": "uBlacklist",
+      "first_reported_at": "2026-08-12T03:16:39Z",
+      "last_reported_at": "2026-08-12T03:16:39Z",
       "times_reported": 1
     },
     {
@@ -6321,6 +6837,12 @@
       "times_reported": 1
     },
     {
+      "name": "vMLX",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Vocabowl",
       "first_reported_at": "2026-06-19T21:00:54Z",
       "last_reported_at": "2026-06-19T21:00:54Z",
@@ -6336,6 +6858,18 @@
       "name": "VolSplat",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Volts",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Voyage AI",
+      "first_reported_at": "2026-08-15T05:16:29+02:00",
+      "last_reported_at": "2026-08-15T05:16:29+02:00",
       "times_reported": 1
     },
     {
@@ -6387,6 +6921,12 @@
       "times_reported": 1
     },
     {
+      "name": "WeatherSpark",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "WebBase-III",
       "first_reported_at": "2026-06-26T21:24:10.400244Z",
       "last_reported_at": "2026-06-26T21:24:10.400244Z",
@@ -6402,6 +6942,12 @@
       "name": "WebXDC",
       "first_reported_at": "2026-08-02T05:17:53+02:00",
       "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Wego",
+      "first_reported_at": "2026-08-10T05:16:58+02:00",
+      "last_reported_at": "2026-08-10T05:16:58+02:00",
       "times_reported": 1
     },
     {
@@ -6441,6 +6987,12 @@
       "times_reported": 1
     },
     {
+      "name": "Whodunnit AI",
+      "first_reported_at": "2026-08-11T05:17:22+02:00",
+      "last_reported_at": "2026-08-11T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "whohas",
       "first_reported_at": "2026-05-01T21:05:24Z",
       "last_reported_at": "2026-05-01T21:05:24Z",
@@ -6474,6 +7026,12 @@
       "name": "WinBox",
       "first_reported_at": "2026-07-20T12:20:10Z",
       "last_reported_at": "2026-07-20T12:20:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "WindNinja",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
       "times_reported": 1
     },
     {
@@ -6531,6 +7089,12 @@
       "times_reported": 1
     },
     {
+      "name": "Woodpecker CI",
+      "first_reported_at": "2026-08-07T03:18:01Z",
+      "last_reported_at": "2026-08-07T03:18:01Z",
+      "times_reported": 1
+    },
+    {
       "name": "word-weasel",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
@@ -6576,6 +7140,12 @@
       "name": "WSL9x",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Wyzer",
+      "first_reported_at": "2026-08-08T03:18:23Z",
+      "last_reported_at": "2026-08-08T03:18:23Z",
       "times_reported": 1
     },
     {
@@ -6651,6 +7221,12 @@
       "times_reported": 1
     },
     {
+      "name": "z386",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Zanagrams",
       "first_reported_at": "2026-06-28T21:09:22Z",
       "last_reported_at": "2026-06-28T21:10:52Z",
@@ -6711,6 +7287,12 @@
       "times_reported": 1
     },
     {
+      "name": "zizmor",
+      "first_reported_at": "2026-08-18T05:16:47+02:00",
+      "last_reported_at": "2026-08-18T05:16:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "ZLUDA 6 release",
       "first_reported_at": "2026-06-30T21:15:09Z",
       "last_reported_at": "2026-06-30T21:15:09Z",
@@ -6729,6 +7311,12 @@
       "times_reported": 1
     },
     {
+      "name": "Zoom Earth",
+      "first_reported_at": "2026-08-09T05:19:45+02:00",
+      "last_reported_at": "2026-08-09T05:19:45+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Zork-Bench",
       "first_reported_at": "2026-07-13T21:04:47Z",
       "last_reported_at": "2026-07-13T21:04:47Z",
@@ -6738,552 +7326,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Indigene",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Flora Incognita",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Libdragon",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "PS1 Bare Metal",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Eve",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "ChatJimmy",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Arcane Dimensions",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Scientific Babel",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Woodpecker CI",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Transitous",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Ironwail",
-      "first_reported_at": "2026-08-07T03:18:01Z",
-      "last_reported_at": "2026-08-07T03:18:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Treedix USB Cable Tester",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "nano-vLLM",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Wyzer",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "textlog",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "qxw",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Prime Quine ASIC",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "The Storm Before the Storm",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "The Salt of the Earth",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "The Man Who Planted Trees",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Petri Nets as a Music Sequencer",
-      "first_reported_at": "2026-08-08T03:18:23Z",
-      "last_reported_at": "2026-08-08T03:18:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "stravacli",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "It's Quieter in the Twilight",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Zoom Earth",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Tropical Tidbits",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "WindNinja",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "StageX",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "SuperDuper!",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "z386",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "News Feed Eradicator",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Cirrux",
-      "first_reported_at": "2026-08-09T05:19:45+02:00",
-      "last_reported_at": "2026-08-09T05:19:45+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Camoufox",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "OrbStack",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Red Blob Games",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "NBA*",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Wego",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "reManager",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "QArt Codes",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Termic",
-      "first_reported_at": "2026-08-10T05:16:58+02:00",
-      "last_reported_at": "2026-08-10T05:16:58+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Muse Glimmer 30B",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Docker Sandboxes",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "vMLX",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Cuis Smalltalk",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Whodunnit AI",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Sonic Pi",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "EinkBro",
-      "first_reported_at": "2026-08-11T05:17:22+02:00",
-      "last_reported_at": "2026-08-11T05:17:22+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Saracroche",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Hister",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "uBlacklist",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Stowaway",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "LFM2.5 2.6B",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "MiniMax H3",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Git-knife",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Jolt",
-      "first_reported_at": "2026-08-12T03:16:39Z",
-      "last_reported_at": "2026-08-12T03:16:39Z",
-      "times_reported": 1
-    },
-    {
-      "name": "DeepSeek Harness",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Bullet",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Talos Linux",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "AMD Radeon AI PRO R9700",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "GAMBAS",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "pi-task-compaction",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "explain-diff",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Sentry",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Psychological Warfare in Reverse Engineering",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "LuaCAD",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "RustDesk",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Miniflux",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Voyage AI",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Train your own LLM",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Deep Learning: A Visual Approach",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "FHE Textbook",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "OneLook Thesaurus",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Volts",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Differential Heuristics",
-      "first_reported_at": "2026-08-15T05:16:29+02:00",
-      "last_reported_at": "2026-08-15T05:16:29+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Eigendrum",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Silent Shark",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Racket",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Fugashi",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "HitchStory",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Messerschmitt’s Remarkably Good Supersonic Fighter",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Bézier Curves",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Calculus: Basic Concepts for High Schools",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Calculus: An Intuitive and Physical Approach",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Calculus: The Princess of Mathematics",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Testafize",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Numba",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "tinygrad",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Tess's Android Wayland Compositor",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "CircuitJS",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Nightscout",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Everything is a Remix",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Mic Drop",
-      "first_reported_at": "2026-08-17T05:17:04+02:00",
-      "last_reported_at": "2026-08-17T05:17:04+02:00",
       "times_reported": 1
     }
   ]

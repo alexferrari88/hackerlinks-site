@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-18T05:16:47+02:00",
+  "id": "zizmor",
+  "last_seen_at": "2026-08-18T05:16:47+02:00",
+  "latest_mention_id": "2026-08-18:zizmor:49331423",
+  "mention_ids": [
+    "2026-08-18:zizmor:49331423"
+  ],
+  "name": "zizmor",
+  "slug": "zizmor",
+  "summary": "A GitHub Actions security linter for catching workflow footguns.",
+  "thing_url": "https://github.com/zizmorcore/zizmor",
+  "times_seen": 1,
+  "why_included": "A commenter gave it an unambiguous recent personal endorsement."
+}

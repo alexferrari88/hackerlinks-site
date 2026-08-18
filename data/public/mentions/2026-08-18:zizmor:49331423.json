@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called zizmor a \u201chuge\u201d recent favorite for asking whether a workflow will create a footgun.",
+  "evidence_sources": [
+    {
+      "author": "thejosh",
+      "comment_id": "49332565",
+      "comment_url": "https://news.ycombinator.com/item?id=49331423#49332565",
+      "context": "first_hand_use",
+      "excerpt": "also been a huge fan of zizmor (https://github.com/zizmorcore/zizmor) lately, basically: \"am I going to footgun myself?\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49332126"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49331423",
+  "id": "2026-08-18:zizmor:49331423",
+  "is_repeat": false,
+  "issue_id": "2026-08-18",
+  "item_id": "zizmor",
+  "rank": 1,
+  "seen_at": "2026-08-18T05:16:47+02:00",
+  "source_story_id": "49331423",
+  "source_story_title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira"
+}

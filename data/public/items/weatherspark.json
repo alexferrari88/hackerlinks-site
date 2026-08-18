@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-18T05:16:47+02:00",
+  "id": "weatherspark",
+  "last_seen_at": "2026-08-18T05:16:47+02:00",
+  "latest_mention_id": "2026-08-18:weatherspark:49333824",
+  "mention_ids": [
+    "2026-08-18:weatherspark:49333824"
+  ],
+  "name": "WeatherSpark",
+  "slug": "weatherspark",
+  "summary": "A weather site for comparing locations across yearly climate conditions.",
+  "thing_url": "https://weatherspark.com/",
+  "times_seen": 1,
+  "why_included": "A commenter described it as a favorite site they consistently use for trips and relocation decisions."
+}
