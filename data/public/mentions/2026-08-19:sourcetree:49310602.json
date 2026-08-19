@@ -1,0 +1,23 @@
+{
+  "evidence": "A developer said Sourcetree had been a daily driver for years and that they love it, while noting it is unavailable on Linux.",
+  "evidence_sources": [
+    {
+      "author": "jaltekruse",
+      "comment_id": "49347265",
+      "comment_url": "https://news.ycombinator.com/item?id=49310602#49347265",
+      "context": "first_hand_use",
+      "excerpt": "I find a good git GUI invaluable, I have used sourcetree for years and love it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49310738"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49310602",
+  "id": "2026-08-19:sourcetree:49310602",
+  "is_repeat": false,
+  "issue_id": "2026-08-19",
+  "item_id": "sourcetree",
+  "rank": 5,
+  "seen_at": "2026-08-19T05:17:53+02:00",
+  "source_story_id": "49310602",
+  "source_story_title": "Splitting a Git Commit"
+}

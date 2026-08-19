@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "polars",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:polars:49345476",
+  "mention_ids": [
+    "2026-08-19:polars:49345476"
+  ],
+  "name": "Polars",
+  "slug": "polars",
+  "summary": "A fast DataFrame library for expression-based data transformation in Python.",
+  "thing_url": "https://pola.rs/",
+  "times_seen": 1,
+  "why_included": "A longtime Pandas user gave a particularly strong first-hand account of its capability and speed."
+}

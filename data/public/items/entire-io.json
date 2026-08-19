@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "entire-io",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:entire-io:49334209",
+  "mention_ids": [
+    "2026-08-19:entire-io:49334209"
+  ],
+  "name": "Entire.io",
+  "slug": "entire-io",
+  "summary": "A CLI-first Git companion that preserves context behind agent-assisted code changes.",
+  "thing_url": "https://entire.io/",
+  "times_seen": 1,
+  "why_included": "An unaffiliated CLI user explicitly called it useful while discussing GitHub alternatives."
+}

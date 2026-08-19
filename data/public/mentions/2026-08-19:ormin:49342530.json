@@ -1,0 +1,23 @@
+{
+  "evidence": "A Nim developer said Ormin parses SQL tables to compile-time check queries and called its type handling and query-syntax support nice.",
+  "evidence_sources": [
+    {
+      "author": "elcritch",
+      "comment_id": "49344713",
+      "comment_url": "https://news.ycombinator.com/item?id=49342530#49344713",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Ormin [1] in Nim which works by parsing the SQL tables and uses it to compile time check queries:",
+      "kind": "recommendation",
+      "parent_comment_id": "49344508"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49342530",
+  "id": "2026-08-19:ormin:49342530",
+  "is_repeat": false,
+  "issue_id": "2026-08-19",
+  "item_id": "ormin",
+  "rank": 3,
+  "seen_at": "2026-08-19T05:17:53+02:00",
+  "source_story_id": "49342530",
+  "source_story_title": "Rethinking Database Programming"
+}

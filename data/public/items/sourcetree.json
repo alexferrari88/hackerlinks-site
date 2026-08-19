@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "sourcetree",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:sourcetree:49310602",
+  "mention_ids": [
+    "2026-08-19:sourcetree:49310602"
+  ],
+  "name": "Sourcetree",
+  "slug": "sourcetree",
+  "summary": "A visual Git and Mercurial client for staging, reviewing, and navigating history.",
+  "thing_url": "https://www.atlassian.com/software/sourcetree",
+  "times_seen": 1,
+  "why_included": "A longtime user credited it with making granular staging and self-review routine."
+}

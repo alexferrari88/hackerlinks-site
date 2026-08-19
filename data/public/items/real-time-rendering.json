@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "real-time-rendering",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:real-time-rendering:49337630",
+  "mention_ids": [
+    "2026-08-19:real-time-rendering:49337630"
+  ],
+  "name": "Real-Time Rendering",
+  "slug": "real-time-rendering",
+  "summary": "A reference book covering real-time graphics techniques with game-production examples.",
+  "thing_url": "https://www.realtimerendering.com/",
+  "times_seen": 1,
+  "why_included": "It was singled out as the strongest broad resource for rendering techniques and examples from major games."
+}

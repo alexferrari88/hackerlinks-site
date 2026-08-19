@@ -1,0 +1,210 @@
+{
+  "version": 2,
+  "run_date": "2026-08-19",
+  "generated_at": "2026-08-19T05:17:53+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-19.json",
+    "sha256": "5aa5907da302ae6c0766cccf0beaedb98ece58d5a14b73594c41e04c35904e9d",
+    "bytes": 3565823,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5640,
+    "fetched_item_count": 5670,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Nine concrete, comment-endorsed tools and graphics-learning resources surfaced from a complete 30-story HN front-page crawl.",
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "GPT-5.6 Sol",
+      "category": "AI & Local Models",
+      "thing_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "hn_url": "https://news.ycombinator.com/item?id=49337602",
+      "source_story_title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+      "summary": "A reasoning model that helped recover game-file keys and explain unfamiliar data.",
+      "why_included": "A first-hand report described a successful, non-obstructive result on a difficult reverse-engineering task.",
+      "evidence": "One developer said Sol succeeded at recovering remaining game-file keys and made the data understandable enough to extend a level viewer.",
+      "evidence_sources": [
+        {
+          "comment_id": "49340347",
+          "comment_url": "https://news.ycombinator.com/item?id=49337602#49340347",
+          "author": "andrewingram",
+          "excerpt": "Not only did it succeed, but it helped me understand the data sufficiently to add support for “Super World” rendering to my level viewer",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49340198"
+        }
+      ]
+    },
+    {
+      "name": "Entire.io",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://entire.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49334209",
+      "source_story_title": "Cursor launches Origin, GitHub alternative",
+      "summary": "A CLI-first Git companion that preserves context behind agent-assisted code changes.",
+      "why_included": "An unaffiliated CLI user explicitly called it useful while discussing GitHub alternatives.",
+      "evidence": "An unaffiliated commenter said they use the Entire.io CLI and find it useful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49338150",
+          "comment_url": "https://news.ycombinator.com/item?id=49334209#49338150",
+          "author": "kakugawa",
+          "excerpt": "Not affiliated, but I use the Entire.io CLI and I find it useful.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49337663"
+        }
+      ]
+    },
+    {
+      "name": "Ormin",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/Araq/ormin",
+      "hn_url": "https://news.ycombinator.com/item?id=49342530",
+      "source_story_title": "Rethinking Database Programming",
+      "summary": "A Nim ORM that parses SQL tables and compile-time checks queries.",
+      "why_included": "A practitioner endorsed its SQL-first approach after frustrating experiences with conventional ORMs.",
+      "evidence": "A Nim developer said Ormin parses SQL tables to compile-time check queries and called its type handling and query-syntax support nice.",
+      "evidence_sources": [
+        {
+          "comment_id": "49344713",
+          "comment_url": "https://news.ycombinator.com/item?id=49342530#49344713",
+          "author": "elcritch",
+          "excerpt": "I've been using Ormin [1] in Nim which works by parsing the SQL tables and uses it to compile time check queries:",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49344508"
+        }
+      ]
+    },
+    {
+      "name": "Polars",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pola.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=49345476",
+      "source_story_title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "summary": "A fast DataFrame library for expression-based data transformation in Python.",
+      "why_included": "A longtime Pandas user gave a particularly strong first-hand account of its capability and speed.",
+      "evidence": "A commenter said Polars unlocked tasks they could not imagine doing with Pandas and praised its speed.",
+      "evidence_sources": [
+        {
+          "comment_id": "49353544",
+          "comment_url": "https://news.ycombinator.com/item?id=49345476#49353544",
+          "author": "ForceBru",
+          "excerpt": "Now I can do things I couldn't even dream of with Pandas! And it's fast, too!",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49352015"
+        }
+      ]
+    },
+    {
+      "name": "Sourcetree",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.atlassian.com/software/sourcetree",
+      "hn_url": "https://news.ycombinator.com/item?id=49310602",
+      "source_story_title": "Splitting a Git Commit",
+      "summary": "A visual Git and Mercurial client for staging, reviewing, and navigating history.",
+      "why_included": "A longtime user credited it with making granular staging and self-review routine.",
+      "evidence": "A developer said Sourcetree had been a daily driver for years and that they love it, while noting it is unavailable on Linux.",
+      "evidence_sources": [
+        {
+          "comment_id": "49347265",
+          "comment_url": "https://news.ycombinator.com/item?id=49310602#49347265",
+          "author": "jaltekruse",
+          "excerpt": "I find a good git GUI invaluable, I have used sourcetree for years and love it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49310738"
+        }
+      ]
+    },
+    {
+      "name": "Scratchapixel",
+      "category": "Graphics & Rendering",
+      "thing_url": "https://www.scratchapixel.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49337630",
+      "source_story_title": "How do functions like alloca allocate memory from the stack?",
+      "summary": "A free, beginner-friendly collection of computer-graphics programming lessons.",
+      "why_included": "It received an unambiguous recommendation as the strongest modern starting point for beginner graphics programmers.",
+      "evidence": "A commenter called Scratchapixel the best modern beginner-friendly graphics resource they knew.",
+      "evidence_sources": [
+        {
+          "comment_id": "49342550",
+          "comment_url": "https://news.ycombinator.com/item?id=49337630#49342550",
+          "author": "Agentlien",
+          "excerpt": "The best modern beginner friendly resource I am aware of is Scratchapixel[0].",
+          "kind": "recommendation",
+          "parent_comment_id": "49342133"
+        }
+      ]
+    },
+    {
+      "name": "Real-Time Rendering",
+      "category": "Graphics & Rendering",
+      "thing_url": "https://www.realtimerendering.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49337630",
+      "source_story_title": "How do functions like alloca allocate memory from the stack?",
+      "summary": "A reference book covering real-time graphics techniques with game-production examples.",
+      "why_included": "It was singled out as the strongest broad resource for rendering techniques and examples from major games.",
+      "evidence": "A commenter called Real-Time Rendering the absolute best resource for comprehensive techniques with examples from big games.",
+      "evidence_sources": [
+        {
+          "comment_id": "49342550",
+          "comment_url": "https://news.ycombinator.com/item?id=49337630#49342550",
+          "author": "Agentlien",
+          "excerpt": "the absolutely best resource is the book Real-Time Rendering[2].",
+          "kind": "recommendation",
+          "parent_comment_id": "49342133"
+        }
+      ]
+    },
+    {
+      "name": "Ray Tracing in One Weekend",
+      "category": "Graphics & Rendering",
+      "thing_url": "https://raytracing.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49337630",
+      "source_story_title": "How do functions like alloca allocate memory from the stack?",
+      "summary": "A free book series for building a ray tracer from first principles.",
+      "why_included": "It was explicitly cited as a widely recommended route into ray tracing.",
+      "evidence": "A commenter noted that many people recommend Ray Tracing in One Weekend for learning ray tracing.",
+      "evidence_sources": [
+        {
+          "comment_id": "49342550",
+          "comment_url": "https://news.ycombinator.com/item?id=49337630#49342550",
+          "author": "Agentlien",
+          "excerpt": "a lot of people recommend \"Ray Tracing in One Weekend\"[3].",
+          "kind": "recommendation",
+          "parent_comment_id": "49342133"
+        }
+      ]
+    },
+    {
+      "name": "Physically Based Rendering: From Theory to Implementation",
+      "category": "Graphics & Rendering",
+      "thing_url": "https://www.pbr-book.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49337630",
+      "source_story_title": "How do functions like alloca allocate memory from the stack?",
+      "summary": "A freely available textbook on the theory and implementation of photorealistic rendering.",
+      "why_included": "It was directly endorsed for deep, state-of-the-art ray-tracing study.",
+      "evidence": "A commenter called Physically Based Rendering the best resource for in-depth ray tracing and noted that it is freely available online.",
+      "evidence_sources": [
+        {
+          "comment_id": "49342550",
+          "comment_url": "https://news.ycombinator.com/item?id=49337630#49342550",
+          "author": "Agentlien",
+          "excerpt": "the best resource is \"Physically Based Rendering: From Theory to Implementation\"[4], which is freely available online.",
+          "kind": "recommendation",
+          "parent_comment_id": "49342133"
+        }
+      ]
+    }
+  ]
+}

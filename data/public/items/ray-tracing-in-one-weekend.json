@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "ray-tracing-in-one-weekend",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:ray-tracing-in-one-weekend:49337630",
+  "mention_ids": [
+    "2026-08-19:ray-tracing-in-one-weekend:49337630"
+  ],
+  "name": "Ray Tracing in One Weekend",
+  "slug": "ray-tracing-in-one-weekend",
+  "summary": "A free book series for building a ray tracer from first principles.",
+  "thing_url": "https://raytracing.github.io/",
+  "times_seen": 1,
+  "why_included": "It was explicitly cited as a widely recommended route into ray tracing."
+}

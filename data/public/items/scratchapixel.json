@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "scratchapixel",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:scratchapixel:49337630",
+  "mention_ids": [
+    "2026-08-19:scratchapixel:49337630"
+  ],
+  "name": "Scratchapixel",
+  "slug": "scratchapixel",
+  "summary": "A free, beginner-friendly collection of computer-graphics programming lessons.",
+  "thing_url": "https://www.scratchapixel.com/",
+  "times_seen": 1,
+  "why_included": "It received an unambiguous recommendation as the strongest modern starting point for beginner graphics programmers."
+}

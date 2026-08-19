@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said Polars unlocked tasks they could not imagine doing with Pandas and praised its speed.",
+  "evidence_sources": [
+    {
+      "author": "ForceBru",
+      "comment_id": "49353544",
+      "comment_url": "https://news.ycombinator.com/item?id=49345476#49353544",
+      "context": "first_hand_use",
+      "excerpt": "Now I can do things I couldn't even dream of with Pandas! And it's fast, too!",
+      "kind": "recommendation",
+      "parent_comment_id": "49352015"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49345476",
+  "id": "2026-08-19:polars:49345476",
+  "is_repeat": false,
+  "issue_id": "2026-08-19",
+  "item_id": "polars",
+  "rank": 4,
+  "seen_at": "2026-08-19T05:17:53+02:00",
+  "source_story_id": "49345476",
+  "source_story_title": "Python Polars Cheatsheet (based on our O'Reilly book)"
+}

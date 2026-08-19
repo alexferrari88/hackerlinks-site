@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called Physically Based Rendering the best resource for in-depth ray tracing and noted that it is freely available online.",
+  "evidence_sources": [
+    {
+      "author": "Agentlien",
+      "comment_id": "49342550",
+      "comment_url": "https://news.ycombinator.com/item?id=49337630#49342550",
+      "excerpt": "the best resource is \"Physically Based Rendering: From Theory to Implementation\"[4], which is freely available online.",
+      "kind": "recommendation",
+      "parent_comment_id": "49342133"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49337630",
+  "id": "2026-08-19:physically-based-rendering-from-theory-to-implementation:49337630",
+  "is_repeat": false,
+  "issue_id": "2026-08-19",
+  "item_id": "physically-based-rendering-from-theory-to-implementation",
+  "rank": 9,
+  "seen_at": "2026-08-19T05:17:53+02:00",
+  "source_story_id": "49337630",
+  "source_story_title": "How do functions like alloca allocate memory from the stack?"
+}

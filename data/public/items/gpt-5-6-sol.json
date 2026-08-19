@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "gpt-5-6-sol",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:gpt-5-6-sol:49337602",
+  "mention_ids": [
+    "2026-08-19:gpt-5-6-sol:49337602"
+  ],
+  "name": "GPT-5.6 Sol",
+  "slug": "gpt-5-6-sol",
+  "summary": "A reasoning model that helped recover game-file keys and explain unfamiliar data.",
+  "thing_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+  "times_seen": 1,
+  "why_included": "A first-hand report described a successful, non-obstructive result on a difficult reverse-engineering task."
+}

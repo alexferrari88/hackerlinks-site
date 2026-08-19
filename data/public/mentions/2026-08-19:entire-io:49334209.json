@@ -1,0 +1,23 @@
+{
+  "evidence": "An unaffiliated commenter said they use the Entire.io CLI and find it useful.",
+  "evidence_sources": [
+    {
+      "author": "kakugawa",
+      "comment_id": "49338150",
+      "comment_url": "https://news.ycombinator.com/item?id=49334209#49338150",
+      "context": "first_hand_use",
+      "excerpt": "Not affiliated, but I use the Entire.io CLI and I find it useful.",
+      "kind": "recommendation",
+      "parent_comment_id": "49337663"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49334209",
+  "id": "2026-08-19:entire-io:49334209",
+  "is_repeat": false,
+  "issue_id": "2026-08-19",
+  "item_id": "entire-io",
+  "rank": 2,
+  "seen_at": "2026-08-19T05:17:53+02:00",
+  "source_story_id": "49334209",
+  "source_story_title": "Cursor launches Origin, GitHub alternative"
+}

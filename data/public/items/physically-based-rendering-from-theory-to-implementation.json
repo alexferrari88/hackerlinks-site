@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-19T05:17:53+02:00",
+  "id": "physically-based-rendering-from-theory-to-implementation",
+  "last_seen_at": "2026-08-19T05:17:53+02:00",
+  "latest_mention_id": "2026-08-19:physically-based-rendering-from-theory-to-implementation:49337630",
+  "mention_ids": [
+    "2026-08-19:physically-based-rendering-from-theory-to-implementation:49337630"
+  ],
+  "name": "Physically Based Rendering: From Theory to Implementation",
+  "slug": "physically-based-rendering-from-theory-to-implementation",
+  "summary": "A freely available textbook on the theory and implementation of photorealistic rendering.",
+  "thing_url": "https://www.pbr-book.org/",
+  "times_seen": 1,
+  "why_included": "It was directly endorsed for deep, state-of-the-art ray-tracing study."
+}
