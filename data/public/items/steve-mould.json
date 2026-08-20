@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-20T05:16:56+02:00",
+  "id": "steve-mould",
+  "last_seen_at": "2026-08-20T05:16:56+02:00",
+  "latest_mention_id": "2026-08-20:steve-mould:49306207",
+  "mention_ids": [
+    "2026-08-20:steve-mould:49306207"
+  ],
+  "name": "Steve Mould",
+  "slug": "steve-mould",
+  "summary": "A YouTube channel focused on clear science and engineering videos.",
+  "thing_url": "https://youtube.com/@SteveMould",
+  "times_seen": 1,
+  "why_included": "A commenter gave the channel an unambiguous personal endorsement."
+}

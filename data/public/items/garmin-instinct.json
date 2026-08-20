@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-20T05:16:56+02:00",
+  "id": "garmin-instinct",
+  "last_seen_at": "2026-08-20T05:16:56+02:00",
+  "latest_mention_id": "2026-08-20:garmin-instinct:49362887",
+  "mention_ids": [
+    "2026-08-20:garmin-instinct:49362887"
+  ],
+  "name": "Garmin Instinct",
+  "slug": "garmin-instinct",
+  "summary": "A rugged smartwatch line with activity, HRV, and body-battery analytics.",
+  "thing_url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
+  "times_seen": 1,
+  "why_included": "A long-term wearer said the Garmin Instinct meets their needs and praised its detailed analytics."
+}

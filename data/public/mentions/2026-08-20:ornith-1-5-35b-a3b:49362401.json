@@ -1,0 +1,23 @@
+{
+  "evidence": "The user reported being impressed by its speed and results in web-scraping work.",
+  "evidence_sources": [
+    {
+      "author": "jonesy827",
+      "comment_id": "49364408",
+      "comment_url": "https://news.ycombinator.com/item?id=49362401#49364408",
+      "context": "first_hand_use",
+      "excerpt": "I've been using the 35B-A3B today for some web scraping work, and it has been on par with Qwen3.8 27B at a much higher speed and at a higher quant (q4 vs q8). I'm impressed.",
+      "kind": "recommendation",
+      "parent_comment_id": "49362401"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49362401",
+  "id": "2026-08-20:ornith-1-5-35b-a3b:49362401",
+  "is_repeat": false,
+  "issue_id": "2026-08-20",
+  "item_id": "ornith-1-5-35b-a3b",
+  "rank": 5,
+  "seen_at": "2026-08-20T05:16:56+02:00",
+  "source_story_id": "49362401",
+  "source_story_title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
+}

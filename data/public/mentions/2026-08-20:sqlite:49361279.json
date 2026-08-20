@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they use SQLite for everything and are perfectly happy with it at their scale.",
+  "evidence_sources": [
+    {
+      "author": "replwoacause",
+      "comment_id": "49361749",
+      "comment_url": "https://news.ycombinator.com/item?id=49361279#49361749",
+      "context": "first_hand_use",
+      "excerpt": "I use SQLite for everything, and I'm perfectly happy with it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49361279"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49361279",
+  "id": "2026-08-20:sqlite:49361279",
+  "is_repeat": false,
+  "issue_id": "2026-08-20",
+  "item_id": "sqlite",
+  "rank": 8,
+  "seen_at": "2026-08-20T05:16:56+02:00",
+  "source_story_id": "49361279",
+  "source_story_title": "PostgreSQL for Everything"
+}

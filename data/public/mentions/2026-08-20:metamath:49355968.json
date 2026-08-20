@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter described the Metamath community's centralized results collection as Palomar's equivalent.",
+  "evidence_sources": [
+    {
+      "author": "dwheeler",
+      "comment_id": "49357206",
+      "comment_url": "https://news.ycombinator.com/item?id=49355968#49357206",
+      "excerpt": "Very cool. The metamath community tends to centralize results, so its equivalent is simply:",
+      "kind": "comparison",
+      "parent_comment_id": "49355968"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49355968",
+  "id": "2026-08-20:metamath:49355968",
+  "is_repeat": false,
+  "issue_id": "2026-08-20",
+  "item_id": "metamath",
+  "rank": 4,
+  "seen_at": "2026-08-20T05:16:56+02:00",
+  "source_story_id": "49355968",
+  "source_story_title": "Palomar: A registry of Lean verified mathematics"
+}

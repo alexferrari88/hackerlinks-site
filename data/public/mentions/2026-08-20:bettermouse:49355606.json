@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reports using BetterMouse on macOS with an MX Master mouse.",
+  "evidence_sources": [
+    {
+      "author": "jsalama",
+      "comment_id": "49356751",
+      "comment_url": "https://news.ycombinator.com/item?id=49355606#49356751",
+      "context": "first_hand_use",
+      "excerpt": "Personally I've been using BetterMouse on macOS with my MX Master, although it's not open source.",
+      "kind": "recommendation",
+      "parent_comment_id": "49355606"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49355606",
+  "id": "2026-08-20:bettermouse:49355606",
+  "is_repeat": false,
+  "issue_id": "2026-08-20",
+  "item_id": "bettermouse",
+  "rank": 1,
+  "seen_at": "2026-08-20T05:16:56+02:00",
+  "source_story_id": "49355606",
+  "source_story_title": "OpenLogi"
+}

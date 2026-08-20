@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-20T05:16:56+02:00",
+  "id": "sqlite",
+  "last_seen_at": "2026-08-20T05:16:56+02:00",
+  "latest_mention_id": "2026-08-20:sqlite:49361279",
+  "mention_ids": [
+    "2026-08-20:sqlite:49361279"
+  ],
+  "name": "SQLite",
+  "slug": "sqlite",
+  "summary": "An embedded SQL database suited to simple, low-concurrency applications.",
+  "thing_url": "https://sqlite.org/",
+  "times_seen": 1,
+  "why_included": "A commenter gave an unqualified first-hand endorsement for their own scale despite known writer limits."
+}

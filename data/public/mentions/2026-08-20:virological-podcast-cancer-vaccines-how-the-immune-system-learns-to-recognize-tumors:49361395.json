@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommended the episode after listening to it the prior month.",
+  "evidence_sources": [
+    {
+      "author": "MartinMond",
+      "comment_id": "49361870",
+      "comment_url": "https://news.ycombinator.com/item?id=49361395#49361870",
+      "context": "first_hand_use",
+      "excerpt": "I listened to a great podcast on this just a month ago",
+      "kind": "recommendation",
+      "parent_comment_id": "49361395"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49361395",
+  "id": "2026-08-20:virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors:49361395",
+  "is_repeat": false,
+  "issue_id": "2026-08-20",
+  "item_id": "virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors",
+  "rank": 2,
+  "seen_at": "2026-08-20T05:16:56+02:00",
+  "source_story_id": "49361395",
+  "source_story_title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-20T05:16:56+02:00",
+  "id": "virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors",
+  "last_seen_at": "2026-08-20T05:16:56+02:00",
+  "latest_mention_id": "2026-08-20:virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors:49361395",
+  "mention_ids": [
+    "2026-08-20:virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors:49361395"
+  ],
+  "name": "Virological podcast \u2014 Cancer vaccines: How the immune system learns to recognize tumors",
+  "slug": "virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors",
+  "summary": "A podcast episode explaining how cancer vaccines train immune recognition of tumors.",
+  "thing_url": "https://virological.podigee.io/51-21-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors",
+  "times_seen": 1,
+  "why_included": "A listener explicitly called the episode great in a thread on mRNA cancer vaccines."
+}

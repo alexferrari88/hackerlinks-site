@@ -1,0 +1,23 @@
+{
+  "evidence": "The wearer specifically said the watch hits the spot and called its HRV and daily-battery analytics awesome.",
+  "evidence_sources": [
+    {
+      "author": "sheepscreek",
+      "comment_id": "49368130",
+      "comment_url": "https://news.ycombinator.com/item?id=49362887#49368130",
+      "context": "first_hand_use",
+      "excerpt": "HRV and \u201cdaily battery\u201d are awesome",
+      "kind": "recommendation",
+      "parent_comment_id": "49362887"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49362887",
+  "id": "2026-08-20:garmin-instinct:49362887",
+  "is_repeat": false,
+  "issue_id": "2026-08-20",
+  "item_id": "garmin-instinct",
+  "rank": 6,
+  "seen_at": "2026-08-20T05:16:56+02:00",
+  "source_story_id": "49362887",
+  "source_story_title": "Casio F-B100W-1A"
+}

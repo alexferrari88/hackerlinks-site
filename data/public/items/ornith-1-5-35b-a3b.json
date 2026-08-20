@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-20T05:16:56+02:00",
+  "id": "ornith-1-5-35b-a3b",
+  "last_seen_at": "2026-08-20T05:16:56+02:00",
+  "latest_mention_id": "2026-08-20:ornith-1-5-35b-a3b:49362401",
+  "mention_ids": [
+    "2026-08-20:ornith-1-5-35b-a3b:49362401"
+  ],
+  "name": "Ornith-1.5 35B-A3B",
+  "slug": "ornith-1-5-35b-a3b",
+  "summary": "A local mixture-of-experts model used for fast web-scraping tasks.",
+  "thing_url": "https://ornith.ai/ornith_1_5.html",
+  "times_seen": 1,
+  "why_included": "A first-hand user found it competitive with a larger Qwen model while running faster."
+}

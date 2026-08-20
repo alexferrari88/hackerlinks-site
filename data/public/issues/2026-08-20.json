@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T05:16:56+02:00",
+  "headline": "8 interesting things surfaced from HN on 2026-08-20",
+  "id": "2026-08-20",
+  "mention_ids": [
+    "2026-08-20:bettermouse:49355606",
+    "2026-08-20:virological-podcast-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors:49361395",
+    "2026-08-20:steve-mould:49306207",
+    "2026-08-20:metamath:49355968",
+    "2026-08-20:ornith-1-5-35b-a3b:49362401",
+    "2026-08-20:garmin-instinct:49362887",
+    "2026-08-20:pebble-time-2:49362887",
+    "2026-08-20:sqlite:49361279"
+  ],
+  "summary": {
+    "items_surfaced": 8,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

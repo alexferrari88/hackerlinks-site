@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-08-20",
+  "generated_at": "2026-08-20T05:16:56+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-20.json",
+    "sha256": "8aa138b6ba2f573ba5602168bde89f06519d72d9c29339cac44c16b9afeb6e58",
+    "bytes": 3518210,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5602,
+    "fetched_item_count": 5632,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Eight concrete, comment-endorsed tools, media picks, and devices surfaced from a verified complete HN comment crawl.",
+  "telegram_footer": "8 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "BetterMouse",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://better-mouse.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49355606",
+      "source_story_title": "OpenLogi",
+      "summary": "A macOS mouse utility for configurable MX Master gestures and controls.",
+      "why_included": "A long-term MX Master user named it as their personal replacement for Logitech software.",
+      "evidence": "The commenter reports using BetterMouse on macOS with an MX Master mouse.",
+      "evidence_sources": [{"comment_id":"49356751","comment_url":"https://news.ycombinator.com/item?id=49355606#49356751","author":"jsalama","excerpt":"Personally I've been using BetterMouse on macOS with my MX Master, although it's not open source.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49355606"}]
+    },
+    {
+      "name": "Virological podcast — Cancer vaccines: How the immune system learns to recognize tumors",
+      "category": "🎧 Media & Publishing",
+      "thing_url": "https://virological.podigee.io/51-21-cancer-vaccines-how-the-immune-system-learns-to-recognize-tumors",
+      "hn_url": "https://news.ycombinator.com/item?id=49361395",
+      "source_story_title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "summary": "A podcast episode explaining how cancer vaccines train immune recognition of tumors.",
+      "why_included": "A listener explicitly called the episode great in a thread on mRNA cancer vaccines.",
+      "evidence": "A commenter recommended the episode after listening to it the prior month.",
+      "evidence_sources": [{"comment_id":"49361870","comment_url":"https://news.ycombinator.com/item?id=49361395#49361870","author":"MartinMond","excerpt":"I listened to a great podcast on this just a month ago","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49361395"}]
+    },
+    {
+      "name": "Steve Mould",
+      "category": "🎥 Watch & Learn",
+      "thing_url": "https://youtube.com/@SteveMould",
+      "hn_url": "https://news.ycombinator.com/item?id=49306207",
+      "source_story_title": "Supersonic Trebuchet [video]",
+      "summary": "A YouTube channel focused on clear science and engineering videos.",
+      "why_included": "A commenter gave the channel an unambiguous personal endorsement.",
+      "evidence": "The commenter called Steve Mould someone to love and linked directly to the channel.",
+      "evidence_sources": [{"comment_id":"49359160","comment_url":"https://news.ycombinator.com/item?id=49306207#49359160","author":"manlymuppet","excerpt":"Another guy to love:","kind":"recommendation","parent_comment_id":"49359150"}]
+    },
+    {
+      "name": "Metamath",
+      "category": "🧪 Programming & Verification",
+      "thing_url": "https://us.metamath.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49355968",
+      "source_story_title": "Palomar: A registry of Lean verified mathematics",
+      "summary": "A community repository for formalized mathematical proofs and results.",
+      "why_included": "A commenter highlighted Metamath as the established centralized equivalent to the new Lean registry.",
+      "evidence": "The commenter described the Metamath community's centralized results collection as Palomar's equivalent.",
+      "evidence_sources": [{"comment_id":"49357206","comment_url":"https://news.ycombinator.com/item?id=49355968#49357206","author":"dwheeler","excerpt":"Very cool. The metamath community tends to centralize results, so its equivalent is simply:","kind":"comparison","parent_comment_id":"49355968"}]
+    },
+    {
+      "name": "Ornith-1.5 35B-A3B",
+      "category": "🤖 AI & Local Models",
+      "thing_url": "https://ornith.ai/ornith_1_5.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49362401",
+      "source_story_title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "summary": "A local mixture-of-experts model used for fast web-scraping tasks.",
+      "why_included": "A first-hand user found it competitive with a larger Qwen model while running faster.",
+      "evidence": "The user reported being impressed by its speed and results in web-scraping work.",
+      "evidence_sources": [{"comment_id":"49364408","comment_url":"https://news.ycombinator.com/item?id=49362401#49364408","author":"jonesy827","excerpt":"I've been using the 35B-A3B today for some web scraping work, and it has been on par with Qwen3.8 27B at a much higher speed and at a higher quant (q4 vs q8). I'm impressed.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49362401"}]
+    },
+    {
+      "name": "Garmin Instinct",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
+      "hn_url": "https://news.ycombinator.com/item?id=49362887",
+      "source_story_title": "Casio F-B100W-1A",
+      "summary": "A rugged smartwatch line with activity, HRV, and body-battery analytics.",
+      "why_included": "A long-term wearer said the Garmin Instinct meets their needs and praised its detailed analytics.",
+      "evidence": "The wearer specifically said the watch hits the spot and called its HRV and daily-battery analytics awesome.",
+      "evidence_sources": [{"comment_id":"49368130","comment_url":"https://news.ycombinator.com/item?id=49362887#49368130","author":"sheepscreek","excerpt":"HRV and “daily battery” are awesome","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49362887"}]
+    },
+    {
+      "name": "Pebble Time 2",
+      "category": "📚 Apps & Side Projects",
+      "thing_url": "https://repebble.com/watch",
+      "hn_url": "https://news.ycombinator.com/item?id=49362887",
+      "source_story_title": "Casio F-B100W-1A",
+      "summary": "A revived color e-paper smartwatch with a touchscreen and heart-rate monitor.",
+      "why_included": "A current wearer gave the smartwatch an unusually direct, enthusiastic personal endorsement.",
+      "evidence": "The commenter said they keep wearing a Pebble Time 2 and absolutely love it.",
+      "evidence_sources": [{"comment_id":"49363526","comment_url":"https://news.ycombinator.com/item?id=49362887#49363526","author":"SyneRyder","excerpt":"Me, I'll keep rocking my Pebble Time 2. Absolutely love it.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49363461"}]
+    },
+    {
+      "name": "SQLite",
+      "category": "🛠️ Dev Tools & Workflows",
+      "thing_url": "https://sqlite.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49361279",
+      "source_story_title": "PostgreSQL for Everything",
+      "summary": "An embedded SQL database suited to simple, low-concurrency applications.",
+      "why_included": "A commenter gave an unqualified first-hand endorsement for their own scale despite known writer limits.",
+      "evidence": "The commenter said they use SQLite for everything and are perfectly happy with it at their scale.",
+      "evidence_sources": [{"comment_id":"49361749","comment_url":"https://news.ycombinator.com/item?id=49361279#49361749","author":"replwoacause","excerpt":"I use SQLite for everything, and I'm perfectly happy with it.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49361279"}]
+    }
+  ]
+}
