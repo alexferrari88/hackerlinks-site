@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said its four-D pattern had become part of how they use AI systems.",
+  "evidence_sources": [
+    {
+      "author": "beklein",
+      "comment_id": "49372422",
+      "comment_url": "https://news.ycombinator.com/item?id=49371857#49372422",
+      "context": "first_hand_use",
+      "excerpt": "One of the best frameworks I have encountered, and one I point people to whenever I can, is the AI Fluency framework",
+      "kind": "recommendation",
+      "parent_comment_id": "49372025"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49371857",
+  "id": "2026-08-21:ai-fluency-framework:49371857",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "ai-fluency-framework",
+  "rank": 1,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49371857",
+  "source_story_title": "Don't paste the AI, please"
+}

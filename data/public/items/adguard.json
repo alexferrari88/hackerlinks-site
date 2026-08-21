@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "adguard",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:adguard:49372583",
+  "mention_ids": [
+    "2026-08-21:adguard:49372583"
+  ],
+  "name": "AdGuard",
+  "slug": "adguard",
+  "summary": "A privacy tool that blocks ads and unwanted web content.",
+  "thing_url": "https://adguard.com/",
+  "times_seen": 1,
+  "why_included": "A commenter named it as their direct response to pervasive tracking and audio-connection side effects on websites."
+}

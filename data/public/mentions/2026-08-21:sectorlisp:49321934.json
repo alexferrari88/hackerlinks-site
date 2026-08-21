@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called SectorLisp far better than the alternatives they were comparing.",
+  "evidence_sources": [
+    {
+      "author": "anthk",
+      "comment_id": "49373500",
+      "comment_url": "https://news.ycombinator.com/item?id=49321934#49373500",
+      "context": "evaluated",
+      "excerpt": "I love both Forth and Lisp but SectorLisp it's far better.",
+      "kind": "comparison",
+      "parent_comment_id": "49321934"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49321934",
+  "id": "2026-08-21:sectorlisp:49321934",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "sectorlisp",
+  "rank": 5,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49321934",
+  "source_story_title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)"
+}

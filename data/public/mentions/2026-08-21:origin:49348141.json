@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described renewed confidence in Origin after reading Cursor's technical explanation.",
+  "evidence_sources": [
+    {
+      "author": "iamandoni",
+      "comment_id": "49382185",
+      "comment_url": "https://news.ycombinator.com/item?id=49348141#49382185",
+      "context": "evaluated",
+      "excerpt": "when I first heard about Origin, I was skeptical. But now I do believe that the team behind it is capable of pulling it off and shipping something truly incredible.",
+      "kind": "recommendation",
+      "parent_comment_id": "49348141"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49348141",
+  "id": "2026-08-21:origin:49348141",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "origin",
+  "rank": 4,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49348141",
+  "source_story_title": "Git at any scale"
+}

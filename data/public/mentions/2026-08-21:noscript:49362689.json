@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said NoScript looked much better than what they had been using.",
+  "evidence_sources": [
+    {
+      "author": "djoldman",
+      "comment_id": "49376959",
+      "comment_url": "https://news.ycombinator.com/item?id=49362689#49376959",
+      "context": "evaluated",
+      "excerpt": "Looks like NoScript is way better than what I've been using. Thanks!",
+      "kind": "comparison",
+      "parent_comment_id": "49375892"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49362689",
+  "id": "2026-08-21:noscript:49362689",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "noscript",
+  "rank": 6,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49362689",
+  "source_story_title": "HTML Can Do That"
+}

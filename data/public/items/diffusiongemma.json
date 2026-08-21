@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "diffusiongemma",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:diffusiongemma:49374287",
+  "mention_ids": [
+    "2026-08-21:diffusiongemma:49374287"
+  ],
+  "name": "DiffusionGemma",
+  "slug": "diffusiongemma",
+  "summary": "A diffusion language model designed for fast parallel text generation.",
+  "thing_url": "https://deepmind.google/models/gemma/diffusiongemma",
+  "times_seen": 1,
+  "why_included": "A macOS reimplementation user gave specific, positive hands-on feedback about its reasoning and local performance."
+}

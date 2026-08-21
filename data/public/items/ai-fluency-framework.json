@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "ai-fluency-framework",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:ai-fluency-framework:49371857",
+  "mention_ids": [
+    "2026-08-21:ai-fluency-framework:49371857"
+  ],
+  "name": "AI Fluency framework",
+  "slug": "ai-fluency-framework",
+  "summary": "A framework for deliberate, practical use of AI systems.",
+  "thing_url": "https://www.anthropic.com/learn/claude-for-you",
+  "times_seen": 1,
+  "why_included": "A commenter called it one of the best frameworks they had encountered and said they regularly recommend it."
+}

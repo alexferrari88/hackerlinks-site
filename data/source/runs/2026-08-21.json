@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "run_date": "2026-08-21",
+  "generated_at": "2026-08-21T05:18:07+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-21.json",
+    "sha256": "f4a6e7e05275fe541734d8d85c56ed4ab22acfbb9e774c8c7177e312592330cc",
+    "bytes": 3062406,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4780,
+    "fetched_item_count": 4810,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Nine concrete, comment-endorsed tools, resources, and projects surfaced from a complete HN front-page comment crawl.",
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "AI Fluency framework",
+      "category": "AI & Learning",
+      "thing_url": "https://www.anthropic.com/learn/claude-for-you",
+      "hn_url": "https://news.ycombinator.com/item?id=49371857",
+      "source_story_title": "Don't paste the AI, please",
+      "summary": "A framework for deliberate, practical use of AI systems.",
+      "why_included": "A commenter called it one of the best frameworks they had encountered and said they regularly recommend it.",
+      "evidence": "The commenter said its four-D pattern had become part of how they use AI systems.",
+      "evidence_sources": [
+        {
+          "comment_id": "49372422",
+          "comment_url": "https://news.ycombinator.com/item?id=49371857#49372422",
+          "author": "beklein",
+          "excerpt": "One of the best frameworks I have encountered, and one I point people to whenever I can, is the AI Fluency framework",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49372025"
+        }
+      ]
+    },
+    {
+      "name": "DiffusionGemma",
+      "category": "AI & Learning",
+      "thing_url": "https://deepmind.google/models/gemma/diffusiongemma",
+      "hn_url": "https://news.ycombinator.com/item?id=49374287",
+      "source_story_title": "DiffusionGemma Technical Report",
+      "summary": "A diffusion language model designed for fast parallel text generation.",
+      "why_included": "A macOS reimplementation user gave specific, positive hands-on feedback about its reasoning and local performance.",
+      "evidence": "The commenter liked the model, found it adaptable, and reported strong Metal performance.",
+      "evidence_sources": [
+        {
+          "comment_id": "49376900",
+          "comment_url": "https://news.ycombinator.com/item?id=49374287#49376900",
+          "author": "mmastrac",
+          "excerpt": "I like the model a lot and it's fairly good at reasoning. You can also really bend it to your needs.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49374287"
+        }
+      ]
+    },
+    {
+      "name": "nnn",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/jarun/nnn",
+      "hn_url": "https://news.ycombinator.com/item?id=49374269",
+      "source_story_title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "summary": "A lightweight terminal file manager written in C.",
+      "why_included": "A daily user highlighted its small, conventional dependency footprint while praising the durability of C projects.",
+      "evidence": "The commenter uses nnn and valued software that avoids frequent update churn.",
+      "evidence_sources": [
+        {
+          "comment_id": "49381102",
+          "comment_url": "https://news.ycombinator.com/item?id=49374269#49381102",
+          "author": "skydhash",
+          "excerpt": "I use nnn[0], a C tui file manager",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49378879"
+        }
+      ]
+    },
+    {
+      "name": "Origin",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://cursor.com/blog/git-at-any-scale",
+      "hn_url": "https://news.ycombinator.com/item?id=49348141",
+      "source_story_title": "Git at any scale",
+      "summary": "Cursor's Git-hosting platform for high-volume agent collaboration.",
+      "why_included": "A skeptical reader came away confident that the team could ship a compelling platform.",
+      "evidence": "The commenter described renewed confidence in Origin after reading Cursor's technical explanation.",
+      "evidence_sources": [
+        {
+          "comment_id": "49382185",
+          "comment_url": "https://news.ycombinator.com/item?id=49348141#49382185",
+          "author": "iamandoni",
+          "excerpt": "when I first heard about Origin, I was skeptical. But now I do believe that the team behind it is capable of pulling it off and shipping something truly incredible.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49348141"
+        }
+      ]
+    },
+    {
+      "name": "SectorLisp",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/jart/sectorlisp",
+      "hn_url": "https://news.ycombinator.com/item?id=49321934",
+      "source_story_title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "summary": "A boot-sector Lisp that bootstraps a Lisp evaluator on bare metal.",
+      "why_included": "A Forth and Lisp enthusiast explicitly preferred it in a discussion of tiny boot-sector language systems.",
+      "evidence": "The commenter called SectorLisp far better than the alternatives they were comparing.",
+      "evidence_sources": [
+        {
+          "comment_id": "49373500",
+          "comment_url": "https://news.ycombinator.com/item?id=49321934#49373500",
+          "author": "anthk",
+          "excerpt": "I love both Forth and Lisp but SectorLisp it's far better.",
+          "kind": "comparison",
+          "context": "evaluated",
+          "parent_comment_id": "49321934"
+        }
+      ]
+    },
+    {
+      "name": "NoScript",
+      "category": "Privacy & Security",
+      "thing_url": "https://noscript.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49362689",
+      "source_story_title": "HTML Can Do That",
+      "summary": "A browser extension for controlling active web content.",
+      "why_included": "A commenter switched attention to it after judging it substantially better than their current blocker.",
+      "evidence": "The commenter said NoScript looked much better than what they had been using.",
+      "evidence_sources": [
+        {
+          "comment_id": "49376959",
+          "comment_url": "https://news.ycombinator.com/item?id=49362689#49376959",
+          "author": "djoldman",
+          "excerpt": "Looks like NoScript is way better than what I've been using. Thanks!",
+          "kind": "comparison",
+          "context": "evaluated",
+          "parent_comment_id": "49375892"
+        }
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "category": "Privacy & Security",
+      "thing_url": "https://adguard.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49372583",
+      "source_story_title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "summary": "A privacy tool that blocks ads and unwanted web content.",
+      "why_included": "A commenter named it as their direct response to pervasive tracking and audio-connection side effects on websites.",
+      "evidence": "The commenter said they use AdGuard everywhere for this problem.",
+      "evidence_sources": [
+        {
+          "comment_id": "49373856",
+          "comment_url": "https://news.ycombinator.com/item?id=49372583#49373856",
+          "author": "ankushdograuk",
+          "excerpt": "This is the reason I use adguard everywhere",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "M5Stack Tab5",
+      "category": "Hardware & Making",
+      "thing_url": "https://m5stack.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49374772",
+      "source_story_title": "Hacking with Claude on a $27 smart watch",
+      "summary": "A modular touchscreen hardware kit for small embedded projects.",
+      "why_included": "A hands-on owner described a playful music-station project and further educational plans for the device.",
+      "evidence": "The commenter said they were having fun with M5Stack and used a Tab5 for a custom music station.",
+      "evidence_sources": [
+        {
+          "comment_id": "49378919",
+          "comment_url": "https://news.ycombinator.com/item?id=49374772#49378919",
+          "author": "cpeth",
+          "excerpt": "I'm having fun with https://m5stack.com/ I bought the Tab5 to make my 2 year old daughter a little music station",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49378172"
+        }
+      ]
+    },
+    {
+      "name": "Against Interpretation",
+      "category": "Books & Essays",
+      "thing_url": "https://www.rizzolibookstore.com/product/against-interpretation-and-other-essays-0",
+      "hn_url": "https://news.ycombinator.com/item?id=49347543",
+      "source_story_title": "I like 'em thick: an apology to my English teachers",
+      "summary": "Susan Sontag's essay collection on art, criticism, and interpretation.",
+      "why_included": "A commenter directly recommended it as a strong companion read and praised Sontag's treatment of art.",
+      "evidence": "The commenter called it a great piece and said readers who enjoyed the thread would probably enjoy it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49377676",
+          "comment_url": "https://news.ycombinator.com/item?id=49347543#49377676",
+          "author": "ransom_rs",
+          "excerpt": "If you enjoyed this you will probably enjoy Against Interpretation by Susan Sontag[0]. Great piece",
+          "kind": "recommendation",
+          "parent_comment_id": "49347543"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses nnn and valued software that avoids frequent update churn.",
+  "evidence_sources": [
+    {
+      "author": "skydhash",
+      "comment_id": "49381102",
+      "comment_url": "https://news.ycombinator.com/item?id=49374269#49381102",
+      "context": "first_hand_use",
+      "excerpt": "I use nnn[0], a C tui file manager",
+      "kind": "recommendation",
+      "parent_comment_id": "49378879"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49374269",
+  "id": "2026-08-21:nnn:49374269",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "nnn",
+  "rank": 3,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49374269",
+  "source_story_title": "Malicious Rust crate Arrayref runs a build-time payload"
+}

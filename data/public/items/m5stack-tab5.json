@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "m5stack-tab5",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:m5stack-tab5:49374772",
+  "mention_ids": [
+    "2026-08-21:m5stack-tab5:49374772"
+  ],
+  "name": "M5Stack Tab5",
+  "slug": "m5stack-tab5",
+  "summary": "A modular touchscreen hardware kit for small embedded projects.",
+  "thing_url": "https://m5stack.com/",
+  "times_seen": 1,
+  "why_included": "A hands-on owner described a playful music-station project and further educational plans for the device."
+}

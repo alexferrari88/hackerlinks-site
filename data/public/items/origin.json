@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "origin",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:origin:49348141",
+  "mention_ids": [
+    "2026-08-21:origin:49348141"
+  ],
+  "name": "Origin",
+  "slug": "origin",
+  "summary": "Cursor's Git-hosting platform for high-volume agent collaboration.",
+  "thing_url": "https://cursor.com/blog/git-at-any-scale",
+  "times_seen": 1,
+  "why_included": "A skeptical reader came away confident that the team could ship a compelling platform."
+}

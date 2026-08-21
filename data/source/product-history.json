@@ -7429,6 +7429,60 @@
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
       "times_reported": 1
+    },
+    {
+      "name": "AI Fluency framework",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DiffusionGemma",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "nnn",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Origin",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SectorLisp",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "NoScript",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AdGuard",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "M5Stack Tab5",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Against Interpretation",
+      "first_reported_at": "2026-08-21T05:18:07+02:00",
+      "last_reported_at": "2026-08-21T05:18:07+02:00",
+      "times_reported": 1
     }
   ]
 }

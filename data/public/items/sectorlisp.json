@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "sectorlisp",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:sectorlisp:49321934",
+  "mention_ids": [
+    "2026-08-21:sectorlisp:49321934"
+  ],
+  "name": "SectorLisp",
+  "slug": "sectorlisp",
+  "summary": "A boot-sector Lisp that bootstraps a Lisp evaluator on bare metal.",
+  "thing_url": "https://github.com/jart/sectorlisp",
+  "times_seen": 1,
+  "why_included": "A Forth and Lisp enthusiast explicitly preferred it in a discussion of tiny boot-sector language systems."
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T05:18:07+02:00",
+  "headline": "9 interesting things surfaced from HN on 2026-08-21",
+  "id": "2026-08-21",
+  "mention_ids": [
+    "2026-08-21:ai-fluency-framework:49371857",
+    "2026-08-21:diffusiongemma:49374287",
+    "2026-08-21:nnn:49374269",
+    "2026-08-21:origin:49348141",
+    "2026-08-21:sectorlisp:49321934",
+    "2026-08-21:noscript:49362689",
+    "2026-08-21:adguard:49372583",
+    "2026-08-21:m5stack-tab5:49374772",
+    "2026-08-21:against-interpretation:49347543"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

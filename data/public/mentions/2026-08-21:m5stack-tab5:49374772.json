@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they were having fun with M5Stack and used a Tab5 for a custom music station.",
+  "evidence_sources": [
+    {
+      "author": "cpeth",
+      "comment_id": "49378919",
+      "comment_url": "https://news.ycombinator.com/item?id=49374772#49378919",
+      "context": "first_hand_use",
+      "excerpt": "I'm having fun with https://m5stack.com/ I bought the Tab5 to make my 2 year old daughter a little music station",
+      "kind": "recommendation",
+      "parent_comment_id": "49378172"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49374772",
+  "id": "2026-08-21:m5stack-tab5:49374772",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "m5stack-tab5",
+  "rank": 8,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49374772",
+  "source_story_title": "Hacking with Claude on a $27 smart watch"
+}

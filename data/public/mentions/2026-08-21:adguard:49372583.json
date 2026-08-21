@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they use AdGuard everywhere for this problem.",
+  "evidence_sources": [
+    {
+      "author": "ankushdograuk",
+      "comment_id": "49373856",
+      "comment_url": "https://news.ycombinator.com/item?id=49372583#49373856",
+      "context": "first_hand_use",
+      "excerpt": "This is the reason I use adguard everywhere",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49372583",
+  "id": "2026-08-21:adguard:49372583",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "adguard",
+  "rank": 7,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49372583",
+  "source_story_title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter liked the model, found it adaptable, and reported strong Metal performance.",
+  "evidence_sources": [
+    {
+      "author": "mmastrac",
+      "comment_id": "49376900",
+      "comment_url": "https://news.ycombinator.com/item?id=49374287#49376900",
+      "context": "first_hand_use",
+      "excerpt": "I like the model a lot and it's fairly good at reasoning. You can also really bend it to your needs.",
+      "kind": "recommendation",
+      "parent_comment_id": "49374287"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49374287",
+  "id": "2026-08-21:diffusiongemma:49374287",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "diffusiongemma",
+  "rank": 2,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49374287",
+  "source_story_title": "DiffusionGemma Technical Report"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-21T05:18:07+02:00",
+  "id": "noscript",
+  "last_seen_at": "2026-08-21T05:18:07+02:00",
+  "latest_mention_id": "2026-08-21:noscript:49362689",
+  "mention_ids": [
+    "2026-08-21:noscript:49362689"
+  ],
+  "name": "NoScript",
+  "slug": "noscript",
+  "summary": "A browser extension for controlling active web content.",
+  "thing_url": "https://noscript.net/",
+  "times_seen": 1,
+  "why_included": "A commenter switched attention to it after judging it substantially better than their current blocker."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called it a great piece and said readers who enjoyed the thread would probably enjoy it.",
+  "evidence_sources": [
+    {
+      "author": "ransom_rs",
+      "comment_id": "49377676",
+      "comment_url": "https://news.ycombinator.com/item?id=49347543#49377676",
+      "excerpt": "If you enjoyed this you will probably enjoy Against Interpretation by Susan Sontag[0]. Great piece",
+      "kind": "recommendation",
+      "parent_comment_id": "49347543"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49347543",
+  "id": "2026-08-21:against-interpretation:49347543",
+  "is_repeat": false,
+  "issue_id": "2026-08-21",
+  "item_id": "against-interpretation",
+  "rank": 9,
+  "seen_at": "2026-08-21T05:18:07+02:00",
+  "source_story_id": "49347543",
+  "source_story_title": "I like 'em thick: an apology to my English teachers"
+}
