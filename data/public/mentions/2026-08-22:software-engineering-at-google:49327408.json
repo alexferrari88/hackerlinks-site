@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter linked the complete online edition and endorsed it.",
+  "evidence_sources": [
+    {
+      "author": "tmoertel",
+      "comment_id": "49394239",
+      "comment_url": "https://news.ycombinator.com/item?id=49327408#49394239",
+      "excerpt": "It's available online for free: https://abseil.io/resources/swe-book And, yep, it's worth a read.",
+      "kind": "recommendation",
+      "parent_comment_id": "49393082"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49327408",
+  "id": "2026-08-22:software-engineering-at-google:49327408",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "software-engineering-at-google",
+  "rank": 7,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49327408",
+  "source_story_title": "People of ACM \u2013 Russ Cox"
+}

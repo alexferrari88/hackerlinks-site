@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported long-term use and clear satisfaction.",
+  "evidence_sources": [
+    {
+      "author": "jcul",
+      "comment_id": "49395217",
+      "comment_url": "https://news.ycombinator.com/item?id=49390427#49395217",
+      "context": "first_hand_use",
+      "excerpt": "I'm still using my kobo clara hd that I bought 8 years ago. What a great device.",
+      "kind": "recommendation",
+      "parent_comment_id": "49394181"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49390427",
+  "id": "2026-08-22:kobo-clara-hd:49390427",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "kobo-clara-hd",
+  "rank": 11,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49390427",
+  "source_story_title": "Kobo can run apps now"
+}

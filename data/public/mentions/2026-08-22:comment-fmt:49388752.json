@@ -1,0 +1,23 @@
+{
+  "evidence": "The author said they run its formatter and linter across all personal projects.",
+  "evidence_sources": [
+    {
+      "author": "vilos1611",
+      "comment_id": "49395441",
+      "comment_url": "https://news.ycombinator.com/item?id=49388752#49395441",
+      "context": "author_or_maintainer",
+      "excerpt": "Both with a formatter and a linter that I run in CI for all my personal projects.",
+      "kind": "recommendation",
+      "parent_comment_id": "49391865"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49388752",
+  "id": "2026-08-22:comment-fmt:49388752",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "comment-fmt",
+  "rank": 1,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49388752",
+  "source_story_title": "Claudette: Make Claude stop talking like a BuzzFeed article"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-22T05:16:40+02:00",
+  "id": "comment-fmt",
+  "last_seen_at": "2026-08-22T05:16:40+02:00",
+  "latest_mention_id": "2026-08-22:comment-fmt:49388752",
+  "mention_ids": [
+    "2026-08-22:comment-fmt:49388752"
+  ],
+  "name": "comment-fmt",
+  "slug": "comment-fmt",
+  "summary": "A deterministic formatter and linter for source-code comments.",
+  "thing_url": "https://www.npmjs.com/package/comment-fmt",
+  "times_seen": 1,
+  "why_included": "Its author uses it in CI to reserve agent-review time for actual behavior."
+}

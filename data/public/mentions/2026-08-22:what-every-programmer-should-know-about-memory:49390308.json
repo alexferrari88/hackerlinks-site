@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter strongly endorsed the article while linking a copy.",
+  "evidence_sources": [
+    {
+      "author": "KellyCriterion",
+      "comment_id": "49392233",
+      "comment_url": "https://news.ycombinator.com/item?id=49390308#49392233",
+      "excerpt": "VERY good article, reminds me on: \"what every programmer should know about memory\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49390308"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49390308",
+  "id": "2026-08-22:what-every-programmer-should-know-about-memory:49390308",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "what-every-programmer-should-know-about-memory",
+  "rank": 9,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49390308",
+  "source_story_title": "What happens when a GPU reads memory"
+}

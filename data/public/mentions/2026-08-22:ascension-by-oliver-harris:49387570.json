@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation connected the novel's unusual setting to the thread's subject.",
+  "evidence_sources": [
+    {
+      "author": "shorsher",
+      "comment_id": "49389123",
+      "comment_url": "https://news.ycombinator.com/item?id=49387570#49389123",
+      "excerpt": "There's a really great spy novel that takes places there, Ascension by Oliver Harris.",
+      "kind": "recommendation",
+      "parent_comment_id": "49387570"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49387570",
+  "id": "2026-08-22:ascension-by-oliver-harris:49387570",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "ascension-by-oliver-harris",
+  "rank": 6,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49387570",
+  "source_story_title": "I accidentally logged hundreds of thousands of phone calls to military bases"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported actively using Pocket TTS and called it super fast.",
+  "evidence_sources": [
+    {
+      "author": "armcat",
+      "comment_id": "49392664",
+      "comment_url": "https://news.ycombinator.com/item?id=49389952#49392664",
+      "context": "evaluated",
+      "excerpt": "I've now been using Pocket TTS which is super fast",
+      "kind": "recommendation",
+      "parent_comment_id": "49389952"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49389952",
+  "id": "2026-08-22:pocket-tts:49389952",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "pocket-tts",
+  "rank": 2,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49389952",
+  "source_story_title": "How we made a text-to-speech model respond in sub-50 ms"
+}

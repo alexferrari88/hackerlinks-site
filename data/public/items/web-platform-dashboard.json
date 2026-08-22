@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-22T05:16:40+02:00",
+  "id": "web-platform-dashboard",
+  "last_seen_at": "2026-08-22T05:16:40+02:00",
+  "latest_mention_id": "2026-08-22:web-platform-dashboard:49385860",
+  "mention_ids": [
+    "2026-08-22:web-platform-dashboard:49385860"
+  ],
+  "name": "Web Platform Dashboard",
+  "slug": "web-platform-dashboard",
+  "summary": "A dashboard tracking browser support for web-platform features.",
+  "thing_url": "https://webstatus.dev",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it alongside established references MDN and Can I Use."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter linked the viewer and called it cool.",
+  "evidence_sources": [
+    {
+      "author": "sans_souse",
+      "comment_id": "49395046",
+      "comment_url": "https://news.ycombinator.com/item?id=49392200#49395046",
+      "excerpt": "Oh this is cool! Google Space could soon be an app :) https://viewer.legacysurvey.org/",
+      "kind": "recommendation",
+      "parent_comment_id": "49392200"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49392200",
+  "id": "2026-08-22:legacy-survey-sky-viewer:49392200",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "legacy-survey-sky-viewer",
+  "rank": 3,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49392200",
+  "source_story_title": "Scientists release biggest 2D map of the universe"
+}

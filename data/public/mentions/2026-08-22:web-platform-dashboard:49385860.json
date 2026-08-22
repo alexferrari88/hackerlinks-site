@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter explicitly added Web Platform Dashboard to a list of great web references.",
+  "evidence_sources": [
+    {
+      "author": "chrisweekly",
+      "comment_id": "49388341",
+      "comment_url": "https://news.ycombinator.com/item?id=49385860#49388341",
+      "excerpt": "MDN and caniuse.com are great. See also https://webstatus.dev",
+      "kind": "recommendation",
+      "parent_comment_id": "49387266"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49385860",
+  "id": "2026-08-22:web-platform-dashboard:49385860",
+  "is_repeat": false,
+  "issue_id": "2026-08-22",
+  "item_id": "web-platform-dashboard",
+  "rank": 4,
+  "seen_at": "2026-08-22T05:16:40+02:00",
+  "source_story_id": "49385860",
+  "source_story_title": "Small, native web tricks worth remembering"
+}

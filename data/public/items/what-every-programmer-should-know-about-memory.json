@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-22T05:16:40+02:00",
+  "id": "what-every-programmer-should-know-about-memory",
+  "last_seen_at": "2026-08-22T05:16:40+02:00",
+  "latest_mention_id": "2026-08-22:what-every-programmer-should-know-about-memory:49390308",
+  "mention_ids": [
+    "2026-08-22:what-every-programmer-should-know-about-memory:49390308"
+  ],
+  "name": "What Every Programmer Should Know About Memory",
+  "slug": "what-every-programmer-should-know-about-memory",
+  "summary": "A deep technical guide to memory hardware and software performance.",
+  "thing_url": "https://github.com/Ty-Chen/Reading-List/blob/master/What%20every%20programmer%20should%20know%20about%20memory.pdf",
+  "times_seen": 1,
+  "why_included": "A commenter invoked it as a very good companion to the submitted article."
+}
