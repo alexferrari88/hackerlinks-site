@@ -7549,6 +7549,72 @@
       "first_reported_at": "2026-08-22T05:16:40+02:00",
       "last_reported_at": "2026-08-22T05:16:40+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "PowerSync",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "TLA+ Language Server Protocol",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "JMH",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "async-profiler",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Grafana OSS observability stack",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Open Watcom",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Quartz",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Johnny.Decimal",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ZSA Voyager",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Monkeytype",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pinky4",
+      "first_reported_at": "2026-08-23T05:18:16+02:00",
+      "last_reported_at": "2026-08-23T05:18:16+02:00",
+      "times_reported": 1
     }
   ]
 }

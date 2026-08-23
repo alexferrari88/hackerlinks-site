@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs Grafana, Loki, Prometheus, Tempo, and Alloy with OpenTelemetry.",
+  "evidence_sources": [
+    {
+      "author": "losingthefight",
+      "comment_id": "49401802",
+      "comment_url": "https://news.ycombinator.com/item?id=49391553#49401802",
+      "context": "production_use",
+      "excerpt": "for all of my personal and consulting jobs, OSS LGTM/P works good for me.",
+      "kind": "recommendation",
+      "parent_comment_id": "49401661"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49391553",
+  "id": "2026-08-23:grafana-oss-observability-stack:49391553",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "grafana-oss-observability-stack",
+  "rank": 5,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49391553",
+  "source_story_title": "OTel isn\u2019t going well"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "quartz",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:quartz:49394827",
+  "mention_ids": [
+    "2026-08-23:quartz:49394827"
+  ],
+  "name": "Quartz",
+  "slug": "quartz",
+  "summary": "A static-site generator for publishing linked Markdown knowledge bases.",
+  "thing_url": "https://quartz.jzhao.xyz/",
+  "times_seen": 1,
+  "why_included": "A user credited Quartz in a simple, cross-device knowledge system that works well."
+}

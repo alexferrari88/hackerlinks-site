@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator uses Johnny.Decimal with Obsidian so Claude can find notes by number.",
+  "evidence_sources": [
+    {
+      "author": "jen729w",
+      "comment_id": "49397071",
+      "comment_url": "https://news.ycombinator.com/item?id=49394827#49397071",
+      "context": "author_or_maintainer",
+      "excerpt": "I use an Obsidian vault and my system. \"It's at 23.16\", I tell Claude. From that it can instantly find my notes and files.",
+      "kind": "author_context",
+      "parent_comment_id": "49394827"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49394827",
+  "id": "2026-08-23:johnny-decimal:49394827",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "johnny-decimal",
+  "rank": 8,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49394827",
+  "source_story_title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+}

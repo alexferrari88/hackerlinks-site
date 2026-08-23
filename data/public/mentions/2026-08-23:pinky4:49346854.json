@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter has used Pinky4 for years and finds every thumb key comfortable.",
+  "evidence_sources": [
+    {
+      "author": "opan",
+      "comment_id": "49404998",
+      "comment_url": "https://news.ycombinator.com/item?id=49346854#49404998",
+      "context": "first_hand_use",
+      "excerpt": "I've been using a Pinky4 for years and all the thumb keys are easy to reach and comfortable.",
+      "kind": "recommendation",
+      "parent_comment_id": "49404693"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49346854",
+  "id": "2026-08-23:pinky4:49346854",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "pinky4",
+  "rank": 11,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49346854",
+  "source_story_title": "typ.ing"
+}

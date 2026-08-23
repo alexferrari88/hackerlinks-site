@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter built it for missing TLA+ Neovim support and praised the result.",
+  "evidence_sources": [
+    {
+      "author": "tombert",
+      "comment_id": "49401934",
+      "comment_url": "https://news.ycombinator.com/item?id=49393052#49401934",
+      "context": "first_hand_use",
+      "excerpt": "I couldn't find good TLA+ bindings for Neovim, so I got Claude to hack together an LSP server for it [1]. It works shockingly well",
+      "kind": "recommendation",
+      "parent_comment_id": "49393052"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49393052",
+  "id": "2026-08-23:tla-language-server-protocol:49393052",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "tla-language-server-protocol",
+  "rank": 2,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49393052",
+  "source_story_title": "Rust Glancer: Rust LSP using 100x less RAM"
+}

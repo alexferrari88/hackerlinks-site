@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "jmh",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:jmh:49395628",
+  "mention_ids": [
+    "2026-08-23:jmh:49395628"
+  ],
+  "name": "JMH",
+  "slug": "jmh",
+  "summary": "OpenJDK's harness for rigorous Java and JVM microbenchmarks.",
+  "thing_url": "https://github.com/openjdk/jmh",
+  "times_seen": 1,
+  "why_included": "An experienced user called it the standard way to handle Java benchmark pitfalls."
+}

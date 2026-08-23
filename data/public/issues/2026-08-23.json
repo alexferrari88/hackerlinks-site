@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T05:18:16+02:00",
+  "headline": "11 interesting things surfaced from HN on 2026-08-23",
+  "id": "2026-08-23",
+  "mention_ids": [
+    "2026-08-23:powersync:49395628",
+    "2026-08-23:tla-language-server-protocol:49393052",
+    "2026-08-23:jmh:49395628",
+    "2026-08-23:async-profiler:49395628",
+    "2026-08-23:grafana-oss-observability-stack:49391553",
+    "2026-08-23:open-watcom:49376769",
+    "2026-08-23:quartz:49394827",
+    "2026-08-23:johnny-decimal:49394827",
+    "2026-08-23:zsa-voyager:49346854",
+    "2026-08-23:monkeytype:49346854",
+    "2026-08-23:pinky4:49346854"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

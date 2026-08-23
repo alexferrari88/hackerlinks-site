@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses async-profiler and explained why its sampling is more accurate.",
+  "evidence_sources": [
+    {
+      "author": "eaftan",
+      "comment_id": "49396963",
+      "comment_url": "https://news.ycombinator.com/item?id=49395628#49396963",
+      "context": "first_hand_use",
+      "excerpt": "async-profiler is not biased in this way.",
+      "kind": "recommendation",
+      "parent_comment_id": "49396604"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49395628",
+  "id": "2026-08-23:async-profiler:49395628",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "async-profiler",
+  "rank": 4,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49395628",
+  "source_story_title": "There's no reason for software to be slow anymore"
+}

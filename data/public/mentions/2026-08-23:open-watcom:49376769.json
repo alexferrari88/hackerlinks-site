@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter loves and regularly uses the Watcom C inline assembler for retro projects.",
+  "evidence_sources": [
+    {
+      "author": "bananaboy",
+      "comment_id": "49398285",
+      "comment_url": "https://news.ycombinator.com/item?id=49376769#49398285",
+      "context": "first_hand_use",
+      "excerpt": "I love the Watcom C inline assembler. I use it frequently in my retro projects!",
+      "kind": "recommendation",
+      "parent_comment_id": "49395715"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49376769",
+  "id": "2026-08-23:open-watcom:49376769",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "open-watcom",
+  "rank": 6,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49376769",
+  "source_story_title": "Everyone says assembly is untyped\u2014everyone is wrong"
+}

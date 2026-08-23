@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter said their company uses PowerSync in production and recommends it.",
+  "evidence_sources": [
+    {
+      "author": "giovannibonetti",
+      "comment_id": "49398837",
+      "comment_url": "https://news.ycombinator.com/item?id=49395628#49398837",
+      "context": "production_use",
+      "excerpt": "My company is a (production) customer, and we recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49395998"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49395628",
+  "id": "2026-08-23:powersync:49395628",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "powersync",
+  "rank": 1,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49395628",
+  "source_story_title": "There's no reason for software to be slow anymore"
+}

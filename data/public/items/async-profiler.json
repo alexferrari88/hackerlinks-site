@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "async-profiler",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:async-profiler:49395628",
+  "mention_ids": [
+    "2026-08-23:async-profiler:49395628"
+  ],
+  "name": "async-profiler",
+  "slug": "async-profiler",
+  "summary": "A low-overhead Java profiler designed to avoid safepoint sampling bias.",
+  "thing_url": "https://github.com/async-profiler/async-profiler",
+  "times_seen": 1,
+  "why_included": "A hands-on user preferred its unbiased profiling over safepoint-based alternatives."
+}

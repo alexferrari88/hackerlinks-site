@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "grafana-oss-observability-stack",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:grafana-oss-observability-stack:49391553",
+  "mention_ids": [
+    "2026-08-23:grafana-oss-observability-stack:49391553"
+  ],
+  "name": "Grafana OSS observability stack",
+  "slug": "grafana-oss-observability-stack",
+  "summary": "A self-hosted stack for dashboards, logs, metrics, traces, and telemetry collection.",
+  "thing_url": "https://grafana.com/oss/",
+  "times_seen": 1,
+  "why_included": "A practitioner said the OSS stack works well across personal and consulting projects."
+}

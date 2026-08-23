@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "pinky4",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:pinky4:49346854",
+  "mention_ids": [
+    "2026-08-23:pinky4:49346854"
+  ],
+  "name": "Pinky4",
+  "slug": "pinky4",
+  "summary": "An open split keyboard with staggered columns and four thumb keys.",
+  "thing_url": "https://github.com/tamanishi/Pinky4",
+  "times_seen": 1,
+  "why_included": "A long-term user praised its reachable, comfortable thumb cluster."
+}

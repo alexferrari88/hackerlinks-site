@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter directly called Monkeytype their favorite.",
+  "evidence_sources": [
+    {
+      "author": "squigz",
+      "comment_id": "49402909",
+      "comment_url": "https://news.ycombinator.com/item?id=49346854#49402909",
+      "excerpt": "Monkeytype is still my favorite https://monkeytype.com/",
+      "kind": "recommendation",
+      "parent_comment_id": "49346854"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49346854",
+  "id": "2026-08-23:monkeytype:49346854",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "monkeytype",
+  "rank": 10,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49346854",
+  "source_story_title": "typ.ing"
+}

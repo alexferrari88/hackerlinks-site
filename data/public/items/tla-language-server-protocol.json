@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "tla-language-server-protocol",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:tla-language-server-protocol:49393052",
+  "mention_ids": [
+    "2026-08-23:tla-language-server-protocol:49393052"
+  ],
+  "name": "TLA+ Language Server Protocol",
+  "slug": "tla-language-server-protocol",
+  "summary": "A TLA+ language server built to add editor support, including Neovim.",
+  "thing_url": "https://github.com/Tombert/TLA-Language-Server-Protocol",
+  "times_seen": 1,
+  "why_included": "Its user said the quickly assembled server works shockingly well."
+}

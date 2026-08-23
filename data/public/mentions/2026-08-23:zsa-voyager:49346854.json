@@ -1,0 +1,32 @@
+{
+  "evidence": "Two users described the Voyager as excellent and delightful, with one reporting resolved wrist pain.",
+  "evidence_sources": [
+    {
+      "author": "Zambyte",
+      "comment_id": "49402471",
+      "comment_url": "https://news.ycombinator.com/item?id=49346854#49402471",
+      "context": "first_hand_use",
+      "excerpt": "Their boards are pricey, but excellent.",
+      "kind": "recommendation",
+      "parent_comment_id": "49346854"
+    },
+    {
+      "author": "masterj",
+      "comment_id": "49403641",
+      "comment_url": "https://news.ycombinator.com/item?id=49346854#49403641",
+      "context": "first_hand_use",
+      "excerpt": "I use the Voyager, and it's a delight! I switched when I was suffering from a lot of wrist pain, and it's never come back.",
+      "kind": "recommendation",
+      "parent_comment_id": "49402471"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49346854",
+  "id": "2026-08-23:zsa-voyager:49346854",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "zsa-voyager",
+  "rank": 9,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49346854",
+  "source_story_title": "typ.ing"
+}

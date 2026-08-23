@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "run_date": "2026-08-23",
+  "generated_at": "2026-08-23T05:18:16+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-23.json",
+    "sha256": "21c2a26f83d6ae45f7878ddce43d6c19adee6343d69504ad784efad88be7615c",
+    "bytes": 2815698,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4415,
+    "fetched_item_count": 4445,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Eleven concrete, comment-endorsed developer tools, knowledge systems, and keyboards surfaced from a complete HN front-page comment crawl.",
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "PowerSync",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://powersync.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49395628",
+      "source_story_title": "There's no reason for software to be slow anymore",
+      "summary": "A database sync engine for responsive offline-first applications.",
+      "why_included": "A production customer explicitly recommended it for building offline-first apps.",
+      "evidence": "A commenter said their company uses PowerSync in production and recommends it.",
+      "evidence_sources": [{"comment_id":"49398837","comment_url":"https://news.ycombinator.com/item?id=49395628#49398837","author":"giovannibonetti","excerpt":"My company is a (production) customer, and we recommend it.","kind":"recommendation","context":"production_use","parent_comment_id":"49395998"}]
+    },
+    {
+      "name": "TLA+ Language Server Protocol",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/Tombert/TLA-Language-Server-Protocol",
+      "hn_url": "https://news.ycombinator.com/item?id=49393052",
+      "source_story_title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "summary": "A TLA+ language server built to add editor support, including Neovim.",
+      "why_included": "Its user said the quickly assembled server works shockingly well.",
+      "evidence": "The commenter built it for missing TLA+ Neovim support and praised the result.",
+      "evidence_sources": [{"comment_id":"49401934","comment_url":"https://news.ycombinator.com/item?id=49393052#49401934","author":"tombert","excerpt":"I couldn't find good TLA+ bindings for Neovim, so I got Claude to hack together an LSP server for it [1]. It works shockingly well","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49393052"}]
+    },
+    {
+      "name": "JMH",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/openjdk/jmh",
+      "hn_url": "https://news.ycombinator.com/item?id=49395628",
+      "source_story_title": "There's no reason for software to be slow anymore",
+      "summary": "OpenJDK's harness for rigorous Java and JVM microbenchmarks.",
+      "why_included": "An experienced user called it the standard way to handle Java benchmark pitfalls.",
+      "evidence": "The commenter uses JMH and highlighted its built-in handling of JIT warmup.",
+      "evidence_sources": [{"comment_id":"49396963","comment_url":"https://news.ycombinator.com/item?id=49395628#49396963","author":"eaftan","excerpt":"JMH as the framework to write microbenchmarks. It takes care of dealing with JIT warmup, etc. It's the standard way to write rigorous Java microbenchmarks.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49396604"}]
+    },
+    {
+      "name": "async-profiler",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/async-profiler/async-profiler",
+      "hn_url": "https://news.ycombinator.com/item?id=49395628",
+      "source_story_title": "There's no reason for software to be slow anymore",
+      "summary": "A low-overhead Java profiler designed to avoid safepoint sampling bias.",
+      "why_included": "A hands-on user preferred its unbiased profiling over safepoint-based alternatives.",
+      "evidence": "The commenter uses async-profiler and explained why its sampling is more accurate.",
+      "evidence_sources": [{"comment_id":"49396963","comment_url":"https://news.ycombinator.com/item?id=49395628#49396963","author":"eaftan","excerpt":"async-profiler is not biased in this way.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49396604"}]
+    },
+    {
+      "name": "Grafana OSS observability stack",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://grafana.com/oss/",
+      "hn_url": "https://news.ycombinator.com/item?id=49391553",
+      "source_story_title": "OTel isn’t going well",
+      "summary": "A self-hosted stack for dashboards, logs, metrics, traces, and telemetry collection.",
+      "why_included": "A practitioner said the OSS stack works well across personal and consulting projects.",
+      "evidence": "The commenter runs Grafana, Loki, Prometheus, Tempo, and Alloy with OpenTelemetry.",
+      "evidence_sources": [{"comment_id":"49401802","comment_url":"https://news.ycombinator.com/item?id=49391553#49401802","author":"losingthefight","excerpt":"for all of my personal and consulting jobs, OSS LGTM/P works good for me.","kind":"recommendation","context":"production_use","parent_comment_id":"49401661"}]
+    },
+    {
+      "name": "Open Watcom",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/open-watcom/open-watcom-v2",
+      "hn_url": "https://news.ycombinator.com/item?id=49376769",
+      "source_story_title": "Everyone says assembly is untyped—everyone is wrong",
+      "summary": "An open-source C, C++, and Fortran toolchain with inline assembly support.",
+      "why_included": "A retro developer enthusiastically endorsed its C inline assembler from frequent use.",
+      "evidence": "The commenter loves and regularly uses the Watcom C inline assembler for retro projects.",
+      "evidence_sources": [{"comment_id":"49398285","comment_url":"https://news.ycombinator.com/item?id=49376769#49398285","author":"bananaboy","excerpt":"I love the Watcom C inline assembler. I use it frequently in my retro projects!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49395715"}]
+    },
+    {
+      "name": "Quartz",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://quartz.jzhao.xyz/",
+      "hn_url": "https://news.ycombinator.com/item?id=49394827",
+      "source_story_title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "summary": "A static-site generator for publishing linked Markdown knowledge bases.",
+      "why_included": "A user credited Quartz in a simple, cross-device knowledge system that works well.",
+      "evidence": "The commenter uses Quartz to rebuild a Markdown knowledge site on their server.",
+      "evidence_sources": [{"comment_id":"49398021","comment_url":"https://news.ycombinator.com/item?id=49394827#49398021","author":"fallinditch","excerpt":"A Quartz website builder creates a static site on my server, each MD file is a web page, and rebuilds when a new file is added [2].","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49394827"}]
+    },
+    {
+      "name": "Johnny.Decimal",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://johnnydecimal.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49394827",
+      "source_story_title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "summary": "A numbered structure for organizing files, notes, and other personal information.",
+      "why_included": "Its creator showed a low-tech way to give Claude reliable note locations.",
+      "evidence": "The creator uses Johnny.Decimal with Obsidian so Claude can find notes by number.",
+      "evidence_sources": [{"comment_id":"49397071","comment_url":"https://news.ycombinator.com/item?id=49394827#49397071","author":"jen729w","excerpt":"I use an Obsidian vault and my system. \"It's at 23.16\", I tell Claude. From that it can instantly find my notes and files.","kind":"author_context","context":"author_or_maintainer","parent_comment_id":"49394827"}]
+    },
+    {
+      "name": "ZSA Voyager",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.zsa.io/voyager",
+      "hn_url": "https://news.ycombinator.com/item?id=49346854",
+      "source_story_title": "typ.ing",
+      "summary": "A portable low-profile split mechanical keyboard with a columnar layout.",
+      "why_included": "Multiple owners praised its comfort, build quality, and effect on wrist pain.",
+      "evidence": "Two users described the Voyager as excellent and delightful, with one reporting resolved wrist pain.",
+      "evidence_sources": [{"comment_id":"49402471","comment_url":"https://news.ycombinator.com/item?id=49346854#49402471","author":"Zambyte","excerpt":"Their boards are pricey, but excellent.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49346854"},{"comment_id":"49403641","comment_url":"https://news.ycombinator.com/item?id=49346854#49403641","author":"masterj","excerpt":"I use the Voyager, and it's a delight! I switched when I was suffering from a lot of wrist pain, and it's never come back.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49402471"}]
+    },
+    {
+      "name": "Monkeytype",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://monkeytype.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49346854",
+      "source_story_title": "typ.ing",
+      "summary": "A minimal, customizable typing test for practicing speed and accuracy.",
+      "why_included": "A commenter singled it out as their continuing favorite typing tool.",
+      "evidence": "The commenter directly called Monkeytype their favorite.",
+      "evidence_sources": [{"comment_id":"49402909","comment_url":"https://news.ycombinator.com/item?id=49346854#49402909","author":"squigz","excerpt":"Monkeytype is still my favorite https://monkeytype.com/","kind":"recommendation","parent_comment_id":"49346854"}]
+    },
+    {
+      "name": "Pinky4",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/tamanishi/Pinky4",
+      "hn_url": "https://news.ycombinator.com/item?id=49346854",
+      "source_story_title": "typ.ing",
+      "summary": "An open split keyboard with staggered columns and four thumb keys.",
+      "why_included": "A long-term user praised its reachable, comfortable thumb cluster.",
+      "evidence": "The commenter has used Pinky4 for years and finds every thumb key comfortable.",
+      "evidence_sources": [{"comment_id":"49404998","comment_url":"https://news.ycombinator.com/item?id=49346854#49404998","author":"opan","excerpt":"I've been using a Pinky4 for years and all the thumb keys are easy to reach and comfortable.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49404693"}]
+    }
+  ]
+}

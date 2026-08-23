@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Quartz to rebuild a Markdown knowledge site on their server.",
+  "evidence_sources": [
+    {
+      "author": "fallinditch",
+      "comment_id": "49398021",
+      "comment_url": "https://news.ycombinator.com/item?id=49394827#49398021",
+      "context": "first_hand_use",
+      "excerpt": "A Quartz website builder creates a static site on my server, each MD file is a web page, and rebuilds when a new file is added [2].",
+      "kind": "recommendation",
+      "parent_comment_id": "49394827"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49394827",
+  "id": "2026-08-23:quartz:49394827",
+  "is_repeat": false,
+  "issue_id": "2026-08-23",
+  "item_id": "quartz",
+  "rank": 7,
+  "seen_at": "2026-08-23T05:18:16+02:00",
+  "source_story_id": "49394827",
+  "source_story_title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+}

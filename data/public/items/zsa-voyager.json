@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "zsa-voyager",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:zsa-voyager:49346854",
+  "mention_ids": [
+    "2026-08-23:zsa-voyager:49346854"
+  ],
+  "name": "ZSA Voyager",
+  "slug": "zsa-voyager",
+  "summary": "A portable low-profile split mechanical keyboard with a columnar layout.",
+  "thing_url": "https://www.zsa.io/voyager",
+  "times_seen": 1,
+  "why_included": "Multiple owners praised its comfort, build quality, and effect on wrist pain."
+}

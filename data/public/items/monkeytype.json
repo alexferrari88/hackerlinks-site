@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-23T05:18:16+02:00",
+  "id": "monkeytype",
+  "last_seen_at": "2026-08-23T05:18:16+02:00",
+  "latest_mention_id": "2026-08-23:monkeytype:49346854",
+  "mention_ids": [
+    "2026-08-23:monkeytype:49346854"
+  ],
+  "name": "Monkeytype",
+  "slug": "monkeytype",
+  "summary": "A minimal, customizable typing test for practicing speed and accuracy.",
+  "thing_url": "https://monkeytype.com/",
+  "times_seen": 1,
+  "why_included": "A commenter singled it out as their continuing favorite typing tool."
+}
