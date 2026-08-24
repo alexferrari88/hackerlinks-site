@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called John Gall's books, including General Systemantics, really good on the topic.",
+  "evidence_sources": [
+    {
+      "author": "feyman_r",
+      "comment_id": "49409790",
+      "comment_url": "https://news.ycombinator.com/item?id=49409473#49409790",
+      "excerpt": "John Gall\u2019s books are really good on this topic: General Systemantics",
+      "kind": "recommendation",
+      "parent_comment_id": "49409473"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49409473",
+  "id": "2026-08-24:general-systemantics:49409473",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "general-systemantics",
+  "rank": 9,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49409473",
+  "source_story_title": "How Complex Systems Fail (1998)"
+}

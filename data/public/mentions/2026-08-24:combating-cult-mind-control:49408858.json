@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter singled it out as the most important omission from the story's reading list.",
+  "evidence_sources": [
+    {
+      "author": "peteforde",
+      "comment_id": "49413489",
+      "comment_url": "https://news.ycombinator.com/item?id=49408858#49413489",
+      "excerpt": "The single most glaring omission is the absence of \"Combating Cult Mind Control\" by Steven Hassan. This is the first book to read or listen to about cults, full stop.",
+      "kind": "recommendation",
+      "parent_comment_id": "49408858"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49408858",
+  "id": "2026-08-24:combating-cult-mind-control:49408858",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "combating-cult-mind-control",
+  "rank": 11,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49408858",
+  "source_story_title": "My favorite nonfiction books about cults, scams, and schemes"
+}

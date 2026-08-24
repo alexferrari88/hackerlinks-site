@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T05:32:23+02:00",
+  "headline": "11 interesting things surfaced from HN on 2026-08-24",
+  "id": "2026-08-24",
+  "mention_ids": [
+    "2026-08-24:fire-toolbox:49409073",
+    "2026-08-24:g-helper:49410362",
+    "2026-08-24:figmimic:49402213",
+    "2026-08-24:dapper:49402491",
+    "2026-08-24:thinking-in-python:49402202",
+    "2026-08-24:against-sql:49402491",
+    "2026-08-24:libreoffice:49411395",
+    "2026-08-24:howdunit-series:49408858",
+    "2026-08-24:general-systemantics:49409473",
+    "2026-08-24:bite-model:49408858",
+    "2026-08-24:combating-cult-mind-control:49408858"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

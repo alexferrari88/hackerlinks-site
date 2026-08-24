@@ -7615,6 +7615,72 @@
       "first_reported_at": "2026-08-23T05:18:16+02:00",
       "last_reported_at": "2026-08-23T05:18:16+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Fire Toolbox",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "G-Helper",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Figmimic",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dapper",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Thinking in Python",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Against SQL",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "LibreOffice",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Howdunit Series",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "General Systemantics",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BITE Model",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Combating Cult Mind Control",
+      "first_reported_at": "2026-08-24T05:32:23+02:00",
+      "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
     }
   ]
 }

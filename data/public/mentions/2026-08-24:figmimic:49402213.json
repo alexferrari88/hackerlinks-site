@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported inconsistent copying but still considered Figmimic a useful tool.",
+  "evidence_sources": [
+    {
+      "author": "johnhtodd",
+      "comment_id": "49406084",
+      "comment_url": "https://news.ycombinator.com/item?id=49402213#49406084",
+      "context": "evaluated",
+      "excerpt": "Works sporadically - some sites just have no \"copied to clipboard\" even after a 3-4 minute delay. However, works enough that it's quite useful to have in the inventory of tools - thanks, random internet link!",
+      "kind": "recommendation",
+      "parent_comment_id": "49402213"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49402213",
+  "id": "2026-08-24:figmimic:49402213",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "figmimic",
+  "rank": 3,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49402213",
+  "source_story_title": "Figmimic \u2013 A bookmarklet to copy any webpage into Figma as editable layers"
+}

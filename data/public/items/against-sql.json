@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "against-sql",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:against-sql:49402491",
+  "mention_ids": [
+    "2026-08-24:against-sql:49402491"
+  ],
+  "name": "Against SQL",
+  "slug": "against-sql",
+  "summary": "An essay examining SQL's design limits and possible query-language alternatives.",
+  "thing_url": "https://www.scattered-thoughts.net/writing/against-sql",
+  "times_seen": 1,
+  "why_included": "A commenter named it among their favorite essays on SQL's shortcomings."
+}

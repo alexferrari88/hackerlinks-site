@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "figmimic",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:figmimic:49402213",
+  "mention_ids": [
+    "2026-08-24:figmimic:49402213"
+  ],
+  "name": "Figmimic",
+  "slug": "figmimic",
+  "summary": "A bookmarklet that copies webpages into Figma as editable layers.",
+  "thing_url": "https://marcua.net/minitools/figmimic/",
+  "times_seen": 1,
+  "why_included": "A commenter found it useful enough to keep despite sporadic failures."
+}

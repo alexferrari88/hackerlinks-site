@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "run_date": "2026-08-24",
+  "generated_at": "2026-08-24T05:32:23+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-24.json",
+    "sha256": "543306328dffc3c706aecb6dd62110e39cb987e53b54da11bc34f4e4aa1000c5",
+    "bytes": 2391173,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3710,
+    "fetched_item_count": 3740,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Eleven concrete, comment-endorsed tools, essays, books, and frameworks surfaced from a complete HN front-page comment crawl.",
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Fire Toolbox",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://xdaforums.com/t/windows-linux-tool-fire-toolbox-v45-1.3889604/",
+      "hn_url": "https://news.ycombinator.com/item?id=49409073",
+      "source_story_title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "summary": "A utility for debloating Fire tablets and installing Google services.",
+      "why_included": "A long-term Fire tablet owner called it excellent and described successful use across four devices.",
+      "evidence": "The commenter used Fire Toolbox to remove ads, block updates, debloat tablets, and install Google services.",
+      "evidence_sources": [{"comment_id":"49411430","comment_url":"https://news.ycombinator.com/item?id=49409073#49411430","author":"mrandish","excerpt":"Fire Toolbox is excellent:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49409073"}]
+    },
+    {
+      "name": "G-Helper",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://g-helper.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49410362",
+      "source_story_title": "A website for debloated open source alternatives",
+      "summary": "A lightweight control utility for performance, fans, and power on Asus laptops.",
+      "why_included": "A hands-on user called it a lifesaver for Asus laptop owners.",
+      "evidence": "The commenter has used G-Helper and strongly praised its value on Asus laptops.",
+      "evidence_sources": [{"comment_id":"49411986","comment_url":"https://news.ycombinator.com/item?id=49410362#49411986","author":"jamesforestwest","excerpt":"I've been using some of these for a while, G-Helper is a lifesaver if you own an Asus laptop","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49410362"}]
+    },
+    {
+      "name": "Figmimic",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://marcua.net/minitools/figmimic/",
+      "hn_url": "https://news.ycombinator.com/item?id=49402213",
+      "source_story_title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "summary": "A bookmarklet that copies webpages into Figma as editable layers.",
+      "why_included": "A commenter found it useful enough to keep despite sporadic failures.",
+      "evidence": "The commenter reported inconsistent copying but still considered Figmimic a useful tool.",
+      "evidence_sources": [{"comment_id":"49406084","comment_url":"https://news.ycombinator.com/item?id=49402213#49406084","author":"johnhtodd","excerpt":"Works sporadically - some sites just have no \"copied to clipboard\" even after a 3-4 minute delay. However, works enough that it's quite useful to have in the inventory of tools - thanks, random internet link!","kind":"recommendation","context":"evaluated","parent_comment_id":"49402213"}]
+    },
+    {
+      "name": "Dapper",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/DapperLib/Dapper",
+      "hn_url": "https://news.ycombinator.com/item?id=49402491",
+      "source_story_title": "Things I want in a modern relational query language",
+      "summary": "A lightweight .NET object mapper for executing SQL and mapping results.",
+      "why_included": "A user praised how simply it handles raw SQL and mixed result sets.",
+      "evidence": "The commenter described Dapper as fantastic and unusually simple for raw SQL workflows.",
+      "evidence_sources": [{"comment_id":"49413171","comment_url":"https://news.ycombinator.com/item?id=49402491#49413171","author":"grebc","excerpt":"Dapper in .net is fantastic to deal with raw sql, to the point I think I’m delusional because it’s so damn simple to send outrageous queries to the database and have those multiple mixed results turned into objects very simply.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49411587"}]
+    },
+    {
+      "name": "Thinking in Python",
+      "category": "Programming & Learning",
+      "thing_url": "https://thinkinginpython.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49402202",
+      "source_story_title": "Thinking in Python",
+      "summary": "A programming book exploring Python design through types, effects, and architecture.",
+      "why_included": "A reader found novel, high-quality material and especially liked its effects chapter.",
+      "evidence": "The commenter had skimmed the book and praised its treatment of effects despite noting AI assistance.",
+      "evidence_sources": [{"comment_id":"49408573","comment_url":"https://news.ycombinator.com/item?id=49402202#49408573","author":"codethief","excerpt":"I've only skimmed the book and even though it was clearly written with the help of AI, there is some very good (and for the Python world novel) stuff in it. I particularly liked the chapter on effects.","kind":"recommendation","context":"evaluated","parent_comment_id":"49402202"}]
+    },
+    {
+      "name": "Against SQL",
+      "category": "Programming & Learning",
+      "thing_url": "https://www.scattered-thoughts.net/writing/against-sql",
+      "hn_url": "https://news.ycombinator.com/item?id=49402491",
+      "source_story_title": "Things I want in a modern relational query language",
+      "summary": "An essay examining SQL's design limits and possible query-language alternatives.",
+      "why_included": "A commenter named it among their favorite essays on SQL's shortcomings.",
+      "evidence": "The commenter recommended the linked essay as a favorite with substantial overlap with the thread.",
+      "evidence_sources": [{"comment_id":"49409312","comment_url":"https://news.ycombinator.com/item?id=49402491#49409312","author":"scythmic_waves","excerpt":"Some overlap here with some of my favorite essays on why SQL is lacking:","kind":"recommendation","parent_comment_id":"49402491"}]
+    },
+    {
+      "name": "LibreOffice",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.libreoffice.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49411395",
+      "source_story_title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "summary": "A free open-source office suite for documents, spreadsheets, and presentations.",
+      "why_included": "A former financial analyst strongly preferred it after moving personal work to Linux.",
+      "evidence": "The commenter migrated personal work to LibreOffice and found it much better than Windows with Office.",
+      "evidence_sources": [{"comment_id":"49414205","comment_url":"https://news.ycombinator.com/item?id=49411395#49414205","author":"dh2022","excerpt":"Almost 20 years later in 2026 I migrated all my personal stuff to Linux and Libre Office. I am amazed how much better this is than the Windows + Office setup my wife uses.","kind":"comparison","context":"first_hand_use","parent_comment_id":"49413346"}]
+    },
+    {
+      "name": "Howdunit Series",
+      "category": "Books & Ideas",
+      "thing_url": "https://www.goodreads.com/series/76228-howdunit-series",
+      "hn_url": "https://news.ycombinator.com/item?id=49408858",
+      "source_story_title": "My favorite nonfiction books about cults, scams, and schemes",
+      "summary": "A reference-book series explaining crimes, investigations, cons, and forensic details.",
+      "why_included": "A commenter called the books great and fascinating beyond their writer-reference purpose.",
+      "evidence": "The commenter recommended the series for learning how personal cons and scams work.",
+      "evidence_sources": [{"comment_id":"49412917","comment_url":"https://news.ycombinator.com/item?id=49408858#49412917","author":"encyclic","excerpt":"If you want to know about the ins and outs of more personal cons and scams, the Howdunit series of books are great. Ostensibly meant to help writers get details correct, they are fascinating reads.","kind":"recommendation","parent_comment_id":"49408858"}]
+    },
+    {
+      "name": "General Systemantics",
+      "category": "Books & Ideas",
+      "thing_url": "https://openlibrary.org/books/OL5199408M/General_systemantics",
+      "hn_url": "https://news.ycombinator.com/item?id=49409473",
+      "source_story_title": "How Complex Systems Fail (1998)",
+      "summary": "John Gall's compact book on how systems behave and fail.",
+      "why_included": "A commenter directly praised Gall's books for understanding complex-system failure.",
+      "evidence": "The commenter called John Gall's books, including General Systemantics, really good on the topic.",
+      "evidence_sources": [{"comment_id":"49409790","comment_url":"https://news.ycombinator.com/item?id=49409473#49409790","author":"feyman_r","excerpt":"John Gall’s books are really good on this topic: General Systemantics","kind":"recommendation","parent_comment_id":"49409473"}]
+    },
+    {
+      "name": "BITE Model",
+      "category": "Books & Ideas",
+      "thing_url": "https://freedomofmind.com/wp-content/uploads/2024/03/The-BITE-Model.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49408858",
+      "source_story_title": "My favorite nonfiction books about cults, scams, and schemes",
+      "summary": "A framework for recognizing behavioral, information, thought, and emotional control.",
+      "why_included": "A commenter argued that everyone should know this practical warning-sign framework.",
+      "evidence": "The commenter strongly recommended learning the BITE model of authoritarian control.",
+      "evidence_sources": [{"comment_id":"49409376","comment_url":"https://news.ycombinator.com/item?id=49408858#49409376","author":"derektank","excerpt":"The author alluded to it, but I really think the BITE model of authoritarian control[0] is something everyone should know about.","kind":"recommendation","parent_comment_id":"49408858"}]
+    },
+    {
+      "name": "Combating Cult Mind Control",
+      "category": "Books & Ideas",
+      "thing_url": "https://freedomofmind.com/book/combating-cult-mind-control/",
+      "hn_url": "https://news.ycombinator.com/item?id=49408858",
+      "source_story_title": "My favorite nonfiction books about cults, scams, and schemes",
+      "summary": "Steven Hassan's guide to identifying and recovering from destructive cult influence.",
+      "why_included": "A knowledgeable reader called it the first book to read on cults, full stop.",
+      "evidence": "The commenter singled it out as the most important omission from the story's reading list.",
+      "evidence_sources": [{"comment_id":"49413489","comment_url":"https://news.ycombinator.com/item?id=49408858#49413489","author":"peteforde","excerpt":"The single most glaring omission is the absence of \"Combating Cult Mind Control\" by Steven Hassan. This is the first book to read or listen to about cults, full stop.","kind":"recommendation","parent_comment_id":"49408858"}]
+    }
+  ]
+}

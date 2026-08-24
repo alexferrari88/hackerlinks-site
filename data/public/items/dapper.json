@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "dapper",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:dapper:49402491",
+  "mention_ids": [
+    "2026-08-24:dapper:49402491"
+  ],
+  "name": "Dapper",
+  "slug": "dapper",
+  "summary": "A lightweight .NET object mapper for executing SQL and mapping results.",
+  "thing_url": "https://github.com/DapperLib/Dapper",
+  "times_seen": 1,
+  "why_included": "A user praised how simply it handles raw SQL and mixed result sets."
+}

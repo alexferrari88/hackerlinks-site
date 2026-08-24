@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "thinking-in-python",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:thinking-in-python:49402202",
+  "mention_ids": [
+    "2026-08-24:thinking-in-python:49402202"
+  ],
+  "name": "Thinking in Python",
+  "slug": "thinking-in-python",
+  "summary": "A programming book exploring Python design through types, effects, and architecture.",
+  "thing_url": "https://thinkinginpython.com/",
+  "times_seen": 1,
+  "why_included": "A reader found novel, high-quality material and especially liked its effects chapter."
+}

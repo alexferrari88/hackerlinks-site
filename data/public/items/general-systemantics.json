@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "general-systemantics",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:general-systemantics:49409473",
+  "mention_ids": [
+    "2026-08-24:general-systemantics:49409473"
+  ],
+  "name": "General Systemantics",
+  "slug": "general-systemantics",
+  "summary": "John Gall's compact book on how systems behave and fail.",
+  "thing_url": "https://openlibrary.org/books/OL5199408M/General_systemantics",
+  "times_seen": 1,
+  "why_included": "A commenter directly praised Gall's books for understanding complex-system failure."
+}

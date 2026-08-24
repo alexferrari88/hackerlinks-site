@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "libreoffice",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:libreoffice:49411395",
+  "mention_ids": [
+    "2026-08-24:libreoffice:49411395"
+  ],
+  "name": "LibreOffice",
+  "slug": "libreoffice",
+  "summary": "A free open-source office suite for documents, spreadsheets, and presentations.",
+  "thing_url": "https://www.libreoffice.org/",
+  "times_seen": 1,
+  "why_included": "A former financial analyst strongly preferred it after moving personal work to Linux."
+}

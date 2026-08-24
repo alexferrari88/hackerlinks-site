@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-24T05:32:23+02:00",
+  "id": "fire-toolbox",
+  "last_seen_at": "2026-08-24T05:32:23+02:00",
+  "latest_mention_id": "2026-08-24:fire-toolbox:49409073",
+  "mention_ids": [
+    "2026-08-24:fire-toolbox:49409073"
+  ],
+  "name": "Fire Toolbox",
+  "slug": "fire-toolbox",
+  "summary": "A utility for debloating Fire tablets and installing Google services.",
+  "thing_url": "https://xdaforums.com/t/windows-linux-tool-fire-toolbox-v45-1.3889604/",
+  "times_seen": 1,
+  "why_included": "A long-term Fire tablet owner called it excellent and described successful use across four devices."
+}

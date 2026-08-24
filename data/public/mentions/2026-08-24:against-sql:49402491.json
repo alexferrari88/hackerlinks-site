@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended the linked essay as a favorite with substantial overlap with the thread.",
+  "evidence_sources": [
+    {
+      "author": "scythmic_waves",
+      "comment_id": "49409312",
+      "comment_url": "https://news.ycombinator.com/item?id=49402491#49409312",
+      "excerpt": "Some overlap here with some of my favorite essays on why SQL is lacking:",
+      "kind": "recommendation",
+      "parent_comment_id": "49402491"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49402491",
+  "id": "2026-08-24:against-sql:49402491",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "against-sql",
+  "rank": 6,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49402491",
+  "source_story_title": "Things I want in a modern relational query language"
+}

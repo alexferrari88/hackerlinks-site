@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used Fire Toolbox to remove ads, block updates, debloat tablets, and install Google services.",
+  "evidence_sources": [
+    {
+      "author": "mrandish",
+      "comment_id": "49411430",
+      "comment_url": "https://news.ycombinator.com/item?id=49409073#49411430",
+      "context": "first_hand_use",
+      "excerpt": "Fire Toolbox is excellent:",
+      "kind": "recommendation",
+      "parent_comment_id": "49409073"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49409073",
+  "id": "2026-08-24:fire-toolbox:49409073",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "fire-toolbox",
+  "rank": 1,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49409073",
+  "source_story_title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day"
+}

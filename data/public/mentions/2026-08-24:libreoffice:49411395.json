@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter migrated personal work to LibreOffice and found it much better than Windows with Office.",
+  "evidence_sources": [
+    {
+      "author": "dh2022",
+      "comment_id": "49414205",
+      "comment_url": "https://news.ycombinator.com/item?id=49411395#49414205",
+      "context": "first_hand_use",
+      "excerpt": "Almost 20 years later in 2026 I migrated all my personal stuff to Linux and Libre Office. I am amazed how much better this is than the Windows + Office setup my wife uses.",
+      "kind": "comparison",
+      "parent_comment_id": "49413346"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49411395",
+  "id": "2026-08-24:libreoffice:49411395",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "libreoffice",
+  "rank": 7,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49411395",
+  "source_story_title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?"
+}

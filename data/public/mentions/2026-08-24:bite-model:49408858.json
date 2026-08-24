@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter strongly recommended learning the BITE model of authoritarian control.",
+  "evidence_sources": [
+    {
+      "author": "derektank",
+      "comment_id": "49409376",
+      "comment_url": "https://news.ycombinator.com/item?id=49408858#49409376",
+      "excerpt": "The author alluded to it, but I really think the BITE model of authoritarian control[0] is something everyone should know about.",
+      "kind": "recommendation",
+      "parent_comment_id": "49408858"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49408858",
+  "id": "2026-08-24:bite-model:49408858",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "bite-model",
+  "rank": 10,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49408858",
+  "source_story_title": "My favorite nonfiction books about cults, scams, and schemes"
+}

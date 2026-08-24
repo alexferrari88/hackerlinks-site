@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter has used G-Helper and strongly praised its value on Asus laptops.",
+  "evidence_sources": [
+    {
+      "author": "jamesforestwest",
+      "comment_id": "49411986",
+      "comment_url": "https://news.ycombinator.com/item?id=49410362#49411986",
+      "context": "first_hand_use",
+      "excerpt": "I've been using some of these for a while, G-Helper is a lifesaver if you own an Asus laptop",
+      "kind": "recommendation",
+      "parent_comment_id": "49410362"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49410362",
+  "id": "2026-08-24:g-helper:49410362",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "g-helper",
+  "rank": 2,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49410362",
+  "source_story_title": "A website for debloated open source alternatives"
+}

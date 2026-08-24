@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter had skimmed the book and praised its treatment of effects despite noting AI assistance.",
+  "evidence_sources": [
+    {
+      "author": "codethief",
+      "comment_id": "49408573",
+      "comment_url": "https://news.ycombinator.com/item?id=49402202#49408573",
+      "context": "evaluated",
+      "excerpt": "I've only skimmed the book and even though it was clearly written with the help of AI, there is some very good (and for the Python world novel) stuff in it. I particularly liked the chapter on effects.",
+      "kind": "recommendation",
+      "parent_comment_id": "49402202"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49402202",
+  "id": "2026-08-24:thinking-in-python:49402202",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "thinking-in-python",
+  "rank": 5,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49402202",
+  "source_story_title": "Thinking in Python"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described Dapper as fantastic and unusually simple for raw SQL workflows.",
+  "evidence_sources": [
+    {
+      "author": "grebc",
+      "comment_id": "49413171",
+      "comment_url": "https://news.ycombinator.com/item?id=49402491#49413171",
+      "context": "first_hand_use",
+      "excerpt": "Dapper in .net is fantastic to deal with raw sql, to the point I think I\u2019m delusional because it\u2019s so damn simple to send outrageous queries to the database and have those multiple mixed results turned into objects very simply.",
+      "kind": "recommendation",
+      "parent_comment_id": "49411587"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49402491",
+  "id": "2026-08-24:dapper:49402491",
+  "is_repeat": false,
+  "issue_id": "2026-08-24",
+  "item_id": "dapper",
+  "rank": 4,
+  "seen_at": "2026-08-24T05:32:23+02:00",
+  "source_story_id": "49402491",
+  "source_story_title": "Things I want in a modern relational query language"
+}
