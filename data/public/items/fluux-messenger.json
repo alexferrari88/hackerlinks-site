@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "fluux-messenger",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:fluux-messenger:49421536",
+  "mention_ids": [
+    "2026-08-25:fluux-messenger:49421536"
+  ],
+  "name": "Fluux Messenger",
+  "slug": "fluux-messenger",
+  "summary": "A modern cross-platform XMPP client for communities and organizations.",
+  "thing_url": "https://github.com/processone/fluux-messenger",
+  "times_seen": 1,
+  "why_included": "An agent-system builder called Fluux great in a working XMPP stack."
+}

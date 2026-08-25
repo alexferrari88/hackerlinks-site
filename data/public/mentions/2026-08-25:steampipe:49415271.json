@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation pointed to Steampipe's SQLite and PostgreSQL extensions.",
+  "evidence_sources": [
+    {
+      "author": "hantusk",
+      "comment_id": "49423009",
+      "comment_url": "https://news.ycombinator.com/item?id=49415271#49423009",
+      "excerpt": "Check out https://hub.steampipe.io/, available as sqlite/postgtesql extensions",
+      "kind": "recommendation",
+      "parent_comment_id": "49419528"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49415271",
+  "id": "2026-08-25:steampipe:49415271",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "steampipe",
+  "rank": 3,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49415271",
+  "source_story_title": "Executable Is a SQLite Database"
+}

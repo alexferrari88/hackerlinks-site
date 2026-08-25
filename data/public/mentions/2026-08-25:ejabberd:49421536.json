@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses ejabberd in an agent communication layer that has worked well.",
+  "evidence_sources": [
+    {
+      "author": "pavo-etc",
+      "comment_id": "49427130",
+      "comment_url": "https://news.ycombinator.com/item?id=49421536#49427130",
+      "context": "first_hand_use",
+      "excerpt": "This has worked well since I can spin up new accounts on demand and I can use existing server software (ejabberd, perfect)",
+      "kind": "recommendation",
+      "parent_comment_id": "49421536"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49421536",
+  "id": "2026-08-25:ejabberd:49421536",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "ejabberd",
+  "rank": 10,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49421536",
+  "source_story_title": "Jabber/XMPP: 25 Years of Digital Independence"
+}

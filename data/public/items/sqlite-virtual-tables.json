@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "sqlite-virtual-tables",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:sqlite-virtual-tables:49415271",
+  "mention_ids": [
+    "2026-08-25:sqlite-virtual-tables:49415271"
+  ],
+  "name": "SQLite Virtual Tables",
+  "slug": "sqlite-virtual-tables",
+  "summary": "SQLite modules that expose external data sources as queryable virtual tables.",
+  "thing_url": "https://www.sqlite.org/vtablist.html",
+  "times_seen": 1,
+  "why_included": "A commenter called the feature amazing and potentially extremely useful."
+}

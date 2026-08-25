@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter compared it to hacker-themed GTA and endorsed its faithful Bay Area map.",
+  "evidence_sources": [
+    {
+      "author": "metadat",
+      "comment_id": "49425167",
+      "comment_url": "https://news.ycombinator.com/item?id=49422784#49425167",
+      "context": "first_hand_use",
+      "excerpt": "Great game, basically GTA but you are a hacker in the Bay Area. The SF portion of the map was accurate down to every building.",
+      "kind": "recommendation",
+      "parent_comment_id": "49424756"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49422784",
+  "id": "2026-08-25:watch-dogs-2:49422784",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "watch-dogs-2",
+  "rank": 9,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49422784",
+  "source_story_title": "The entire city of San Francisco as a video game"
+}

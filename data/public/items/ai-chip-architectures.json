@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "ai-chip-architectures",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:ai-chip-architectures:49405657",
+  "mention_ids": [
+    "2026-08-25:ai-chip-architectures:49405657"
+  ],
+  "name": "AI Chip Architectures",
+  "slug": "ai-chip-architectures",
+  "summary": "A technical deep dive into modern accelerator and AI-chip architecture.",
+  "thing_url": "https://www.jepeake.com/ai-chip-architectures",
+  "times_seen": 1,
+  "why_included": "A reader called it one of the best AI-chip deep dives they had read."
+}

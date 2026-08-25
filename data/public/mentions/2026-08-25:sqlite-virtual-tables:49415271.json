@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter highlighted mounting a filesystem or other source as a SQL database.",
+  "evidence_sources": [
+    {
+      "author": "andai",
+      "comment_id": "49419528",
+      "comment_url": "https://news.ycombinator.com/item?id=49415271#49419528",
+      "excerpt": "You can \"mount\" your filesystem (or anything else) as a SQL database, wtf. That's amazing.",
+      "kind": "recommendation",
+      "parent_comment_id": "49415271"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49415271",
+  "id": "2026-08-25:sqlite-virtual-tables:49415271",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "sqlite-virtual-tables",
+  "rank": 2,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49415271",
+  "source_story_title": "Executable Is a SQLite Database"
+}

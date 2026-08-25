@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-08-25",
+  "generated_at": "2026-08-25T05:17:43+02:00",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-25.json",
+    "sha256": "4f3192147d8f497d9c02d33354b3a86cae34621a8bcc9380ef26ef20ef67ba56",
+    "bytes": 3970862,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6299,
+    "fetched_item_count": 6329,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Twelve concrete, comment-endorsed tools, projects, videos, and games surfaced from a complete HN front-page comment crawl.",
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Metapad",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/alexd/metapad",
+      "hn_url": "https://news.ycombinator.com/item?id=49421158",
+      "source_story_title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "summary": "A tiny open-source Windows text editor built as a Notepad replacement.",
+      "why_included": "A long-term user praised Metapad as very fast and minimal.",
+      "evidence": "The commenter used Metapad for years as a drop-in Notepad replacement.",
+      "evidence_sources": [{"comment_id":"49426978","comment_url":"https://news.ycombinator.com/item?id=49421158#49426978","author":"bananaboy","excerpt":"For a long time I used metapad as a notepad replacement","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49426131"}]
+    },
+    {
+      "name": "SQLite Virtual Tables",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.sqlite.org/vtablist.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49415271",
+      "source_story_title": "Executable Is a SQLite Database",
+      "summary": "SQLite modules that expose external data sources as queryable virtual tables.",
+      "why_included": "A commenter called the feature amazing and potentially extremely useful.",
+      "evidence": "The commenter highlighted mounting a filesystem or other source as a SQL database.",
+      "evidence_sources": [{"comment_id":"49419528","comment_url":"https://news.ycombinator.com/item?id=49415271#49419528","author":"andai","excerpt":"You can \"mount\" your filesystem (or anything else) as a SQL database, wtf. That's amazing.","kind":"recommendation","parent_comment_id":"49415271"}]
+    },
+    {
+      "name": "Steampipe",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://hub.steampipe.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49415271",
+      "source_story_title": "Executable Is a SQLite Database",
+      "summary": "A plugin hub for querying cloud services and APIs with SQL.",
+      "why_included": "A commenter directly suggested Steampipe as a practical extension-based implementation.",
+      "evidence": "The recommendation pointed to Steampipe's SQLite and PostgreSQL extensions.",
+      "evidence_sources": [{"comment_id":"49423009","comment_url":"https://news.ycombinator.com/item?id=49415271#49423009","author":"hantusk","excerpt":"Check out https://hub.steampipe.io/, available as sqlite/postgtesql extensions","kind":"recommendation","parent_comment_id":"49419528"}]
+    },
+    {
+      "name": "ComfyUI",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/Comfy-Org/ComfyUI",
+      "hn_url": "https://news.ycombinator.com/item?id=49421158",
+      "source_story_title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "summary": "A node-based local interface for building and running generative-image workflows.",
+      "why_included": "A hands-on user recommended it for precise background and watermark removal.",
+      "evidence": "The commenter uses ComfyUI for detailed image cleanup and suggested it as an alternative.",
+      "evidence_sources": [{"comment_id":"49426968","comment_url":"https://news.ycombinator.com/item?id=49421158#49426968","author":"razster","excerpt":"I've been using ComfyUI to do fine background and watermark removal. Might take a look into that as an alternative.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49426551"}]
+    },
+    {
+      "name": "LineageOS",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://lineageos.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49415621",
+      "source_story_title": "New EU-wide product repair rules come into force",
+      "summary": "A community Android distribution that extends support for older phones.",
+      "why_included": "A user kept an LG G2 useful through six major Android generations.",
+      "evidence": "The commenter used LineageOS to upgrade an LG G2 through Android 11.",
+      "evidence_sources": [{"comment_id":"49417253","comment_url":"https://news.ycombinator.com/item?id=49415621#49417253","author":"yonatan8070","excerpt":"through LineageOS I updated it all the way to Android 11.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49417161"}]
+    },
+    {
+      "name": "AI Chip Architectures",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.jepeake.com/ai-chip-architectures",
+      "hn_url": "https://news.ycombinator.com/item?id=49405657",
+      "source_story_title": "AI Chip Architectures",
+      "summary": "A technical deep dive into modern accelerator and AI-chip architecture.",
+      "why_included": "A reader called it one of the best AI-chip deep dives they had read.",
+      "evidence": "The commenter found the article highly educational and strongly endorsed its depth.",
+      "evidence_sources": [{"comment_id":"49415673","comment_url":"https://news.ycombinator.com/item?id=49405657#49415673","author":"peter_d_sherman","excerpt":"One of the best deep-dives on AI chip architectures that I've ever read.","kind":"recommendation","context":"evaluated","parent_comment_id":"49405657"}]
+    },
+    {
+      "name": "Geekerwan's Xiaomi XRing O2 Review",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=BCCJuOopLK8",
+      "hn_url": "https://news.ycombinator.com/item?id=49420873",
+      "source_story_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "summary": "A benchmark video examining Xiaomi's prototype XRing O2 processor platform.",
+      "why_included": "A commenter highlighted amazing early benchmark and efficiency results.",
+      "evidence": "The recommendation points to SPEC, 3DMark, and performance-per-watt results while noting prototype status.",
+      "evidence_sources": [{"comment_id":"49424773","comment_url":"https://news.ycombinator.com/item?id=49420873#49424773","author":"cherioo","excerpt":"Geekerwan's review is up, with caveat that this is the prototype board, not even packaged into a phone yet, but still shows some amazing results in spec 2026, 3dmark (gpu), perf-per-watt for single core and multi-core","kind":"recommendation","context":"evaluated","parent_comment_id":"49420873"}]
+    },
+    {
+      "name": "San Francisco in Unity",
+      "category": "Games & Systems",
+      "thing_url": "https://sf.thijs.gg/",
+      "hn_url": "https://news.ycombinator.com/item?id=49422784",
+      "source_story_title": "The entire city of San Francisco as a video game",
+      "summary": "A browser-playable 3D recreation of San Francisco built from public map data.",
+      "why_included": "A longtime resident found revisiting familiar places genuinely emotional.",
+      "evidence": "The commenter explored recognizable yards, parks, courts, hills, and a disc-golf course.",
+      "evidence_sources": [{"comment_id":"49424357","comment_url":"https://news.ycombinator.com/item?id=49422784#49424357","author":"frankhorrigan","excerpt":"And genuinely this made me emotional. Was weird as hell walking around my back yard.","kind":"recommendation","context":"evaluated","parent_comment_id":"49422784"}]
+    },
+    {
+      "name": "Watch Dogs 2",
+      "category": "Games & Systems",
+      "thing_url": "https://en.wikipedia.org/wiki/Watch_Dogs_2",
+      "hn_url": "https://news.ycombinator.com/item?id=49422784",
+      "source_story_title": "The entire city of San Francisco as a video game",
+      "summary": "An open-world hacking game set across a detailed San Francisco Bay Area.",
+      "why_included": "A commenter called it a great game and praised the map's building-level accuracy.",
+      "evidence": "The commenter compared it to hacker-themed GTA and endorsed its faithful Bay Area map.",
+      "evidence_sources": [{"comment_id":"49425167","comment_url":"https://news.ycombinator.com/item?id=49422784#49425167","author":"metadat","excerpt":"Great game, basically GTA but you are a hacker in the Bay Area. The SF portion of the map was accurate down to every building.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49424756"}]
+    },
+    {
+      "name": "ejabberd",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://ejabberd.im/",
+      "hn_url": "https://news.ycombinator.com/item?id=49421536",
+      "source_story_title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "summary": "An open-source XMPP server used for messaging, agents, and notifications.",
+      "why_included": "An agent-system builder called ejabberd perfect for on-demand XMPP accounts.",
+      "evidence": "The commenter uses ejabberd in an agent communication layer that has worked well.",
+      "evidence_sources": [{"comment_id":"49427130","comment_url":"https://news.ycombinator.com/item?id=49421536#49427130","author":"pavo-etc","excerpt":"This has worked well since I can spin up new accounts on demand and I can use existing server software (ejabberd, perfect)","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49421536"}]
+    },
+    {
+      "name": "Fluux Messenger",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/processone/fluux-messenger",
+      "hn_url": "https://news.ycombinator.com/item?id=49421536",
+      "source_story_title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "summary": "A modern cross-platform XMPP client for communities and organizations.",
+      "why_included": "An agent-system builder called Fluux great in a working XMPP stack.",
+      "evidence": "The commenter uses Fluux alongside ejabberd for agents and project notifications.",
+      "evidence_sources": [{"comment_id":"49427130","comment_url":"https://news.ycombinator.com/item?id=49421536#49427130","author":"pavo-etc","excerpt":"clients (Fluux, great; Conversations, okay).","kind":"comparison","context":"first_hand_use","parent_comment_id":"49421536"}]
+    },
+    {
+      "name": "EpiForecasts Ebola Outbreak Tracker",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://epiforecasts.io/BVDOutbreakSize/stable/analysis",
+      "hn_url": "https://news.ycombinator.com/item?id=49416097",
+      "source_story_title": "Over 5,200 Ebola cases recorded in Congo",
+      "summary": "A Bayesian dashboard estimating outbreak size, growth, and reproduction rates.",
+      "why_included": "A commenter recommended it as useful for judging whether the outbreak has peaked.",
+      "evidence": "The tracker provides current growth-rate uncertainty and reproduction-number charts.",
+      "evidence_sources": [{"comment_id":"49418916","comment_url":"https://news.ycombinator.com/item?id=49416097#49418916","author":"croemer","excerpt":"There's a Bayesian forecast from some folks at the London School of Hygiene and Tropical Medicine that's useful to see if the outbreak has reached peak size:","kind":"recommendation","context":"evaluated","parent_comment_id":"49416097"}]
+    }
+  ]
+}

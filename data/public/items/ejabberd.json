@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "ejabberd",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:ejabberd:49421536",
+  "mention_ids": [
+    "2026-08-25:ejabberd:49421536"
+  ],
+  "name": "ejabberd",
+  "slug": "ejabberd",
+  "summary": "An open-source XMPP server used for messaging, agents, and notifications.",
+  "thing_url": "https://ejabberd.im/",
+  "times_seen": 1,
+  "why_included": "An agent-system builder called ejabberd perfect for on-demand XMPP accounts."
+}

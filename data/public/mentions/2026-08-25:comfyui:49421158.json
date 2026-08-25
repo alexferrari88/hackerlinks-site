@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses ComfyUI for detailed image cleanup and suggested it as an alternative.",
+  "evidence_sources": [
+    {
+      "author": "razster",
+      "comment_id": "49426968",
+      "comment_url": "https://news.ycombinator.com/item?id=49421158#49426968",
+      "context": "first_hand_use",
+      "excerpt": "I've been using ComfyUI to do fine background and watermark removal. Might take a look into that as an alternative.",
+      "kind": "recommendation",
+      "parent_comment_id": "49426551"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49421158",
+  "id": "2026-08-25:comfyui:49421158",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "comfyui",
+  "rank": 4,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49421158",
+  "source_story_title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found the article highly educational and strongly endorsed its depth.",
+  "evidence_sources": [
+    {
+      "author": "peter_d_sherman",
+      "comment_id": "49415673",
+      "comment_url": "https://news.ycombinator.com/item?id=49405657#49415673",
+      "context": "evaluated",
+      "excerpt": "One of the best deep-dives on AI chip architectures that I've ever read.",
+      "kind": "recommendation",
+      "parent_comment_id": "49405657"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49405657",
+  "id": "2026-08-25:ai-chip-architectures:49405657",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "ai-chip-architectures",
+  "rank": 6,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49405657",
+  "source_story_title": "AI Chip Architectures"
+}

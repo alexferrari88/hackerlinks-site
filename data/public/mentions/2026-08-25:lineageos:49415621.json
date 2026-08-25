@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used LineageOS to upgrade an LG G2 through Android 11.",
+  "evidence_sources": [
+    {
+      "author": "yonatan8070",
+      "comment_id": "49417253",
+      "comment_url": "https://news.ycombinator.com/item?id=49415621#49417253",
+      "context": "first_hand_use",
+      "excerpt": "through LineageOS I updated it all the way to Android 11.",
+      "kind": "recommendation",
+      "parent_comment_id": "49417161"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49415621",
+  "id": "2026-08-25:lineageos:49415621",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "lineageos",
+  "rank": 5,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49415621",
+  "source_story_title": "New EU-wide product repair rules come into force"
+}

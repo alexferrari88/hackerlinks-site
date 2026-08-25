@@ -1,0 +1,23 @@
+{
+  "evidence": "The tracker provides current growth-rate uncertainty and reproduction-number charts.",
+  "evidence_sources": [
+    {
+      "author": "croemer",
+      "comment_id": "49418916",
+      "comment_url": "https://news.ycombinator.com/item?id=49416097#49418916",
+      "context": "evaluated",
+      "excerpt": "There's a Bayesian forecast from some folks at the London School of Hygiene and Tropical Medicine that's useful to see if the outbreak has reached peak size:",
+      "kind": "recommendation",
+      "parent_comment_id": "49416097"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49416097",
+  "id": "2026-08-25:epiforecasts-ebola-outbreak-tracker:49416097",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "epiforecasts-ebola-outbreak-tracker",
+  "rank": 12,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49416097",
+  "source_story_title": "Over 5,200 Ebola cases recorded in Congo"
+}

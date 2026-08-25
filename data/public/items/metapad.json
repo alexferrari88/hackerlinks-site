@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "metapad",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:metapad:49421158",
+  "mention_ids": [
+    "2026-08-25:metapad:49421158"
+  ],
+  "name": "Metapad",
+  "slug": "metapad",
+  "summary": "A tiny open-source Windows text editor built as a Notepad replacement.",
+  "thing_url": "https://github.com/alexd/metapad",
+  "times_seen": 1,
+  "why_included": "A long-term user praised Metapad as very fast and minimal."
+}

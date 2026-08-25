@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter explored recognizable yards, parks, courts, hills, and a disc-golf course.",
+  "evidence_sources": [
+    {
+      "author": "frankhorrigan",
+      "comment_id": "49424357",
+      "comment_url": "https://news.ycombinator.com/item?id=49422784#49424357",
+      "context": "evaluated",
+      "excerpt": "And genuinely this made me emotional. Was weird as hell walking around my back yard.",
+      "kind": "recommendation",
+      "parent_comment_id": "49422784"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49422784",
+  "id": "2026-08-25:san-francisco-in-unity:49422784",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "san-francisco-in-unity",
+  "rank": 8,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49422784",
+  "source_story_title": "The entire city of San Francisco as a video game"
+}

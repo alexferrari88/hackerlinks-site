@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "steampipe",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:steampipe:49415271",
+  "mention_ids": [
+    "2026-08-25:steampipe:49415271"
+  ],
+  "name": "Steampipe",
+  "slug": "steampipe",
+  "summary": "A plugin hub for querying cloud services and APIs with SQL.",
+  "thing_url": "https://hub.steampipe.io/",
+  "times_seen": 1,
+  "why_included": "A commenter directly suggested Steampipe as a practical extension-based implementation."
+}

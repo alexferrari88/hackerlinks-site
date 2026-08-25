@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used Metapad for years as a drop-in Notepad replacement.",
+  "evidence_sources": [
+    {
+      "author": "bananaboy",
+      "comment_id": "49426978",
+      "comment_url": "https://news.ycombinator.com/item?id=49421158#49426978",
+      "context": "first_hand_use",
+      "excerpt": "For a long time I used metapad as a notepad replacement",
+      "kind": "recommendation",
+      "parent_comment_id": "49426131"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49421158",
+  "id": "2026-08-25:metapad:49421158",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "metapad",
+  "rank": 1,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49421158",
+  "source_story_title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+}

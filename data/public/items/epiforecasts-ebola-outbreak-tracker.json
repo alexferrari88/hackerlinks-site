@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "epiforecasts-ebola-outbreak-tracker",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:epiforecasts-ebola-outbreak-tracker:49416097",
+  "mention_ids": [
+    "2026-08-25:epiforecasts-ebola-outbreak-tracker:49416097"
+  ],
+  "name": "EpiForecasts Ebola Outbreak Tracker",
+  "slug": "epiforecasts-ebola-outbreak-tracker",
+  "summary": "A Bayesian dashboard estimating outbreak size, growth, and reproduction rates.",
+  "thing_url": "https://epiforecasts.io/BVDOutbreakSize/stable/analysis",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as useful for judging whether the outbreak has peaked."
+}

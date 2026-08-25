@@ -1,0 +1,23 @@
+{
+  "evidence": "The recommendation points to SPEC, 3DMark, and performance-per-watt results while noting prototype status.",
+  "evidence_sources": [
+    {
+      "author": "cherioo",
+      "comment_id": "49424773",
+      "comment_url": "https://news.ycombinator.com/item?id=49420873#49424773",
+      "context": "evaluated",
+      "excerpt": "Geekerwan's review is up, with caveat that this is the prototype board, not even packaged into a phone yet, but still shows some amazing results in spec 2026, 3dmark (gpu), perf-per-watt for single core and multi-core",
+      "kind": "recommendation",
+      "parent_comment_id": "49420873"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49420873",
+  "id": "2026-08-25:geekerwan-s-xiaomi-xring-o2-review:49420873",
+  "is_repeat": false,
+  "issue_id": "2026-08-25",
+  "item_id": "geekerwan-s-xiaomi-xring-o2-review",
+  "rank": 7,
+  "seen_at": "2026-08-25T05:17:43+02:00",
+  "source_story_id": "49420873",
+  "source_story_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded"
+}

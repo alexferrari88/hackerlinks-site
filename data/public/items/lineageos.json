@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "lineageos",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:lineageos:49415621",
+  "mention_ids": [
+    "2026-08-25:lineageos:49415621"
+  ],
+  "name": "LineageOS",
+  "slug": "lineageos",
+  "summary": "A community Android distribution that extends support for older phones.",
+  "thing_url": "https://lineageos.org/",
+  "times_seen": 1,
+  "why_included": "A user kept an LG G2 useful through six major Android generations."
+}

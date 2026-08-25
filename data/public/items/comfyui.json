@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-25T05:17:43+02:00",
+  "id": "comfyui",
+  "last_seen_at": "2026-08-25T05:17:43+02:00",
+  "latest_mention_id": "2026-08-25:comfyui:49421158",
+  "mention_ids": [
+    "2026-08-25:comfyui:49421158"
+  ],
+  "name": "ComfyUI",
+  "slug": "comfyui",
+  "summary": "A node-based local interface for building and running generative-image workflows.",
+  "thing_url": "https://github.com/Comfy-Org/ComfyUI",
+  "times_seen": 1,
+  "why_included": "A hands-on user recommended it for precise background and watermark removal."
+}

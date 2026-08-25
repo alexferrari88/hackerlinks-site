@@ -7681,6 +7681,78 @@
       "first_reported_at": "2026-08-24T05:32:23+02:00",
       "last_reported_at": "2026-08-24T05:32:23+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Metapad",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SQLite Virtual Tables",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Steampipe",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ComfyUI",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "LineageOS",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AI Chip Architectures",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Geekerwan's Xiaomi XRing O2 Review",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "San Francisco in Unity",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Watch Dogs 2",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ejabberd",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fluux Messenger",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "EpiForecasts Ebola Outbreak Tracker",
+      "first_reported_at": "2026-08-25T05:17:43+02:00",
+      "last_reported_at": "2026-08-25T05:17:43+02:00",
+      "times_reported": 1
     }
   ]
 }
