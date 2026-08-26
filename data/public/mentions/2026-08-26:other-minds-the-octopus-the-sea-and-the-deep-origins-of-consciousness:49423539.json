@@ -1,0 +1,32 @@
+{
+  "evidence": "Commenters endorsed the book as an excellent route into octopus intelligence and consciousness.",
+  "evidence_sources": [
+    {
+      "author": "adolph",
+      "comment_id": "49427184",
+      "comment_url": "https://news.ycombinator.com/item?id=49423539#49427184",
+      "context": "evaluated",
+      "excerpt": "Godfrey-Smith is the author of \"Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness,\" which is a great read to delve further.",
+      "kind": "recommendation",
+      "parent_comment_id": "49424790"
+    },
+    {
+      "author": "bookofjoe",
+      "comment_id": "49426124",
+      "comment_url": "https://news.ycombinator.com/item?id=49423539#49426124",
+      "context": "evaluated",
+      "excerpt": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness [excellent]",
+      "kind": "recommendation",
+      "parent_comment_id": "49425512"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49423539",
+  "id": "2026-08-26:other-minds-the-octopus-the-sea-and-the-deep-origins-of-consciousness:49423539",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "other-minds-the-octopus-the-sea-and-the-deep-origins-of-consciousness",
+  "rank": 8,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49423539",
+  "source_story_title": "Octopus intelligence may be related to never-before-seen mutation"
+}

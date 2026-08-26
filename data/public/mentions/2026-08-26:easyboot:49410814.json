@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation pointed to Easyboot in response to a request for an alternative boot manager.",
+  "evidence_sources": [
+    {
+      "author": "skrellm",
+      "comment_id": "49432696",
+      "comment_url": "https://news.ycombinator.com/item?id=49410814#49432696",
+      "excerpt": "Try https://gitlab.com/bztsrc/easyboot",
+      "kind": "recommendation",
+      "parent_comment_id": "49412356"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49410814",
+  "id": "2026-08-26:easyboot:49410814",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "easyboot",
+  "rank": 4,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49410814",
+  "source_story_title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines"
+}

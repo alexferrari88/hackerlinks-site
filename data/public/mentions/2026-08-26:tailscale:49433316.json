@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Tailscale with macOS Screen Sharing between home and work Macs.",
+  "evidence_sources": [
+    {
+      "author": "lo_fye",
+      "comment_id": "49437413",
+      "comment_url": "https://news.ycombinator.com/item?id=49433316#49437413",
+      "context": "first_hand_use",
+      "excerpt": "I've been using the free version of TailScale to use macOS's built-in screen sharing app to use my home Mac mini from my work MacBook Pro. Works great!",
+      "kind": "recommendation",
+      "parent_comment_id": "49433413"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49433316",
+  "id": "2026-08-26:tailscale:49433316",
+  "is_repeat": true,
+  "issue_id": "2026-08-26",
+  "item_id": "tailscale",
+  "rank": 1,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49433316",
+  "source_story_title": "New Mac Studio with M5 Max and M5 Ultra"
+}

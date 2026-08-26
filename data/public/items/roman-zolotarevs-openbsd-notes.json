@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-26T05:22:38+02:00",
+  "id": "roman-zolotarevs-openbsd-notes",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:roman-zolotarevs-openbsd-notes:49437483",
+  "mention_ids": [
+    "2026-08-26:roman-zolotarevs-openbsd-notes:49437483"
+  ],
+  "name": "Roman Zolotarev\u2019s OpenBSD Notes",
+  "slug": "roman-zolotarevs-openbsd-notes",
+  "summary": "A compact collection of practical OpenBSD setup and operations notes.",
+  "thing_url": "https://romanzolotarev.com/bsd/",
+  "times_seen": 1,
+  "why_included": "An OpenBSD reader called the resource their go-to reference."
+}

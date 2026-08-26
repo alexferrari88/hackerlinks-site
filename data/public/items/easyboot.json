@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-26T05:22:38+02:00",
+  "id": "easyboot",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:easyboot:49410814",
+  "mention_ids": [
+    "2026-08-26:easyboot:49410814"
+  ],
+  "name": "Easyboot",
+  "slug": "easyboot",
+  "summary": "A dependency-free boot manager and bootable disk-image creator.",
+  "thing_url": "https://gitlab.com/bztsrc/easyboot",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it as a possible GRUB or rEFIt replacement."
+}

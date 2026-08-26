@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-26T05:22:38+02:00",
+  "id": "iris",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:iris:49399722",
+  "mention_ids": [
+    "2026-08-26:iris:49399722"
+  ],
+  "name": "Iris",
+  "slug": "iris",
+  "summary": "A fast web client for trying the decentralized Nostr social network.",
+  "thing_url": "https://iris.to/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as an easy first step into Nostr."
+}

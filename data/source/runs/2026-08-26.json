@@ -1,0 +1,284 @@
+{
+  "version": 2,
+  "run_date": "2026-08-26",
+  "generated_at": "2026-08-26T05:22:38+02:00",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-26.json",
+    "sha256": "bf3906bdf91d9ad834c72122d743f07d9ad6713b8926316f781aa2df57664e01",
+    "bytes": 3499532,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5982,
+    "fetched_item_count": 6012,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "summary": "Twelve concrete, comment-endorsed tools, resources, media picks, and games surfaced from a complete HN front-page comment crawl.",
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "items": [
+    {
+      "name": "Tailscale",
+      "category": "Privacy & Networking",
+      "thing_url": "https://tailscale.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49433316",
+      "source_story_title": "New Mac Studio with M5 Max and M5 Ultra",
+      "summary": "A mesh VPN that makes remote Mac screen sharing simple.",
+      "why_included": "A hands-on user said its free tier worked great for remote Mac access.",
+      "evidence": "The commenter uses Tailscale with macOS Screen Sharing between home and work Macs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49437413",
+          "comment_url": "https://news.ycombinator.com/item?id=49433316#49437413",
+          "author": "lo_fye",
+          "excerpt": "I've been using the free version of TailScale to use macOS's built-in screen sharing app to use my home Mac mini from my work MacBook Pro. Works great!",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49433413"
+        }
+      ]
+    },
+    {
+      "name": "Audiobookshelf",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://audiobookshelf.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49427001",
+      "source_story_title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "summary": "A self-hosted server for audiobooks, podcasts, and ebooks.",
+      "why_included": "A regular user praised its broader-than-expected media support.",
+      "evidence": "The commenter uses Audiobookshelf for podcasts, audiobooks, and ebooks and called it great.",
+      "evidence_sources": [
+        {
+          "comment_id": "49428182",
+          "comment_url": "https://news.ycombinator.com/item?id=49427001#49428182",
+          "author": "BloodyIron",
+          "excerpt": "I'm a fan of audiobookshelf. Don't let the name fool you, it does a lot! I use it for podcasts, audio books, & ebooks. It's great!",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49427001"
+        }
+      ]
+    },
+    {
+      "name": "Middlemak",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.reddit.com/r/Middlemak/",
+      "hn_url": "https://news.ycombinator.com/item?id=49419252",
+      "source_story_title": "What's new in Emacs 31.1",
+      "summary": "A keyboard layout that reduces finger travel while retaining QWERTY familiarity.",
+      "why_included": "A developer preferred it over Workman and Colemak for daily coding.",
+      "evidence": "The commenter found Middlemak minimized finger travel and awkward motions without discarding much QWERTY muscle memory.",
+      "evidence_sources": [
+        {
+          "comment_id": "49443090",
+          "comment_url": "https://news.ycombinator.com/item?id=49419252#49443090",
+          "author": "tpmoney",
+          "excerpt": "I tried a couple different layouts and landed on something called \"middlemak\"[1]. Of all the ones I tried, it really felt like the one with the least overall finger travel and awkward things to type in my day to day software development work",
+          "kind": "comparison",
+          "context": "first_hand_use",
+          "parent_comment_id": "49441950"
+        }
+      ]
+    },
+    {
+      "name": "Easyboot",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://gitlab.com/bztsrc/easyboot",
+      "hn_url": "https://news.ycombinator.com/item?id=49410814",
+      "source_story_title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "summary": "A dependency-free boot manager and bootable disk-image creator.",
+      "why_included": "A commenter directly recommended it as a possible GRUB or rEFIt replacement.",
+      "evidence": "The recommendation pointed to Easyboot in response to a request for an alternative boot manager.",
+      "evidence_sources": [
+        {
+          "comment_id": "49432696",
+          "comment_url": "https://news.ycombinator.com/item?id=49410814#49432696",
+          "author": "skrellm",
+          "excerpt": "Try https://gitlab.com/bztsrc/easyboot",
+          "kind": "recommendation",
+          "parent_comment_id": "49412356"
+        }
+      ]
+    },
+    {
+      "name": "ImHex",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/werwolv/imhex",
+      "hn_url": "https://news.ycombinator.com/item?id=49423878",
+      "source_story_title": "Visualizing Binary Files",
+      "summary": "A graphical hex editor for inspecting, decoding, and visualizing binary data.",
+      "why_included": "A hands-on user reported good results using it for binary visualization.",
+      "evidence": "The commenter uses ImHex for the same binary-inspection purpose discussed in the thread.",
+      "evidence_sources": [
+        {
+          "comment_id": "49437088",
+          "comment_url": "https://news.ycombinator.com/item?id=49423878#49437088",
+          "author": "pdpi",
+          "excerpt": "I've been using ImHex[0] for this purpose, to pretty good effect.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49436887"
+        }
+      ]
+    },
+    {
+      "name": "You Don’t Need Animations",
+      "category": "Watch & Learn",
+      "thing_url": "https://emilkowal.ski/ui/you-dont-need-animations",
+      "hn_url": "https://news.ycombinator.com/item?id=49436786",
+      "source_story_title": "Tooltips need a delay, and then they need to skip it",
+      "summary": "A UI essay on where motion helps and where restraint works better.",
+      "why_included": "A commenter called the whole post worth reading and memorable.",
+      "evidence": "The commenter connected its final example to tooltip behavior and said the detail stayed with them.",
+      "evidence_sources": [
+        {
+          "comment_id": "49440032",
+          "comment_url": "https://news.ycombinator.com/item?id=49436786#49440032",
+          "author": "brixie",
+          "excerpt": "that whole post is worth a read, I think, if you found this interesting",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49436786"
+        }
+      ]
+    },
+    {
+      "name": "Dolly Parton’s America",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.wnycstudios.org/podcasts/dolly-partons-america",
+      "hn_url": "https://news.ycombinator.com/item?id=49438052",
+      "source_story_title": "Dolly Parton has died",
+      "summary": "A podcast series exploring Dolly Parton’s life, work, and cultural reach.",
+      "why_included": "A listener highly recommended its unusually rich one-on-one access.",
+      "evidence": "The commenter said the podcast helped explain why people loved Dolly Parton and called it fantastic.",
+      "evidence_sources": [
+        {
+          "comment_id": "49438467",
+          "comment_url": "https://news.ycombinator.com/item?id=49438052#49438467",
+          "author": "mattsolle",
+          "excerpt": "I highly recommend it. Does a great job interviewing Dolly",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49438052"
+        }
+      ]
+    },
+    {
+      "name": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness",
+      "category": "Watch & Learn",
+      "thing_url": "https://us.macmillan.com/books/9780374537197/otherminds/",
+      "hn_url": "https://news.ycombinator.com/item?id=49423539",
+      "source_story_title": "Octopus intelligence may be related to never-before-seen mutation",
+      "summary": "Peter Godfrey-Smith’s book on cephalopod minds and the evolution of consciousness.",
+      "why_included": "Two commenters independently praised it as excellent and a great deeper read.",
+      "evidence": "Commenters endorsed the book as an excellent route into octopus intelligence and consciousness.",
+      "evidence_sources": [
+        {
+          "comment_id": "49427184",
+          "comment_url": "https://news.ycombinator.com/item?id=49423539#49427184",
+          "author": "adolph",
+          "excerpt": "Godfrey-Smith is the author of \"Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness,\" which is a great read to delve further.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49424790"
+        },
+        {
+          "comment_id": "49426124",
+          "comment_url": "https://news.ycombinator.com/item?id=49423539#49426124",
+          "author": "bookofjoe",
+          "excerpt": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness [excellent]",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49425512"
+        }
+      ]
+    },
+    {
+      "name": "Artle",
+      "category": "Games & Systems",
+      "thing_url": "https://artle.eu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49432319",
+      "source_story_title": "Don't Wordle",
+      "summary": "An independent art game inspired by Wordle and designed for daily play.",
+      "why_included": "Its creator said they still play it daily with their father.",
+      "evidence": "The creator described Artle as a Wordle-inspired art game with lasting daily appeal.",
+      "evidence_sources": [
+        {
+          "comment_id": "49434616",
+          "comment_url": "https://news.ycombinator.com/item?id=49432319#49434616",
+          "author": "steinvakt2",
+          "excerpt": "I made an art game inspired by wordle some years ago. My dad and I still play it daily.",
+          "kind": "recommendation",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49432319"
+        }
+      ]
+    },
+    {
+      "name": "Iris",
+      "category": "Privacy & Networking",
+      "thing_url": "https://iris.to/",
+      "hn_url": "https://news.ycombinator.com/item?id=49399722",
+      "source_story_title": "Nostr is an inclusive communication commons",
+      "summary": "A fast web client for trying the decentralized Nostr social network.",
+      "why_included": "A commenter recommended it as an easy first step into Nostr.",
+      "evidence": "The commenter called Iris a great way for newcomers to get started with Nostr.",
+      "evidence_sources": [
+        {
+          "comment_id": "49430093",
+          "comment_url": "https://news.ycombinator.com/item?id=49399722#49430093",
+          "author": "donpdonp",
+          "excerpt": "for those simply looking to try nostr for the first time, https://iris.to is a great way to get started.",
+          "kind": "recommendation",
+          "parent_comment_id": "49399722"
+        }
+      ]
+    },
+    {
+      "name": "BuyVM",
+      "category": "Privacy & Networking",
+      "thing_url": "https://buyvm.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49437483",
+      "source_story_title": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary": "A low-cost VPS provider offering KVM servers suitable for BSD.",
+      "why_included": "A former BSD customer reported no issues and responsive support.",
+      "evidence": "The commenter used BuyVM for BSD and found its support quick and helpful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49437978",
+          "comment_url": "https://news.ycombinator.com/item?id=49437483#49437978",
+          "author": "SoftTalker",
+          "excerpt": "I used buyvm.net for BSD a while back. Didn't have any issues, and the few times I contacted their support they were quick to respond and helpful.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49437881"
+        }
+      ]
+    },
+    {
+      "name": "Roman Zolotarev’s OpenBSD Notes",
+      "category": "Privacy & Networking",
+      "thing_url": "https://romanzolotarev.com/bsd/",
+      "hn_url": "https://news.ycombinator.com/item?id=49437483",
+      "source_story_title": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary": "A compact collection of practical OpenBSD setup and operations notes.",
+      "why_included": "An OpenBSD reader called the resource their go-to reference.",
+      "evidence": "The commenter singled out Roman Zolotarev’s BSD notes as a frequently used resource.",
+      "evidence_sources": [
+        {
+          "comment_id": "49440321",
+          "comment_url": "https://news.ycombinator.com/item?id=49437483#49440321",
+          "author": "tolerance",
+          "excerpt": "https://romanzolotarev.com/bsd/ has been my go-to.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49439465"
+        }
+      ]
+    }
+  ]
+}

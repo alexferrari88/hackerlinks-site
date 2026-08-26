@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-26T05:22:38+02:00",
+  "id": "middlemak",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:middlemak:49419252",
+  "mention_ids": [
+    "2026-08-26:middlemak:49419252"
+  ],
+  "name": "Middlemak",
+  "slug": "middlemak",
+  "summary": "A keyboard layout that reduces finger travel while retaining QWERTY familiarity.",
+  "thing_url": "https://www.reddit.com/r/Middlemak/",
+  "times_seen": 1,
+  "why_included": "A developer preferred it over Workman and Colemak for daily coding."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator described Artle as a Wordle-inspired art game with lasting daily appeal.",
+  "evidence_sources": [
+    {
+      "author": "steinvakt2",
+      "comment_id": "49434616",
+      "comment_url": "https://news.ycombinator.com/item?id=49432319#49434616",
+      "context": "author_or_maintainer",
+      "excerpt": "I made an art game inspired by wordle some years ago. My dad and I still play it daily.",
+      "kind": "recommendation",
+      "parent_comment_id": "49432319"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49432319",
+  "id": "2026-08-26:artle:49432319",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "artle",
+  "rank": 9,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49432319",
+  "source_story_title": "Don't Wordle"
+}

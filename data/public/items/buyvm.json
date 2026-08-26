@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-26T05:22:38+02:00",
+  "id": "buyvm",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:buyvm:49437483",
+  "mention_ids": [
+    "2026-08-26:buyvm:49437483"
+  ],
+  "name": "BuyVM",
+  "slug": "buyvm",
+  "summary": "A low-cost VPS provider offering KVM servers suitable for BSD.",
+  "thing_url": "https://buyvm.net/",
+  "times_seen": 1,
+  "why_included": "A former BSD customer reported no issues and responsive support."
+}

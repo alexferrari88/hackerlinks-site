@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-04-14T13:41:27.313438+00:00",
   "id": "tailscale",
-  "last_seen_at": "2026-04-14T13:41:27.313438+00:00",
-  "latest_mention_id": "2026-04-14:tailscale:47759341",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:tailscale:49433316",
   "mention_ids": [
-    "2026-04-14:tailscale:47759341"
+    "2026-04-14:tailscale:47759341",
+    "2026-08-26:tailscale:49433316"
   ],
   "name": "Tailscale",
   "slug": "tailscale",
-  "summary": "Zero-config mesh VPN HN users recommended for secure remote access to a home media server.",
-  "thing_url": "https://tailscale.com",
-  "times_seen": 1,
-  "why_included": "It surfaced as the practical answer for exposing Jellyfin safely without opening it directly to the internet."
+  "summary": "A mesh VPN that makes remote Mac screen sharing simple.",
+  "thing_url": "https://tailscale.com/",
+  "times_seen": 2,
+  "why_included": "A hands-on user said its free tier worked great for remote Mac access."
 }

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-26T05:22:38+02:00",
+  "id": "artle",
+  "last_seen_at": "2026-08-26T05:22:38+02:00",
+  "latest_mention_id": "2026-08-26:artle:49432319",
+  "mention_ids": [
+    "2026-08-26:artle:49432319"
+  ],
+  "name": "Artle",
+  "slug": "artle",
+  "summary": "An independent art game inspired by Wordle and designed for daily play.",
+  "thing_url": "https://artle.eu/",
+  "times_seen": 1,
+  "why_included": "Its creator said they still play it daily with their father."
+}

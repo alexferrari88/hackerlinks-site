@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used BuyVM for BSD and found its support quick and helpful.",
+  "evidence_sources": [
+    {
+      "author": "SoftTalker",
+      "comment_id": "49437978",
+      "comment_url": "https://news.ycombinator.com/item?id=49437483#49437978",
+      "context": "first_hand_use",
+      "excerpt": "I used buyvm.net for BSD a while back. Didn't have any issues, and the few times I contacted their support they were quick to respond and helpful.",
+      "kind": "recommendation",
+      "parent_comment_id": "49437881"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49437483",
+  "id": "2026-08-26:buyvm:49437483",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "buyvm",
+  "rank": 11,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49437483",
+  "source_story_title": "Run OpenBSD on DigitalOcean for $4/month"
+}

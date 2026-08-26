@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found Middlemak minimized finger travel and awkward motions without discarding much QWERTY muscle memory.",
+  "evidence_sources": [
+    {
+      "author": "tpmoney",
+      "comment_id": "49443090",
+      "comment_url": "https://news.ycombinator.com/item?id=49419252#49443090",
+      "context": "first_hand_use",
+      "excerpt": "I tried a couple different layouts and landed on something called \"middlemak\"[1]. Of all the ones I tried, it really felt like the one with the least overall finger travel and awkward things to type in my day to day software development work",
+      "kind": "comparison",
+      "parent_comment_id": "49441950"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49419252",
+  "id": "2026-08-26:middlemak:49419252",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "middlemak",
+  "rank": 3,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49419252",
+  "source_story_title": "What's new in Emacs 31.1"
+}

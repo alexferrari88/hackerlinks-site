@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter singled out Roman Zolotarev\u2019s BSD notes as a frequently used resource.",
+  "evidence_sources": [
+    {
+      "author": "tolerance",
+      "comment_id": "49440321",
+      "comment_url": "https://news.ycombinator.com/item?id=49437483#49440321",
+      "context": "first_hand_use",
+      "excerpt": "https://romanzolotarev.com/bsd/ has been my go-to.",
+      "kind": "recommendation",
+      "parent_comment_id": "49439465"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49437483",
+  "id": "2026-08-26:roman-zolotarevs-openbsd-notes:49437483",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "roman-zolotarevs-openbsd-notes",
+  "rank": 12,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49437483",
+  "source_story_title": "Run OpenBSD on DigitalOcean for $4/month"
+}

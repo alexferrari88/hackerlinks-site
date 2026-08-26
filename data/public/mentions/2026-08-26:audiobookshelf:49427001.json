@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Audiobookshelf for podcasts, audiobooks, and ebooks and called it great.",
+  "evidence_sources": [
+    {
+      "author": "BloodyIron",
+      "comment_id": "49428182",
+      "comment_url": "https://news.ycombinator.com/item?id=49427001#49428182",
+      "context": "first_hand_use",
+      "excerpt": "I'm a fan of audiobookshelf. Don't let the name fool you, it does a lot! I use it for podcasts, audio books, & ebooks. It's great!",
+      "kind": "recommendation",
+      "parent_comment_id": "49427001"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49427001",
+  "id": "2026-08-26:audiobookshelf:49427001",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "audiobookshelf",
+  "rank": 2,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49427001",
+  "source_story_title": "Bookshelf \u2013 Self-hosted eBook library that runs on object storage"
+}

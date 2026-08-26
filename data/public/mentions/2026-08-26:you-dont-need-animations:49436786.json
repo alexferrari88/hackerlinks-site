@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter connected its final example to tooltip behavior and said the detail stayed with them.",
+  "evidence_sources": [
+    {
+      "author": "brixie",
+      "comment_id": "49440032",
+      "comment_url": "https://news.ycombinator.com/item?id=49436786#49440032",
+      "context": "evaluated",
+      "excerpt": "that whole post is worth a read, I think, if you found this interesting",
+      "kind": "recommendation",
+      "parent_comment_id": "49436786"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49436786",
+  "id": "2026-08-26:you-dont-need-animations:49436786",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "you-dont-need-animations",
+  "rank": 6,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49436786",
+  "source_story_title": "Tooltips need a delay, and then they need to skip it"
+}

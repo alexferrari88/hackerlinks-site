@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said the podcast helped explain why people loved Dolly Parton and called it fantastic.",
+  "evidence_sources": [
+    {
+      "author": "mattsolle",
+      "comment_id": "49438467",
+      "comment_url": "https://news.ycombinator.com/item?id=49438052#49438467",
+      "context": "evaluated",
+      "excerpt": "I highly recommend it. Does a great job interviewing Dolly",
+      "kind": "recommendation",
+      "parent_comment_id": "49438052"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49438052",
+  "id": "2026-08-26:dolly-partons-america:49438052",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "dolly-partons-america",
+  "rank": 7,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49438052",
+  "source_story_title": "Dolly Parton has died"
+}

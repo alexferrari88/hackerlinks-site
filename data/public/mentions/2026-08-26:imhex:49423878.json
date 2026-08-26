@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses ImHex for the same binary-inspection purpose discussed in the thread.",
+  "evidence_sources": [
+    {
+      "author": "pdpi",
+      "comment_id": "49437088",
+      "comment_url": "https://news.ycombinator.com/item?id=49423878#49437088",
+      "context": "first_hand_use",
+      "excerpt": "I've been using ImHex[0] for this purpose, to pretty good effect.",
+      "kind": "recommendation",
+      "parent_comment_id": "49436887"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49423878",
+  "id": "2026-08-26:imhex:49423878",
+  "is_repeat": true,
+  "issue_id": "2026-08-26",
+  "item_id": "imhex",
+  "rank": 5,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49423878",
+  "source_story_title": "Visualizing Binary Files"
+}

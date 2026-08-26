@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called Iris a great way for newcomers to get started with Nostr.",
+  "evidence_sources": [
+    {
+      "author": "donpdonp",
+      "comment_id": "49430093",
+      "comment_url": "https://news.ycombinator.com/item?id=49399722#49430093",
+      "excerpt": "for those simply looking to try nostr for the first time, https://iris.to is a great way to get started.",
+      "kind": "recommendation",
+      "parent_comment_id": "49399722"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49399722",
+  "id": "2026-08-26:iris:49399722",
+  "is_repeat": false,
+  "issue_id": "2026-08-26",
+  "item_id": "iris",
+  "rank": 10,
+  "seen_at": "2026-08-26T05:22:38+02:00",
+  "source_story_id": "49399722",
+  "source_story_title": "Nostr is an inclusive communication commons"
+}
