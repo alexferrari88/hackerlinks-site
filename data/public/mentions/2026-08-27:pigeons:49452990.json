@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reported extensive homelab use for SSH access plus SMB and Postgres tunneling.",
+  "evidence_sources": [
+    {
+      "author": "Arqu",
+      "comment_id": "49454927",
+      "comment_url": "https://news.ycombinator.com/item?id=49452990#49454927",
+      "context": "first_hand_use",
+      "excerpt": "I use it in my homelab extensivelly for access, tunneling smb, postgres and some other minor bits.",
+      "kind": "recommendation",
+      "parent_comment_id": "49454421"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49452990",
+  "id": "2026-08-27:pigeons:49452990",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "pigeons",
+  "rank": 4,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49452990",
+  "source_story_title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane"
+}

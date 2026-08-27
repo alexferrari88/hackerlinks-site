@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation highlighted its use of Sanborn maps to place historical photos accurately.",
+  "evidence_sources": [
+    {
+      "author": "lapetitejort",
+      "comment_id": "49451583",
+      "comment_url": "https://news.ycombinator.com/item?id=49445873#49451583",
+      "excerpt": "If you like OldInsuranceMaps, check out another OSM charter project, Yesterdays!",
+      "kind": "recommendation",
+      "parent_comment_id": "49445873"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49445873",
+  "id": "2026-08-27:yesterdays:49445873",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "yesterdays",
+  "rank": 6,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49445873",
+  "source_story_title": "Oldinsurancemaps.net is now a Charter Project"
+}

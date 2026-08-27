@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "bitsavers-ibm-7950-harvest-archive",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:bitsavers-ibm-7950-harvest-archive:49444232",
+  "mention_ids": [
+    "2026-08-27:bitsavers-ibm-7950-harvest-archive:49444232"
+  ],
+  "name": "Bitsavers IBM 7950/HARVEST archive",
+  "slug": "bitsavers-ibm-7950-harvest-archive",
+  "summary": "Primary manuals and documents for IBM's Cold War HARVEST cryptanalysis system.",
+  "thing_url": "https://www.bitsavers.org/pdf/ibm/7950/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly praised Bitsavers while pointing readers to the primary sources."
+}

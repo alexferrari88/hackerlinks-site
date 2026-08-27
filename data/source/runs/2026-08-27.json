@@ -1,0 +1,232 @@
+{
+  "version": 2,
+  "run_date": "2026-08-27",
+  "generated_at": "2026-08-27T05:17:25+02:00",
+  "summary": "Ten concrete recommendations from a complete 30-story HN front-page comment crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-27.json",
+    "sha256": "ac81cc66a36eb9be2f079b009280f449b7ac3f55bb1c3a5cd464a1bbefe1e4dd",
+    "bytes": 2992110,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5015,
+    "fetched_item_count": 5045,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "The Cuckoo's Egg",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.simonandschuster.com/books/The-Cuckoos-Egg/Cliff-Stoll/9781668048160",
+      "hn_url": "https://news.ycombinator.com/item?id=49395802",
+      "source_story_title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "summary": "Cliff Stoll's true account of tracking a hacker through early computer networks.",
+      "why_included": "A reader singled it out as a rare genuine page-turner and praised the writing.",
+      "evidence": "A reader called the book an exceptional page-turner and fantastically well written.",
+      "evidence_sources": [
+        {
+          "comment_id": "49459146",
+          "comment_url": "https://news.ycombinator.com/item?id=49395802#49459146",
+          "author": "nevster",
+          "excerpt": "The Cuckoo's Egg is the exception. Such a fantastically well-written book!",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49395802"
+        }
+      ]
+    },
+    {
+      "name": "Muppet Treasure Island BTS video",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=XzU8f4HaQw0",
+      "hn_url": "https://news.ycombinator.com/item?id=49451448",
+      "source_story_title": "Tim Curry has died",
+      "summary": "Behind-the-scenes footage featuring Tim Curry during Muppet Treasure Island.",
+      "why_included": "A commenter was glad they watched it and paired it with strong praise for the film.",
+      "evidence": "The commenter called Muppet Treasure Island Curry's best work and welcomed the behind-the-scenes video.",
+      "evidence_sources": [
+        {
+          "comment_id": "49452402",
+          "comment_url": "https://news.ycombinator.com/item?id=49451448#49452402",
+          "author": "billbrown",
+          "excerpt": "For me, his best work was Muppet Treasure Island. I'm glad I watched this BTS video with him",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49451448"
+        }
+      ]
+    },
+    {
+      "name": "Fira Sans",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://carrois.com/fira/",
+      "hn_url": "https://news.ycombinator.com/item?id=49450448",
+      "source_story_title": "Nebula Sans",
+      "summary": "A free, characterful sans-serif family originally designed with Mozilla.",
+      "why_included": "A commenter called it their go-to sans serif and praised its distinctive character.",
+      "evidence": "A regular user described Fira Sans as their go-to and praised its character.",
+      "evidence_sources": [
+        {
+          "comment_id": "49458236",
+          "comment_url": "https://news.ycombinator.com/item?id=49450448#49458236",
+          "author": "ashton314",
+          "excerpt": "I also love the pure character of Fira Sans and it’s my go-to sans serif.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49452877"
+        }
+      ]
+    },
+    {
+      "name": "Pigeons",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/n0-computer/pigeons",
+      "hn_url": "https://news.ycombinator.com/item?id=49452990",
+      "source_story_title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "summary": "SSH access through NAT or firewalls without port forwarding or VPN setup.",
+      "why_included": "A homelab user relies on it extensively for access and service tunnels.",
+      "evidence": "A commenter reported extensive homelab use for SSH access plus SMB and Postgres tunneling.",
+      "evidence_sources": [
+        {
+          "comment_id": "49454927",
+          "comment_url": "https://news.ycombinator.com/item?id=49452990#49454927",
+          "author": "Arqu",
+          "excerpt": "I use it in my homelab extensivelly for access, tunneling smb, postgres and some other minor bits.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49454421"
+        }
+      ]
+    },
+    {
+      "name": "ha-bambulab",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/greghesp/ha-bambulab",
+      "hn_url": "https://news.ycombinator.com/item?id=49452980",
+      "source_story_title": "An ongoing 3D-printer AGPL violation",
+      "summary": "A Home Assistant integration for monitoring and automating Bambu Lab printers.",
+      "why_included": "A frequent user called it excellent for printer monitoring and event automation.",
+      "evidence": "A commenter uses the integration constantly and praised its monitoring and automation support.",
+      "evidence_sources": [
+        {
+          "comment_id": "49455571",
+          "comment_url": "https://news.ycombinator.com/item?id=49452980#49455571",
+          "author": "hamdingers",
+          "excerpt": "It's excellent for monitoring and setting up automations around printer events, I use it all the time too.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49454467"
+        }
+      ]
+    },
+    {
+      "name": "Yesterdays",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://maprva.org/projects/yesterdays",
+      "hn_url": "https://news.ycombinator.com/item?id=49445873",
+      "source_story_title": "Oldinsurancemaps.net is now a Charter Project",
+      "summary": "An interactive map connecting historical photos with Sanborn maps and locations.",
+      "why_included": "A commenter directly recommended it to fans of historical insurance maps.",
+      "evidence": "The recommendation highlighted its use of Sanborn maps to place historical photos accurately.",
+      "evidence_sources": [
+        {
+          "comment_id": "49451583",
+          "comment_url": "https://news.ycombinator.com/item?id=49445873#49451583",
+          "author": "lapetitejort",
+          "excerpt": "If you like OldInsuranceMaps, check out another OSM charter project, Yesterdays!",
+          "kind": "recommendation",
+          "parent_comment_id": "49445873"
+        }
+      ]
+    },
+    {
+      "name": "Bitsavers IBM 7950/HARVEST archive",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.bitsavers.org/pdf/ibm/7950/",
+      "hn_url": "https://news.ycombinator.com/item?id=49444232",
+      "source_story_title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+      "summary": "Primary manuals and documents for IBM's Cold War HARVEST cryptanalysis system.",
+      "why_included": "A commenter explicitly praised Bitsavers while pointing readers to the primary sources.",
+      "evidence": "The commenter recommended the IBM 7950 collection as excellent primary-source material.",
+      "evidence_sources": [
+        {
+          "comment_id": "49445136",
+          "comment_url": "https://news.ycombinator.com/item?id=49444232#49445136",
+          "author": "nxobject",
+          "excerpt": "Primary sources for the IBM 7950/HARVEST on Bitsavers, excellent as always",
+          "kind": "recommendation",
+          "parent_comment_id": "49444232"
+        }
+      ]
+    },
+    {
+      "name": "hraness kb",
+      "category": "AI & Local Models",
+      "thing_url": "https://hraness.com/kb",
+      "hn_url": "https://news.ycombinator.com/item?id=49443523",
+      "source_story_title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "summary": "A Markdown agent knowledge base with backlinks, semantic search, and Git context.",
+      "why_included": "Its author says this simple repository pattern is sufficient for their coding and non-coding agents.",
+      "evidence": "The maintainer reported that a Markdown knowledge base is all they need to improve agent memory.",
+      "evidence_sources": [
+        {
+          "comment_id": "49448787",
+          "comment_url": "https://news.ycombinator.com/item?id=49443523#49448787",
+          "author": "benzguo",
+          "excerpt": "I've found that a simple markdown knowledgebase (with some useful extensions like semantic search & git context) is all I need to improve the memory of my agents.",
+          "kind": "recommendation",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49443523"
+        }
+      ]
+    },
+    {
+      "name": "Enterprise Document Intelligence",
+      "category": "AI & Local Models",
+      "thing_url": "https://towardsdatascience.com/document-intelligence-a-series-on-building-rag-brick-by-brick-from-minimal-to-corpus-scale/",
+      "hn_url": "https://news.ycombinator.com/item?id=49445727",
+      "source_story_title": "RAG Is Simpler Than You Think",
+      "summary": "A practical series building enterprise RAG from a minimal pipeline to production.",
+      "why_included": "A practitioner struggling with RAG recommended the series and found it useful.",
+      "evidence": "A reader explicitly recommended Angela Shi's enterprise-document series after finding it useful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49447554",
+          "comment_url": "https://news.ycombinator.com/item?id=49445727#49447554",
+          "author": "Otterly99",
+          "excerpt": "I would recommend this author that has whole series on entreprise documents (start with the one from May 22nd)",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49445727"
+        }
+      ]
+    },
+    {
+      "name": "SQLar",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://sqlite.org/sqlar.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49442589",
+      "source_story_title": "Queryable Executables",
+      "summary": "A ZIP-like archive format and tool built on an ordinary SQLite database.",
+      "why_included": "A commenter highlighted SQLite archives while calling the underlying application-file idea compelling.",
+      "evidence": "The commenter presented SQLar as a ZIP-like SQLite archive and endorsed the broader idea as compelling.",
+      "evidence_sources": [
+        {
+          "comment_id": "49449934",
+          "comment_url": "https://news.ycombinator.com/item?id=49442589#49449934",
+          "author": "ramses0",
+          "excerpt": "SQLar - https://sqlite.org/sqlar/doc/trunk/README.md ...basically `s/zip/sqlar/g` and you're not that far off.",
+          "kind": "recommendation",
+          "parent_comment_id": "49442589"
+        }
+      ]
+    }
+  ]
+}

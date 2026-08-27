@@ -1,0 +1,23 @@
+{
+  "evidence": "A regular user described Fira Sans as their go-to and praised its character.",
+  "evidence_sources": [
+    {
+      "author": "ashton314",
+      "comment_id": "49458236",
+      "comment_url": "https://news.ycombinator.com/item?id=49450448#49458236",
+      "context": "first_hand_use",
+      "excerpt": "I also love the pure character of Fira Sans and it\u2019s my go-to sans serif.",
+      "kind": "recommendation",
+      "parent_comment_id": "49452877"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49450448",
+  "id": "2026-08-27:fira-sans:49450448",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "fira-sans",
+  "rank": 3,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49450448",
+  "source_story_title": "Nebula Sans"
+}

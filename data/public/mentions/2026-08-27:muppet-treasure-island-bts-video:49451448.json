@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called Muppet Treasure Island Curry's best work and welcomed the behind-the-scenes video.",
+  "evidence_sources": [
+    {
+      "author": "billbrown",
+      "comment_id": "49452402",
+      "comment_url": "https://news.ycombinator.com/item?id=49451448#49452402",
+      "context": "evaluated",
+      "excerpt": "For me, his best work was Muppet Treasure Island. I'm glad I watched this BTS video with him",
+      "kind": "recommendation",
+      "parent_comment_id": "49451448"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49451448",
+  "id": "2026-08-27:muppet-treasure-island-bts-video:49451448",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "muppet-treasure-island-bts-video",
+  "rank": 2,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49451448",
+  "source_story_title": "Tim Curry has died"
+}

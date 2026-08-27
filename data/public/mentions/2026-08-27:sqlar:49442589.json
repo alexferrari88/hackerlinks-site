@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter presented SQLar as a ZIP-like SQLite archive and endorsed the broader idea as compelling.",
+  "evidence_sources": [
+    {
+      "author": "ramses0",
+      "comment_id": "49449934",
+      "comment_url": "https://news.ycombinator.com/item?id=49442589#49449934",
+      "excerpt": "SQLar - https://sqlite.org/sqlar/doc/trunk/README.md ...basically `s/zip/sqlar/g` and you're not that far off.",
+      "kind": "recommendation",
+      "parent_comment_id": "49442589"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49442589",
+  "id": "2026-08-27:sqlar:49442589",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "sqlar",
+  "rank": 10,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49442589",
+  "source_story_title": "Queryable Executables"
+}

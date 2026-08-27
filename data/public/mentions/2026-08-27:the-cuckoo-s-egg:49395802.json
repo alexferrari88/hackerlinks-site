@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader called the book an exceptional page-turner and fantastically well written.",
+  "evidence_sources": [
+    {
+      "author": "nevster",
+      "comment_id": "49459146",
+      "comment_url": "https://news.ycombinator.com/item?id=49395802#49459146",
+      "context": "evaluated",
+      "excerpt": "The Cuckoo's Egg is the exception. Such a fantastically well-written book!",
+      "kind": "recommendation",
+      "parent_comment_id": "49395802"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49395802",
+  "id": "2026-08-27:the-cuckoo-s-egg:49395802",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "the-cuckoo-s-egg",
+  "rank": 1,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49395802",
+  "source_story_title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]"
+}

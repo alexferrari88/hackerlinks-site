@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "pigeons",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:pigeons:49452990",
+  "mention_ids": [
+    "2026-08-27:pigeons:49452990"
+  ],
+  "name": "Pigeons",
+  "slug": "pigeons",
+  "summary": "SSH access through NAT or firewalls without port forwarding or VPN setup.",
+  "thing_url": "https://github.com/n0-computer/pigeons",
+  "times_seen": 1,
+  "why_included": "A homelab user relies on it extensively for access and service tunnels."
+}

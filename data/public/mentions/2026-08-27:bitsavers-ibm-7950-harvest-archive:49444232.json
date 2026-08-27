@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended the IBM 7950 collection as excellent primary-source material.",
+  "evidence_sources": [
+    {
+      "author": "nxobject",
+      "comment_id": "49445136",
+      "comment_url": "https://news.ycombinator.com/item?id=49444232#49445136",
+      "excerpt": "Primary sources for the IBM 7950/HARVEST on Bitsavers, excellent as always",
+      "kind": "recommendation",
+      "parent_comment_id": "49444232"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49444232",
+  "id": "2026-08-27:bitsavers-ibm-7950-harvest-archive:49444232",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "bitsavers-ibm-7950-harvest-archive",
+  "rank": 7,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49444232",
+  "source_story_title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War"
+}

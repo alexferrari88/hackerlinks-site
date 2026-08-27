@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "ha-bambulab",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:ha-bambulab:49452980",
+  "mention_ids": [
+    "2026-08-27:ha-bambulab:49452980"
+  ],
+  "name": "ha-bambulab",
+  "slug": "ha-bambulab",
+  "summary": "A Home Assistant integration for monitoring and automating Bambu Lab printers.",
+  "thing_url": "https://github.com/greghesp/ha-bambulab",
+  "times_seen": 1,
+  "why_included": "A frequent user called it excellent for printer monitoring and event automation."
+}

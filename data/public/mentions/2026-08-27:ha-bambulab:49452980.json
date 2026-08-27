@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses the integration constantly and praised its monitoring and automation support.",
+  "evidence_sources": [
+    {
+      "author": "hamdingers",
+      "comment_id": "49455571",
+      "comment_url": "https://news.ycombinator.com/item?id=49452980#49455571",
+      "context": "first_hand_use",
+      "excerpt": "It's excellent for monitoring and setting up automations around printer events, I use it all the time too.",
+      "kind": "recommendation",
+      "parent_comment_id": "49454467"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49452980",
+  "id": "2026-08-27:ha-bambulab:49452980",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "ha-bambulab",
+  "rank": 5,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49452980",
+  "source_story_title": "An ongoing 3D-printer AGPL violation"
+}

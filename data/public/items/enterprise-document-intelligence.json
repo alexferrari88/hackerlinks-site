@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "enterprise-document-intelligence",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:enterprise-document-intelligence:49445727",
+  "mention_ids": [
+    "2026-08-27:enterprise-document-intelligence:49445727"
+  ],
+  "name": "Enterprise Document Intelligence",
+  "slug": "enterprise-document-intelligence",
+  "summary": "A practical series building enterprise RAG from a minimal pipeline to production.",
+  "thing_url": "https://towardsdatascience.com/document-intelligence-a-series-on-building-rag-brick-by-brick-from-minimal-to-corpus-scale/",
+  "times_seen": 1,
+  "why_included": "A practitioner struggling with RAG recommended the series and found it useful."
+}

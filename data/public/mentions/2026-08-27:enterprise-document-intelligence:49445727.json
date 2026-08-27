@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader explicitly recommended Angela Shi's enterprise-document series after finding it useful.",
+  "evidence_sources": [
+    {
+      "author": "Otterly99",
+      "comment_id": "49447554",
+      "comment_url": "https://news.ycombinator.com/item?id=49445727#49447554",
+      "context": "evaluated",
+      "excerpt": "I would recommend this author that has whole series on entreprise documents (start with the one from May 22nd)",
+      "kind": "recommendation",
+      "parent_comment_id": "49445727"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49445727",
+  "id": "2026-08-27:enterprise-document-intelligence:49445727",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "enterprise-document-intelligence",
+  "rank": 9,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49445727",
+  "source_story_title": "RAG Is Simpler Than You Think"
+}

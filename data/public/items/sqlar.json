@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "sqlar",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:sqlar:49442589",
+  "mention_ids": [
+    "2026-08-27:sqlar:49442589"
+  ],
+  "name": "SQLar",
+  "slug": "sqlar",
+  "summary": "A ZIP-like archive format and tool built on an ordinary SQLite database.",
+  "thing_url": "https://sqlite.org/sqlar.html",
+  "times_seen": 1,
+  "why_included": "A commenter highlighted SQLite archives while calling the underlying application-file idea compelling."
+}

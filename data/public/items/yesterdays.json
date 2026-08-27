@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "yesterdays",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:yesterdays:49445873",
+  "mention_ids": [
+    "2026-08-27:yesterdays:49445873"
+  ],
+  "name": "Yesterdays",
+  "slug": "yesterdays",
+  "summary": "An interactive map connecting historical photos with Sanborn maps and locations.",
+  "thing_url": "https://maprva.org/projects/yesterdays",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it to fans of historical insurance maps."
+}

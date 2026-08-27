@@ -1,0 +1,23 @@
+{
+  "evidence": "The maintainer reported that a Markdown knowledge base is all they need to improve agent memory.",
+  "evidence_sources": [
+    {
+      "author": "benzguo",
+      "comment_id": "49448787",
+      "comment_url": "https://news.ycombinator.com/item?id=49443523#49448787",
+      "context": "author_or_maintainer",
+      "excerpt": "I've found that a simple markdown knowledgebase (with some useful extensions like semantic search & git context) is all I need to improve the memory of my agents.",
+      "kind": "recommendation",
+      "parent_comment_id": "49443523"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49443523",
+  "id": "2026-08-27:hraness-kb:49443523",
+  "is_repeat": false,
+  "issue_id": "2026-08-27",
+  "item_id": "hraness-kb",
+  "rank": 8,
+  "seen_at": "2026-08-27T05:17:25+02:00",
+  "source_story_id": "49443523",
+  "source_story_title": "Agentic Context Management: Memory and Cost as Architecture Problems"
+}

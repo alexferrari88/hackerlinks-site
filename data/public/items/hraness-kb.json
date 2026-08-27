@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-27T05:17:25+02:00",
+  "id": "hraness-kb",
+  "last_seen_at": "2026-08-27T05:17:25+02:00",
+  "latest_mention_id": "2026-08-27:hraness-kb:49443523",
+  "mention_ids": [
+    "2026-08-27:hraness-kb:49443523"
+  ],
+  "name": "hraness kb",
+  "slug": "hraness-kb",
+  "summary": "A Markdown agent knowledge base with backlinks, semantic search, and Git context.",
+  "thing_url": "https://hraness.com/kb",
+  "times_seen": 1,
+  "why_included": "Its author says this simple repository pattern is sufficient for their coding and non-coding agents."
+}
