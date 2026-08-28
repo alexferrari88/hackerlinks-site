@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter calls Rougeux\u2019s Euclid reproduction very beautiful.",
+  "evidence_sources": [
+    {
+      "author": "pcshah1996",
+      "comment_id": "49468981",
+      "comment_url": "https://news.ycombinator.com/item?id=49465169#49468981",
+      "excerpt": "here's a very beautiful reproduction of Euclid's elements",
+      "kind": "recommendation",
+      "parent_comment_id": "49466143"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49465169",
+  "id": "2026-08-28:euclids-elements-by-nicholas-rougeux:49465169",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "euclids-elements-by-nicholas-rougeux",
+  "rank": 10,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49465169",
+  "source_story_title": "507 Mechanical Movements"
+}

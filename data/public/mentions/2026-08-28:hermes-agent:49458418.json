@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Hermes to assign three daily tasks and retain business context, calling it genuinely helpful.",
+  "evidence_sources": [
+    {
+      "author": "jjcm",
+      "comment_id": "49461240",
+      "comment_url": "https://news.ycombinator.com/item?id=49458418#49461240",
+      "context": "first_hand_use",
+      "excerpt": "I've been using a Hermes agent to act as my \"boss\", giving me three tasks to do each day / creating a memory of everything with the business.",
+      "kind": "recommendation",
+      "parent_comment_id": "49458418"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49458418",
+  "id": "2026-08-28:hermes-agent:49458418",
+  "is_repeat": true,
+  "issue_id": "2026-08-28",
+  "item_id": "hermes-agent",
+  "rank": 1,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49458418",
+  "source_story_title": "CEO fired developers to make room for AI. Developers create open source AI CEO"
+}

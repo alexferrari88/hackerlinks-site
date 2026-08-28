@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation highlights charts that compare properties such as strength against weight.",
+  "evidence_sources": [
+    {
+      "author": "nickpinkston",
+      "comment_id": "49469262",
+      "comment_url": "https://news.ycombinator.com/item?id=49465169#49469262",
+      "excerpt": "\"Materials Selection in Mechanical Design\" - great book with \"Ashby Charts\" that let you compare materials against their material properties - e.g. strength vs. weight.",
+      "kind": "recommendation",
+      "parent_comment_id": "49465169"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49465169",
+  "id": "2026-08-28:materials-selection-in-mechanical-design:49465169",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "materials-selection-in-mechanical-design",
+  "rank": 8,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49465169",
+  "source_story_title": "507 Mechanical Movements"
+}

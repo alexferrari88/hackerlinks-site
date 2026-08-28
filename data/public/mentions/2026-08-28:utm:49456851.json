@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter has used UTM for roughly two years and calls it fast and fantastic.",
+  "evidence_sources": [
+    {
+      "author": "jjtheblunt",
+      "comment_id": "49466682",
+      "comment_url": "https://news.ycombinator.com/item?id=49456851#49466682",
+      "context": "first_hand_use",
+      "excerpt": "it's fast as greased lightning and fantastic. I've used it two or so years on M1, M2, M2 Max, and M5",
+      "kind": "recommendation",
+      "parent_comment_id": "49458013"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49456851",
+  "id": "2026-08-28:utm:49456851",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "utm",
+  "rank": 2,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49456851",
+  "source_story_title": "Asahi Linux Progress Report: Linux 7.2"
+}

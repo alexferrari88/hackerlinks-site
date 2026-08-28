@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-28T05:17:43+02:00",
+  "id": "materials-selection-in-mechanical-design",
+  "last_seen_at": "2026-08-28T05:17:43+02:00",
+  "latest_mention_id": "2026-08-28:materials-selection-in-mechanical-design:49465169",
+  "mention_ids": [
+    "2026-08-28:materials-selection-in-mechanical-design:49465169"
+  ],
+  "name": "Materials Selection in Mechanical Design",
+  "slug": "materials-selection-in-mechanical-design",
+  "summary": "A mechanical-design reference built around quantitative material-comparison charts.",
+  "thing_url": "https://www.amazon.com/dp/0750661682",
+  "times_seen": 1,
+  "why_included": "The commenter specifically praised its Ashby charts for practical property trade-offs."
+}

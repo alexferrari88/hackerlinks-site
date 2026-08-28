@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter incorporated several companies through the service and consistently found it prompt and reliable.",
+  "evidence_sources": [
+    {
+      "author": "rattray",
+      "comment_id": "49462748",
+      "comment_url": "https://news.ycombinator.com/item?id=49455956#49462748",
+      "context": "first_hand_use",
+      "excerpt": "to incorporate several companies over the years, and always had a good experience. Their website looks pretty old-school but it works well and their service is very prompt.",
+      "kind": "recommendation",
+      "parent_comment_id": "49457209"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49455956",
+  "id": "2026-08-28:delaware-inc:49455956",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "delaware-inc",
+  "rank": 3,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49455956",
+  "source_story_title": "Stripe acquires Clerky"
+}

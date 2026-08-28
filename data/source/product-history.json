@@ -2567,8 +2567,8 @@
     {
       "name": "Hermes Agent",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
-      "last_reported_at": "2026-04-16T01:11:43+00:00",
-      "times_reported": 1
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 2
     },
     {
       "name": "Hetzner",
@@ -7872,6 +7872,72 @@
       "name": "SQLar",
       "first_reported_at": "2026-08-27T05:17:25+02:00",
       "last_reported_at": "2026-08-27T05:17:25+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "UTM",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Delaware Inc.",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Guidance",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DNSControl",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Wispr Flow",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Manufacturing Processes for Design Professionals",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Materials Selection in Mechanical Design",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Telekasten.nvim",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Euclid’s Elements by Nicholas Rougeux",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Yayoi Kusama interview — Louisiana Channel",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Suica",
+      "first_reported_at": "2026-08-28T05:17:43+02:00",
+      "last_reported_at": "2026-08-28T05:17:43+02:00",
       "times_reported": 1
     }
   ]

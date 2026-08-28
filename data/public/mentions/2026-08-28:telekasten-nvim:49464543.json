@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Telekasten for desktop Markdown notes and considers the setup good enough.",
+  "evidence_sources": [
+    {
+      "author": "kelvinjps10",
+      "comment_id": "49466606",
+      "comment_url": "https://news.ycombinator.com/item?id=49464543#49466606",
+      "context": "first_hand_use",
+      "excerpt": "I use markdown and nvim with telekasten plugin on desktop and mobile obsidian and for me is good enough",
+      "kind": "recommendation",
+      "parent_comment_id": "49465830"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49464543",
+  "id": "2026-08-28:telekasten-nvim:49464543",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "telekasten-nvim",
+  "rank": 9,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49464543",
+  "source_story_title": "Emacs 31: An unofficial guide to Markdown-ts-mode"
+}

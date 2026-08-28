@@ -1,0 +1,23 @@
+{
+  "evidence": "Guidance helped a small local model follow a test-first loop and work toward passing code.",
+  "evidence_sources": [
+    {
+      "author": "NitpickLawyer",
+      "comment_id": "49467780",
+      "comment_url": "https://news.ycombinator.com/item?id=49466917#49467780",
+      "context": "first_hand_use",
+      "excerpt": "using that library I was able to \"guide\" the model in the required \"prompt / instruct\" context such that it was working towards completion",
+      "kind": "recommendation",
+      "parent_comment_id": "49466917"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49466917",
+  "id": "2026-08-28:guidance:49466917",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "guidance",
+  "rank": 4,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49466917",
+  "source_story_title": "Small Models Have Arrived"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T05:17:43+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-08-28",
+  "id": "2026-08-28",
+  "mention_ids": [
+    "2026-08-28:hermes-agent:49458418",
+    "2026-08-28:utm:49456851",
+    "2026-08-28:delaware-inc:49455956",
+    "2026-08-28:guidance:49466917",
+    "2026-08-28:dnscontrol:49465732",
+    "2026-08-28:wispr-flow:49468818",
+    "2026-08-28:manufacturing-processes-for-design-professionals:49465169",
+    "2026-08-28:materials-selection-in-mechanical-design:49465169",
+    "2026-08-28:telekasten-nvim:49464543",
+    "2026-08-28:euclids-elements-by-nicholas-rougeux:49465169",
+    "2026-08-28:yayoi-kusama-interview-louisiana-channel:49458709",
+    "2026-08-28:suica:49466894"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

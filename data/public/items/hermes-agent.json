@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-04-16T01:11:43+00:00",
   "id": "hermes-agent",
-  "last_seen_at": "2026-04-16T01:11:43+00:00",
-  "latest_mention_id": "2026-04-16:hermes-agent:47783940",
+  "last_seen_at": "2026-08-28T05:17:43+02:00",
+  "latest_mention_id": "2026-08-28:hermes-agent:49458418",
   "mention_ids": [
-    "2026-04-16:hermes-agent:47783940"
+    "2026-04-16:hermes-agent:47783940",
+    "2026-08-28:hermes-agent:49458418"
   ],
   "name": "Hermes Agent",
   "slug": "hermes-agent",
-  "summary": "An AI agent platform praised for being easier to keep working than predecessors.",
-  "thing_url": null,
-  "times_seen": 1,
-  "why_included": "A commenter said it was the first one that did not feel like constant repair work."
+  "summary": "An open-source personal agent used as a daily founder boss and business memory.",
+  "thing_url": "https://github.com/NousResearch/hermes-agent",
+  "times_seen": 2,
+  "why_included": "A founder described concrete help with tasks, fundraising, incorporation, compliance, and staying on track."
 }

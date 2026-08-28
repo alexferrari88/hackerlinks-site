@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-28T05:17:43+02:00",
+  "id": "telekasten-nvim",
+  "last_seen_at": "2026-08-28T05:17:43+02:00",
+  "latest_mention_id": "2026-08-28:telekasten-nvim:49464543",
+  "mention_ids": [
+    "2026-08-28:telekasten-nvim:49464543"
+  ],
+  "name": "Telekasten.nvim",
+  "slug": "telekasten-nvim",
+  "summary": "A Neovim plugin for Markdown notes, wikis, journals, and zettelkasten workflows.",
+  "thing_url": "https://github.com/nvim-telekasten/telekasten.nvim",
+  "times_seen": 1,
+  "why_included": "A commenter described a simple cross-device workflow combining Telekasten with mobile Obsidian."
+}

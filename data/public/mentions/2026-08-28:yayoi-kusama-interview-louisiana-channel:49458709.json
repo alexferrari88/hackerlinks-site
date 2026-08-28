@@ -1,0 +1,22 @@
+{
+  "evidence": "The selected source recommends the interview and praises Kusama\u2019s eloquence and verbal expressiveness.",
+  "evidence_sources": [
+    {
+      "author": "z2",
+      "comment_id": "49459663",
+      "comment_url": "https://news.ycombinator.com/item?id=49458709#49459663",
+      "excerpt": "Highly recommend watching her speak, for instance in the below interview. I've found her to be very eloquent and expressive verbally too.",
+      "kind": "recommendation",
+      "parent_comment_id": "49458752"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49458709",
+  "id": "2026-08-28:yayoi-kusama-interview-louisiana-channel:49458709",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "yayoi-kusama-interview-louisiana-channel",
+  "rank": 11,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49458709",
+  "source_story_title": "Kusama Yayoi has died"
+}

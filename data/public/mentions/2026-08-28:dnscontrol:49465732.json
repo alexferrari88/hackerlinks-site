@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter explicitly seconded DNSControl and highlighted its use by is-a.dev.",
+  "evidence_sources": [
+    {
+      "author": "8organicbits",
+      "comment_id": "49472064",
+      "comment_url": "https://news.ycombinator.com/item?id=49465732#49472064",
+      "excerpt": "I'll recommend dnscontrol as well, although the post is an unseasonal April fools joke, so helpful suggestions may be out of place.",
+      "kind": "recommendation",
+      "parent_comment_id": "49467722"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49465732",
+  "id": "2026-08-28:dnscontrol:49465732",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "dnscontrol",
+  "rank": 5,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49465732",
+  "source_story_title": "Launching Route 53 Files"
+}

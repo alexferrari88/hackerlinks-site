@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-28T05:17:43+02:00",
+  "id": "guidance",
+  "last_seen_at": "2026-08-28T05:17:43+02:00",
+  "latest_mention_id": "2026-08-28:guidance:49466917",
+  "mention_ids": [
+    "2026-08-28:guidance:49466917"
+  ],
+  "name": "Guidance",
+  "slug": "guidance",
+  "summary": "A language and library for constraining and steering language-model generation.",
+  "thing_url": "https://github.com/guidance-ai/guidance",
+  "times_seen": 1,
+  "why_included": "A commenter gave a concrete early example of making a 7B model implement code against approved tests."
+}

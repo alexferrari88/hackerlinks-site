@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Wispr Flow on Android and says it delivers the promised dictation experience.",
+  "evidence_sources": [
+    {
+      "author": "blissofbeing",
+      "comment_id": "49472777",
+      "comment_url": "https://news.ycombinator.com/item?id=49468818#49472777",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Wispr Flow on my pixel 9 and I like it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49468818"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49468818",
+  "id": "2026-08-28:wispr-flow:49468818",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "wispr-flow",
+  "rank": 6,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49468818",
+  "source_story_title": "Gemini-3.5-Transcribe"
+}

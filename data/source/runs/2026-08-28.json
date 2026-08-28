@@ -1,0 +1,272 @@
+{
+  "version": 2,
+  "run_date": "2026-08-28",
+  "generated_at": "2026-08-28T05:17:43+02:00",
+  "summary": "Twelve comment-endorsed tools, services, books, videos, and everyday systems from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-28.json",
+    "sha256": "eecc24ebacc9fbcfd9bdda7f71a2f46925226d296212fc6789156a55849d8ead",
+    "bytes": 4441296,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 7197,
+    "fetched_item_count": 7227,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Hermes Agent",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/NousResearch/hermes-agent",
+      "hn_url": "https://news.ycombinator.com/item?id=49458418",
+      "source_story_title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "summary": "An open-source personal agent used as a daily founder boss and business memory.",
+      "why_included": "A founder described concrete help with tasks, fundraising, incorporation, compliance, and staying on track.",
+      "evidence": "The commenter uses Hermes to assign three daily tasks and retain business context, calling it genuinely helpful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49461240",
+          "comment_url": "https://news.ycombinator.com/item?id=49458418#49461240",
+          "author": "jjcm",
+          "excerpt": "I've been using a Hermes agent to act as my \"boss\", giving me three tasks to do each day / creating a memory of everything with the business.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49458418"
+        }
+      ]
+    },
+    {
+      "name": "UTM",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://mac.getutm.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49456851",
+      "source_story_title": "Asahi Linux Progress Report: Linux 7.2",
+      "summary": "A macOS virtual-machine app for running ARM Linux through Apple virtualization.",
+      "why_included": "A long-term user praised its speed across four generations of Apple Silicon.",
+      "evidence": "The commenter has used UTM for roughly two years and calls it fast and fantastic.",
+      "evidence_sources": [
+        {
+          "comment_id": "49466682",
+          "comment_url": "https://news.ycombinator.com/item?id=49456851#49466682",
+          "author": "jjtheblunt",
+          "excerpt": "it's fast as greased lightning and fantastic. I've used it two or so years on M1, M2, M2 Max, and M5",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49458013"
+        }
+      ]
+    },
+    {
+      "name": "Delaware Inc.",
+      "category": "Business Tools & Services",
+      "thing_url": "https://delawareinc.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49455956",
+      "source_story_title": "Stripe acquires Clerky",
+      "summary": "A company-formation service with incorporation, registered-agent, and compliance support.",
+      "why_included": "A repeat customer endorsed the service as a practical alternative to flashier incorporation products.",
+      "evidence": "The commenter incorporated several companies through the service and consistently found it prompt and reliable.",
+      "evidence_sources": [
+        {
+          "comment_id": "49462748",
+          "comment_url": "https://news.ycombinator.com/item?id=49455956#49462748",
+          "author": "rattray",
+          "excerpt": "to incorporate several companies over the years, and always had a good experience. Their website looks pretty old-school but it works well and their service is very prompt.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49457209"
+        }
+      ]
+    },
+    {
+      "name": "Guidance",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/guidance-ai/guidance",
+      "hn_url": "https://news.ycombinator.com/item?id=49466917",
+      "source_story_title": "Small Models Have Arrived",
+      "summary": "A language and library for constraining and steering language-model generation.",
+      "why_included": "A commenter gave a concrete early example of making a 7B model implement code against approved tests.",
+      "evidence": "Guidance helped a small local model follow a test-first loop and work toward passing code.",
+      "evidence_sources": [
+        {
+          "comment_id": "49467780",
+          "comment_url": "https://news.ycombinator.com/item?id=49466917#49467780",
+          "author": "NitpickLawyer",
+          "excerpt": "using that library I was able to \"guide\" the model in the required \"prompt / instruct\" context such that it was working towards completion",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49466917"
+        }
+      ]
+    },
+    {
+      "name": "DNSControl",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/DNSControl/dnscontrol",
+      "hn_url": "https://news.ycombinator.com/item?id=49465732",
+      "source_story_title": "Launching Route 53 Files",
+      "summary": "An open-source infrastructure-as-code system for managing DNS across providers.",
+      "why_included": "A direct recommendation included a clever real-world GitHub-managed subdomain registry example.",
+      "evidence": "The commenter explicitly seconded DNSControl and highlighted its use by is-a.dev.",
+      "evidence_sources": [
+        {
+          "comment_id": "49472064",
+          "comment_url": "https://news.ycombinator.com/item?id=49465732#49472064",
+          "author": "8organicbits",
+          "excerpt": "I'll recommend dnscontrol as well, although the post is an unseasonal April fools joke, so helpful suggestions may be out of place.",
+          "kind": "recommendation",
+          "parent_comment_id": "49467722"
+        }
+      ]
+    },
+    {
+      "name": "Wispr Flow",
+      "category": "Apps & Everyday Tools",
+      "thing_url": "https://wisprflow.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49468818",
+      "source_story_title": "Gemini-3.5-Transcribe",
+      "summary": "A cross-platform voice-dictation app that turns speech into polished text.",
+      "why_included": "A Pixel 9 user offered a clear positive comparison with a newer-device-only alternative.",
+      "evidence": "The commenter uses Wispr Flow on Android and says it delivers the promised dictation experience.",
+      "evidence_sources": [
+        {
+          "comment_id": "49472777",
+          "comment_url": "https://news.ycombinator.com/item?id=49468818#49472777",
+          "author": "blissofbeing",
+          "excerpt": "I've been using Wispr Flow on my pixel 9 and I like it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49468818"
+        }
+      ]
+    },
+    {
+      "name": "Manufacturing Processes for Design Professionals",
+      "category": "Books & Visual References",
+      "thing_url": "https://www.amazon.com/Manufacturing-Processes-Design-Professionals-Thompson/dp/0500513759",
+      "hn_url": "https://news.ycombinator.com/item?id=49465169",
+      "source_story_title": "507 Mechanical Movements",
+      "summary": "A richly illustrated reference covering major manufacturing processes for designers.",
+      "why_included": "The recommendation called out unusually strong photography, diagrams, and explanations.",
+      "evidence": "The commenter recommends it as both a comprehensive process reference and a coffee-table book.",
+      "evidence_sources": [
+        {
+          "comment_id": "49469262",
+          "comment_url": "https://news.ycombinator.com/item?id=49465169#49469262",
+          "author": "nickpinkston",
+          "excerpt": "\"Manufacturing Processes for Design Professionals\" - amazing photos, diagrams, explanations, etc. of every major manufacturing process - great coffee table book.",
+          "kind": "recommendation",
+          "parent_comment_id": "49465169"
+        }
+      ]
+    },
+    {
+      "name": "Materials Selection in Mechanical Design",
+      "category": "Books & Visual References",
+      "thing_url": "https://www.amazon.com/dp/0750661682",
+      "hn_url": "https://news.ycombinator.com/item?id=49465169",
+      "source_story_title": "507 Mechanical Movements",
+      "summary": "A mechanical-design reference built around quantitative material-comparison charts.",
+      "why_included": "The commenter specifically praised its Ashby charts for practical property trade-offs.",
+      "evidence": "The recommendation highlights charts that compare properties such as strength against weight.",
+      "evidence_sources": [
+        {
+          "comment_id": "49469262",
+          "comment_url": "https://news.ycombinator.com/item?id=49465169#49469262",
+          "author": "nickpinkston",
+          "excerpt": "\"Materials Selection in Mechanical Design\" - great book with \"Ashby Charts\" that let you compare materials against their material properties - e.g. strength vs. weight.",
+          "kind": "recommendation",
+          "parent_comment_id": "49465169"
+        }
+      ]
+    },
+    {
+      "name": "Telekasten.nvim",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/nvim-telekasten/telekasten.nvim",
+      "hn_url": "https://news.ycombinator.com/item?id=49464543",
+      "source_story_title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "summary": "A Neovim plugin for Markdown notes, wikis, journals, and zettelkasten workflows.",
+      "why_included": "A commenter described a simple cross-device workflow combining Telekasten with mobile Obsidian.",
+      "evidence": "The commenter uses Telekasten for desktop Markdown notes and considers the setup good enough.",
+      "evidence_sources": [
+        {
+          "comment_id": "49466606",
+          "comment_url": "https://news.ycombinator.com/item?id=49464543#49466606",
+          "author": "kelvinjps10",
+          "excerpt": "I use markdown and nvim with telekasten plugin on desktop and mobile obsidian and for me is good enough",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49465830"
+        }
+      ]
+    },
+    {
+      "name": "Euclid’s Elements by Nicholas Rougeux",
+      "category": "Books & Visual References",
+      "thing_url": "https://www.c82.net/work/euclid",
+      "hn_url": "https://news.ycombinator.com/item?id=49465169",
+      "source_story_title": "507 Mechanical Movements",
+      "summary": "An interactive digital reproduction of Byrne’s colorful 1847 Euclid edition.",
+      "why_included": "It is a distinctive, directly praised modernization of an older printed work.",
+      "evidence": "The commenter calls Rougeux’s Euclid reproduction very beautiful.",
+      "evidence_sources": [
+        {
+          "comment_id": "49468981",
+          "comment_url": "https://news.ycombinator.com/item?id=49465169#49468981",
+          "author": "pcshah1996",
+          "excerpt": "here's a very beautiful reproduction of Euclid's elements",
+          "kind": "recommendation",
+          "parent_comment_id": "49466143"
+        }
+      ]
+    },
+    {
+      "name": "Yayoi Kusama interview — Louisiana Channel",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=21NrNdse7nI",
+      "hn_url": "https://news.ycombinator.com/item?id=49458709",
+      "source_story_title": "Kusama Yayoi has died",
+      "summary": "A video interview in which Yayoi Kusama speaks about her life and art.",
+      "why_included": "One commenter strongly recommended hearing Kusama speak, while another said the video changed their life.",
+      "evidence": "The selected source recommends the interview and praises Kusama’s eloquence and verbal expressiveness.",
+      "evidence_sources": [
+        {
+          "comment_id": "49459663",
+          "comment_url": "https://news.ycombinator.com/item?id=49458709#49459663",
+          "author": "z2",
+          "excerpt": "Highly recommend watching her speak, for instance in the below interview. I've found her to be very eloquent and expressive verbally too.",
+          "kind": "recommendation",
+          "parent_comment_id": "49458752"
+        }
+      ]
+    },
+    {
+      "name": "Suica",
+      "category": "Apps & Everyday Tools",
+      "thing_url": "https://www.jreast.co.jp/en/multi/welcomesuicamobile/",
+      "hn_url": "https://news.ycombinator.com/item?id=49466894",
+      "source_story_title": "Suica, Japan's First IC Transit Card",
+      "summary": "Japan’s tap-to-pay transit card for trains, buses, and everyday purchases.",
+      "why_included": "A firsthand report praised both flawless Apple Pay use and near-universal acceptance.",
+      "evidence": "The commenter found Suica excellent, flawless through Apple Pay, and broadly usable.",
+      "evidence_sources": [
+        {
+          "comment_id": "49467182",
+          "comment_url": "https://news.ycombinator.com/item?id=49466894#49467182",
+          "author": "jjice",
+          "excerpt": "Suica was excellent when I had the chance to use it. I used the Apple Pay version and it worked flawlessly.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49466894"
+        }
+      ]
+    }
+  ]
+}

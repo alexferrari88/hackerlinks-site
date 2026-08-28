@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found Suica excellent, flawless through Apple Pay, and broadly usable.",
+  "evidence_sources": [
+    {
+      "author": "jjice",
+      "comment_id": "49467182",
+      "comment_url": "https://news.ycombinator.com/item?id=49466894#49467182",
+      "context": "first_hand_use",
+      "excerpt": "Suica was excellent when I had the chance to use it. I used the Apple Pay version and it worked flawlessly.",
+      "kind": "recommendation",
+      "parent_comment_id": "49466894"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49466894",
+  "id": "2026-08-28:suica:49466894",
+  "is_repeat": false,
+  "issue_id": "2026-08-28",
+  "item_id": "suica",
+  "rank": 12,
+  "seen_at": "2026-08-28T05:17:43+02:00",
+  "source_story_id": "49466894",
+  "source_story_title": "Suica, Japan's First IC Transit Card"
+}

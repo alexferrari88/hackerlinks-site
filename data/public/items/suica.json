@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-28T05:17:43+02:00",
+  "id": "suica",
+  "last_seen_at": "2026-08-28T05:17:43+02:00",
+  "latest_mention_id": "2026-08-28:suica:49466894",
+  "mention_ids": [
+    "2026-08-28:suica:49466894"
+  ],
+  "name": "Suica",
+  "slug": "suica",
+  "summary": "Japan\u2019s tap-to-pay transit card for trains, buses, and everyday purchases.",
+  "thing_url": "https://www.jreast.co.jp/en/multi/welcomesuicamobile/",
+  "times_seen": 1,
+  "why_included": "A firsthand report praised both flawless Apple Pay use and near-universal acceptance."
+}
