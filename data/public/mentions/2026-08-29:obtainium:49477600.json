@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Obtainium for utility apps as part of a long-running PWA-first Android setup that works well for them.",
+  "evidence_sources": [
+    {
+      "author": "nazgulsenpai",
+      "comment_id": "49478818",
+      "comment_url": "https://news.ycombinator.com/item?id=49477600#49478818",
+      "context": "first_hand_use",
+      "excerpt": "grab whatever other utilities I might need from Obtanium or F-Droid. Also the experience on my Thinkphone is the exact same as it was on my Pixel XL 2.",
+      "kind": "recommendation",
+      "parent_comment_id": "49477600"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49477600",
+  "id": "2026-08-29:obtainium:49477600",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "obtainium",
+  "rank": 9,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49477600",
+  "source_story_title": "\u201cIt works better in the app\u201d"
+}

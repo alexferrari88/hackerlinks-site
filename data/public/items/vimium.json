@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "vimium",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:vimium:49479837",
+  "mention_ids": [
+    "2026-08-29:vimium:49479837"
+  ],
+  "name": "Vimium",
+  "slug": "vimium",
+  "summary": "A browser extension for navigating pages and links almost entirely by keyboard.",
+  "thing_url": "https://vimium.github.io/",
+  "times_seen": 1,
+  "why_included": "Several commenters independently recommended it as a substantial keyboard-navigation productivity boost."
+}

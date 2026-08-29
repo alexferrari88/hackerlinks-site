@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "apple-maps",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:apple-maps:49477564",
+  "mention_ids": [
+    "2026-08-29:apple-maps:49477564"
+  ],
+  "name": "Apple Maps",
+  "slug": "apple-maps",
+  "summary": "Apple's mapping and turn-by-turn navigation service for web and devices.",
+  "thing_url": "https://maps.apple.com/",
+  "times_seen": 1,
+  "why_included": "A regional firsthand comparison judged it better than Google Maps for Bay Area navigation."
+}

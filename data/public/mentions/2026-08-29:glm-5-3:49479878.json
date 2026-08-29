@@ -1,0 +1,23 @@
+{
+  "evidence": "A DGX Spark user called GLM-5.3 amazing and said it solved diverse hard problems with better intuition than DS4Flash.",
+  "evidence_sources": [
+    {
+      "author": "mmastrac",
+      "comment_id": "49480727",
+      "comment_url": "https://news.ycombinator.com/item?id=49479878#49480727",
+      "context": "first_hand_use",
+      "excerpt": "I have to say that GLM-5.3 is pretty amazing. It's been able to tackle all the random hard problems I've thrown at it and it has the intuition that DS4Flash seems to lack.",
+      "kind": "comparison",
+      "parent_comment_id": "49479878"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49479878",
+  "id": "2026-08-29:glm-5-3:49479878",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "glm-5-3",
+  "rank": 1,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49479878",
+  "source_story_title": "GLM-5.3 is now open-weight"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reports a good migration from HTTPX and substantially better internal-service throughput, with a governance caveat.",
+  "evidence_sources": [
+    {
+      "author": "jtbaker",
+      "comment_id": "49479894",
+      "comment_url": "https://news.ycombinator.com/item?id=49477212#49479894",
+      "context": "evaluated",
+      "excerpt": "Recently ported some code from httpx -> niquests and the experience has been good, although admittedly the governance of the project seems a little unclear.",
+      "kind": "recommendation",
+      "parent_comment_id": "49479171"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49477212",
+  "id": "2026-08-29:niquests:49477212",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "niquests",
+  "rank": 7,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49477212",
+  "source_story_title": "Migrating to HTTPX2"
+}

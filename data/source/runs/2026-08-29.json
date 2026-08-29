@@ -1,0 +1,230 @@
+{
+  "version": 2,
+  "run_date": "2026-08-29",
+  "generated_at": "2026-08-29T05:16:53+02:00",
+  "summary": "Eleven comment-endorsed models, developer tools, apps, games, and videos from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-29.json",
+    "sha256": "c4b0535c654b7881fa9cab3e8c5752e0ff4401757ce34413b3384f314b832836",
+    "bytes": 2809684,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4568,
+    "fetched_item_count": 4598,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "GLM-5.3",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/zai-org/GLM-5.3",
+      "hn_url": "https://news.ycombinator.com/item?id=49479878",
+      "source_story_title": "GLM-5.3 is now open-weight",
+      "summary": "An open-weight language model praised for handling varied hard problems with strong intuition.",
+      "why_included": "Multiple firsthand reports were positive; this one described a clear capability jump over DS4Flash.",
+      "evidence": "A DGX Spark user called GLM-5.3 amazing and said it solved diverse hard problems with better intuition than DS4Flash.",
+      "evidence_sources": [{
+        "comment_id": "49480727",
+        "comment_url": "https://news.ycombinator.com/item?id=49479878#49480727",
+        "author": "mmastrac",
+        "excerpt": "I have to say that GLM-5.3 is pretty amazing. It's been able to tackle all the random hard problems I've thrown at it and it has the intuition that DS4Flash seems to lack.",
+        "kind": "comparison",
+        "context": "first_hand_use",
+        "parent_comment_id": "49479878"
+      }]
+    },
+    {
+      "name": "Vimium",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://vimium.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49479837",
+      "source_story_title": "GUIs should be fully keyboard-driven",
+      "summary": "A browser extension for navigating pages and links almost entirely by keyboard.",
+      "why_included": "Several commenters independently recommended it as a substantial keyboard-navigation productivity boost.",
+      "evidence": "The commenter explicitly recommends Vimium and says its link navigation is a productivity booster.",
+      "evidence_sources": [{
+        "comment_id": "49485200",
+        "comment_url": "https://news.ycombinator.com/item?id=49479837#49485200",
+        "author": "jonbrauninddott",
+        "excerpt": "For people who want to navigate browsers only with the keyboard, I recommend vimium",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49479837"
+      }]
+    },
+    {
+      "name": "Helix",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://helix-editor.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49479837",
+      "source_story_title": "GUIs should be fully keyboard-driven",
+      "summary": "A modal terminal editor whose key-hint menus make command discovery easier.",
+      "why_included": "The firsthand endorsement singled out a concrete discoverability feature that reduces modal-editor friction.",
+      "evidence": "The commenter loved learning Helix and praised its live list of possible next keystrokes.",
+      "evidence_sources": [{
+        "comment_id": "49482465",
+        "comment_url": "https://news.ycombinator.com/item?id=49479837#49482465",
+        "author": "connicpu",
+        "excerpt": "One of the reasons I loved learning Helix is that it shows you the list of possible next keypresses every time you press the first key in a combo. Amazing for discoverability.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49482259"
+      }]
+    },
+    {
+      "name": "which-key.nvim",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/folke/which-key.nvim",
+      "hn_url": "https://news.ycombinator.com/item?id=49479837",
+      "source_story_title": "GUIs should be fully keyboard-driven",
+      "summary": "A Neovim plugin that displays available keybindings as commands are entered.",
+      "why_included": "A confident Neovim user still found it useful enough to recommend directly.",
+      "evidence": "The commenter says they continue to use and recommend which-key.nvim despite being an experienced Neovim user.",
+      "evidence_sources": [{
+        "comment_id": "49482646",
+        "comment_url": "https://news.ycombinator.com/item?id=49479837#49482646",
+        "author": "smoothbraindev",
+        "excerpt": "Even as a fairly confident nvim user, I still use and recommend",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49482300"
+      }]
+    },
+    {
+      "name": "Linux Mint",
+      "category": "Apps & Operating Systems",
+      "thing_url": "https://www.linuxmint.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49478340",
+      "source_story_title": "Get your Windows license refund",
+      "summary": "A desktop Linux distribution designed to work smoothly out of the box.",
+      "why_included": "A recent two-PC migration produced unusually strong praise for automatic hardware support.",
+      "evidence": "The commenter found Linux Mint's automatic driver support shockingly good, including for an obscure USB receiver.",
+      "evidence_sources": [{
+        "comment_id": "49481069",
+        "comment_url": "https://news.ycombinator.com/item?id=49478340#49481069",
+        "author": "AnodicElegy",
+        "excerpt": "I switched two of my PCs over to Linux Mint last week. The automatic driver support is shockingly good compared to when I last installed Linux on a PC (almost 20 years ago).",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49478340"
+      }]
+    },
+    {
+      "name": "Apple Maps",
+      "category": "Apps & Operating Systems",
+      "thing_url": "https://maps.apple.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49477564",
+      "source_story_title": "Inception-style curved map for turn-by-turn directions",
+      "summary": "Apple's mapping and turn-by-turn navigation service for web and devices.",
+      "why_included": "A regional firsthand comparison judged it better than Google Maps for Bay Area navigation.",
+      "evidence": "The commenter uses Apple Maps and considers it better than Google Maps in the Bay Area.",
+      "evidence_sources": [{
+        "comment_id": "49485464",
+        "comment_url": "https://news.ycombinator.com/item?id=49477564#49485464",
+        "author": "gxs",
+        "excerpt": "This is why I use Apple Maps and thankfully in the Bay Area it’s more than at parity, it’s frankly better",
+        "kind": "comparison",
+        "context": "first_hand_use",
+        "parent_comment_id": "49477564"
+      }]
+    },
+    {
+      "name": "niquests",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/jawah/niquests",
+      "hn_url": "https://news.ycombinator.com/item?id=49477212",
+      "source_story_title": "Migrating to HTTPX2",
+      "summary": "A Requests-compatible Python HTTP client supporting modern protocols and asynchronous use.",
+      "why_included": "A recent migration was positive and produced concrete local-service throughput results, though governance remains unclear.",
+      "evidence": "The commenter reports a good migration from HTTPX and substantially better internal-service throughput, with a governance caveat.",
+      "evidence_sources": [{
+        "comment_id": "49479894",
+        "comment_url": "https://news.ycombinator.com/item?id=49477212#49479894",
+        "author": "jtbaker",
+        "excerpt": "Recently ported some code from httpx -> niquests and the experience has been good, although admittedly the governance of the project seems a little unclear.",
+        "kind": "recommendation",
+        "context": "evaluated",
+        "parent_comment_id": "49479171"
+      }]
+    },
+    {
+      "name": "TIE Fighter: Total Conversion",
+      "category": "Games & Preservation",
+      "thing_url": "https://www.moddb.com/mods/tie-fighter-total-conversion-tftc",
+      "hn_url": "https://news.ycombinator.com/item?id=49471965",
+      "source_story_title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "summary": "A fan conversion that brings the original TIE Fighter into the X-Wing Alliance engine.",
+      "why_included": "The reply highlighted it as a strong playable alternative in a game-port discussion.",
+      "evidence": "The commenter calls it a really great conversion of TIE Fighter to the newer X-Wing Alliance engine.",
+      "evidence_sources": [{
+        "comment_id": "49472452",
+        "comment_url": "https://news.ycombinator.com/item?id=49471965#49472452",
+        "author": "vunderba",
+        "excerpt": "there's also a really great conversion that ports the original TIE Fighter over to the later X-Wing Alliance engine",
+        "kind": "recommendation",
+        "parent_comment_id": "49471965"
+      }]
+    },
+    {
+      "name": "Obtainium",
+      "category": "Privacy & Mobile",
+      "thing_url": "https://github.com/ImranR98/Obtainium",
+      "hn_url": "https://news.ycombinator.com/item?id=49477600",
+      "source_story_title": "“It works better in the app”",
+      "summary": "An Android app updater that installs releases directly from their source projects.",
+      "why_included": "It appeared in a five-year, app-minimizing Android workflow the user described as great.",
+      "evidence": "The commenter uses Obtainium for utility apps as part of a long-running PWA-first Android setup that works well for them.",
+      "evidence_sources": [{
+        "comment_id": "49478818",
+        "comment_url": "https://news.ycombinator.com/item?id=49477600#49478818",
+        "author": "nazgulsenpai",
+        "excerpt": "grab whatever other utilities I might need from Obtanium or F-Droid. Also the experience on my Thinkphone is the exact same as it was on my Pixel XL 2.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49477600"
+      }]
+    },
+    {
+      "name": "OpenStreetMap",
+      "category": "Mapping & Open Data",
+      "thing_url": "https://www.openstreetmap.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49478401",
+      "source_story_title": "State of the Map 2026",
+      "summary": "A collaborative open map used to build themed maps without proprietary fees.",
+      "why_included": "A concrete website deployment praised both its flexibility and unusually broad browser compatibility.",
+      "evidence": "The commenter used OpenStreetMap when no other free option fit and praised the result's browser reach.",
+      "evidence_sources": [{
+        "comment_id": "49481332",
+        "comment_url": "https://news.ycombinator.com/item?id=49478401#49481332",
+        "author": "thangalin",
+        "excerpt": "I used OpenStreetMaps to create a map with a theme that fits the website theme. There were no other free options that I could find to accomplish this goal.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49478401"
+      }]
+    },
+    {
+      "name": "Is the World Really Running Out of Sand?",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=SB0qDQFTyE8",
+      "hn_url": "https://news.ycombinator.com/item?id=49441316",
+      "source_story_title": "Global demand for sand spawned a worldwide boom in illegal mining (2015)",
+      "summary": "A Practical Engineering video examining whether usable construction sand is becoming scarce.",
+      "why_included": "It was an unambiguous direct recommendation that adds technical context to the sand-mining story.",
+      "evidence": "The commenter highly recommends Practical Engineering's video on the global sand-supply question.",
+      "evidence_sources": [{
+        "comment_id": "49484889",
+        "comment_url": "https://news.ycombinator.com/item?id=49441316#49484889",
+        "author": "EffrafaxOfWug",
+        "excerpt": "I can highly recommend watching this Video by practical engineering: Is the World Really Running Out of Sand?",
+        "kind": "recommendation",
+        "parent_comment_id": "49441316"
+      }]
+    }
+  ]
+}

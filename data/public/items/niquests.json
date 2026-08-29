@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "niquests",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:niquests:49477212",
+  "mention_ids": [
+    "2026-08-29:niquests:49477212"
+  ],
+  "name": "niquests",
+  "slug": "niquests",
+  "summary": "A Requests-compatible Python HTTP client supporting modern protocols and asynchronous use.",
+  "thing_url": "https://github.com/jawah/niquests",
+  "times_seen": 1,
+  "why_included": "A recent migration was positive and produced concrete local-service throughput results, though governance remains unclear."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter calls it a really great conversion of TIE Fighter to the newer X-Wing Alliance engine.",
+  "evidence_sources": [
+    {
+      "author": "vunderba",
+      "comment_id": "49472452",
+      "comment_url": "https://news.ycombinator.com/item?id=49471965#49472452",
+      "excerpt": "there's also a really great conversion that ports the original TIE Fighter over to the later X-Wing Alliance engine",
+      "kind": "recommendation",
+      "parent_comment_id": "49471965"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49471965",
+  "id": "2026-08-29:tie-fighter-total-conversion:49471965",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "tie-fighter-total-conversion",
+  "rank": 8,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49471965",
+  "source_story_title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance"
+}

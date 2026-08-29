@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter says they continue to use and recommend which-key.nvim despite being an experienced Neovim user.",
+  "evidence_sources": [
+    {
+      "author": "smoothbraindev",
+      "comment_id": "49482646",
+      "comment_url": "https://news.ycombinator.com/item?id=49479837#49482646",
+      "context": "first_hand_use",
+      "excerpt": "Even as a fairly confident nvim user, I still use and recommend",
+      "kind": "recommendation",
+      "parent_comment_id": "49482300"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49479837",
+  "id": "2026-08-29:which-key-nvim:49479837",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "which-key-nvim",
+  "rank": 4,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49479837",
+  "source_story_title": "GUIs should be fully keyboard-driven"
+}

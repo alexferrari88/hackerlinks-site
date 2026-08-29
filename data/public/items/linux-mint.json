@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "linux-mint",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:linux-mint:49478340",
+  "mention_ids": [
+    "2026-08-29:linux-mint:49478340"
+  ],
+  "name": "Linux Mint",
+  "slug": "linux-mint",
+  "summary": "A desktop Linux distribution designed to work smoothly out of the box.",
+  "thing_url": "https://www.linuxmint.com/",
+  "times_seen": 1,
+  "why_included": "A recent two-PC migration produced unusually strong praise for automatic hardware support."
+}

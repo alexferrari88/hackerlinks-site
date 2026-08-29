@@ -7939,6 +7939,72 @@
       "first_reported_at": "2026-08-28T05:17:43+02:00",
       "last_reported_at": "2026-08-28T05:17:43+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "GLM-5.3",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Vimium",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Helix",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "which-key.nvim",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Linux Mint",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Apple Maps",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "niquests",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "TIE Fighter: Total Conversion",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Obtainium",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenStreetMap",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Is the World Really Running Out of Sand?",
+      "first_reported_at": "2026-08-29T05:16:53+02:00",
+      "last_reported_at": "2026-08-29T05:16:53+02:00",
+      "times_reported": 1
     }
   ]
 }

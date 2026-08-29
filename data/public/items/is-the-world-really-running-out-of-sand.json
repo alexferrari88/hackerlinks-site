@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "is-the-world-really-running-out-of-sand",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:is-the-world-really-running-out-of-sand:49441316",
+  "mention_ids": [
+    "2026-08-29:is-the-world-really-running-out-of-sand:49441316"
+  ],
+  "name": "Is the World Really Running Out of Sand?",
+  "slug": "is-the-world-really-running-out-of-sand",
+  "summary": "A Practical Engineering video examining whether usable construction sand is becoming scarce.",
+  "thing_url": "https://www.youtube.com/watch?v=SB0qDQFTyE8",
+  "times_seen": 1,
+  "why_included": "It was an unambiguous direct recommendation that adds technical context to the sand-mining story."
+}

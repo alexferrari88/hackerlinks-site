@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "obtainium",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:obtainium:49477600",
+  "mention_ids": [
+    "2026-08-29:obtainium:49477600"
+  ],
+  "name": "Obtainium",
+  "slug": "obtainium",
+  "summary": "An Android app updater that installs releases directly from their source projects.",
+  "thing_url": "https://github.com/ImranR98/Obtainium",
+  "times_seen": 1,
+  "why_included": "It appeared in a five-year, app-minimizing Android workflow the user described as great."
+}

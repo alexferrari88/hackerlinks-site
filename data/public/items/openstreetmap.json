@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "openstreetmap",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:openstreetmap:49478401",
+  "mention_ids": [
+    "2026-08-29:openstreetmap:49478401"
+  ],
+  "name": "OpenStreetMap",
+  "slug": "openstreetmap",
+  "summary": "A collaborative open map used to build themed maps without proprietary fees.",
+  "thing_url": "https://www.openstreetmap.org/",
+  "times_seen": 1,
+  "why_included": "A concrete website deployment praised both its flexibility and unusually broad browser compatibility."
+}

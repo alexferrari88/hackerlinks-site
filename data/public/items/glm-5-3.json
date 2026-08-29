@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "glm-5-3",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:glm-5-3:49479878",
+  "mention_ids": [
+    "2026-08-29:glm-5-3:49479878"
+  ],
+  "name": "GLM-5.3",
+  "slug": "glm-5-3",
+  "summary": "An open-weight language model praised for handling varied hard problems with strong intuition.",
+  "thing_url": "https://huggingface.co/zai-org/GLM-5.3",
+  "times_seen": 1,
+  "why_included": "Multiple firsthand reports were positive; this one described a clear capability jump over DS4Flash."
+}

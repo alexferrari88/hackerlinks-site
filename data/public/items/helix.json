@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "helix",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:helix:49479837",
+  "mention_ids": [
+    "2026-08-29:helix:49479837"
+  ],
+  "name": "Helix",
+  "slug": "helix",
+  "summary": "A modal terminal editor whose key-hint menus make command discovery easier.",
+  "thing_url": "https://helix-editor.com/",
+  "times_seen": 1,
+  "why_included": "The firsthand endorsement singled out a concrete discoverability feature that reduces modal-editor friction."
+}

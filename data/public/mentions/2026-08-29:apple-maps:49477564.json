@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Apple Maps and considers it better than Google Maps in the Bay Area.",
+  "evidence_sources": [
+    {
+      "author": "gxs",
+      "comment_id": "49485464",
+      "comment_url": "https://news.ycombinator.com/item?id=49477564#49485464",
+      "context": "first_hand_use",
+      "excerpt": "This is why I use Apple Maps and thankfully in the Bay Area it\u2019s more than at parity, it\u2019s frankly better",
+      "kind": "comparison",
+      "parent_comment_id": "49477564"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49477564",
+  "id": "2026-08-29:apple-maps:49477564",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "apple-maps",
+  "rank": 6,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49477564",
+  "source_story_title": "Inception-style curved map for turn-by-turn directions"
+}

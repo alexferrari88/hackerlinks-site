@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter loved learning Helix and praised its live list of possible next keystrokes.",
+  "evidence_sources": [
+    {
+      "author": "connicpu",
+      "comment_id": "49482465",
+      "comment_url": "https://news.ycombinator.com/item?id=49479837#49482465",
+      "context": "first_hand_use",
+      "excerpt": "One of the reasons I loved learning Helix is that it shows you the list of possible next keypresses every time you press the first key in a combo. Amazing for discoverability.",
+      "kind": "recommendation",
+      "parent_comment_id": "49482259"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49479837",
+  "id": "2026-08-29:helix:49479837",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "helix",
+  "rank": 3,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49479837",
+  "source_story_title": "GUIs should be fully keyboard-driven"
+}

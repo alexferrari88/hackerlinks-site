@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used OpenStreetMap when no other free option fit and praised the result's browser reach.",
+  "evidence_sources": [
+    {
+      "author": "thangalin",
+      "comment_id": "49481332",
+      "comment_url": "https://news.ycombinator.com/item?id=49478401#49481332",
+      "context": "first_hand_use",
+      "excerpt": "I used OpenStreetMaps to create a map with a theme that fits the website theme. There were no other free options that I could find to accomplish this goal.",
+      "kind": "recommendation",
+      "parent_comment_id": "49478401"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49478401",
+  "id": "2026-08-29:openstreetmap:49478401",
+  "is_repeat": false,
+  "issue_id": "2026-08-29",
+  "item_id": "openstreetmap",
+  "rank": 10,
+  "seen_at": "2026-08-29T05:16:53+02:00",
+  "source_story_id": "49478401",
+  "source_story_title": "State of the Map 2026"
+}

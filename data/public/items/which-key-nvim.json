@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-29T05:16:53+02:00",
+  "id": "which-key-nvim",
+  "last_seen_at": "2026-08-29T05:16:53+02:00",
+  "latest_mention_id": "2026-08-29:which-key-nvim:49479837",
+  "mention_ids": [
+    "2026-08-29:which-key-nvim:49479837"
+  ],
+  "name": "which-key.nvim",
+  "slug": "which-key-nvim",
+  "summary": "A Neovim plugin that displays available keybindings as commands are entered.",
+  "thing_url": "https://github.com/folke/which-key.nvim",
+  "times_seen": 1,
+  "why_included": "A confident Neovim user still found it useful enough to recommend directly."
+}
