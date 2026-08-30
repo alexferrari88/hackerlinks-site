@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommends NUO-STEMS for DJ use because it integrates with DJ software.",
+  "evidence_sources": [
+    {
+      "author": "Stitch4223",
+      "comment_id": "49490247",
+      "comment_url": "https://news.ycombinator.com/item?id=49486081#49490247",
+      "excerpt": "For dj use I recommend Nuo Stems, as it integrates with dj software.",
+      "kind": "recommendation",
+      "parent_comment_id": "49486081"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49486081",
+  "id": "2026-08-30:nuo-stems-4:49486081",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "nuo-stems-4",
+  "rank": 2,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49486081",
+  "source_story_title": "StemDeck, a free, open-source and local AI stem separator"
+}

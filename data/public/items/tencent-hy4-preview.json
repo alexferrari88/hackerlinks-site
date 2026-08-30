@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "tencent-hy4-preview",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:tencent-hy4-preview:49492632",
+  "mention_ids": [
+    "2026-08-30:tencent-hy4-preview:49492632"
+  ],
+  "name": "Tencent Hy4 preview",
+  "slug": "tencent-hy4-preview",
+  "summary": "Tencent's open-weight mixture-of-experts model for coding and general productivity tasks.",
+  "thing_url": "https://huggingface.co/tencent/Hy4-preview",
+  "times_seen": 1,
+  "why_included": "A substantial Hy3 user expressed enthusiasm for the new model while noting its predecessor's speed weakness."
+}

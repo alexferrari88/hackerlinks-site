@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "brainaural",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:brainaural:49479546",
+  "mention_ids": [
+    "2026-08-30:brainaural:49479546"
+  ],
+  "name": "BrainAural",
+  "slug": "brainaural",
+  "summary": "A browser-based sound generator for immersive, experimental, and ambient listening.",
+  "thing_url": "https://brainaural.com/",
+  "times_seen": 1,
+  "why_included": "The commenter used it to make an improvised album and called it a really cool tool."
+}

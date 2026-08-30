@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T05:17:12+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-08-30",
+  "id": "2026-08-30",
+  "mention_ids": [
+    "2026-08-30:vphone-cli:49485267",
+    "2026-08-30:nuo-stems-4:49486081",
+    "2026-08-30:openvino-ai-plugins-for-audacity:49486081",
+    "2026-08-30:the-literature-of-ancient-sumer:49485532",
+    "2026-08-30:myths-from-mesopotamia:49485532",
+    "2026-08-30:weavers-scribes-and-kings:49485532",
+    "2026-08-30:brainaural:49479546",
+    "2026-08-30:dockur-windows:49486176",
+    "2026-08-30:keynote-built-in-super-heroes:49435595",
+    "2026-08-30:galaxium:49420524",
+    "2026-08-30:tencent-hy4-preview:49492632",
+    "2026-08-30:creality-ender-3-v2:49419409"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

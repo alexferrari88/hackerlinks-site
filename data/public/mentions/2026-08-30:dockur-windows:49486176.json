@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses one container to run a Windows VM and says it works like a charm for Office apps.",
+  "evidence_sources": [
+    {
+      "author": "zazuke",
+      "comment_id": "49489478",
+      "comment_url": "https://news.ycombinator.com/item?id=49486176#49489478",
+      "context": "first_hand_use",
+      "excerpt": "I use a single Docker container [1] to run a full VM on Linux, and it works like a charm for Excel and Word when I still need them.",
+      "kind": "recommendation",
+      "parent_comment_id": "49486176"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49486176",
+  "id": "2026-08-30:dockur-windows:49486176",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "dockur-windows",
+  "rank": 8,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49486176",
+  "source_story_title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop"
+}

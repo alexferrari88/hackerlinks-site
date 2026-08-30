@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter owns and often uses an Ender 3 V2, describing it as a great small printer.",
+  "evidence_sources": [
+    {
+      "author": "codazoda",
+      "comment_id": "49490125",
+      "comment_url": "https://news.ycombinator.com/item?id=49419409#49490125",
+      "context": "first_hand_use",
+      "excerpt": "I own an Ender 3 V2, which is a great little printer. I use it often and am considering a newer Ender because I want a larger print bed.",
+      "kind": "recommendation",
+      "parent_comment_id": "49419409"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49419409",
+  "id": "2026-08-30:creality-ender-3-v2:49419409",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "creality-ender-3-v2",
+  "rank": 12,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49419409",
+  "source_story_title": "Experiments with Plotter Art"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A fellow simulation builder calls Galaxium polished and impressive.",
+  "evidence_sources": [
+    {
+      "author": "andrewchilds",
+      "comment_id": "49490647",
+      "comment_url": "https://news.ycombinator.com/item?id=49420524#49490647",
+      "context": "evaluated",
+      "excerpt": "Galaxium is really polished and impressive. Well done!",
+      "kind": "recommendation",
+      "parent_comment_id": "49420524"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49420524",
+  "id": "2026-08-30:galaxium:49420524",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "galaxium",
+  "rank": 10,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49420524",
+  "source_story_title": "Show HN: Galaxium, an experimental WebGPU space explorer"
+}

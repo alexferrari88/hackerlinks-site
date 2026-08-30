@@ -1,0 +1,249 @@
+{
+  "version": 2,
+  "run_date": "2026-08-30",
+  "generated_at": "2026-08-30T05:17:12+02:00",
+  "summary": "Twelve comment-endorsed developer tools, media tools, books, hardware, and AI projects from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-30.json",
+    "sha256": "2c5e6356fb26a139e9ec4b28487b208cb0e9d66ba58a97a8f8c8f50af56f446d",
+    "bytes": 2013289,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3372,
+    "fetched_item_count": 3402,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "vphone-cli",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/Lakr233/vphone-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=49485267",
+      "source_story_title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "summary": "A command-line tool for booting virtual iPhones with Apple's virtualization stack.",
+      "why_included": "A regular user praised it for app testing and highlighted agent control through vphone-mcp.",
+      "evidence": "The commenter uses the project regularly for app testing and says its MCP companion can control the virtual phone.",
+      "evidence_sources": [{
+        "comment_id": "49488553",
+        "comment_url": "https://news.ycombinator.com/item?id=49485267#49488553",
+        "author": "thomc",
+        "excerpt": "Fantastic project, I use it regularly to test apps and there is a vphone-mcp which allows agents to control it, take screenshots and navigate the UI!",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49485267"
+      }]
+    },
+    {
+      "name": "NUO-STEMS 4",
+      "category": "Audio & Creative Tools",
+      "thing_url": "https://nuo-stems.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49486081",
+      "source_story_title": "StemDeck, a free, open-source and local AI stem separator",
+      "summary": "A music stem separator that integrates its output with major DJ software.",
+      "why_included": "The recommendation was explicit and tied to a practical DJ-software integration advantage.",
+      "evidence": "The commenter recommends NUO-STEMS for DJ use because it integrates with DJ software.",
+      "evidence_sources": [{
+        "comment_id": "49490247",
+        "comment_url": "https://news.ycombinator.com/item?id=49486081#49490247",
+        "author": "Stitch4223",
+        "excerpt": "For dj use I recommend Nuo Stems, as it integrates with dj software.",
+        "kind": "recommendation",
+        "parent_comment_id": "49486081"
+      }]
+    },
+    {
+      "name": "OpenVINO AI Plugins for Audacity",
+      "category": "Audio & Creative Tools",
+      "thing_url": "https://github.com/intel/openvino-plugins-ai-audacity",
+      "hn_url": "https://news.ycombinator.com/item?id=49486081",
+      "source_story_title": "StemDeck, a free, open-source and local AI stem separator",
+      "summary": "Local AI effects for Audacity, including music separation and transcription workflows.",
+      "why_included": "A firsthand user specifically reported being happy with its stem-separation results.",
+      "evidence": "The commenter says Audacity can perform this task through the OpenVINO plugins and reports good results.",
+      "evidence_sources": [{
+        "comment_id": "49486418",
+        "comment_url": "https://news.ycombinator.com/item?id=49486081#49486418",
+        "author": "tlahtinen",
+        "excerpt": "Audacity can also do this through the OpenVINO plugins and I've been happy with its results",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49486081"
+      }]
+    },
+    {
+      "name": "The Literature of Ancient Sumer",
+      "category": "Books & Learning",
+      "thing_url": "https://global.oup.com/academic/product/the-literature-of-ancient-sumer-9780199296330",
+      "hn_url": "https://news.ycombinator.com/item?id=49485532",
+      "source_story_title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "summary": "A substantial translated anthology spanning Sumerian myths, hymns, laments, and poetry.",
+      "why_included": "It was the first title in a direct, detailed reading recommendation from an enthusiastic reader.",
+      "evidence": "The commenter recommends the anthology and highlights its unusually broad range of Sumerian writing.",
+      "evidence_sources": [{
+        "comment_id": "49485973",
+        "comment_url": "https://news.ycombinator.com/item?id=49485532#49485973",
+        "author": "krzs9",
+        "excerpt": "The Literature of Ancient Sumer - Jeremy Black. It is a quite substantial anthology, has myths, hymns, laments, royal praise poetry, proverbs, literary debates, etc.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49485856"
+      }]
+    },
+    {
+      "name": "Myths from Mesopotamia",
+      "category": "Books & Learning",
+      "thing_url": "https://global.oup.com/academic/product/myths-from-mesopotamia-9780199538362",
+      "hn_url": "https://news.ycombinator.com/item?id=49485532",
+      "source_story_title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "summary": "Stephanie Dalley's translations of Gilgamesh and other major ancient Mesopotamian myths.",
+      "why_included": "The reader called it one of their most treasured books after buying it for Gilgamesh.",
+      "evidence": "The commenter bought it for Gilgamesh, loved the remaining texts, and calls it deeply treasured.",
+      "evidence_sources": [{
+        "comment_id": "49485973",
+        "comment_url": "https://news.ycombinator.com/item?id=49485532#49485973",
+        "author": "krzs9",
+        "excerpt": "Myths from Mesopotamia - Stephanie Dalley. I bought this for Gilgamesh, loved the rest of it too. One of my most treasured books.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49485856"
+      }]
+    },
+    {
+      "name": "Weavers, Scribes, and Kings",
+      "category": "Books & Learning",
+      "thing_url": "https://global.oup.com/academic/product/weavers-scribes-and-kings-9780190059040",
+      "hn_url": "https://news.ycombinator.com/item?id=49485532",
+      "source_story_title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "summary": "A comprehensive history of Mesopotamia told through rulers, workers, and scribes.",
+      "why_included": "The reader named it their favorite comprehensive history of Mesopotamia.",
+      "evidence": "The commenter calls it their favorite comprehensive Mesopotamian history and praises its treatment of scribal life.",
+      "evidence_sources": [{
+        "comment_id": "49485973",
+        "comment_url": "https://news.ycombinator.com/item?id=49485532#49485973",
+        "author": "krzs9",
+        "excerpt": "Weavers, Scribes, and Kings - Amanda Podany. Not Sumerian literature, but my favorite comprehensive history book covering all of Mesopotamian history.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49485856"
+      }]
+    },
+    {
+      "name": "BrainAural",
+      "category": "Audio & Creative Tools",
+      "thing_url": "https://brainaural.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49479546",
+      "source_story_title": "Creating the Aetheryte Radio",
+      "summary": "A browser-based sound generator for immersive, experimental, and ambient listening.",
+      "why_included": "The commenter used it to make an improvised album and called it a really cool tool.",
+      "evidence": "The commenter identifies the second linked tool, BrainAural, as one they used for an improvised album.",
+      "evidence_sources": [{
+        "comment_id": "49491162",
+        "comment_url": "https://news.ycombinator.com/item?id=49479546#49491162",
+        "author": "ynac",
+        "excerpt": "I used the second tool for an improvised album.  Really cool tool.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49479546"
+      }]
+    },
+    {
+      "name": "dockur/windows",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dockur/windows",
+      "hn_url": "https://news.ycombinator.com/item?id=49486176",
+      "source_story_title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+      "summary": "A Docker-packaged Windows virtual machine for running Windows applications on Linux.",
+      "why_included": "A Linux user reports it works reliably for the occasional Excel and Word requirement.",
+      "evidence": "The commenter uses one container to run a Windows VM and says it works like a charm for Office apps.",
+      "evidence_sources": [{
+        "comment_id": "49489478",
+        "comment_url": "https://news.ycombinator.com/item?id=49486176#49489478",
+        "author": "zazuke",
+        "excerpt": "I use a single Docker container [1] to run a full VM on Linux, and it works like a charm for Excel and Word when I still need them.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49486176"
+      }]
+    },
+    {
+      "name": "Keynote: Built in Super Heroes",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=lyDLAutA88s",
+      "hn_url": "https://news.ycombinator.com/item?id=49435595",
+      "source_story_title": "Time complexity of operations on Python's built-in types",
+      "summary": "David Beazley's practical talk on solving data tasks with Python's built-ins.",
+      "why_included": "A commenter directly called it a great talk for data analysis and quick operations.",
+      "evidence": "The commenter recommends David Beazley's talk on using Python built-ins for data work.",
+      "evidence_sources": [{
+        "comment_id": "49489092",
+        "comment_url": "https://news.ycombinator.com/item?id=49435595#49489092",
+        "author": "alexpotato",
+        "excerpt": "Dave Beazley has a great talk about using Python built ins [0] for data analysis and other quick operations.",
+        "kind": "recommendation",
+        "parent_comment_id": "49435595"
+      }]
+    },
+    {
+      "name": "Galaxium",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://galaxium.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49420524",
+      "source_story_title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "summary": "An experimental WebGPU universe explorer with smooth navigation and rich space visuals.",
+      "why_included": "Independent commenters praised its polish, performance, and visual quality despite minor navigation issues.",
+      "evidence": "A fellow simulation builder calls Galaxium polished and impressive.",
+      "evidence_sources": [{
+        "comment_id": "49490647",
+        "comment_url": "https://news.ycombinator.com/item?id=49420524#49490647",
+        "author": "andrewchilds",
+        "excerpt": "Galaxium is really polished and impressive. Well done!",
+        "kind": "recommendation",
+        "context": "evaluated",
+        "parent_comment_id": "49420524"
+      }]
+    },
+    {
+      "name": "Tencent Hy4 preview",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/tencent/Hy4-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=49492632",
+      "source_story_title": "Hy4 preview",
+      "summary": "Tencent's open-weight mixture-of-experts model for coding and general productivity tasks.",
+      "why_included": "A substantial Hy3 user expressed enthusiasm for the new model while noting its predecessor's speed weakness.",
+      "evidence": "The commenter used Hy3 extensively and is excited about Hy4, with serving speed as the main inherited concern.",
+      "evidence_sources": [{
+        "comment_id": "49493072",
+        "comment_url": "https://news.ycombinator.com/item?id=49492632#49493072",
+        "author": "vcryan",
+        "excerpt": "I used Hy3 quite a bit for the type of tasks it was suited for. Excited about this. My one concern over Hy3 was speed.",
+        "kind": "caveat",
+        "context": "first_hand_use",
+        "parent_comment_id": "49492632"
+      }]
+    },
+    {
+      "name": "Creality Ender-3 V2",
+      "category": "Hardware & Making",
+      "thing_url": "https://www.creality.com/products/ender-3-v2-3d-printer-csco",
+      "hn_url": "https://news.ycombinator.com/item?id=49419409",
+      "source_story_title": "Experiments with Plotter Art",
+      "summary": "An affordable desktop FDM printer that can double as a simple pen plotter.",
+      "why_included": "A frequent owner called it a great little printer and was considering another Ender.",
+      "evidence": "The commenter owns and often uses an Ender 3 V2, describing it as a great small printer.",
+      "evidence_sources": [{
+        "comment_id": "49490125",
+        "comment_url": "https://news.ycombinator.com/item?id=49419409#49490125",
+        "author": "codazoda",
+        "excerpt": "I own an Ender 3 V2, which is a great little printer. I use it often and am considering a newer Ender because I want a larger print bed.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "49419409"
+      }]
+    }
+  ]
+}

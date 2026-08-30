@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used Hy3 extensively and is excited about Hy4, with serving speed as the main inherited concern.",
+  "evidence_sources": [
+    {
+      "author": "vcryan",
+      "comment_id": "49493072",
+      "comment_url": "https://news.ycombinator.com/item?id=49492632#49493072",
+      "context": "first_hand_use",
+      "excerpt": "I used Hy3 quite a bit for the type of tasks it was suited for. Excited about this. My one concern over Hy3 was speed.",
+      "kind": "caveat",
+      "parent_comment_id": "49492632"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49492632",
+  "id": "2026-08-30:tencent-hy4-preview:49492632",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "tencent-hy4-preview",
+  "rank": 11,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49492632",
+  "source_story_title": "Hy4 preview"
+}

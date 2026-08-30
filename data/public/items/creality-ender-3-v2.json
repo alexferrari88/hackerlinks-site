@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "creality-ender-3-v2",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:creality-ender-3-v2:49419409",
+  "mention_ids": [
+    "2026-08-30:creality-ender-3-v2:49419409"
+  ],
+  "name": "Creality Ender-3 V2",
+  "slug": "creality-ender-3-v2",
+  "summary": "An affordable desktop FDM printer that can double as a simple pen plotter.",
+  "thing_url": "https://www.creality.com/products/ender-3-v2-3d-printer-csco",
+  "times_seen": 1,
+  "why_included": "A frequent owner called it a great little printer and was considering another Ender."
+}

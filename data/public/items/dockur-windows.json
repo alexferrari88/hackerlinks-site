@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "dockur-windows",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:dockur-windows:49486176",
+  "mention_ids": [
+    "2026-08-30:dockur-windows:49486176"
+  ],
+  "name": "dockur/windows",
+  "slug": "dockur-windows",
+  "summary": "A Docker-packaged Windows virtual machine for running Windows applications on Linux.",
+  "thing_url": "https://github.com/dockur/windows",
+  "times_seen": 1,
+  "why_included": "A Linux user reports it works reliably for the occasional Excel and Word requirement."
+}

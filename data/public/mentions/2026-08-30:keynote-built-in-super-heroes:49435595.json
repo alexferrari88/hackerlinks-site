@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommends David Beazley's talk on using Python built-ins for data work.",
+  "evidence_sources": [
+    {
+      "author": "alexpotato",
+      "comment_id": "49489092",
+      "comment_url": "https://news.ycombinator.com/item?id=49435595#49489092",
+      "excerpt": "Dave Beazley has a great talk about using Python built ins [0] for data analysis and other quick operations.",
+      "kind": "recommendation",
+      "parent_comment_id": "49435595"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49435595",
+  "id": "2026-08-30:keynote-built-in-super-heroes:49435595",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "keynote-built-in-super-heroes",
+  "rank": 9,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49435595",
+  "source_story_title": "Time complexity of operations on Python's built-in types"
+}

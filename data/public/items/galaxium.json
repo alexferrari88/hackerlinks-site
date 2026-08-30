@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "galaxium",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:galaxium:49420524",
+  "mention_ids": [
+    "2026-08-30:galaxium:49420524"
+  ],
+  "name": "Galaxium",
+  "slug": "galaxium",
+  "summary": "An experimental WebGPU universe explorer with smooth navigation and rich space visuals.",
+  "thing_url": "https://galaxium.app/",
+  "times_seen": 1,
+  "why_included": "Independent commenters praised its polish, performance, and visual quality despite minor navigation issues."
+}

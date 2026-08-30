@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter says Audacity can perform this task through the OpenVINO plugins and reports good results.",
+  "evidence_sources": [
+    {
+      "author": "tlahtinen",
+      "comment_id": "49486418",
+      "comment_url": "https://news.ycombinator.com/item?id=49486081#49486418",
+      "context": "first_hand_use",
+      "excerpt": "Audacity can also do this through the OpenVINO plugins and I've been happy with its results",
+      "kind": "recommendation",
+      "parent_comment_id": "49486081"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49486081",
+  "id": "2026-08-30:openvino-ai-plugins-for-audacity:49486081",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "openvino-ai-plugins-for-audacity",
+  "rank": 3,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49486081",
+  "source_story_title": "StemDeck, a free, open-source and local AI stem separator"
+}

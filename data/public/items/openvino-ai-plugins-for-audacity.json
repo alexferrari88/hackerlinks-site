@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "openvino-ai-plugins-for-audacity",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:openvino-ai-plugins-for-audacity:49486081",
+  "mention_ids": [
+    "2026-08-30:openvino-ai-plugins-for-audacity:49486081"
+  ],
+  "name": "OpenVINO AI Plugins for Audacity",
+  "slug": "openvino-ai-plugins-for-audacity",
+  "summary": "Local AI effects for Audacity, including music separation and transcription workflows.",
+  "thing_url": "https://github.com/intel/openvino-plugins-ai-audacity",
+  "times_seen": 1,
+  "why_included": "A firsthand user specifically reported being happy with its stem-separation results."
+}

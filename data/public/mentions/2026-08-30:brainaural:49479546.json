@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter identifies the second linked tool, BrainAural, as one they used for an improvised album.",
+  "evidence_sources": [
+    {
+      "author": "ynac",
+      "comment_id": "49491162",
+      "comment_url": "https://news.ycombinator.com/item?id=49479546#49491162",
+      "context": "first_hand_use",
+      "excerpt": "I used the second tool for an improvised album.  Really cool tool.",
+      "kind": "recommendation",
+      "parent_comment_id": "49479546"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49479546",
+  "id": "2026-08-30:brainaural:49479546",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "brainaural",
+  "rank": 7,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49479546",
+  "source_story_title": "Creating the Aetheryte Radio"
+}

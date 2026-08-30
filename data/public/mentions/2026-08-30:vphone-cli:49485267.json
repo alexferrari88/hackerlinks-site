@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses the project regularly for app testing and says its MCP companion can control the virtual phone.",
+  "evidence_sources": [
+    {
+      "author": "thomc",
+      "comment_id": "49488553",
+      "comment_url": "https://news.ycombinator.com/item?id=49485267#49488553",
+      "context": "first_hand_use",
+      "excerpt": "Fantastic project, I use it regularly to test apps and there is a vphone-mcp which allows agents to control it, take screenshots and navigate the UI!",
+      "kind": "recommendation",
+      "parent_comment_id": "49485267"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49485267",
+  "id": "2026-08-30:vphone-cli:49485267",
+  "is_repeat": false,
+  "issue_id": "2026-08-30",
+  "item_id": "vphone-cli",
+  "rank": 1,
+  "seen_at": "2026-08-30T05:17:12+02:00",
+  "source_story_id": "49485267",
+  "source_story_title": "Boot a Virtual iPhone via Apple's Virtualization.framework"
+}

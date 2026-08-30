@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-30T05:17:12+02:00",
+  "id": "vphone-cli",
+  "last_seen_at": "2026-08-30T05:17:12+02:00",
+  "latest_mention_id": "2026-08-30:vphone-cli:49485267",
+  "mention_ids": [
+    "2026-08-30:vphone-cli:49485267"
+  ],
+  "name": "vphone-cli",
+  "slug": "vphone-cli",
+  "summary": "A command-line tool for booting virtual iPhones with Apple's virtualization stack.",
+  "thing_url": "https://github.com/Lakr233/vphone-cli",
+  "times_seen": 1,
+  "why_included": "A regular user praised it for app testing and highlighted agent control through vphone-mcp."
+}
