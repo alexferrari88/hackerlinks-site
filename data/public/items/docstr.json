@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-31T05:19:11+02:00",
+  "id": "docstr",
+  "last_seen_at": "2026-08-31T05:19:11+02:00",
+  "latest_mention_id": "2026-08-31:docstr:49499095",
+  "mention_ids": [
+    "2026-08-31:docstr:49499095"
+  ],
+  "name": "docstr",
+  "slug": "docstr",
+  "summary": "A Rust macro crate for ergonomic multiline string literals.",
+  "thing_url": "https://github.com/nik-rev/docstr",
+  "times_seen": 1,
+  "why_included": "A Rust user adopted it to recover a multiline-string style they missed from Zig."
+}

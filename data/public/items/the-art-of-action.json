@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-31T05:19:11+02:00",
+  "id": "the-art-of-action",
+  "last_seen_at": "2026-08-31T05:19:11+02:00",
+  "latest_mention_id": "2026-08-31:the-art-of-action:49499891",
+  "mention_ids": [
+    "2026-08-31:the-art-of-action:49499891"
+  ],
+  "name": "The Art of Action",
+  "slug": "the-art-of-action",
+  "summary": "Stephen Bungay's guide to closing gaps between plans, actions, and results.",
+  "thing_url": "https://bookshop.org/p/books/the-art-of-action-10th-anniversary-edition-stephen-bungay/56c7a772c201a935",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended it for loosely coupled, highly aligned teams."
+}

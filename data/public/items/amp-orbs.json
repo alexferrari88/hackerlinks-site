@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-31T05:19:11+02:00",
+  "id": "amp-orbs",
+  "last_seen_at": "2026-08-31T05:19:11+02:00",
+  "latest_mention_id": "2026-08-31:amp-orbs:49437117",
+  "mention_ids": [
+    "2026-08-31:amp-orbs:49437117"
+  ],
+  "name": "Amp Orbs",
+  "slug": "amp-orbs",
+  "summary": "Remote machines where Amp coding agents run independently of your computer.",
+  "thing_url": "https://ampcode.com/what-are-orbs",
+  "times_seen": 1,
+  "why_included": "A paying user strongly praised the workflow, integrations, and ease of use."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-31T05:19:11+02:00",
+  "id": "ikea-kallax",
+  "last_seen_at": "2026-08-31T05:19:11+02:00",
+  "latest_mention_id": "2026-08-31:ikea-kallax:49497810",
+  "mention_ids": [
+    "2026-08-31:ikea-kallax:49497810"
+  ],
+  "name": "IKEA KALLAX",
+  "slug": "ikea-kallax",
+  "summary": "A modular cube-shelving range for books, boxes, and general storage.",
+  "thing_url": "https://www.ikea.com/nl/en/cat/kallax-series-27534/",
+  "times_seen": 1,
+  "why_included": "A long-term user strongly praised its durability, versatility, capacity, and price."
+}

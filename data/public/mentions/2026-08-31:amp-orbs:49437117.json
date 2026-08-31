@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called Orbs fantastic, praised its surrounding features, and described it as their best $20 monthly developer-tool spend.",
+  "evidence_sources": [
+    {
+      "author": "altschuler",
+      "comment_id": "49501909",
+      "comment_url": "https://news.ycombinator.com/item?id=49437117#49501909",
+      "context": "first_hand_use",
+      "excerpt": "I've found Orbs to be just fantastic! The \"it's just a VM, everybody has that\" argument misses the point, the real value lies in just how easy it is to use and the surrounding functionality.",
+      "kind": "recommendation",
+      "parent_comment_id": "49437117"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49437117",
+  "id": "2026-08-31:amp-orbs:49437117",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "amp-orbs",
+  "rank": 4,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49437117",
+  "source_story_title": "Orbs"
+}

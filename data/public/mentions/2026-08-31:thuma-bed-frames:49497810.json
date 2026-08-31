@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said their Thuma frames are amazing for moving and very high quality.",
+  "evidence_sources": [
+    {
+      "author": "nunez",
+      "comment_id": "49499106",
+      "comment_url": "https://news.ycombinator.com/item?id=49497810#49499106",
+      "context": "first_hand_use",
+      "excerpt": "We use Thuma Japanese joinery bed frames, which are AMAZING for moving and very high quality",
+      "kind": "recommendation",
+      "parent_comment_id": "49498910"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49497810",
+  "id": "2026-08-31:thuma-bed-frames:49497810",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "thuma-bed-frames",
+  "rank": 10,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49497810",
+  "source_story_title": "Hacking IKEA Furniture"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they started using docstr and prefer its style for long text.",
+  "evidence_sources": [
+    {
+      "author": "Rendello",
+      "comment_id": "49501832",
+      "comment_url": "https://news.ycombinator.com/item?id=49499095#49501832",
+      "context": "first_hand_use",
+      "excerpt": "I've started using the Rust macro library `docstr` [1], which does the same thing",
+      "kind": "recommendation",
+      "parent_comment_id": "49499095"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49499095",
+  "id": "2026-08-31:docstr:49499095",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "docstr",
+  "rank": 3,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49499095",
+  "source_story_title": "Zig: Pointer Stability for ArrayLists"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended the book and tied its central idea to aligned, loosely coupled teams.",
+  "evidence_sources": [
+    {
+      "author": "jodacola",
+      "comment_id": "49501797",
+      "comment_url": "https://news.ycombinator.com/item?id=49499891#49501797",
+      "context": "first_hand_use",
+      "excerpt": "I recommend reading The Art of Action by Stephen Bungay on this particular topic. A line in this presentation about loosely coupled, highly aligned teams is a major idea straight out of this book.",
+      "kind": "recommendation",
+      "parent_comment_id": "49499891"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49499891",
+  "id": "2026-08-31:the-art-of-action:49499891",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "the-art-of-action",
+  "rank": 7,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49499891",
+  "source_story_title": "Coordination Headwind: How Organizations Are Like Slime Molds"
+}

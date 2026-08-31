@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called smolmachines wonderful and said they use it for Docker socket and nested-Docker workloads.",
+  "evidence_sources": [
+    {
+      "author": "K0IN",
+      "comment_id": "49500379",
+      "comment_url": "https://news.ycombinator.com/item?id=49499854#49500379",
+      "context": "first_hand_use",
+      "excerpt": "smolmachines is a wonderful program to solve this, I use this mostly for stuff needing docker socket / docker in docker",
+      "kind": "recommendation",
+      "parent_comment_id": "49500223"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49499854",
+  "id": "2026-08-31:smolvm:49499854",
+  "is_repeat": true,
+  "issue_id": "2026-08-31",
+  "item_id": "smolvm",
+  "rank": 2,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49499854",
+  "source_story_title": "Omarchy: Any User Process Can Escalate to Root"
+}

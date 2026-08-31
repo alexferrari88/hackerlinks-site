@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-08-31",
+  "generated_at": "2026-08-31T05:19:11+02:00",
+  "summary": "Twelve comment-endorsed tools, books, furniture, and media picks from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-08-31.json",
+    "sha256": "ccc66a2f76a139368c8bcace69c548562acdb57a5a264567b55e7111926ceb2c",
+    "bytes": 2814808,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4301,
+    "fetched_item_count": 4331,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "git-arr",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://blitiri.com.ar/p/git-arr/",
+      "hn_url": "https://news.ycombinator.com/item?id=49491791",
+      "source_story_title": "Creepy Crawlies",
+      "summary": "A small Git repository browser that can generate static HTML.",
+      "why_included": "A commenter reported using it successfully as an alternative repository front end.",
+      "evidence": "The commenter said they had been using git-arr with some success.",
+      "evidence_sources": [{"comment_id":"49499966","comment_url":"https://news.ycombinator.com/item?id=49491791#49499966","author":"singpolyma3","excerpt":"I've been using git-arr instead with some success","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49499358"}]
+    },
+    {
+      "name": "smolvm",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/smol-machines/smolvm",
+      "hn_url": "https://news.ycombinator.com/item?id=49499854",
+      "source_story_title": "Omarchy: Any User Process Can Escalate to Root",
+      "summary": "A portable microVM engine for isolated local workloads and coding agents.",
+      "why_included": "A user praised smol machines for Docker-socket and Docker-in-Docker workloads.",
+      "evidence": "The commenter called smolmachines wonderful and said they use it for Docker socket and nested-Docker workloads.",
+      "evidence_sources": [{"comment_id":"49500379","comment_url":"https://news.ycombinator.com/item?id=49499854#49500379","author":"K0IN","excerpt":"smolmachines is a wonderful program to solve this, I use this mostly for stuff needing docker socket / docker in docker","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49500223"}]
+    },
+    {
+      "name": "docstr",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/nik-rev/docstr",
+      "hn_url": "https://news.ycombinator.com/item?id=49499095",
+      "source_story_title": "Zig: Pointer Stability for ArrayLists",
+      "summary": "A Rust macro crate for ergonomic multiline string literals.",
+      "why_included": "A Rust user adopted it to recover a multiline-string style they missed from Zig.",
+      "evidence": "The commenter said they started using docstr and prefer its style for long text.",
+      "evidence_sources": [{"comment_id":"49501832","comment_url":"https://news.ycombinator.com/item?id=49499095#49501832","author":"Rendello","excerpt":"I've started using the Rust macro library `docstr` [1], which does the same thing","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49499095"}]
+    },
+    {
+      "name": "Amp Orbs",
+      "category": "AI & Remote Agents",
+      "thing_url": "https://ampcode.com/what-are-orbs",
+      "hn_url": "https://news.ycombinator.com/item?id=49437117",
+      "source_story_title": "Orbs",
+      "summary": "Remote machines where Amp coding agents run independently of your computer.",
+      "why_included": "A paying user strongly praised the workflow, integrations, and ease of use.",
+      "evidence": "The commenter called Orbs fantastic, praised its surrounding features, and described it as their best $20 monthly developer-tool spend.",
+      "evidence_sources": [{"comment_id":"49501909","comment_url":"https://news.ycombinator.com/item?id=49437117#49501909","author":"altschuler","excerpt":"I've found Orbs to be just fantastic! The \"it's just a VM, everybody has that\" argument misses the point, the real value lies in just how easy it is to use and the surrounding functionality.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49437117"}]
+    },
+    {
+      "name": "Storyteller",
+      "category": "Apps & Reading",
+      "thing_url": "https://storyteller-platform.gitlab.io/storyteller/",
+      "hn_url": "https://news.ycombinator.com/item?id=49497854",
+      "source_story_title": "Automating Immersive Reading",
+      "summary": "A self-hosted platform that aligns ebooks and audiobooks for immersive reading.",
+      "why_included": "A user praised its cross-device position syncing between listening and e-ink reading.",
+      "evidence": "The commenter said Storyteller works great and syncs reading position across devices.",
+      "evidence_sources": [{"comment_id":"49498664","comment_url":"https://news.ycombinator.com/item?id=49497854#49498664","author":"tcoff91","excerpt":"Storyteller works great for this. It even syncs your position across devices.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49498535"}]
+    },
+    {
+      "name": "Don't Make Me Think",
+      "category": "Books & Ideas",
+      "thing_url": "https://sensible.com/dont-make-me-think",
+      "hn_url": "https://news.ycombinator.com/item?id=49494520",
+      "source_story_title": "Bug Blindness",
+      "summary": "Steve Krug's concise guide to intuitive web and interface usability.",
+      "why_included": "A commenter gave the UX classic a direct, unqualified endorsement.",
+      "evidence": "The commenter said they love the UX-design book.",
+      "evidence_sources": [{"comment_id":"49495612","comment_url":"https://news.ycombinator.com/item?id=49494520#49495612","author":"mcbishop","excerpt":"I love the UX-design book: Don't Make Me Think.","kind":"recommendation","parent_comment_id":"49495458"}]
+    },
+    {
+      "name": "The Art of Action",
+      "category": "Books & Ideas",
+      "thing_url": "https://bookshop.org/p/books/the-art-of-action-10th-anniversary-edition-stephen-bungay/56c7a772c201a935",
+      "hn_url": "https://news.ycombinator.com/item?id=49499891",
+      "source_story_title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "summary": "Stephen Bungay's guide to closing gaps between plans, actions, and results.",
+      "why_included": "A commenter explicitly recommended it for loosely coupled, highly aligned teams.",
+      "evidence": "The commenter recommended the book and tied its central idea to aligned, loosely coupled teams.",
+      "evidence_sources": [{"comment_id":"49501797","comment_url":"https://news.ycombinator.com/item?id=49499891#49501797","author":"jodacola","excerpt":"I recommend reading The Art of Action by Stephen Bungay on this particular topic. A line in this presentation about loosely coupled, highly aligned teams is a major idea straight out of this book.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49499891"}]
+    },
+    {
+      "name": "Corps Business",
+      "category": "Books & Ideas",
+      "thing_url": "https://www.amazon.com/Corps-Business-Management-Principles-Marines/dp/0066619793",
+      "hn_url": "https://news.ycombinator.com/item?id=49499891",
+      "source_story_title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "summary": "A book on decentralized decision-making and management principles from the U.S. Marines.",
+      "why_included": "A reader recommended it for understanding mission-led, decentralized organizations.",
+      "evidence": "The commenter called reading it their best answer for building such organizations, while noting dated sections.",
+      "evidence_sources": [{"comment_id":"49504303","comment_url":"https://news.ycombinator.com/item?id=49499891#49504303","author":"alexpotato","excerpt":"my best answer is just to read the book. NOTE: the book was written in the late 1990s so there are some parts that are dated but the overall concepts are still sound.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49499891"}]
+    },
+    {
+      "name": "IKEA KALLAX",
+      "category": "Home & Hardware",
+      "thing_url": "https://www.ikea.com/nl/en/cat/kallax-series-27534/",
+      "hn_url": "https://news.ycombinator.com/item?id=49497810",
+      "source_story_title": "Hacking IKEA Furniture",
+      "summary": "A modular cube-shelving range for books, boxes, and general storage.",
+      "why_included": "A long-term user strongly praised its durability, versatility, capacity, and price.",
+      "evidence": "The commenter described KALLAX as sturdy, versatile, durable, and well priced across several uses.",
+      "evidence_sources": [{"comment_id":"49499011","comment_url":"https://news.ycombinator.com/item?id=49497810#49499011","author":"sheepscreek","excerpt":"I love KALLAX the most of all IKEA series. Sturdy as heck, can take a lot of weight, extremely versatile and durable.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49497810"}]
+    },
+    {
+      "name": "Thuma bed frames",
+      "category": "Home & Hardware",
+      "thing_url": "https://www.thuma.co/collections/all-beds-and-mattresses",
+      "hn_url": "https://news.ycombinator.com/item?id=49497810",
+      "source_story_title": "Hacking IKEA Furniture",
+      "summary": "Japanese-joinery bed frames designed for tool-free assembly and easier moving.",
+      "why_included": "An owner strongly praised their moving convenience and build quality.",
+      "evidence": "The commenter said their Thuma frames are amazing for moving and very high quality.",
+      "evidence_sources": [{"comment_id":"49499106","comment_url":"https://news.ycombinator.com/item?id=49497810#49499106","author":"nunez","excerpt":"We use Thuma Japanese joinery bed frames, which are AMAZING for moving and very high quality","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49498910"}]
+    },
+    {
+      "name": "Qubes OS",
+      "category": "Privacy & Security",
+      "thing_url": "https://www.qubes-os.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49496918",
+      "source_story_title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "summary": "A security-focused desktop OS that isolates activities in virtualized compartments.",
+      "why_included": "A user still trusts it for a dedicated financial laptop despite a graphics limitation.",
+      "evidence": "The commenter remains impressed and uses Qubes OS for financial tasks, while noting the lack of graphics acceleration.",
+      "evidence_sources": [{"comment_id":"49497331","comment_url":"https://news.ycombinator.com/item?id=49496918#49497331","author":"zby","excerpt":"I am still impressed by QubesOS track and I use it for my dedicated 'financials' laptop. IMHO the thing that is holding back QubesOS is the lack of hardware acceleration for graphics","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49496918"}]
+    },
+    {
+      "name": "Everything You Need To Know About NASA's Roman Space Telescope",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=CDwemQH2zDU",
+      "hn_url": "https://news.ycombinator.com/item?id=49490870",
+      "source_story_title": "Nancy Grace Roman Space Telescope",
+      "summary": "A NASA video explaining Roman's scale, mission, and place alongside other telescopes.",
+      "why_included": "A commenter specifically praised the video's sense of scale.",
+      "evidence": "The commenter called the video quite good at conveying the undertaking's scale.",
+      "evidence_sources": [{"comment_id":"49491897","comment_url":"https://news.ycombinator.com/item?id=49490870#49491897","author":"stuart78","excerpt":"This video linked from the site is quite good at adding a sense of scale to the undertaking.","kind":"recommendation","parent_comment_id":"49490870"}]
+    }
+  ]
+}

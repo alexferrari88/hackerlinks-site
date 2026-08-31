@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called reading it their best answer for building such organizations, while noting dated sections.",
+  "evidence_sources": [
+    {
+      "author": "alexpotato",
+      "comment_id": "49504303",
+      "comment_url": "https://news.ycombinator.com/item?id=49499891#49504303",
+      "context": "first_hand_use",
+      "excerpt": "my best answer is just to read the book. NOTE: the book was written in the late 1990s so there are some parts that are dated but the overall concepts are still sound.",
+      "kind": "recommendation",
+      "parent_comment_id": "49499891"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49499891",
+  "id": "2026-08-31:corps-business:49499891",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "corps-business",
+  "rank": 8,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49499891",
+  "source_story_title": "Coordination Headwind: How Organizations Are Like Slime Molds"
+}

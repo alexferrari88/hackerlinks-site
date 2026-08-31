@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-08-31T05:19:11+02:00",
+  "id": "git-arr",
+  "last_seen_at": "2026-08-31T05:19:11+02:00",
+  "latest_mention_id": "2026-08-31:git-arr:49491791",
+  "mention_ids": [
+    "2026-08-31:git-arr:49491791"
+  ],
+  "name": "git-arr",
+  "slug": "git-arr",
+  "summary": "A small Git repository browser that can generate static HTML.",
+  "thing_url": "https://blitiri.com.ar/p/git-arr/",
+  "times_seen": 1,
+  "why_included": "A commenter reported using it successfully as an alternative repository front end."
+}

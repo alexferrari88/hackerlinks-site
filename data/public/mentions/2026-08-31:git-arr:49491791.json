@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they had been using git-arr with some success.",
+  "evidence_sources": [
+    {
+      "author": "singpolyma3",
+      "comment_id": "49499966",
+      "comment_url": "https://news.ycombinator.com/item?id=49491791#49499966",
+      "context": "first_hand_use",
+      "excerpt": "I've been using git-arr instead with some success",
+      "kind": "recommendation",
+      "parent_comment_id": "49499358"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49491791",
+  "id": "2026-08-31:git-arr:49491791",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "git-arr",
+  "rank": 1,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49491791",
+  "source_story_title": "Creepy Crawlies"
+}

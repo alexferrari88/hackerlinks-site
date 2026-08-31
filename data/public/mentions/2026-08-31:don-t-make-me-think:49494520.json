@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter said they love the UX-design book.",
+  "evidence_sources": [
+    {
+      "author": "mcbishop",
+      "comment_id": "49495612",
+      "comment_url": "https://news.ycombinator.com/item?id=49494520#49495612",
+      "excerpt": "I love the UX-design book: Don't Make Me Think.",
+      "kind": "recommendation",
+      "parent_comment_id": "49495458"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49494520",
+  "id": "2026-08-31:don-t-make-me-think:49494520",
+  "is_repeat": false,
+  "issue_id": "2026-08-31",
+  "item_id": "don-t-make-me-think",
+  "rank": 6,
+  "seen_at": "2026-08-31T05:19:11+02:00",
+  "source_story_id": "49494520",
+  "source_story_title": "Bug Blindness"
+}
