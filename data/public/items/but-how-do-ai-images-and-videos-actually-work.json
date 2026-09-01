@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "but-how-do-ai-images-and-videos-actually-work",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:but-how-do-ai-images-and-videos-actually-work:49503956",
+  "mention_ids": [
+    "2026-09-01:but-how-do-ai-images-and-videos-actually-work:49503956"
+  ],
+  "name": "But how do AI images and videos actually work?",
+  "slug": "but-how-do-ai-images-and-videos-actually-work",
+  "summary": "Welch Labs explains diffusion models, CLIP, and text-to-image generation visually.",
+  "thing_url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it as a good diffusion-model explainer."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs BirdNET-Go with three RTSP streams and said the setup works swimmingly.",
+  "evidence_sources": [
+    {
+      "author": "inventor7777",
+      "comment_id": "49513215",
+      "comment_url": "https://news.ycombinator.com/item?id=49511856#49513215",
+      "context": "first_hand_use",
+      "excerpt": "I run BirdNET-Go as an app on my Home Assistant i7 M710q. I use the GPU-enabled BirdNET model and Perch V2, and it works swimmingly.",
+      "kind": "recommendation",
+      "parent_comment_id": "49511856"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49511856",
+  "id": "2026-09-01:birdnet-go:49511856",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "birdnet-go",
+  "rank": 4,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49511856",
+  "source_story_title": "I turned my security cameras into an automatic bird identification system"
+}

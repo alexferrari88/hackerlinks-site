@@ -1,0 +1,232 @@
+{
+  "version": 2,
+  "run_date": "2026-09-01",
+  "generated_at": "2026-09-01T05:18:10+02:00",
+  "summary": "Ten comment-endorsed networking, wildlife, art, learning, and workflow picks from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-01.json",
+    "sha256": "aace19711cbb4d7eb5b3539674a289da03694fc38d7f520eb47940508fee6241",
+    "bytes": 2188772,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3586,
+    "fetched_item_count": 3616,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Bitbang",
+      "category": "Networking & Privacy",
+      "thing_url": "https://github.com/richlegrand/bitbang-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=49504905",
+      "source_story_title": "Internet centralization and the original sin of NAT",
+      "summary": "A CLI for direct peer-to-peer file transfer through NAT and firewalls.",
+      "why_included": "A user recommended it from experience and highlighted a workable free TURN allowance.",
+      "evidence": "The commenter invited readers to try Bitbang, said they use it, and saw clear potential.",
+      "evidence_sources": [
+        {
+          "comment_id": "49514240",
+          "comment_url": "https://news.ycombinator.com/item?id=49504905#49514240",
+          "author": "CrimsonCape",
+          "excerpt": "I've been using it and it certainly has the potential.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49506953"
+        }
+      ]
+    },
+    {
+      "name": "Warrant",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/alisorcorp/warrant",
+      "hn_url": "https://news.ycombinator.com/item?id=49508317",
+      "source_story_title": "Agent memory as a file format",
+      "summary": "A Markdown verification tool that keeps agent documentation checked and current.",
+      "why_included": "Its creator described a concrete handoff workflow that re-verifies facts between agent sessions.",
+      "evidence": "The creator uses Warrant to embed rerunnable checks and force documentation verification during handoffs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49513438",
+          "comment_url": "https://news.ycombinator.com/item?id=49508317#49513438",
+          "author": "pwython",
+          "excerpt": "It keeps documentation from going out of date by embedding re-runnable verification checks directly inside markdown files (that the agents use, not humans).",
+          "kind": "recommendation",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49509345"
+        }
+      ]
+    },
+    {
+      "name": "Links",
+      "category": "Networking & Privacy",
+      "thing_url": "http://links.twibright.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49505219",
+      "source_story_title": "P99 0 ms* autocomplete for 240M domain names",
+      "summary": "A lightweight text and graphics web browser with no JavaScript engine.",
+      "why_included": "A three-decade text-browser user strongly preferred Links over Lynx and uses it daily.",
+      "evidence": "The commenter called Links their preferred daily text browser and uses it for local HTML every day.",
+      "evidence_sources": [
+        {
+          "comment_id": "49512810",
+          "comment_url": "https://news.ycombinator.com/item?id=49505219#49512810",
+          "author": "1vuio0pswjnm7",
+          "excerpt": "One of the many reasons I prefer links (no graphics) I use links as an offline HTML reader; I am opening local HTML files every day",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49508218"
+        }
+      ]
+    },
+    {
+      "name": "BirdNET-Go",
+      "category": "Home & Wildlife",
+      "thing_url": "https://github.com/tphakala/birdnet-go",
+      "hn_url": "https://news.ycombinator.com/item?id=49511856",
+      "source_story_title": "I turned my security cameras into an automatic bird identification system",
+      "summary": "A self-hosted wildlife sound analyzer for continuous local species identification.",
+      "why_included": "A Home Assistant user reported a successful multi-camera GPU setup for birds and frogs.",
+      "evidence": "The commenter runs BirdNET-Go with three RTSP streams and said the setup works swimmingly.",
+      "evidence_sources": [
+        {
+          "comment_id": "49513215",
+          "comment_url": "https://news.ycombinator.com/item?id=49511856#49513215",
+          "author": "inventor7777",
+          "excerpt": "I run BirdNET-Go as an app on my Home Assistant i7 M710q. I use the GPU-enabled BirdNET model and Perch V2, and it works swimmingly.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49511856"
+        }
+      ]
+    },
+    {
+      "name": "Merlin Bird ID",
+      "category": "Home & Wildlife",
+      "thing_url": "https://merlin.allaboutbirds.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49511856",
+      "source_story_title": "I turned my security cameras into an automatic bird identification system",
+      "summary": "Cornell's free app for identifying birds by sound, photo, or description.",
+      "why_included": "A frequent user reported good results across multiple countries.",
+      "evidence": "The commenter uses Merlin Bird ID all the time and found it reliable internationally.",
+      "evidence_sources": [
+        {
+          "comment_id": "49512736",
+          "comment_url": "https://news.ycombinator.com/item?id=49511856#49512736",
+          "author": "bakibab",
+          "excerpt": "I use Merlin Bird ID all the time. I found it good across many countries.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49512466"
+        }
+      ]
+    },
+    {
+      "name": "Futel",
+      "category": "Art & Side Projects",
+      "thing_url": "https://futel.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49510514",
+      "source_story_title": "Playa Phone",
+      "summary": "A free public-phone network combining useful calls with interactive urban art.",
+      "why_included": "A commenter highlighted Futel among the neat public payphone art projects.",
+      "evidence": "The commenter praised public payphone art and singled out Futel's elaborate menus and installations.",
+      "evidence_sources": [
+        {
+          "comment_id": "49512986",
+          "comment_url": "https://news.ycombinator.com/item?id=49510514#49512986",
+          "author": "NelsonMinar",
+          "excerpt": "There's a bunch of neat public payphone art projects out there. A friend of mine runs Futel, which has some fairly elaborate voice menus and several phones installed.",
+          "kind": "recommendation",
+          "parent_comment_id": "49510514"
+        }
+      ]
+    },
+    {
+      "name": "Mouseland",
+      "category": "Art & Side Projects",
+      "thing_url": "https://www.maggierudy.com/making-mouseland",
+      "hn_url": "https://news.ycombinator.com/item?id=49481141",
+      "source_story_title": "Damn fine tiny cafe",
+      "summary": "Maggie Rudy's handcrafted miniature mouse world, characters, props, and photo stories.",
+      "why_included": "A commenter called Rudy one of the most impressive miniature artists they had seen.",
+      "evidence": "The commenter strongly praised the artist and highlighted the storytelling within each photograph.",
+      "evidence_sources": [
+        {
+          "comment_id": "49505962",
+          "comment_url": "https://news.ycombinator.com/item?id=49481141#49505962",
+          "author": "skybrian",
+          "excerpt": "one of the more impressive artists I've seen along these lines. Each photo has a bit of a story to it:",
+          "kind": "recommendation",
+          "parent_comment_id": "49481141"
+        }
+      ]
+    },
+    {
+      "name": "SIMI Studio",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@SIMI_STUDIO/videos",
+      "hn_url": "https://news.ycombinator.com/item?id=49481141",
+      "source_story_title": "Damn fine tiny cafe",
+      "summary": "A video channel featuring animated miniature scenes starring a hamster.",
+      "why_included": "A commenter fondly recalled watching the channel extensively during COVID.",
+      "evidence": "The commenter said they watched SIMI Studio a lot and described its miniature hamster animations.",
+      "evidence_sources": [
+        {
+          "comment_id": "49509394",
+          "comment_url": "https://news.ycombinator.com/item?id=49481141#49509394",
+          "author": "Otterly99",
+          "excerpt": "This reminds me of this youtube channel[1] that I used to watch a lot during COVID where the author animates miniature scenes with their hamster.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49481141"
+        }
+      ]
+    },
+    {
+      "name": "But how do AI images and videos actually work?",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY",
+      "hn_url": "https://news.ycombinator.com/item?id=49503956",
+      "source_story_title": "How to build a diffusion language model",
+      "summary": "Welch Labs explains diffusion models, CLIP, and text-to-image generation visually.",
+      "why_included": "A commenter directly recommended it as a good diffusion-model explainer.",
+      "evidence": "The commenter called the Welch Labs diffusion-model explainer a good video.",
+      "evidence_sources": [
+        {
+          "comment_id": "49506086",
+          "comment_url": "https://news.ycombinator.com/item?id=49503956#49506086",
+          "author": "rottc0dd",
+          "excerpt": "A good video from welch labs on image generation with diffusion models:",
+          "kind": "recommendation",
+          "parent_comment_id": "49503956"
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Fortress Wiki",
+      "category": "Games & Guides",
+      "thing_url": "https://dwarffortresswiki.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49467636",
+      "source_story_title": "Dwarf Fortress is getting the mother of all magic updates",
+      "summary": "A comprehensive community guide to Dwarf Fortress systems, buildings, and workflows.",
+      "why_included": "A veteran player called it the best game wiki they had seen.",
+      "evidence": "The commenter repeatedly relied on the wiki and praised its enduring breadth and quality.",
+      "evidence_sources": [
+        {
+          "comment_id": "49517059",
+          "comment_url": "https://news.ycombinator.com/item?id=49467636#49517059",
+          "author": "rmunn",
+          "excerpt": "Dwarf Fortress's wiki is perhaps the best I've ever seen, narrowly beating Minecraft's also-excellent wiki.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49515861"
+        }
+      ]
+    }
+  ]
+}

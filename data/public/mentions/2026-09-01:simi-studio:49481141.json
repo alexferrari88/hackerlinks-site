@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they watched SIMI Studio a lot and described its miniature hamster animations.",
+  "evidence_sources": [
+    {
+      "author": "Otterly99",
+      "comment_id": "49509394",
+      "comment_url": "https://news.ycombinator.com/item?id=49481141#49509394",
+      "context": "first_hand_use",
+      "excerpt": "This reminds me of this youtube channel[1] that I used to watch a lot during COVID where the author animates miniature scenes with their hamster.",
+      "kind": "recommendation",
+      "parent_comment_id": "49481141"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49481141",
+  "id": "2026-09-01:simi-studio:49481141",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "simi-studio",
+  "rank": 8,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49481141",
+  "source_story_title": "Damn fine tiny cafe"
+}

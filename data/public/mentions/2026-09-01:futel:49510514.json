@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter praised public payphone art and singled out Futel's elaborate menus and installations.",
+  "evidence_sources": [
+    {
+      "author": "NelsonMinar",
+      "comment_id": "49512986",
+      "comment_url": "https://news.ycombinator.com/item?id=49510514#49512986",
+      "excerpt": "There's a bunch of neat public payphone art projects out there. A friend of mine runs Futel, which has some fairly elaborate voice menus and several phones installed.",
+      "kind": "recommendation",
+      "parent_comment_id": "49510514"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49510514",
+  "id": "2026-09-01:futel:49510514",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "futel",
+  "rank": 6,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49510514",
+  "source_story_title": "Playa Phone"
+}

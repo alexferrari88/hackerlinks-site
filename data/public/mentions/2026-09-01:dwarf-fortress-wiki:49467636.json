@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter repeatedly relied on the wiki and praised its enduring breadth and quality.",
+  "evidence_sources": [
+    {
+      "author": "rmunn",
+      "comment_id": "49517059",
+      "comment_url": "https://news.ycombinator.com/item?id=49467636#49517059",
+      "context": "first_hand_use",
+      "excerpt": "Dwarf Fortress's wiki is perhaps the best I've ever seen, narrowly beating Minecraft's also-excellent wiki.",
+      "kind": "recommendation",
+      "parent_comment_id": "49515861"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49467636",
+  "id": "2026-09-01:dwarf-fortress-wiki:49467636",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "dwarf-fortress-wiki",
+  "rank": 10,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49467636",
+  "source_story_title": "Dwarf Fortress is getting the mother of all magic updates"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "futel",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:futel:49510514",
+  "mention_ids": [
+    "2026-09-01:futel:49510514"
+  ],
+  "name": "Futel",
+  "slug": "futel",
+  "summary": "A free public-phone network combining useful calls with interactive urban art.",
+  "thing_url": "https://futel.net/",
+  "times_seen": 1,
+  "why_included": "A commenter highlighted Futel among the neat public payphone art projects."
+}

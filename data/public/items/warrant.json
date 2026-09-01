@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "warrant",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:warrant:49508317",
+  "mention_ids": [
+    "2026-09-01:warrant:49508317"
+  ],
+  "name": "Warrant",
+  "slug": "warrant",
+  "summary": "A Markdown verification tool that keeps agent documentation checked and current.",
+  "thing_url": "https://github.com/alisorcorp/warrant",
+  "times_seen": 1,
+  "why_included": "Its creator described a concrete handoff workflow that re-verifies facts between agent sessions."
+}

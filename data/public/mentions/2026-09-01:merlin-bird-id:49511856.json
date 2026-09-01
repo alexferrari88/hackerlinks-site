@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Merlin Bird ID all the time and found it reliable internationally.",
+  "evidence_sources": [
+    {
+      "author": "bakibab",
+      "comment_id": "49512736",
+      "comment_url": "https://news.ycombinator.com/item?id=49511856#49512736",
+      "context": "first_hand_use",
+      "excerpt": "I use Merlin Bird ID all the time. I found it good across many countries.",
+      "kind": "recommendation",
+      "parent_comment_id": "49512466"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49511856",
+  "id": "2026-09-01:merlin-bird-id:49511856",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "merlin-bird-id",
+  "rank": 5,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49511856",
+  "source_story_title": "I turned my security cameras into an automatic bird identification system"
+}

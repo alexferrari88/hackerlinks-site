@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "links",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:links:49505219",
+  "mention_ids": [
+    "2026-09-01:links:49505219"
+  ],
+  "name": "Links",
+  "slug": "links",
+  "summary": "A lightweight text and graphics web browser with no JavaScript engine.",
+  "thing_url": "http://links.twibright.com/",
+  "times_seen": 1,
+  "why_included": "A three-decade text-browser user strongly preferred Links over Lynx and uses it daily."
+}

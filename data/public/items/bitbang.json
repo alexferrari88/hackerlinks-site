@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "bitbang",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:bitbang:49504905",
+  "mention_ids": [
+    "2026-09-01:bitbang:49504905"
+  ],
+  "name": "Bitbang",
+  "slug": "bitbang",
+  "summary": "A CLI for direct peer-to-peer file transfer through NAT and firewalls.",
+  "thing_url": "https://github.com/richlegrand/bitbang-cli",
+  "times_seen": 1,
+  "why_included": "A user recommended it from experience and highlighted a workable free TURN allowance."
+}

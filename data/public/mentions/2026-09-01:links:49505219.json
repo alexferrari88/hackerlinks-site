@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called Links their preferred daily text browser and uses it for local HTML every day.",
+  "evidence_sources": [
+    {
+      "author": "1vuio0pswjnm7",
+      "comment_id": "49512810",
+      "comment_url": "https://news.ycombinator.com/item?id=49505219#49512810",
+      "context": "first_hand_use",
+      "excerpt": "One of the many reasons I prefer links (no graphics) I use links as an offline HTML reader; I am opening local HTML files every day",
+      "kind": "recommendation",
+      "parent_comment_id": "49508218"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49505219",
+  "id": "2026-09-01:links:49505219",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "links",
+  "rank": 3,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49505219",
+  "source_story_title": "P99 0 ms* autocomplete for 240M domain names"
+}

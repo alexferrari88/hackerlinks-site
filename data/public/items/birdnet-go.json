@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "birdnet-go",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:birdnet-go:49511856",
+  "mention_ids": [
+    "2026-09-01:birdnet-go:49511856"
+  ],
+  "name": "BirdNET-Go",
+  "slug": "birdnet-go",
+  "summary": "A self-hosted wildlife sound analyzer for continuous local species identification.",
+  "thing_url": "https://github.com/tphakala/birdnet-go",
+  "times_seen": 1,
+  "why_included": "A Home Assistant user reported a successful multi-camera GPU setup for birds and frogs."
+}

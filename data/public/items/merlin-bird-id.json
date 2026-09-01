@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-01T05:18:10+02:00",
+  "id": "merlin-bird-id",
+  "last_seen_at": "2026-09-01T05:18:10+02:00",
+  "latest_mention_id": "2026-09-01:merlin-bird-id:49511856",
+  "mention_ids": [
+    "2026-09-01:merlin-bird-id:49511856"
+  ],
+  "name": "Merlin Bird ID",
+  "slug": "merlin-bird-id",
+  "summary": "Cornell's free app for identifying birds by sound, photo, or description.",
+  "thing_url": "https://merlin.allaboutbirds.org/",
+  "times_seen": 1,
+  "why_included": "A frequent user reported good results across multiple countries."
+}

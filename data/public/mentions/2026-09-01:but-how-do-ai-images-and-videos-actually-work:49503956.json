@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called the Welch Labs diffusion-model explainer a good video.",
+  "evidence_sources": [
+    {
+      "author": "rottc0dd",
+      "comment_id": "49506086",
+      "comment_url": "https://news.ycombinator.com/item?id=49503956#49506086",
+      "excerpt": "A good video from welch labs on image generation with diffusion models:",
+      "kind": "recommendation",
+      "parent_comment_id": "49503956"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49503956",
+  "id": "2026-09-01:but-how-do-ai-images-and-videos-actually-work:49503956",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "but-how-do-ai-images-and-videos-actually-work",
+  "rank": 9,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49503956",
+  "source_story_title": "How to build a diffusion language model"
+}

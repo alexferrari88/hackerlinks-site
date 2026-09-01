@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter strongly praised the artist and highlighted the storytelling within each photograph.",
+  "evidence_sources": [
+    {
+      "author": "skybrian",
+      "comment_id": "49505962",
+      "comment_url": "https://news.ycombinator.com/item?id=49481141#49505962",
+      "excerpt": "one of the more impressive artists I've seen along these lines. Each photo has a bit of a story to it:",
+      "kind": "recommendation",
+      "parent_comment_id": "49481141"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49481141",
+  "id": "2026-09-01:mouseland:49481141",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "mouseland",
+  "rank": 7,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49481141",
+  "source_story_title": "Damn fine tiny cafe"
+}

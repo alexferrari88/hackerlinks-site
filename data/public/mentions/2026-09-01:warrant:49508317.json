@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator uses Warrant to embed rerunnable checks and force documentation verification during handoffs.",
+  "evidence_sources": [
+    {
+      "author": "pwython",
+      "comment_id": "49513438",
+      "comment_url": "https://news.ycombinator.com/item?id=49508317#49513438",
+      "context": "author_or_maintainer",
+      "excerpt": "It keeps documentation from going out of date by embedding re-runnable verification checks directly inside markdown files (that the agents use, not humans).",
+      "kind": "recommendation",
+      "parent_comment_id": "49509345"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49508317",
+  "id": "2026-09-01:warrant:49508317",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "warrant",
+  "rank": 2,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49508317",
+  "source_story_title": "Agent memory as a file format"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter invited readers to try Bitbang, said they use it, and saw clear potential.",
+  "evidence_sources": [
+    {
+      "author": "CrimsonCape",
+      "comment_id": "49514240",
+      "comment_url": "https://news.ycombinator.com/item?id=49504905#49514240",
+      "context": "first_hand_use",
+      "excerpt": "I've been using it and it certainly has the potential.",
+      "kind": "recommendation",
+      "parent_comment_id": "49506953"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49504905",
+  "id": "2026-09-01:bitbang:49504905",
+  "is_repeat": false,
+  "issue_id": "2026-09-01",
+  "item_id": "bitbang",
+  "rank": 1,
+  "seen_at": "2026-09-01T05:18:10+02:00",
+  "source_story_id": "49504905",
+  "source_story_title": "Internet centralization and the original sin of NAT"
+}
