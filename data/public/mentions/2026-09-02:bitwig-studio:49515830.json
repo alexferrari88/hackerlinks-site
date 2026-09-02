@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter does not regret buying Bitwig despite its price and noted strong Linux audio features.",
+  "evidence_sources": [
+    {
+      "author": "bigyabai",
+      "comment_id": "49517525",
+      "comment_url": "https://news.ycombinator.com/item?id=49515830#49517525",
+      "context": "first_hand_use",
+      "excerpt": "Bitwig natively supports Linux. I bought a license a while ago and while the cost is steep, I don't regret it at all.",
+      "kind": "recommendation",
+      "parent_comment_id": "49517274"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49515830",
+  "id": "2026-09-02:bitwig-studio:49515830",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "bitwig-studio",
+  "rank": 1,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49515830",
+  "source_story_title": "Run macOS Software on Linux"
+}

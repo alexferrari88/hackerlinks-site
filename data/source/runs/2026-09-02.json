@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-09-02",
+  "generated_at": "2026-09-02T05:17:57+02:00",
+  "summary": "Ten comment-endorsed tools, apps, books, visual archives, and media picks from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-02.json",
+    "sha256": "62c7990ae507014762c28059cea1813ff90a4e72778ddb37305dfa54b0210417",
+    "bytes": 3692251,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5305,
+    "fetched_item_count": 5335,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Bitwig Studio",
+      "category": "Creative Tools",
+      "thing_url": "https://www.bitwig.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49515830",
+      "source_story_title": "Run macOS Software on Linux",
+      "summary": "A Linux-native digital audio workstation with modular synthesis and flexible PipeWire routing.",
+      "why_included": "A license owner praised its Linux support, routing, bundled plugins, and modular Grid.",
+      "evidence": "The commenter does not regret buying Bitwig despite its price and noted strong Linux audio features.",
+      "evidence_sources": [{"comment_id":"49517525","comment_url":"https://news.ycombinator.com/item?id=49515830#49517525","author":"bigyabai","excerpt":"Bitwig natively supports Linux. I bought a license a while ago and while the cost is steep, I don't regret it at all.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49517274"}]
+    },
+    {
+      "name": "Droid-ify",
+      "category": "Privacy & Mobile",
+      "thing_url": "https://f-droid.org/en/packages/com.looker.droidify/",
+      "hn_url": "https://news.ycombinator.com/item?id=49520022",
+      "source_story_title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "summary": "A modern Android client for browsing and installing apps from F-Droid repositories.",
+      "why_included": "A regular user reported that the client rarely gives them trouble.",
+      "evidence": "The commenter uses Droid-ify and reported few issues.",
+      "evidence_sources": [{"comment_id":"49523005","comment_url":"https://news.ycombinator.com/item?id=49520022#49523005","author":"nisiddharth","excerpt":"I use the Droid-ify client and rarely get issues","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49522333"}]
+    },
+    {
+      "name": "Redlib",
+      "category": "Privacy & Mobile",
+      "thing_url": "https://github.com/redlib-org/redlib",
+      "hn_url": "https://news.ycombinator.com/item?id=49520022",
+      "source_story_title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "summary": "A private, self-hostable alternative web front end for browsing Reddit.",
+      "why_included": "A commenter named Redlib as the privacy-friendly alternative they actively use.",
+      "evidence": "The commenter said they use Redlib instead of the service discussed upstream.",
+      "evidence_sources": [{"comment_id":"49522230","comment_url":"https://news.ycombinator.com/item?id=49520022#49522230","author":"kelvinjps10","excerpt":"I use redlib https://github.com/redlib-org/redlib and librediret instead.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49521245"}]
+    },
+    {
+      "name": "Plexamp",
+      "category": "Media & Music",
+      "thing_url": "https://www.plex.tv/plexamp",
+      "hn_url": "https://news.ycombinator.com/item?id=49517448",
+      "source_story_title": "Fastpotify",
+      "summary": "A dedicated Plex music player for curated, self-hosted personal libraries.",
+      "why_included": "A self-hosting listener called it a genuinely good alternative to frustrating streaming apps.",
+      "evidence": "The commenter uses Plexamp for albums and praised it despite proprietary-code limitations.",
+      "evidence_sources": [{"comment_id":"49519450","comment_url":"https://news.ycombinator.com/item?id=49517448#49519450","author":"yard2010","excerpt":"Plexamp is not perfect and not open source unfortunately, but it's a really good non-enshitified product.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49518097"}]
+    },
+    {
+      "name": "The Joy of X",
+      "category": "Books & Learning",
+      "thing_url": "https://www.stevenstrogatz.com/books/the-joy-of-x",
+      "hn_url": "https://news.ycombinator.com/item?id=49503521",
+      "source_story_title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "summary": "Steven Strogatz's accessible tour of mathematical ideas from arithmetic to infinity.",
+      "why_included": "A commenter directly recommended it as a great companion read to Tao's video.",
+      "evidence": "The commenter called The Joy of X a great related read.",
+      "evidence_sources": [{"comment_id":"49517016","comment_url":"https://news.ycombinator.com/item?id=49503521#49517016","author":"thedreammachine","excerpt":"Related and a great read: \"The Joy of X: A Guided Tour of Math, from One to Infinity\" by Steven Strogatz","kind":"recommendation","parent_comment_id":"49503521"}]
+    },
+    {
+      "name": "Qwen Fixed Chat Templates",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "hn_url": "https://news.ycombinator.com/item?id=49524447",
+      "source_story_title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "summary": "Community Jinja chat templates tuned for running Qwen models with vLLM.",
+      "why_included": "A production user reported good agentic results and emphatically recommended the templates.",
+      "evidence": "The commenter runs the templates with vLLM and urged readers not to overlook them.",
+      "evidence_sources": [{"comment_id":"49529684","comment_url":"https://news.ycombinator.com/item?id=49524447#49529684","author":"hadlock","excerpt":"Don't sleep on the froggeric templates.","kind":"recommendation","context":"production_use","parent_comment_id":"49527160"}]
+    },
+    {
+      "name": "Jujutsu",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://docs.jj-vcs.dev/latest/",
+      "hn_url": "https://news.ycombinator.com/item?id=49525297",
+      "source_story_title": "The creator of Jujutsu has joined ERSC",
+      "summary": "A Git-compatible version-control system built around a different local workflow model.",
+      "why_included": "A regular user preferred its model to Git and found the learning investment worthwhile.",
+      "evidence": "The commenter prefers Jujutsu's model and said its workflow benefits justified the learning curve.",
+      "evidence_sources": [{"comment_id":"49526405","comment_url":"https://news.ycombinator.com/item?id=49525297#49526405","author":"sbuttgereit","excerpt":"Personally, and as a mere version control user, I prefer the JJ model of version control much more than Git's.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49525911"}]
+    },
+    {
+      "name": "Movie Scene Map",
+      "category": "Maps & Archives",
+      "thing_url": "https://moviescenemap.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49524320",
+      "source_story_title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "summary": "An interactive map of filming and story locations across screen media and games.",
+      "why_included": "A user discovered nearby filming locations and praised the map's design and interaction.",
+      "evidence": "The commenter found previously unknown local filming locations and praised the experience.",
+      "evidence_sources": [{"comment_id":"49525221","comment_url":"https://news.ycombinator.com/item?id=49524320#49525221","author":"radiorental","excerpt":"Nice work, nice design, slick UX and Interaction model. Well done!","kind":"recommendation","context":"evaluated","parent_comment_id":"49524320"}]
+    },
+    {
+      "name": "Pavement Paradise",
+      "category": "Maps & Archives",
+      "thing_url": "https://clui.org/projects/pavement-paradise",
+      "hn_url": "https://news.ycombinator.com/item?id=49517624",
+      "source_story_title": "Restroom Archive",
+      "summary": "A Center for Land Use Interpretation archive documenting American parking spaces.",
+      "why_included": "A commenter singled it out as a personal favorite within CLUI's excellent work.",
+      "evidence": "The commenter identified Pavement Paradise as one of their favorite CLUI projects.",
+      "evidence_sources": [{"comment_id":"49525318","comment_url":"https://news.ycombinator.com/item?id=49517624#49525318","author":"henryrobbins00","excerpt":"One of my personal favorites is Pavement Paradise [2] documenting American parking spaces.","kind":"recommendation","parent_comment_id":"49517624"}]
+    },
+    {
+      "name": "tmp.0ut 2026 Mixtape",
+      "category": "Media & Music",
+      "thing_url": "https://soundcloud.com/blotter1/blotter_tmp0ut_2026",
+      "hn_url": "https://news.ycombinator.com/item?id=49516059",
+      "source_story_title": "Tmp.0ut Volume 5",
+      "summary": "An experimental mixtape released alongside the fifth tmp.0ut hacker zine.",
+      "why_included": "A listener called the genre-ambiguous mix both great and very interesting.",
+      "evidence": "The commenter praised the mixtape and found its sound difficult to categorize but compelling.",
+      "evidence_sources": [{"comment_id":"49520074","comment_url":"https://news.ycombinator.com/item?id=49516059#49520074","author":"NDlurker","excerpt":"The mixtape is great. Not sure what genre this would be considered but it's very interesting","kind":"recommendation","context":"evaluated","parent_comment_id":"49516059"}]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "the-joy-of-x",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:the-joy-of-x:49503521",
+  "mention_ids": [
+    "2026-09-02:the-joy-of-x:49503521"
+  ],
+  "name": "The Joy of X",
+  "slug": "the-joy-of-x",
+  "summary": "Steven Strogatz's accessible tour of mathematical ideas from arithmetic to infinity.",
+  "thing_url": "https://www.stevenstrogatz.com/books/the-joy-of-x",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it as a great companion read to Tao's video."
+}

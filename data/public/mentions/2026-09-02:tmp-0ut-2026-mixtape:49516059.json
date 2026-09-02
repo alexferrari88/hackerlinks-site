@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised the mixtape and found its sound difficult to categorize but compelling.",
+  "evidence_sources": [
+    {
+      "author": "NDlurker",
+      "comment_id": "49520074",
+      "comment_url": "https://news.ycombinator.com/item?id=49516059#49520074",
+      "context": "evaluated",
+      "excerpt": "The mixtape is great. Not sure what genre this would be considered but it's very interesting",
+      "kind": "recommendation",
+      "parent_comment_id": "49516059"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49516059",
+  "id": "2026-09-02:tmp-0ut-2026-mixtape:49516059",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "tmp-0ut-2026-mixtape",
+  "rank": 10,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49516059",
+  "source_story_title": "Tmp.0ut Volume 5"
+}

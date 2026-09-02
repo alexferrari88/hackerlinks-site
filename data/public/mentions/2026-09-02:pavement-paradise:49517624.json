@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter identified Pavement Paradise as one of their favorite CLUI projects.",
+  "evidence_sources": [
+    {
+      "author": "henryrobbins00",
+      "comment_id": "49525318",
+      "comment_url": "https://news.ycombinator.com/item?id=49517624#49525318",
+      "excerpt": "One of my personal favorites is Pavement Paradise [2] documenting American parking spaces.",
+      "kind": "recommendation",
+      "parent_comment_id": "49517624"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49517624",
+  "id": "2026-09-02:pavement-paradise:49517624",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "pavement-paradise",
+  "rank": 9,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49517624",
+  "source_story_title": "Restroom Archive"
+}

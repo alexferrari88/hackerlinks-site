@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "movie-scene-map",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:movie-scene-map:49524320",
+  "mention_ids": [
+    "2026-09-02:movie-scene-map:49524320"
+  ],
+  "name": "Movie Scene Map",
+  "slug": "movie-scene-map",
+  "summary": "An interactive map of filming and story locations across screen media and games.",
+  "thing_url": "https://moviescenemap.com/",
+  "times_seen": 1,
+  "why_included": "A user discovered nearby filming locations and praised the map's design and interaction."
+}

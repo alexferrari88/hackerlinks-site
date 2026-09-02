@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "redlib",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:redlib:49520022",
+  "mention_ids": [
+    "2026-09-02:redlib:49520022"
+  ],
+  "name": "Redlib",
+  "slug": "redlib",
+  "summary": "A private, self-hostable alternative web front end for browsing Reddit.",
+  "thing_url": "https://github.com/redlib-org/redlib",
+  "times_seen": 1,
+  "why_included": "A commenter named Redlib as the privacy-friendly alternative they actively use."
+}

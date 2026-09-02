@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found previously unknown local filming locations and praised the experience.",
+  "evidence_sources": [
+    {
+      "author": "radiorental",
+      "comment_id": "49525221",
+      "comment_url": "https://news.ycombinator.com/item?id=49524320#49525221",
+      "context": "evaluated",
+      "excerpt": "Nice work, nice design, slick UX and Interaction model. Well done!",
+      "kind": "recommendation",
+      "parent_comment_id": "49524320"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49524320",
+  "id": "2026-09-02:movie-scene-map:49524320",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "movie-scene-map",
+  "rank": 8,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49524320",
+  "source_story_title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga"
+}

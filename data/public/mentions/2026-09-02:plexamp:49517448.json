@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Plexamp for albums and praised it despite proprietary-code limitations.",
+  "evidence_sources": [
+    {
+      "author": "yard2010",
+      "comment_id": "49519450",
+      "comment_url": "https://news.ycombinator.com/item?id=49517448#49519450",
+      "context": "first_hand_use",
+      "excerpt": "Plexamp is not perfect and not open source unfortunately, but it's a really good non-enshitified product.",
+      "kind": "recommendation",
+      "parent_comment_id": "49518097"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49517448",
+  "id": "2026-09-02:plexamp:49517448",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "plexamp",
+  "rank": 4,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49517448",
+  "source_story_title": "Fastpotify"
+}

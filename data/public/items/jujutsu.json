@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "jujutsu",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:jujutsu:49525297",
+  "mention_ids": [
+    "2026-09-02:jujutsu:49525297"
+  ],
+  "name": "Jujutsu",
+  "slug": "jujutsu",
+  "summary": "A Git-compatible version-control system built around a different local workflow model.",
+  "thing_url": "https://docs.jj-vcs.dev/latest/",
+  "times_seen": 1,
+  "why_included": "A regular user preferred its model to Git and found the learning investment worthwhile."
+}

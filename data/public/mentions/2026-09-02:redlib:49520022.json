@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they use Redlib instead of the service discussed upstream.",
+  "evidence_sources": [
+    {
+      "author": "kelvinjps10",
+      "comment_id": "49522230",
+      "comment_url": "https://news.ycombinator.com/item?id=49520022#49522230",
+      "context": "first_hand_use",
+      "excerpt": "I use redlib https://github.com/redlib-org/redlib and librediret instead.",
+      "kind": "recommendation",
+      "parent_comment_id": "49521245"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49520022",
+  "id": "2026-09-02:redlib:49520022",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "redlib",
+  "rank": 3,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49520022",
+  "source_story_title": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
+}

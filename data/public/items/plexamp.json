@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "plexamp",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:plexamp:49517448",
+  "mention_ids": [
+    "2026-09-02:plexamp:49517448"
+  ],
+  "name": "Plexamp",
+  "slug": "plexamp",
+  "summary": "A dedicated Plex music player for curated, self-hosted personal libraries.",
+  "thing_url": "https://www.plex.tv/plexamp",
+  "times_seen": 1,
+  "why_included": "A self-hosting listener called it a genuinely good alternative to frustrating streaming apps."
+}

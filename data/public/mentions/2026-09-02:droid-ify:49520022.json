@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Droid-ify and reported few issues.",
+  "evidence_sources": [
+    {
+      "author": "nisiddharth",
+      "comment_id": "49523005",
+      "comment_url": "https://news.ycombinator.com/item?id=49520022#49523005",
+      "context": "first_hand_use",
+      "excerpt": "I use the Droid-ify client and rarely get issues",
+      "kind": "recommendation",
+      "parent_comment_id": "49522333"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49520022",
+  "id": "2026-09-02:droid-ify:49520022",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "droid-ify",
+  "rank": 2,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49520022",
+  "source_story_title": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
+}

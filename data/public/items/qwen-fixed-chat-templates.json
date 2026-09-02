@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "qwen-fixed-chat-templates",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:qwen-fixed-chat-templates:49524447",
+  "mention_ids": [
+    "2026-09-02:qwen-fixed-chat-templates:49524447"
+  ],
+  "name": "Qwen Fixed Chat Templates",
+  "slug": "qwen-fixed-chat-templates",
+  "summary": "Community Jinja chat templates tuned for running Qwen models with vLLM.",
+  "thing_url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+  "times_seen": 1,
+  "why_included": "A production user reported good agentic results and emphatically recommended the templates."
+}

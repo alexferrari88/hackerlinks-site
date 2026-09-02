@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called The Joy of X a great related read.",
+  "evidence_sources": [
+    {
+      "author": "thedreammachine",
+      "comment_id": "49517016",
+      "comment_url": "https://news.ycombinator.com/item?id=49503521#49517016",
+      "excerpt": "Related and a great read: \"The Joy of X: A Guided Tour of Math, from One to Infinity\" by Steven Strogatz",
+      "kind": "recommendation",
+      "parent_comment_id": "49503521"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49503521",
+  "id": "2026-09-02:the-joy-of-x:49503521",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "the-joy-of-x",
+  "rank": 5,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49503521",
+  "source_story_title": "Terence Tao explains 6 essential mathematical concepts [video]"
+}

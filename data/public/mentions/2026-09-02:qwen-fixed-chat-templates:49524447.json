@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs the templates with vLLM and urged readers not to overlook them.",
+  "evidence_sources": [
+    {
+      "author": "hadlock",
+      "comment_id": "49529684",
+      "comment_url": "https://news.ycombinator.com/item?id=49524447#49529684",
+      "context": "production_use",
+      "excerpt": "Don't sleep on the froggeric templates.",
+      "kind": "recommendation",
+      "parent_comment_id": "49527160"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49524447",
+  "id": "2026-09-02:qwen-fixed-chat-templates:49524447",
+  "is_repeat": false,
+  "issue_id": "2026-09-02",
+  "item_id": "qwen-fixed-chat-templates",
+  "rank": 6,
+  "seen_at": "2026-09-02T05:17:57+02:00",
+  "source_story_id": "49524447",
+  "source_story_title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s"
+}

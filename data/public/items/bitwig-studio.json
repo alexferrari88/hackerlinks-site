@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-02T05:17:57+02:00",
+  "id": "bitwig-studio",
+  "last_seen_at": "2026-09-02T05:17:57+02:00",
+  "latest_mention_id": "2026-09-02:bitwig-studio:49515830",
+  "mention_ids": [
+    "2026-09-02:bitwig-studio:49515830"
+  ],
+  "name": "Bitwig Studio",
+  "slug": "bitwig-studio",
+  "summary": "A Linux-native digital audio workstation with modular synthesis and flexible PipeWire routing.",
+  "thing_url": "https://www.bitwig.com/",
+  "times_seen": 1,
+  "why_included": "A license owner praised its Linux support, routing, bundled plugins, and modular Grid."
+}
