@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "brave",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:brave:49527748",
+  "mention_ids": [
+    "2026-09-03:brave:49527748"
+  ],
+  "name": "Brave",
+  "slug": "brave",
+  "summary": "A cross-platform Chromium browser with built-in privacy and ad-blocking features.",
+  "thing_url": "https://brave.com/",
+  "times_seen": 1,
+  "why_included": "A desktop-and-mobile user preferred its efficiency and interface to Firefox."
+}

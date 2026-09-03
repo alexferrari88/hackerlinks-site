@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter enjoyed using Overtone at a Clojure meetup and invited readers to check out the still-active project.",
+  "evidence_sources": [
+    {
+      "author": "chris_j",
+      "comment_id": "49532890",
+      "comment_url": "https://news.ycombinator.com/item?id=49482099#49532890",
+      "context": "first_hand_use",
+      "excerpt": "I remember having great fun playing with it at a Clojure meetup in about 2011. Overtone appears to still be going if you want to check it out.",
+      "kind": "recommendation",
+      "parent_comment_id": "49532754"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49482099",
+  "id": "2026-09-03:overtone:49482099",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "overtone",
+  "rank": 7,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49482099",
+  "source_story_title": "Sonic Pi"
+}

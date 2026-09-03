@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses an FNMT certificate for public services and taxes and said it has worked very well for roughly a decade.",
+  "evidence_sources": [
+    {
+      "author": "embedding-shape",
+      "comment_id": "49535235",
+      "comment_url": "https://news.ycombinator.com/item?id=49529621#49535235",
+      "context": "first_hand_use",
+      "excerpt": "I have a literal digital certificate linked to my name, sitting in my browser, that I use for logging in to various government services and also use to sign+submit my taxes.",
+      "kind": "recommendation",
+      "parent_comment_id": "49534935"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49529621",
+  "id": "2026-09-03:fnmt-ceres:49529621",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "fnmt-ceres",
+  "rank": 3,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49529621",
+  "source_story_title": "FBI Probes Service Selling 153M+ Drivers Licenses"
+}

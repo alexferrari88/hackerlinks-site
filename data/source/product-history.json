@@ -8263,6 +8263,72 @@
       "first_reported_at": "2026-09-02T05:17:57+02:00",
       "last_reported_at": "2026-09-02T05:17:57+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Sidebery",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Brave",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "FNMT CERES",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Poisson Disk Sampling Functions",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ONNX Runtime",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "LWN.net",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Overtone",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sam Aaron's Sonic Pi Ambient Set",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Jayber Crow",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cosmology Lecture by Katherine Mack",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CLUI Main Office & Exhibit Space",
+      "first_reported_at": "2026-09-03T05:17:15+02:00",
+      "last_reported_at": "2026-09-03T05:17:15+02:00",
+      "times_reported": 1
     }
   ]
 }

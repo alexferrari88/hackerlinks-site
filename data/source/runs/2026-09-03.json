@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "run_date": "2026-09-03",
+  "generated_at": "2026-09-03T05:17:15+02:00",
+  "summary": "Eleven comment-endorsed tools, services, books, talks, performances, and places from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-03.json",
+    "sha256": "70c08fa606e6245e3688b18fc30c8833943d8d7a6b10c2847fa2b71a2f84842e",
+    "bytes": 2834042,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4630,
+    "fetched_item_count": 4660,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Sidebery",
+      "category": "Privacy & Mobile",
+      "thing_url": "https://github.com/mbnuqw/sidebery",
+      "hn_url": "https://news.ycombinator.com/item?id=49527748",
+      "source_story_title": "Hang on to Your Firefox",
+      "summary": "A Firefox extension for organizing tabs and bookmarks in a configurable sidebar.",
+      "why_included": "A returning Firefox user said Sidebery helped replace centralized tab-management functionality.",
+      "evidence": "The commenter included Sidebery in a local extension setup that delivered the organization features they wanted without surrendering control.",
+      "evidence_sources": [{"comment_id":"49535791","comment_url":"https://news.ycombinator.com/item?id=49527748#49535791","author":"kiliancs","excerpt":"After doing some research, most of what I wanted already exists. Sidebery, Tab Wrangler and the new Agents window (with some styling to eliminate the default tab list), together with my other old friends like uBlock Origin, Auto Tab Discard (suspend) and a number of container-related extensions, deliver the same functionality I found elsewhere, without taking control from me.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49527748"}]
+    },
+    {
+      "name": "Brave",
+      "category": "Privacy & Mobile",
+      "thing_url": "https://brave.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49527748",
+      "source_story_title": "Hang on to Your Firefox",
+      "summary": "A cross-platform Chromium browser with built-in privacy and ad-blocking features.",
+      "why_included": "A desktop-and-mobile user preferred its efficiency and interface to Firefox.",
+      "evidence": "The commenter uses Brave as their main browser and reported being happy with its efficiency and UI.",
+      "evidence_sources": [{"comment_id":"49529317","comment_url":"https://news.ycombinator.com/item?id=49527748#49529317","author":"glimshe","excerpt":"My current main browser across desktop and mobile is Brave. Pretty happy with it. Overall more efficient and with a better UI than FF.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49527748"}]
+    },
+    {
+      "name": "FNMT CERES",
+      "category": "Privacy & Mobile",
+      "thing_url": "https://www.fnmt.es/en/ceres",
+      "hn_url": "https://news.ycombinator.com/item?id=49529621",
+      "source_story_title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "summary": "Spain's browser-based digital certificate system for government login and electronic signatures.",
+      "why_included": "A decade-long user praised its ease for government access and tax signing.",
+      "evidence": "The commenter uses an FNMT certificate for public services and taxes and said it has worked very well for roughly a decade.",
+      "evidence_sources": [{"comment_id":"49535235","comment_url":"https://news.ycombinator.com/item?id=49529621#49535235","author":"embedding-shape","excerpt":"I have a literal digital certificate linked to my name, sitting in my browser, that I use for logging in to various government services and also use to sign+submit my taxes.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49534935"}]
+    },
+    {
+      "name": "Poisson Disk Sampling Functions",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://observablehq.com/@fil/poisson-distribution-generators",
+      "hn_url": "https://news.ycombinator.com/item?id=49536177",
+      "source_story_title": "Poisson Disk Sampling",
+      "summary": "An interactive Observable notebook with reusable Poisson-disc point-sampling generators.",
+      "why_included": "A commenter directly recommended the notebook as a useful companion resource.",
+      "evidence": "The commenter explicitly suggested the linked Observable notebook as useful.",
+      "evidence_sources": [{"comment_id":"49536848","comment_url":"https://news.ycombinator.com/item?id=49536177#49536848","author":"jacobolus","excerpt":"Folks may find https://observablehq.com/@fil/poisson-distribution-generator... useful","kind":"recommendation","parent_comment_id":"49536177"}]
+    },
+    {
+      "name": "ONNX Runtime",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/microsoft/onnxruntime",
+      "hn_url": "https://news.ycombinator.com/item?id=49536411",
+      "source_story_title": "WebLLM: high-performance in-browser LLM inference engine",
+      "summary": "A cross-platform inference engine that can run small machine-learning models in browsers.",
+      "why_included": "A commenter reported using it for small in-browser models.",
+      "evidence": "The commenter identified ONNX Runtime as their chosen browser runtime for small models.",
+      "evidence_sources": [{"comment_id":"49537484","comment_url":"https://news.ycombinator.com/item?id=49536411#49537484","author":"seamossfet","excerpt":"We use the ONNX runtime for small models in the browser","kind":"recommendation","context":"production_use","parent_comment_id":"49537139"}]
+    },
+    {
+      "name": "LWN.net",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://lwn.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49535752",
+      "source_story_title": "A note on subscription prices from LWN",
+      "summary": "Reader-supported technical reporting on Linux kernels and free-software development.",
+      "why_included": "A subscriber since 1998 credited its technical writing with helping build their career.",
+      "evidence": "The commenter called LWN foundational and routinely recommends it to people learning Linux deeply.",
+      "evidence_sources": [{"comment_id":"49536089","comment_url":"https://news.ycombinator.com/item?id=49535752#49536089","author":"Diederich","excerpt":"When newer folk would ask me how to really get good with Linux, I would always point them to LWN.net.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49535752"}]
+    },
+    {
+      "name": "Overtone",
+      "category": "Media & Music",
+      "thing_url": "https://github.com/overtone/overtone",
+      "hn_url": "https://news.ycombinator.com/item?id=49482099",
+      "source_story_title": "Sonic Pi",
+      "summary": "An open-source Clojure environment for synthesis, live coding, and collaborative music.",
+      "why_included": "A past user remembered having great fun with it and noted it remains active.",
+      "evidence": "The commenter enjoyed using Overtone at a Clojure meetup and invited readers to check out the still-active project.",
+      "evidence_sources": [{"comment_id":"49532890","comment_url":"https://news.ycombinator.com/item?id=49482099#49532890","author":"chris_j","excerpt":"I remember having great fun playing with it at a Clojure meetup in about 2011. Overtone appears to still be going if you want to check it out.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49532754"}]
+    },
+    {
+      "name": "Sam Aaron's Sonic Pi Ambient Set",
+      "category": "Media & Music",
+      "thing_url": "https://www.youtube.com/watch?v=G1m0aX9Lpts",
+      "hn_url": "https://news.ycombinator.com/item?id=49482099",
+      "source_story_title": "Sonic Pi",
+      "summary": "A live-coded ambient electronic performance by Sonic Pi creator Sam Aaron.",
+      "why_included": "A commenter directly praised the linked performance.",
+      "evidence": "The commenter called the Sonic Pi performance great.",
+      "evidence_sources": [{"comment_id":"49530967","comment_url":"https://news.ycombinator.com/item?id=49482099#49530967","author":"NDlurker","excerpt":"This is a great performance","kind":"recommendation","context":"evaluated","parent_comment_id":"49530628"}]
+    },
+    {
+      "name": "Jayber Crow",
+      "category": "Books & Learning",
+      "thing_url": "https://www.counterpointpress.com/books/jayber-crow/",
+      "hn_url": "https://news.ycombinator.com/item?id=49517018",
+      "source_story_title": "Wendell Berry has died",
+      "summary": "Wendell Berry's novel about a small-town barber and the Port William community.",
+      "why_included": "A reader called it an all-time favorite that rekindled their interest in fiction.",
+      "evidence": "The commenter strongly urged others to read Jayber Crow and credited it with bringing them back to fiction.",
+      "evidence_sources": [{"comment_id":"49541299","comment_url":"https://news.ycombinator.com/item?id=49517018#49541299","author":"pwillia7","excerpt":"Do yourself a favor and read Jayber Crow -- One of my all time favorite books and really the book that got me back into fiction after a long time away","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49517018"}]
+    },
+    {
+      "name": "Cosmology Lecture by Katherine Mack",
+      "category": "Books & Learning",
+      "thing_url": "https://pirsa.org/26030070",
+      "hn_url": "https://news.ycombinator.com/item?id=49536079",
+      "source_story_title": "Biggest dark matter detector spots a single weird particle",
+      "summary": "An accessible Perimeter Institute lecture on cosmology and evidence for dark matter.",
+      "why_included": "A commenter praised it as an excellent, accessible explanation of dark-matter evidence.",
+      "evidence": "The commenter recommended Katherine Mack's free lecture for understanding why physicists infer dark matter.",
+      "evidence_sources": [{"comment_id":"49544467","comment_url":"https://news.ycombinator.com/item?id=49536079#49544467","author":"magicalhippo","excerpt":"there's an excellent and accessible talk[1] freely available over at PIRSA where an astrophysicist goes through exactly what we know about the universe and how many different kinds of evidence all seem to point in a similar direction: dark matter exists.","kind":"recommendation","parent_comment_id":"49544214"}]
+    },
+    {
+      "name": "CLUI Main Office & Exhibit Space",
+      "category": "Maps & Archives",
+      "thing_url": "https://clui.org/clui-locations/main-office-exhibit-space",
+      "hn_url": "https://news.ycombinator.com/item?id=49513856",
+      "source_story_title": "A Selection of Los Alamos Rolodex Business Cards",
+      "summary": "The Center for Land Use Interpretation's Culver City exhibit space and bookshop.",
+      "why_included": "A past visitor recommended stopping by because its exhibitions stay interesting.",
+      "evidence": "The commenter had seen a CLUI exhibit in person and recommended the Culver City location.",
+      "evidence_sources": [{"comment_id":"49543758","comment_url":"https://news.ycombinator.com/item?id=49513856#49543758","author":"jjwiseman","excerpt":"If you're ever in LA you should try to stop in to the CLUI's Culver City location, they always have something interesting.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49513856"}]
+    }
+  ]
+}

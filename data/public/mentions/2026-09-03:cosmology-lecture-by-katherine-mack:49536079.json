@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended Katherine Mack's free lecture for understanding why physicists infer dark matter.",
+  "evidence_sources": [
+    {
+      "author": "magicalhippo",
+      "comment_id": "49544467",
+      "comment_url": "https://news.ycombinator.com/item?id=49536079#49544467",
+      "excerpt": "there's an excellent and accessible talk[1] freely available over at PIRSA where an astrophysicist goes through exactly what we know about the universe and how many different kinds of evidence all seem to point in a similar direction: dark matter exists.",
+      "kind": "recommendation",
+      "parent_comment_id": "49544214"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49536079",
+  "id": "2026-09-03:cosmology-lecture-by-katherine-mack:49536079",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "cosmology-lecture-by-katherine-mack",
+  "rank": 10,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49536079",
+  "source_story_title": "Biggest dark matter detector spots a single weird particle"
+}

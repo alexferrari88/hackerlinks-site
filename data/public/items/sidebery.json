@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "sidebery",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:sidebery:49527748",
+  "mention_ids": [
+    "2026-09-03:sidebery:49527748"
+  ],
+  "name": "Sidebery",
+  "slug": "sidebery",
+  "summary": "A Firefox extension for organizing tabs and bookmarks in a configurable sidebar.",
+  "thing_url": "https://github.com/mbnuqw/sidebery",
+  "times_seen": 1,
+  "why_included": "A returning Firefox user said Sidebery helped replace centralized tab-management functionality."
+}

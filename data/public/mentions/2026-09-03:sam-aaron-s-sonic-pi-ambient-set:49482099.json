@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the Sonic Pi performance great.",
+  "evidence_sources": [
+    {
+      "author": "NDlurker",
+      "comment_id": "49530967",
+      "comment_url": "https://news.ycombinator.com/item?id=49482099#49530967",
+      "context": "evaluated",
+      "excerpt": "This is a great performance",
+      "kind": "recommendation",
+      "parent_comment_id": "49530628"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49482099",
+  "id": "2026-09-03:sam-aaron-s-sonic-pi-ambient-set:49482099",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "sam-aaron-s-sonic-pi-ambient-set",
+  "rank": 8,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49482099",
+  "source_story_title": "Sonic Pi"
+}

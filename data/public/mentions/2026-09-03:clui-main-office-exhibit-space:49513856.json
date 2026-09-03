@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter had seen a CLUI exhibit in person and recommended the Culver City location.",
+  "evidence_sources": [
+    {
+      "author": "jjwiseman",
+      "comment_id": "49543758",
+      "comment_url": "https://news.ycombinator.com/item?id=49513856#49543758",
+      "context": "first_hand_use",
+      "excerpt": "If you're ever in LA you should try to stop in to the CLUI's Culver City location, they always have something interesting.",
+      "kind": "recommendation",
+      "parent_comment_id": "49513856"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49513856",
+  "id": "2026-09-03:clui-main-office-exhibit-space:49513856",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "clui-main-office-exhibit-space",
+  "rank": 11,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49513856",
+  "source_story_title": "A Selection of Los Alamos Rolodex Business Cards"
+}

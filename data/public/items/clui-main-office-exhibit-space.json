@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "clui-main-office-exhibit-space",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:clui-main-office-exhibit-space:49513856",
+  "mention_ids": [
+    "2026-09-03:clui-main-office-exhibit-space:49513856"
+  ],
+  "name": "CLUI Main Office & Exhibit Space",
+  "slug": "clui-main-office-exhibit-space",
+  "summary": "The Center for Land Use Interpretation's Culver City exhibit space and bookshop.",
+  "thing_url": "https://clui.org/clui-locations/main-office-exhibit-space",
+  "times_seen": 1,
+  "why_included": "A past visitor recommended stopping by because its exhibitions stay interesting."
+}

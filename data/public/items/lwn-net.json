@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "lwn-net",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:lwn-net:49535752",
+  "mention_ids": [
+    "2026-09-03:lwn-net:49535752"
+  ],
+  "name": "LWN.net",
+  "slug": "lwn-net",
+  "summary": "Reader-supported technical reporting on Linux kernels and free-software development.",
+  "thing_url": "https://lwn.net/",
+  "times_seen": 1,
+  "why_included": "A subscriber since 1998 credited its technical writing with helping build their career."
+}

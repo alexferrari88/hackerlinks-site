@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "fnmt-ceres",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:fnmt-ceres:49529621",
+  "mention_ids": [
+    "2026-09-03:fnmt-ceres:49529621"
+  ],
+  "name": "FNMT CERES",
+  "slug": "fnmt-ceres",
+  "summary": "Spain's browser-based digital certificate system for government login and electronic signatures.",
+  "thing_url": "https://www.fnmt.es/en/ceres",
+  "times_seen": 1,
+  "why_included": "A decade-long user praised its ease for government access and tax signing."
+}

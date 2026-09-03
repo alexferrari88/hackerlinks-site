@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter identified ONNX Runtime as their chosen browser runtime for small models.",
+  "evidence_sources": [
+    {
+      "author": "seamossfet",
+      "comment_id": "49537484",
+      "comment_url": "https://news.ycombinator.com/item?id=49536411#49537484",
+      "context": "production_use",
+      "excerpt": "We use the ONNX runtime for small models in the browser",
+      "kind": "recommendation",
+      "parent_comment_id": "49537139"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49536411",
+  "id": "2026-09-03:onnx-runtime:49536411",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "onnx-runtime",
+  "rank": 5,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49536411",
+  "source_story_title": "WebLLM: high-performance in-browser LLM inference engine"
+}

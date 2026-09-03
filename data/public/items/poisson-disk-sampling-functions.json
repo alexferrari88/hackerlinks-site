@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "poisson-disk-sampling-functions",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:poisson-disk-sampling-functions:49536177",
+  "mention_ids": [
+    "2026-09-03:poisson-disk-sampling-functions:49536177"
+  ],
+  "name": "Poisson Disk Sampling Functions",
+  "slug": "poisson-disk-sampling-functions",
+  "summary": "An interactive Observable notebook with reusable Poisson-disc point-sampling generators.",
+  "thing_url": "https://observablehq.com/@fil/poisson-distribution-generators",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended the notebook as a useful companion resource."
+}

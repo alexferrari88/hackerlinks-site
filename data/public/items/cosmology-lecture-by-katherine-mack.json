@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "cosmology-lecture-by-katherine-mack",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:cosmology-lecture-by-katherine-mack:49536079",
+  "mention_ids": [
+    "2026-09-03:cosmology-lecture-by-katherine-mack:49536079"
+  ],
+  "name": "Cosmology Lecture by Katherine Mack",
+  "slug": "cosmology-lecture-by-katherine-mack",
+  "summary": "An accessible Perimeter Institute lecture on cosmology and evidence for dark matter.",
+  "thing_url": "https://pirsa.org/26030070",
+  "times_seen": 1,
+  "why_included": "A commenter praised it as an excellent, accessible explanation of dark-matter evidence."
+}

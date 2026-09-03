@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Brave as their main browser and reported being happy with its efficiency and UI.",
+  "evidence_sources": [
+    {
+      "author": "glimshe",
+      "comment_id": "49529317",
+      "comment_url": "https://news.ycombinator.com/item?id=49527748#49529317",
+      "context": "first_hand_use",
+      "excerpt": "My current main browser across desktop and mobile is Brave. Pretty happy with it. Overall more efficient and with a better UI than FF.",
+      "kind": "recommendation",
+      "parent_comment_id": "49527748"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49527748",
+  "id": "2026-09-03:brave:49527748",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "brave",
+  "rank": 2,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49527748",
+  "source_story_title": "Hang on to Your Firefox"
+}

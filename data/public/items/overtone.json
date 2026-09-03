@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "overtone",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:overtone:49482099",
+  "mention_ids": [
+    "2026-09-03:overtone:49482099"
+  ],
+  "name": "Overtone",
+  "slug": "overtone",
+  "summary": "An open-source Clojure environment for synthesis, live coding, and collaborative music.",
+  "thing_url": "https://github.com/overtone/overtone",
+  "times_seen": 1,
+  "why_included": "A past user remembered having great fun with it and noted it remains active."
+}

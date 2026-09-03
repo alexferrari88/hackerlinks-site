@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-03T05:17:15+02:00",
+  "id": "onnx-runtime",
+  "last_seen_at": "2026-09-03T05:17:15+02:00",
+  "latest_mention_id": "2026-09-03:onnx-runtime:49536411",
+  "mention_ids": [
+    "2026-09-03:onnx-runtime:49536411"
+  ],
+  "name": "ONNX Runtime",
+  "slug": "onnx-runtime",
+  "summary": "A cross-platform inference engine that can run small machine-learning models in browsers.",
+  "thing_url": "https://github.com/microsoft/onnxruntime",
+  "times_seen": 1,
+  "why_included": "A commenter reported using it for small in-browser models."
+}

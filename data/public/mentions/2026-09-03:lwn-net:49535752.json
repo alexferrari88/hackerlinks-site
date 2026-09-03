@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called LWN foundational and routinely recommends it to people learning Linux deeply.",
+  "evidence_sources": [
+    {
+      "author": "Diederich",
+      "comment_id": "49536089",
+      "comment_url": "https://news.ycombinator.com/item?id=49535752#49536089",
+      "context": "first_hand_use",
+      "excerpt": "When newer folk would ask me how to really get good with Linux, I would always point them to LWN.net.",
+      "kind": "recommendation",
+      "parent_comment_id": "49535752"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49535752",
+  "id": "2026-09-03:lwn-net:49535752",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "lwn-net",
+  "rank": 6,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49535752",
+  "source_story_title": "A note on subscription prices from LWN"
+}

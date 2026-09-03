@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter included Sidebery in a local extension setup that delivered the organization features they wanted without surrendering control.",
+  "evidence_sources": [
+    {
+      "author": "kiliancs",
+      "comment_id": "49535791",
+      "comment_url": "https://news.ycombinator.com/item?id=49527748#49535791",
+      "context": "first_hand_use",
+      "excerpt": "After doing some research, most of what I wanted already exists. Sidebery, Tab Wrangler and the new Agents window (with some styling to eliminate the default tab list), together with my other old friends like uBlock Origin, Auto Tab Discard (suspend) and a number of container-related extensions, deliver the same functionality I found elsewhere, without taking control from me.",
+      "kind": "recommendation",
+      "parent_comment_id": "49527748"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49527748",
+  "id": "2026-09-03:sidebery:49527748",
+  "is_repeat": false,
+  "issue_id": "2026-09-03",
+  "item_id": "sidebery",
+  "rank": 1,
+  "seen_at": "2026-09-03T05:17:15+02:00",
+  "source_story_id": "49527748",
+  "source_story_title": "Hang on to Your Firefox"
+}
