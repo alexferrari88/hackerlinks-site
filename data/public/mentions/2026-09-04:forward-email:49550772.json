@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Forward Email for family mail addresses and considers its privacy policy reasonable.",
+  "evidence_sources": [
+    {
+      "author": "decimalenough",
+      "comment_id": "49553229",
+      "comment_url": "https://news.ycombinator.com/item?id=49550772#49553229",
+      "context": "first_hand_use",
+      "excerpt": "I use forwardemail.net and they have a pretty reasonable privacy policy:",
+      "kind": "recommendation",
+      "parent_comment_id": "49553062"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49550772",
+  "id": "2026-09-04:forward-email:49550772",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "forward-email",
+  "rank": 2,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49550772",
+  "source_story_title": ".name Termination"
+}

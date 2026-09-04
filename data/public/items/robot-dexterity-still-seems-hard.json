@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "robot-dexterity-still-seems-hard",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:robot-dexterity-still-seems-hard:49543191",
+  "mention_ids": [
+    "2026-09-04:robot-dexterity-still-seems-hard:49543191"
+  ],
+  "name": "Robot Dexterity Still Seems Hard",
+  "slug": "robot-dexterity-still-seems-hard",
+  "summary": "An analysis of why dexterous physical automation remains commercially difficult.",
+  "thing_url": "https://www.construction-physics.com/p/robot-dexterity-still-seems-hard",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly included it among recent robotics resources they found useful."
+}

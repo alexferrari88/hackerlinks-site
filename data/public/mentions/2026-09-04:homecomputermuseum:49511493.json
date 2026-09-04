@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter praised its large, usable collection and broad family appeal.",
+  "evidence_sources": [
+    {
+      "author": "decide1000",
+      "comment_id": "49546782",
+      "comment_url": "https://news.ycombinator.com/item?id=49511493#49546782",
+      "excerpt": "The computers can be used by anyone. Really a great experience for kids these days and adults.",
+      "kind": "recommendation",
+      "parent_comment_id": "49511493"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49511493",
+  "id": "2026-09-04:homecomputermuseum:49511493",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "homecomputermuseum",
+  "rank": 7,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49511493",
+  "source_story_title": "The Computer Museum of America reclamation project"
+}

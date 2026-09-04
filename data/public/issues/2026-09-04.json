@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T05:17:41+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-04",
+  "id": "2026-09-04",
+  "mention_ids": [
+    "2026-09-04:audacity-4-0:49548395",
+    "2026-09-04:forward-email:49550772",
+    "2026-09-04:cerebras-inference:49554520",
+    "2026-09-04:thousand-year-old-vampire:49550698",
+    "2026-09-04:unusual-suspects:49538069",
+    "2026-09-04:the-national-museum-of-computing:49511493",
+    "2026-09-04:homecomputermuseum:49511493",
+    "2026-09-04:holden-s-lightning-flight-account:49508405",
+    "2026-09-04:xanadu-the-internet-that-might-have-been:49526298",
+    "2026-09-04:what-i-learned-from-my-mom-1941-2026:49492796",
+    "2026-09-04:arc-prize:49555691",
+    "2026-09-04:robot-dexterity-still-seems-hard:49543191"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

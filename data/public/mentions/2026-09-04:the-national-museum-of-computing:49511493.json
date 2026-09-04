@@ -1,0 +1,23 @@
+{
+  "evidence": "The visitor praised the museum's broad collection of operational machines.",
+  "evidence_sources": [
+    {
+      "author": "plapsley",
+      "comment_id": "49547770",
+      "comment_url": "https://news.ycombinator.com/item?id=49511493#49547770",
+      "context": "first_hand_use",
+      "excerpt": "It was fantastic. They have a wide variety of working systems that you can play with, from home computers to mainframes, as well as Bombes and the Colossus (used to break the Lorenz cipher), and WITCH.",
+      "kind": "recommendation",
+      "parent_comment_id": "49511493"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49511493",
+  "id": "2026-09-04:the-national-museum-of-computing:49511493",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "the-national-museum-of-computing",
+  "rank": 6,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49511493",
+  "source_story_title": "The Computer Museum of America reclamation project"
+}

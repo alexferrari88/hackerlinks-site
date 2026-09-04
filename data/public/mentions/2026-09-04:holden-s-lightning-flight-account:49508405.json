@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter directed readers to the primary account beginning on page three.",
+  "evidence_sources": [
+    {
+      "author": "js2",
+      "comment_id": "49545183",
+      "comment_url": "https://news.ycombinator.com/item?id=49508405#49545183",
+      "excerpt": "I would say it's worth reading Holden's account of it directly, which starts on page 3 of this PDF:",
+      "kind": "recommendation",
+      "parent_comment_id": "49508405"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49508405",
+  "id": "2026-09-04:holden-s-lightning-flight-account:49508405",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "holden-s-lightning-flight-account",
+  "rank": 8,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49508405",
+  "source_story_title": "Holden's Lightning Flight"
+}

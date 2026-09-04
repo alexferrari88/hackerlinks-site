@@ -1,0 +1,23 @@
+{
+  "evidence": "The test completed a code-review session quickly, though it cost $1.60 and briefly hit rate limits.",
+  "evidence_sources": [
+    {
+      "author": "eli",
+      "comment_id": "49555741",
+      "comment_url": "https://news.ycombinator.com/item?id=49554520#49555741",
+      "context": "evaluated",
+      "excerpt": "The Cerebras session cost me $1.60 and took a total of 5.1 mins. I did get a few brief 429 rate limit errors in there.",
+      "kind": "recommendation",
+      "parent_comment_id": "49554520"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49554520",
+  "id": "2026-09-04:cerebras-inference:49554520",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "cerebras-inference",
+  "rank": 3,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49554520",
+  "source_story_title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s"
+}

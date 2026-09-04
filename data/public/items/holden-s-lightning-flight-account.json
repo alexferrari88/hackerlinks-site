@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "holden-s-lightning-flight-account",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:holden-s-lightning-flight-account:49508405",
+  "mention_ids": [
+    "2026-09-04:holden-s-lightning-flight-account:49508405"
+  ],
+  "name": "Holden's Lightning Flight account",
+  "slug": "holden-s-lightning-flight-account",
+  "summary": "The accidental pilot's own account of taking off in an English Electric Lightning.",
+  "thing_url": "https://web.archive.org/web/20210319185656if_/http://www.nzrafaaa.dx.am/Halton%20Wheel%20Issue%2021%20September%202013.pdf",
+  "times_seen": 1,
+  "why_included": "A commenter specifically recommended reading Holden's first-person account instead of a retelling."
+}

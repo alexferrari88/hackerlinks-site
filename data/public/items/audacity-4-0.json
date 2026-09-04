@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "audacity-4-0",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:audacity-4-0:49548395",
+  "mention_ids": [
+    "2026-09-04:audacity-4-0:49548395"
+  ],
+  "name": "Audacity 4.0",
+  "slug": "audacity-4-0",
+  "summary": "A major update to the open-source audio editor for recording and destructive editing.",
+  "thing_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+  "times_seen": 1,
+  "why_included": "A returning user called the new release a massive improvement and praised its low-friction voice recording."
+}

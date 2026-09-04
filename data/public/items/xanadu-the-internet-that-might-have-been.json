@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "xanadu-the-internet-that-might-have-been",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:xanadu-the-internet-that-might-have-been:49526298",
+  "mention_ids": [
+    "2026-09-04:xanadu-the-internet-that-might-have-been:49526298"
+  ],
+  "name": "Xanadu: The Internet That Might Have Been",
+  "slug": "xanadu-the-internet-that-might-have-been",
+  "summary": "Gwern's critical history of Project Xanadu and its unrealized hypertext design.",
+  "thing_url": "https://gwern.net/xanadu",
+  "times_seen": 1,
+  "why_included": "A commenter called it a compelling counterargument to the usual sympathetic Xanadu narrative."
+}

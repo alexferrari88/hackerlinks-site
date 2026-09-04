@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter positively recommended the game for story-driven play.",
+  "evidence_sources": [
+    {
+      "author": "pavel_lishin",
+      "comment_id": "49551571",
+      "comment_url": "https://news.ycombinator.com/item?id=49550698#49551571",
+      "context": "evaluated",
+      "excerpt": "Thousand Year Old Vampire, a pretty terrific journaling game:",
+      "kind": "recommendation",
+      "parent_comment_id": "49550698"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49550698",
+  "id": "2026-09-04:thousand-year-old-vampire:49550698",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "thousand-year-old-vampire",
+  "rank": 4,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49550698",
+  "source_story_title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived"
+}

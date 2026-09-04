@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter encouraged readers to explore ARC Prize and praised its score history.",
+  "evidence_sources": [
+    {
+      "author": "jrflo",
+      "comment_id": "49557034",
+      "comment_url": "https://news.ycombinator.com/item?id=49555691#49557034",
+      "excerpt": "You should read more on the ARC prize, it actually has a pretty long history.",
+      "kind": "recommendation",
+      "parent_comment_id": "49556562"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49555691",
+  "id": "2026-09-04:arc-prize:49555691",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "arc-prize",
+  "rank": 11,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49555691",
+  "source_story_title": "OpenAI's GPT-6 Astra on ARC-AGI-3"
+}

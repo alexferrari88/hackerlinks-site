@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "forward-email",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:forward-email:49550772",
+  "mention_ids": [
+    "2026-09-04:forward-email:49550772"
+  ],
+  "name": "Forward Email",
+  "slug": "forward-email",
+  "summary": "A privacy-focused email forwarding and hosted-mail service for custom domains.",
+  "thing_url": "https://forwardemail.net/",
+  "times_seen": 1,
+  "why_included": "A custom-domain owner uses it for family addresses and praised its privacy policy."
+}

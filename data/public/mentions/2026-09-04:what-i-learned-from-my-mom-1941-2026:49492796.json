@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter strongly endorsed the tribute as one of their favorite recent reads.",
+  "evidence_sources": [
+    {
+      "author": "pelcg",
+      "comment_id": "49548603",
+      "comment_url": "https://news.ycombinator.com/item?id=49492796#49548603",
+      "context": "evaluated",
+      "excerpt": "This is a great article and this woman is an inspiration to many. Likely one of my favourite reads here.",
+      "kind": "recommendation",
+      "parent_comment_id": "49492796"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49492796",
+  "id": "2026-09-04:what-i-learned-from-my-mom-1941-2026:49492796",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "what-i-learned-from-my-mom-1941-2026",
+  "rank": 10,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49492796",
+  "source_story_title": "What I learned from my mom (1941-2026)"
+}

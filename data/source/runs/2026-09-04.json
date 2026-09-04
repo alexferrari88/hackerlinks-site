@@ -1,0 +1,274 @@
+{
+  "version": 2,
+  "run_date": "2026-09-04",
+  "generated_at": "2026-09-04T05:17:41+02:00",
+  "summary": "Twelve comment-endorsed tools, services, games, museums, articles, and learning resources from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-04.json",
+    "sha256": "be4ec7c838b319bb555325965a192f1dbed0712bd7eb74fb8fa8560e948109e1",
+    "bytes": 2950245,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5110,
+    "fetched_item_count": 5140,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Audacity 4.0",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "hn_url": "https://news.ycombinator.com/item?id=49548395",
+      "source_story_title": "Audacity 4.0",
+      "summary": "A major update to the open-source audio editor for recording and destructive editing.",
+      "why_included": "A returning user called the new release a massive improvement and praised its low-friction voice recording.",
+      "evidence": "The commenter uses Audacity for voice clips because it is less hassle than their main audio tool.",
+      "evidence_sources": [
+        {
+          "comment_id": "49549562",
+          "comment_url": "https://news.ycombinator.com/item?id=49548395#49549562",
+          "author": "ch_fr",
+          "excerpt": "I have used old audacity and musescore-owned audacity, and I have to say it's a massive glow-up.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49548395"
+        }
+      ]
+    },
+    {
+      "name": "Forward Email",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://forwardemail.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49550772",
+      "source_story_title": ".name Termination",
+      "summary": "A privacy-focused email forwarding and hosted-mail service for custom domains.",
+      "why_included": "A custom-domain owner uses it for family addresses and praised its privacy policy.",
+      "evidence": "The commenter uses Forward Email for family mail addresses and considers its privacy policy reasonable.",
+      "evidence_sources": [
+        {
+          "comment_id": "49553229",
+          "comment_url": "https://news.ycombinator.com/item?id=49550772#49553229",
+          "author": "decimalenough",
+          "excerpt": "I use forwardemail.net and they have a pretty reasonable privacy policy:",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49553062"
+        }
+      ]
+    },
+    {
+      "name": "Cerebras Inference",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.cerebras.ai/inference",
+      "hn_url": "https://news.ycombinator.com/item?id=49554520",
+      "source_story_title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "summary": "A cloud inference service optimized for unusually fast large-language-model responses.",
+      "why_included": "A first-hand coding test found the speed premium worthwhile for a short session.",
+      "evidence": "The test completed a code-review session quickly, though it cost $1.60 and briefly hit rate limits.",
+      "evidence_sources": [
+        {
+          "comment_id": "49555741",
+          "comment_url": "https://news.ycombinator.com/item?id=49554520#49555741",
+          "author": "eli",
+          "excerpt": "The Cerebras session cost me $1.60 and took a total of 5.1 mins. I did get a few brief 429 rate limit errors in there.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49554520"
+        }
+      ]
+    },
+    {
+      "name": "Thousand Year Old Vampire",
+      "category": "Games & Experiments",
+      "thing_url": "https://thousandyearoldvampire.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49550698",
+      "source_story_title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "summary": "A solo journaling role-playing game about memory, loss, and an immortal life.",
+      "why_included": "A commenter called it terrific and suggested pairing it with historical-life generation.",
+      "evidence": "The commenter positively recommended the game for story-driven play.",
+      "evidence_sources": [
+        {
+          "comment_id": "49551571",
+          "comment_url": "https://news.ycombinator.com/item?id=49550698#49551571",
+          "author": "pavel_lishin",
+          "excerpt": "Thousand Year Old Vampire, a pretty terrific journaling game:",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49550698"
+        }
+      ]
+    },
+    {
+      "name": "Unusual Suspects",
+      "category": "Games & Experiments",
+      "thing_url": "https://neal.fun/unusual-suspects/",
+      "hn_url": "https://news.ycombinator.com/item?id=49538069",
+      "source_story_title": "Unusual Suspects",
+      "summary": "A browser drawing game that compares your suspect sketch with the revealed person.",
+      "why_included": "A player loved the reveal and found the sketch comparison hilarious.",
+      "evidence": "The commenter played the game and praised its funny reveal mechanic.",
+      "evidence_sources": [
+        {
+          "comment_id": "49555835",
+          "comment_url": "https://news.ycombinator.com/item?id=49538069#49555835",
+          "author": "neverkn0wsb357",
+          "excerpt": "This game is hilarious. I love the reveal, how my poor, horribly drawn, mobile touch-based drawing compares to the actual person; the juxtaposition was really funny.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49538069"
+        }
+      ]
+    },
+    {
+      "name": "The National Museum of Computing",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.tnmoc.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49511493",
+      "source_story_title": "The Computer Museum of America reclamation project",
+      "summary": "A Bletchley Park museum with working computers, mainframes, Bombe replicas, and Colossus.",
+      "why_included": "A recent visitor called it fantastic and highlighted its playable working systems.",
+      "evidence": "The visitor praised the museum's broad collection of operational machines.",
+      "evidence_sources": [
+        {
+          "comment_id": "49547770",
+          "comment_url": "https://news.ycombinator.com/item?id=49511493#49547770",
+          "author": "plapsley",
+          "excerpt": "It was fantastic. They have a wide variety of working systems that you can play with, from home computers to mainframes, as well as Bombes and the Colossus (used to break the Lorenz cipher), and WITCH.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49511493"
+        }
+      ]
+    },
+    {
+      "name": "HomeComputerMuseum",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.homecomputermuseum.nl/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=49511493",
+      "source_story_title": "The Computer Museum of America reclamation project",
+      "summary": "A Dutch hands-on computer museum where visitors can use the collection.",
+      "why_included": "A commenter recommended it as a great experience for children and adults.",
+      "evidence": "The commenter praised its large, usable collection and broad family appeal.",
+      "evidence_sources": [
+        {
+          "comment_id": "49546782",
+          "comment_url": "https://news.ycombinator.com/item?id=49511493#49546782",
+          "author": "decide1000",
+          "excerpt": "The computers can be used by anyone. Really a great experience for kids these days and adults.",
+          "kind": "recommendation",
+          "parent_comment_id": "49511493"
+        }
+      ]
+    },
+    {
+      "name": "Holden's Lightning Flight account",
+      "category": "Watch & Learn",
+      "thing_url": "https://web.archive.org/web/20210319185656if_/http://www.nzrafaaa.dx.am/Halton%20Wheel%20Issue%2021%20September%202013.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49508405",
+      "source_story_title": "Holden's Lightning Flight",
+      "summary": "The accidental pilot's own account of taking off in an English Electric Lightning.",
+      "why_included": "A commenter specifically recommended reading Holden's first-person account instead of a retelling.",
+      "evidence": "The commenter directed readers to the primary account beginning on page three.",
+      "evidence_sources": [
+        {
+          "comment_id": "49545183",
+          "comment_url": "https://news.ycombinator.com/item?id=49508405#49545183",
+          "author": "js2",
+          "excerpt": "I would say it's worth reading Holden's account of it directly, which starts on page 3 of this PDF:",
+          "kind": "recommendation",
+          "parent_comment_id": "49508405"
+        }
+      ]
+    },
+    {
+      "name": "Xanadu: The Internet That Might Have Been",
+      "category": "Watch & Learn",
+      "thing_url": "https://gwern.net/xanadu",
+      "hn_url": "https://news.ycombinator.com/item?id=49526298",
+      "source_story_title": "Xanadu was waiting for agents",
+      "summary": "Gwern's critical history of Project Xanadu and its unrealized hypertext design.",
+      "why_included": "A commenter called it a compelling counterargument to the usual sympathetic Xanadu narrative.",
+      "evidence": "The commenter endorsed Gwern's argument that Xanadu's omitted features were fundamentally unstable or unnecessary.",
+      "evidence_sources": [
+        {
+          "comment_id": "49557654",
+          "comment_url": "https://news.ycombinator.com/item?id=49526298#49557654",
+          "author": "ameliaquining",
+          "excerpt": "In my view, Gwern makes a compelling counterargument: Xanadu was a fundamentally bad idea.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49526298"
+        }
+      ]
+    },
+    {
+      "name": "What I learned from my mom (1941-2026)",
+      "category": "Watch & Learn",
+      "thing_url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=49492796",
+      "source_story_title": "What I learned from my mom (1941-2026)",
+      "summary": "A personal tribute distilling lessons from the author's late mother's life.",
+      "why_included": "A reader called it a favorite and praised both the article and its subject.",
+      "evidence": "The commenter strongly endorsed the tribute as one of their favorite recent reads.",
+      "evidence_sources": [
+        {
+          "comment_id": "49548603",
+          "comment_url": "https://news.ycombinator.com/item?id=49492796#49548603",
+          "author": "pelcg",
+          "excerpt": "This is a great article and this woman is an inspiration to many. Likely one of my favourite reads here.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49492796"
+        }
+      ]
+    },
+    {
+      "name": "ARC Prize",
+      "category": "Watch & Learn",
+      "thing_url": "https://arcprize.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49555691",
+      "source_story_title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "summary": "An open benchmark and competition tracking progress on abstract reasoning tasks.",
+      "why_included": "A commenter recommended its multi-generation score history as an impressive progress record.",
+      "evidence": "The commenter encouraged readers to explore ARC Prize and praised its score history.",
+      "evidence_sources": [
+        {
+          "comment_id": "49557034",
+          "comment_url": "https://news.ycombinator.com/item?id=49555691#49557034",
+          "author": "jrflo",
+          "excerpt": "You should read more on the ARC prize, it actually has a pretty long history.",
+          "kind": "recommendation",
+          "parent_comment_id": "49556562"
+        }
+      ]
+    },
+    {
+      "name": "Robot Dexterity Still Seems Hard",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.construction-physics.com/p/robot-dexterity-still-seems-hard",
+      "hn_url": "https://news.ycombinator.com/item?id=49543191",
+      "source_story_title": "Reasons robotics is hard",
+      "summary": "An analysis of why dexterous physical automation remains commercially difficult.",
+      "why_included": "A commenter explicitly included it among recent robotics resources they found useful.",
+      "evidence": "The commenter recommended the article as a useful related read with a similar conclusion.",
+      "evidence_sources": [
+        {
+          "comment_id": "49545024",
+          "comment_url": "https://news.ycombinator.com/item?id=49543191#49545024",
+          "author": "akurilin",
+          "excerpt": "Couple of related reads/watches to this I found useful recently, with a similar conclusion:",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49543191"
+        }
+      ]
+    }
+  ]
+}

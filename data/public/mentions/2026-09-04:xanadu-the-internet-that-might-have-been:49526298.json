@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter endorsed Gwern's argument that Xanadu's omitted features were fundamentally unstable or unnecessary.",
+  "evidence_sources": [
+    {
+      "author": "ameliaquining",
+      "comment_id": "49557654",
+      "comment_url": "https://news.ycombinator.com/item?id=49526298#49557654",
+      "context": "evaluated",
+      "excerpt": "In my view, Gwern makes a compelling counterargument: Xanadu was a fundamentally bad idea.",
+      "kind": "recommendation",
+      "parent_comment_id": "49526298"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49526298",
+  "id": "2026-09-04:xanadu-the-internet-that-might-have-been:49526298",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "xanadu-the-internet-that-might-have-been",
+  "rank": 9,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49526298",
+  "source_story_title": "Xanadu was waiting for agents"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "arc-prize",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:arc-prize:49555691",
+  "mention_ids": [
+    "2026-09-04:arc-prize:49555691"
+  ],
+  "name": "ARC Prize",
+  "slug": "arc-prize",
+  "summary": "An open benchmark and competition tracking progress on abstract reasoning tasks.",
+  "thing_url": "https://arcprize.org/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended its multi-generation score history as an impressive progress record."
+}

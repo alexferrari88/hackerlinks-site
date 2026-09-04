@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "unusual-suspects",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:unusual-suspects:49538069",
+  "mention_ids": [
+    "2026-09-04:unusual-suspects:49538069"
+  ],
+  "name": "Unusual Suspects",
+  "slug": "unusual-suspects",
+  "summary": "A browser drawing game that compares your suspect sketch with the revealed person.",
+  "thing_url": "https://neal.fun/unusual-suspects/",
+  "times_seen": 1,
+  "why_included": "A player loved the reveal and found the sketch comparison hilarious."
+}

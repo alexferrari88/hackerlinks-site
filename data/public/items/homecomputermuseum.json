@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "homecomputermuseum",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:homecomputermuseum:49511493",
+  "mention_ids": [
+    "2026-09-04:homecomputermuseum:49511493"
+  ],
+  "name": "HomeComputerMuseum",
+  "slug": "homecomputermuseum",
+  "summary": "A Dutch hands-on computer museum where visitors can use the collection.",
+  "thing_url": "https://www.homecomputermuseum.nl/en/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a great experience for children and adults."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "cerebras-inference",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:cerebras-inference:49554520",
+  "mention_ids": [
+    "2026-09-04:cerebras-inference:49554520"
+  ],
+  "name": "Cerebras Inference",
+  "slug": "cerebras-inference",
+  "summary": "A cloud inference service optimized for unusually fast large-language-model responses.",
+  "thing_url": "https://www.cerebras.ai/inference",
+  "times_seen": 1,
+  "why_included": "A first-hand coding test found the speed premium worthwhile for a short session."
+}

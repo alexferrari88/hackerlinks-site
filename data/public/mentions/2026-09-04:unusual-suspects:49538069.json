@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter played the game and praised its funny reveal mechanic.",
+  "evidence_sources": [
+    {
+      "author": "neverkn0wsb357",
+      "comment_id": "49555835",
+      "comment_url": "https://news.ycombinator.com/item?id=49538069#49555835",
+      "context": "first_hand_use",
+      "excerpt": "This game is hilarious. I love the reveal, how my poor, horribly drawn, mobile touch-based drawing compares to the actual person; the juxtaposition was really funny.",
+      "kind": "recommendation",
+      "parent_comment_id": "49538069"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49538069",
+  "id": "2026-09-04:unusual-suspects:49538069",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "unusual-suspects",
+  "rank": 5,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49538069",
+  "source_story_title": "Unusual Suspects"
+}

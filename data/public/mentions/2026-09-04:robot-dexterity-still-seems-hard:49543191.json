@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended the article as a useful related read with a similar conclusion.",
+  "evidence_sources": [
+    {
+      "author": "akurilin",
+      "comment_id": "49545024",
+      "comment_url": "https://news.ycombinator.com/item?id=49543191#49545024",
+      "context": "evaluated",
+      "excerpt": "Couple of related reads/watches to this I found useful recently, with a similar conclusion:",
+      "kind": "recommendation",
+      "parent_comment_id": "49543191"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49543191",
+  "id": "2026-09-04:robot-dexterity-still-seems-hard:49543191",
+  "is_repeat": false,
+  "issue_id": "2026-09-04",
+  "item_id": "robot-dexterity-still-seems-hard",
+  "rank": 12,
+  "seen_at": "2026-09-04T05:17:41+02:00",
+  "source_story_id": "49543191",
+  "source_story_title": "Reasons robotics is hard"
+}

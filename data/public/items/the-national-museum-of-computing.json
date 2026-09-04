@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-04T05:17:41+02:00",
+  "id": "the-national-museum-of-computing",
+  "last_seen_at": "2026-09-04T05:17:41+02:00",
+  "latest_mention_id": "2026-09-04:the-national-museum-of-computing:49511493",
+  "mention_ids": [
+    "2026-09-04:the-national-museum-of-computing:49511493"
+  ],
+  "name": "The National Museum of Computing",
+  "slug": "the-national-museum-of-computing",
+  "summary": "A Bletchley Park museum with working computers, mainframes, Bombe replicas, and Colossus.",
+  "thing_url": "https://www.tnmoc.org/",
+  "times_seen": 1,
+  "why_included": "A recent visitor called it fantastic and highlighted its playable working systems."
+}
