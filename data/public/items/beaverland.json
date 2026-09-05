@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "beaverland",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:beaverland:49552572",
+  "mention_ids": [
+    "2026-09-05:beaverland:49552572"
+  ],
+  "name": "Beaverland",
+  "slug": "beaverland",
+  "summary": "Leila Philip's narrative-science book about beavers reshaping North American landscapes.",
+  "thing_url": "https://www.leilaphilip.com/beaverland",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended it as excellent narrative science writing."
+}

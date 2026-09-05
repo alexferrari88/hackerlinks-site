@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "pmtiles",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:pmtiles:49567437",
+  "mention_ids": [
+    "2026-09-05:pmtiles:49567437"
+  ],
+  "name": "PMTiles",
+  "slug": "pmtiles",
+  "summary": "A single-file archive format for serving tiled maps from static object storage.",
+  "thing_url": "https://github.com/protomaps/PMTiles",
+  "times_seen": 1,
+  "why_included": "A production user praised its efficiency and reported sharply lower S3 request costs."
+}

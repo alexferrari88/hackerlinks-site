@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "ladybird",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:ladybird:49570669",
+  "mention_ids": [
+    "2026-09-05:ladybird:49570669"
+  ],
+  "name": "Ladybird",
+  "slug": "ladybird",
+  "summary": "An independent open-source browser built around its own standards-based web engine.",
+  "thing_url": "https://ladybird.org/",
+  "times_seen": 1,
+  "why_included": "A source-build tester found it promising and said it rendered personal sites perfectly."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "rsbuild",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:rsbuild:49567873",
+  "mention_ids": [
+    "2026-09-05:rsbuild:49567873"
+  ],
+  "name": "Rsbuild",
+  "slug": "rsbuild",
+  "summary": "A Rust-powered web build tool built on Rspack for modern JavaScript projects.",
+  "thing_url": "https://rsbuild.rs/",
+  "times_seen": 1,
+  "why_included": "A workplace migration reportedly cut full builds from one minute to under one second."
+}

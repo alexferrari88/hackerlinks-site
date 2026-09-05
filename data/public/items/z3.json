@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "z3",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:z3:49562657",
+  "mention_ids": [
+    "2026-09-05:z3:49562657"
+  ],
+  "name": "Z3",
+  "slug": "z3",
+  "summary": "Microsoft's SMT solver for symbolic reasoning, constraint solving, and software verification.",
+  "thing_url": "https://github.com/Z3Prover/z3",
+  "times_seen": 1,
+  "why_included": "A puzzle solver loved Z3 after using it on a reverse-engineering challenge."
+}

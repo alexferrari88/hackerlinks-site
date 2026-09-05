@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter directly recommended the complete Death of a Euphemism series.",
+  "evidence_sources": [
+    {
+      "author": "Terr_",
+      "comment_id": "49571493",
+      "comment_url": "https://news.ycombinator.com/item?id=49570772#49571493",
+      "context": "evaluated",
+      "excerpt": "I highly recommend the whole series, as it has renewed relevance today.",
+      "kind": "recommendation",
+      "parent_comment_id": "49571187"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49570772",
+  "id": "2026-09-05:death-of-a-euphemism:49570772",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "death-of-a-euphemism",
+  "rank": 11,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49570772",
+  "source_story_title": "Record-High 89% in U.S. Say Government Corruption Widespread"
+}

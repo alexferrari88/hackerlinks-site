@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses PMTiles in production and said it reduced project S3 PUT costs by roughly 90%.",
+  "evidence_sources": [
+    {
+      "author": "steve_adams_86",
+      "comment_id": "49572367",
+      "comment_url": "https://news.ycombinator.com/item?id=49567437#49572367",
+      "context": "production_use",
+      "excerpt": "We use it on oceanconnect.ca and in my opinion it\u2019s pretty awesome. Very efficient to store and retrieve, and cut our S3 PUT request costs by something like 90% across the project.",
+      "kind": "recommendation",
+      "parent_comment_id": "49569605"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49567437",
+  "id": "2026-09-05:pmtiles:49567437",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "pmtiles",
+  "rank": 5,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49567437",
+  "source_story_title": "Show HN: Open-Source eInk Bike Computer"
+}

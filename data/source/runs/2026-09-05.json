@@ -1,0 +1,255 @@
+{
+  "version": 2,
+  "run_date": "2026-09-05",
+  "generated_at": "2026-09-05T05:17:43+02:00",
+  "summary": "Eleven comment-endorsed developer tools, privacy services, and learning resources from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-05.json",
+    "sha256": "6a4f0d051bd7452216b689b8aeaffd93397599c15ca3558d5d306ce453a92c12",
+    "bytes": 2958919,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4913,
+    "fetched_item_count": 4943,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Z3",
+      "category": "Programming & Verification",
+      "thing_url": "https://github.com/Z3Prover/z3",
+      "hn_url": "https://news.ycombinator.com/item?id=49562657",
+      "source_story_title": "Solving the Jane Street reverse engineering challenge",
+      "summary": "Microsoft's SMT solver for symbolic reasoning, constraint solving, and software verification.",
+      "why_included": "A puzzle solver loved Z3 after using it on a reverse-engineering challenge.",
+      "evidence": "The commenter praised Z3 and described first-hand use on a prior Jane Street puzzle.",
+      "evidence_sources": [
+        {
+          "comment_id": "49566010",
+          "comment_url": "https://news.ycombinator.com/item?id=49562657#49566010",
+          "author": "mdritch",
+          "excerpt": "I love z3. I used it for the first time for Jane Street's puzzle last year involving a hashing alg disguised as a neural network.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49562657"
+        }
+      ]
+    },
+    {
+      "name": "KLayout",
+      "category": "Programming & Verification",
+      "thing_url": "https://www.klayout.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49562657",
+      "source_story_title": "Solving the Jane Street reverse engineering challenge",
+      "summary": "An open-source chip-layout viewer and editor with a scriptable Python API.",
+      "why_included": "A challenge solver found its Python API pleasant for GDS parsing and netlist extraction.",
+      "evidence": "The commenter used KLayout's Python API to parse GDS data and extract a netlist.",
+      "evidence_sources": [
+        {
+          "comment_id": "49563165",
+          "comment_url": "https://news.ycombinator.com/item?id=49562657#49563165",
+          "author": "BalistaCRATZ",
+          "excerpt": "I ended up using the KLayout Python API to parse the GDS and extract the netlist, which was actually quite nice to use.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49562657"
+        }
+      ]
+    },
+    {
+      "name": "MCP-NixOS",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/utensils/mcp-nixos",
+      "hn_url": "https://news.ycombinator.com/item?id=49548600",
+      "source_story_title": "Ask HN: Who is using MCP in production?",
+      "summary": "An MCP server that gives agents a unified endpoint for Nix resources.",
+      "why_included": "A production MCP user called it well designed, useful, and more efficient than web search.",
+      "evidence": "The commenter endorsed MCP-NixOS for consolidating Nix resources with tighter source control.",
+      "evidence_sources": [
+        {
+          "comment_id": "49559767",
+          "comment_url": "https://news.ycombinator.com/item?id=49548600#49559767",
+          "author": "ma2kx",
+          "excerpt": "I could name the nixos mcp. Its useful because it bundles all the nix resources to one endpoint which is more efficient than web search and gives you better control over the sources.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49548600"
+        }
+      ]
+    },
+    {
+      "name": "fff",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dmtrKovalenko/fff",
+      "hn_url": "https://news.ycombinator.com/item?id=49548600",
+      "source_story_title": "Ask HN: Who is using MCP in production?",
+      "summary": "A fast file-search SDK and MCP server for coding agents and editors.",
+      "why_included": "An MCP user specifically chose it for faster file reads.",
+      "evidence": "The commenter reported using fff for its file-reading performance improvements.",
+      "evidence_sources": [
+        {
+          "comment_id": "49559646",
+          "comment_url": "https://news.ycombinator.com/item?id=49548600#49559646",
+          "author": "Motheki",
+          "excerpt": "I use fff [1] For the performance improvements when reading files.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49548600"
+        }
+      ]
+    },
+    {
+      "name": "PMTiles",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/protomaps/PMTiles",
+      "hn_url": "https://news.ycombinator.com/item?id=49567437",
+      "source_story_title": "Show HN: Open-Source eInk Bike Computer",
+      "summary": "A single-file archive format for serving tiled maps from static object storage.",
+      "why_included": "A production user praised its efficiency and reported sharply lower S3 request costs.",
+      "evidence": "The commenter uses PMTiles in production and said it reduced project S3 PUT costs by roughly 90%.",
+      "evidence_sources": [
+        {
+          "comment_id": "49572367",
+          "comment_url": "https://news.ycombinator.com/item?id=49567437#49572367",
+          "author": "steve_adams_86",
+          "excerpt": "We use it on oceanconnect.ca and in my opinion it’s pretty awesome. Very efficient to store and retrieve, and cut our S3 PUT request costs by something like 90% across the project.",
+          "kind": "recommendation",
+          "context": "production_use",
+          "parent_comment_id": "49569605"
+        }
+      ]
+    },
+    {
+      "name": "Rsbuild",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://rsbuild.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=49567873",
+      "source_story_title": "The Rust React Compiler is now native in Vite",
+      "summary": "A Rust-powered web build tool built on Rspack for modern JavaScript projects.",
+      "why_included": "A workplace migration reportedly cut full builds from one minute to under one second.",
+      "evidence": "The commenter strongly praised Rsbuild after a substantial first-hand build-time improvement.",
+      "evidence_sources": [
+        {
+          "comment_id": "49570473",
+          "comment_url": "https://news.ycombinator.com/item?id=49567873#49570473",
+          "author": "Waterluvian",
+          "excerpt": "It’s just the best thing ever. Compiling at work took a minute for full builds with babel, and with rsbuild it now takes about 0.9 seconds.",
+          "kind": "recommendation",
+          "context": "production_use",
+          "parent_comment_id": "49568872"
+        }
+      ]
+    },
+    {
+      "name": "AdGuard Home",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/AdguardTeam/AdGuardHome",
+      "hn_url": "https://news.ycombinator.com/item?id=49568579",
+      "source_story_title": "Shutting down our public encrypted DNS",
+      "summary": "A self-hosted DNS server for network-wide ad and tracker blocking.",
+      "why_included": "A router user called it rock-solid and praised its IPv6 support over Pi-hole.",
+      "evidence": "The commenter runs AdGuard Home on a router and endorsed its reliability and features.",
+      "evidence_sources": [
+        {
+          "comment_id": "49570261",
+          "comment_url": "https://news.ycombinator.com/item?id=49568579#49570261",
+          "author": "ripdog",
+          "excerpt": "I run Adguard Home on my router. Unlike the main Adguard product, Adguard Home is fully FOSS. It's been rock-solid for me, and improves on pi-hole in various ways - like full IPv6 support.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49569124"
+        }
+      ]
+    },
+    {
+      "name": "NextDNS",
+      "category": "Privacy & Networking",
+      "thing_url": "https://nextdns.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49568579",
+      "source_story_title": "Shutting down our public encrypted DNS",
+      "summary": "A configurable managed DNS service with per-device filtering profiles and overrides.",
+      "why_included": "A long-time user highly recommended its flexible profiles and effective ad blocking.",
+      "evidence": "The commenter considered NextDNS worth paying for because of its profiles, overrides, and blocking performance.",
+      "evidence_sources": [
+        {
+          "comment_id": "49572722",
+          "comment_url": "https://news.ycombinator.com/item?id=49568579#49572722",
+          "author": "windexh8er",
+          "excerpt": "I've been using NextDNS [0] for a long time. It's worth the price because you can set up all kinds of different blocking profiles and have different ones on different devices",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49571733"
+        }
+      ]
+    },
+    {
+      "name": "Ladybird",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://ladybird.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49570669",
+      "source_story_title": "Actively exploited sandbox RCE in all Chromium versions",
+      "summary": "An independent open-source browser built around its own standards-based web engine.",
+      "why_included": "A source-build tester found it promising and said it rendered personal sites perfectly.",
+      "evidence": "The commenter built Ladybird from source and positively evaluated its rendering on their own sites.",
+      "evidence_sources": [
+        {
+          "comment_id": "49572577",
+          "comment_url": "https://news.ycombinator.com/item?id=49570669#49572577",
+          "author": "strenholme",
+          "excerpt": "Ladybird—another completely different web engine—is really promising. I spent five hours building it from source, having it take about 8 gigabytes of space, and it perfectly renders my own webpages and blogs.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49572239"
+        }
+      ]
+    },
+    {
+      "name": "Beaverland",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.leilaphilip.com/beaverland",
+      "hn_url": "https://news.ycombinator.com/item?id=49552572",
+      "source_story_title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "summary": "Leila Philip's narrative-science book about beavers reshaping North American landscapes.",
+      "why_included": "A commenter explicitly recommended it as excellent narrative science writing.",
+      "evidence": "The commenter recommended Beaverland and praised its science storytelling.",
+      "evidence_sources": [
+        {
+          "comment_id": "49559415",
+          "comment_url": "https://news.ycombinator.com/item?id=49552572#49559415",
+          "author": "culi",
+          "excerpt": "I'd recommend Leila Philip's Beaverland: How One Weird Rodent Made America. It's a great work of narrative science writing.",
+          "kind": "recommendation",
+          "parent_comment_id": "49559299"
+        }
+      ]
+    },
+    {
+      "name": "Death of a Euphemism",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=0dBJIkp7qIg",
+      "hn_url": "https://news.ycombinator.com/item?id=49570772",
+      "source_story_title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "summary": "A video essay series about political proposals shedding their language of reasonableness.",
+      "why_included": "A commenter highly recommended the whole series for its renewed relevance.",
+      "evidence": "The commenter directly recommended the complete Death of a Euphemism series.",
+      "evidence_sources": [
+        {
+          "comment_id": "49571493",
+          "comment_url": "https://news.ycombinator.com/item?id=49570772#49571493",
+          "author": "Terr_",
+          "excerpt": "I highly recommend the whole series, as it has renewed relevance today.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49571187"
+        }
+      ]
+    }
+  ]
+}

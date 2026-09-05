@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "mcp-nixos",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:mcp-nixos:49548600",
+  "mention_ids": [
+    "2026-09-05:mcp-nixos:49548600"
+  ],
+  "name": "MCP-NixOS",
+  "slug": "mcp-nixos",
+  "summary": "An MCP server that gives agents a unified endpoint for Nix resources.",
+  "thing_url": "https://github.com/utensils/mcp-nixos",
+  "times_seen": 1,
+  "why_included": "A production MCP user called it well designed, useful, and more efficient than web search."
+}

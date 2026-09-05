@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter endorsed MCP-NixOS for consolidating Nix resources with tighter source control.",
+  "evidence_sources": [
+    {
+      "author": "ma2kx",
+      "comment_id": "49559767",
+      "comment_url": "https://news.ycombinator.com/item?id=49548600#49559767",
+      "context": "first_hand_use",
+      "excerpt": "I could name the nixos mcp. Its useful because it bundles all the nix resources to one endpoint which is more efficient than web search and gives you better control over the sources.",
+      "kind": "recommendation",
+      "parent_comment_id": "49548600"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49548600",
+  "id": "2026-09-05:mcp-nixos:49548600",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "mcp-nixos",
+  "rank": 3,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49548600",
+  "source_story_title": "Ask HN: Who is using MCP in production?"
+}

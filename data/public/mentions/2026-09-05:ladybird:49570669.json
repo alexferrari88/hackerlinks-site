@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter built Ladybird from source and positively evaluated its rendering on their own sites.",
+  "evidence_sources": [
+    {
+      "author": "strenholme",
+      "comment_id": "49572577",
+      "comment_url": "https://news.ycombinator.com/item?id=49570669#49572577",
+      "context": "evaluated",
+      "excerpt": "Ladybird\u2014another completely different web engine\u2014is really promising. I spent five hours building it from source, having it take about 8 gigabytes of space, and it perfectly renders my own webpages and blogs.",
+      "kind": "recommendation",
+      "parent_comment_id": "49572239"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49570669",
+  "id": "2026-09-05:ladybird:49570669",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "ladybird",
+  "rank": 9,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49570669",
+  "source_story_title": "Actively exploited sandbox RCE in all Chromium versions"
+}

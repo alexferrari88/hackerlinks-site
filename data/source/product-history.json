@@ -8401,6 +8401,72 @@
       "first_reported_at": "2026-09-04T05:17:41+02:00",
       "last_reported_at": "2026-09-04T05:17:41+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Z3",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "KLayout",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MCP-NixOS",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "fff",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PMTiles",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Rsbuild",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AdGuard Home",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "NextDNS",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ladybird",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Beaverland",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Death of a Euphemism",
+      "first_reported_at": "2026-09-05T05:17:43+02:00",
+      "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
     }
   ]
 }

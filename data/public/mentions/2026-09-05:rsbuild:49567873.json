@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter strongly praised Rsbuild after a substantial first-hand build-time improvement.",
+  "evidence_sources": [
+    {
+      "author": "Waterluvian",
+      "comment_id": "49570473",
+      "comment_url": "https://news.ycombinator.com/item?id=49567873#49570473",
+      "context": "production_use",
+      "excerpt": "It\u2019s just the best thing ever. Compiling at work took a minute for full builds with babel, and with rsbuild it now takes about 0.9 seconds.",
+      "kind": "recommendation",
+      "parent_comment_id": "49568872"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49567873",
+  "id": "2026-09-05:rsbuild:49567873",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "rsbuild",
+  "rank": 6,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49567873",
+  "source_story_title": "The Rust React Compiler is now native in Vite"
+}

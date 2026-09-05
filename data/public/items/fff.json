@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "fff",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:fff:49548600",
+  "mention_ids": [
+    "2026-09-05:fff:49548600"
+  ],
+  "name": "fff",
+  "slug": "fff",
+  "summary": "A fast file-search SDK and MCP server for coding agents and editors.",
+  "thing_url": "https://github.com/dmtrKovalenko/fff",
+  "times_seen": 1,
+  "why_included": "An MCP user specifically chose it for faster file reads."
+}

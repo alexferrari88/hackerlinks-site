@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used KLayout's Python API to parse GDS data and extract a netlist.",
+  "evidence_sources": [
+    {
+      "author": "BalistaCRATZ",
+      "comment_id": "49563165",
+      "comment_url": "https://news.ycombinator.com/item?id=49562657#49563165",
+      "context": "first_hand_use",
+      "excerpt": "I ended up using the KLayout Python API to parse the GDS and extract the netlist, which was actually quite nice to use.",
+      "kind": "recommendation",
+      "parent_comment_id": "49562657"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49562657",
+  "id": "2026-09-05:klayout:49562657",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "klayout",
+  "rank": 2,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49562657",
+  "source_story_title": "Solving the Jane Street reverse engineering challenge"
+}

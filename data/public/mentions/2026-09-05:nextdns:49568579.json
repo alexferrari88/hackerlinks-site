@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter considered NextDNS worth paying for because of its profiles, overrides, and blocking performance.",
+  "evidence_sources": [
+    {
+      "author": "windexh8er",
+      "comment_id": "49572722",
+      "comment_url": "https://news.ycombinator.com/item?id=49568579#49572722",
+      "context": "first_hand_use",
+      "excerpt": "I've been using NextDNS [0] for a long time. It's worth the price because you can set up all kinds of different blocking profiles and have different ones on different devices",
+      "kind": "recommendation",
+      "parent_comment_id": "49571733"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49568579",
+  "id": "2026-09-05:nextdns:49568579",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "nextdns",
+  "rank": 8,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49568579",
+  "source_story_title": "Shutting down our public encrypted DNS"
+}

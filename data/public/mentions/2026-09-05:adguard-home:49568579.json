@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs AdGuard Home on a router and endorsed its reliability and features.",
+  "evidence_sources": [
+    {
+      "author": "ripdog",
+      "comment_id": "49570261",
+      "comment_url": "https://news.ycombinator.com/item?id=49568579#49570261",
+      "context": "first_hand_use",
+      "excerpt": "I run Adguard Home on my router. Unlike the main Adguard product, Adguard Home is fully FOSS. It's been rock-solid for me, and improves on pi-hole in various ways - like full IPv6 support.",
+      "kind": "recommendation",
+      "parent_comment_id": "49569124"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49568579",
+  "id": "2026-09-05:adguard-home:49568579",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "adguard-home",
+  "rank": 7,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49568579",
+  "source_story_title": "Shutting down our public encrypted DNS"
+}

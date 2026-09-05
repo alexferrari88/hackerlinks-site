@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "adguard-home",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:adguard-home:49568579",
+  "mention_ids": [
+    "2026-09-05:adguard-home:49568579"
+  ],
+  "name": "AdGuard Home",
+  "slug": "adguard-home",
+  "summary": "A self-hosted DNS server for network-wide ad and tracker blocking.",
+  "thing_url": "https://github.com/AdguardTeam/AdGuardHome",
+  "times_seen": 1,
+  "why_included": "A router user called it rock-solid and praised its IPv6 support over Pi-hole."
+}

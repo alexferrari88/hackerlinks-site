@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Z3 and described first-hand use on a prior Jane Street puzzle.",
+  "evidence_sources": [
+    {
+      "author": "mdritch",
+      "comment_id": "49566010",
+      "comment_url": "https://news.ycombinator.com/item?id=49562657#49566010",
+      "context": "first_hand_use",
+      "excerpt": "I love z3. I used it for the first time for Jane Street's puzzle last year involving a hashing alg disguised as a neural network.",
+      "kind": "recommendation",
+      "parent_comment_id": "49562657"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49562657",
+  "id": "2026-09-05:z3:49562657",
+  "is_repeat": false,
+  "issue_id": "2026-09-05",
+  "item_id": "z3",
+  "rank": 1,
+  "seen_at": "2026-09-05T05:17:43+02:00",
+  "source_story_id": "49562657",
+  "source_story_title": "Solving the Jane Street reverse engineering challenge"
+}

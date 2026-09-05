@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-05T05:17:43+02:00",
+  "id": "nextdns",
+  "last_seen_at": "2026-09-05T05:17:43+02:00",
+  "latest_mention_id": "2026-09-05:nextdns:49568579",
+  "mention_ids": [
+    "2026-09-05:nextdns:49568579"
+  ],
+  "name": "NextDNS",
+  "slug": "nextdns",
+  "summary": "A configurable managed DNS service with per-device filtering profiles and overrides.",
+  "thing_url": "https://nextdns.io/",
+  "times_seen": 1,
+  "why_included": "A long-time user highly recommended its flexible profiles and effective ad blocking."
+}
