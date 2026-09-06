@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter suggested the novel and described its memory-erasing premise.",
+  "evidence_sources": [
+    {
+      "author": "satvikpendem",
+      "comment_id": "49582952",
+      "comment_url": "https://news.ycombinator.com/item?id=49580164#49582952",
+      "excerpt": "Speaking of memetics and favorite books, check out There Is No Antimemetics Division by qntm",
+      "kind": "recommendation",
+      "parent_comment_id": "49580929"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49580164",
+  "id": "2026-09-06:there-is-no-antimemetics-division:49580164",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "there-is-no-antimemetics-division",
+  "rank": 10,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49580164",
+  "source_story_title": "LLMs as a Cognitive Virus"
+}

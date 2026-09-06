@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-06T05:17:57+02:00",
+  "id": "artificial-analysis-omniscience-index",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:artificial-analysis-omniscience-index:49571632",
+  "mention_ids": [
+    "2026-09-06:artificial-analysis-omniscience-index:49571632"
+  ],
+  "name": "Artificial Analysis Omniscience Index",
+  "slug": "artificial-analysis-omniscience-index",
+  "summary": "A model benchmark that rewards reliable knowledge and penalizes confident hallucinations.",
+  "thing_url": "https://artificialanalysis.ai/evaluations/omniscience",
+  "times_seen": 1,
+  "why_included": "A commenter said it tracks practical model usefulness better than broad benchmark scores."
+}

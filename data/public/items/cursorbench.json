@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-06T05:17:57+02:00",
+  "id": "cursorbench",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:cursorbench:49571632",
+  "mention_ids": [
+    "2026-09-06:cursorbench:49571632"
+  ],
+  "name": "CursorBench",
+  "slug": "cursorbench",
+  "summary": "Cursor's coding-model evaluation suite for comparing practical agent performance.",
+  "thing_url": "https://cursor.com/evals",
+  "times_seen": 1,
+  "why_included": "A commenter said its rankings consistently matched their subjective model evaluations."
+}

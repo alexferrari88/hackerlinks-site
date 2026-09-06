@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-06T05:17:57+02:00",
+  "id": "cheats-rs",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:cheats-rs:49576343",
+  "mention_ids": [
+    "2026-09-06:cheats-rs:49576343"
+  ],
+  "name": "cheats.rs",
+  "slug": "cheats-rs",
+  "summary": "A dense Rust language reference with visual guides to memory layout.",
+  "thing_url": "https://cheats.rs/",
+  "times_seen": 1,
+  "why_included": "A happy reader specifically praised its visual memory-layout section."
+}

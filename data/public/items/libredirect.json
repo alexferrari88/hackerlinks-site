@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-04-16T01:11:43+00:00",
   "id": "libredirect",
-  "last_seen_at": "2026-04-16T01:11:43+00:00",
-  "latest_mention_id": "2026-04-16:libredirect:47786791",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:libredirect:49571634",
   "mention_ids": [
-    "2026-04-16:libredirect:47786791"
+    "2026-04-16:libredirect:47786791",
+    "2026-09-06:libredirect:49571634"
   ],
   "name": "LibRedirect",
   "slug": "libredirect",
-  "summary": "A browser extension that redirects services to privacy-friendly frontends.",
-  "thing_url": "https://libredirect.github.io/",
-  "times_seen": 1,
-  "why_included": "It was part of a concrete YouTube-alternative setup."
+  "summary": "A browser extension that redirects popular sites to privacy-friendly alternative frontends.",
+  "thing_url": "https://github.com/libredirect/browser_extension",
+  "times_seen": 2,
+  "why_included": "A commenter highly recommended its configurable redirects across several major platforms."
 }

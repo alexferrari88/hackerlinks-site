@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Lumatone and praised its layout for improvisation and structural thinking.",
+  "evidence_sources": [
+    {
+      "author": "triclops200",
+      "comment_id": "49576249",
+      "comment_url": "https://news.ycombinator.com/item?id=49575150#49576249",
+      "context": "first_hand_use",
+      "excerpt": "I personally love it, especially as I like to do a lot of improv in various tunings, and the layout makes transposing and thinking about structure so much easier than a traditional keyboard.",
+      "kind": "recommendation",
+      "parent_comment_id": "49575150"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49575150",
+  "id": "2026-09-06:lumatone:49575150",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "lumatone",
+  "rank": 6,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49575150",
+  "source_story_title": "Terpstra Keyboard"
+}

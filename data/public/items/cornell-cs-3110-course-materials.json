@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-06T05:17:57+02:00",
+  "id": "cornell-cs-3110-course-materials",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:cornell-cs-3110-course-materials:49578280",
+  "mention_ids": [
+    "2026-09-06:cornell-cs-3110-course-materials:49578280"
+  ],
+  "name": "Cornell CS 3110 course materials",
+  "slug": "cornell-cs-3110-course-materials",
+  "summary": "Free Cornell materials for learning OCaml, functional programming, and software design.",
+  "thing_url": "https://www.cs.cornell.edu/courses/cs3110/2025sp/",
+  "times_seen": 1,
+  "why_included": "A learner highly recommended the course and praised Michael Clarkson's teaching."
+}

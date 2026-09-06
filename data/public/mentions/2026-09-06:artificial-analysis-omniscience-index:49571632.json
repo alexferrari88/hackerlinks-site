@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter considered the Omniscience Index highly correlated with real model usefulness.",
+  "evidence_sources": [
+    {
+      "author": "jascha_eng",
+      "comment_id": "49572176",
+      "comment_url": "https://news.ycombinator.com/item?id=49571632#49572176",
+      "context": "evaluated",
+      "excerpt": "Imo the omniscience index they have has the highest correlation to actual usefulness of the models.",
+      "kind": "recommendation",
+      "parent_comment_id": "49571632"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49571632",
+  "id": "2026-09-06:artificial-analysis-omniscience-index:49571632",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "artificial-analysis-omniscience-index",
+  "rank": 4,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49571632",
+  "source_story_title": "Artificial Analysis Intelligence Index v4.2"
+}

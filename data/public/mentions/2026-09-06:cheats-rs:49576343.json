@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found cheats.rs very helpful while learning Rust internals.",
+  "evidence_sources": [
+    {
+      "author": "evmar",
+      "comment_id": "49582512",
+      "comment_url": "https://news.ycombinator.com/item?id=49576343#49582512",
+      "context": "first_hand_use",
+      "excerpt": "In my own journey of discovery I found https://cheats.rs/ very helpful, and in particular its \"memory layout\" section has visualizations.",
+      "kind": "recommendation",
+      "parent_comment_id": "49576343"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49576343",
+  "id": "2026-09-06:cheats-rs:49576343",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "cheats-rs",
+  "rank": 2,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49576343",
+  "source_story_title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
+}

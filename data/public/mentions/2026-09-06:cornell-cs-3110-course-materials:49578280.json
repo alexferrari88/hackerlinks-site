@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended the free course materials and called Clarkson an excellent educator.",
+  "evidence_sources": [
+    {
+      "author": "henryrobbins00",
+      "comment_id": "49580256",
+      "comment_url": "https://news.ycombinator.com/item?id=49578280#49580256",
+      "context": "evaluated",
+      "excerpt": "Michael Clarkson teaches OCaml at Cornell. I highly recommend his free course materials [1]. He\u2019s an excellent educator.",
+      "kind": "recommendation",
+      "parent_comment_id": "49579698"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49578280",
+  "id": "2026-09-06:cornell-cs-3110-course-materials:49578280",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "cornell-cs-3110-course-materials",
+  "rank": 7,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49578280",
+  "source_story_title": "Learn Programming with OCaml"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-06T05:17:57+02:00",
+  "id": "lumatone",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:lumatone:49575150",
+  "mention_ids": [
+    "2026-09-06:lumatone:49575150"
+  ],
+  "name": "Lumatone",
+  "slug": "lumatone",
+  "summary": "An isomorphic hexagonal MIDI keyboard for alternate tunings, transposition, and improvisation.",
+  "thing_url": "https://www.lumatone.io/",
+  "times_seen": 1,
+  "why_included": "A musician loved its layout and directly recommended the hardware."
+}

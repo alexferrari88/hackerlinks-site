@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter regarded CursorBench as closely matching their own view of model quality.",
+  "evidence_sources": [
+    {
+      "author": "jjcm",
+      "comment_id": "49573593",
+      "comment_url": "https://news.ycombinator.com/item?id=49571632#49573593",
+      "context": "evaluated",
+      "excerpt": "Their bench has always been one that most-fit my mental model of how good each of these models are.",
+      "kind": "recommendation",
+      "parent_comment_id": "49571632"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49571632",
+  "id": "2026-09-06:cursorbench:49571632",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "cursorbench",
+  "rank": 5,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49571632",
+  "source_story_title": "Artificial Analysis Intelligence Index v4.2"
+}

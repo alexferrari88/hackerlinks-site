@@ -1,0 +1,232 @@
+{
+  "version": 2,
+  "run_date": "2026-09-06",
+  "generated_at": "2026-09-06T05:17:57+02:00",
+  "summary": "Ten comment-endorsed tools, evaluation resources, hardware, courses, and books from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-06.json",
+    "sha256": "35bf2c714ed481daa327fa7c1d652a3fa07459cf886f8609b4e642c33e98e207",
+    "bytes": 2102244,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3497,
+    "fetched_item_count": 3527,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "git-fetch-file",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/andrewmcwattersandco/git-fetch-file",
+      "hn_url": "https://news.ycombinator.com/item?id=49519850",
+      "source_story_title": "Git Submodules as a Package Manager",
+      "summary": "A manifest-driven tool for fetching selected files and revisions from Git repositories.",
+      "why_included": "A commenter preferred its precise file and revision controls for daily work.",
+      "evidence": "The commenter found git-fetch-file more useful than the submodule-style alternative under discussion.",
+      "evidence_sources": [
+        {
+          "comment_id": "49573337",
+          "comment_url": "https://news.ycombinator.com/item?id=49519850#49573337",
+          "author": "bellowsgulch",
+          "excerpt": "having specific control over what files you want to pull, or what commit or tag, or just the equivalent of latest is way more practical day-to-day.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49519850"
+        }
+      ]
+    },
+    {
+      "name": "cheats.rs",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://cheats.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=49576343",
+      "source_story_title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "summary": "A dense Rust language reference with visual guides to memory layout.",
+      "why_included": "A happy reader specifically praised its visual memory-layout section.",
+      "evidence": "The commenter found cheats.rs very helpful while learning Rust internals.",
+      "evidence_sources": [
+        {
+          "comment_id": "49582512",
+          "comment_url": "https://news.ycombinator.com/item?id=49576343#49582512",
+          "author": "evmar",
+          "excerpt": "In my own journey of discovery I found https://cheats.rs/ very helpful, and in particular its \"memory layout\" section has visualizations.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49576343"
+        }
+      ]
+    },
+    {
+      "name": "LibRedirect",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/libredirect/browser_extension",
+      "hn_url": "https://news.ycombinator.com/item?id=49571634",
+      "source_story_title": "Nitter has more working instances than before the takedowns",
+      "summary": "A browser extension that redirects popular sites to privacy-friendly alternative frontends.",
+      "why_included": "A commenter highly recommended its configurable redirects across several major platforms.",
+      "evidence": "The commenter recommended LibRedirect for choosing alternative frontend instances across multiple services.",
+      "evidence_sources": [
+        {
+          "comment_id": "49580048",
+          "comment_url": "https://news.ycombinator.com/item?id=49571634#49580048",
+          "author": "robotnikman",
+          "excerpt": "I highly recommend the extension libredirect, which will redirect you to instances of your choice (or just stick with the defaults).",
+          "kind": "recommendation",
+          "parent_comment_id": "49571634"
+        }
+      ]
+    },
+    {
+      "name": "Artificial Analysis Omniscience Index",
+      "category": "AI & Local Models",
+      "thing_url": "https://artificialanalysis.ai/evaluations/omniscience",
+      "hn_url": "https://news.ycombinator.com/item?id=49571632",
+      "source_story_title": "Artificial Analysis Intelligence Index v4.2",
+      "summary": "A model benchmark that rewards reliable knowledge and penalizes confident hallucinations.",
+      "why_included": "A commenter said it tracks practical model usefulness better than broad benchmark scores.",
+      "evidence": "The commenter considered the Omniscience Index highly correlated with real model usefulness.",
+      "evidence_sources": [
+        {
+          "comment_id": "49572176",
+          "comment_url": "https://news.ycombinator.com/item?id=49571632#49572176",
+          "author": "jascha_eng",
+          "excerpt": "Imo the omniscience index they have has the highest correlation to actual usefulness of the models.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49571632"
+        }
+      ]
+    },
+    {
+      "name": "CursorBench",
+      "category": "AI & Local Models",
+      "thing_url": "https://cursor.com/evals",
+      "hn_url": "https://news.ycombinator.com/item?id=49571632",
+      "source_story_title": "Artificial Analysis Intelligence Index v4.2",
+      "summary": "Cursor's coding-model evaluation suite for comparing practical agent performance.",
+      "why_included": "A commenter said its rankings consistently matched their subjective model evaluations.",
+      "evidence": "The commenter regarded CursorBench as closely matching their own view of model quality.",
+      "evidence_sources": [
+        {
+          "comment_id": "49573593",
+          "comment_url": "https://news.ycombinator.com/item?id=49571632#49573593",
+          "author": "jjcm",
+          "excerpt": "Their bench has always been one that most-fit my mental model of how good each of these models are.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49571632"
+        }
+      ]
+    },
+    {
+      "name": "Lumatone",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.lumatone.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49575150",
+      "source_story_title": "Terpstra Keyboard",
+      "summary": "An isomorphic hexagonal MIDI keyboard for alternate tunings, transposition, and improvisation.",
+      "why_included": "A musician loved its layout and directly recommended the hardware.",
+      "evidence": "The commenter uses Lumatone and praised its layout for improvisation and structural thinking.",
+      "evidence_sources": [
+        {
+          "comment_id": "49576249",
+          "comment_url": "https://news.ycombinator.com/item?id=49575150#49576249",
+          "author": "triclops200",
+          "excerpt": "I personally love it, especially as I like to do a lot of improv in various tunings, and the layout makes transposing and thinking about structure so much easier than a traditional keyboard.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49575150"
+        }
+      ]
+    },
+    {
+      "name": "Cornell CS 3110 course materials",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.cs.cornell.edu/courses/cs3110/2025sp/",
+      "hn_url": "https://news.ycombinator.com/item?id=49578280",
+      "source_story_title": "Learn Programming with OCaml",
+      "summary": "Free Cornell materials for learning OCaml, functional programming, and software design.",
+      "why_included": "A learner highly recommended the course and praised Michael Clarkson's teaching.",
+      "evidence": "The commenter recommended the free course materials and called Clarkson an excellent educator.",
+      "evidence_sources": [
+        {
+          "comment_id": "49580256",
+          "comment_url": "https://news.ycombinator.com/item?id=49578280#49580256",
+          "author": "henryrobbins00",
+          "excerpt": "Michael Clarkson teaches OCaml at Cornell. I highly recommend his free course materials [1]. He’s an excellent educator.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49579698"
+        }
+      ]
+    },
+    {
+      "name": "Code: The Hidden Language of Computer Hardware and Software",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.charlespetzold.com/code/",
+      "hn_url": "https://news.ycombinator.com/item?id=49571047",
+      "source_story_title": "Can guitar frets perform multiplication?",
+      "summary": "Charles Petzold's accessible exploration of how computer hardware and software work.",
+      "why_included": "A commenter called the book a classic worth mentioning.",
+      "evidence": "The commenter explicitly endorsed Code as a classic.",
+      "evidence_sources": [
+        {
+          "comment_id": "49576362",
+          "comment_url": "https://news.ycombinator.com/item?id=49571047#49576362",
+          "author": "lioeters",
+          "excerpt": "True, this book is a classic and worth mentioning.",
+          "kind": "recommendation",
+          "parent_comment_id": "49576073"
+        }
+      ]
+    },
+    {
+      "name": "The Happiness Trap",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.penguinrandomhouse.com/books/76053/the-happiness-trap-second-edition-by-russ-harris",
+      "hn_url": "https://news.ycombinator.com/item?id=49578866",
+      "source_story_title": "The Real Luxuries In Life",
+      "summary": "Russ Harris's practical guide to acceptance, difficult emotions, and meaningful living.",
+      "why_included": "A commenter named it a favorite and praised its realistic approach to contentment.",
+      "evidence": "The commenter endorsed the book for its case against pursuing constant happiness.",
+      "evidence_sources": [
+        {
+          "comment_id": "49580402",
+          "comment_url": "https://news.ycombinator.com/item?id=49578866#49580402",
+          "author": "thisoneisreal",
+          "excerpt": "My favorite book about this is \"The Happiness Trap,\" because it makes the simple point that we didn't evolve to be happy all of the time.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49580028"
+        }
+      ]
+    },
+    {
+      "name": "There Is No Antimemetics Division",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm",
+      "hn_url": "https://news.ycombinator.com/item?id=49580164",
+      "source_story_title": "LLMs as a Cognitive Virus",
+      "summary": "qntm's science-fiction horror novel about entities that erase awareness of themselves.",
+      "why_included": "A commenter directly recommended it in a discussion about memes and cognition.",
+      "evidence": "The commenter suggested the novel and described its memory-erasing premise.",
+      "evidence_sources": [
+        {
+          "comment_id": "49582952",
+          "comment_url": "https://news.ycombinator.com/item?id=49580164#49582952",
+          "author": "satvikpendem",
+          "excerpt": "Speaking of memetics and favorite books, check out There Is No Antimemetics Division by qntm",
+          "kind": "recommendation",
+          "parent_comment_id": "49580929"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter endorsed the book for its case against pursuing constant happiness.",
+  "evidence_sources": [
+    {
+      "author": "thisoneisreal",
+      "comment_id": "49580402",
+      "comment_url": "https://news.ycombinator.com/item?id=49578866#49580402",
+      "context": "evaluated",
+      "excerpt": "My favorite book about this is \"The Happiness Trap,\" because it makes the simple point that we didn't evolve to be happy all of the time.",
+      "kind": "recommendation",
+      "parent_comment_id": "49580028"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49578866",
+  "id": "2026-09-06:the-happiness-trap:49578866",
+  "is_repeat": false,
+  "issue_id": "2026-09-06",
+  "item_id": "the-happiness-trap",
+  "rank": 9,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49578866",
+  "source_story_title": "The Real Luxuries In Life"
+}

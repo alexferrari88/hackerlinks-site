@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-06T05:17:57+02:00",
+  "id": "git-fetch-file",
+  "last_seen_at": "2026-09-06T05:17:57+02:00",
+  "latest_mention_id": "2026-09-06:git-fetch-file:49519850",
+  "mention_ids": [
+    "2026-09-06:git-fetch-file:49519850"
+  ],
+  "name": "git-fetch-file",
+  "slug": "git-fetch-file",
+  "summary": "A manifest-driven tool for fetching selected files and revisions from Git repositories.",
+  "thing_url": "https://github.com/andrewmcwattersandco/git-fetch-file",
+  "times_seen": 1,
+  "why_included": "A commenter preferred its precise file and revision controls for daily work."
+}

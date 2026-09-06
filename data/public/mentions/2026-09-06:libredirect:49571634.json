@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended LibRedirect for choosing alternative frontend instances across multiple services.",
+  "evidence_sources": [
+    {
+      "author": "robotnikman",
+      "comment_id": "49580048",
+      "comment_url": "https://news.ycombinator.com/item?id=49571634#49580048",
+      "excerpt": "I highly recommend the extension libredirect, which will redirect you to instances of your choice (or just stick with the defaults).",
+      "kind": "recommendation",
+      "parent_comment_id": "49571634"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49571634",
+  "id": "2026-09-06:libredirect:49571634",
+  "is_repeat": true,
+  "issue_id": "2026-09-06",
+  "item_id": "libredirect",
+  "rank": 3,
+  "seen_at": "2026-09-06T05:17:57+02:00",
+  "source_story_id": "49571634",
+  "source_story_title": "Nitter has more working instances than before the takedowns"
+}

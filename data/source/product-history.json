@@ -3635,8 +3635,8 @@
     {
       "name": "LibRedirect",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
-      "last_reported_at": "2026-04-16T01:11:43+00:00",
-      "times_reported": 1
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 2
     },
     {
       "name": "Librem 5",
@@ -8466,6 +8466,60 @@
       "name": "Death of a Euphemism",
       "first_reported_at": "2026-09-05T05:17:43+02:00",
       "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "git-fetch-file",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "cheats.rs",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Artificial Analysis Omniscience Index",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CursorBench",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lumatone",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cornell CS 3110 course materials",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Code: The Hidden Language of Computer Hardware and Software",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Happiness Trap",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "There Is No Antimemetics Division",
+      "first_reported_at": "2026-09-06T05:17:57+02:00",
+      "last_reported_at": "2026-09-06T05:17:57+02:00",
       "times_reported": 1
     }
   ]
