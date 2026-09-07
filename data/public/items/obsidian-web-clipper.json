@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "obsidian-web-clipper",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:obsidian-web-clipper:49529398",
+  "mention_ids": [
+    "2026-09-07:obsidian-web-clipper:49529398"
+  ],
+  "name": "Obsidian Web Clipper",
+  "slug": "obsidian-web-clipper",
+  "summary": "A browser extension that saves readable web content into local Markdown notes.",
+  "thing_url": "https://obsidian.md/clipper",
+  "times_seen": 1,
+  "why_included": "A commenter recommended its Reading View for escaping ad-heavy article pages."
+}

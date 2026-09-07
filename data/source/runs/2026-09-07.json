@@ -1,0 +1,251 @@
+{
+  "version": 2,
+  "run_date": "2026-09-07",
+  "generated_at": "2026-09-07T05:17:54+02:00",
+  "summary": "Eleven comment-endorsed tools, learning resources, apps, and hardware finds from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-07.json",
+    "sha256": "3ecc6b8b78a97ef136564790dc7452e4673c684948803e48fcb131d77fa12d85",
+    "bytes": 2830422,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4408,
+    "fetched_item_count": 4438,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Minimal Phone",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://minimalcompany.com/products/minimal-phone",
+      "hn_url": "https://news.ycombinator.com/item?id=49585627",
+      "source_story_title": "Doomscrolling ourselves to death",
+      "summary": "An E-paper QWERTY phone whose deliberate friction discourages compulsive scrolling.",
+      "why_included": "An owner said its clunky, text-oriented experience successfully reduced casual phone use.",
+      "evidence": "The owner found the phone unpleasant enough for scrolling but capable enough for essential tasks.",
+      "evidence_sources": [
+        {
+          "comment_id": "49591675",
+          "comment_url": "https://news.ycombinator.com/item?id=49585627#49591675",
+          "author": "hexapus",
+          "excerpt": "The friction of everything being so clunky keeps me from picking it up and staring at it, it's unpleasant to look at and scroll through anything but text.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49585627"
+        }
+      ]
+    },
+    {
+      "name": "Nextcloud",
+      "category": "Privacy & Networking",
+      "thing_url": "https://nextcloud.com/files/",
+      "hn_url": "https://news.ycombinator.com/item?id=49582000",
+      "source_story_title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "summary": "A self-hosted file-sync and collaboration platform with desktop and mobile clients.",
+      "why_included": "A three-year user praised its reliability, simple setup, and solid clients.",
+      "evidence": "The commenter reported three trouble-free years and dependable Linux and mobile support.",
+      "evidence_sources": [
+        {
+          "comment_id": "49583211",
+          "comment_url": "https://news.ycombinator.com/item?id=49582000#49583211",
+          "author": "epihelix",
+          "excerpt": "I've been using it for the last three years (switching over from OwnCloud before that), and it's never missed a beat.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49583072"
+        }
+      ]
+    },
+    {
+      "name": "Nitter",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/zedeus/nitter",
+      "hn_url": "https://news.ycombinator.com/item?id=49588988",
+      "source_story_title": "Nitter and XCancel resume service after legal advice",
+      "summary": "A privacy-friendly, self-hostable alternative front end for browsing X posts.",
+      "why_included": "A commenter independently praised the project's approachable Nim codebase.",
+      "evidence": "The commenter welcomed Nitter's continuation and found its source surprisingly hackable.",
+      "evidence_sources": [
+        {
+          "comment_id": "49590410",
+          "comment_url": "https://news.ycombinator.com/item?id=49588988#49590410",
+          "author": "elcritch",
+          "excerpt": "Cool to see such a notable Nim based project continue!",
+          "kind": "recommendation",
+          "parent_comment_id": "49588988"
+        }
+      ]
+    },
+    {
+      "name": "FreeBSD",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.freebsd.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49587903",
+      "source_story_title": "Research carried out using NetBSD",
+      "summary": "An open-source Unix operating system for desktops, servers, and embedded systems.",
+      "why_included": "An eleven-year daily user praised its broad hardware roles and welcoming community.",
+      "evidence": "The commenter uses FreeBSD across personal computers and servers and strongly endorsed it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49589873",
+          "comment_url": "https://news.ycombinator.com/item?id=49587903#49589873",
+          "author": "BSDobelix",
+          "excerpt": "Overall i really love FreeBSD for everything computing (Pi/Laptop/Workstation/Servers).",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49589170"
+        }
+      ]
+    },
+    {
+      "name": "Strudel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://strudel.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49541888",
+      "source_story_title": "Music Theory for Programmers",
+      "summary": "A browser-based live-coding environment for composing music with compact patterns.",
+      "why_included": "A commenter urged programmers to try it and loved its expressive examples.",
+      "evidence": "The commenter praised Strudel's examples as art made with very little code.",
+      "evidence_sources": [
+        {
+          "comment_id": "49584208",
+          "comment_url": "https://news.ycombinator.com/item?id=49541888#49584208",
+          "author": "raulparada",
+          "excerpt": "If you like those (I love them, so much art in a few lines of code), the docs _will_ get you started. Enjoy!",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49541888"
+        }
+      ]
+    },
+    {
+      "name": "Obsidian Web Clipper",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://obsidian.md/clipper",
+      "hn_url": "https://news.ycombinator.com/item?id=49529398",
+      "source_story_title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "summary": "A browser extension that saves readable web content into local Markdown notes.",
+      "why_included": "A commenter recommended its Reading View for escaping ad-heavy article pages.",
+      "evidence": "The commenter advised installing Obsidian Web Clipper and using its Reading View.",
+      "evidence_sources": [
+        {
+          "comment_id": "49587327",
+          "comment_url": "https://news.ycombinator.com/item?id=49529398#49587327",
+          "author": "DavideNL",
+          "excerpt": "Install \"Obsidian Web Clipper\" and use the \"Reading View\" button to read articles",
+          "kind": "recommendation",
+          "parent_comment_id": "49583915"
+        }
+      ]
+    },
+    {
+      "name": "World Graph",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://wilf.live/worldgraph/",
+      "hn_url": "https://news.ycombinator.com/item?id=49527599",
+      "source_story_title": "Topologist's Map of the World",
+      "summary": "A geography quiz that represents countries as nodes connected by land borders.",
+      "why_included": "A commenter directly suggested the unusual border-graph guessing game.",
+      "evidence": "The commenter recommended World Graph to readers who enjoyed a topology-themed map.",
+      "evidence_sources": [
+        {
+          "comment_id": "49581910",
+          "comment_url": "https://news.ycombinator.com/item?id=49527599#49581910",
+          "author": "gus_massa",
+          "excerpt": "If you like this, you may like \"Guess the countries just from what borders what\"",
+          "kind": "recommendation",
+          "parent_comment_id": "49527599"
+        }
+      ]
+    },
+    {
+      "name": "Designing a Fast, Efficient, Cache-Friendly Hash Table, Step by Step",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtu.be/ncHmEUmJZf4",
+      "hn_url": "https://news.ycombinator.com/item?id=49548852",
+      "source_story_title": "How Swiss tables work in Go built-in map",
+      "summary": "A CppCon talk explaining the engineering path behind Swiss hash tables.",
+      "why_included": "A commenter explicitly called it excellent and highly recommended it.",
+      "evidence": "The commenter strongly recommended Matt Kulukundis's talk on Swiss-table development.",
+      "evidence_sources": [
+        {
+          "comment_id": "49581818",
+          "comment_url": "https://news.ycombinator.com/item?id=49548852#49581818",
+          "author": "nasso_dev",
+          "excerpt": "for an excellent talk on the development of swiss tables i highly recommend this talk by Matt Kulukundis at CppCon 2017: \"Designing a fast, efficient, cache-friendly hash table, step by step\"",
+          "kind": "recommendation",
+          "parent_comment_id": "49548852"
+        }
+      ]
+    },
+    {
+      "name": "The Jazz Theory Book",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.shermusic.com/products/the-jazz-theory-book",
+      "hn_url": "https://news.ycombinator.com/item?id=49541888",
+      "source_story_title": "Music Theory for Programmers",
+      "summary": "Mark Levine's practical guide to harmony across jazz and popular music.",
+      "why_included": "A former professional musician strongly recommended its clear, example-rich presentation.",
+      "evidence": "The commenter called the book a great route to understanding jazz and popular harmony.",
+      "evidence_sources": [
+        {
+          "comment_id": "49584278",
+          "comment_url": "https://news.ycombinator.com/item?id=49541888#49584278",
+          "author": "seanhunter",
+          "excerpt": "buy “The Jazz Theory Book” by Mark Levine[1]. In spite of what it says, there really isn’t any such thing as Jazz theory - it’s just music theory, and this book is a great presentation with lots of good examples.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49541888"
+        }
+      ]
+    },
+    {
+      "name": "Notey and Noisy: A Sound Science Mathemusical",
+      "category": "Watch & Learn",
+      "thing_url": "https://malwebb.com/notnoi.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49541888",
+      "source_story_title": "Music Theory for Programmers",
+      "summary": "Mal Webb's 90-minute musical journey through sound, acoustics, and music theory.",
+      "why_included": "A commenter highly recommended setting aside 90 minutes for the listening experience.",
+      "evidence": "The commenter gave Mal Webb's linked sound-science work an unusually emphatic recommendation.",
+      "evidence_sources": [
+        {
+          "comment_id": "49584101",
+          "comment_url": "https://news.ycombinator.com/item?id=49541888#49584101",
+          "author": "_kb",
+          "excerpt": "If this is the sort of thing that interests you, I highly recommend setting aside 90 minutes and strapping yourself in for a listen to",
+          "kind": "recommendation",
+          "parent_comment_id": "49541888"
+        }
+      ]
+    },
+    {
+      "name": "DIY Color Checker Video",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=pusFS7JmKQM",
+      "hn_url": "https://news.ycombinator.com/item?id=49529398",
+      "source_story_title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "summary": "A video showing how free paint samples can form a useful color target.",
+      "why_included": "A commenter found it useful for building a low-cost photography color checker.",
+      "evidence": "The commenter called the tutorial nice and said it confirms near-match paint colors work well.",
+      "evidence_sources": [
+        {
+          "comment_id": "49585206",
+          "comment_url": "https://news.ycombinator.com/item?id=49529398#49585206",
+          "author": "mateja",
+          "excerpt": "I found this nice video[1] about how to DIY a color checker. He lists the names of the colors in the description. But at least he confirms that even a near match works well!",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49529398"
+        }
+      ]
+    }
+  ]
+}

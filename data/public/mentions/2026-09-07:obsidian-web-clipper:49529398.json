@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter advised installing Obsidian Web Clipper and using its Reading View.",
+  "evidence_sources": [
+    {
+      "author": "DavideNL",
+      "comment_id": "49587327",
+      "comment_url": "https://news.ycombinator.com/item?id=49529398#49587327",
+      "excerpt": "Install \"Obsidian Web Clipper\" and use the \"Reading View\" button to read articles",
+      "kind": "recommendation",
+      "parent_comment_id": "49583915"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49529398",
+  "id": "2026-09-07:obsidian-web-clipper:49529398",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "obsidian-web-clipper",
+  "rank": 6,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49529398",
+  "source_story_title": "The ColorChecker, photography's most important 24 squares, turns 50"
+}

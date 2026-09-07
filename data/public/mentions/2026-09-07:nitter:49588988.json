@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter welcomed Nitter's continuation and found its source surprisingly hackable.",
+  "evidence_sources": [
+    {
+      "author": "elcritch",
+      "comment_id": "49590410",
+      "comment_url": "https://news.ycombinator.com/item?id=49588988#49590410",
+      "excerpt": "Cool to see such a notable Nim based project continue!",
+      "kind": "recommendation",
+      "parent_comment_id": "49588988"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49588988",
+  "id": "2026-09-07:nitter:49588988",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "nitter",
+  "rank": 3,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49588988",
+  "source_story_title": "Nitter and XCancel resume service after legal advice"
+}

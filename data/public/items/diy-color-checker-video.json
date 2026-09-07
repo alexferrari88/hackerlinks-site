@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "diy-color-checker-video",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:diy-color-checker-video:49529398",
+  "mention_ids": [
+    "2026-09-07:diy-color-checker-video:49529398"
+  ],
+  "name": "DIY Color Checker Video",
+  "slug": "diy-color-checker-video",
+  "summary": "A video showing how free paint samples can form a useful color target.",
+  "thing_url": "https://www.youtube.com/watch?v=pusFS7JmKQM",
+  "times_seen": 1,
+  "why_included": "A commenter found it useful for building a low-cost photography color checker."
+}

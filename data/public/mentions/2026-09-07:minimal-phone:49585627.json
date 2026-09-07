@@ -1,0 +1,23 @@
+{
+  "evidence": "The owner found the phone unpleasant enough for scrolling but capable enough for essential tasks.",
+  "evidence_sources": [
+    {
+      "author": "hexapus",
+      "comment_id": "49591675",
+      "comment_url": "https://news.ycombinator.com/item?id=49585627#49591675",
+      "context": "first_hand_use",
+      "excerpt": "The friction of everything being so clunky keeps me from picking it up and staring at it, it's unpleasant to look at and scroll through anything but text.",
+      "kind": "recommendation",
+      "parent_comment_id": "49585627"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49585627",
+  "id": "2026-09-07:minimal-phone:49585627",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "minimal-phone",
+  "rank": 1,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49585627",
+  "source_story_title": "Doomscrolling ourselves to death"
+}

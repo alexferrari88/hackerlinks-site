@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the book a great route to understanding jazz and popular harmony.",
+  "evidence_sources": [
+    {
+      "author": "seanhunter",
+      "comment_id": "49584278",
+      "comment_url": "https://news.ycombinator.com/item?id=49541888#49584278",
+      "context": "evaluated",
+      "excerpt": "buy \u201cThe Jazz Theory Book\u201d by Mark Levine[1]. In spite of what it says, there really isn\u2019t any such thing as Jazz theory - it\u2019s just music theory, and this book is a great presentation with lots of good examples.",
+      "kind": "recommendation",
+      "parent_comment_id": "49541888"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49541888",
+  "id": "2026-09-07:the-jazz-theory-book:49541888",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "the-jazz-theory-book",
+  "rank": 9,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49541888",
+  "source_story_title": "Music Theory for Programmers"
+}

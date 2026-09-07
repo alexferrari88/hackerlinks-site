@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the tutorial nice and said it confirms near-match paint colors work well.",
+  "evidence_sources": [
+    {
+      "author": "mateja",
+      "comment_id": "49585206",
+      "comment_url": "https://news.ycombinator.com/item?id=49529398#49585206",
+      "context": "evaluated",
+      "excerpt": "I found this nice video[1] about how to DIY a color checker. He lists the names of the colors in the description. But at least he confirms that even a near match works well!",
+      "kind": "recommendation",
+      "parent_comment_id": "49529398"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49529398",
+  "id": "2026-09-07:diy-color-checker-video:49529398",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "diy-color-checker-video",
+  "rank": 11,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49529398",
+  "source_story_title": "The ColorChecker, photography's most important 24 squares, turns 50"
+}

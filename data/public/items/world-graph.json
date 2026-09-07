@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "world-graph",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:world-graph:49527599",
+  "mention_ids": [
+    "2026-09-07:world-graph:49527599"
+  ],
+  "name": "World Graph",
+  "slug": "world-graph",
+  "summary": "A geography quiz that represents countries as nodes connected by land borders.",
+  "thing_url": "https://wilf.live/worldgraph/",
+  "times_seen": 1,
+  "why_included": "A commenter directly suggested the unusual border-graph guessing game."
+}

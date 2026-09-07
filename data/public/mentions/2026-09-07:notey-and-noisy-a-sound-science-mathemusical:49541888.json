@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter gave Mal Webb's linked sound-science work an unusually emphatic recommendation.",
+  "evidence_sources": [
+    {
+      "author": "_kb",
+      "comment_id": "49584101",
+      "comment_url": "https://news.ycombinator.com/item?id=49541888#49584101",
+      "excerpt": "If this is the sort of thing that interests you, I highly recommend setting aside 90 minutes and strapping yourself in for a listen to",
+      "kind": "recommendation",
+      "parent_comment_id": "49541888"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49541888",
+  "id": "2026-09-07:notey-and-noisy-a-sound-science-mathemusical:49541888",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "notey-and-noisy-a-sound-science-mathemusical",
+  "rank": 10,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49541888",
+  "source_story_title": "Music Theory for Programmers"
+}

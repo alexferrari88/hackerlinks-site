@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended World Graph to readers who enjoyed a topology-themed map.",
+  "evidence_sources": [
+    {
+      "author": "gus_massa",
+      "comment_id": "49581910",
+      "comment_url": "https://news.ycombinator.com/item?id=49527599#49581910",
+      "excerpt": "If you like this, you may like \"Guess the countries just from what borders what\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49527599"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49527599",
+  "id": "2026-09-07:world-graph:49527599",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "world-graph",
+  "rank": 7,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49527599",
+  "source_story_title": "Topologist's Map of the World"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported three trouble-free years and dependable Linux and mobile support.",
+  "evidence_sources": [
+    {
+      "author": "epihelix",
+      "comment_id": "49583211",
+      "comment_url": "https://news.ycombinator.com/item?id=49582000#49583211",
+      "context": "first_hand_use",
+      "excerpt": "I've been using it for the last three years (switching over from OwnCloud before that), and it's never missed a beat.",
+      "kind": "recommendation",
+      "parent_comment_id": "49583072"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49582000",
+  "id": "2026-09-07:nextcloud:49582000",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "nextcloud",
+  "rank": 2,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49582000",
+  "source_story_title": "Cloud in a Bottle: making self-hosting accessible to everyone"
+}

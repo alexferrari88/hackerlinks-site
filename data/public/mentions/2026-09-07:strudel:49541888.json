@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Strudel's examples as art made with very little code.",
+  "evidence_sources": [
+    {
+      "author": "raulparada",
+      "comment_id": "49584208",
+      "comment_url": "https://news.ycombinator.com/item?id=49541888#49584208",
+      "context": "evaluated",
+      "excerpt": "If you like those (I love them, so much art in a few lines of code), the docs _will_ get you started. Enjoy!",
+      "kind": "recommendation",
+      "parent_comment_id": "49541888"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49541888",
+  "id": "2026-09-07:strudel:49541888",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "strudel",
+  "rank": 5,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49541888",
+  "source_story_title": "Music Theory for Programmers"
+}

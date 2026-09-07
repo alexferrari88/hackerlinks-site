@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "freebsd",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:freebsd:49587903",
+  "mention_ids": [
+    "2026-09-07:freebsd:49587903"
+  ],
+  "name": "FreeBSD",
+  "slug": "freebsd",
+  "summary": "An open-source Unix operating system for desktops, servers, and embedded systems.",
+  "thing_url": "https://www.freebsd.org/",
+  "times_seen": 1,
+  "why_included": "An eleven-year daily user praised its broad hardware roles and welcoming community."
+}

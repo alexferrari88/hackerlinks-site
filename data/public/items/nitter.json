@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "nitter",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:nitter:49588988",
+  "mention_ids": [
+    "2026-09-07:nitter:49588988"
+  ],
+  "name": "Nitter",
+  "slug": "nitter",
+  "summary": "A privacy-friendly, self-hostable alternative front end for browsing X posts.",
+  "thing_url": "https://github.com/zedeus/nitter",
+  "times_seen": 1,
+  "why_included": "A commenter independently praised the project's approachable Nim codebase."
+}

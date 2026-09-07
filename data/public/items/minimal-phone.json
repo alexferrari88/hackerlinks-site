@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "minimal-phone",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:minimal-phone:49585627",
+  "mention_ids": [
+    "2026-09-07:minimal-phone:49585627"
+  ],
+  "name": "Minimal Phone",
+  "slug": "minimal-phone",
+  "summary": "An E-paper QWERTY phone whose deliberate friction discourages compulsive scrolling.",
+  "thing_url": "https://minimalcompany.com/products/minimal-phone",
+  "times_seen": 1,
+  "why_included": "An owner said its clunky, text-oriented experience successfully reduced casual phone use."
+}

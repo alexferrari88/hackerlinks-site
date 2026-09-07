@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses FreeBSD across personal computers and servers and strongly endorsed it.",
+  "evidence_sources": [
+    {
+      "author": "BSDobelix",
+      "comment_id": "49589873",
+      "comment_url": "https://news.ycombinator.com/item?id=49587903#49589873",
+      "context": "first_hand_use",
+      "excerpt": "Overall i really love FreeBSD for everything computing (Pi/Laptop/Workstation/Servers).",
+      "kind": "recommendation",
+      "parent_comment_id": "49589170"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49587903",
+  "id": "2026-09-07:freebsd:49587903",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "freebsd",
+  "rank": 4,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49587903",
+  "source_story_title": "Research carried out using NetBSD"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "nextcloud",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:nextcloud:49582000",
+  "mention_ids": [
+    "2026-09-07:nextcloud:49582000"
+  ],
+  "name": "Nextcloud",
+  "slug": "nextcloud",
+  "summary": "A self-hosted file-sync and collaboration platform with desktop and mobile clients.",
+  "thing_url": "https://nextcloud.com/files/",
+  "times_seen": 1,
+  "why_included": "A three-year user praised its reliability, simple setup, and solid clients."
+}

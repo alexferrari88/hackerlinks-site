@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter strongly recommended Matt Kulukundis's talk on Swiss-table development.",
+  "evidence_sources": [
+    {
+      "author": "nasso_dev",
+      "comment_id": "49581818",
+      "comment_url": "https://news.ycombinator.com/item?id=49548852#49581818",
+      "excerpt": "for an excellent talk on the development of swiss tables i highly recommend this talk by Matt Kulukundis at CppCon 2017: \"Designing a fast, efficient, cache-friendly hash table, step by step\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49548852"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49548852",
+  "id": "2026-09-07:designing-a-fast-efficient-cache-friendly-hash-table-step-by-step:49548852",
+  "is_repeat": false,
+  "issue_id": "2026-09-07",
+  "item_id": "designing-a-fast-efficient-cache-friendly-hash-table-step-by-step",
+  "rank": 8,
+  "seen_at": "2026-09-07T05:17:54+02:00",
+  "source_story_id": "49548852",
+  "source_story_title": "How Swiss tables work in Go built-in map"
+}

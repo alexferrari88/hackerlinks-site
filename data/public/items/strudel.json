@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-07T05:17:54+02:00",
+  "id": "strudel",
+  "last_seen_at": "2026-09-07T05:17:54+02:00",
+  "latest_mention_id": "2026-09-07:strudel:49541888",
+  "mention_ids": [
+    "2026-09-07:strudel:49541888"
+  ],
+  "name": "Strudel",
+  "slug": "strudel",
+  "summary": "A browser-based live-coding environment for composing music with compact patterns.",
+  "thing_url": "https://strudel.cc/",
+  "times_seen": 1,
+  "why_included": "A commenter urged programmers to try it and loved its expressive examples."
+}
