@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter gave SX a positive first-hand assessment after using it to manage skills.",
+  "evidence_sources": [
+    {
+      "author": "nhod",
+      "comment_id": "49599972",
+      "comment_url": "https://news.ycombinator.com/item?id=49589914#49599972",
+      "context": "first_hand_use",
+      "excerpt": "It has its quirks, but overall I find it to be very useful.",
+      "kind": "recommendation",
+      "parent_comment_id": "49589914"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49589914",
+  "id": "2026-09-08:sx:49589914",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "sx",
+  "rank": 2,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49589914",
+  "source_story_title": "Ask HN: How do you manage skills files?"
+}

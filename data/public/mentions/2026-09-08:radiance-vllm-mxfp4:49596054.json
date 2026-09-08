@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter endorsed the MXFP4 fork as their current daily driver.",
+  "evidence_sources": [
+    {
+      "author": "intothemild",
+      "comment_id": "49597489",
+      "comment_url": "https://news.ycombinator.com/item?id=49596054#49597489",
+      "context": "first_hand_use",
+      "excerpt": "The MXFP4 fork is excellent too. Its my daily driver right now.",
+      "kind": "recommendation",
+      "parent_comment_id": "49597269"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49596054",
+  "id": "2026-09-08:radiance-vllm-mxfp4:49596054",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "radiance-vllm-mxfp4",
+  "rank": 3,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49596054",
+  "source_story_title": "Speculative Decoding in vLLM on AMD GPUs"
+}

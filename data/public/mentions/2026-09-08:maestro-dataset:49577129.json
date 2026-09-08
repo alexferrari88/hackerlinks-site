@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation highlighted MAESTRO for high-quality piano MIDI recordings.",
+  "evidence_sources": [
+    {
+      "author": "Scaevolus",
+      "comment_id": "49594374",
+      "comment_url": "https://news.ycombinator.com/item?id=49577129#49594374",
+      "excerpt": "if you want a source of high quality Piano MIDI recordings, you should check out the MAESTRO dataset:",
+      "kind": "recommendation",
+      "parent_comment_id": "49577129"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49577129",
+  "id": "2026-09-08:maestro-dataset:49577129",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "maestro-dataset",
+  "rank": 7,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49577129",
+  "source_story_title": "Ask HN: Fable hacked my piano, can I release the results?"
+}

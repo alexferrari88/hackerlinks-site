@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "maestro-dataset",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:maestro-dataset:49577129",
+  "mention_ids": [
+    "2026-09-08:maestro-dataset:49577129"
+  ],
+  "name": "MAESTRO Dataset",
+  "slug": "maestro-dataset",
+  "summary": "A high-quality collection of aligned concert-piano audio and expressive MIDI recordings.",
+  "thing_url": "https://magenta.withgoogle.com/datasets/maestro",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it as a source of high-quality piano MIDI."
+}

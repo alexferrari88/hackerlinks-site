@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported using the plugin for months and now usually starts fresh sessions instead of compacting.",
+  "evidence_sources": [
+    {
+      "author": "flippant",
+      "comment_id": "49599043",
+      "comment_url": "https://news.ycombinator.com/item?id=49594008#49599043",
+      "context": "first_hand_use",
+      "excerpt": "I've been using another memory plugin [1] for the past couple months. Since this change, I almost never run session compaction.",
+      "kind": "recommendation",
+      "parent_comment_id": "49594008"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49594008",
+  "id": "2026-09-08:ctx:49594008",
+  "is_repeat": true,
+  "issue_id": "2026-09-08",
+  "item_id": "ctx",
+  "rank": 4,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49594008",
+  "source_story_title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "sx",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:sx:49589914",
+  "mention_ids": [
+    "2026-09-08:sx:49589914"
+  ],
+  "name": "SX",
+  "slug": "sx",
+  "summary": "A Git-backed tool for managing and sharing AI coding-agent skills.",
+  "thing_url": "https://github.com/sleuth-io/sx",
+  "times_seen": 1,
+  "why_included": "A current user finds it useful despite quirks and uses it for skills management."
+}

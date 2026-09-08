@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "arm-s-cortex-a53-tiny-but-important",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:arm-s-cortex-a53-tiny-but-important:49564609",
+  "mention_ids": [
+    "2026-09-08:arm-s-cortex-a53-tiny-but-important:49564609"
+  ],
+  "name": "Arm's Cortex-A53: Tiny but Important",
+  "slug": "arm-s-cortex-a53-tiny-but-important",
+  "summary": "A technical tour of Cortex-A53 execution behavior and microarchitectural trade-offs.",
+  "thing_url": "https://chipsandcheese.com/p/arms-cortex-a53-tiny-but-important",
+  "times_seen": 1,
+  "why_included": "A knowledgeable commenter called it probably the best overview of the processor."
+}

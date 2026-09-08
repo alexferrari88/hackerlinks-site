@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "the-weather-machine",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:the-weather-machine:49552299",
+  "mention_ids": [
+    "2026-09-08:the-weather-machine:49552299"
+  ],
+  "name": "The Weather Machine",
+  "slug": "the-weather-machine",
+  "summary": "Andrew Blum's book tracing the people and infrastructure behind modern forecasting.",
+  "thing_url": "https://www.andrewblum.net/the-weather-machine-2",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a good history of weather forecasting."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "irail",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:irail:49595865",
+  "mention_ids": [
+    "2026-09-08:irail:49595865"
+  ],
+  "name": "iRail",
+  "slug": "irail",
+  "summary": "A minimalist Belgian train planner built on the country's open transit data.",
+  "thing_url": "https://irail.be/",
+  "times_seen": 1,
+  "why_included": "A commenter called it a great minimalist companion to the live transit map."
+}

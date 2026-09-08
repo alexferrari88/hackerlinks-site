@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter positively recommended iRail as a compact open-data counterpart.",
+  "evidence_sources": [
+    {
+      "author": "jpoesen",
+      "comment_id": "49596431",
+      "comment_url": "https://news.ycombinator.com/item?id=49595865#49596431",
+      "excerpt": "Great companion to https://irail.be, a minimalist counterpart to this site, also based on open data.",
+      "kind": "recommendation",
+      "parent_comment_id": "49595865"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49595865",
+  "id": "2026-09-08:irail:49595865",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "irail",
+  "rank": 6,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49595865",
+  "source_story_title": "Live map of public transport in Belgium"
+}

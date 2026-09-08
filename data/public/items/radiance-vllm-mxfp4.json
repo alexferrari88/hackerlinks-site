@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "radiance-vllm-mxfp4",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:radiance-vllm-mxfp4:49596054",
+  "mention_ids": [
+    "2026-09-08:radiance-vllm-mxfp4:49596054"
+  ],
+  "name": "Radiance vLLM MXFP4",
+  "slug": "radiance-vllm-mxfp4",
+  "summary": "A vLLM fork adding MXFP4 and early PARO quantization for AMD R9700 GPUs.",
+  "thing_url": "https://codeberg.org/ggz14/radiance-vllm-mxfp4",
+  "times_seen": 1,
+  "why_included": "An AMD GPU user called the fork excellent and uses it daily."
+}

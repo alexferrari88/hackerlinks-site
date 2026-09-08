@@ -1,0 +1,253 @@
+{
+  "version": 2,
+  "run_date": "2026-09-08",
+  "generated_at": "2026-09-08T05:17:59+02:00",
+  "summary": "Eleven comment-endorsed tools, datasets, apps, articles, videos, and books from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-08.json",
+    "sha256": "294e8703f9f77aebaee324fbb791a2e7d4d030edd4b84525ef51eb1a2e6f34cc",
+    "bytes": 2589875,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4078,
+    "fetched_item_count": 4108,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "skills-sdlc",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/gregwebs/skills-sdlc",
+      "hn_url": "https://news.ycombinator.com/item?id=49589914",
+      "source_story_title": "Ask HN: How do you manage skills files?",
+      "summary": "A version-controlled collection of software-development skills with a symlink installer.",
+      "why_included": "Its user described a practical, continuously tested workflow for sharing skills across machines.",
+      "evidence": "The commenter keeps these skills in Git and updates installations by advancing the repository.",
+      "evidence_sources": [
+        {
+          "comment_id": "49596588",
+          "comment_url": "https://news.ycombinator.com/item?id=49589914#49596588",
+          "author": "gregwebs",
+          "excerpt": "I have a git repo with my skills for software development [1]. There is an installer script that symlinks to the skills. Updating the skills on a machine is then just a matter of advancing the git repo.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49589914"
+        }
+      ]
+    },
+    {
+      "name": "SX",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/sleuth-io/sx",
+      "hn_url": "https://news.ycombinator.com/item?id=49589914",
+      "source_story_title": "Ask HN: How do you manage skills files?",
+      "summary": "A Git-backed tool for managing and sharing AI coding-agent skills.",
+      "why_included": "A current user finds it useful despite quirks and uses it for skills management.",
+      "evidence": "The commenter gave SX a positive first-hand assessment after using it to manage skills.",
+      "evidence_sources": [
+        {
+          "comment_id": "49599972",
+          "comment_url": "https://news.ycombinator.com/item?id=49589914#49599972",
+          "author": "nhod",
+          "excerpt": "It has its quirks, but overall I find it to be very useful.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49589914"
+        }
+      ]
+    },
+    {
+      "name": "Radiance vLLM MXFP4",
+      "category": "AI & Local Models",
+      "thing_url": "https://codeberg.org/ggz14/radiance-vllm-mxfp4",
+      "hn_url": "https://news.ycombinator.com/item?id=49596054",
+      "source_story_title": "Speculative Decoding in vLLM on AMD GPUs",
+      "summary": "A vLLM fork adding MXFP4 and early PARO quantization for AMD R9700 GPUs.",
+      "why_included": "An AMD GPU user called the fork excellent and uses it daily.",
+      "evidence": "The commenter endorsed the MXFP4 fork as their current daily driver.",
+      "evidence_sources": [
+        {
+          "comment_id": "49597489",
+          "comment_url": "https://news.ycombinator.com/item?id=49596054#49597489",
+          "author": "intothemild",
+          "excerpt": "The MXFP4 fork is excellent too. Its my daily driver right now.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49597269"
+        }
+      ]
+    },
+    {
+      "name": "Ctx",
+      "category": "AI & Local Models",
+      "thing_url": "https://ctx.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=49594008",
+      "source_story_title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "summary": "A memory plugin that lets coding agents recover context from earlier sessions.",
+      "why_included": "A months-long user said it largely eliminated their need for session compaction.",
+      "evidence": "The commenter reported using the plugin for months and now usually starts fresh sessions instead of compacting.",
+      "evidence_sources": [
+        {
+          "comment_id": "49599043",
+          "comment_url": "https://news.ycombinator.com/item?id=49594008#49599043",
+          "author": "flippant",
+          "excerpt": "I've been using another memory plugin [1] for the past couple months. Since this change, I almost never run session compaction.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49594008"
+        }
+      ]
+    },
+    {
+      "name": "OVinfo",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://play.google.com/store/apps/details?id=nl.skywave.ovinfo",
+      "hn_url": "https://news.ycombinator.com/item?id=49595865",
+      "source_story_title": "Live map of public transport in Belgium",
+      "summary": "A Dutch transit app showing nearby stops and live departure delays.",
+      "why_included": "A user praised its fast interface and said it changes everyday transit behavior.",
+      "evidence": "The commenter uses OVinfo and prefers its interface for quick live departure checks.",
+      "evidence_sources": [
+        {
+          "comment_id": "49598703",
+          "comment_url": "https://news.ycombinator.com/item?id=49595865#49598703",
+          "author": "rzwitserloot",
+          "excerpt": "I use the dutch version of this (OVInfo:",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49597948"
+        }
+      ]
+    },
+    {
+      "name": "iRail",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://irail.be/",
+      "hn_url": "https://news.ycombinator.com/item?id=49595865",
+      "source_story_title": "Live map of public transport in Belgium",
+      "summary": "A minimalist Belgian train planner built on the country's open transit data.",
+      "why_included": "A commenter called it a great minimalist companion to the live transit map.",
+      "evidence": "The commenter positively recommended iRail as a compact open-data counterpart.",
+      "evidence_sources": [
+        {
+          "comment_id": "49596431",
+          "comment_url": "https://news.ycombinator.com/item?id=49595865#49596431",
+          "author": "jpoesen",
+          "excerpt": "Great companion to https://irail.be, a minimalist counterpart to this site, also based on open data.",
+          "kind": "recommendation",
+          "parent_comment_id": "49595865"
+        }
+      ]
+    },
+    {
+      "name": "MAESTRO Dataset",
+      "category": "Watch & Learn",
+      "thing_url": "https://magenta.withgoogle.com/datasets/maestro",
+      "hn_url": "https://news.ycombinator.com/item?id=49577129",
+      "source_story_title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "summary": "A high-quality collection of aligned concert-piano audio and expressive MIDI recordings.",
+      "why_included": "A commenter directly recommended it as a source of high-quality piano MIDI.",
+      "evidence": "The recommendation highlighted MAESTRO for high-quality piano MIDI recordings.",
+      "evidence_sources": [
+        {
+          "comment_id": "49594374",
+          "comment_url": "https://news.ycombinator.com/item?id=49577129#49594374",
+          "author": "Scaevolus",
+          "excerpt": "if you want a source of high quality Piano MIDI recordings, you should check out the MAESTRO dataset:",
+          "kind": "recommendation",
+          "parent_comment_id": "49577129"
+        }
+      ]
+    },
+    {
+      "name": "The Weather Machine",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.andrewblum.net/the-weather-machine-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49552299",
+      "source_story_title": "WeatherNext 3",
+      "summary": "Andrew Blum's book tracing the people and infrastructure behind modern forecasting.",
+      "why_included": "A commenter recommended it as a good history of weather forecasting.",
+      "evidence": "The commenter specifically endorsed the book as a useful forecasting history.",
+      "evidence_sources": [
+        {
+          "comment_id": "49603174",
+          "comment_url": "https://news.ycombinator.com/item?id=49552299#49603174",
+          "author": "throw0101a",
+          "excerpt": "A good book on the history of forecasting, The Weather Machine: A Journey Inside the Forecast:",
+          "kind": "recommendation",
+          "parent_comment_id": "49552299"
+        }
+      ]
+    },
+    {
+      "name": "Arm's Cortex-A53: Tiny but Important",
+      "category": "Watch & Learn",
+      "thing_url": "https://chipsandcheese.com/p/arms-cortex-a53-tiny-but-important",
+      "hn_url": "https://news.ycombinator.com/item?id=49564609",
+      "source_story_title": "The NX bit is not just about security",
+      "summary": "A technical tour of Cortex-A53 execution behavior and microarchitectural trade-offs.",
+      "why_included": "A knowledgeable commenter called it probably the best overview of the processor.",
+      "evidence": "The commenter recommended the Chips and Cheese article as the strongest Cortex-A53 overview.",
+      "evidence_sources": [
+        {
+          "comment_id": "49598738",
+          "comment_url": "https://news.ycombinator.com/item?id=49564609#49598738",
+          "author": "phire",
+          "excerpt": "The chipsandcheese article [0] is probably the best overview.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49596743"
+        }
+      ]
+    },
+    {
+      "name": "The Dataflow Model Revisited",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "hn_url": "https://news.ycombinator.com/item?id=49589190",
+      "source_story_title": "The Dataflow Model Revisited",
+      "summary": "A database-centered reassessment of dataflow concepts for modern streaming analytics.",
+      "why_included": "An experienced Apache Beam practitioner praised its treatment of time and completeness.",
+      "evidence": "The commenter agreed with key arguments, valued the deeper explanation, and called it a great paper.",
+      "evidence_sources": [
+        {
+          "comment_id": "49600419",
+          "comment_url": "https://news.ycombinator.com/item?id=49589190#49600419",
+          "author": "janpeuker",
+          "excerpt": "I agree they got Event time versus processing time and Never rely on completeness right, and I love they go deeper into why that was just a hard thing to accept.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49589190"
+        }
+      ]
+    },
+    {
+      "name": "216M Spy TVs – The LG Smart TV Problem",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "hn_url": "https://news.ycombinator.com/item?id=49592375",
+      "source_story_title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "summary": "A video investigation into LG television telemetry, audio capture, and network scanning.",
+      "why_included": "An LG TV owner independently called the source video excellent.",
+      "evidence": "The commenter strongly endorsed the investigation before describing personal concern as an LG owner.",
+      "evidence_sources": [
+        {
+          "comment_id": "49598614",
+          "comment_url": "https://news.ycombinator.com/item?id=49592375#49598614",
+          "author": "semiquaver",
+          "excerpt": "The source video is excellent:",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49592375"
+        }
+      ]
+    }
+  ]
+}

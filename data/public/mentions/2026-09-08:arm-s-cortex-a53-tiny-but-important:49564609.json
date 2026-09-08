@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended the Chips and Cheese article as the strongest Cortex-A53 overview.",
+  "evidence_sources": [
+    {
+      "author": "phire",
+      "comment_id": "49598738",
+      "comment_url": "https://news.ycombinator.com/item?id=49564609#49598738",
+      "context": "evaluated",
+      "excerpt": "The chipsandcheese article [0] is probably the best overview.",
+      "kind": "recommendation",
+      "parent_comment_id": "49596743"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49564609",
+  "id": "2026-09-08:arm-s-cortex-a53-tiny-but-important:49564609",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "arm-s-cortex-a53-tiny-but-important",
+  "rank": 9,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49564609",
+  "source_story_title": "The NX bit is not just about security"
+}

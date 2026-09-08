@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter keeps these skills in Git and updates installations by advancing the repository.",
+  "evidence_sources": [
+    {
+      "author": "gregwebs",
+      "comment_id": "49596588",
+      "comment_url": "https://news.ycombinator.com/item?id=49589914#49596588",
+      "context": "first_hand_use",
+      "excerpt": "I have a git repo with my skills for software development [1]. There is an installer script that symlinks to the skills. Updating the skills on a machine is then just a matter of advancing the git repo.",
+      "kind": "recommendation",
+      "parent_comment_id": "49589914"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49589914",
+  "id": "2026-09-08:skills-sdlc:49589914",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "skills-sdlc",
+  "rank": 1,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49589914",
+  "source_story_title": "Ask HN: How do you manage skills files?"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "skills-sdlc",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:skills-sdlc:49589914",
+  "mention_ids": [
+    "2026-09-08:skills-sdlc:49589914"
+  ],
+  "name": "skills-sdlc",
+  "slug": "skills-sdlc",
+  "summary": "A version-controlled collection of software-development skills with a symlink installer.",
+  "thing_url": "https://github.com/gregwebs/skills-sdlc",
+  "times_seen": 1,
+  "why_included": "Its user described a practical, continuously tested workflow for sharing skills across machines."
+}

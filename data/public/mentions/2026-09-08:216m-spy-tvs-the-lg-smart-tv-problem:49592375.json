@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter strongly endorsed the investigation before describing personal concern as an LG owner.",
+  "evidence_sources": [
+    {
+      "author": "semiquaver",
+      "comment_id": "49598614",
+      "comment_url": "https://news.ycombinator.com/item?id=49592375#49598614",
+      "context": "evaluated",
+      "excerpt": "The source video is excellent:",
+      "kind": "recommendation",
+      "parent_comment_id": "49592375"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49592375",
+  "id": "2026-09-08:216m-spy-tvs-the-lg-smart-tv-problem:49592375",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "216m-spy-tvs-the-lg-smart-tv-problem",
+  "rank": 11,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49592375",
+  "source_story_title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]"
+}

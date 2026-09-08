@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-08T05:17:59+02:00",
+  "id": "the-dataflow-model-revisited",
+  "last_seen_at": "2026-09-08T05:17:59+02:00",
+  "latest_mention_id": "2026-09-08:the-dataflow-model-revisited:49589190",
+  "mention_ids": [
+    "2026-09-08:the-dataflow-model-revisited:49589190"
+  ],
+  "name": "The Dataflow Model Revisited",
+  "slug": "the-dataflow-model-revisited",
+  "summary": "A database-centered reassessment of dataflow concepts for modern streaming analytics.",
+  "thing_url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+  "times_seen": 1,
+  "why_included": "An experienced Apache Beam practitioner praised its treatment of time and completeness."
+}

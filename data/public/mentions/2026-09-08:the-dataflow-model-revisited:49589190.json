@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter agreed with key arguments, valued the deeper explanation, and called it a great paper.",
+  "evidence_sources": [
+    {
+      "author": "janpeuker",
+      "comment_id": "49600419",
+      "comment_url": "https://news.ycombinator.com/item?id=49589190#49600419",
+      "context": "evaluated",
+      "excerpt": "I agree they got Event time versus processing time and Never rely on completeness right, and I love they go deeper into why that was just a hard thing to accept.",
+      "kind": "recommendation",
+      "parent_comment_id": "49589190"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49589190",
+  "id": "2026-09-08:the-dataflow-model-revisited:49589190",
+  "is_repeat": false,
+  "issue_id": "2026-09-08",
+  "item_id": "the-dataflow-model-revisited",
+  "rank": 10,
+  "seen_at": "2026-09-08T05:17:59+02:00",
+  "source_story_id": "49589190",
+  "source_story_title": "The Dataflow Model Revisited"
+}
