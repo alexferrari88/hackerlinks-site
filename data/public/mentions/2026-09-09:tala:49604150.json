@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised TALA's quality and said they intended to keep using it.",
+  "evidence_sources": [
+    {
+      "author": "larodi",
+      "comment_id": "49609501",
+      "comment_url": "https://news.ycombinator.com/item?id=49604150#49609501",
+      "context": "first_hand_use",
+      "excerpt": "this engine is indeed excellent, and is great contribution to everyone doing architecture around the world. Would continue using it with much love and appreciation.",
+      "kind": "recommendation",
+      "parent_comment_id": "49604150"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49604150",
+  "id": "2026-09-09:tala:49604150",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "tala",
+  "rank": 1,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49604150",
+  "source_story_title": "TALA Is Open-Source"
+}

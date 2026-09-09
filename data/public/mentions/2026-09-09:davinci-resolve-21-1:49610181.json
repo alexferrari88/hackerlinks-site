@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported years of use and consistent gains in power and functionality.",
+  "evidence_sources": [
+    {
+      "author": "neovive",
+      "comment_id": "49610934",
+      "comment_url": "https://news.ycombinator.com/item?id=49610181#49610934",
+      "context": "first_hand_use",
+      "excerpt": "I've been using it for many years, and it's grown in power and functionality with every release. BMD has offered free upgrades to Pro users (with no subscription) for many years, which is refreshing given the current state of software licensing.",
+      "kind": "recommendation",
+      "parent_comment_id": "49610181"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49610181",
+  "id": "2026-09-09:davinci-resolve-21-1:49610181",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "davinci-resolve-21-1",
+  "rank": 8,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49610181",
+  "source_story_title": "DaVinci Resolve 21.1"
+}

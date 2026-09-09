@@ -1,0 +1,32 @@
+{
+  "evidence": "One user reported excellent NVFP4 performance and long coding contexts; another called the model spectacular for legal-document review.",
+  "evidence_sources": [
+    {
+      "author": "skolos",
+      "comment_id": "49615427",
+      "comment_url": "https://news.ycombinator.com/item?id=49611128#49615427",
+      "context": "first_hand_use",
+      "excerpt": "I'm now running NVFP4 quantized both weight and cache on my RTX5090 and getting excellent results: 264k cache allocated for pool, 10k tok/s prompt processing, 200 tok/s generation for single stream, or 801 tok/s generation for 8 concurrent streams.",
+      "kind": "recommendation",
+      "parent_comment_id": "49613840"
+    },
+    {
+      "author": "D13Fd",
+      "comment_id": "49618630",
+      "comment_url": "https://news.ycombinator.com/item?id=49611128#49618630",
+      "context": "first_hand_use",
+      "excerpt": "For the kinds of things I use a local model for (legal document review), it\u2019s just spectacular. It also has good vision support. I\u2019ve been using 27B more and more over DS4.",
+      "kind": "recommendation",
+      "parent_comment_id": "49615427"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49611128",
+  "id": "2026-09-09:qwen3-8-27b:49611128",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "qwen3-8-27b",
+  "rank": 5,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49611128",
+  "source_story_title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses"
+}

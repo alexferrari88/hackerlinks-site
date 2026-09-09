@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found the visualization useful enough to include in an upcoming lesson.",
+  "evidence_sources": [
+    {
+      "author": "MCP123",
+      "comment_id": "49617390",
+      "comment_url": "https://news.ycombinator.com/item?id=49613068#49617390",
+      "context": "evaluated",
+      "excerpt": "Having a visualization like this helps a lot. Don't move that page please since I'll link to it!",
+      "kind": "recommendation",
+      "parent_comment_id": "49613068"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49613068",
+  "id": "2026-09-09:llm-attention-visualizer:49613068",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "llm-attention-visualizer",
+  "rank": 6,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49613068",
+  "source_story_title": "Show HN: LLM Attention Visualization"
+}

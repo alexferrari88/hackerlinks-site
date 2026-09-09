@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter positively singled out Copperhead after describing frustration with PCB layout.",
+  "evidence_sources": [
+    {
+      "author": "HeyLaughingBoy",
+      "comment_id": "49613048",
+      "comment_url": "https://news.ycombinator.com/item?id=49610059#49613048",
+      "excerpt": "Copperhead is very interesting. I do some embedded systems consulting on the side, but I've never enjoyed PCB layout very much.",
+      "kind": "recommendation",
+      "parent_comment_id": "49610503"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49610059",
+  "id": "2026-09-09:copperhead:49610059",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "copperhead",
+  "rank": 7,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49610059",
+  "source_story_title": "Show HN: Copperhead \u2013 Cursor for circuit boards"
+}

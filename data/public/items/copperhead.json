@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "copperhead",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:copperhead:49610059",
+  "mention_ids": [
+    "2026-09-09:copperhead:49610059"
+  ],
+  "name": "Copperhead",
+  "slug": "copperhead",
+  "summary": "An AI-assisted workspace for designing and editing printed circuit boards.",
+  "thing_url": "https://copperhead.sh/",
+  "times_seen": 1,
+  "why_included": "An embedded-systems consultant found the PCB assistant notably interesting."
+}

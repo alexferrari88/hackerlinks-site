@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "all-the-worst-humans",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:all-the-worst-humans:49610900",
+  "mention_ids": [
+    "2026-09-09:all-the-worst-humans:49610900"
+  ],
+  "name": "All the Worst Humans",
+  "slug": "all-the-worst-humans",
+  "summary": "Phil Elwood's memoir about manufacturing news for powerful clients.",
+  "thing_url": "https://us.macmillan.com/books/9781250321572/alltheworsthumans/",
+  "times_seen": 1,
+  "why_included": "A former PR worker gave the book an unusually strong recommendation."
+}

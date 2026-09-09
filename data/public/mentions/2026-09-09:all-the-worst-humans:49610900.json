@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called the memoir fantastic while advising readers to retain some skepticism.",
+  "evidence_sources": [
+    {
+      "author": "specproc",
+      "comment_id": "49617548",
+      "comment_url": "https://news.ycombinator.com/item?id=49610900#49617548",
+      "excerpt": "If you're into this stuff, I can't recommend All the Worst Humans by Phil Elwood enough, fantastic read (to be taken with a pinch of salt, the guy's a PR hack after all).",
+      "kind": "recommendation",
+      "parent_comment_id": "49611723"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49610900",
+  "id": "2026-09-09:all-the-worst-humans:49610900",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "all-the-worst-humans",
+  "rank": 9,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49610900",
+  "source_story_title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger"
+}

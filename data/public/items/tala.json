@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "tala",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:tala:49604150",
+  "mention_ids": [
+    "2026-09-09:tala:49604150"
+  ],
+  "name": "TALA",
+  "slug": "tala",
+  "summary": "An open-source autolayout engine built for software architecture diagrams.",
+  "thing_url": "https://d2lang.com/blog/tala-is-open-source/",
+  "times_seen": 1,
+  "why_included": "A continuing user called the engine excellent and valuable for architecture work."
+}

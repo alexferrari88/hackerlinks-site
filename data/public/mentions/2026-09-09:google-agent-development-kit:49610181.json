@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used ADK to automate clip selection, previewing, and rendering in Resolve.",
+  "evidence_sources": [
+    {
+      "author": "TYPE_FASTER",
+      "comment_id": "49614240",
+      "comment_url": "https://news.ycombinator.com/item?id=49610181#49614240",
+      "context": "first_hand_use",
+      "excerpt": "I used Google's Agent Development Kit to make a super simple agent outside of Resolve that I can use to say \"take a 10s clip from file1.mp4 starting at 00:01:25 and a 20s clip from file2.mp4 starting at 00:02:00\" then tell it to preview and render. Speeds things up.",
+      "kind": "recommendation",
+      "parent_comment_id": "49610181"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49610181",
+  "id": "2026-09-09:google-agent-development-kit:49610181",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "google-agent-development-kit",
+  "rank": 3,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49610181",
+  "source_story_title": "DaVinci Resolve 21.1"
+}

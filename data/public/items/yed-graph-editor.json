@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "yed-graph-editor",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:yed-graph-editor:49604150",
+  "mention_ids": [
+    "2026-09-09:yed-graph-editor:49604150"
+  ],
+  "name": "yEd Graph Editor",
+  "slug": "yed-graph-editor",
+  "summary": "A desktop diagram editor with precise alignment and automatic graph layouts.",
+  "thing_url": "https://www.yworks.com/products/yed",
+  "times_seen": 1,
+  "why_included": "A former user ranked it above every other diagramming tool they had tried."
+}

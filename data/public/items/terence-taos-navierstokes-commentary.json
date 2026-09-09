@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "terence-taos-navierstokes-commentary",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:terence-taos-navierstokes-commentary:49605915",
+  "mention_ids": [
+    "2026-09-09:terence-taos-navierstokes-commentary:49605915"
+  ],
+  "name": "Terence Tao\u2019s Navier\u2013Stokes commentary",
+  "slug": "terence-taos-navierstokes-commentary",
+  "summary": "A mathematician's commentary on AI-assisted work toward Navier\u2013Stokes proofs.",
+  "thing_url": "https://mathstodon.xyz/@tao/117219101339291693",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended Tao's perspective on the disputed proof effort."
+}

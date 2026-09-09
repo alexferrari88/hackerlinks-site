@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "google-agent-development-kit",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:google-agent-development-kit:49610181",
+  "mention_ids": [
+    "2026-09-09:google-agent-development-kit:49610181"
+  ],
+  "name": "Google Agent Development Kit",
+  "slug": "google-agent-development-kit",
+  "summary": "A code-first framework for building and deploying AI agents.",
+  "thing_url": "https://github.com/google/adk-python",
+  "times_seen": 1,
+  "why_included": "A user built a practical video-editing agent with it and reported faster work."
+}

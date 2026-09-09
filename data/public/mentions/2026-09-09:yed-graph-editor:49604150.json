@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised yEd's precision, appearance, auto-layout, and alignment tools.",
+  "evidence_sources": [
+    {
+      "author": "zelphirkalt",
+      "comment_id": "49608278",
+      "comment_url": "https://news.ycombinator.com/item?id=49604150#49608278",
+      "context": "first_hand_use",
+      "excerpt": "Out of all the tools I have ever used for making diagrams, it remains the one that is the most precise, good looking results, also supports auto-layout algorithms, and makes placement and aligning things easy",
+      "kind": "recommendation",
+      "parent_comment_id": "49604150"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49604150",
+  "id": "2026-09-09:yed-graph-editor:49604150",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "yed-graph-editor",
+  "rank": 2,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49604150",
+  "source_story_title": "TALA Is Open-Source"
+}

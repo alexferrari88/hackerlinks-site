@@ -1,0 +1,241 @@
+{
+  "version": 2,
+  "run_date": "2026-09-09",
+  "generated_at": "2026-09-09T03:16:05.408880+00:00",
+  "summary": "Ten comment-endorsed tools, models, apps, essays, and books from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-09.json",
+    "sha256": "a5df56d0851ea02197148bf5ef01761adfa5fc3bc4af944353cd2ed458940877",
+    "bytes": 4157395,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6803,
+    "fetched_item_count": 6833,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "TALA",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://d2lang.com/blog/tala-is-open-source/",
+      "hn_url": "https://news.ycombinator.com/item?id=49604150",
+      "source_story_title": "TALA Is Open-Source",
+      "summary": "An open-source autolayout engine built for software architecture diagrams.",
+      "why_included": "A continuing user called the engine excellent and valuable for architecture work.",
+      "evidence": "The commenter praised TALA's quality and said they intended to keep using it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49609501",
+          "comment_url": "https://news.ycombinator.com/item?id=49604150#49609501",
+          "author": "larodi",
+          "excerpt": "this engine is indeed excellent, and is great contribution to everyone doing architecture around the world. Would continue using it with much love and appreciation.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49604150"
+        }
+      ]
+    },
+    {
+      "name": "yEd Graph Editor",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.yworks.com/products/yed",
+      "hn_url": "https://news.ycombinator.com/item?id=49604150",
+      "source_story_title": "TALA Is Open-Source",
+      "summary": "A desktop diagram editor with precise alignment and automatic graph layouts.",
+      "why_included": "A former user ranked it above every other diagramming tool they had tried.",
+      "evidence": "The commenter praised yEd's precision, appearance, auto-layout, and alignment tools.",
+      "evidence_sources": [
+        {
+          "comment_id": "49608278",
+          "comment_url": "https://news.ycombinator.com/item?id=49604150#49608278",
+          "author": "zelphirkalt",
+          "excerpt": "Out of all the tools I have ever used for making diagrams, it remains the one that is the most precise, good looking results, also supports auto-layout algorithms, and makes placement and aligning things easy",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49604150"
+        }
+      ]
+    },
+    {
+      "name": "Google Agent Development Kit",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/google/adk-python",
+      "hn_url": "https://news.ycombinator.com/item?id=49610181",
+      "source_story_title": "DaVinci Resolve 21.1",
+      "summary": "A code-first framework for building and deploying AI agents.",
+      "why_included": "A user built a practical video-editing agent with it and reported faster work.",
+      "evidence": "The commenter used ADK to automate clip selection, previewing, and rendering in Resolve.",
+      "evidence_sources": [
+        {
+          "comment_id": "49614240",
+          "comment_url": "https://news.ycombinator.com/item?id=49610181#49614240",
+          "author": "TYPE_FASTER",
+          "excerpt": "I used Google's Agent Development Kit to make a super simple agent outside of Resolve that I can use to say \"take a 10s clip from file1.mp4 starting at 00:01:25 and a 20s clip from file2.mp4 starting at 00:02:00\" then tell it to preview and render. Speeds things up.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49610181"
+        }
+      ]
+    },
+    {
+      "name": "frp",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/fatedier/frp",
+      "hn_url": "https://news.ycombinator.com/item?id=49607443",
+      "source_story_title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "summary": "An open-source reverse proxy for exposing services behind NAT or firewalls.",
+      "why_included": "A user recommended it as a good alternative to Cloudflare Tunnel.",
+      "evidence": "The commenter directly identified frp as a good Cloudflare Tunnel alternative.",
+      "evidence_sources": [
+        {
+          "comment_id": "49608100",
+          "comment_url": "https://news.ycombinator.com/item?id=49607443#49608100",
+          "author": "frevib",
+          "excerpt": "There is no replacement for Cloudflare Tunnel, but frp [1] is a good alternative.",
+          "kind": "recommendation",
+          "context": "production_use",
+          "parent_comment_id": "49607606"
+        }
+      ]
+    },
+    {
+      "name": "Qwen3.8-27B",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "hn_url": "https://news.ycombinator.com/item?id=49611128",
+      "source_story_title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "summary": "A 27B vision-language model that runs locally with long context.",
+      "why_included": "Two RTX 5090 users reported excellent speed and strong real-world results.",
+      "evidence": "One user reported excellent NVFP4 performance and long coding contexts; another called the model spectacular for legal-document review.",
+      "evidence_sources": [
+        {
+          "comment_id": "49615427",
+          "comment_url": "https://news.ycombinator.com/item?id=49611128#49615427",
+          "author": "skolos",
+          "excerpt": "I'm now running NVFP4 quantized both weight and cache on my RTX5090 and getting excellent results: 264k cache allocated for pool, 10k tok/s prompt processing, 200 tok/s generation for single stream, or 801 tok/s generation for 8 concurrent streams.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49613840"
+        },
+        {
+          "comment_id": "49618630",
+          "comment_url": "https://news.ycombinator.com/item?id=49611128#49618630",
+          "author": "D13Fd",
+          "excerpt": "For the kinds of things I use a local model for (legal document review), it’s just spectacular. It also has good vision support. I’ve been using 27B more and more over DS4.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49615427"
+        }
+      ]
+    },
+    {
+      "name": "LLM Attention Visualizer",
+      "category": "AI & Local Models",
+      "thing_url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49613068",
+      "source_story_title": "Show HN: LLM Attention Visualization",
+      "summary": "An interactive visualization that makes transformer attention easier to explain.",
+      "why_included": "An instructor said it arrived at the perfect time for teaching attention.",
+      "evidence": "The commenter found the visualization useful enough to include in an upcoming lesson.",
+      "evidence_sources": [
+        {
+          "comment_id": "49617390",
+          "comment_url": "https://news.ycombinator.com/item?id=49613068#49617390",
+          "author": "MCP123",
+          "excerpt": "Having a visualization like this helps a lot. Don't move that page please since I'll link to it!",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49613068"
+        }
+      ]
+    },
+    {
+      "name": "Copperhead",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://copperhead.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49610059",
+      "source_story_title": "Show HN: Copperhead – Cursor for circuit boards",
+      "summary": "An AI-assisted workspace for designing and editing printed circuit boards.",
+      "why_included": "An embedded-systems consultant found the PCB assistant notably interesting.",
+      "evidence": "The commenter positively singled out Copperhead after describing frustration with PCB layout.",
+      "evidence_sources": [
+        {
+          "comment_id": "49613048",
+          "comment_url": "https://news.ycombinator.com/item?id=49610059#49613048",
+          "author": "HeyLaughingBoy",
+          "excerpt": "Copperhead is very interesting. I do some embedded systems consulting on the side, but I've never enjoyed PCB layout very much.",
+          "kind": "recommendation",
+          "parent_comment_id": "49610503"
+        }
+      ]
+    },
+    {
+      "name": "DaVinci Resolve 21.1",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "hn_url": "https://news.ycombinator.com/item?id=49610181",
+      "source_story_title": "DaVinci Resolve 21.1",
+      "summary": "A professional video editor adding agent integrations without a subscription model.",
+      "why_included": "A long-term user praised its steady growth and years of free Pro upgrades.",
+      "evidence": "The commenter reported years of use and consistent gains in power and functionality.",
+      "evidence_sources": [
+        {
+          "comment_id": "49610934",
+          "comment_url": "https://news.ycombinator.com/item?id=49610181#49610934",
+          "author": "neovive",
+          "excerpt": "I've been using it for many years, and it's grown in power and functionality with every release. BMD has offered free upgrades to Pro users (with no subscription) for many years, which is refreshing given the current state of software licensing.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49610181"
+        }
+      ]
+    },
+    {
+      "name": "All the Worst Humans",
+      "category": "Watch & Learn",
+      "thing_url": "https://us.macmillan.com/books/9781250321572/alltheworsthumans/",
+      "hn_url": "https://news.ycombinator.com/item?id=49610900",
+      "source_story_title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "summary": "Phil Elwood's memoir about manufacturing news for powerful clients.",
+      "why_included": "A former PR worker gave the book an unusually strong recommendation.",
+      "evidence": "The commenter called the memoir fantastic while advising readers to retain some skepticism.",
+      "evidence_sources": [
+        {
+          "comment_id": "49617548",
+          "comment_url": "https://news.ycombinator.com/item?id=49610900#49617548",
+          "author": "specproc",
+          "excerpt": "If you're into this stuff, I can't recommend All the Worst Humans by Phil Elwood enough, fantastic read (to be taken with a pinch of salt, the guy's a PR hack after all).",
+          "kind": "recommendation",
+          "parent_comment_id": "49611723"
+        }
+      ]
+    },
+    {
+      "name": "Terence Tao’s Navier–Stokes commentary",
+      "category": "Watch & Learn",
+      "thing_url": "https://mathstodon.xyz/@tao/117219101339291693",
+      "hn_url": "https://news.ycombinator.com/item?id=49605915",
+      "source_story_title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "summary": "A mathematician's commentary on AI-assisted work toward Navier–Stokes proofs.",
+      "why_included": "A commenter directly recommended Tao's perspective on the disputed proof effort.",
+      "evidence": "The commenter recommended the commentary and highlighted its concern about purely AI-powered proof methods.",
+      "evidence_sources": [
+        {
+          "comment_id": "49607399",
+          "comment_url": "https://news.ycombinator.com/item?id=49605915#49607399",
+          "author": "goldenarm",
+          "excerpt": "I recommend Terrence Tao's commentary on such a proof : https://mathstodon.xyz/@tao/117219101339291693",
+          "kind": "recommendation",
+          "parent_comment_id": "49605915"
+        }
+      ]
+    }
+  ]
+}

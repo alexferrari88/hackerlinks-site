@@ -3,15 +3,15 @@
   "cooldown_days": 90,
   "products": [
     {
-      "name": "1 Million Minecraft World",
-      "first_reported_at": "2026-07-14T21:11:27.041308Z",
-      "last_reported_at": "2026-07-14T21:11:27.041308Z",
-      "times_reported": 1
-    },
-    {
       "name": "1.38 Millimeter Microcontroller",
       "first_reported_at": "2026-06-30T21:15:09Z",
       "last_reported_at": "2026-06-30T21:15:09Z",
+      "times_reported": 1
+    },
+    {
+      "name": "1 Million Minecraft World",
+      "first_reported_at": "2026-07-14T21:11:27.041308Z",
+      "last_reported_at": "2026-07-14T21:11:27.041308Z",
       "times_reported": 1
     },
     {
@@ -30,6 +30,12 @@
       "name": "1worldflag",
       "first_reported_at": "2026-06-08T21:22:08Z",
       "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "216M Spy TVs – The LG Smart TV Problem",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -225,6 +231,12 @@
       "times_reported": 1
     },
     {
+      "name": "All the Worst Humans",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Alpine Ajax",
       "first_reported_at": "2026-07-28T03:17:21Z",
       "last_reported_at": "2026-07-28T03:17:21Z",
@@ -366,6 +378,12 @@
       "name": "Ardent",
       "first_reported_at": "2026-05-13T21:22:29Z",
       "last_reported_at": "2026-05-13T21:22:29Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Arm's Cortex-A53: Tiny but Important",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -624,6 +642,12 @@
       "name": "Beyond All Reason",
       "first_reported_at": "2026-06-21T21:07:25Z",
       "last_reported_at": "2026-06-21T21:07:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Bézier Curves",
+      "first_reported_at": "2026-08-16T05:17:40+02:00",
+      "last_reported_at": "2026-08-16T05:17:40+02:00",
       "times_reported": 1
     },
     {
@@ -912,12 +936,6 @@
       "name": "BYTE magazine archive",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Bézier Curves",
-      "first_reported_at": "2026-08-16T05:17:40+02:00",
-      "last_reported_at": "2026-08-16T05:17:40+02:00",
       "times_reported": 1
     },
     {
@@ -1407,6 +1425,12 @@
       "times_reported": 1
     },
     {
+      "name": "Copperhead",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Cornell CS 3110 course materials",
       "first_reported_at": "2026-09-06T05:17:57+02:00",
       "last_reported_at": "2026-09-06T05:17:57+02:00",
@@ -1595,8 +1619,8 @@
     {
       "name": "DaVinci Resolve",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
-      "last_reported_at": "2026-04-14T13:41:27.313438+00:00",
-      "times_reported": 1
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 2
     },
     {
       "name": "Davit",
@@ -1665,6 +1689,12 @@
       "times_reported": 2
     },
     {
+      "name": "DeepSeek-V4-Flash",
+      "first_reported_at": "2026-05-16T21:36:59Z",
+      "last_reported_at": "2026-05-16T21:36:59Z",
+      "times_reported": 1
+    },
+    {
       "name": "DeepSeek V4 Preview",
       "first_reported_at": "2026-05-02T21:13:23Z",
       "last_reported_at": "2026-05-02T21:13:23Z",
@@ -1683,15 +1713,15 @@
       "times_reported": 1
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "first_reported_at": "2026-05-16T21:36:59Z",
-      "last_reported_at": "2026-05-16T21:36:59Z",
-      "times_reported": 1
-    },
-    {
       "name": "Deepsid / Chordian SID player",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Déjà Vu",
+      "first_reported_at": "2026-07-15T21:08:41Z",
+      "last_reported_at": "2026-07-15T21:08:41Z",
       "times_reported": 1
     },
     {
@@ -1743,6 +1773,12 @@
       "times_reported": 1
     },
     {
+      "name": "Diátaxis",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Didder",
       "first_reported_at": "2026-07-26T06:09:53+02:00",
       "last_reported_at": "2026-07-26T06:09:53+02:00",
@@ -1776,12 +1812,6 @@
       "name": "DIY Color Checker Video",
       "first_reported_at": "2026-09-07T05:17:54+02:00",
       "last_reported_at": "2026-09-07T05:17:54+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Diátaxis",
-      "first_reported_at": "2026-08-02T05:17:53+02:00",
-      "last_reported_at": "2026-08-02T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -1962,12 +1992,6 @@
       "name": "Dyson Sphere Program",
       "first_reported_at": "2026-06-30T21:15:09Z",
       "last_reported_at": "2026-06-30T21:15:09Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Déjà Vu",
-      "first_reported_at": "2026-07-15T21:08:41Z",
-      "last_reported_at": "2026-07-15T21:08:41Z",
       "times_reported": 1
     },
     {
@@ -2481,6 +2505,12 @@
       "times_reported": 1
     },
     {
+      "name": "frp",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Fugashi",
       "first_reported_at": "2026-08-16T05:17:40+02:00",
       "last_reported_at": "2026-08-16T05:17:40+02:00",
@@ -2523,15 +2553,15 @@
       "times_reported": 1
     },
     {
-      "name": "G'MIC",
-      "first_reported_at": "2026-08-02T05:17:53+02:00",
-      "last_reported_at": "2026-08-02T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
       "name": "G-Helper",
       "first_reported_at": "2026-08-24T05:32:23+02:00",
       "last_reported_at": "2026-08-24T05:32:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "G'MIC",
+      "first_reported_at": "2026-08-02T05:17:53+02:00",
+      "last_reported_at": "2026-08-02T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -2685,12 +2715,6 @@
       "times_reported": 1
     },
     {
-      "name": "Git commits as folders via NFS",
-      "first_reported_at": "2026-05-21T21:20:56Z",
-      "last_reported_at": "2026-05-21T21:20:56Z",
-      "times_reported": 1
-    },
-    {
       "name": "git-annex",
       "first_reported_at": "2026-06-24T21:10:29Z",
       "last_reported_at": "2026-06-24T21:10:29Z",
@@ -2700,6 +2724,12 @@
       "name": "git-arr",
       "first_reported_at": "2026-08-31T05:19:11+02:00",
       "last_reported_at": "2026-08-31T05:19:11+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Git commits as folders via NFS",
+      "first_reported_at": "2026-05-21T21:20:56Z",
+      "last_reported_at": "2026-05-21T21:20:56Z",
       "times_reported": 1
     },
     {
@@ -2808,6 +2838,12 @@
       "name": "GoModel",
       "first_reported_at": "2026-04-21T21:17:50Z",
       "last_reported_at": "2026-04-21T21:17:50Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Google Agent Development Kit",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
       "times_reported": 1
     },
     {
@@ -3378,6 +3414,12 @@
       "name": "IR sauna bags",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "iRail",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -3981,6 +4023,12 @@
       "times_reported": 1
     },
     {
+      "name": "LLM Attention Visualizer",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "llm-compressor",
       "first_reported_at": "2026-07-22T04:06:53Z",
       "last_reported_at": "2026-07-22T04:06:53Z",
@@ -4086,6 +4134,12 @@
       "name": "Mado",
       "first_reported_at": "2026-05-17T21:23:02Z",
       "last_reported_at": "2026-05-17T21:23:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "MAESTRO Dataset",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -5091,9 +5145,21 @@
       "times_reported": 1
     },
     {
+      "name": "open-artisan",
+      "first_reported_at": "2026-05-08T04:35:23Z",
+      "last_reported_at": "2026-05-08T04:35:23Z",
+      "times_reported": 1
+    },
+    {
       "name": "Open Book Touch",
       "first_reported_at": "2026-07-18T09:27:56Z",
       "last_reported_at": "2026-07-18T09:27:56Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Open-Source AI Racing Harness",
+      "first_reported_at": "2026-05-28T21:20:20Z",
+      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -5112,18 +5178,6 @@
       "name": "Open WebUI",
       "first_reported_at": "2026-06-15T21:10:59+00:00",
       "last_reported_at": "2026-06-15T21:10:59+00:00",
-      "times_reported": 1
-    },
-    {
-      "name": "open-artisan",
-      "first_reported_at": "2026-05-08T04:35:23Z",
-      "last_reported_at": "2026-05-08T04:35:23Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Open-Source AI Racing Harness",
-      "first_reported_at": "2026-05-28T21:20:20Z",
-      "last_reported_at": "2026-05-28T21:20:20Z",
       "times_reported": 1
     },
     {
@@ -5391,6 +5445,12 @@
       "times_reported": 1
     },
     {
+      "name": "OVinfo",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "OwnTracks",
       "first_reported_at": "2026-06-13T21:10:41.216149Z",
       "last_reported_at": "2026-06-13T21:10:41.216149Z",
@@ -5631,15 +5691,15 @@
       "times_reported": 1
     },
     {
-      "name": "pi-task-compaction",
-      "first_reported_at": "2026-08-14T05:18:33+02:00",
-      "last_reported_at": "2026-08-14T05:18:33+02:00",
-      "times_reported": 1
-    },
-    {
       "name": "pi.dev",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "pi-task-compaction",
+      "first_reported_at": "2026-08-14T05:18:33+02:00",
+      "last_reported_at": "2026-08-14T05:18:33+02:00",
       "times_reported": 1
     },
     {
@@ -6081,6 +6141,12 @@
       "times_reported": 1
     },
     {
+      "name": "Qwen3.8-27B",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "qxw",
       "first_reported_at": "2026-08-08T03:18:23Z",
       "last_reported_at": "2026-08-08T03:18:23Z",
@@ -6090,6 +6156,12 @@
       "name": "Racket",
       "first_reported_at": "2026-08-16T05:17:40+02:00",
       "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Radiance vLLM MXFP4",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -6663,6 +6735,12 @@
       "times_reported": 1
     },
     {
+      "name": "skills-sdlc",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Slayradio",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -6861,9 +6939,21 @@
       "times_reported": 1
     },
     {
+      "name": "SQL→ER diagram tool",
+      "first_reported_at": "2026-06-14T21:10:20.514906Z",
+      "last_reported_at": "2026-06-14T21:10:20.514906Z",
+      "times_reported": 1
+    },
+    {
       "name": "SQLite",
       "first_reported_at": "2026-08-20T05:16:56+02:00",
       "last_reported_at": "2026-08-20T05:16:56+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "sqlite-utils",
+      "first_reported_at": "2026-07-12T03:40:03Z",
+      "last_reported_at": "2026-07-12T03:40:03Z",
       "times_reported": 1
     },
     {
@@ -6876,18 +6966,6 @@
       "name": "SQLite WASM with OPFS",
       "first_reported_at": "2026-08-02T05:17:53+02:00",
       "last_reported_at": "2026-08-02T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "sqlite-utils",
-      "first_reported_at": "2026-07-12T03:40:03Z",
-      "last_reported_at": "2026-07-12T03:40:03Z",
-      "times_reported": 1
-    },
-    {
-      "name": "SQL→ER diagram tool",
-      "first_reported_at": "2026-06-14T21:10:20.514906Z",
-      "last_reported_at": "2026-06-14T21:10:20.514906Z",
       "times_reported": 1
     },
     {
@@ -7143,6 +7221,12 @@
       "times_reported": 1
     },
     {
+      "name": "SX",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Symbolica",
       "first_reported_at": "2026-06-07T21:23:51Z",
       "last_reported_at": "2026-06-07T21:23:51Z",
@@ -7177,6 +7261,12 @@
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-08-26T05:22:38+02:00",
       "times_reported": 2
+    },
+    {
+      "name": "TALA",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
     },
     {
       "name": "Talos Linux",
@@ -7257,6 +7347,12 @@
       "times_reported": 1
     },
     {
+      "name": "Terence Tao’s Navier–Stokes commentary",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Termic",
       "first_reported_at": "2026-08-10T05:16:58+02:00",
       "last_reported_at": "2026-08-10T05:16:58+02:00",
@@ -7326,6 +7422,12 @@
       "name": "The Cypherpunk Library",
       "first_reported_at": "2026-06-08T21:22:08Z",
       "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Dataflow Model Revisited",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -7446,6 +7548,12 @@
       "name": "The Visible Zorker",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Weather Machine",
+      "first_reported_at": "2026-09-08T05:17:59+02:00",
+      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     },
     {
@@ -7869,6 +7977,12 @@
       "times_reported": 1
     },
     {
+      "name": "Vāgdhenu",
+      "first_reported_at": "2026-07-18T09:27:56Z",
+      "last_reported_at": "2026-07-18T09:27:56Z",
+      "times_reported": 1
+    },
+    {
       "name": "Van Gogh Studio",
       "first_reported_at": "2026-05-05T21:17:42.347177Z",
       "last_reported_at": "2026-05-05T21:17:42.347177Z",
@@ -8046,12 +8160,6 @@
       "name": "VulnHunter",
       "first_reported_at": "2026-07-17T21:11:36.594896Z",
       "last_reported_at": "2026-07-17T21:11:36.594896Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Vāgdhenu",
-      "first_reported_at": "2026-07-18T09:27:56Z",
-      "last_reported_at": "2026-07-18T09:27:56Z",
       "times_reported": 1
     },
     {
@@ -8433,6 +8541,12 @@
       "times_reported": 1
     },
     {
+      "name": "yEd Graph Editor",
+      "first_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Yesterdays",
       "first_reported_at": "2026-08-27T05:17:25+02:00",
       "last_reported_at": "2026-08-27T05:17:25+02:00",
@@ -8586,66 +8700,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "skills-sdlc",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "SX",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Radiance vLLM MXFP4",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "OVinfo",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "iRail",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "MAESTRO Dataset",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "The Weather Machine",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Arm's Cortex-A53: Tiny but Important",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "The Dataflow Model Revisited",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "216M Spy TVs – The LG Smart TV Problem",
-      "first_reported_at": "2026-09-08T05:17:59+02:00",
-      "last_reported_at": "2026-09-08T05:17:59+02:00",
       "times_reported": 1
     }
   ]

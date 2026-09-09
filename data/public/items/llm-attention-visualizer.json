@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "id": "llm-attention-visualizer",
+  "last_seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "latest_mention_id": "2026-09-09:llm-attention-visualizer:49613068",
+  "mention_ids": [
+    "2026-09-09:llm-attention-visualizer:49613068"
+  ],
+  "name": "LLM Attention Visualizer",
+  "slug": "llm-attention-visualizer",
+  "summary": "An interactive visualization that makes transformer attention easier to explain.",
+  "thing_url": "https://ishamf.dev/p/llm-attention-visualizer/",
+  "times_seen": 1,
+  "why_included": "An instructor said it arrived at the perfect time for teaching attention."
+}

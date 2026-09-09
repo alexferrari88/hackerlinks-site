@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended the commentary and highlighted its concern about purely AI-powered proof methods.",
+  "evidence_sources": [
+    {
+      "author": "goldenarm",
+      "comment_id": "49607399",
+      "comment_url": "https://news.ycombinator.com/item?id=49605915#49607399",
+      "excerpt": "I recommend Terrence Tao's commentary on such a proof : https://mathstodon.xyz/@tao/117219101339291693",
+      "kind": "recommendation",
+      "parent_comment_id": "49605915"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49605915",
+  "id": "2026-09-09:terence-taos-navierstokes-commentary:49605915",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "terence-taos-navierstokes-commentary",
+  "rank": 10,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49605915",
+  "source_story_title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]"
+}

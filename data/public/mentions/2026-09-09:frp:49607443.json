@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter directly identified frp as a good Cloudflare Tunnel alternative.",
+  "evidence_sources": [
+    {
+      "author": "frevib",
+      "comment_id": "49608100",
+      "comment_url": "https://news.ycombinator.com/item?id=49607443#49608100",
+      "context": "production_use",
+      "excerpt": "There is no replacement for Cloudflare Tunnel, but frp [1] is a good alternative.",
+      "kind": "recommendation",
+      "parent_comment_id": "49607606"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49607443",
+  "id": "2026-09-09:frp:49607443",
+  "is_repeat": false,
+  "issue_id": "2026-09-09",
+  "item_id": "frp",
+  "rank": 4,
+  "seen_at": "2026-09-09T03:16:05.408880+00:00",
+  "source_story_id": "49607443",
+  "source_story_title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare"
+}
