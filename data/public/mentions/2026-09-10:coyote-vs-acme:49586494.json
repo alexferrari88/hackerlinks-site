@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the film very funny and entertaining and strongly recommended it.",
+  "evidence_sources": [
+    {
+      "author": "hurtbaseball",
+      "comment_id": "49630363",
+      "comment_url": "https://news.ycombinator.com/item?id=49586494#49630363",
+      "context": "first_hand_use",
+      "excerpt": "I can't recommend the movie enough. Saw it over the weekend and it's very funny and entertaining.",
+      "kind": "recommendation",
+      "parent_comment_id": "49586494"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49586494",
+  "id": "2026-09-10:coyote-vs-acme:49586494",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "coyote-vs-acme",
+  "rank": 10,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49586494",
+  "source_story_title": "Coyote v. Acme (1990)"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "fluidvoice",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:fluidvoice:49624823",
+  "mention_ids": [
+    "2026-09-10:fluidvoice:49624823"
+  ],
+  "name": "FluidVoice",
+  "slug": "fluidvoice",
+  "summary": "An offline macOS dictation app built around local speech-to-text models.",
+  "thing_url": "https://github.com/altic-dev/FluidVoice",
+  "times_seen": 1,
+  "why_included": "A commenter testing offline dictation apps directly called FluidVoice great."
+}

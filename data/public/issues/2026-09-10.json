@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T05:19:13+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-10",
+  "id": "2026-09-10",
+  "mention_ids": [
+    "2026-09-10:fluidvoice:49624823",
+    "2026-09-10:print-for-visual-studio-code:49617255",
+    "2026-09-10:gnu-radio-world:49628576",
+    "2026-09-10:read-the-docs:49628614",
+    "2026-09-10:crowd-supply:49617255",
+    "2026-09-10:zinwa-q25:49630931",
+    "2026-09-10:incorruptible:49630931",
+    "2026-09-10:the-elephant-in-the-brain:49623754",
+    "2026-09-10:the-devastating-decline-of-a-brilliant-young-coder:49621102",
+    "2026-09-10:coyote-vs-acme:49586494",
+    "2026-09-10:who-framed-roger-rabbit:49586494",
+    "2026-09-10:dr-strangelove:49619227"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

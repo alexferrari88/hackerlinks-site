@@ -1,0 +1,273 @@
+{
+  "version": 2,
+  "run_date": "2026-09-10",
+  "generated_at": "2026-09-10T05:19:13+02:00",
+  "summary": "Twelve comment-endorsed tools, services, books, films, and devices from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-10.json",
+    "sha256": "1e872a64a2555ce40f0138eb301a7354c35595169dff5641d467f81fe1f2c223",
+    "bytes": 4908890,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 8172,
+    "fetched_item_count": 8202,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "FluidVoice",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/altic-dev/FluidVoice",
+      "hn_url": "https://news.ycombinator.com/item?id=49624823",
+      "source_story_title": "Desert Ant Labs: local, fast models that run on device",
+      "summary": "An offline macOS dictation app built around local speech-to-text models.",
+      "why_included": "A commenter testing offline dictation apps directly called FluidVoice great.",
+      "evidence": "The commenter singled out FluidVoice as a great app for local dictation.",
+      "evidence_sources": [
+        {
+          "comment_id": "49637497",
+          "comment_url": "https://news.ycombinator.com/item?id=49624823#49637497",
+          "author": "shelled",
+          "excerpt": "If any of you are interested there are apps like https://github.com/altic-dev/FluidVoice (this one's a great app)",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49624823"
+        }
+      ]
+    },
+    {
+      "name": "Print for Visual Studio Code",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print",
+      "hn_url": "https://news.ycombinator.com/item?id=49617255",
+      "source_story_title": "How to build a printer",
+      "summary": "A VS Code extension for printing source code and Markdown documents.",
+      "why_included": "A commenter searching for code-printing support reported that this extension worked well.",
+      "evidence": "The commenter identified pdconsec.vscode-print as an option that worked well.",
+      "evidence_sources": [
+        {
+          "comment_id": "49632918",
+          "comment_url": "https://news.ycombinator.com/item?id=49617255#49632918",
+          "author": "rrr_oh_man",
+          "excerpt": "This one seems to work well: pdconsec.vscode-print",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49622015"
+        }
+      ]
+    },
+    {
+      "name": "GNU Radio World",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://gnuradioworld.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49628576",
+      "source_story_title": "GNU Radio in the browser",
+      "summary": "A browser-based GNU Radio flowgraph editor and WebAssembly runtime.",
+      "why_included": "A commenter praised the interface and planned to keep experimenting with it.",
+      "evidence": "The commenter found the GUI pleasant and called the project awesome.",
+      "evidence_sources": [
+        {
+          "comment_id": "49633579",
+          "comment_url": "https://news.ycombinator.com/item?id=49628576#49633579",
+          "author": "baileynoack",
+          "excerpt": "The GUI is pretty nice to interact with. I'll definitely be playing around with this some more, awesome project!",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49628576"
+        }
+      ]
+    },
+    {
+      "name": "Read the Docs",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://about.readthedocs.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49628614",
+      "source_story_title": "Understanding the recent DDoS attack against Read the Docs",
+      "summary": "A platform for building, versioning, searching, and hosting software documentation.",
+      "why_included": "A frequent user called the service fantastic after years of practical use.",
+      "evidence": "The commenter said they use Read the Docs often and praised it as fantastic.",
+      "evidence_sources": [
+        {
+          "comment_id": "49629761",
+          "comment_url": "https://news.ycombinator.com/item?id=49628614#49629761",
+          "author": "tescreal",
+          "excerpt": "I use your site (with a manual transmission user-agent) often, and it's fantastic.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49629625"
+        }
+      ]
+    },
+    {
+      "name": "Crowd Supply",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.crowdsupply.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49617255",
+      "source_story_title": "How to build a printer",
+      "summary": "A crowdfunding and fulfillment platform focused on original hardware projects.",
+      "why_included": "A repeat buyer reported consistently good outcomes and unusually high trust.",
+      "evidence": "The commenter had bought several projects through Crowd Supply and had never been disappointed.",
+      "evidence_sources": [
+        {
+          "comment_id": "49624107",
+          "comment_url": "https://news.ycombinator.com/item?id=49617255#49624107",
+          "author": "utopiah",
+          "excerpt": "I bought quite a few projects via CS and never been disappointed.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49622416"
+        }
+      ]
+    },
+    {
+      "name": "Zinwa Q25",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://zinwa.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49630931",
+      "source_story_title": "iPhone Duo",
+      "summary": "A BlackBerry Classic-style Android phone rebuilt with modern internal hardware.",
+      "why_included": "An owner explicitly said they loved theirs after installing a newer Android build.",
+      "evidence": "The commenter praised their modernized BlackBerry Classic and said they loved it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49633649",
+          "comment_url": "https://news.ycombinator.com/item?id=49630931#49633649",
+          "author": "xethos",
+          "excerpt": "there are currently BlackBerry Classic shipping with modern internals. I love mine",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49633509"
+        }
+      ]
+    },
+    {
+      "name": "Incorruptible",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.incorruptible.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=49630931",
+      "source_story_title": "iPhone Duo",
+      "summary": "Eric Ries's book on keeping successful companies aligned with their missions.",
+      "why_included": "A commenter highly recommended its account of shareholder primacy and corporate corruption.",
+      "evidence": "The commenter highly recommended the book for its explanation of how markets can corrupt companies.",
+      "evidence_sources": [
+        {
+          "comment_id": "49633907",
+          "comment_url": "https://news.ycombinator.com/item?id=49630931#49633907",
+          "author": "sethherr",
+          "excerpt": "I highly recommend Incorruptible by Eric Reis - it makes it clear that shareholder primacy is a relatively recent phenomena",
+          "kind": "recommendation",
+          "parent_comment_id": "49633718"
+        }
+      ]
+    },
+    {
+      "name": "The Elephant in the Brain",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.elephantinthebrain.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49623754",
+      "source_story_title": "Claude, change the “Add to Cart” button to blue",
+      "summary": "A book about hidden motives behind everyday behavior and social institutions.",
+      "why_included": "A commenter gave the book a direct and emphatic recommendation.",
+      "evidence": "The commenter said the lesson came from the book and strongly recommended it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49627747",
+          "comment_url": "https://news.ycombinator.com/item?id=49623754#49627747",
+          "author": "BurningFrog",
+          "excerpt": "I learned this from \"The Elephant in the Brain\", which I strongly recommend",
+          "kind": "recommendation",
+          "parent_comment_id": "49627617"
+        }
+      ]
+    },
+    {
+      "name": "The Devastating Decline of a Brilliant Young Coder",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/",
+      "hn_url": "https://news.ycombinator.com/item?id=49621102",
+      "source_story_title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "summary": "A Wired profile of Cloudflare cofounder Lee Holloway's life and illness.",
+      "why_included": "A commenter highly recommended the long, heartbreaking profile.",
+      "evidence": "The commenter directly recommended Wired's profile and described it as heartbreaking.",
+      "evidence_sources": [
+        {
+          "comment_id": "49621321",
+          "comment_url": "https://news.ycombinator.com/item?id=49621102#49621321",
+          "author": "zachthewf",
+          "excerpt": "Highly recommend the Wired story about Lee",
+          "kind": "recommendation",
+          "parent_comment_id": "49621102"
+        }
+      ]
+    },
+    {
+      "name": "Coyote vs. Acme",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.coyotevsacme.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49586494",
+      "source_story_title": "Coyote v. Acme (1990)",
+      "summary": "A live-action and animated comedy built around Wile E. Coyote's lawsuit.",
+      "why_included": "A viewer enthusiastically recommended the film after seeing it in theaters.",
+      "evidence": "The commenter called the film very funny and entertaining and strongly recommended it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49630363",
+          "comment_url": "https://news.ycombinator.com/item?id=49586494#49630363",
+          "author": "hurtbaseball",
+          "excerpt": "I can't recommend the movie enough. Saw it over the weekend and it's very funny and entertaining.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49586494"
+        }
+      ]
+    },
+    {
+      "name": "Who Framed Roger Rabbit",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.disneyplus.com/browse/entity-40c47172-d2ea-452d-bb69-ca8f45bc2b9d",
+      "hn_url": "https://news.ycombinator.com/item?id=49586494",
+      "source_story_title": "Coyote v. Acme (1990)",
+      "summary": "A live-action and animated film-noir comedy set in 1947 Hollywood.",
+      "why_included": "A viewer recommended it over the newly released Coyote vs. Acme film.",
+      "evidence": "The commenter explicitly preferred and recommended Who Framed Roger Rabbit in comparison.",
+      "evidence_sources": [
+        {
+          "comment_id": "49625450",
+          "comment_url": "https://news.ycombinator.com/item?id=49586494#49625450",
+          "author": "EGreg",
+          "excerpt": "I would recommend “who framed Roger Rabbit” over this.",
+          "kind": "comparison",
+          "context": "evaluated",
+          "parent_comment_id": "49624780"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Strangelove",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.sonypictures.com/movies/drstrangeloveorhowilearnedtostopworryingandlovethebomb",
+      "hn_url": "https://news.ycombinator.com/item?id=49619227",
+      "source_story_title": "I resigned from Anthropic today",
+      "summary": "Stanley Kubrick's dark comedy about nuclear brinkmanship and institutional absurdity.",
+      "why_included": "A commenter described the film as always worth watching again.",
+      "evidence": "The commenter directly endorsed Dr. Strangelove as worthy of repeat viewing.",
+      "evidence_sources": [
+        {
+          "comment_id": "49623755",
+          "comment_url": "https://news.ycombinator.com/item?id=49619227#49623755",
+          "author": "sdl",
+          "excerpt": "Always worth watching again: \"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb\"",
+          "kind": "recommendation",
+          "parent_comment_id": "49623374"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter singled out FluidVoice as a great app for local dictation.",
+  "evidence_sources": [
+    {
+      "author": "shelled",
+      "comment_id": "49637497",
+      "comment_url": "https://news.ycombinator.com/item?id=49624823#49637497",
+      "context": "evaluated",
+      "excerpt": "If any of you are interested there are apps like https://github.com/altic-dev/FluidVoice (this one's a great app)",
+      "kind": "recommendation",
+      "parent_comment_id": "49624823"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49624823",
+  "id": "2026-09-10:fluidvoice:49624823",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "fluidvoice",
+  "rank": 1,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49624823",
+  "source_story_title": "Desert Ant Labs: local, fast models that run on device"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter highly recommended the book for its explanation of how markets can corrupt companies.",
+  "evidence_sources": [
+    {
+      "author": "sethherr",
+      "comment_id": "49633907",
+      "comment_url": "https://news.ycombinator.com/item?id=49630931#49633907",
+      "excerpt": "I highly recommend Incorruptible by Eric Reis - it makes it clear that shareholder primacy is a relatively recent phenomena",
+      "kind": "recommendation",
+      "parent_comment_id": "49633718"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49630931",
+  "id": "2026-09-10:incorruptible:49630931",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "incorruptible",
+  "rank": 7,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49630931",
+  "source_story_title": "iPhone Duo"
+}

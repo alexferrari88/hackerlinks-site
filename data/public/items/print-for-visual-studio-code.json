@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "print-for-visual-studio-code",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:print-for-visual-studio-code:49617255",
+  "mention_ids": [
+    "2026-09-10:print-for-visual-studio-code:49617255"
+  ],
+  "name": "Print for Visual Studio Code",
+  "slug": "print-for-visual-studio-code",
+  "summary": "A VS Code extension for printing source code and Markdown documents.",
+  "thing_url": "https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print",
+  "times_seen": 1,
+  "why_included": "A commenter searching for code-printing support reported that this extension worked well."
+}

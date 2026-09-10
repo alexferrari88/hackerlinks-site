@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found the GUI pleasant and called the project awesome.",
+  "evidence_sources": [
+    {
+      "author": "baileynoack",
+      "comment_id": "49633579",
+      "comment_url": "https://news.ycombinator.com/item?id=49628576#49633579",
+      "context": "evaluated",
+      "excerpt": "The GUI is pretty nice to interact with. I'll definitely be playing around with this some more, awesome project!",
+      "kind": "recommendation",
+      "parent_comment_id": "49628576"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49628576",
+  "id": "2026-09-10:gnu-radio-world:49628576",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "gnu-radio-world",
+  "rank": 3,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49628576",
+  "source_story_title": "GNU Radio in the browser"
+}

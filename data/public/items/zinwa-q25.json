@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "zinwa-q25",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:zinwa-q25:49630931",
+  "mention_ids": [
+    "2026-09-10:zinwa-q25:49630931"
+  ],
+  "name": "Zinwa Q25",
+  "slug": "zinwa-q25",
+  "summary": "A BlackBerry Classic-style Android phone rebuilt with modern internal hardware.",
+  "thing_url": "https://zinwa.com/",
+  "times_seen": 1,
+  "why_included": "An owner explicitly said they loved theirs after installing a newer Android build."
+}

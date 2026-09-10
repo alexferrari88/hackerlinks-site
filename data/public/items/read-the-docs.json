@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "read-the-docs",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:read-the-docs:49628614",
+  "mention_ids": [
+    "2026-09-10:read-the-docs:49628614"
+  ],
+  "name": "Read the Docs",
+  "slug": "read-the-docs",
+  "summary": "A platform for building, versioning, searching, and hosting software documentation.",
+  "thing_url": "https://about.readthedocs.com/",
+  "times_seen": 1,
+  "why_included": "A frequent user called the service fantastic after years of practical use."
+}

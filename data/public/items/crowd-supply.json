@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "crowd-supply",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:crowd-supply:49617255",
+  "mention_ids": [
+    "2026-09-10:crowd-supply:49617255"
+  ],
+  "name": "Crowd Supply",
+  "slug": "crowd-supply",
+  "summary": "A crowdfunding and fulfillment platform focused on original hardware projects.",
+  "thing_url": "https://www.crowdsupply.com/",
+  "times_seen": 1,
+  "why_included": "A repeat buyer reported consistently good outcomes and unusually high trust."
+}

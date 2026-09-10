@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "the-elephant-in-the-brain",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:the-elephant-in-the-brain:49623754",
+  "mention_ids": [
+    "2026-09-10:the-elephant-in-the-brain:49623754"
+  ],
+  "name": "The Elephant in the Brain",
+  "slug": "the-elephant-in-the-brain",
+  "summary": "A book about hidden motives behind everyday behavior and social institutions.",
+  "thing_url": "https://www.elephantinthebrain.com/",
+  "times_seen": 1,
+  "why_included": "A commenter gave the book a direct and emphatic recommendation."
+}

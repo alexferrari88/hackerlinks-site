@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "dr-strangelove",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:dr-strangelove:49619227",
+  "mention_ids": [
+    "2026-09-10:dr-strangelove:49619227"
+  ],
+  "name": "Dr. Strangelove",
+  "slug": "dr-strangelove",
+  "summary": "Stanley Kubrick's dark comedy about nuclear brinkmanship and institutional absurdity.",
+  "thing_url": "https://www.sonypictures.com/movies/drstrangeloveorhowilearnedtostopworryingandlovethebomb",
+  "times_seen": 1,
+  "why_included": "A commenter described the film as always worth watching again."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "coyote-vs-acme",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:coyote-vs-acme:49586494",
+  "mention_ids": [
+    "2026-09-10:coyote-vs-acme:49586494"
+  ],
+  "name": "Coyote vs. Acme",
+  "slug": "coyote-vs-acme",
+  "summary": "A live-action and animated comedy built around Wile E. Coyote's lawsuit.",
+  "thing_url": "https://www.coyotevsacme.com/",
+  "times_seen": 1,
+  "why_included": "A viewer enthusiastically recommended the film after seeing it in theaters."
+}

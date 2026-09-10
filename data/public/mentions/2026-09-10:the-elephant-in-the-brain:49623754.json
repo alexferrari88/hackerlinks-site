@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter said the lesson came from the book and strongly recommended it.",
+  "evidence_sources": [
+    {
+      "author": "BurningFrog",
+      "comment_id": "49627747",
+      "comment_url": "https://news.ycombinator.com/item?id=49623754#49627747",
+      "excerpt": "I learned this from \"The Elephant in the Brain\", which I strongly recommend",
+      "kind": "recommendation",
+      "parent_comment_id": "49627617"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49623754",
+  "id": "2026-09-10:the-elephant-in-the-brain:49623754",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "the-elephant-in-the-brain",
+  "rank": 8,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49623754",
+  "source_story_title": "Claude, change the \u201cAdd to Cart\u201d button to blue"
+}

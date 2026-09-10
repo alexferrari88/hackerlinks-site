@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter directly recommended Wired's profile and described it as heartbreaking.",
+  "evidence_sources": [
+    {
+      "author": "zachthewf",
+      "comment_id": "49621321",
+      "comment_url": "https://news.ycombinator.com/item?id=49621102#49621321",
+      "excerpt": "Highly recommend the Wired story about Lee",
+      "kind": "recommendation",
+      "parent_comment_id": "49621102"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49621102",
+  "id": "2026-09-10:the-devastating-decline-of-a-brilliant-young-coder:49621102",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "the-devastating-decline-of-a-brilliant-young-coder",
+  "rank": 9,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49621102",
+  "source_story_title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)"
+}

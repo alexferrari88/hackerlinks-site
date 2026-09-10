@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised their modernized BlackBerry Classic and said they loved it.",
+  "evidence_sources": [
+    {
+      "author": "xethos",
+      "comment_id": "49633649",
+      "comment_url": "https://news.ycombinator.com/item?id=49630931#49633649",
+      "context": "first_hand_use",
+      "excerpt": "there are currently BlackBerry Classic shipping with modern internals. I love mine",
+      "kind": "recommendation",
+      "parent_comment_id": "49633509"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49630931",
+  "id": "2026-09-10:zinwa-q25:49630931",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "zinwa-q25",
+  "rank": 6,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49630931",
+  "source_story_title": "iPhone Duo"
+}

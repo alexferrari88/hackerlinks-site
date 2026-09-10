@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said they use Read the Docs often and praised it as fantastic.",
+  "evidence_sources": [
+    {
+      "author": "tescreal",
+      "comment_id": "49629761",
+      "comment_url": "https://news.ycombinator.com/item?id=49628614#49629761",
+      "context": "first_hand_use",
+      "excerpt": "I use your site (with a manual transmission user-agent) often, and it's fantastic.",
+      "kind": "recommendation",
+      "parent_comment_id": "49629625"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49628614",
+  "id": "2026-09-10:read-the-docs:49628614",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "read-the-docs",
+  "rank": 4,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49628614",
+  "source_story_title": "Understanding the recent DDoS attack against Read the Docs"
+}

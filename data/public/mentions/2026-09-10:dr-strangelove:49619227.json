@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter directly endorsed Dr. Strangelove as worthy of repeat viewing.",
+  "evidence_sources": [
+    {
+      "author": "sdl",
+      "comment_id": "49623755",
+      "comment_url": "https://news.ycombinator.com/item?id=49619227#49623755",
+      "excerpt": "Always worth watching again: \"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49623374"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49619227",
+  "id": "2026-09-10:dr-strangelove:49619227",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "dr-strangelove",
+  "rank": 12,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49619227",
+  "source_story_title": "I resigned from Anthropic today"
+}

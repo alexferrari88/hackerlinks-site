@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter identified pdconsec.vscode-print as an option that worked well.",
+  "evidence_sources": [
+    {
+      "author": "rrr_oh_man",
+      "comment_id": "49632918",
+      "comment_url": "https://news.ycombinator.com/item?id=49617255#49632918",
+      "context": "evaluated",
+      "excerpt": "This one seems to work well: pdconsec.vscode-print",
+      "kind": "recommendation",
+      "parent_comment_id": "49622015"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49617255",
+  "id": "2026-09-10:print-for-visual-studio-code:49617255",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "print-for-visual-studio-code",
+  "rank": 2,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49617255",
+  "source_story_title": "How to build a printer"
+}

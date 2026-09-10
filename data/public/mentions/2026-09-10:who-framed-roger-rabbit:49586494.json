@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter explicitly preferred and recommended Who Framed Roger Rabbit in comparison.",
+  "evidence_sources": [
+    {
+      "author": "EGreg",
+      "comment_id": "49625450",
+      "comment_url": "https://news.ycombinator.com/item?id=49586494#49625450",
+      "context": "evaluated",
+      "excerpt": "I would recommend \u201cwho framed Roger Rabbit\u201d over this.",
+      "kind": "comparison",
+      "parent_comment_id": "49624780"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49586494",
+  "id": "2026-09-10:who-framed-roger-rabbit:49586494",
+  "is_repeat": false,
+  "issue_id": "2026-09-10",
+  "item_id": "who-framed-roger-rabbit",
+  "rank": 11,
+  "seen_at": "2026-09-10T05:19:13+02:00",
+  "source_story_id": "49586494",
+  "source_story_title": "Coyote v. Acme (1990)"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "gnu-radio-world",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:gnu-radio-world:49628576",
+  "mention_ids": [
+    "2026-09-10:gnu-radio-world:49628576"
+  ],
+  "name": "GNU Radio World",
+  "slug": "gnu-radio-world",
+  "summary": "A browser-based GNU Radio flowgraph editor and WebAssembly runtime.",
+  "thing_url": "https://gnuradioworld.com/",
+  "times_seen": 1,
+  "why_included": "A commenter praised the interface and planned to keep experimenting with it."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-10T05:19:13+02:00",
+  "id": "incorruptible",
+  "last_seen_at": "2026-09-10T05:19:13+02:00",
+  "latest_mention_id": "2026-09-10:incorruptible:49630931",
+  "mention_ids": [
+    "2026-09-10:incorruptible:49630931"
+  ],
+  "name": "Incorruptible",
+  "slug": "incorruptible",
+  "summary": "Eric Ries's book on keeping successful companies aligned with their missions.",
+  "thing_url": "https://www.incorruptible.co/",
+  "times_seen": 1,
+  "why_included": "A commenter highly recommended its account of shareholder primacy and corporate corruption."
+}
