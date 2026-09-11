@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "hallaig",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:hallaig:49638280",
+  "mention_ids": [
+    "2026-09-11:hallaig:49638280"
+  ],
+  "name": "Hallaig",
+  "slug": "hallaig",
+  "summary": "Somhairle MacGill-Eain's Gaelic poem about memory, loss, and a cleared township.",
+  "thing_url": "https://www.scottishpoetrylibrary.org.uk/poem/hallaig/",
+  "times_seen": 1,
+  "why_included": "A commenter directly urged another reader to read Hallaig for Highland cultural context."
+}

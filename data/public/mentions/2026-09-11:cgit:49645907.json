@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter presented cgit as a simpler alternative with fewer exposed features.",
+  "evidence_sources": [
+    {
+      "author": "bitbasher",
+      "comment_id": "49651564",
+      "comment_url": "https://news.ycombinator.com/item?id=49645907#49651564",
+      "excerpt": "Something like cgit that has no accounts has much less surface area for this kind of issue.",
+      "kind": "recommendation",
+      "parent_comment_id": "49645907"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49645907",
+  "id": "2026-09-11:cgit:49645907",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "cgit",
+  "rank": 2,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49645907",
+  "source_story_title": "Forgejo <=16.0.3 Critical RCE"
+}

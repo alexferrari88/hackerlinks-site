@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "xfce",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:xfce:49646181",
+  "mention_ids": [
+    "2026-09-11:xfce:49646181"
+  ],
+  "name": "Xfce",
+  "slug": "xfce",
+  "summary": "A lightweight Unix desktop environment focused on speed and resource efficiency.",
+  "thing_url": "https://xfce.org/",
+  "times_seen": 1,
+  "why_included": "A current user explicitly said they love Xfce's more stable approach."
+}

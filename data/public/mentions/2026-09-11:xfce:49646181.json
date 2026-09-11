@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter cited Xfce as software they actively use and love.",
+  "evidence_sources": [
+    {
+      "author": "IvanLudvig",
+      "comment_id": "49651907",
+      "comment_url": "https://news.ycombinator.com/item?id=49646181#49651907",
+      "context": "first_hand_use",
+      "excerpt": "I use and love xfce, for example",
+      "kind": "recommendation",
+      "parent_comment_id": "49646181"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49646181",
+  "id": "2026-09-11:xfce:49646181",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "xfce",
+  "rank": 3,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49646181",
+  "source_story_title": "I have a theory that software drives people insane"
+}

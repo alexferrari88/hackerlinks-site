@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "velocity-raptor",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:velocity-raptor:49637385",
+  "mention_ids": [
+    "2026-09-11:velocity-raptor:49637385"
+  ],
+  "name": "Velocity Raptor",
+  "slug": "velocity-raptor",
+  "summary": "A free puzzle game that makes special-relativity effects directly playable.",
+  "thing_url": "https://www.testtubegames.com/velocityraptor.html",
+  "times_seen": 1,
+  "why_included": "A commenter recommended the simulation and singled out favorite educational levels."
+}

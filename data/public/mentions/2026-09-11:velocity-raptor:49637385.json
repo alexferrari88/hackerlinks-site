@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described its relativity simulation and highlighted favorite levels demonstrating key effects.",
+  "evidence_sources": [
+    {
+      "author": "tristanj",
+      "comment_id": "49637822",
+      "comment_url": "https://news.ycombinator.com/item?id=49637385#49637822",
+      "context": "evaluated",
+      "excerpt": "Velocity raptor is a free game that accurately simulates the effects of special relativity. It slows down the speed of light to 3m/s and you solve puzzles as a cute dinosaur.",
+      "kind": "recommendation",
+      "parent_comment_id": "49637385"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49637385",
+  "id": "2026-09-11:velocity-raptor:49637385",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "velocity-raptor",
+  "rank": 5,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49637385",
+  "source_story_title": "Show HN: What if the speed of light was 5 km/h?"
+}

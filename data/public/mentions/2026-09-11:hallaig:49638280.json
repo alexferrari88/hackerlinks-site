@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter explicitly recommended Hallaig by name and author.",
+  "evidence_sources": [
+    {
+      "author": "ErroneousBosh",
+      "comment_id": "49649988",
+      "comment_url": "https://news.ycombinator.com/item?id=49638280#49649988",
+      "excerpt": "I mean make him read Hallaig by Somhairle MacGill-eain.",
+      "kind": "recommendation",
+      "parent_comment_id": "49641019"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49638280",
+  "id": "2026-09-11:hallaig:49638280",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "hallaig",
+  "rank": 11,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49638280",
+  "source_story_title": "All grown-ups were once children, but only few of them remember it"
+}

@@ -8773,6 +8773,78 @@
       "first_reported_at": "2026-09-10T05:19:13+02:00",
       "last_reported_at": "2026-09-10T05:19:13+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Kotlin Multiplatform",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "cgit",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Xfce",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DStretch",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Velocity Raptor",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nocheto",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BookFusion",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Libro.fm",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "What Makes Music Sound Good?",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gödel, Escher, Bach",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hallaig",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Mythical Man-Month",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended the resource and highlighted its first-principles explanation.",
+  "evidence_sources": [
+    {
+      "author": "ChadNauseam",
+      "comment_id": "49651759",
+      "comment_url": "https://news.ycombinator.com/item?id=49647134#49651759",
+      "excerpt": "I recommend \"What Makes Music Sound Good?\" by Prof. Dmitri Tymoczko",
+      "kind": "recommendation",
+      "parent_comment_id": "49650276"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49647134",
+  "id": "2026-09-11:what-makes-music-sound-good:49647134",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "what-makes-music-sound-good",
+  "rank": 9,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49647134",
+  "source_story_title": "Music Theory for the 21st-Century Classroom"
+}

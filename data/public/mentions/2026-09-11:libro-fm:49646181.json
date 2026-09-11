@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter pays for Libro.fm and praised it as a simple, basic-interface app.",
+  "evidence_sources": [
+    {
+      "author": "jadbox",
+      "comment_id": "49646821",
+      "comment_url": "https://news.ycombinator.com/item?id=49646181#49646821",
+      "context": "first_hand_use",
+      "excerpt": "The apps I pay for are simple and focus on a super basic interface. BookFusion and Libro.fm are great examples.",
+      "kind": "recommendation",
+      "parent_comment_id": "49646181"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49646181",
+  "id": "2026-09-11:libro-fm:49646181",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "libro-fm",
+  "rank": 8,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49646181",
+  "source_story_title": "I have a theory that software drives people insane"
+}

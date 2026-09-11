@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "kotlin-multiplatform",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:kotlin-multiplatform:49643982",
+  "mention_ids": [
+    "2026-09-11:kotlin-multiplatform:49643982"
+  ],
+  "name": "Kotlin Multiplatform",
+  "slug": "kotlin-multiplatform",
+  "summary": "A framework for sharing Kotlin application logic across mobile and desktop platforms.",
+  "thing_url": "https://kotlinlang.org/docs/multiplatform.html",
+  "times_seen": 1,
+  "why_included": "A developer who migrated from React Native reported no disappointment and praised shared business logic."
+}

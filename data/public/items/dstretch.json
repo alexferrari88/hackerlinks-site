@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "dstretch",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:dstretch:49645437",
+  "mention_ids": [
+    "2026-09-11:dstretch:49645437"
+  ],
+  "name": "DStretch",
+  "slug": "dstretch",
+  "summary": "An ImageJ plugin that enhances faint colors and details in photographs.",
+  "thing_url": "https://www.dstretch.com/",
+  "times_seen": 1,
+  "why_included": "A commenter praised an unexpected practical use: revealing old painted building signs."
+}

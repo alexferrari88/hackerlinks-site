@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "nocheto",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:nocheto:49599992",
+  "mention_ids": [
+    "2026-09-11:nocheto:49599992"
+  ],
+  "name": "Nocheto",
+  "slug": "nocheto",
+  "summary": "A configurable Linux-console suite for playing, studying, and analyzing chess.",
+  "thing_url": "https://nocheto.sallyx.org/",
+  "times_seen": 1,
+  "why_included": "A commenter called Nocheto a top chess GUI option and their personal favorite."
+}

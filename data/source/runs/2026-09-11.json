@@ -1,0 +1,280 @@
+{
+  "version": 2,
+  "run_date": "2026-09-11",
+  "generated_at": "2026-09-11T05:17:53+02:00",
+  "summary": "Twelve comment-endorsed tools, apps, games, books, and learning resources from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-11.json",
+    "sha256": "ebeba495761fb776b4b5603039d7474bd70d345bad164a9d41405f9144a1d18a",
+    "bytes": 3721243,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6059,
+    "fetched_item_count": 6089,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Kotlin Multiplatform",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://kotlinlang.org/docs/multiplatform.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49643982",
+      "source_story_title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "summary": "A framework for sharing Kotlin application logic across mobile and desktop platforms.",
+      "why_included": "A developer who migrated from React Native reported no disappointment and praised shared business logic.",
+      "evidence": "The commenter adopted Kotlin Multiplatform and valued writing business logic once while retaining UI flexibility.",
+      "evidence_sources": [
+        {
+          "comment_id": "49651532",
+          "comment_url": "https://news.ycombinator.com/item?id=49643982#49651532",
+          "author": "jadar",
+          "excerpt": "Instead, I adopted Kotlin Multiplatform (shortly after their memory management overhaul). I haven't been disappointed.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49643982"
+        }
+      ]
+    },
+    {
+      "name": "cgit",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://git.zx2c4.com/cgit/",
+      "hn_url": "https://news.ycombinator.com/item?id=49645907",
+      "source_story_title": "Forgejo <=16.0.3 Critical RCE",
+      "summary": "A fast, account-free web frontend for browsing Git repositories.",
+      "why_included": "A commenter preferred cgit's simpler design and smaller personal-hosting attack surface.",
+      "evidence": "The commenter presented cgit as a simpler alternative with fewer exposed features.",
+      "evidence_sources": [
+        {
+          "comment_id": "49651564",
+          "comment_url": "https://news.ycombinator.com/item?id=49645907#49651564",
+          "author": "bitbasher",
+          "excerpt": "Something like cgit that has no accounts has much less surface area for this kind of issue.",
+          "kind": "recommendation",
+          "parent_comment_id": "49645907"
+        }
+      ]
+    },
+    {
+      "name": "Xfce",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://xfce.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49646181",
+      "source_story_title": "I have a theory that software drives people insane",
+      "summary": "A lightweight Unix desktop environment focused on speed and resource efficiency.",
+      "why_included": "A current user explicitly said they love Xfce's more stable approach.",
+      "evidence": "The commenter cited Xfce as software they actively use and love.",
+      "evidence_sources": [
+        {
+          "comment_id": "49651907",
+          "comment_url": "https://news.ycombinator.com/item?id=49646181#49651907",
+          "author": "IvanLudvig",
+          "excerpt": "I use and love xfce, for example",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49646181"
+        }
+      ]
+    },
+    {
+      "name": "DStretch",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.dstretch.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49645437",
+      "source_story_title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "summary": "An ImageJ plugin that enhances faint colors and details in photographs.",
+      "why_included": "A commenter praised an unexpected practical use: revealing old painted building signs.",
+      "evidence": "The commenter said DStretch works especially well for revealing painted ghost signs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49648765",
+          "comment_url": "https://news.ycombinator.com/item?id=49645437#49648765",
+          "author": "1shooner",
+          "excerpt": "DStretch is also really great at revealing painted ghost signs on old buildings.",
+          "kind": "recommendation",
+          "parent_comment_id": "49645437"
+        }
+      ]
+    },
+    {
+      "name": "Velocity Raptor",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.testtubegames.com/velocityraptor.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49637385",
+      "source_story_title": "Show HN: What if the speed of light was 5 km/h?",
+      "summary": "A free puzzle game that makes special-relativity effects directly playable.",
+      "why_included": "A commenter recommended the simulation and singled out favorite educational levels.",
+      "evidence": "The commenter described its relativity simulation and highlighted favorite levels demonstrating key effects.",
+      "evidence_sources": [
+        {
+          "comment_id": "49637822",
+          "comment_url": "https://news.ycombinator.com/item?id=49637385#49637822",
+          "author": "tristanj",
+          "excerpt": "Velocity raptor is a free game that accurately simulates the effects of special relativity. It slows down the speed of light to 3m/s and you solve puzzles as a cute dinosaur.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": "49637385"
+        }
+      ]
+    },
+    {
+      "name": "Nocheto",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://nocheto.sallyx.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49599992",
+      "source_story_title": "Stockfish 19",
+      "summary": "A configurable Linux-console suite for playing, studying, and analyzing chess.",
+      "why_included": "A commenter called Nocheto a top chess GUI option and their personal favorite.",
+      "evidence": "The commenter listed Nocheto among the best overlooked GUI options and named it their favorite.",
+      "evidence_sources": [
+        {
+          "comment_id": "49640965",
+          "comment_url": "https://news.ycombinator.com/item?id=49599992#49640965",
+          "author": "haunter",
+          "excerpt": "Nocheto https://nocheto.sallyx.org/ (this my favorite)",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49599992"
+        }
+      ]
+    },
+    {
+      "name": "BookFusion",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.bookfusion.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49646181",
+      "source_story_title": "I have a theory that software drives people insane",
+      "summary": "A cross-device ebook library, reader, organizer, and synchronization service.",
+      "why_included": "A startup founder cited BookFusion as a great example of focused, simple software.",
+      "evidence": "The commenter pays for BookFusion and praised it as a simple, basic-interface app.",
+      "evidence_sources": [
+        {
+          "comment_id": "49646821",
+          "comment_url": "https://news.ycombinator.com/item?id=49646181#49646821",
+          "author": "jadbox",
+          "excerpt": "The apps I pay for are simple and focus on a super basic interface. BookFusion and Libro.fm are great examples.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49646181"
+        }
+      ]
+    },
+    {
+      "name": "Libro.fm",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://libro.fm/",
+      "hn_url": "https://news.ycombinator.com/item?id=49646181",
+      "source_story_title": "I have a theory that software drives people insane",
+      "summary": "An audiobook service whose purchases support independent bookstores.",
+      "why_included": "A startup founder cited Libro.fm as a great example of focused, simple software.",
+      "evidence": "The commenter pays for Libro.fm and praised it as a simple, basic-interface app.",
+      "evidence_sources": [
+        {
+          "comment_id": "49646821",
+          "comment_url": "https://news.ycombinator.com/item?id=49646181#49646821",
+          "author": "jadbox",
+          "excerpt": "The apps I pay for are simple and focus on a super basic interface. BookFusion and Libro.fm are great examples.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49646181"
+        }
+      ]
+    },
+    {
+      "name": "What Makes Music Sound Good?",
+      "category": "Watch & Learn",
+      "thing_url": "https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49647134",
+      "source_story_title": "Music Theory for the 21st-Century Classroom",
+      "summary": "Dmitri Tymoczko's course notes deriving music-theory ideas from first principles.",
+      "why_included": "A commenter directly recommended the notes for their intuitive derivation of the diatonic scale.",
+      "evidence": "The commenter recommended the resource and highlighted its first-principles explanation.",
+      "evidence_sources": [
+        {
+          "comment_id": "49651759",
+          "comment_url": "https://news.ycombinator.com/item?id=49647134#49651759",
+          "author": "ChadNauseam",
+          "excerpt": "I recommend \"What Makes Music Sound Good?\" by Prof. Dmitri Tymoczko",
+          "kind": "recommendation",
+          "parent_comment_id": "49650276"
+        }
+      ]
+    },
+    {
+      "name": "Gödel, Escher, Bach",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.hachettebookgroup.com/titles/douglas-r-hofstadter/godel-escher-bach/9780465026562?lens=basic-books",
+      "hn_url": "https://news.ycombinator.com/item?id=49587121",
+      "source_story_title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "summary": "Douglas Hofstadter's classic exploration of self-reference, minds, mathematics, art, and music.",
+      "why_included": "A reader deeply regretted delaying the book after a friend called it life-changing.",
+      "evidence": "The reply identifies the book through its parent and describes a strongly positive reading experience.",
+      "evidence_sources": [
+        {
+          "comment_id": "49648001",
+          "comment_url": "https://news.ycombinator.com/item?id=49587121#49648001",
+          "author": "bogzz",
+          "excerpt": "my copy of Godel, Escher, Bach",
+          "kind": "incidental",
+          "parent_comment_id": "49647947"
+        },
+        {
+          "comment_id": "49648175",
+          "comment_url": "https://news.ycombinator.com/item?id=49587121#49648175",
+          "author": "CPLX",
+          "excerpt": "I read it again and deeply regretted having put it down for those 12 intervening years.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "49648001"
+        }
+      ]
+    },
+    {
+      "name": "Hallaig",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.scottishpoetrylibrary.org.uk/poem/hallaig/",
+      "hn_url": "https://news.ycombinator.com/item?id=49638280",
+      "source_story_title": "All grown-ups were once children, but only few of them remember it",
+      "summary": "Somhairle MacGill-Eain's Gaelic poem about memory, loss, and a cleared township.",
+      "why_included": "A commenter directly urged another reader to read Hallaig for Highland cultural context.",
+      "evidence": "The commenter explicitly recommended Hallaig by name and author.",
+      "evidence_sources": [
+        {
+          "comment_id": "49649988",
+          "comment_url": "https://news.ycombinator.com/item?id=49638280#49649988",
+          "author": "ErroneousBosh",
+          "excerpt": "I mean make him read Hallaig by Somhairle MacGill-eain.",
+          "kind": "recommendation",
+          "parent_comment_id": "49641019"
+        }
+      ]
+    },
+    {
+      "name": "The Mythical Man-Month",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.pearson.com/en-au/subject-catalog/p/mythical-man-month-the-essays-on-software-engineering-anniversary-edition/P200000000149/9780132119160",
+      "hn_url": "https://news.ycombinator.com/item?id=49646181",
+      "source_story_title": "I have a theory that software drives people insane",
+      "summary": "Fred Brooks's classic essays on software projects, teams, communication, and complexity.",
+      "why_included": "A commenter recommended it while explaining why large software teams often underperform.",
+      "evidence": "The commenter urged readers to try Fred Brooks's book in a discussion of team communication costs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49648498",
+          "comment_url": "https://news.ycombinator.com/item?id=49646181#49648498",
+          "author": "hermitShell",
+          "excerpt": "If you've not read Fred Brooks MMM, give it a shot.",
+          "kind": "recommendation",
+          "parent_comment_id": "49647366"
+        }
+      ]
+    }
+  ]
+}

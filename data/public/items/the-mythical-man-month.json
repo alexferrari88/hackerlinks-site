@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "the-mythical-man-month",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:the-mythical-man-month:49646181",
+  "mention_ids": [
+    "2026-09-11:the-mythical-man-month:49646181"
+  ],
+  "name": "The Mythical Man-Month",
+  "slug": "the-mythical-man-month",
+  "summary": "Fred Brooks's classic essays on software projects, teams, communication, and complexity.",
+  "thing_url": "https://www.pearson.com/en-au/subject-catalog/p/mythical-man-month-the-essays-on-software-engineering-anniversary-edition/P200000000149/9780132119160",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it while explaining why large software teams often underperform."
+}

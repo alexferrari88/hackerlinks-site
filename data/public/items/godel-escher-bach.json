@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "godel-escher-bach",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:godel-escher-bach:49587121",
+  "mention_ids": [
+    "2026-09-11:godel-escher-bach:49587121"
+  ],
+  "name": "G\u00f6del, Escher, Bach",
+  "slug": "godel-escher-bach",
+  "summary": "Douglas Hofstadter's classic exploration of self-reference, minds, mathematics, art, and music.",
+  "thing_url": "https://www.hachettebookgroup.com/titles/douglas-r-hofstadter/godel-escher-bach/9780465026562?lens=basic-books",
+  "times_seen": 1,
+  "why_included": "A reader deeply regretted delaying the book after a friend called it life-changing."
+}

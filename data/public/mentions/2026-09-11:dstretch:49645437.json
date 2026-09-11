@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter said DStretch works especially well for revealing painted ghost signs.",
+  "evidence_sources": [
+    {
+      "author": "1shooner",
+      "comment_id": "49648765",
+      "comment_url": "https://news.ycombinator.com/item?id=49645437#49648765",
+      "excerpt": "DStretch is also really great at revealing painted ghost signs on old buildings.",
+      "kind": "recommendation",
+      "parent_comment_id": "49645437"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49645437",
+  "id": "2026-09-11:dstretch:49645437",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "dstretch",
+  "rank": 4,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49645437",
+  "source_story_title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)"
+}

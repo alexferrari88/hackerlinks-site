@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter listed Nocheto among the best overlooked GUI options and named it their favorite.",
+  "evidence_sources": [
+    {
+      "author": "haunter",
+      "comment_id": "49640965",
+      "comment_url": "https://news.ycombinator.com/item?id=49599992#49640965",
+      "context": "first_hand_use",
+      "excerpt": "Nocheto https://nocheto.sallyx.org/ (this my favorite)",
+      "kind": "recommendation",
+      "parent_comment_id": "49599992"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49599992",
+  "id": "2026-09-11:nocheto:49599992",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "nocheto",
+  "rank": 6,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49599992",
+  "source_story_title": "Stockfish 19"
+}

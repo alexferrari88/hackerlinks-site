@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "bookfusion",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:bookfusion:49646181",
+  "mention_ids": [
+    "2026-09-11:bookfusion:49646181"
+  ],
+  "name": "BookFusion",
+  "slug": "bookfusion",
+  "summary": "A cross-device ebook library, reader, organizer, and synchronization service.",
+  "thing_url": "https://www.bookfusion.com/",
+  "times_seen": 1,
+  "why_included": "A startup founder cited BookFusion as a great example of focused, simple software."
+}

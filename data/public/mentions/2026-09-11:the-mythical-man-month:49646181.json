@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter urged readers to try Fred Brooks's book in a discussion of team communication costs.",
+  "evidence_sources": [
+    {
+      "author": "hermitShell",
+      "comment_id": "49648498",
+      "comment_url": "https://news.ycombinator.com/item?id=49646181#49648498",
+      "excerpt": "If you've not read Fred Brooks MMM, give it a shot.",
+      "kind": "recommendation",
+      "parent_comment_id": "49647366"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49646181",
+  "id": "2026-09-11:the-mythical-man-month:49646181",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "the-mythical-man-month",
+  "rank": 12,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49646181",
+  "source_story_title": "I have a theory that software drives people insane"
+}

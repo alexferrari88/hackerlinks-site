@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "cgit",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:cgit:49645907",
+  "mention_ids": [
+    "2026-09-11:cgit:49645907"
+  ],
+  "name": "cgit",
+  "slug": "cgit",
+  "summary": "A fast, account-free web frontend for browsing Git repositories.",
+  "thing_url": "https://git.zx2c4.com/cgit/",
+  "times_seen": 1,
+  "why_included": "A commenter preferred cgit's simpler design and smaller personal-hosting attack surface."
+}

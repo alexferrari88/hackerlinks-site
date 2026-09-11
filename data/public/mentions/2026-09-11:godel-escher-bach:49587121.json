@@ -1,0 +1,31 @@
+{
+  "evidence": "The reply identifies the book through its parent and describes a strongly positive reading experience.",
+  "evidence_sources": [
+    {
+      "author": "bogzz",
+      "comment_id": "49648001",
+      "comment_url": "https://news.ycombinator.com/item?id=49587121#49648001",
+      "excerpt": "my copy of Godel, Escher, Bach",
+      "kind": "incidental",
+      "parent_comment_id": "49647947"
+    },
+    {
+      "author": "CPLX",
+      "comment_id": "49648175",
+      "comment_url": "https://news.ycombinator.com/item?id=49587121#49648175",
+      "context": "first_hand_use",
+      "excerpt": "I read it again and deeply regretted having put it down for those 12 intervening years.",
+      "kind": "recommendation",
+      "parent_comment_id": "49648001"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49587121",
+  "id": "2026-09-11:godel-escher-bach:49587121",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "godel-escher-bach",
+  "rank": 10,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49587121",
+  "source_story_title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]"
+}

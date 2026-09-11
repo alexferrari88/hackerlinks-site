@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-11T05:17:53+02:00",
+  "id": "what-makes-music-sound-good",
+  "last_seen_at": "2026-09-11T05:17:53+02:00",
+  "latest_mention_id": "2026-09-11:what-makes-music-sound-good:49647134",
+  "mention_ids": [
+    "2026-09-11:what-makes-music-sound-good:49647134"
+  ],
+  "name": "What Makes Music Sound Good?",
+  "slug": "what-makes-music-sound-good",
+  "summary": "Dmitri Tymoczko's course notes deriving music-theory ideas from first principles.",
+  "thing_url": "https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended the notes for their intuitive derivation of the diatonic scale."
+}

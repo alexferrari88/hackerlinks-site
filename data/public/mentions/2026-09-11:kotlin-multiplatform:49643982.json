@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter adopted Kotlin Multiplatform and valued writing business logic once while retaining UI flexibility.",
+  "evidence_sources": [
+    {
+      "author": "jadar",
+      "comment_id": "49651532",
+      "comment_url": "https://news.ycombinator.com/item?id=49643982#49651532",
+      "context": "first_hand_use",
+      "excerpt": "Instead, I adopted Kotlin Multiplatform (shortly after their memory management overhaul). I haven't been disappointed.",
+      "kind": "recommendation",
+      "parent_comment_id": "49643982"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49643982",
+  "id": "2026-09-11:kotlin-multiplatform:49643982",
+  "is_repeat": false,
+  "issue_id": "2026-09-11",
+  "item_id": "kotlin-multiplatform",
+  "rank": 1,
+  "seen_at": "2026-09-11T05:17:53+02:00",
+  "source_story_id": "49643982",
+  "source_story_title": "Shopify is moving from React Native back to Swift and Kotlin"
+}
