@@ -8845,6 +8845,78 @@
       "first_reported_at": "2026-09-11T05:17:53+02:00",
       "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Merge AI Gateway",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Trace",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Magit",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Git Repo Manager",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "godot-rust",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "earlyoom",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "HN Sans AI",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Snap!",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Logo",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "3Blue1Brown phase-kickback animation",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "YouTube Premium",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "IKEA KNAGGLIG",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
     }
   ]
 }

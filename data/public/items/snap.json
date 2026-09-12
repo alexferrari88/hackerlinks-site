@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "snap",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:snap:49662214",
+  "mention_ids": [
+    "2026-09-12:snap:49662214"
+  ],
+  "name": "Snap!",
+  "slug": "snap",
+  "summary": "A browser-based visual programming language combining blocks with Scheme's power.",
+  "thing_url": "https://snap.berkeley.edu/",
+  "times_seen": 1,
+  "why_included": "An experienced educator strongly endorsed Snap! for teaching Scheme concepts to children."
+}

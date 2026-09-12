@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "trace",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:trace:49656471",
+  "mention_ids": [
+    "2026-09-12:trace:49656471"
+  ],
+  "name": "Trace",
+  "slug": "trace",
+  "summary": "A tree-sitter tool that builds compact outlines of files and directories.",
+  "thing_url": "https://github.com/resolveworks/trace",
+  "times_seen": 1,
+  "why_included": "A user employs Trace to save agent time and improve codebase orientation."
+}

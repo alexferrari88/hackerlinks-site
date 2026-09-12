@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called themselves a huge fan and praised Snap!'s mix of visual blocks and Scheme.",
+  "evidence_sources": [
+    {
+      "author": "DonHopkins",
+      "comment_id": "49663505",
+      "comment_url": "https://news.ycombinator.com/item?id=49662214#49663505",
+      "context": "evaluated",
+      "excerpt": "I'm also a huge fan of Snap!, which has all the advantages of Logo (Lisp without parenthesis) and Scratch / eToys / Squeak / App Inventor family of block based visual programming languages, but all the power of Scheme.",
+      "kind": "recommendation",
+      "parent_comment_id": "49662214"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49662214",
+  "id": "2026-09-12:snap:49662214",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "snap",
+  "rank": 8,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49662214",
+  "source_story_title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study"
+}

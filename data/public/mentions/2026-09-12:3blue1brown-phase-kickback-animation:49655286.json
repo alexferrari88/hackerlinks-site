@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter praised the animation as a clear visual treatment of phase kickback.",
+  "evidence_sources": [
+    {
+      "author": "prathje",
+      "comment_id": "49655786",
+      "comment_url": "https://news.ycombinator.com/item?id=49655286#49655786",
+      "excerpt": "3Blue1Brown has a beautiful animation for this phase kickback here:",
+      "kind": "recommendation",
+      "parent_comment_id": "49655706"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49655286",
+  "id": "2026-09-12:3blue1brown-phase-kickback-animation:49655286",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "3blue1brown-phase-kickback-animation",
+  "rank": 10,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49655286",
+  "source_story_title": "Cherenkov Radiation"
+}

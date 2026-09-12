@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported positive ongoing use and responsive support.",
+  "evidence_sources": [
+    {
+      "author": "vinhnx",
+      "comment_id": "49658049",
+      "comment_url": "https://news.ycombinator.com/item?id=49621546#49658049",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Merge AI Gateway and it's been useful so far. They tend to add new models quickly, and support has been responsive.",
+      "kind": "recommendation",
+      "parent_comment_id": "49655582"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49621546",
+  "id": "2026-09-12:merge-ai-gateway:49621546",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "merge-ai-gateway",
+  "rank": 1,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49621546",
+  "source_story_title": "So you want to use OpenRouter?"
+}

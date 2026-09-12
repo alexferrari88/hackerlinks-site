@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter identified HN Sans AI as their practical break from AI-heavy news.",
+  "evidence_sources": [
+    {
+      "author": "leonheld",
+      "comment_id": "49657887",
+      "comment_url": "https://news.ycombinator.com/item?id=49657850#49657887",
+      "context": "first_hand_use",
+      "excerpt": "HN is a reflection of the industry and we're at peak hype-cycle at the moment. I use this when I need a break",
+      "kind": "recommendation",
+      "parent_comment_id": "49657850"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49657850",
+  "id": "2026-09-12:hn-sans-ai:49657850",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "hn-sans-ai",
+  "rank": 7,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49657850",
+  "source_story_title": "Ask HN: Can we please limit the AI news flood?"
+}

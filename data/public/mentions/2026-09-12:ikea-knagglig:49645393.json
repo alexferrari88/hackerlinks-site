@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended KNAGGLIG boxes as attractive, appropriately sized cable storage.",
+  "evidence_sources": [
+    {
+      "author": "MrBuddyCasino",
+      "comment_id": "49655840",
+      "comment_url": "https://news.ycombinator.com/item?id=49645393#49655840",
+      "context": "first_hand_use",
+      "excerpt": "I can recommend the small Ikea Knagglig boxes, they look nice and have the right size.",
+      "kind": "recommendation",
+      "parent_comment_id": "49655790"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49645393",
+  "id": "2026-09-12:ikea-knagglig:49645393",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "ikea-knagglig",
+  "rank": 12,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49645393",
+  "source_story_title": "Don't let anyone take away your big box of cables"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter delighted in learning Logo and found it helped students internalize programming.",
+  "evidence_sources": [
+    {
+      "author": "yogsototh",
+      "comment_id": "49662167",
+      "comment_url": "https://news.ycombinator.com/item?id=49622406#49662167",
+      "context": "first_hand_use",
+      "excerpt": "I myself learned programming with logo, at my school when I was 8 or 10. And it was a delight, I am so grateful it existed.",
+      "kind": "recommendation",
+      "parent_comment_id": "49622406"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49622406",
+  "id": "2026-09-12:logo:49622406",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "logo",
+  "rank": 9,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49622406",
+  "source_story_title": "Logo Programming Language"
+}

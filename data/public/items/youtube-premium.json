@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "youtube-premium",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:youtube-premium:49662990",
+  "mention_ids": [
+    "2026-09-12:youtube-premium:49662990"
+  ],
+  "name": "YouTube Premium",
+  "slug": "youtube-premium",
+  "summary": "YouTube's paid plan for ad-free viewing, downloads, and background playback.",
+  "thing_url": "https://www.youtube.com/premium",
+  "times_seen": 1,
+  "why_included": "A paying user reported strong value while noting that creators receive more per view."
+}

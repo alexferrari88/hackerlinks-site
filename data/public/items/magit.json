@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "magit",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:magit:49606281",
+  "mention_ids": [
+    "2026-09-12:magit:49606281"
+  ],
+  "name": "Magit",
+  "slug": "magit",
+  "summary": "An Emacs Git interface with integrated worktree management.",
+  "thing_url": "https://magit.vc/",
+  "times_seen": 1,
+  "why_included": "An AI-agent worktree user loved Magit and planned to adopt its worktree support."
+}

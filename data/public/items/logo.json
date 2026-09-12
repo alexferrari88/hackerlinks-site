@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "logo",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:logo:49622406",
+  "mention_ids": [
+    "2026-09-12:logo:49622406"
+  ],
+  "name": "Logo",
+  "slug": "logo",
+  "summary": "A beginner-friendly programming language built around procedures, recursion, and turtle graphics.",
+  "thing_url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+  "times_seen": 1,
+  "why_included": "A former learner and PhD instructor praised Logo for making programming concepts tangible."
+}

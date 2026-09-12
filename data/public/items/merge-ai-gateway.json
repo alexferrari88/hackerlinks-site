@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "merge-ai-gateway",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:merge-ai-gateway:49621546",
+  "mention_ids": [
+    "2026-09-12:merge-ai-gateway:49621546"
+  ],
+  "name": "Merge AI Gateway",
+  "slug": "merge-ai-gateway",
+  "summary": "A unified AI-model gateway that quickly adds providers and models.",
+  "thing_url": "https://gateway.merge.dev/",
+  "times_seen": 1,
+  "why_included": "A current user praised its usefulness, fast model additions, and responsive support."
+}

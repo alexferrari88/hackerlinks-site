@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses tree-sitter outlines because models struggle to obtain an overview.",
+  "evidence_sources": [
+    {
+      "author": "monneyboi",
+      "comment_id": "49666649",
+      "comment_url": "https://news.ycombinator.com/item?id=49656471#49666649",
+      "context": "first_hand_use",
+      "excerpt": "I use treesitter to build outlines of files and directories:",
+      "kind": "recommendation",
+      "parent_comment_id": "49656471"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49656471",
+  "id": "2026-09-12:trace:49656471",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "trace",
+  "rank": 2,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49656471",
+  "source_story_title": "RTK reports token savings, but our cost benchmarks disagree"
+}

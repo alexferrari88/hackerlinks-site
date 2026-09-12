@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Magit's worktree handling and intended to use it immediately.",
+  "evidence_sources": [
+    {
+      "author": "brabel",
+      "comment_id": "49654377",
+      "comment_url": "https://news.ycombinator.com/item?id=49606281#49654377",
+      "context": "first_hand_use",
+      "excerpt": "And I love Magit but didn\u2019t know it handles git worktrees so well!",
+      "kind": "recommendation",
+      "parent_comment_id": "49606281"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49606281",
+  "id": "2026-09-12:magit:49606281",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "magit",
+  "rank": 3,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49606281",
+  "source_story_title": "Working with Git Worktrees in Magit"
+}

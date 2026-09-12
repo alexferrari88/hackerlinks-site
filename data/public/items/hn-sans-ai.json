@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "hn-sans-ai",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:hn-sans-ai:49657850",
+  "mention_ids": [
+    "2026-09-12:hn-sans-ai:49657850"
+  ],
+  "name": "HN Sans AI",
+  "slug": "hn-sans-ai",
+  "summary": "A Hacker News view that filters AI-related stories from the feed.",
+  "thing_url": "https://elijahpotter.dev/hnsansai",
+  "times_seen": 1,
+  "why_included": "A commenter uses it when they need a break from peak AI hype."
+}

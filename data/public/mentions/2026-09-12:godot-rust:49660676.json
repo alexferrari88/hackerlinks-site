@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described extensive first-hand use and praised the bindings' support.",
+  "evidence_sources": [
+    {
+      "author": "TkTech",
+      "comment_id": "49666560",
+      "comment_url": "https://news.ycombinator.com/item?id=49660676#49666560",
+      "context": "production_use",
+      "excerpt": "godot-rust is a extremely well supported - we've used it extensively and have nothing but praise.",
+      "kind": "recommendation",
+      "parent_comment_id": "49662754"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49660676",
+  "id": "2026-09-12:godot-rust:49660676",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "godot-rust",
+  "rank": 5,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49660676",
+  "source_story_title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)"
+}

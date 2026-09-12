@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T05:17:20+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-12",
+  "id": "2026-09-12",
+  "mention_ids": [
+    "2026-09-12:merge-ai-gateway:49621546",
+    "2026-09-12:trace:49656471",
+    "2026-09-12:magit:49606281",
+    "2026-09-12:git-repo-manager:49606281",
+    "2026-09-12:godot-rust:49660676",
+    "2026-09-12:earlyoom:49618087",
+    "2026-09-12:hn-sans-ai:49657850",
+    "2026-09-12:snap:49662214",
+    "2026-09-12:logo:49622406",
+    "2026-09-12:3blue1brown-phase-kickback-animation:49655286",
+    "2026-09-12:youtube-premium:49662990",
+    "2026-09-12:ikea-knagglig:49645393"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

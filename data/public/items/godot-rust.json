@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "godot-rust",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:godot-rust:49660676",
+  "mention_ids": [
+    "2026-09-12:godot-rust:49660676"
+  ],
+  "name": "godot-rust",
+  "slug": "godot-rust",
+  "summary": "Rust language bindings for building games and applications with Godot 4.",
+  "thing_url": "https://github.com/godot-rust/gdext",
+  "times_seen": 1,
+  "why_included": "A team reported extensive use, strong support, and unqualified praise."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses grm specifically to simplify worktree administration.",
+  "evidence_sources": [
+    {
+      "author": "prima-facie",
+      "comment_id": "49657740",
+      "comment_url": "https://news.ycombinator.com/item?id=49606281#49657740",
+      "context": "first_hand_use",
+      "excerpt": "I use grm when I need worktrees, which makes admin a bit easier;",
+      "kind": "recommendation",
+      "parent_comment_id": "49606281"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49606281",
+  "id": "2026-09-12:git-repo-manager:49606281",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "git-repo-manager",
+  "rank": 4,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49606281",
+  "source_story_title": "Working with Git Worktrees in Magit"
+}

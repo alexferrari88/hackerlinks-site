@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-12",
+  "generated_at": "2026-09-12T05:17:20+02:00",
+  "summary": "Twelve comment-endorsed developer tools, learning resources, services, and practical products from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-12.json",
+    "sha256": "6d1b35fa5ee96e10ed7bfca7bdaa79a94fd661902a68d992b393e2b236f3196c",
+    "bytes": 4310602,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6877,
+    "fetched_item_count": 6907,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Merge AI Gateway",
+      "category": "AI & Local Models",
+      "thing_url": "https://gateway.merge.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49621546",
+      "source_story_title": "So you want to use OpenRouter?",
+      "summary": "A unified AI-model gateway that quickly adds providers and models.",
+      "why_included": "A current user praised its usefulness, fast model additions, and responsive support.",
+      "evidence": "The commenter reported positive ongoing use and responsive support.",
+      "evidence_sources": [{"comment_id":"49658049","comment_url":"https://news.ycombinator.com/item?id=49621546#49658049","author":"vinhnx","excerpt":"I've been using Merge AI Gateway and it's been useful so far. They tend to add new models quickly, and support has been responsive.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49655582"}]
+    },
+    {
+      "name": "Trace",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/resolveworks/trace",
+      "hn_url": "https://news.ycombinator.com/item?id=49656471",
+      "source_story_title": "RTK reports token savings, but our cost benchmarks disagree",
+      "summary": "A tree-sitter tool that builds compact outlines of files and directories.",
+      "why_included": "A user employs Trace to save agent time and improve codebase orientation.",
+      "evidence": "The commenter uses tree-sitter outlines because models struggle to obtain an overview.",
+      "evidence_sources": [{"comment_id":"49666649","comment_url":"https://news.ycombinator.com/item?id=49656471#49666649","author":"monneyboi","excerpt":"I use treesitter to build outlines of files and directories:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49656471"}]
+    },
+    {
+      "name": "Magit",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://magit.vc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49606281",
+      "source_story_title": "Working with Git Worktrees in Magit",
+      "summary": "An Emacs Git interface with integrated worktree management.",
+      "why_included": "An AI-agent worktree user loved Magit and planned to adopt its worktree support.",
+      "evidence": "The commenter praised Magit's worktree handling and intended to use it immediately.",
+      "evidence_sources": [{"comment_id":"49654377","comment_url":"https://news.ycombinator.com/item?id=49606281#49654377","author":"brabel","excerpt":"And I love Magit but didn’t know it handles git worktrees so well!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49606281"}]
+    },
+    {
+      "name": "Git Repo Manager",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/hakoerber/git-repo-manager",
+      "hn_url": "https://news.ycombinator.com/item?id=49606281",
+      "source_story_title": "Working with Git Worktrees in Magit",
+      "summary": "A command-line tool for managing repositories and Git worktrees.",
+      "why_included": "A current user said its grm command makes worktree administration easier.",
+      "evidence": "The commenter uses grm specifically to simplify worktree administration.",
+      "evidence_sources": [{"comment_id":"49657740","comment_url":"https://news.ycombinator.com/item?id=49606281#49657740","author":"prima-facie","excerpt":"I use grm when I need worktrees, which makes admin a bit easier;","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49606281"}]
+    },
+    {
+      "name": "godot-rust",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/godot-rust/gdext",
+      "hn_url": "https://news.ycombinator.com/item?id=49660676",
+      "source_story_title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "summary": "Rust language bindings for building games and applications with Godot 4.",
+      "why_included": "A team reported extensive use, strong support, and unqualified praise.",
+      "evidence": "The commenter described extensive first-hand use and praised the bindings' support.",
+      "evidence_sources": [{"comment_id":"49666560","comment_url":"https://news.ycombinator.com/item?id=49660676#49666560","author":"TkTech","excerpt":"godot-rust is a extremely well supported - we've used it extensively and have nothing but praise.","kind":"recommendation","context":"production_use","parent_comment_id":"49662754"}]
+    },
+    {
+      "name": "earlyoom",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/rfjakob/earlyoom",
+      "hn_url": "https://news.ycombinator.com/item?id=49618087",
+      "source_story_title": "Stop making swap partitions—use swap files instead",
+      "summary": "A Linux daemon that kills processes before severe out-of-memory lockups.",
+      "why_included": "A commenter directly recommended it for more aggressive out-of-memory handling.",
+      "evidence": "The recommendation presented earlyoom as a way to trigger OOM killing sooner.",
+      "evidence_sources": [{"comment_id":"49655380","comment_url":"https://news.ycombinator.com/item?id=49618087#49655380","author":"negrel","excerpt":"I recommend using the earlyoom if you want more aggresive oom kill:","kind":"recommendation","parent_comment_id":"49655341"}]
+    },
+    {
+      "name": "HN Sans AI",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://elijahpotter.dev/hnsansai",
+      "hn_url": "https://news.ycombinator.com/item?id=49657850",
+      "source_story_title": "Ask HN: Can we please limit the AI news flood?",
+      "summary": "A Hacker News view that filters AI-related stories from the feed.",
+      "why_included": "A commenter uses it when they need a break from peak AI hype.",
+      "evidence": "The commenter identified HN Sans AI as their practical break from AI-heavy news.",
+      "evidence_sources": [{"comment_id":"49657887","comment_url":"https://news.ycombinator.com/item?id=49657850#49657887","author":"leonheld","excerpt":"HN is a reflection of the industry and we're at peak hype-cycle at the moment. I use this when I need a break","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49657850"}]
+    },
+    {
+      "name": "Snap!",
+      "category": "Watch & Learn",
+      "thing_url": "https://snap.berkeley.edu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49662214",
+      "source_story_title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "summary": "A browser-based visual programming language combining blocks with Scheme's power.",
+      "why_included": "An experienced educator strongly endorsed Snap! for teaching Scheme concepts to children.",
+      "evidence": "The commenter called themselves a huge fan and praised Snap!'s mix of visual blocks and Scheme.",
+      "evidence_sources": [{"comment_id":"49663505","comment_url":"https://news.ycombinator.com/item?id=49662214#49663505","author":"DonHopkins","excerpt":"I'm also a huge fan of Snap!, which has all the advantages of Logo (Lisp without parenthesis) and Scratch / eToys / Squeak / App Inventor family of block based visual programming languages, but all the power of Scheme.","kind":"recommendation","context":"evaluated","parent_comment_id":"49662214"}]
+    },
+    {
+      "name": "Logo",
+      "category": "Watch & Learn",
+      "thing_url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49622406",
+      "source_story_title": "Logo Programming Language",
+      "summary": "A beginner-friendly programming language built around procedures, recursion, and turtle graphics.",
+      "why_included": "A former learner and PhD instructor praised Logo for making programming concepts tangible.",
+      "evidence": "The commenter delighted in learning Logo and found it helped students internalize programming.",
+      "evidence_sources": [{"comment_id":"49662167","comment_url":"https://news.ycombinator.com/item?id=49622406#49662167","author":"yogsototh","excerpt":"I myself learned programming with logo, at my school when I was 8 or 10. And it was a delight, I am so grateful it existed.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49622406"}]
+    },
+    {
+      "name": "3Blue1Brown phase-kickback animation",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtube.com/shorts/XIW-2ykgVPI",
+      "hn_url": "https://news.ycombinator.com/item?id=49655286",
+      "source_story_title": "Cherenkov Radiation",
+      "summary": "A short visual explanation of phase kickback in electromagnetic waves.",
+      "why_included": "A commenter singled it out as a beautiful animation for a difficult concept.",
+      "evidence": "The commenter praised the animation as a clear visual treatment of phase kickback.",
+      "evidence_sources": [{"comment_id":"49655786","comment_url":"https://news.ycombinator.com/item?id=49655286#49655786","author":"prathje","excerpt":"3Blue1Brown has a beautiful animation for this phase kickback here:","kind":"recommendation","parent_comment_id":"49655706"}]
+    },
+    {
+      "name": "YouTube Premium",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.youtube.com/premium",
+      "hn_url": "https://news.ycombinator.com/item?id=49662990",
+      "source_story_title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "summary": "YouTube's paid plan for ad-free viewing, downloads, and background playback.",
+      "why_included": "A paying user reported strong value while noting that creators receive more per view.",
+      "evidence": "The commenter described substantial personal return on the subscription price.",
+      "evidence_sources": [{"comment_id":"49667121","comment_url":"https://news.ycombinator.com/item?id=49662990#49667121","author":"xp84","excerpt":"I guess I'm just saying I see a ton of ROI on the $16.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49666272"}]
+    },
+    {
+      "name": "IKEA KNAGGLIG",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.ikea.com/gb/en/p/knagglig-box-pine-10292357/",
+      "hn_url": "https://news.ycombinator.com/item?id=49645393",
+      "source_story_title": "Don't let anyone take away your big box of cables",
+      "summary": "A small pine storage crate sized for sorting household cable collections.",
+      "why_included": "A commenter directly recommended the small boxes for their looks and useful size.",
+      "evidence": "The commenter recommended KNAGGLIG boxes as attractive, appropriately sized cable storage.",
+      "evidence_sources": [{"comment_id":"49655840","comment_url":"https://news.ycombinator.com/item?id=49645393#49655840","author":"MrBuddyCasino","excerpt":"I can recommend the small Ikea Knagglig boxes, they look nice and have the right size.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49655790"}]
+    }
+  ]
+}

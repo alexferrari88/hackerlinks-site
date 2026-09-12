@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "ikea-knagglig",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:ikea-knagglig:49645393",
+  "mention_ids": [
+    "2026-09-12:ikea-knagglig:49645393"
+  ],
+  "name": "IKEA KNAGGLIG",
+  "slug": "ikea-knagglig",
+  "summary": "A small pine storage crate sized for sorting household cable collections.",
+  "thing_url": "https://www.ikea.com/gb/en/p/knagglig-box-pine-10292357/",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended the small boxes for their looks and useful size."
+}

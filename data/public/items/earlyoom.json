@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "earlyoom",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:earlyoom:49618087",
+  "mention_ids": [
+    "2026-09-12:earlyoom:49618087"
+  ],
+  "name": "earlyoom",
+  "slug": "earlyoom",
+  "summary": "A Linux daemon that kills processes before severe out-of-memory lockups.",
+  "thing_url": "https://github.com/rfjakob/earlyoom",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it for more aggressive out-of-memory handling."
+}

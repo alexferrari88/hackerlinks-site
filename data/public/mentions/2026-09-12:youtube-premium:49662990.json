@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described substantial personal return on the subscription price.",
+  "evidence_sources": [
+    {
+      "author": "xp84",
+      "comment_id": "49667121",
+      "comment_url": "https://news.ycombinator.com/item?id=49662990#49667121",
+      "context": "first_hand_use",
+      "excerpt": "I guess I'm just saying I see a ton of ROI on the $16.",
+      "kind": "recommendation",
+      "parent_comment_id": "49666272"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49662990",
+  "id": "2026-09-12:youtube-premium:49662990",
+  "is_repeat": false,
+  "issue_id": "2026-09-12",
+  "item_id": "youtube-premium",
+  "rank": 11,
+  "seen_at": "2026-09-12T05:17:20+02:00",
+  "source_story_id": "49662990",
+  "source_story_title": "I spent $220 on Google app ads and 60% of the installs were robots"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-12T05:17:20+02:00",
+  "id": "git-repo-manager",
+  "last_seen_at": "2026-09-12T05:17:20+02:00",
+  "latest_mention_id": "2026-09-12:git-repo-manager:49606281",
+  "mention_ids": [
+    "2026-09-12:git-repo-manager:49606281"
+  ],
+  "name": "Git Repo Manager",
+  "slug": "git-repo-manager",
+  "summary": "A command-line tool for managing repositories and Git worktrees.",
+  "thing_url": "https://github.com/hakoerber/git-repo-manager",
+  "times_seen": 1,
+  "why_included": "A current user said its grm command makes worktree administration easier."
+}
