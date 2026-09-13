@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "jitsi-meet",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:jitsi-meet:49675902",
+  "mention_ids": [
+    "2026-09-13:jitsi-meet:49675902"
+  ],
+  "name": "Jitsi Meet",
+  "slug": "jitsi-meet",
+  "summary": "A free, open-source platform for browser-based video meetings.",
+  "thing_url": "https://jitsi.org/jitsi-meet/",
+  "times_seen": 1,
+  "why_included": "A commenter directly endorsed it as an excellent open-source Zoom alternative."
+}

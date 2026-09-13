@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs Galene on OpenBSD and said it just works.",
+  "evidence_sources": [
+    {
+      "author": "somat",
+      "comment_id": "49678756",
+      "comment_url": "https://news.ycombinator.com/item?id=49675902#49678756",
+      "context": "first_hand_use",
+      "excerpt": "Very easy to set up, I run it on obsd(an unsupported platform) and it just works.",
+      "kind": "recommendation",
+      "parent_comment_id": "49676982"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49675902",
+  "id": "2026-09-13:galene:49675902",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "galene",
+  "rank": 9,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49675902",
+  "source_story_title": "Linux Zoom client proactively reading everything written to X11 clipboard"
+}

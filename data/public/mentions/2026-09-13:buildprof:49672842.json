@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found Buildprof more comprehensive than their own tooling and intended to evaluate it.",
+  "evidence_sources": [
+    {
+      "author": "applfanboysbgon",
+      "comment_id": "49677978",
+      "comment_url": "https://news.ycombinator.com/item?id=49672842#49677978",
+      "context": "evaluated",
+      "excerpt": "I have some rudimentary tooling I threw together myself but nothing that looks as comprehensive and insightfully presented as this, I'll be giving it a try!",
+      "kind": "recommendation",
+      "parent_comment_id": "49672842"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49672842",
+  "id": "2026-09-13:buildprof:49672842",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "buildprof",
+  "rank": 11,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49672842",
+  "source_story_title": "I made a build visualizer to understand Bun's compile times"
+}

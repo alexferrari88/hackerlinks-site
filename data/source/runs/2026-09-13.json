@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-13",
+  "generated_at": "2026-09-13T05:17:56+02:00",
+  "summary": "Twelve comment-endorsed books, learning resources, developer tools, and independent services from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-13.json",
+    "sha256": "9eb9789ddd2b3d610ed3d7f013ea08ad9d091b80f938d181c2565dd30bc91b55",
+    "bytes": 3003771,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4649,
+    "fetched_item_count": 4679,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "The Idea Factory",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.penguinrandomhouse.com/books/303275/the-idea-factory-by-jon-gertner",
+      "hn_url": "https://news.ycombinator.com/item?id=49668386",
+      "source_story_title": "google.com/goto: Google's anti-scraping update",
+      "summary": "Jon Gertner's history of Bell Labs and its foundational inventions.",
+      "why_included": "A commenter enthusiastically recommended it as a history of Bell Labs.",
+      "evidence": "The commenter called the Bell Labs history an awesome book.",
+      "evidence_sources": [{"comment_id":"49670377","comment_url":"https://news.ycombinator.com/item?id=49668386#49670377","author":"kolinko","excerpt":"Awesome book about the history if Bell Labs - virtually all semiconductor tech we use today was created there","kind":"recommendation","parent_comment_id":"49670325"}]
+    },
+    {
+      "name": "This Is Not Propaganda",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.hachettebookgroup.com/titles/peter-pomerantsev/this-is-not-propaganda/9781541762138?lens=publicaffairs",
+      "hn_url": "https://news.ycombinator.com/item?id=49668386",
+      "source_story_title": "google.com/goto: Google's anti-scraping update",
+      "summary": "Peter Pomerantsev's book about modern disinformation and the war against reality.",
+      "why_included": "A commenter explicitly urged readers to consult this excellent book on propaganda.",
+      "evidence": "The commenter recommended the book for understanding Russian disinformation efforts.",
+      "evidence_sources": [{"comment_id":"49671489","comment_url":"https://news.ycombinator.com/item?id=49668386#49671489","author":"squidbeak","excerpt":"you ought to read Peter Pomerantsev's excellent \"This is Not Propaganda\"","kind":"recommendation","parent_comment_id":"49671125"}]
+    },
+    {
+      "name": "Logic: An Introduction to Elementary Logic",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.penguin.co.uk/books/53735/logic-by-wilfrid-hodges/9780141003146",
+      "hn_url": "https://news.ycombinator.com/item?id=49668706",
+      "source_story_title": "Navier-Stokes Announcement",
+      "summary": "Wilfrid Hodges' accessible introduction to formal logic for beginners.",
+      "why_included": "A commenter highly recommended it for laypeople starting from the beginning.",
+      "evidence": "The commenter named Hodges' book among two highly recommended introductions to logic.",
+      "evidence_sources": [{"comment_id":"49672506","comment_url":"https://news.ycombinator.com/item?id=49668706#49672506","author":"rramadass","excerpt":"I highly recommend the following two books to study Logic from the beginning (for a layman); Logic: An Introduction to Elementary Logic by Wilfrid Hodges.","kind":"recommendation","parent_comment_id":"49671347"}]
+    },
+    {
+      "name": "Bodily Oddities",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://vester.si/bodily-oddities/",
+      "hn_url": "https://news.ycombinator.com/item?id=49649789",
+      "source_story_title": "Show HN: Bodily Oddities",
+      "summary": "An indie catalog of strange, relatable quirks of the human body.",
+      "why_included": "A commenter gave the site an unusually strong independent endorsement.",
+      "evidence": "The commenter called the website fantastic and said the world was better for it.",
+      "evidence_sources": [{"comment_id":"49651321","comment_url":"https://news.ycombinator.com/item?id=49649789#49651321","author":"echelon","excerpt":"I love this website. It's fantastic. I don't care if it's AI. The world is better for it existing.","kind":"recommendation","context":"evaluated","parent_comment_id":"49651183"}]
+    },
+    {
+      "name": "Usenet Rewind",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.usenet-rewind.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49668777",
+      "source_story_title": "Usenet rewind archive search engine",
+      "summary": "A search engine for exploring historical posts from early Usenet archives.",
+      "why_included": "A user immediately recovered personally meaningful posts with it.",
+      "evidence": "The commenter found old personal posts and called the discoveries cool.",
+      "evidence_sources": [{"comment_id":"49671571","comment_url":"https://news.ycombinator.com/item?id=49668777#49671571","author":"msephton","excerpt":"Just found some cool old stuff thanks to this:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49668777"}]
+    },
+    {
+      "name": "Neal Nanda's Transformer Circuits Walkthrough",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=KV5gbOmHbjU",
+      "hn_url": "https://news.ycombinator.com/item?id=49672365",
+      "source_story_title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "summary": "A detailed video walkthrough of the transformer-circuits mathematical framework.",
+      "why_included": "A commenter recommended it as a good detailed guide to difficult material.",
+      "evidence": "The commenter praised the walkthrough while noting that its length reflects the topic's complexity.",
+      "evidence_sources": [{"comment_id":"49675408","comment_url":"https://news.ycombinator.com/item?id=49672365#49675408","author":"robrenaud","excerpt":"Neal Nanda's walkthrough of it is pretty good.","kind":"recommendation","context":"evaluated","parent_comment_id":"49674250"}]
+    },
+    {
+      "name": "Loom",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/tokio-rs/loom",
+      "hn_url": "https://news.ycombinator.com/item?id=49634928",
+      "source_story_title": "Testing Race Conditions",
+      "summary": "A Rust tool that explores permutations of concurrent test executions.",
+      "why_included": "A commenter strongly praised Loom's unusually approachable concurrency testing.",
+      "evidence": "The commenter called Loom amazing and contrasted it with more cumbersome C and C++ tooling.",
+      "evidence_sources": [{"comment_id":"49671222","comment_url":"https://news.ycombinator.com/item?id=49634928#49671222","author":"mdspan","excerpt":"Loom is such an amazing project. I was always surprised by the fact that similar tooling for C/C++ is much more cumbersome to use","kind":"recommendation","context":"evaluated","parent_comment_id":"49670274"}]
+    },
+    {
+      "name": "Inverse Kinematics and Foot Locking",
+      "category": "Watch & Learn",
+      "thing_url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "hn_url": "https://news.ycombinator.com/item?id=49595505",
+      "source_story_title": "Inverse Kinematics and Foot Locking",
+      "summary": "A technical reference on stable character feet and inverse-kinematics run cycles.",
+      "why_included": "A commenter ranked it among the best references on a poorly documented topic.",
+      "evidence": "The commenter praised it as an unusually strong reference for run cycles and foot locking.",
+      "evidence_sources": [{"comment_id":"49670949","comment_url":"https://news.ycombinator.com/item?id=49595505#49670949","author":"mmastrac","excerpt":"This is one of the best references on this topic I've seen - run cycles and foot locking are annoyingly lacking in documentation outside a few papers.","kind":"recommendation","context":"evaluated","parent_comment_id":"49595505"}]
+    },
+    {
+      "name": "Galene",
+      "category": "Privacy & Networking",
+      "thing_url": "https://galene.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49675902",
+      "source_story_title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "summary": "A lightweight, self-hosted videoconferencing server that supports standard browsers.",
+      "why_included": "A user reported easy setup and reliable operation on an unsupported platform.",
+      "evidence": "The commenter runs Galene on OpenBSD and said it just works.",
+      "evidence_sources": [{"comment_id":"49678756","comment_url":"https://news.ycombinator.com/item?id=49675902#49678756","author":"somat","excerpt":"Very easy to set up, I run it on obsd(an unsupported platform) and it just works.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49676982"}]
+    },
+    {
+      "name": "Jitsi Meet",
+      "category": "Privacy & Networking",
+      "thing_url": "https://jitsi.org/jitsi-meet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49675902",
+      "source_story_title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "summary": "A free, open-source platform for browser-based video meetings.",
+      "why_included": "A commenter directly endorsed it as an excellent open-source Zoom alternative.",
+      "evidence": "The commenter recommended Jitsi as a free and open-source alternative.",
+      "evidence_sources": [{"comment_id":"49678851","comment_url":"https://news.ycombinator.com/item?id=49675902#49678851","author":"rascul","excerpt":"Jitsi is an excellent free and open source alternative.","kind":"recommendation","parent_comment_id":"49678658"}]
+    },
+    {
+      "name": "Buildprof",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://lalitm.com/post/buildprof/",
+      "hn_url": "https://news.ycombinator.com/item?id=49672842",
+      "source_story_title": "I made a build visualizer to understand Bun's compile times",
+      "summary": "A build visualizer for understanding where Bun compilation time is spent.",
+      "why_included": "A developer praised its depth and presentation and planned to try it.",
+      "evidence": "The commenter found Buildprof more comprehensive than their own tooling and intended to evaluate it.",
+      "evidence_sources": [{"comment_id":"49677978","comment_url":"https://news.ycombinator.com/item?id=49672842#49677978","author":"applfanboysbgon","excerpt":"I have some rudimentary tooling I threw together myself but nothing that looks as comprehensive and insightfully presented as this, I'll be giving it a try!","kind":"recommendation","context":"evaluated","parent_comment_id":"49672842"}]
+    },
+    {
+      "name": "OpenStreetMap iD Editor",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.openstreetmap.org/edit?editor=id",
+      "hn_url": "https://news.ycombinator.com/item?id=49674050",
+      "source_story_title": "Make your first edit to OpenStreetMap",
+      "summary": "OpenStreetMap's browser editor for quick, approachable map corrections.",
+      "why_included": "A first-time contributor highly recommended it after a useful ten-minute edit.",
+      "evidence": "The commenter recommended the web editor as the easier path for first-time contributors.",
+      "evidence_sources": [{"comment_id":"49676776","comment_url":"https://news.ycombinator.com/item?id=49674050#49676776","author":"jkingsman","excerpt":"Would highly recommend the web editor -- what's proposed here looks super comprehensive but way more difficult to use for a first timer.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49674050"}]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "inverse-kinematics-and-foot-locking",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:inverse-kinematics-and-foot-locking:49595505",
+  "mention_ids": [
+    "2026-09-13:inverse-kinematics-and-foot-locking:49595505"
+  ],
+  "name": "Inverse Kinematics and Foot Locking",
+  "slug": "inverse-kinematics-and-foot-locking",
+  "summary": "A technical reference on stable character feet and inverse-kinematics run cycles.",
+  "thing_url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+  "times_seen": 1,
+  "why_included": "A commenter ranked it among the best references on a poorly documented topic."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "buildprof",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:buildprof:49672842",
+  "mention_ids": [
+    "2026-09-13:buildprof:49672842"
+  ],
+  "name": "Buildprof",
+  "slug": "buildprof",
+  "summary": "A build visualizer for understanding where Bun compilation time is spent.",
+  "thing_url": "https://lalitm.com/post/buildprof/",
+  "times_seen": 1,
+  "why_included": "A developer praised its depth and presentation and planned to try it."
+}

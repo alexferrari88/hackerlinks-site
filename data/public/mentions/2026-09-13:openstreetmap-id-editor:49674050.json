@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended the web editor as the easier path for first-time contributors.",
+  "evidence_sources": [
+    {
+      "author": "jkingsman",
+      "comment_id": "49676776",
+      "comment_url": "https://news.ycombinator.com/item?id=49674050#49676776",
+      "context": "first_hand_use",
+      "excerpt": "Would highly recommend the web editor -- what's proposed here looks super comprehensive but way more difficult to use for a first timer.",
+      "kind": "recommendation",
+      "parent_comment_id": "49674050"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49674050",
+  "id": "2026-09-13:openstreetmap-id-editor:49674050",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "openstreetmap-id-editor",
+  "rank": 12,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49674050",
+  "source_story_title": "Make your first edit to OpenStreetMap"
+}

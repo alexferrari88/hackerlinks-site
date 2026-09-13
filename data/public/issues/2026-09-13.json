@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T05:17:56+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-13",
+  "id": "2026-09-13",
+  "mention_ids": [
+    "2026-09-13:the-idea-factory:49668386",
+    "2026-09-13:this-is-not-propaganda:49668386",
+    "2026-09-13:logic-an-introduction-to-elementary-logic:49668706",
+    "2026-09-13:bodily-oddities:49649789",
+    "2026-09-13:usenet-rewind:49668777",
+    "2026-09-13:neal-nanda-s-transformer-circuits-walkthrough:49672365",
+    "2026-09-13:loom:49634928",
+    "2026-09-13:inverse-kinematics-and-foot-locking:49595505",
+    "2026-09-13:galene:49675902",
+    "2026-09-13:jitsi-meet:49675902",
+    "2026-09-13:buildprof:49672842",
+    "2026-09-13:openstreetmap-id-editor:49674050"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the website fantastic and said the world was better for it.",
+  "evidence_sources": [
+    {
+      "author": "echelon",
+      "comment_id": "49651321",
+      "comment_url": "https://news.ycombinator.com/item?id=49649789#49651321",
+      "context": "evaluated",
+      "excerpt": "I love this website. It's fantastic. I don't care if it's AI. The world is better for it existing.",
+      "kind": "recommendation",
+      "parent_comment_id": "49651183"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49649789",
+  "id": "2026-09-13:bodily-oddities:49649789",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "bodily-oddities",
+  "rank": 4,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49649789",
+  "source_story_title": "Show HN: Bodily Oddities"
+}

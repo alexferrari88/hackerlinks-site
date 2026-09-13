@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised it as an unusually strong reference for run cycles and foot locking.",
+  "evidence_sources": [
+    {
+      "author": "mmastrac",
+      "comment_id": "49670949",
+      "comment_url": "https://news.ycombinator.com/item?id=49595505#49670949",
+      "context": "evaluated",
+      "excerpt": "This is one of the best references on this topic I've seen - run cycles and foot locking are annoyingly lacking in documentation outside a few papers.",
+      "kind": "recommendation",
+      "parent_comment_id": "49595505"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49595505",
+  "id": "2026-09-13:inverse-kinematics-and-foot-locking:49595505",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "inverse-kinematics-and-foot-locking",
+  "rank": 8,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49595505",
+  "source_story_title": "Inverse Kinematics and Foot Locking"
+}

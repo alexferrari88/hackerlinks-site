@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "loom",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:loom:49634928",
+  "mention_ids": [
+    "2026-09-13:loom:49634928"
+  ],
+  "name": "Loom",
+  "slug": "loom",
+  "summary": "A Rust tool that explores permutations of concurrent test executions.",
+  "thing_url": "https://github.com/tokio-rs/loom",
+  "times_seen": 1,
+  "why_included": "A commenter strongly praised Loom's unusually approachable concurrency testing."
+}

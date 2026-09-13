@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "this-is-not-propaganda",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:this-is-not-propaganda:49668386",
+  "mention_ids": [
+    "2026-09-13:this-is-not-propaganda:49668386"
+  ],
+  "name": "This Is Not Propaganda",
+  "slug": "this-is-not-propaganda",
+  "summary": "Peter Pomerantsev's book about modern disinformation and the war against reality.",
+  "thing_url": "https://www.hachettebookgroup.com/titles/peter-pomerantsev/this-is-not-propaganda/9781541762138?lens=publicaffairs",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly urged readers to consult this excellent book on propaganda."
+}

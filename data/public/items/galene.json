@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "galene",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:galene:49675902",
+  "mention_ids": [
+    "2026-09-13:galene:49675902"
+  ],
+  "name": "Galene",
+  "slug": "galene",
+  "summary": "A lightweight, self-hosted videoconferencing server that supports standard browsers.",
+  "thing_url": "https://galene.org/",
+  "times_seen": 1,
+  "why_included": "A user reported easy setup and reliable operation on an unsupported platform."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "openstreetmap-id-editor",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:openstreetmap-id-editor:49674050",
+  "mention_ids": [
+    "2026-09-13:openstreetmap-id-editor:49674050"
+  ],
+  "name": "OpenStreetMap iD Editor",
+  "slug": "openstreetmap-id-editor",
+  "summary": "OpenStreetMap's browser editor for quick, approachable map corrections.",
+  "thing_url": "https://www.openstreetmap.org/edit?editor=id",
+  "times_seen": 1,
+  "why_included": "A first-time contributor highly recommended it after a useful ten-minute edit."
+}

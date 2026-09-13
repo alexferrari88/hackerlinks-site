@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended the book for understanding Russian disinformation efforts.",
+  "evidence_sources": [
+    {
+      "author": "squidbeak",
+      "comment_id": "49671489",
+      "comment_url": "https://news.ycombinator.com/item?id=49668386#49671489",
+      "excerpt": "you ought to read Peter Pomerantsev's excellent \"This is Not Propaganda\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49671125"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49668386",
+  "id": "2026-09-13:this-is-not-propaganda:49668386",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "this-is-not-propaganda",
+  "rank": 2,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49668386",
+  "source_story_title": "google.com/goto: Google's anti-scraping update"
+}

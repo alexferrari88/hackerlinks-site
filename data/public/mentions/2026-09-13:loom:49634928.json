@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called Loom amazing and contrasted it with more cumbersome C and C++ tooling.",
+  "evidence_sources": [
+    {
+      "author": "mdspan",
+      "comment_id": "49671222",
+      "comment_url": "https://news.ycombinator.com/item?id=49634928#49671222",
+      "context": "evaluated",
+      "excerpt": "Loom is such an amazing project. I was always surprised by the fact that similar tooling for C/C++ is much more cumbersome to use",
+      "kind": "recommendation",
+      "parent_comment_id": "49670274"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49634928",
+  "id": "2026-09-13:loom:49634928",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "loom",
+  "rank": 7,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49634928",
+  "source_story_title": "Testing Race Conditions"
+}

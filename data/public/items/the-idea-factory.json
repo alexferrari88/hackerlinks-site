@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "the-idea-factory",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:the-idea-factory:49668386",
+  "mention_ids": [
+    "2026-09-13:the-idea-factory:49668386"
+  ],
+  "name": "The Idea Factory",
+  "slug": "the-idea-factory",
+  "summary": "Jon Gertner's history of Bell Labs and its foundational inventions.",
+  "thing_url": "https://www.penguinrandomhouse.com/books/303275/the-idea-factory-by-jon-gertner",
+  "times_seen": 1,
+  "why_included": "A commenter enthusiastically recommended it as a history of Bell Labs."
+}

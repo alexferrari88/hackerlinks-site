@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called the Bell Labs history an awesome book.",
+  "evidence_sources": [
+    {
+      "author": "kolinko",
+      "comment_id": "49670377",
+      "comment_url": "https://news.ycombinator.com/item?id=49668386#49670377",
+      "excerpt": "Awesome book about the history if Bell Labs - virtually all semiconductor tech we use today was created there",
+      "kind": "recommendation",
+      "parent_comment_id": "49670325"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49668386",
+  "id": "2026-09-13:the-idea-factory:49668386",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "the-idea-factory",
+  "rank": 1,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49668386",
+  "source_story_title": "google.com/goto: Google's anti-scraping update"
+}

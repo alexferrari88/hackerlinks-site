@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "logic-an-introduction-to-elementary-logic",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:logic-an-introduction-to-elementary-logic:49668706",
+  "mention_ids": [
+    "2026-09-13:logic-an-introduction-to-elementary-logic:49668706"
+  ],
+  "name": "Logic: An Introduction to Elementary Logic",
+  "slug": "logic-an-introduction-to-elementary-logic",
+  "summary": "Wilfrid Hodges' accessible introduction to formal logic for beginners.",
+  "thing_url": "https://www.penguin.co.uk/books/53735/logic-by-wilfrid-hodges/9780141003146",
+  "times_seen": 1,
+  "why_included": "A commenter highly recommended it for laypeople starting from the beginning."
+}

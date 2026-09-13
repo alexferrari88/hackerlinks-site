@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-13T05:17:56+02:00",
+  "id": "neal-nanda-s-transformer-circuits-walkthrough",
+  "last_seen_at": "2026-09-13T05:17:56+02:00",
+  "latest_mention_id": "2026-09-13:neal-nanda-s-transformer-circuits-walkthrough:49672365",
+  "mention_ids": [
+    "2026-09-13:neal-nanda-s-transformer-circuits-walkthrough:49672365"
+  ],
+  "name": "Neal Nanda's Transformer Circuits Walkthrough",
+  "slug": "neal-nanda-s-transformer-circuits-walkthrough",
+  "summary": "A detailed video walkthrough of the transformer-circuits mathematical framework.",
+  "thing_url": "https://www.youtube.com/watch?v=KV5gbOmHbjU",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a good detailed guide to difficult material."
+}

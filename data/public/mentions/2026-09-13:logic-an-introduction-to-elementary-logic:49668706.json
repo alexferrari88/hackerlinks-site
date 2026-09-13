@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter named Hodges' book among two highly recommended introductions to logic.",
+  "evidence_sources": [
+    {
+      "author": "rramadass",
+      "comment_id": "49672506",
+      "comment_url": "https://news.ycombinator.com/item?id=49668706#49672506",
+      "excerpt": "I highly recommend the following two books to study Logic from the beginning (for a layman); Logic: An Introduction to Elementary Logic by Wilfrid Hodges.",
+      "kind": "recommendation",
+      "parent_comment_id": "49671347"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49668706",
+  "id": "2026-09-13:logic-an-introduction-to-elementary-logic:49668706",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "logic-an-introduction-to-elementary-logic",
+  "rank": 3,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49668706",
+  "source_story_title": "Navier-Stokes Announcement"
+}

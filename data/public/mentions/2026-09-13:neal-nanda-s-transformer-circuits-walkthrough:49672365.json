@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised the walkthrough while noting that its length reflects the topic's complexity.",
+  "evidence_sources": [
+    {
+      "author": "robrenaud",
+      "comment_id": "49675408",
+      "comment_url": "https://news.ycombinator.com/item?id=49672365#49675408",
+      "context": "evaluated",
+      "excerpt": "Neal Nanda's walkthrough of it is pretty good.",
+      "kind": "recommendation",
+      "parent_comment_id": "49674250"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49672365",
+  "id": "2026-09-13:neal-nanda-s-transformer-circuits-walkthrough:49672365",
+  "is_repeat": false,
+  "issue_id": "2026-09-13",
+  "item_id": "neal-nanda-s-transformer-circuits-walkthrough",
+  "rank": 6,
+  "seen_at": "2026-09-13T05:17:56+02:00",
+  "source_story_id": "49672365",
+  "source_story_title": "A Mathematical Framework for Transformer Circuits (2021)"
+}
