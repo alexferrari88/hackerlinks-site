@@ -1,0 +1,23 @@
+{
+  "evidence": "The developer praised automatic manylinux builds as a practical answer to Linux ABI fragmentation.",
+  "evidence_sources": [
+    {
+      "author": "the__alchemist",
+      "comment_id": "49685302",
+      "comment_url": "https://news.ycombinator.com/item?id=49685037#49685302",
+      "context": "first_hand_use",
+      "excerpt": "Bonus: Maturin/PyO3 can build \"manylinux\" binaries automatically, which helps with the Linux ABI diaspora.",
+      "kind": "recommendation",
+      "parent_comment_id": "49685037"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49685037",
+  "id": "2026-09-14:maturin-pyo3:49685037",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "maturin-pyo3",
+  "rank": 3,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49685037",
+  "source_story_title": "Libraries Run Rust Inside Python (With PyO3)"
+}

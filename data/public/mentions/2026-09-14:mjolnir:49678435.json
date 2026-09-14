@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation highlighted built-in containerization and session portability across machines and harnesses.",
+  "evidence_sources": [
+    {
+      "author": "jbellis",
+      "comment_id": "49679530",
+      "comment_url": "https://news.ycombinator.com/item?id=49678435#49679530",
+      "excerpt": "If you're more of a SWE than a data scientist, check out Mjolnir:",
+      "kind": "recommendation",
+      "parent_comment_id": "49678435"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49678435",
+  "id": "2026-09-14:mjolnir:49678435",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "mjolnir",
+  "rank": 2,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49678435",
+  "source_story_title": "AgentsDock: An IDE designed for agentic AI research"
+}

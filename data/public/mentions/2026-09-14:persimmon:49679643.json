@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter considered Persimmon potentially useful for teaching larger models to estimate human goals.",
+  "evidence_sources": [
+    {
+      "author": "lucrbvi",
+      "comment_id": "49682240",
+      "comment_url": "https://news.ycombinator.com/item?id=49679643#49682240",
+      "excerpt": "check out for the Persimmon model[0] from Humans&.",
+      "kind": "recommendation",
+      "parent_comment_id": "49681719"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49679643",
+  "id": "2026-09-14:persimmon:49679643",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "persimmon",
+  "rank": 5,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49679643",
+  "source_story_title": "Aligned to whom?"
+}

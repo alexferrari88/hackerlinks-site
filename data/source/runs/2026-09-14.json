@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-09-14",
+  "generated_at": "2026-09-14T05:17:51+02:00",
+  "summary": "Ten comment-endorsed developer tools, research projects, museums, and a book from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-14.json",
+    "sha256": "c2024addf0509b2f880b509d7fe7f82a94bd2c6778b71bf20f015752b54a4eae",
+    "bytes": 3024815,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4760,
+    "fetched_item_count": 4790,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "ATEN CS782DP",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.aten.com/gb/en/products/kvm/desktop-kvm-switches/cs782dp/",
+      "hn_url": "https://news.ycombinator.com/item?id=49681152",
+      "source_story_title": "JetKVM Mini",
+      "summary": "A 4K DisplayPort KVM switch for sharing peripherals between two computers.",
+      "why_included": "A long-term user said it does the job for switching work and personal machines.",
+      "evidence": "The user endorsed the KVM while noting occasional reconnection problems.",
+      "evidence_sources": [{"comment_id":"49681484","comment_url":"https://news.ycombinator.com/item?id=49681152#49681484","author":"noelwelsh","excerpt":"I have an ATEN KVM [1] that gets a solid \"it does the job\" from me.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49681152"}]
+    },
+    {
+      "name": "Mjolnir",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/BrokkAi/mjolnir/",
+      "hn_url": "https://news.ycombinator.com/item?id=49678435",
+      "source_story_title": "AgentsDock: An IDE designed for agentic AI research",
+      "summary": "An agent workspace with containers, EC2 support, and portable sessions.",
+      "why_included": "A commenter directly recommended it to software engineers evaluating agent research environments.",
+      "evidence": "The recommendation highlighted built-in containerization and session portability across machines and harnesses.",
+      "evidence_sources": [{"comment_id":"49679530","comment_url":"https://news.ycombinator.com/item?id=49678435#49679530","author":"jbellis","excerpt":"If you're more of a SWE than a data scientist, check out Mjolnir:","kind":"recommendation","parent_comment_id":"49678435"}]
+    },
+    {
+      "name": "Maturin / PyO3",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/PyO3/maturin",
+      "hn_url": "https://news.ycombinator.com/item?id=49685037",
+      "source_story_title": "Libraries Run Rust Inside Python (With PyO3)",
+      "summary": "Rust tooling for building Python packages and portable manylinux wheels.",
+      "why_included": "A developer uses the combination to make Rust software easy for Python users to install.",
+      "evidence": "The developer praised automatic manylinux builds as a practical answer to Linux ABI fragmentation.",
+      "evidence_sources": [{"comment_id":"49685302","comment_url":"https://news.ycombinator.com/item?id=49685037#49685302","author":"the__alchemist","excerpt":"Bonus: Maturin/PyO3 can build \"manylinux\" binaries automatically, which helps with the Linux ABI diaspora.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49685037"}]
+    },
+    {
+      "name": "PicoClaw",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/sipeed/picoclaw",
+      "hn_url": "https://news.ycombinator.com/item?id=49678969",
+      "source_story_title": "Why are AI agents lying, cheating and coordinating?",
+      "summary": "A compact agent runtime built around small, composable tools.",
+      "why_included": "A commenter explicitly loved its bounded, boring-technology philosophy.",
+      "evidence": "The endorsement praised PicoClaw's preference for simple, composable capabilities over complex machinery.",
+      "evidence_sources": [{"comment_id":"49687815","comment_url":"https://news.ycombinator.com/item?id=49678969#49687815","author":"schrodinger","excerpt":"This philosophy is what I love about PicoClaw","kind":"recommendation","context":"evaluated","parent_comment_id":"49684307"}]
+    },
+    {
+      "name": "Persimmon",
+      "category": "AI & Local Models",
+      "thing_url": "https://persimmon.humansand.ai/blog/persimmon.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49679643",
+      "source_story_title": "Aligned to whom?",
+      "summary": "A Humans& research model designed to simulate goal-directed human behavior.",
+      "why_included": "A commenter recommended watching it as an early approach to human-aligned model training.",
+      "evidence": "The commenter considered Persimmon potentially useful for teaching larger models to estimate human goals.",
+      "evidence_sources": [{"comment_id":"49682240","comment_url":"https://news.ycombinator.com/item?id=49679643#49682240","author":"lucrbvi","excerpt":"check out for the Persimmon model[0] from Humans&.","kind":"recommendation","parent_comment_id":"49681719"}]
+    },
+    {
+      "name": "MESA",
+      "category": "Watch & Learn",
+      "thing_url": "https://mesastar.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49683033",
+      "source_story_title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "summary": "An open-source suite for stellar evolution research and education.",
+      "why_included": "A commenter gave unusually strong praise to its scientific community and impact.",
+      "evidence": "The commenter described MESA as an incredible system whose importance exceeds ordinary software.",
+      "evidence_sources": [{"comment_id":"49684025","comment_url":"https://news.ycombinator.com/item?id=49683033#49684025","author":"mturk","excerpt":"MESA, a piece of software referenced in this article, is a pretty incredible system.","kind":"recommendation","context":"evaluated","parent_comment_id":"49683033"}]
+    },
+    {
+      "name": "I Eat the Stars",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.penguinrandomhouse.com/books/808096/i-eat-the-stars-by-sarah-wilson",
+      "hn_url": "https://news.ycombinator.com/item?id=49677577",
+      "source_story_title": "Don't be the out of touch Kung Fu master",
+      "summary": "Sarah Wilson's guide to living meaningfully amid systemic collapse.",
+      "why_included": "A commenter explicitly recommended it to people still seeking constructive responses.",
+      "evidence": "The commenter directly recommended Sarah Wilson's book in a discussion about finding solutions.",
+      "evidence_sources": [{"comment_id":"49686971","comment_url":"https://news.ycombinator.com/item?id=49677577#49686971","author":"lowbloodsugar","excerpt":"I would like to recommend, to both of you, Sarah Wilson’s I Eat the Stars: How to Live Fully and Beautifully in a Collapsing World.","kind":"recommendation","parent_comment_id":"49686247"}]
+    },
+    {
+      "name": "Connections Museum",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.telcomhistory.org/ConnectionsSeattle.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49679459",
+      "source_story_title": "The Interim Computer Museum",
+      "summary": "A Seattle museum preserving telecommunications equipment and switching technology.",
+      "why_included": "A commenter directly recommended visiting it alongside Seattle's computer collections.",
+      "evidence": "The commenter urged nearby readers to check out the museum.",
+      "evidence_sources": [{"comment_id":"49680148","comment_url":"https://news.ycombinator.com/item?id=49679459#49680148","author":"CircuitSeuss","excerpt":"If you’re in the area, check out the Connections Museum too!","kind":"recommendation","parent_comment_id":"49679459"}]
+    },
+    {
+      "name": "Mimms Museum of Technology and Art",
+      "category": "Watch & Learn",
+      "thing_url": "https://mimmsmuseum.org",
+      "hn_url": "https://news.ycombinator.com/item?id=49679459",
+      "source_story_title": "The Interim Computer Museum",
+      "summary": "An Atlanta-area museum devoted to vintage computing and technology artifacts.",
+      "why_included": "A commenter praised it as a great museum for vintage-computing enthusiasts.",
+      "evidence": "The recommendation highlighted its vintage-computing focus and artifacts inherited from the Living Computers Museum.",
+      "evidence_sources": [{"comment_id":"49683672","comment_url":"https://news.ycombinator.com/item?id=49679459#49683672","author":"nipmi","excerpt":"I know there's a great museum near Atlanta for those interested in vintage computing who live on the other side of the country","kind":"recommendation","parent_comment_id":"49679459"}]
+    },
+    {
+      "name": "Australian Computer Museum Society",
+      "category": "Watch & Learn",
+      "thing_url": "https://acms.org.au/",
+      "hn_url": "https://news.ycombinator.com/item?id=49679459",
+      "source_story_title": "The Interim Computer Museum",
+      "summary": "A Sydney collection preserving and exhibiting historic computing technology.",
+      "why_included": "A commenter directly recommended it to readers in Sydney.",
+      "evidence": "The commenter singled out the Australian Computer Museum as a related place to visit.",
+      "evidence_sources": [{"comment_id":"49681940","comment_url":"https://news.ycombinator.com/item?id=49679459#49681940","author":"contingencies","excerpt":"In the same vein if you're in Sydney check out the Australian Computer Museum","kind":"recommendation","parent_comment_id":"49679459"}]
+    }
+  ]
+}

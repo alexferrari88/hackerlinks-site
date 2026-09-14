@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-14T05:17:51+02:00",
+  "id": "connections-museum",
+  "last_seen_at": "2026-09-14T05:17:51+02:00",
+  "latest_mention_id": "2026-09-14:connections-museum:49679459",
+  "mention_ids": [
+    "2026-09-14:connections-museum:49679459"
+  ],
+  "name": "Connections Museum",
+  "slug": "connections-museum",
+  "summary": "A Seattle museum preserving telecommunications equipment and switching technology.",
+  "thing_url": "https://www.telcomhistory.org/ConnectionsSeattle.html",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended visiting it alongside Seattle's computer collections."
+}

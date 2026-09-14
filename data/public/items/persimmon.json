@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-14T05:17:51+02:00",
+  "id": "persimmon",
+  "last_seen_at": "2026-09-14T05:17:51+02:00",
+  "latest_mention_id": "2026-09-14:persimmon:49679643",
+  "mention_ids": [
+    "2026-09-14:persimmon:49679643"
+  ],
+  "name": "Persimmon",
+  "slug": "persimmon",
+  "summary": "A Humans& research model designed to simulate goal-directed human behavior.",
+  "thing_url": "https://persimmon.humansand.ai/blog/persimmon.html",
+  "times_seen": 1,
+  "why_included": "A commenter recommended watching it as an early approach to human-aligned model training."
+}

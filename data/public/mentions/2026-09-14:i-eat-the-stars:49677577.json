@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter directly recommended Sarah Wilson's book in a discussion about finding solutions.",
+  "evidence_sources": [
+    {
+      "author": "lowbloodsugar",
+      "comment_id": "49686971",
+      "comment_url": "https://news.ycombinator.com/item?id=49677577#49686971",
+      "excerpt": "I would like to recommend, to both of you, Sarah Wilson\u2019s I Eat the Stars: How to Live Fully and Beautifully in a Collapsing World.",
+      "kind": "recommendation",
+      "parent_comment_id": "49686247"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49677577",
+  "id": "2026-09-14:i-eat-the-stars:49677577",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "i-eat-the-stars",
+  "rank": 7,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49677577",
+  "source_story_title": "Don't be the out of touch Kung Fu master"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation highlighted its vintage-computing focus and artifacts inherited from the Living Computers Museum.",
+  "evidence_sources": [
+    {
+      "author": "nipmi",
+      "comment_id": "49683672",
+      "comment_url": "https://news.ycombinator.com/item?id=49679459#49683672",
+      "excerpt": "I know there's a great museum near Atlanta for those interested in vintage computing who live on the other side of the country",
+      "kind": "recommendation",
+      "parent_comment_id": "49679459"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49679459",
+  "id": "2026-09-14:mimms-museum-of-technology-and-art:49679459",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "mimms-museum-of-technology-and-art",
+  "rank": 9,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49679459",
+  "source_story_title": "The Interim Computer Museum"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The user endorsed the KVM while noting occasional reconnection problems.",
+  "evidence_sources": [
+    {
+      "author": "noelwelsh",
+      "comment_id": "49681484",
+      "comment_url": "https://news.ycombinator.com/item?id=49681152#49681484",
+      "context": "first_hand_use",
+      "excerpt": "I have an ATEN KVM [1] that gets a solid \"it does the job\" from me.",
+      "kind": "recommendation",
+      "parent_comment_id": "49681152"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49681152",
+  "id": "2026-09-14:aten-cs782dp:49681152",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "aten-cs782dp",
+  "rank": 1,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49681152",
+  "source_story_title": "JetKVM Mini"
+}

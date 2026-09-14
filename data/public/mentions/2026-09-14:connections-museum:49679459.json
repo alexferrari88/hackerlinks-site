@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter urged nearby readers to check out the museum.",
+  "evidence_sources": [
+    {
+      "author": "CircuitSeuss",
+      "comment_id": "49680148",
+      "comment_url": "https://news.ycombinator.com/item?id=49679459#49680148",
+      "excerpt": "If you\u2019re in the area, check out the Connections Museum too!",
+      "kind": "recommendation",
+      "parent_comment_id": "49679459"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49679459",
+  "id": "2026-09-14:connections-museum:49679459",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "connections-museum",
+  "rank": 8,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49679459",
+  "source_story_title": "The Interim Computer Museum"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described MESA as an incredible system whose importance exceeds ordinary software.",
+  "evidence_sources": [
+    {
+      "author": "mturk",
+      "comment_id": "49684025",
+      "comment_url": "https://news.ycombinator.com/item?id=49683033#49684025",
+      "context": "evaluated",
+      "excerpt": "MESA, a piece of software referenced in this article, is a pretty incredible system.",
+      "kind": "recommendation",
+      "parent_comment_id": "49683033"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49683033",
+  "id": "2026-09-14:mesa:49683033",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "mesa",
+  "rank": 6,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49683033",
+  "source_story_title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet"
+}

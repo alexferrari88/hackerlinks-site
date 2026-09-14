@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-14T05:17:51+02:00",
+  "id": "mesa",
+  "last_seen_at": "2026-09-14T05:17:51+02:00",
+  "latest_mention_id": "2026-09-14:mesa:49683033",
+  "mention_ids": [
+    "2026-09-14:mesa:49683033"
+  ],
+  "name": "MESA",
+  "slug": "mesa",
+  "summary": "An open-source suite for stellar evolution research and education.",
+  "thing_url": "https://mesastar.org/",
+  "times_seen": 1,
+  "why_included": "A commenter gave unusually strong praise to its scientific community and impact."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-14T05:17:51+02:00",
+  "id": "mjolnir",
+  "last_seen_at": "2026-09-14T05:17:51+02:00",
+  "latest_mention_id": "2026-09-14:mjolnir:49678435",
+  "mention_ids": [
+    "2026-09-14:mjolnir:49678435"
+  ],
+  "name": "Mjolnir",
+  "slug": "mjolnir",
+  "summary": "An agent workspace with containers, EC2 support, and portable sessions.",
+  "thing_url": "https://github.com/BrokkAi/mjolnir/",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it to software engineers evaluating agent research environments."
+}

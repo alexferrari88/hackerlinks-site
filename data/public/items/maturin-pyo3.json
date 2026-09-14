@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-14T05:17:51+02:00",
+  "id": "maturin-pyo3",
+  "last_seen_at": "2026-09-14T05:17:51+02:00",
+  "latest_mention_id": "2026-09-14:maturin-pyo3:49685037",
+  "mention_ids": [
+    "2026-09-14:maturin-pyo3:49685037"
+  ],
+  "name": "Maturin / PyO3",
+  "slug": "maturin-pyo3",
+  "summary": "Rust tooling for building Python packages and portable manylinux wheels.",
+  "thing_url": "https://github.com/PyO3/maturin",
+  "times_seen": 1,
+  "why_included": "A developer uses the combination to make Rust software easy for Python users to install."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The endorsement praised PicoClaw's preference for simple, composable capabilities over complex machinery.",
+  "evidence_sources": [
+    {
+      "author": "schrodinger",
+      "comment_id": "49687815",
+      "comment_url": "https://news.ycombinator.com/item?id=49678969#49687815",
+      "context": "evaluated",
+      "excerpt": "This philosophy is what I love about PicoClaw",
+      "kind": "recommendation",
+      "parent_comment_id": "49684307"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49678969",
+  "id": "2026-09-14:picoclaw:49678969",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "picoclaw",
+  "rank": 4,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49678969",
+  "source_story_title": "Why are AI agents lying, cheating and coordinating?"
+}

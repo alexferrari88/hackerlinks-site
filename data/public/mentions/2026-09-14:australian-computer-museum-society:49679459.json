@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter singled out the Australian Computer Museum as a related place to visit.",
+  "evidence_sources": [
+    {
+      "author": "contingencies",
+      "comment_id": "49681940",
+      "comment_url": "https://news.ycombinator.com/item?id=49679459#49681940",
+      "excerpt": "In the same vein if you're in Sydney check out the Australian Computer Museum",
+      "kind": "recommendation",
+      "parent_comment_id": "49679459"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49679459",
+  "id": "2026-09-14:australian-computer-museum-society:49679459",
+  "is_repeat": false,
+  "issue_id": "2026-09-14",
+  "item_id": "australian-computer-museum-society",
+  "rank": 10,
+  "seen_at": "2026-09-14T05:17:51+02:00",
+  "source_story_id": "49679459",
+  "source_story_title": "The Interim Computer Museum"
+}

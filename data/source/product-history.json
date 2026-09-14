@@ -8989,6 +8989,66 @@
       "first_reported_at": "2026-09-13T05:17:56+02:00",
       "last_reported_at": "2026-09-13T05:17:56+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "ATEN CS782DP",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mjolnir",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Maturin / PyO3",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PicoClaw",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Persimmon",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MESA",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "I Eat the Stars",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Connections Museum",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mimms Museum of Technology and Art",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Australian Computer Museum Society",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
     }
   ]
 }

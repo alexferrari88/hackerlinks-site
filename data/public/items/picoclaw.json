@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-14T05:17:51+02:00",
+  "id": "picoclaw",
+  "last_seen_at": "2026-09-14T05:17:51+02:00",
+  "latest_mention_id": "2026-09-14:picoclaw:49678969",
+  "mention_ids": [
+    "2026-09-14:picoclaw:49678969"
+  ],
+  "name": "PicoClaw",
+  "slug": "picoclaw",
+  "summary": "A compact agent runtime built around small, composable tools.",
+  "thing_url": "https://github.com/sipeed/picoclaw",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly loved its bounded, boring-technology philosophy."
+}
