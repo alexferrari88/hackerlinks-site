@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Faikout successfully from Home Assistant instead of Daikin's cloud service.",
+  "evidence_sources": [
+    {
+      "author": "damascus_kei",
+      "comment_id": "49682907",
+      "comment_url": "https://news.ycombinator.com/item?id=49640913#49682907",
+      "context": "first_hand_use",
+      "excerpt": "I use Faikout(ESP32 that controls the heads via the debug port) to control my units from home assistant. Works great!",
+      "kind": "recommendation",
+      "parent_comment_id": "49680494"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49640913",
+  "id": "2026-09-15:esp32-faikout:49640913",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "esp32-faikout",
+  "rank": 3,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49640913",
+  "source_story_title": "I added a non-wi-fi Mitsubishi AC to Home Assistant"
+}

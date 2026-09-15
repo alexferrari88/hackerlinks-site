@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "flexito",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:flexito:49686380",
+  "mention_ids": [
+    "2026-09-15:flexito:49686380"
+  ],
+  "name": "Flexito",
+  "slug": "flexito",
+  "summary": "An account-free PWA with short stretching routines, custom workouts, videos, and timers.",
+  "thing_url": "https://flexito.fit/",
+  "times_seen": 1,
+  "why_included": "Its creator uses it daily and designed five-minute routines for desk-work breaks."
+}

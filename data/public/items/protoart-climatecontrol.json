@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "protoart-climatecontrol",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:protoart-climatecontrol:49640913",
+  "mention_ids": [
+    "2026-09-15:protoart-climatecontrol:49640913"
+  ],
+  "name": "ProtoART ClimateControl",
+  "slug": "protoart-climatecontrol",
+  "summary": "A local Wi-Fi controller and sensor for Mitsubishi heat pumps and air conditioners.",
+  "thing_url": "https://clima.protoart.net/",
+  "times_seen": 1,
+  "why_included": "A year-long user praised its simple setup and fully local operation."
+}

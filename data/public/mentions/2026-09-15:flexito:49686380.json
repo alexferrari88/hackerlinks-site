@@ -1,0 +1,23 @@
+{
+  "evidence": "The author reported daily use and highlighted short routines suitable for work breaks.",
+  "evidence_sources": [
+    {
+      "author": "nemwiz",
+      "comment_id": "49691639",
+      "comment_url": "https://news.ycombinator.com/item?id=49686380#49691639",
+      "context": "author_or_maintainer",
+      "excerpt": "Now I use it daily. The app is simple, you have about 100 routines to pick from and you can even build your own from existing exercises.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49686380",
+  "id": "2026-09-15:flexito:49686380",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "flexito",
+  "rank": 8,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49686380",
+  "source_story_title": "Ask HN: What are you working on? (September 2026)"
+}

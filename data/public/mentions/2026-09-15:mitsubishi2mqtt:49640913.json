@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported years of successful use with Home Assistant.",
+  "evidence_sources": [
+    {
+      "author": "webinar",
+      "comment_id": "49686339",
+      "comment_url": "https://news.ycombinator.com/item?id=49640913#49686339",
+      "context": "first_hand_use",
+      "excerpt": "I've been using mitsubishi2MQTT with Home Assistant. It's been working great for several years.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49640913",
+  "id": "2026-09-15:mitsubishi2mqtt:49640913",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "mitsubishi2mqtt",
+  "rank": 1,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49640913",
+  "source_story_title": "I added a non-wi-fi Mitsubishi AC to Home Assistant"
+}

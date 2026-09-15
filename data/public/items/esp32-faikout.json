@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "esp32-faikout",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:esp32-faikout:49640913",
+  "mention_ids": [
+    "2026-09-15:esp32-faikout:49640913"
+  ],
+  "name": "ESP32-Faikout",
+  "slug": "esp32-faikout",
+  "summary": "An open ESP32 controller giving Daikin air conditioners local Home Assistant control.",
+  "thing_url": "https://codeberg.org/RevK/ESP32-Faikout",
+  "times_seen": 1,
+  "why_included": "A Daikin owner said it works great and avoids the vendor cloud."
+}

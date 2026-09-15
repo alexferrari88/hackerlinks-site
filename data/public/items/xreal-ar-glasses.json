@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "xreal-ar-glasses",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:xreal-ar-glasses:49700661",
+  "mention_ids": [
+    "2026-09-15:xreal-ar-glasses:49700661"
+  ],
+  "name": "XREAL AR glasses",
+  "slug": "xreal-ar-glasses",
+  "summary": "Lightweight wired display glasses that create a large phone or laptop workspace.",
+  "thing_url": "https://www.xreal.com/",
+  "times_seen": 1,
+  "why_included": "A user praised their low weight and practical coding setup with Samsung DeX."
+}

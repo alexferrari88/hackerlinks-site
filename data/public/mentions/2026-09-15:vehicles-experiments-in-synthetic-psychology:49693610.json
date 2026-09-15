@@ -1,0 +1,23 @@
+{
+  "evidence": "The book received an unambiguous personal endorsement in a discussion of simulated flocking.",
+  "evidence_sources": [
+    {
+      "author": "lioeters",
+      "comment_id": "49701956",
+      "comment_url": "https://news.ycombinator.com/item?id=49693610#49701956",
+      "context": "first_hand_use",
+      "excerpt": "One of my favorite books is Vehicles: Experiments in Synthetic Psychology.",
+      "kind": "recommendation",
+      "parent_comment_id": "49701678"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49693610",
+  "id": "2026-09-15:vehicles-experiments-in-synthetic-psychology:49693610",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "vehicles-experiments-in-synthetic-psychology",
+  "rank": 10,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49693610",
+  "source_story_title": "EuroBirdPortal \u2013 Live bird movements across Europe"
+}

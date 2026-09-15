@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter endorsed the central ship-possession concept while noting the game is short.",
+  "evidence_sources": [
+    {
+      "author": "latexr",
+      "comment_id": "49695171",
+      "comment_url": "https://news.ycombinator.com/item?id=49638510#49695171",
+      "context": "first_hand_use",
+      "excerpt": "Enemy Mind is a fun tangential concept where instead of having your own ammo and life, you\u2019re constantly possessing enemy ships and using their resources, before discarding them for the next one.",
+      "kind": "recommendation",
+      "parent_comment_id": "49691077"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49638510",
+  "id": "2026-09-15:enemy-mind:49638510",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "enemy-mind",
+  "rank": 11,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49638510",
+  "source_story_title": "Spaceships (Reverse Asteroid)"
+}

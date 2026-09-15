@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter endorsed Pop!_OS from broad daily use across multiple device classes.",
+  "evidence_sources": [
+    {
+      "author": "rpdillon",
+      "comment_id": "49707085",
+      "comment_url": "https://news.ycombinator.com/item?id=49699297#49707085",
+      "context": "first_hand_use",
+      "excerpt": "I use Pop!_OS almost everywhere, but Debian/Ubuntu/Arch with IceWM or Fluxbox (or the like) works great.",
+      "kind": "recommendation",
+      "parent_comment_id": "49703686"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49699297",
+  "id": "2026-09-15:pop-os:49699297",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "pop-os",
+  "rank": 12,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49699297",
+  "source_story_title": "Microsoft patches Windows and Excel \u2013 breaks audio, remote access, and paste"
+}

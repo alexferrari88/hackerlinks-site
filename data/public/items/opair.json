@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "opair",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:opair:49686380",
+  "mention_ids": [
+    "2026-09-15:opair:49686380"
+  ],
+  "name": "Opair",
+  "slug": "opair",
+  "summary": "A coding harness with driver and read-only navigator modes for tighter pairing.",
+  "thing_url": "https://www.opairdev.org/",
+  "times_seen": 1,
+  "why_included": "Its creator uses it daily and strongly endorsed the tailored pair-programming workflow."
+}

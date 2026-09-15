@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T05:17:47+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-15",
+  "id": "2026-09-15",
+  "mention_ids": [
+    "2026-09-15:mitsubishi2mqtt:49640913",
+    "2026-09-15:protoart-climatecontrol:49640913",
+    "2026-09-15:esp32-faikout:49640913",
+    "2026-09-15:xreal-ar-glasses:49700661",
+    "2026-09-15:xteink-x3:49699489",
+    "2026-09-15:opair:49686380",
+    "2026-09-15:kan:49686380",
+    "2026-09-15:flexito:49686380",
+    "2026-09-15:three-body-orbits:49670852",
+    "2026-09-15:vehicles-experiments-in-synthetic-psychology:49693610",
+    "2026-09-15:enemy-mind:49638510",
+    "2026-09-15:pop-os:49699297"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

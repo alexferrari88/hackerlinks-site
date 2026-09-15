@@ -1,0 +1,23 @@
+{
+  "evidence": "The author praised Kan's CLI-backed workflow for helping agents track and use project state.",
+  "evidence_sources": [
+    {
+      "author": "amterp",
+      "comment_id": "49707175",
+      "comment_url": "https://news.ycombinator.com/item?id=49686380#49707175",
+      "context": "author_or_maintainer",
+      "excerpt": "I'm finding it really good for agentic work these days as, using the kan CLI, agents do really well with it for tracking work and leveraging the board. I'm using it for all my projects these days.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49686380",
+  "id": "2026-09-15:kan:49686380",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "kan",
+  "rank": 7,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49686380",
+  "source_story_title": "Ask HN: What are you working on? (September 2026)"
+}

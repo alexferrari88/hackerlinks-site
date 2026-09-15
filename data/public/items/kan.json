@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "kan",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:kan:49686380",
+  "mention_ids": [
+    "2026-09-15:kan:49686380"
+  ],
+  "name": "Kan",
+  "slug": "kan",
+  "summary": "An offline Kanban board stored as plain text alongside a Git repository.",
+  "thing_url": "https://github.com/amterp/kan",
+  "times_seen": 1,
+  "why_included": "Its maintainer uses it across projects and finds it effective for agentic work."
+}

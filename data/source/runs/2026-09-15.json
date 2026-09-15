@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-15",
+  "generated_at": "2026-09-15T05:17:47+02:00",
+  "summary": "Twelve comment-endorsed home-automation tools, apps, games, hardware, and books from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-15.json",
+    "sha256": "21881f94877eb0f0e1dc71193ecde794bd0902b7f71b4990c828b625c781d60a",
+    "bytes": 4032858,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6510,
+    "fetched_item_count": 6540,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "mitsubishi2MQTT",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/gysmo38/mitsubishi2MQTT",
+      "hn_url": "https://news.ycombinator.com/item?id=49640913",
+      "source_story_title": "I added a non-wi-fi Mitsubishi AC to Home Assistant",
+      "summary": "ESP8266/ESP32 firmware connecting Mitsubishi HVAC units to Home Assistant via MQTT.",
+      "why_included": "A long-term user said it has worked great for several years.",
+      "evidence": "The commenter reported years of successful use with Home Assistant.",
+      "evidence_sources": [{"comment_id":"49686339","comment_url":"https://news.ycombinator.com/item?id=49640913#49686339","author":"webinar","excerpt":"I've been using mitsubishi2MQTT with Home Assistant. It's been working great for several years.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "ProtoART ClimateControl",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://clima.protoart.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49640913",
+      "source_story_title": "I added a non-wi-fi Mitsubishi AC to Home Assistant",
+      "summary": "A local Wi-Fi controller and sensor for Mitsubishi heat pumps and air conditioners.",
+      "why_included": "A year-long user praised its simple setup and fully local operation.",
+      "evidence": "The commenter was very pleased after a year and valued the straightforward local design.",
+      "evidence_sources": [{"comment_id":"49680953","comment_url":"https://news.ycombinator.com/item?id=49640913#49680953","author":"nemosaltat","excerpt":"A year in, I’m very pleased. Matter or thread would be nice, but these are super straightforward out of the box and totally local.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49680494"}]
+    },
+    {
+      "name": "ESP32-Faikout",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://codeberg.org/RevK/ESP32-Faikout",
+      "hn_url": "https://news.ycombinator.com/item?id=49640913",
+      "source_story_title": "I added a non-wi-fi Mitsubishi AC to Home Assistant",
+      "summary": "An open ESP32 controller giving Daikin air conditioners local Home Assistant control.",
+      "why_included": "A Daikin owner said it works great and avoids the vendor cloud.",
+      "evidence": "The commenter uses Faikout successfully from Home Assistant instead of Daikin's cloud service.",
+      "evidence_sources": [{"comment_id":"49682907","comment_url":"https://news.ycombinator.com/item?id=49640913#49682907","author":"damascus_kei","excerpt":"I use Faikout(ESP32 that controls the heads via the debug port) to control my units from home assistant. Works great!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49680494"}]
+    },
+    {
+      "name": "XREAL AR glasses",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.xreal.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49700661",
+      "source_story_title": "Steam Frame starts at $1059",
+      "summary": "Lightweight wired display glasses that create a large phone or laptop workspace.",
+      "why_included": "A user praised their low weight and practical coding setup with Samsung DeX.",
+      "evidence": "The commenter found the glasses unobtrusive and capable enough for office coding.",
+      "evidence_sources": [{"comment_id":"49705524","comment_url":"https://news.ycombinator.com/item?id=49700661#49705524","author":"jjmarr","excerpt":"Been doing this with my wired XREALs for the past few months. They are light enough to be unnoticeable and can display a large monitor when plugged into my phone or computer.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49705150"}]
+    },
+    {
+      "name": "Xteink X3",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.xteink.com/products/xteink-x3",
+      "hn_url": "https://news.ycombinator.com/item?id=49699489",
+      "source_story_title": "How my e-reader lost its stripes",
+      "summary": "A tiny pocket e-reader that supports community CrossPoint firmware and KOReader sync.",
+      "why_included": "A recent buyer praised its price, pocketable form factor, and comfortable reading.",
+      "evidence": "The commenter called the form factor amazing and said the small screen works well.",
+      "evidence_sources": [{"comment_id":"49705009","comment_url":"https://news.ycombinator.com/item?id=49699489#49705009","author":"asveikau","excerpt":"I got an X3 a couple of weeks ago, they are dirt cheap and the form factor is amazing. It's so easy to leave it in the pocket and just pull it out when you have an idle moment somewhere out in public.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Opair",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.opairdev.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49686380",
+      "source_story_title": "Ask HN: What are you working on? (September 2026)",
+      "summary": "A coding harness with driver and read-only navigator modes for tighter pairing.",
+      "why_included": "Its creator uses it daily and strongly endorsed the tailored pair-programming workflow.",
+      "evidence": "The author described Opair as a perfect daily driver for staying involved in code changes.",
+      "evidence_sources": [{"comment_id":"49692553","comment_url":"https://news.ycombinator.com/item?id=49686380#49692553","author":"philbo","excerpt":"I use it as my daily driver and it's perfect (for me). I recommend everyone should consider writing their own harness.","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":null}]
+    },
+    {
+      "name": "Kan",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/amterp/kan",
+      "hn_url": "https://news.ycombinator.com/item?id=49686380",
+      "source_story_title": "Ask HN: What are you working on? (September 2026)",
+      "summary": "An offline Kanban board stored as plain text alongside a Git repository.",
+      "why_included": "Its maintainer uses it across projects and finds it effective for agentic work.",
+      "evidence": "The author praised Kan's CLI-backed workflow for helping agents track and use project state.",
+      "evidence_sources": [{"comment_id":"49707175","comment_url":"https://news.ycombinator.com/item?id=49686380#49707175","author":"amterp","excerpt":"I'm finding it really good for agentic work these days as, using the kan CLI, agents do really well with it for tracking work and leveraging the board. I'm using it for all my projects these days.","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":null}]
+    },
+    {
+      "name": "Flexito",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://flexito.fit/",
+      "hn_url": "https://news.ycombinator.com/item?id=49686380",
+      "source_story_title": "Ask HN: What are you working on? (September 2026)",
+      "summary": "An account-free PWA with short stretching routines, custom workouts, videos, and timers.",
+      "why_included": "Its creator uses it daily and designed five-minute routines for desk-work breaks.",
+      "evidence": "The author reported daily use and highlighted short routines suitable for work breaks.",
+      "evidence_sources": [{"comment_id":"49691639","comment_url":"https://news.ycombinator.com/item?id=49686380#49691639","author":"nemwiz","excerpt":"Now I use it daily. The app is simple, you have about 100 routines to pick from and you can even build your own from existing exercises.","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":null}]
+    },
+    {
+      "name": "Three Body Orbits",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.threebodyorbits.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49670852",
+      "source_story_title": "An atlas of periodic solutions to the three-body problem",
+      "summary": "An interactive atlas visualizing periodic solutions to the three-body problem.",
+      "why_included": "A commenter strongly praised its organization, animation, and visual presentation.",
+      "evidence": "The atlas was described as smooth, beautiful, mesmerizing, and fascinating.",
+      "evidence_sources": [{"comment_id":"49696290","comment_url":"https://news.ycombinator.com/item?id=49670852#49696290","author":"mr_mitm","excerpt":"It's well organized, the animations are smooth, and it looks beautiful... I'm not sure what to do with the information, but it's mesmerizing and fascinating. Great find!","kind":"recommendation","context":"evaluated","parent_comment_id":null}]
+    },
+    {
+      "name": "Vehicles: Experiments in Synthetic Psychology",
+      "category": "Watch & Learn",
+      "thing_url": "https://mitpress.mit.edu/9780262521123/vehicles/",
+      "hn_url": "https://news.ycombinator.com/item?id=49693610",
+      "source_story_title": "EuroBirdPortal – Live bird movements across Europe",
+      "summary": "Valentino Braitenberg's thought experiments connecting simple machines to lifelike behavior.",
+      "why_included": "A commenter named it as one of their favorite books.",
+      "evidence": "The book received an unambiguous personal endorsement in a discussion of simulated flocking.",
+      "evidence_sources": [{"comment_id":"49701956","comment_url":"https://news.ycombinator.com/item?id=49693610#49701956","author":"lioeters","excerpt":"One of my favorite books is Vehicles: Experiments in Synthetic Psychology.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49701678"}]
+    },
+    {
+      "name": "Enemy Mind",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://store.steampowered.com/app/285840/Enemy_Mind/",
+      "hn_url": "https://news.ycombinator.com/item?id=49638510",
+      "source_story_title": "Spaceships (Reverse Asteroid)",
+      "summary": "A shooter where players possess enemy ships and consume their resources.",
+      "why_included": "A former player called its possession mechanic fun and worth the discounted price.",
+      "evidence": "The commenter endorsed the central ship-possession concept while noting the game is short.",
+      "evidence_sources": [{"comment_id":"49695171","comment_url":"https://news.ycombinator.com/item?id=49638510#49695171","author":"latexr","excerpt":"Enemy Mind is a fun tangential concept where instead of having your own ammo and life, you’re constantly possessing enemy ships and using their resources, before discarding them for the next one.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49691077"}]
+    },
+    {
+      "name": "Pop!_OS",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://system76.com/pop",
+      "hn_url": "https://news.ycombinator.com/item?id=49699297",
+      "source_story_title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "summary": "System76's Ubuntu-based Linux distribution with the COSMIC desktop environment.",
+      "why_included": "A Linux daily driver said they use Pop!_OS almost everywhere and adore the desktop.",
+      "evidence": "The commenter endorsed Pop!_OS from broad daily use across multiple device classes.",
+      "evidence_sources": [{"comment_id":"49707085","comment_url":"https://news.ycombinator.com/item?id=49699297#49707085","author":"rpdillon","excerpt":"I use Pop!_OS almost everywhere, but Debian/Ubuntu/Arch with IceWM or Fluxbox (or the like) works great.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49703686"}]
+    }
+  ]
+}

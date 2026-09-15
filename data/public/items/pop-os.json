@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "pop-os",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:pop-os:49699297",
+  "mention_ids": [
+    "2026-09-15:pop-os:49699297"
+  ],
+  "name": "Pop!_OS",
+  "slug": "pop-os",
+  "summary": "System76's Ubuntu-based Linux distribution with the COSMIC desktop environment.",
+  "thing_url": "https://system76.com/pop",
+  "times_seen": 1,
+  "why_included": "A Linux daily driver said they use Pop!_OS almost everywhere and adore the desktop."
+}

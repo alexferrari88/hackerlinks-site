@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "three-body-orbits",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:three-body-orbits:49670852",
+  "mention_ids": [
+    "2026-09-15:three-body-orbits:49670852"
+  ],
+  "name": "Three Body Orbits",
+  "slug": "three-body-orbits",
+  "summary": "An interactive atlas visualizing periodic solutions to the three-body problem.",
+  "thing_url": "https://www.threebodyorbits.com/",
+  "times_seen": 1,
+  "why_included": "A commenter strongly praised its organization, animation, and visual presentation."
+}

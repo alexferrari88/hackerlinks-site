@@ -9049,6 +9049,78 @@
       "first_reported_at": "2026-09-14T05:17:51+02:00",
       "last_reported_at": "2026-09-14T05:17:51+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "mitsubishi2MQTT",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ProtoART ClimateControl",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ESP32-Faikout",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "XREAL AR glasses",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Xteink X3",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Opair",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Kan",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Flexito",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Three Body Orbits",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Vehicles: Experiments in Synthetic Psychology",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Enemy Mind",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pop!_OS",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
     }
   ]
 }

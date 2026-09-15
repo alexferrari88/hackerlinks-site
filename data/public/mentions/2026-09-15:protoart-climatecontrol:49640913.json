@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter was very pleased after a year and valued the straightforward local design.",
+  "evidence_sources": [
+    {
+      "author": "nemosaltat",
+      "comment_id": "49680953",
+      "comment_url": "https://news.ycombinator.com/item?id=49640913#49680953",
+      "context": "first_hand_use",
+      "excerpt": "A year in, I\u2019m very pleased. Matter or thread would be nice, but these are super straightforward out of the box and totally local.",
+      "kind": "recommendation",
+      "parent_comment_id": "49680494"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49640913",
+  "id": "2026-09-15:protoart-climatecontrol:49640913",
+  "is_repeat": false,
+  "issue_id": "2026-09-15",
+  "item_id": "protoart-climatecontrol",
+  "rank": 2,
+  "seen_at": "2026-09-15T05:17:47+02:00",
+  "source_story_id": "49640913",
+  "source_story_title": "I added a non-wi-fi Mitsubishi AC to Home Assistant"
+}

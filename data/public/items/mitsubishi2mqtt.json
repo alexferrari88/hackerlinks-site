@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-15T05:17:47+02:00",
+  "id": "mitsubishi2mqtt",
+  "last_seen_at": "2026-09-15T05:17:47+02:00",
+  "latest_mention_id": "2026-09-15:mitsubishi2mqtt:49640913",
+  "mention_ids": [
+    "2026-09-15:mitsubishi2mqtt:49640913"
+  ],
+  "name": "mitsubishi2MQTT",
+  "slug": "mitsubishi2mqtt",
+  "summary": "ESP8266/ESP32 firmware connecting Mitsubishi HVAC units to Home Assistant via MQTT.",
+  "thing_url": "https://github.com/gysmo38/mitsubishi2MQTT",
+  "times_seen": 1,
+  "why_included": "A long-term user said it has worked great for several years."
+}
