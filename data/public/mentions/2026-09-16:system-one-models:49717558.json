@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter independently described System One as a very promising idea.",
+  "evidence_sources": [
+    {
+      "author": "maltalex",
+      "comment_id": "49720612",
+      "comment_url": "https://news.ycombinator.com/item?id=49717558#49720612",
+      "context": "evaluated",
+      "excerpt": "This is a very promising idea - a model that takes arbitrary text input (which can be a complex json), plus a set of questions (yes/no, multiple-choice, or score) and quickly (milliseconds) and cheaply ($0.042/MTok) answers those questions.",
+      "kind": "recommendation",
+      "parent_comment_id": "49717558"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49717558",
+  "id": "2026-09-16:system-one-models:49717558",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "system-one-models",
+  "rank": 2,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49717558",
+  "source_story_title": "Introducing System One Models and Jev"
+}

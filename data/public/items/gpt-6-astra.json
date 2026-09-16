@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "gpt-6-astra",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:gpt-6-astra:49713999",
+  "mention_ids": [
+    "2026-09-16:gpt-6-astra:49713999"
+  ],
+  "name": "GPT-6 Astra",
+  "slug": "gpt-6-astra",
+  "summary": "OpenAI's agentic model for professional workflows including editable Blender scene creation.",
+  "thing_url": "https://openai.com/index/gpt-6-astra/",
+  "times_seen": 1,
+  "why_included": "A Blender user gave Astra a concise, positive first-hand endorsement."
+}

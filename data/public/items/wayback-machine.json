@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "wayback-machine",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:wayback-machine:49716176",
+  "mention_ids": [
+    "2026-09-16:wayback-machine:49716176"
+  ],
+  "name": "Wayback Machine",
+  "slug": "wayback-machine",
+  "summary": "Internet Archive's service for browsing preserved snapshots of websites across time.",
+  "thing_url": "https://web.archive.org/",
+  "times_seen": 1,
+  "why_included": "A small-site owner explicitly praised its value for personal projects."
+}

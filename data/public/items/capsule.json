@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "capsule",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:capsule:49712278",
+  "mention_ids": [
+    "2026-09-16:capsule:49712278"
+  ],
+  "name": "Capsule",
+  "slug": "capsule",
+  "summary": "A format for single-file web apps that store their data inside SQLite.",
+  "thing_url": "https://withcapsule.app/",
+  "times_seen": 1,
+  "why_included": "A commenter endorsed the project and connected it to portable agent-built artifacts."
+}

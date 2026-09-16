@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised its tracking, local-data options, and explicitly recommended the watch.",
+  "evidence_sources": [
+    {
+      "author": "SequoiaHope",
+      "comment_id": "49719291",
+      "comment_url": "https://news.ycombinator.com/item?id=49677648#49719291",
+      "context": "first_hand_use",
+      "excerpt": "It\u2019s really nice and my data is reasonably private (Claude can see it though I could fix that). I recommend the watch!",
+      "kind": "recommendation",
+      "parent_comment_id": "49677648"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49677648",
+  "id": "2026-09-16:garmin-lily-2-active:49677648",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "garmin-lily-2-active",
+  "rank": 12,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49677648",
+  "source_story_title": "Giving up on smart rings"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "garmin-lily-2-active",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:garmin-lily-2-active:49677648",
+  "mention_ids": [
+    "2026-09-16:garmin-lily-2-active:49677648"
+  ],
+  "name": "Garmin Lily 2 Active",
+  "slug": "garmin-lily-2-active",
+  "summary": "A compact GPS smartwatch supporting sleep, activity, and locally synced health data.",
+  "thing_url": "https://www.garmin.com/en-US/p/1196650",
+  "times_seen": 1,
+  "why_included": "A Linux user recommended it after building a private Bluetooth sync workflow."
+}

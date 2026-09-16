@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "silo",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:silo:49709381",
+  "mention_ids": [
+    "2026-09-16:silo:49709381"
+  ],
+  "name": "Silo",
+  "slug": "silo",
+  "summary": "The maintained PGSTY fork of MinIO, now renamed Silo, for S3-compatible storage.",
+  "thing_url": "https://github.com/pgsty/silo",
+  "times_seen": 1,
+  "why_included": "A user praised the fork as an instant local S3 simulator with no complaints."
+}

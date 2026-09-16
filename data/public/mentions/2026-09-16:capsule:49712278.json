@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter positively assessed Capsule before explaining the value of portable SQLite artifacts.",
+  "evidence_sources": [
+    {
+      "author": "nzoschke",
+      "comment_id": "49715212",
+      "comment_url": "https://news.ycombinator.com/item?id=49712278#49715212",
+      "context": "evaluated",
+      "excerpt": "Looks neat. Shuffling artifacts around is more important than ever with all the agentic web sites and apps we are making.",
+      "kind": "recommendation",
+      "parent_comment_id": "49712278"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49712278",
+  "id": "2026-09-16:capsule:49712278",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "capsule",
+  "rank": 4,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49712278",
+  "source_story_title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite"
+}

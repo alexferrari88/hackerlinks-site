@@ -9121,6 +9121,78 @@
       "first_reported_at": "2026-09-15T05:17:47+02:00",
       "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Missionary Bush Pilot",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "System One Models",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Chrome Labs Text Editor",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Capsule",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Modem Thing",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "JuiceFS",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Silo",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ForgeCAD",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "GPT-6 Astra",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Wayback Machine",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Oura Ring",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Garmin Lily 2 Active",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
     }
   ]
 }

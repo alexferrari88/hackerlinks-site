@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "system-one-models",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:system-one-models:49717558",
+  "mention_ids": [
+    "2026-09-16:system-one-models:49717558"
+  ],
+  "name": "System One Models",
+  "slug": "system-one-models",
+  "summary": "Fast classification models answering structured questions over arbitrary text or JSON.",
+  "thing_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+  "times_seen": 1,
+  "why_included": "A commenter praised the idea's speed, low cost, and flexible inputs."
+}

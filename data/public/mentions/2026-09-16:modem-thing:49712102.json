@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the project cool, practical, and cleverly designed.",
+  "evidence_sources": [
+    {
+      "author": "xx_ns",
+      "comment_id": "49712562",
+      "comment_url": "https://news.ycombinator.com/item?id=49712102#49712562",
+      "context": "evaluated",
+      "excerpt": "This is a really cool project! A mini cyberdeck that doesn't seem too impractical to use.",
+      "kind": "recommendation",
+      "parent_comment_id": "49712102"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49712102",
+  "id": "2026-09-16:modem-thing:49712102",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "modem-thing",
+  "rank": 5,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49712102",
+  "source_story_title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
+}

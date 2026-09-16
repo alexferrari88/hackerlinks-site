@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the archive incredibly valuable and said they loved its benefits.",
+  "evidence_sources": [
+    {
+      "author": "Kodiack",
+      "comment_id": "49720515",
+      "comment_url": "https://news.ycombinator.com/item?id=49716176#49720515",
+      "context": "first_hand_use",
+      "excerpt": "They provide an incredibly valuable service and I love the benefit that I get from them just for personal side projects.",
+      "kind": "recommendation",
+      "parent_comment_id": "49716712"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49716176",
+  "id": "2026-09-16:wayback-machine:49716176",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "wayback-machine",
+  "rank": 10,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49716176",
+  "source_story_title": "An update on Wayback Machine access"
+}

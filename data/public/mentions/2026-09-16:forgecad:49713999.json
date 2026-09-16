@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called ForgeCAD mind-blowing and described successful printed household parts.",
+  "evidence_sources": [
+    {
+      "author": "atonse",
+      "comment_id": "49714750",
+      "comment_url": "https://news.ycombinator.com/item?id=49713999#49714750",
+      "context": "first_hand_use",
+      "excerpt": "ForgeCAD [1] for me was the first mind-blowing application of this a few months ago, where I'm able to just have claude (or codex) write JS that creates 3D Models that I can then print in my 3D printer.",
+      "kind": "recommendation",
+      "parent_comment_id": "49713999"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49713999",
+  "id": "2026-09-16:forgecad:49713999",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "forgecad",
+  "rank": 8,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49713999",
+  "source_story_title": "Cartesian \u2013 AI 3D Modeling for Design"
+}

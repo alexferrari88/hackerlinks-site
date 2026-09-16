@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter chose the former pgsty/minio fork and found it great for end-to-end tests.",
+  "evidence_sources": [
+    {
+      "author": "cadamsdotcom",
+      "comment_id": "49710683",
+      "comment_url": "https://news.ycombinator.com/item?id=49709381#49710683",
+      "context": "first_hand_use",
+      "excerpt": "This is what I went with.",
+      "kind": "recommendation",
+      "parent_comment_id": "49709381"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49709381",
+  "id": "2026-09-16:silo:49709381",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "silo",
+  "rank": 7,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49709381",
+  "source_story_title": "Alternatives to MinIO for single-node local S3"
+}

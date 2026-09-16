@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "oura-ring",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:oura-ring:49677648",
+  "mention_ids": [
+    "2026-09-16:oura-ring:49677648"
+  ],
+  "name": "Oura Ring",
+  "slug": "oura-ring",
+  "summary": "A low-maintenance smart ring focused on sleep, recovery, activity, and health tracking.",
+  "thing_url": "https://ouraring.com/",
+  "times_seen": 1,
+  "why_included": "A year-long user praised its convenience and useful sleep-score signal."
+}

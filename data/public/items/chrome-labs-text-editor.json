@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "chrome-labs-text-editor",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:chrome-labs-text-editor:49712278",
+  "mention_ids": [
+    "2026-09-16:chrome-labs-text-editor:49712278"
+  ],
+  "name": "Chrome Labs Text Editor",
+  "slug": "chrome-labs-text-editor",
+  "summary": "A browser text editor demonstrating direct local-file access on desktop and mobile.",
+  "thing_url": "https://googlechromelabs.github.io/text-editor/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as a working File System Access API example."
+}

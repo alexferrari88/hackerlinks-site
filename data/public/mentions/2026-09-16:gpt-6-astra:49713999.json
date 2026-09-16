@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported using Astra to create Blender objects and called it great.",
+  "evidence_sources": [
+    {
+      "author": "throwitaway222",
+      "comment_id": "49714648",
+      "comment_url": "https://news.ycombinator.com/item?id=49713999#49714648",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Astra to just create things in Blender. It's great.",
+      "kind": "recommendation",
+      "parent_comment_id": "49713999"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49713999",
+  "id": "2026-09-16:gpt-6-astra:49713999",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "gpt-6-astra",
+  "rank": 9,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49713999",
+  "source_story_title": "Cartesian \u2013 AI 3D Modeling for Design"
+}

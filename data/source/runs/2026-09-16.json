@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-16",
+  "generated_at": "2026-09-16T05:17:20+02:00",
+  "summary": "Twelve comment-endorsed developer tools, apps, media, storage systems, and wearables from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-16.json",
+    "sha256": "668c08204c3e3a36f4938b486cb124612c5f398fc1a77d532d59022a955d48e1",
+    "bytes": 3177104,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5136,
+    "fetched_item_count": 5166,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Missionary Bush Pilot",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@MissionaryBushPilot",
+      "hn_url": "https://news.ycombinator.com/item?id=49708431",
+      "source_story_title": "I can't stop thinking about Papua New Guinea",
+      "summary": "A YouTube channel following Kodiak bush-plane deliveries across Papua New Guinea.",
+      "why_included": "A former viewer strongly recommended its aviation videos.",
+      "evidence": "The commenter called the channel's aviation videos golden.",
+      "evidence_sources": [{"comment_id":"49709712","comment_url":"https://news.ycombinator.com/item?id=49708431#49709712","author":"tthbalazs","excerpt":"If you're into aviation, the videos are golden","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49708431"}]
+    },
+    {
+      "name": "System One Models",
+      "category": "AI & Local Models",
+      "thing_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "hn_url": "https://news.ycombinator.com/item?id=49717558",
+      "source_story_title": "Introducing System One Models and Jev",
+      "summary": "Fast classification models answering structured questions over arbitrary text or JSON.",
+      "why_included": "A commenter praised the idea's speed, low cost, and flexible inputs.",
+      "evidence": "The commenter independently described System One as a very promising idea.",
+      "evidence_sources": [{"comment_id":"49720612","comment_url":"https://news.ycombinator.com/item?id=49717558#49720612","author":"maltalex","excerpt":"This is a very promising idea - a model that takes arbitrary text input (which can be a complex json), plus a set of questions (yes/no, multiple-choice, or score) and quickly (milliseconds) and cheaply ($0.042/MTok) answers those questions.","kind":"recommendation","context":"evaluated","parent_comment_id":"49717558"}]
+    },
+    {
+      "name": "Chrome Labs Text Editor",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://googlechromelabs.github.io/text-editor/",
+      "hn_url": "https://news.ycombinator.com/item?id=49712278",
+      "source_story_title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "summary": "A browser text editor demonstrating direct local-file access on desktop and mobile.",
+      "why_included": "A commenter recommended it as a working File System Access API example.",
+      "evidence": "The commenter said the editor works nicely on both desktop and mobile.",
+      "evidence_sources": [{"comment_id":"49714845","comment_url":"https://news.ycombinator.com/item?id=49712278#49714845","author":"mg","excerpt":"It works nicely on Desktop and Mobile.","kind":"recommendation","context":"evaluated","parent_comment_id":"49712278"}]
+    },
+    {
+      "name": "Capsule",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://withcapsule.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49712278",
+      "source_story_title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "summary": "A format for single-file web apps that store their data inside SQLite.",
+      "why_included": "A commenter endorsed the project and connected it to portable agent-built artifacts.",
+      "evidence": "The commenter positively assessed Capsule before explaining the value of portable SQLite artifacts.",
+      "evidence_sources": [{"comment_id":"49715212","comment_url":"https://news.ycombinator.com/item?id=49712278#49715212","author":"nzoschke","excerpt":"Looks neat. Shuffling artifacts around is more important than ever with all the agentic web sites and apps we are making.","kind":"recommendation","context":"evaluated","parent_comment_id":"49712278"}]
+    },
+    {
+      "name": "Modem Thing",
+      "category": "Hardware & Devices",
+      "thing_url": "https://bkovac.github.io/modem-thing/",
+      "hn_url": "https://news.ycombinator.com/item?id=49712102",
+      "source_story_title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "summary": "A $20 4G hotspot repurposed into a compact keyboard-equipped texting cyberdeck.",
+      "why_included": "A commenter praised both its practicality and the reused Clicks keyboard.",
+      "evidence": "The commenter called the project cool, practical, and cleverly designed.",
+      "evidence_sources": [{"comment_id":"49712562","comment_url":"https://news.ycombinator.com/item?id=49712102#49712562","author":"xx_ns","excerpt":"This is a really cool project! A mini cyberdeck that doesn't seem too impractical to use.","kind":"recommendation","context":"evaluated","parent_comment_id":"49712102"}]
+    },
+    {
+      "name": "JuiceFS",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/juicedata/juicefs",
+      "hn_url": "https://news.ycombinator.com/item?id=49709381",
+      "source_story_title": "Alternatives to MinIO for single-node local S3",
+      "summary": "A distributed POSIX file system backed by object storage and shared metadata.",
+      "why_included": "A commenter named it as their own storage choice while discussing MinIO alternatives.",
+      "evidence": "The commenter reported first-hand use of JuiceFS, with a trust caveat.",
+      "evidence_sources": [{"comment_id":"49710666","comment_url":"https://news.ycombinator.com/item?id=49709381#49710666","author":"stevefan1999","excerpt":"I use JuiceFS","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49709381"}]
+    },
+    {
+      "name": "Silo",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/pgsty/silo",
+      "hn_url": "https://news.ycombinator.com/item?id=49709381",
+      "source_story_title": "Alternatives to MinIO for single-node local S3",
+      "summary": "The maintained PGSTY fork of MinIO, now renamed Silo, for S3-compatible storage.",
+      "why_included": "A user praised the fork as an instant local S3 simulator with no complaints.",
+      "evidence": "The commenter chose the former pgsty/minio fork and found it great for end-to-end tests.",
+      "evidence_sources": [{"comment_id":"49710683","comment_url":"https://news.ycombinator.com/item?id=49709381#49710683","author":"cadamsdotcom","excerpt":"This is what I went with.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49709381"}]
+    },
+    {
+      "name": "ForgeCAD",
+      "category": "AI & Local Models",
+      "thing_url": "https://forgecad.io",
+      "hn_url": "https://news.ycombinator.com/item?id=49713999",
+      "source_story_title": "Cartesian – AI 3D Modeling for Design",
+      "summary": "An agent-friendly JavaScript CAD environment for generating printable 3D models.",
+      "why_included": "A user cut a multi-week modeling task to a working prototype in one hour.",
+      "evidence": "The commenter called ForgeCAD mind-blowing and described successful printed household parts.",
+      "evidence_sources": [{"comment_id":"49714750","comment_url":"https://news.ycombinator.com/item?id=49713999#49714750","author":"atonse","excerpt":"ForgeCAD [1] for me was the first mind-blowing application of this a few months ago, where I'm able to just have claude (or codex) write JS that creates 3D Models that I can then print in my 3D printer.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49713999"}]
+    },
+    {
+      "name": "GPT-6 Astra",
+      "category": "AI & Local Models",
+      "thing_url": "https://openai.com/index/gpt-6-astra/",
+      "hn_url": "https://news.ycombinator.com/item?id=49713999",
+      "source_story_title": "Cartesian – AI 3D Modeling for Design",
+      "summary": "OpenAI's agentic model for professional workflows including editable Blender scene creation.",
+      "why_included": "A Blender user gave Astra a concise, positive first-hand endorsement.",
+      "evidence": "The commenter reported using Astra to create Blender objects and called it great.",
+      "evidence_sources": [{"comment_id":"49714648","comment_url":"https://news.ycombinator.com/item?id=49713999#49714648","author":"throwitaway222","excerpt":"I've been using Astra to just create things in Blender. It's great.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49713999"}]
+    },
+    {
+      "name": "Wayback Machine",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://web.archive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49716176",
+      "source_story_title": "An update on Wayback Machine access",
+      "summary": "Internet Archive's service for browsing preserved snapshots of websites across time.",
+      "why_included": "A small-site owner explicitly praised its value for personal projects.",
+      "evidence": "The commenter called the archive incredibly valuable and said they loved its benefits.",
+      "evidence_sources": [{"comment_id":"49720515","comment_url":"https://news.ycombinator.com/item?id=49716176#49720515","author":"Kodiack","excerpt":"They provide an incredibly valuable service and I love the benefit that I get from them just for personal side projects.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49716712"}]
+    },
+    {
+      "name": "Oura Ring",
+      "category": "Hardware & Devices",
+      "thing_url": "https://ouraring.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49677648",
+      "source_story_title": "Giving up on smart rings",
+      "summary": "A low-maintenance smart ring focused on sleep, recovery, activity, and health tracking.",
+      "why_included": "A year-long user praised its convenience and useful sleep-score signal.",
+      "evidence": "The commenter found Oura unusually unfussy and useful for improving sleep health.",
+      "evidence_sources": [{"comment_id":"49715292","comment_url":"https://news.ycombinator.com/item?id=49677648#49715292","author":"atldev","excerpt":"I like my Oura ring and find it one of the least fussy fitness trackers I've used.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49677648"}]
+    },
+    {
+      "name": "Garmin Lily 2 Active",
+      "category": "Hardware & Devices",
+      "thing_url": "https://www.garmin.com/en-US/p/1196650",
+      "hn_url": "https://news.ycombinator.com/item?id=49677648",
+      "source_story_title": "Giving up on smart rings",
+      "summary": "A compact GPS smartwatch supporting sleep, activity, and locally synced health data.",
+      "why_included": "A Linux user recommended it after building a private Bluetooth sync workflow.",
+      "evidence": "The commenter praised its tracking, local-data options, and explicitly recommended the watch.",
+      "evidence_sources": [{"comment_id":"49719291","comment_url":"https://news.ycombinator.com/item?id=49677648#49719291","author":"SequoiaHope","excerpt":"It’s really nice and my data is reasonably private (Claude can see it though I could fix that). I recommend the watch!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49677648"}]
+    }
+  ]
+}

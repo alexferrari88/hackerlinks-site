@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called the channel's aviation videos golden.",
+  "evidence_sources": [
+    {
+      "author": "tthbalazs",
+      "comment_id": "49709712",
+      "comment_url": "https://news.ycombinator.com/item?id=49708431#49709712",
+      "context": "first_hand_use",
+      "excerpt": "If you're into aviation, the videos are golden",
+      "kind": "recommendation",
+      "parent_comment_id": "49708431"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49708431",
+  "id": "2026-09-16:missionary-bush-pilot:49708431",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "missionary-bush-pilot",
+  "rank": 1,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49708431",
+  "source_story_title": "I can't stop thinking about Papua New Guinea"
+}

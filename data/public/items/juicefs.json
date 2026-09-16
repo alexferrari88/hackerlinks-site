@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "juicefs",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:juicefs:49709381",
+  "mention_ids": [
+    "2026-09-16:juicefs:49709381"
+  ],
+  "name": "JuiceFS",
+  "slug": "juicefs",
+  "summary": "A distributed POSIX file system backed by object storage and shared metadata.",
+  "thing_url": "https://github.com/juicedata/juicefs",
+  "times_seen": 1,
+  "why_included": "A commenter named it as their own storage choice while discussing MinIO alternatives."
+}

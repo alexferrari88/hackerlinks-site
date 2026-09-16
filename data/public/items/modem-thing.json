@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-16T05:17:20+02:00",
+  "id": "modem-thing",
+  "last_seen_at": "2026-09-16T05:17:20+02:00",
+  "latest_mention_id": "2026-09-16:modem-thing:49712102",
+  "mention_ids": [
+    "2026-09-16:modem-thing:49712102"
+  ],
+  "name": "Modem Thing",
+  "slug": "modem-thing",
+  "summary": "A $20 4G hotspot repurposed into a compact keyboard-equipped texting cyberdeck.",
+  "thing_url": "https://bkovac.github.io/modem-thing/",
+  "times_seen": 1,
+  "why_included": "A commenter praised both its practicality and the reused Clicks keyboard."
+}

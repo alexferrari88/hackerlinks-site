@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found Oura unusually unfussy and useful for improving sleep health.",
+  "evidence_sources": [
+    {
+      "author": "atldev",
+      "comment_id": "49715292",
+      "comment_url": "https://news.ycombinator.com/item?id=49677648#49715292",
+      "context": "first_hand_use",
+      "excerpt": "I like my Oura ring and find it one of the least fussy fitness trackers I've used.",
+      "kind": "recommendation",
+      "parent_comment_id": "49677648"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49677648",
+  "id": "2026-09-16:oura-ring:49677648",
+  "is_repeat": false,
+  "issue_id": "2026-09-16",
+  "item_id": "oura-ring",
+  "rank": 11,
+  "seen_at": "2026-09-16T05:17:20+02:00",
+  "source_story_id": "49677648",
+  "source_story_title": "Giving up on smart rings"
+}
