@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter gave the video unusually strong praise.",
+  "evidence_sources": [
+    {
+      "author": "verdverm",
+      "comment_id": "49730871",
+      "comment_url": "https://news.ycombinator.com/item?id=49727659#49730871",
+      "context": "evaluated",
+      "excerpt": "(still the best Ai video I have seen, also a work of art)",
+      "kind": "recommendation",
+      "parent_comment_id": "49730836"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49727659",
+  "id": "2026-09-17:ai-does-to-us-what-american-cheese-did-to-food:49727659",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "ai-does-to-us-what-american-cheese-did-to-food",
+  "rank": 9,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49727659",
+  "source_story_title": "The DeepMind Institute"
+}

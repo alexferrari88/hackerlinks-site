@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described Evolution Control Committee's work as wild and the linked release as good.",
+  "evidence_sources": [
+    {
+      "author": "cobbzilla",
+      "comment_id": "49721707",
+      "comment_url": "https://news.ycombinator.com/item?id=49721548#49721707",
+      "context": "evaluated",
+      "excerpt": "Evolution Control Committee had some wild stuff too in a similar vein.",
+      "kind": "recommendation",
+      "parent_comment_id": "49721548"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49721548",
+  "id": "2026-09-17:plagiarhythm-nation-v2-0:49721548",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "plagiarhythm-nation-v2-0",
+  "rank": 8,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49721548",
+  "source_story_title": "Negativland, Culture Jamming, and the Art of Making Something New"
+}

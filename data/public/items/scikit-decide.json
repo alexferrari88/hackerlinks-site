@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "scikit-decide",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:scikit-decide:49720164",
+  "mention_ids": [
+    "2026-09-17:scikit-decide:49720164"
+  ],
+  "name": "scikit-decide",
+  "slug": "scikit-decide",
+  "summary": "An Airbus-backed Python framework for planning, scheduling, and decision-making problems.",
+  "thing_url": "https://github.com/airbus/scikit-decide",
+  "times_seen": 1,
+  "why_included": "A commenter independently praised the linked open-source framework."
+}

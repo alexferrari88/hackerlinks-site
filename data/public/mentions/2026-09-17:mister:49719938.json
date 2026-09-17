@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter explicitly recommended MiSTer for people interested in old machines.",
+  "evidence_sources": [
+    {
+      "author": "jumploops",
+      "comment_id": "49722024",
+      "comment_url": "https://news.ycombinator.com/item?id=49719938#49722024",
+      "context": "evaluated",
+      "excerpt": "It's a super cool project, and I highly recommend checking it out if you have an interest in old machines (Apple II, Commodore 64, etc.).",
+      "kind": "recommendation",
+      "parent_comment_id": "49719938"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49719938",
+  "id": "2026-09-17:mister:49719938",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "mister",
+  "rank": 7,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49719938",
+  "source_story_title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA"
+}

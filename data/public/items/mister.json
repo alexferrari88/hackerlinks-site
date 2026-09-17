@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "mister",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:mister:49719938",
+  "mention_ids": [
+    "2026-09-17:mister:49719938"
+  ],
+  "name": "MiSTer",
+  "slug": "mister",
+  "summary": "An FPGA platform recreating classic computers and consoles with hardware-level timing.",
+  "thing_url": "https://mister-devel.github.io/MkDocs_MiSTer/",
+  "times_seen": 1,
+  "why_included": "A commenter called it super cool and highly recommended it to retro-computing fans."
+}

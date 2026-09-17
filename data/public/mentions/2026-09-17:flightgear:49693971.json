@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported professional deployment of FlightGear for multi-window trainer visuals.",
+  "evidence_sources": [
+    {
+      "author": "phugoid",
+      "comment_id": "49727150",
+      "comment_url": "https://news.ycombinator.com/item?id=49693971#49727150",
+      "context": "production_use",
+      "excerpt": "We used FlightGear in a master-slave setup: the master node simulates physics and feeds accelerations to the hydraulic platform, and the slave nodes generate out-the-window visuals for each window.",
+      "kind": "recommendation",
+      "parent_comment_id": "49693971"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49693971",
+  "id": "2026-09-17:flightgear:49693971",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "flightgear",
+  "rank": 6,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49693971",
+  "source_story_title": "Show HN: I made a flight simulator, except you're just a passenger"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "flightgear",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:flightgear:49693971",
+  "mention_ids": [
+    "2026-09-17:flightgear:49693971"
+  ],
+  "name": "FlightGear",
+  "slug": "flightgear",
+  "summary": "An open-source flight simulator usable for research, training, and home simulation.",
+  "thing_url": "https://www.flightgear.org/",
+  "times_seen": 1,
+  "why_included": "A flight-simulator engineer described using it in real crew-evacuation trainers."
+}

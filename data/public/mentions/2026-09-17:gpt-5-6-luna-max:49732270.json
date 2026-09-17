@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Luna Max for review work while noting that it is slow.",
+  "evidence_sources": [
+    {
+      "author": "rapind",
+      "comment_id": "49735333",
+      "comment_url": "https://news.ycombinator.com/item?id=49732270#49735333",
+      "context": "first_hand_use",
+      "excerpt": "I use Luna Max for asynchronous subagent reviews and am very happy with its work, but it\u2019s slow af.",
+      "kind": "recommendation",
+      "parent_comment_id": "49735167"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49732270",
+  "id": "2026-09-17:gpt-5-6-luna-max:49732270",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "gpt-5-6-luna-max",
+  "rank": 5,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49732270",
+  "source_story_title": "Xiaomi Mimo 2.6 live post-training dashboard"
+}

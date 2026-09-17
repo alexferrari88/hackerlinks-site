@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-09-17",
+  "generated_at": "2026-09-17T05:17:55+02:00",
+  "summary": "Nine comment-endorsed developer tools, models, simulators, retro hardware projects, and media from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-17.json",
+    "sha256": "1b446fc4189591618b953312d44f5c23cd5a1d8fd8edbf49df2c37356d15c26d",
+    "bytes": 3362550,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5408,
+    "fetched_item_count": 5438,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "zoxide",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/ajeetdsouza/zoxide",
+      "hn_url": "https://news.ycombinator.com/item?id=49729000",
+      "source_story_title": "Small programming tricks",
+      "summary": "A smarter cd command that learns which directories you visit most often.",
+      "why_included": "A user called mapping cd to zoxide their most useful shell trick.",
+      "evidence": "The commenter gave zoxide a strong first-hand workflow endorsement.",
+      "evidence_sources": [{"comment_id":"49730231","comment_url":"https://news.ycombinator.com/item?id=49729000#49730231","author":"disinterred","excerpt":"The most useful shell trick I've used to date is mapping the 'cd' command to 'zoxide', which is a more powerful version of cd that remembers folders you've been to.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49729000"}]
+    },
+    {
+      "name": "Roborazzi",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/takahirom/roborazzi/",
+      "hn_url": "https://news.ycombinator.com/item?id=49724927",
+      "source_story_title": "The Google Play app review process now regularly takes longer than a week",
+      "summary": "An Android screenshot-testing library supporting Compose, XML views, and varied devices.",
+      "why_included": "A production user explicitly called it an excellent screenshot library.",
+      "evidence": "The commenter reported using Roborazzi and directly praised it.",
+      "evidence_sources": [{"comment_id":"49726098","comment_url":"https://news.ycombinator.com/item?id=49724927#49726098","author":"david_allison","excerpt":"We use Roborazzi[0], which is an excellent screenshot library","kind":"recommendation","context":"production_use","parent_comment_id":"49725940"}]
+    },
+    {
+      "name": "scikit-decide",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/airbus/scikit-decide",
+      "hn_url": "https://news.ycombinator.com/item?id=49720164",
+      "source_story_title": "Saving Jet Fuel",
+      "summary": "An Airbus-backed Python framework for planning, scheduling, and decision-making problems.",
+      "why_included": "A commenter independently praised the linked open-source framework.",
+      "evidence": "The commenter called scikit-decide cool and welcomed the scikit lineage.",
+      "evidence_sources": [{"comment_id":"49720491","comment_url":"https://news.ycombinator.com/item?id=49720164#49720491","author":"esafak","excerpt":"It's nice to see the scikit brand live on.","kind":"recommendation","context":"evaluated","parent_comment_id":"49720164"}]
+    },
+    {
+      "name": "Xiaomi MiMo-V2.5",
+      "category": "AI & Local Models",
+      "thing_url": "https://mimo.xiaomi.com/mimo-v2-5",
+      "hn_url": "https://news.ycombinator.com/item?id=49732270",
+      "source_story_title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "summary": "A sparse multimodal model with agentic capabilities and a one-million-token context window.",
+      "why_included": "A software engineer reported excellent quality and unusually strong cost-adjusted returns.",
+      "evidence": "The commenter uses MiMo-V2.5 for most engineering work and praised its power and ROI.",
+      "evidence_sources": [{"comment_id":"49732870","comment_url":"https://news.ycombinator.com/item?id=49732270#49732870","author":"joelwallis","excerpt":"I been using MiMo-V2.5 to do most of my work as software engineer, on a variety of projects I'm working on, and I been VERY happy with ROI. The model is very powerful!","kind":"recommendation","context":"production_use","parent_comment_id":"49732270"}]
+    },
+    {
+      "name": "GPT-5.6 Luna Max",
+      "category": "AI & Local Models",
+      "thing_url": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+      "hn_url": "https://news.ycombinator.com/item?id=49732270",
+      "source_story_title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "summary": "OpenAI's cost-efficient GPT-5.6 model running at maximum reasoning effort.",
+      "why_included": "A Rust developer was very happy using it for asynchronous subagent reviews.",
+      "evidence": "The commenter praised Luna Max for review work while noting that it is slow.",
+      "evidence_sources": [{"comment_id":"49735333","comment_url":"https://news.ycombinator.com/item?id=49732270#49735333","author":"rapind","excerpt":"I use Luna Max for asynchronous subagent reviews and am very happy with its work, but it’s slow af.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49735167"}]
+    },
+    {
+      "name": "FlightGear",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.flightgear.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49693971",
+      "source_story_title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "summary": "An open-source flight simulator usable for research, training, and home simulation.",
+      "why_included": "A flight-simulator engineer described using it in real crew-evacuation trainers.",
+      "evidence": "The commenter reported professional deployment of FlightGear for multi-window trainer visuals.",
+      "evidence_sources": [{"comment_id":"49727150","comment_url":"https://news.ycombinator.com/item?id=49693971#49727150","author":"phugoid","excerpt":"We used FlightGear in a master-slave setup: the master node simulates physics and feeds accelerations to the hydraulic platform, and the slave nodes generate out-the-window visuals for each window.","kind":"recommendation","context":"production_use","parent_comment_id":"49693971"}]
+    },
+    {
+      "name": "MiSTer",
+      "category": "Hardware & Devices",
+      "thing_url": "https://mister-devel.github.io/MkDocs_MiSTer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49719938",
+      "source_story_title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "summary": "An FPGA platform recreating classic computers and consoles with hardware-level timing.",
+      "why_included": "A commenter called it super cool and highly recommended it to retro-computing fans.",
+      "evidence": "The commenter explicitly recommended MiSTer for people interested in old machines.",
+      "evidence_sources": [{"comment_id":"49722024","comment_url":"https://news.ycombinator.com/item?id=49719938#49722024","author":"jumploops","excerpt":"It's a super cool project, and I highly recommend checking it out if you have an interest in old machines (Apple II, Commodore 64, etc.).","kind":"recommendation","context":"evaluated","parent_comment_id":"49719938"}]
+    },
+    {
+      "name": "Plagiarhythm Nation v2.0",
+      "category": "Media & Publishing",
+      "thing_url": "https://theevolutioncontrolcommittee.bandcamp.com/album/plagiarhythm-nation-v20",
+      "hn_url": "https://news.ycombinator.com/item?id=49721548",
+      "source_story_title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "summary": "Evolution Control Committee's sample-heavy experimental album, available directly on Bandcamp.",
+      "why_included": "A commenter recommended the album while discussing related culture-jamming music.",
+      "evidence": "The commenter described Evolution Control Committee's work as wild and the linked release as good.",
+      "evidence_sources": [{"comment_id":"49721707","comment_url":"https://news.ycombinator.com/item?id=49721548#49721707","author":"cobbzilla","excerpt":"Evolution Control Committee had some wild stuff too in a similar vein.","kind":"recommendation","context":"evaluated","parent_comment_id":"49721548"}]
+    },
+    {
+      "name": "AI Does to Us What American Cheese Did to Food",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=1CbmC2aWhjY",
+      "hn_url": "https://news.ycombinator.com/item?id=49727659",
+      "source_story_title": "The DeepMind Institute",
+      "summary": "An Opus 23 video essay comparing artificial intelligence with processed cheese.",
+      "why_included": "A commenter called it the best AI video they had seen and a work of art.",
+      "evidence": "The commenter gave the video unusually strong praise.",
+      "evidence_sources": [{"comment_id":"49730871","comment_url":"https://news.ycombinator.com/item?id=49727659#49730871","author":"verdverm","excerpt":"(still the best Ai video I have seen, also a work of art)","kind":"recommendation","context":"evaluated","parent_comment_id":"49730836"}]
+    }
+  ]
+}

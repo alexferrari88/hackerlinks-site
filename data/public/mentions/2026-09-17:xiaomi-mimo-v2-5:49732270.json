@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses MiMo-V2.5 for most engineering work and praised its power and ROI.",
+  "evidence_sources": [
+    {
+      "author": "joelwallis",
+      "comment_id": "49732870",
+      "comment_url": "https://news.ycombinator.com/item?id=49732270#49732870",
+      "context": "production_use",
+      "excerpt": "I been using MiMo-V2.5 to do most of my work as software engineer, on a variety of projects I'm working on, and I been VERY happy with ROI. The model is very powerful!",
+      "kind": "recommendation",
+      "parent_comment_id": "49732270"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49732270",
+  "id": "2026-09-17:xiaomi-mimo-v2-5:49732270",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "xiaomi-mimo-v2-5",
+  "rank": 4,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49732270",
+  "source_story_title": "Xiaomi Mimo 2.6 live post-training dashboard"
+}

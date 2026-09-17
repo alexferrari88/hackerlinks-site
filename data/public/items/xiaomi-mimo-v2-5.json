@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "xiaomi-mimo-v2-5",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:xiaomi-mimo-v2-5:49732270",
+  "mention_ids": [
+    "2026-09-17:xiaomi-mimo-v2-5:49732270"
+  ],
+  "name": "Xiaomi MiMo-V2.5",
+  "slug": "xiaomi-mimo-v2-5",
+  "summary": "A sparse multimodal model with agentic capabilities and a one-million-token context window.",
+  "thing_url": "https://mimo.xiaomi.com/mimo-v2-5",
+  "times_seen": 1,
+  "why_included": "A software engineer reported excellent quality and unusually strong cost-adjusted returns."
+}

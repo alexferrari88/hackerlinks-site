@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "roborazzi",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:roborazzi:49724927",
+  "mention_ids": [
+    "2026-09-17:roborazzi:49724927"
+  ],
+  "name": "Roborazzi",
+  "slug": "roborazzi",
+  "summary": "An Android screenshot-testing library supporting Compose, XML views, and varied devices.",
+  "thing_url": "https://github.com/takahirom/roborazzi/",
+  "times_seen": 1,
+  "why_included": "A production user explicitly called it an excellent screenshot library."
+}

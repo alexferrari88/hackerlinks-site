@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported using Roborazzi and directly praised it.",
+  "evidence_sources": [
+    {
+      "author": "david_allison",
+      "comment_id": "49726098",
+      "comment_url": "https://news.ycombinator.com/item?id=49724927#49726098",
+      "context": "production_use",
+      "excerpt": "We use Roborazzi[0], which is an excellent screenshot library",
+      "kind": "recommendation",
+      "parent_comment_id": "49725940"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49724927",
+  "id": "2026-09-17:roborazzi:49724927",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "roborazzi",
+  "rank": 2,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49724927",
+  "source_story_title": "The Google Play app review process now regularly takes longer than a week"
+}

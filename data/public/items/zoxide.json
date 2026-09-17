@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "zoxide",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:zoxide:49729000",
+  "mention_ids": [
+    "2026-09-17:zoxide:49729000"
+  ],
+  "name": "zoxide",
+  "slug": "zoxide",
+  "summary": "A smarter cd command that learns which directories you visit most often.",
+  "thing_url": "https://github.com/ajeetdsouza/zoxide",
+  "times_seen": 1,
+  "why_included": "A user called mapping cd to zoxide their most useful shell trick."
+}

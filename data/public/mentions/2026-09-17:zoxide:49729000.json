@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter gave zoxide a strong first-hand workflow endorsement.",
+  "evidence_sources": [
+    {
+      "author": "disinterred",
+      "comment_id": "49730231",
+      "comment_url": "https://news.ycombinator.com/item?id=49729000#49730231",
+      "context": "first_hand_use",
+      "excerpt": "The most useful shell trick I've used to date is mapping the 'cd' command to 'zoxide', which is a more powerful version of cd that remembers folders you've been to.",
+      "kind": "recommendation",
+      "parent_comment_id": "49729000"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49729000",
+  "id": "2026-09-17:zoxide:49729000",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "zoxide",
+  "rank": 1,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49729000",
+  "source_story_title": "Small programming tricks"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-17T05:17:55+02:00",
+  "id": "gpt-5-6-luna-max",
+  "last_seen_at": "2026-09-17T05:17:55+02:00",
+  "latest_mention_id": "2026-09-17:gpt-5-6-luna-max:49732270",
+  "mention_ids": [
+    "2026-09-17:gpt-5-6-luna-max:49732270"
+  ],
+  "name": "GPT-5.6 Luna Max",
+  "slug": "gpt-5-6-luna-max",
+  "summary": "OpenAI's cost-efficient GPT-5.6 model running at maximum reasoning effort.",
+  "thing_url": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+  "times_seen": 1,
+  "why_included": "A Rust developer was very happy using it for asynchronous subagent reviews."
+}

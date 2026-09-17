@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called scikit-decide cool and welcomed the scikit lineage.",
+  "evidence_sources": [
+    {
+      "author": "esafak",
+      "comment_id": "49720491",
+      "comment_url": "https://news.ycombinator.com/item?id=49720164#49720491",
+      "context": "evaluated",
+      "excerpt": "It's nice to see the scikit brand live on.",
+      "kind": "recommendation",
+      "parent_comment_id": "49720164"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49720164",
+  "id": "2026-09-17:scikit-decide:49720164",
+  "is_repeat": false,
+  "issue_id": "2026-09-17",
+  "item_id": "scikit-decide",
+  "rank": 3,
+  "seen_at": "2026-09-17T05:17:55+02:00",
+  "source_story_id": "49720164",
+  "source_story_title": "Saving Jet Fuel"
+}
