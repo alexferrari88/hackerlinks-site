@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter had used Candle and gave it a clear positive assessment.",
+  "evidence_sources": [
+    {
+      "author": "the__alchemist",
+      "comment_id": "49739936",
+      "comment_url": "https://news.ycombinator.com/item?id=49724881#49739936",
+      "context": "first_hand_use",
+      "excerpt": "I have used it, and it works well.",
+      "kind": "recommendation",
+      "parent_comment_id": "49733875"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49724881",
+  "id": "2026-09-18:candle:49724881",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "candle",
+  "rank": 1,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49724881",
+  "source_story_title": "Nvidia announces native GPU programming in Rust"
+}

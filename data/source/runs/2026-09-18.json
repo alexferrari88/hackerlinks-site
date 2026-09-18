@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-18",
+  "generated_at": "2026-09-18T03:17:32Z",
+  "summary": "Twelve comment-endorsed developer tools, AI models, security software, hardware, reading, and events from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-18.json",
+    "sha256": "af889edad7c1217e5bc09adf43b16dc236d40943e90c12290742e64f50257634",
+    "bytes": 2587736,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4235,
+    "fetched_item_count": 4265,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Candle",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/huggingface/candle",
+      "hn_url": "https://news.ycombinator.com/item?id=49724881",
+      "source_story_title": "Nvidia announces native GPU programming in Rust",
+      "summary": "A minimalist Rust machine-learning framework with CPU, GPU, and WebAssembly support.",
+      "why_included": "A commenter reported first-hand use and said Candle works well.",
+      "evidence": "The commenter had used Candle and gave it a clear positive assessment.",
+      "evidence_sources": [{"comment_id":"49739936","comment_url":"https://news.ycombinator.com/item?id=49724881#49739936","author":"the__alchemist","excerpt":"I have used it, and it works well.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49733875"}]
+    },
+    {
+      "name": "GLM-5.3-Flash",
+      "category": "AI & Local Models",
+      "thing_url": "https://docs.z.ai/guides/vlm/glm-5.3-flash",
+      "hn_url": "https://news.ycombinator.com/item?id=49737922",
+      "source_story_title": "How GLM built its own inference infrastructure",
+      "summary": "Z.ai's multimodal open model tuned for capable, inexpensive coding and agents.",
+      "why_included": "A user directly recommended it as unusually capable for its low price.",
+      "evidence": "The commenter recommended GLM-5.3 Flash through OpenRouter on cost and capability.",
+      "evidence_sources": [{"comment_id":"49743070","comment_url":"https://news.ycombinator.com/item?id=49737922#49743070","author":"alexjplant","excerpt":"Just use GLM-5.3 Flash via OpenRouter. It's dirt cheap especially relative to how capable it is.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49740206"}]
+    },
+    {
+      "name": "Servo",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://servo.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49737849",
+      "source_story_title": "One year of sponsored Servo development",
+      "summary": "A lightweight Rust browser engine suitable for embedded and custom rendering workloads.",
+      "why_included": "An e-ink developer reported major memory and render-time savings over headless Chrome.",
+      "evidence": "The commenter uses Servo for e-ink rendering and praised its efficiency and sufficient compatibility.",
+      "evidence_sources": [{"comment_id":"49739243","comment_url":"https://news.ycombinator.com/item?id=49737849#49739243","author":"LogicWolfe","excerpt":"About 10% of the memory usage and 5% of the render time as doing the same thing with headless chrome.","kind":"recommendation","context":"production_use","parent_comment_id":"49738053"}]
+    },
+    {
+      "name": "Byre",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/pjlsergeant/byre",
+      "hn_url": "https://news.ycombinator.com/item?id=49740105",
+      "source_story_title": "Show HN: Share your AI Setup, Learn from others",
+      "summary": "A low-magic Docker or Podman sandbox focused on coding-agent developer experience.",
+      "why_included": "Its maintainer reported sustained daily use and emphasized the tool's practical design.",
+      "evidence": "The author uses Byre continuously and described it as a developer-focused container wrapper.",
+      "evidence_sources": [{"comment_id":"49743621","comment_url":"https://news.ycombinator.com/item?id=49740105#49743621","author":"petesergeant","excerpt":"I have used it all day every day for really quite a while. It's a low-magic wrapper over Docker / Podman.","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":"49740105"}]
+    },
+    {
+      "name": "jcode",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://jcode.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49733726",
+      "source_story_title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "summary": "An open-source Rust terminal coding agent with customizable tools and context handling.",
+      "why_included": "A two-week user preferred it to OpenCode in direct comparison.",
+      "evidence": "The commenter reported first-hand use and a clear preference for jcode.",
+      "evidence_sources": [{"comment_id":"49736632","comment_url":"https://news.ycombinator.com/item?id=49733726#49736632","author":"snehesht","excerpt":"I have been using jcode for past two weeks, honestly I feel its much better compared to Opencode.","kind":"comparison","context":"first_hand_use","parent_comment_id":"49733726"}]
+    },
+    {
+      "name": "Recall",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/viggy28/recall",
+      "hn_url": "https://news.ycombinator.com/item?id=49743049",
+      "source_story_title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "summary": "A Pi-integrated session-memory tool that builds context using SQLite and NumPy.",
+      "why_included": "A user recommended its automatic context creation and lack of external services.",
+      "evidence": "The commenter uses Recall for Pi integration, automatic session context, and local dependencies.",
+      "evidence_sources": [{"comment_id":"49749420","comment_url":"https://news.ycombinator.com/item?id=49743049#49749420","author":"vira28","excerpt":"Creates context automatically from sessions","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49743049"}]
+    },
+    {
+      "name": "debug-skill",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/AlmogBaku/debug-skill",
+      "hn_url": "https://news.ycombinator.com/item?id=49740105",
+      "source_story_title": "Show HN: Share your AI Setup, Learn from others",
+      "summary": "An agent skill that enforces a hypothesis-driven, evidence-based debugging workflow.",
+      "why_included": "A coding-agent user called it their most important downloaded skill.",
+      "evidence": "The commenter singled out debug-skill as the most important skill in their setup.",
+      "evidence_sources": [{"comment_id":"49742634","comment_url":"https://news.ycombinator.com/item?id=49740105#49742634","author":"vegadw","excerpt":"being the most important one.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49742331"}]
+    },
+    {
+      "name": "TLSF",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/mattconte/tlsf",
+      "hn_url": "https://news.ycombinator.com/item?id=49715318",
+      "source_story_title": "Comparison of Malloc() Algorithms",
+      "summary": "A constant-time two-level segregated-fit allocator for constrained and real-time systems.",
+      "why_included": "An implementer measured lower code size, consistent performance, and good fragmentation.",
+      "evidence": "The commenter reported favorable first-hand results implementing TLSF in a minimal Wasm libc.",
+      "evidence_sources": [{"comment_id":"49738001","comment_url":"https://news.ycombinator.com/item?id=49715318#49738001","author":"ncruces","excerpt":"fragmentation is just as good, performance is a lot more consistent (and on average better), for a significant reduction in code size.","kind":"recommendation","context":"evaluated","parent_comment_id":"49737438"}]
+    },
+    {
+      "name": "CrowdSec",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/crowdsecurity/crowdsec",
+      "hn_url": "https://news.ycombinator.com/item?id=49742355",
+      "source_story_title": "CrowdSec Source Code Leak",
+      "summary": "An open-source collaborative security engine offering IDS, IPS, and WAF capabilities.",
+      "why_included": "A multi-server user said the free version blocks many bots after tuning.",
+      "evidence": "The commenter uses CrowdSec as a WAF across multiple servers and reported effective bot blocking.",
+      "evidence_sources": [{"comment_id":"49743665","comment_url":"https://news.ycombinator.com/item?id=49742355#49743665","author":"Jnr","excerpt":"I use the free version as a simple WAF on multiple servers and it blocks a lot of bots.","kind":"recommendation","context":"production_use","parent_comment_id":"49743364"}]
+    },
+    {
+      "name": "Wax motors",
+      "category": "Hardware & Devices",
+      "thing_url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "hn_url": "https://news.ycombinator.com/item?id=49726007",
+      "source_story_title": "Wax motor",
+      "summary": "Compact thermal actuators that turn wax expansion into quiet linear motion.",
+      "why_included": "A hotel operator reported excellent reliability across roughly one hundred installed units.",
+      "evidence": "The commenter praised wax motors after maintaining a large real-world installation.",
+      "evidence_sources": [{"comment_id":"49746411","comment_url":"https://news.ycombinator.com/item?id=49726007#49746411","author":"limaoscarjuliet","excerpt":"They rarely fail and do their job even in damp environments.","kind":"recommendation","context":"production_use","parent_comment_id":"49726007"}]
+    },
+    {
+      "name": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.hep.upenn.edu/~johnda/Papers/wignerUnreasonableEffectiveness.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49685835",
+      "source_story_title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
+      "summary": "Eugene Wigner's classic essay on mathematics' uncanny usefulness in physical science.",
+      "why_included": "A commenter highly recommended it as context for mathematics and physical reality.",
+      "evidence": "The commenter gave Wigner's essay an explicit strong recommendation.",
+      "evidence_sources": [{"comment_id":"49739828","comment_url":"https://news.ycombinator.com/item?id=49685835#49739828","author":"huurtehoog","excerpt":"I highly recommend reading the \"Unreasonable effectiveness of mathematics\" essay by Wigner:","kind":"recommendation","context":"evaluated","parent_comment_id":"49738318"}]
+    },
+    {
+      "name": "Datenspuren 2026",
+      "category": "Watch & Learn",
+      "thing_url": "https://datenspuren.de/",
+      "hn_url": "https://news.ycombinator.com/item?id=49737787",
+      "source_story_title": "CCC invites all model citizens to 40C3",
+      "summary": "A free Dresden hacker gathering combining technical talks, workshops, art, and community.",
+      "why_included": "A returning attendee praised its inclusive atmosphere and strongly recommended it.",
+      "evidence": "The commenter attended previously, described it as amazing, and explicitly recommended the event.",
+      "evidence_sources": [{"comment_id":"49740777","comment_url":"https://news.ycombinator.com/item?id=49737787#49740777","author":"pid0x17","excerpt":"I was there last year and it was amazing! I totally recommend it.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49737787"}]
+    }
+  ]
+}

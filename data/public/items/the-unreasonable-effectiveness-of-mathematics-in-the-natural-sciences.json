@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-18T03:17:32Z",
+  "id": "the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences",
+  "last_seen_at": "2026-09-18T03:17:32Z",
+  "latest_mention_id": "2026-09-18:the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences:49685835",
+  "mention_ids": [
+    "2026-09-18:the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences:49685835"
+  ],
+  "name": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
+  "slug": "the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences",
+  "summary": "Eugene Wigner's classic essay on mathematics' uncanny usefulness in physical science.",
+  "thing_url": "https://www.hep.upenn.edu/~johnda/Papers/wignerUnreasonableEffectiveness.pdf",
+  "times_seen": 1,
+  "why_included": "A commenter highly recommended it as context for mathematics and physical reality."
+}

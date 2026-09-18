@@ -9247,6 +9247,78 @@
       "first_reported_at": "2026-09-17T05:17:55+02:00",
       "last_reported_at": "2026-09-17T05:17:55+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "Candle",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GLM-5.3-Flash",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Servo",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Byre",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "jcode",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Recall",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "debug-skill",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "TLSF",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "CrowdSec",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Wax motors",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Datenspuren 2026",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
     }
   ]
 }

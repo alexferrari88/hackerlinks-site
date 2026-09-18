@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-18T03:17:32Z",
+  "id": "jcode",
+  "last_seen_at": "2026-09-18T03:17:32Z",
+  "latest_mention_id": "2026-09-18:jcode:49733726",
+  "mention_ids": [
+    "2026-09-18:jcode:49733726"
+  ],
+  "name": "jcode",
+  "slug": "jcode",
+  "summary": "An open-source Rust terminal coding agent with customizable tools and context handling.",
+  "thing_url": "https://jcode.sh/",
+  "times_seen": 1,
+  "why_included": "A two-week user preferred it to OpenCode in direct comparison."
+}

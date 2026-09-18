@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Recall for Pi integration, automatic session context, and local dependencies.",
+  "evidence_sources": [
+    {
+      "author": "vira28",
+      "comment_id": "49749420",
+      "comment_url": "https://news.ycombinator.com/item?id=49743049#49749420",
+      "context": "first_hand_use",
+      "excerpt": "Creates context automatically from sessions",
+      "kind": "recommendation",
+      "parent_comment_id": "49743049"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49743049",
+  "id": "2026-09-18:recall:49743049",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "recall",
+  "rank": 6,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49743049",
+  "source_story_title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents"
+}

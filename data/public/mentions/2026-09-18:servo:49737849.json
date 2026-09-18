@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Servo for e-ink rendering and praised its efficiency and sufficient compatibility.",
+  "evidence_sources": [
+    {
+      "author": "LogicWolfe",
+      "comment_id": "49739243",
+      "comment_url": "https://news.ycombinator.com/item?id=49737849#49739243",
+      "context": "production_use",
+      "excerpt": "About 10% of the memory usage and 5% of the render time as doing the same thing with headless chrome.",
+      "kind": "recommendation",
+      "parent_comment_id": "49738053"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49737849",
+  "id": "2026-09-18:servo:49737849",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "servo",
+  "rank": 3,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49737849",
+  "source_story_title": "One year of sponsored Servo development"
+}

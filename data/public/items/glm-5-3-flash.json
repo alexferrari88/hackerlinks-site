@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-18T03:17:32Z",
+  "id": "glm-5-3-flash",
+  "last_seen_at": "2026-09-18T03:17:32Z",
+  "latest_mention_id": "2026-09-18:glm-5-3-flash:49737922",
+  "mention_ids": [
+    "2026-09-18:glm-5-3-flash:49737922"
+  ],
+  "name": "GLM-5.3-Flash",
+  "slug": "glm-5-3-flash",
+  "summary": "Z.ai's multimodal open model tuned for capable, inexpensive coding and agents.",
+  "thing_url": "https://docs.z.ai/guides/vlm/glm-5.3-flash",
+  "times_seen": 1,
+  "why_included": "A user directly recommended it as unusually capable for its low price."
+}

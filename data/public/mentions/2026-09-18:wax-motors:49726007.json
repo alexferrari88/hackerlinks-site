@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised wax motors after maintaining a large real-world installation.",
+  "evidence_sources": [
+    {
+      "author": "limaoscarjuliet",
+      "comment_id": "49746411",
+      "comment_url": "https://news.ycombinator.com/item?id=49726007#49746411",
+      "context": "production_use",
+      "excerpt": "They rarely fail and do their job even in damp environments.",
+      "kind": "recommendation",
+      "parent_comment_id": "49726007"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49726007",
+  "id": "2026-09-18:wax-motors:49726007",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "wax-motors",
+  "rank": 10,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49726007",
+  "source_story_title": "Wax motor"
+}

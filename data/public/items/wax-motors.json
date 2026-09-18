@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-18T03:17:32Z",
+  "id": "wax-motors",
+  "last_seen_at": "2026-09-18T03:17:32Z",
+  "latest_mention_id": "2026-09-18:wax-motors:49726007",
+  "mention_ids": [
+    "2026-09-18:wax-motors:49726007"
+  ],
+  "name": "Wax motors",
+  "slug": "wax-motors",
+  "summary": "Compact thermal actuators that turn wax expansion into quiet linear motion.",
+  "thing_url": "https://en.wikipedia.org/wiki/Wax_motor",
+  "times_seen": 1,
+  "why_included": "A hotel operator reported excellent reliability across roughly one hundred installed units."
+}

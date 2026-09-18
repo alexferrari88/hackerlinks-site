@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-18T03:17:32Z",
+  "id": "servo",
+  "last_seen_at": "2026-09-18T03:17:32Z",
+  "latest_mention_id": "2026-09-18:servo:49737849",
+  "mention_ids": [
+    "2026-09-18:servo:49737849"
+  ],
+  "name": "Servo",
+  "slug": "servo",
+  "summary": "A lightweight Rust browser engine suitable for embedded and custom rendering workloads.",
+  "thing_url": "https://servo.org/",
+  "times_seen": 1,
+  "why_included": "An e-ink developer reported major memory and render-time savings over headless Chrome."
+}

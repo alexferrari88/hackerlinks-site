@@ -1,0 +1,23 @@
+{
+  "evidence": "The author uses Byre continuously and described it as a developer-focused container wrapper.",
+  "evidence_sources": [
+    {
+      "author": "petesergeant",
+      "comment_id": "49743621",
+      "comment_url": "https://news.ycombinator.com/item?id=49740105#49743621",
+      "context": "author_or_maintainer",
+      "excerpt": "I have used it all day every day for really quite a while. It's a low-magic wrapper over Docker / Podman.",
+      "kind": "recommendation",
+      "parent_comment_id": "49740105"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49740105",
+  "id": "2026-09-18:byre:49740105",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "byre",
+  "rank": 4,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49740105",
+  "source_story_title": "Show HN: Share your AI Setup, Learn from others"
+}

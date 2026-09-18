@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses CrowdSec as a WAF across multiple servers and reported effective bot blocking.",
+  "evidence_sources": [
+    {
+      "author": "Jnr",
+      "comment_id": "49743665",
+      "comment_url": "https://news.ycombinator.com/item?id=49742355#49743665",
+      "context": "production_use",
+      "excerpt": "I use the free version as a simple WAF on multiple servers and it blocks a lot of bots.",
+      "kind": "recommendation",
+      "parent_comment_id": "49743364"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49742355",
+  "id": "2026-09-18:crowdsec:49742355",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "crowdsec",
+  "rank": 9,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49742355",
+  "source_story_title": "CrowdSec Source Code Leak"
+}

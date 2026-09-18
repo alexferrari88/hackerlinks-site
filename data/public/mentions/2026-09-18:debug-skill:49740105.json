@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter singled out debug-skill as the most important skill in their setup.",
+  "evidence_sources": [
+    {
+      "author": "vegadw",
+      "comment_id": "49742634",
+      "comment_url": "https://news.ycombinator.com/item?id=49740105#49742634",
+      "context": "first_hand_use",
+      "excerpt": "being the most important one.",
+      "kind": "recommendation",
+      "parent_comment_id": "49742331"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49740105",
+  "id": "2026-09-18:debug-skill:49740105",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "debug-skill",
+  "rank": 7,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49740105",
+  "source_story_title": "Show HN: Share your AI Setup, Learn from others"
+}

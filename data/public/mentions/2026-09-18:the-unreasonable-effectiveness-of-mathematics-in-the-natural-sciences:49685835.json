@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter gave Wigner's essay an explicit strong recommendation.",
+  "evidence_sources": [
+    {
+      "author": "huurtehoog",
+      "comment_id": "49739828",
+      "comment_url": "https://news.ycombinator.com/item?id=49685835#49739828",
+      "context": "evaluated",
+      "excerpt": "I highly recommend reading the \"Unreasonable effectiveness of mathematics\" essay by Wigner:",
+      "kind": "recommendation",
+      "parent_comment_id": "49738318"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49685835",
+  "id": "2026-09-18:the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences:49685835",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences",
+  "rank": 11,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49685835",
+  "source_story_title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)"
+}

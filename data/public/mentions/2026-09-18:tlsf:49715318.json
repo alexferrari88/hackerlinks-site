@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported favorable first-hand results implementing TLSF in a minimal Wasm libc.",
+  "evidence_sources": [
+    {
+      "author": "ncruces",
+      "comment_id": "49738001",
+      "comment_url": "https://news.ycombinator.com/item?id=49715318#49738001",
+      "context": "evaluated",
+      "excerpt": "fragmentation is just as good, performance is a lot more consistent (and on average better), for a significant reduction in code size.",
+      "kind": "recommendation",
+      "parent_comment_id": "49737438"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49715318",
+  "id": "2026-09-18:tlsf:49715318",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "tlsf",
+  "rank": 8,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49715318",
+  "source_story_title": "Comparison of Malloc() Algorithms"
+}

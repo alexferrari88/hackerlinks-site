@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported first-hand use and a clear preference for jcode.",
+  "evidence_sources": [
+    {
+      "author": "snehesht",
+      "comment_id": "49736632",
+      "comment_url": "https://news.ycombinator.com/item?id=49733726#49736632",
+      "context": "first_hand_use",
+      "excerpt": "I have been using jcode for past two weeks, honestly I feel its much better compared to Opencode.",
+      "kind": "comparison",
+      "parent_comment_id": "49733726"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49733726",
+  "id": "2026-09-18:jcode:49733726",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "jcode",
+  "rank": 5,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49733726",
+  "source_story_title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
+}

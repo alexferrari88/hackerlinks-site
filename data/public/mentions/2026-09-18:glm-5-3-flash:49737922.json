@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended GLM-5.3 Flash through OpenRouter on cost and capability.",
+  "evidence_sources": [
+    {
+      "author": "alexjplant",
+      "comment_id": "49743070",
+      "comment_url": "https://news.ycombinator.com/item?id=49737922#49743070",
+      "context": "first_hand_use",
+      "excerpt": "Just use GLM-5.3 Flash via OpenRouter. It's dirt cheap especially relative to how capable it is.",
+      "kind": "recommendation",
+      "parent_comment_id": "49740206"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49737922",
+  "id": "2026-09-18:glm-5-3-flash:49737922",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "glm-5-3-flash",
+  "rank": 2,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49737922",
+  "source_story_title": "How GLM built its own inference infrastructure"
+}

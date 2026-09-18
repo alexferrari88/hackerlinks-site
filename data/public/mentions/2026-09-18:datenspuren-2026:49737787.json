@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter attended previously, described it as amazing, and explicitly recommended the event.",
+  "evidence_sources": [
+    {
+      "author": "pid0x17",
+      "comment_id": "49740777",
+      "comment_url": "https://news.ycombinator.com/item?id=49737787#49740777",
+      "context": "first_hand_use",
+      "excerpt": "I was there last year and it was amazing! I totally recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49737787"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49737787",
+  "id": "2026-09-18:datenspuren-2026:49737787",
+  "is_repeat": false,
+  "issue_id": "2026-09-18",
+  "item_id": "datenspuren-2026",
+  "rank": 12,
+  "seen_at": "2026-09-18T03:17:32Z",
+  "source_story_id": "49737787",
+  "source_story_title": "CCC invites all model citizens to 40C3"
+}
