@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "pangolin",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:pangolin:49754785",
+  "mention_ids": [
+    "2026-09-19:pangolin:49754785"
+  ],
+  "name": "Pangolin",
+  "slug": "pangolin",
+  "summary": "A self-hosted reverse proxy and VPN for public or authenticated private resources.",
+  "thing_url": "https://pangolin.net/",
+  "times_seen": 1,
+  "why_included": "Two homelab users praised its long-term reliability and user experience."
+}

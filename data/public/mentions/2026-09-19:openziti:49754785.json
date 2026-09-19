@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter enjoyed OpenZiti and called its granular private-service controls a game changer.",
+  "evidence_sources": [
+    {
+      "author": "gibs0ns",
+      "comment_id": "49762525",
+      "comment_url": "https://news.ycombinator.com/item?id=49754785#49762525",
+      "context": "first_hand_use",
+      "excerpt": "I have really enjoyed the experience of OpenZiti for this purpose.",
+      "kind": "recommendation",
+      "parent_comment_id": "49756985"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49754785",
+  "id": "2026-09-19:openziti:49754785",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "openziti",
+  "rank": 3,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49754785",
+  "source_story_title": "Cloudflare Quick Tunnels"
+}

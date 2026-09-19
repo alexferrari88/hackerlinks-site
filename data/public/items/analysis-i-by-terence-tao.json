@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "analysis-i-by-terence-tao",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:analysis-i-by-terence-tao:49755024",
+  "mention_ids": [
+    "2026-09-19:analysis-i-by-terence-tao:49755024"
+  ],
+  "name": "Analysis I by Terence Tao",
+  "slug": "analysis-i-by-terence-tao",
+  "summary": "A rigorous real-analysis textbook that builds mathematics methodically from first principles.",
+  "thing_url": "https://link.springer.com/book/10.1007/978-981-19-7261-4",
+  "times_seen": 1,
+  "why_included": "A commenter strongly recommended it and credited it with getting them into proofs."
+}

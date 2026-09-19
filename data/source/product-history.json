@@ -51,6 +51,12 @@
       "times_reported": 1
     },
     {
+      "name": "3Blue1Brown phase-kickback animation",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "5x5 Pixel font",
       "first_reported_at": "2026-04-22T21:23:43Z",
       "last_reported_at": "2026-04-22T21:23:43Z",
@@ -201,6 +207,12 @@
       "times_reported": 1
     },
     {
+      "name": "AI Does to Us What American Cheese Did to Food",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "AI Factory",
       "first_reported_at": "2026-07-25T05:16:59+02:00",
       "last_reported_at": "2026-07-25T05:16:59+02:00",
@@ -270,6 +282,12 @@
       "name": "Analog Watch",
       "first_reported_at": "2026-07-09T21:13:39.342792Z",
       "last_reported_at": "2026-07-09T21:13:39.342792Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Analysis I by Terence Tao",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
       "times_reported": 1
     },
     {
@@ -471,6 +489,12 @@
       "times_reported": 1
     },
     {
+      "name": "ATEN CS782DP",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Atomic Editor",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
@@ -504,6 +528,12 @@
       "name": "aur-malware-check",
       "first_reported_at": "2026-06-13T21:10:41.216149Z",
       "last_reported_at": "2026-06-13T21:10:41.216149Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Australian Computer Museum Society",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
       "times_reported": 1
     },
     {
@@ -735,6 +765,12 @@
       "times_reported": 1
     },
     {
+      "name": "Bodily Oddities",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Bonsai",
       "first_reported_at": "2026-08-04T03:17:18Z",
       "last_reported_at": "2026-08-04T03:17:18Z",
@@ -750,6 +786,12 @@
       "name": "Book Prize Index",
       "first_reported_at": "2026-07-24T03:17:58Z",
       "last_reported_at": "2026-07-24T03:17:58Z",
+      "times_reported": 1
+    },
+    {
+      "name": "BookFusion",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -897,6 +939,12 @@
       "times_reported": 1
     },
     {
+      "name": "Buildprof",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Bullet",
       "first_reported_at": "2026-08-14T05:18:33+02:00",
       "last_reported_at": "2026-08-14T05:18:33+02:00",
@@ -930,6 +978,12 @@
       "name": "BuyVM",
       "first_reported_at": "2026-08-26T05:22:38+02:00",
       "last_reported_at": "2026-08-26T05:22:38+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Byre",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
       "times_reported": 1
     },
     {
@@ -1005,9 +1059,21 @@
       "times_reported": 1
     },
     {
+      "name": "Candle",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "CanvasBlocker",
       "first_reported_at": "2026-05-31T21:17:03Z",
       "last_reported_at": "2026-05-31T21:17:03Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Capsule",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -1050,6 +1116,12 @@
       "name": "Cerebras Inference",
       "first_reported_at": "2026-09-04T05:17:41+02:00",
       "last_reported_at": "2026-09-04T05:17:41+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "cgit",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -1116,6 +1188,12 @@
       "name": "Chrome DevTools MCP",
       "first_reported_at": "2026-07-03T21:00:19.436601+00:00",
       "last_reported_at": "2026-07-03T21:00:19.436601+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Chrome Labs Text Editor",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -1401,6 +1479,12 @@
       "times_reported": 1
     },
     {
+      "name": "Connections Museum",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Consent-O-Matic",
       "first_reported_at": "2026-07-14T21:11:27.041308Z",
       "last_reported_at": "2026-07-14T21:11:27.041308Z",
@@ -1461,6 +1545,12 @@
       "times_reported": 1
     },
     {
+      "name": "CostGoat",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "CourtListener",
       "first_reported_at": "2026-06-19T21:00:54Z",
       "last_reported_at": "2026-06-19T21:00:54Z",
@@ -1470,6 +1560,12 @@
       "name": "Cover Your Tracks",
       "first_reported_at": "2026-05-08T21:22:35Z",
       "last_reported_at": "2026-05-08T21:22:35Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Coyote vs. Acme",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
       "times_reported": 1
     },
     {
@@ -1500,6 +1596,18 @@
       "name": "Croc",
       "first_reported_at": "2026-07-12T21:08:26Z",
       "last_reported_at": "2026-07-12T21:08:26Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Crowd Supply",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CrowdSec",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
       "times_reported": 1
     },
     {
@@ -1617,6 +1725,12 @@
       "times_reported": 1
     },
     {
+      "name": "Datenspuren 2026",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "DaVinci Resolve",
       "first_reported_at": "2026-04-14T13:41:27.313438+00:00",
       "last_reported_at": "2026-09-09T03:16:05.408880+00:00",
@@ -1656,6 +1770,12 @@
       "name": "Death of a Euphemism",
       "first_reported_at": "2026-09-05T05:17:43+02:00",
       "last_reported_at": "2026-09-05T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "debug-skill",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
       "times_reported": 1
     },
     {
@@ -1917,6 +2037,12 @@
       "times_reported": 1
     },
     {
+      "name": "Dr. Strangelove",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Dragon Book",
       "first_reported_at": "2026-04-16T01:11:43+00:00",
       "last_reported_at": "2026-04-16T01:11:43+00:00",
@@ -1926,6 +2052,12 @@
       "name": "Droid-ify",
       "first_reported_at": "2026-09-02T05:17:57+02:00",
       "last_reported_at": "2026-09-02T05:17:57+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DStretch",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -2007,6 +2139,12 @@
       "times_reported": 1
     },
     {
+      "name": "earlyoom",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Easyboot",
       "first_reported_at": "2026-08-26T05:22:38+02:00",
       "last_reported_at": "2026-08-26T05:22:38+02:00",
@@ -2079,6 +2217,12 @@
       "times_reported": 1
     },
     {
+      "name": "Enemy Mind",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Ente Photos",
       "first_reported_at": "2026-07-16T21:12:29.961642Z",
       "last_reported_at": "2026-07-16T21:12:29.961642Z",
@@ -2112,6 +2256,12 @@
       "name": "Equi-X",
       "first_reported_at": "2026-05-04T21:23:23Z",
       "last_reported_at": "2026-05-04T21:23:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ESP32-Faikout",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
     },
     {
@@ -2247,6 +2397,12 @@
       "times_reported": 1
     },
     {
+      "name": "FEX",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "fff",
       "first_reported_at": "2026-09-05T05:17:43+02:00",
       "last_reported_at": "2026-09-05T05:17:43+02:00",
@@ -2325,6 +2481,18 @@
       "times_reported": 1
     },
     {
+      "name": "Flexito",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "FlightGear",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Flint",
       "first_reported_at": "2026-07-08T21:19:16Z",
       "last_reported_at": "2026-07-08T21:19:16Z",
@@ -2373,6 +2541,12 @@
       "times_reported": 1
     },
     {
+      "name": "FluidVoice",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Fluux Messenger",
       "first_reported_at": "2026-08-25T05:17:43+02:00",
       "last_reported_at": "2026-08-25T05:17:43+02:00",
@@ -2397,9 +2571,21 @@
       "times_reported": 1
     },
     {
+      "name": "Foqos",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Forge",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ForgeCAD",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -2577,6 +2763,12 @@
       "times_reported": 1
     },
     {
+      "name": "Galene",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "GAMBAS",
       "first_reported_at": "2026-08-14T05:18:33+02:00",
       "last_reported_at": "2026-08-14T05:18:33+02:00",
@@ -2598,6 +2790,12 @@
       "name": "Garmin Instinct",
       "first_reported_at": "2026-08-20T05:16:56+02:00",
       "last_reported_at": "2026-08-20T05:16:56+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Garmin Lily 2 Active",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -2745,6 +2943,12 @@
       "times_reported": 1
     },
     {
+      "name": "Git Repo Manager",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "git-spice",
       "first_reported_at": "2026-07-31T03:24:26Z",
       "last_reported_at": "2026-07-31T03:24:26Z",
@@ -2805,9 +3009,21 @@
       "times_reported": 1
     },
     {
+      "name": "GLM-5.3-Flash",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "GNU Parallel",
       "first_reported_at": "2026-07-21T04:50:22Z",
       "last_reported_at": "2026-07-21T04:50:22Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GNU Radio World",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
       "times_reported": 1
     },
     {
@@ -2823,9 +3039,21 @@
       "times_reported": 1
     },
     {
+      "name": "Gödel, Escher, Bach",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Godot",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
+      "times_reported": 1
+    },
+    {
+      "name": "godot-rust",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -2883,9 +3111,21 @@
       "times_reported": 1
     },
     {
+      "name": "GPT-5.6 Luna Max",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "GPT-5.6 Sol",
       "first_reported_at": "2026-08-19T05:17:53+02:00",
       "last_reported_at": "2026-08-19T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "GPT-6 Astra",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -3000,6 +3240,12 @@
       "name": "Half-Life 2 in a Browser",
       "first_reported_at": "2026-06-25T21:17:10Z",
       "last_reported_at": "2026-06-25T21:17:10Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Hallaig",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -3120,6 +3366,12 @@
       "name": "Hmmsim 2",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "HN Sans AI",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -3249,6 +3501,12 @@
       "times_reported": 1
     },
     {
+      "name": "I Eat the Stars",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "ibiblio Icon Archive",
       "first_reported_at": "2026-07-15T21:08:41Z",
       "last_reported_at": "2026-07-15T21:08:41Z",
@@ -3270,6 +3528,12 @@
       "name": "IKEA KALLAX",
       "first_reported_at": "2026-08-31T05:19:11+02:00",
       "last_reported_at": "2026-08-31T05:19:11+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "IKEA KNAGGLIG",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -3306,6 +3570,12 @@
       "name": "Immich",
       "first_reported_at": "2026-06-17T21:01:07Z",
       "last_reported_at": "2026-06-17T21:01:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Incorruptible",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
       "times_reported": 1
     },
     {
@@ -3378,6 +3648,12 @@
       "name": "Intuned",
       "first_reported_at": "2026-06-08T21:22:08Z",
       "last_reported_at": "2026-06-08T21:22:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Inverse Kinematics and Foot Locking",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
       "times_reported": 1
     },
     {
@@ -3483,6 +3759,12 @@
       "times_reported": 1
     },
     {
+      "name": "jcode",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "jdt.ls",
       "first_reported_at": "2026-05-29T21:09:53Z",
       "last_reported_at": "2026-05-29T21:09:53Z",
@@ -3513,6 +3795,12 @@
       "times_reported": 1
     },
     {
+      "name": "Jemalloc",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "JetKVM",
       "first_reported_at": "2026-06-12T21:26:09Z",
       "last_reported_at": "2026-06-12T21:26:09Z",
@@ -3522,6 +3810,12 @@
       "name": "Jim's TrueType QR Code Font",
       "first_reported_at": "2026-07-07T21:24:40Z",
       "last_reported_at": "2026-07-07T21:24:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Jitsi Meet",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
       "times_reported": 1
     },
     {
@@ -3579,6 +3873,12 @@
       "times_reported": 1
     },
     {
+      "name": "JuiceFS",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Jujutsu",
       "first_reported_at": "2026-09-02T05:17:57+02:00",
       "last_reported_at": "2026-09-02T05:17:57+02:00",
@@ -3630,6 +3930,12 @@
       "name": "Kampala",
       "first_reported_at": "2026-04-17T01:28:36Z",
       "last_reported_at": "2026-04-17T01:28:36Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kan",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
     },
     {
@@ -3756,6 +4062,12 @@
       "name": "KOReader",
       "first_reported_at": "2026-04-20T21:28:51Z",
       "last_reported_at": "2026-04-20T21:28:51Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Kotlin Multiplatform",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -3957,6 +4269,12 @@
       "times_reported": 1
     },
     {
+      "name": "Libro.fm",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Lift4D",
       "first_reported_at": "2026-06-23T21:10:00Z",
       "last_reported_at": "2026-06-23T21:10:00Z",
@@ -4047,6 +4365,12 @@
       "times_reported": 1
     },
     {
+      "name": "Logic: An Introduction to Elementary Logic",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Logic for Programmers",
       "first_reported_at": "2026-07-31T03:24:26Z",
       "last_reported_at": "2026-07-31T03:24:26Z",
@@ -4059,9 +4383,21 @@
       "times_reported": 1
     },
     {
+      "name": "Logo",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Logseq DB",
       "first_reported_at": "2026-07-13T21:04:47Z",
       "last_reported_at": "2026-07-13T21:04:47Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Loom",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
       "times_reported": 1
     },
     {
@@ -4149,6 +4485,12 @@
       "times_reported": 1
     },
     {
+      "name": "Magit",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "mailbox.org",
       "first_reported_at": "2026-06-02T21:19:46+00:00",
       "last_reported_at": "2026-06-02T21:19:46+00:00",
@@ -4221,6 +4563,12 @@
       "times_reported": 1
     },
     {
+      "name": "Maturin / PyO3",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "MCP Inspector",
       "first_reported_at": "2026-08-06T06:07:25+02:00",
       "last_reported_at": "2026-08-06T06:07:25+02:00",
@@ -4269,6 +4617,18 @@
       "times_reported": 1
     },
     {
+      "name": "Mercury 2.5",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Merge AI Gateway",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Meridian",
       "first_reported_at": "2026-07-12T21:08:26Z",
       "last_reported_at": "2026-07-12T21:08:26Z",
@@ -4278,6 +4638,12 @@
       "name": "Merlin Bird ID",
       "first_reported_at": "2026-09-01T05:18:10+02:00",
       "last_reported_at": "2026-09-01T05:18:10+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MESA",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
       "times_reported": 1
     },
     {
@@ -4419,6 +4785,12 @@
       "times_reported": 1
     },
     {
+      "name": "Mimms Museum of Technology and Art",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "MiMo Code",
       "first_reported_at": "2026-06-11T21:07:55.839038Z",
       "last_reported_at": "2026-06-11T21:07:55.839038Z",
@@ -4491,6 +4863,18 @@
       "times_reported": 1
     },
     {
+      "name": "Missionary Bush Pilot",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MiSTer",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Mistral Medium 3.5",
       "first_reported_at": "2026-04-29T21:21:41Z",
       "last_reported_at": "2026-04-29T21:21:41Z",
@@ -4506,6 +4890,18 @@
       "name": "Mistral Vibe",
       "first_reported_at": "2026-06-21T21:07:25Z",
       "last_reported_at": "2026-06-21T21:07:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "mitsubishi2MQTT",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mjolnir",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
       "times_reported": 1
     },
     {
@@ -4536,6 +4932,12 @@
       "name": "ModelScope",
       "first_reported_at": "2026-07-24T03:17:58Z",
       "last_reported_at": "2026-07-24T03:17:58Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Modem Thing",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -4749,6 +5151,12 @@
       "times_reported": 1
     },
     {
+      "name": "Neal Nanda's Transformer Circuits Walkthrough",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Nebula",
       "first_reported_at": "2026-06-29T21:35:35Z",
       "last_reported_at": "2026-06-29T21:35:35Z",
@@ -4917,6 +5325,12 @@
       "times_reported": 1
     },
     {
+      "name": "Nocheto",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "noclip.website",
       "first_reported_at": "2026-06-25T21:17:10Z",
       "last_reported_at": "2026-06-25T21:17:10Z",
@@ -5073,6 +5487,12 @@
       "times_reported": 1
     },
     {
+      "name": "Olauncher",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Olinia",
       "first_reported_at": "2026-06-22T21:21:10Z",
       "last_reported_at": "2026-06-22T21:21:10Z",
@@ -5142,6 +5562,12 @@
       "name": "Onyx Boox Palma",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Opair",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
     },
     {
@@ -5301,6 +5727,12 @@
       "times_reported": 1
     },
     {
+      "name": "OpenStreetMap iD Editor",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "OpenTelemetry",
       "first_reported_at": "2026-05-19T21:23:59.571471Z",
       "last_reported_at": "2026-05-19T21:23:59.571471Z",
@@ -5334,6 +5766,12 @@
       "name": "OpenWrt One",
       "first_reported_at": "2026-07-06T21:13:40Z",
       "last_reported_at": "2026-07-06T21:13:40Z",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenZiti",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
       "times_reported": 1
     },
     {
@@ -5427,6 +5865,12 @@
       "times_reported": 1
     },
     {
+      "name": "Oura Ring",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Outer Wilds",
       "first_reported_at": "2026-07-28T03:17:21Z",
       "last_reported_at": "2026-07-28T03:17:21Z",
@@ -5496,6 +5940,12 @@
       "name": "Pandoc Lua Filters",
       "first_reported_at": "2026-07-05T21:17:49Z",
       "last_reported_at": "2026-07-05T21:17:49Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pangolin",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
       "times_reported": 1
     },
     {
@@ -5625,6 +6075,12 @@
       "times_reported": 1
     },
     {
+      "name": "Persimmon",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Persistent agent memory layer on Elasticsearch",
       "first_reported_at": "2026-06-18T21:28:27Z",
       "last_reported_at": "2026-06-18T21:28:27Z",
@@ -5703,6 +6159,12 @@
       "times_reported": 1
     },
     {
+      "name": "PicoClaw",
+      "first_reported_at": "2026-09-14T05:17:51+02:00",
+      "last_reported_at": "2026-09-14T05:17:51+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "PicoDVI",
       "first_reported_at": "2026-07-12T03:40:03Z",
       "last_reported_at": "2026-07-12T03:40:03Z",
@@ -5766,6 +6228,12 @@
       "name": "pkgs.org",
       "first_reported_at": "2026-05-01T21:05:24Z",
       "last_reported_at": "2026-05-01T21:05:24Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Plagiarhythm Nation v2.0",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
       "times_reported": 1
     },
     {
@@ -5883,6 +6351,12 @@
       "times_reported": 1
     },
     {
+      "name": "Pop!_OS",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Postgres",
       "first_reported_at": "2026-05-30T21:12:13Z",
       "last_reported_at": "2026-05-30T21:12:13Z",
@@ -5907,6 +6381,12 @@
       "times_reported": 1
     },
     {
+      "name": "Print for Visual Studio Code",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Probity",
       "first_reported_at": "2026-05-08T04:35:23Z",
       "last_reported_at": "2026-05-08T04:35:23Z",
@@ -5928,6 +6408,12 @@
       "name": "Project Highrise",
       "first_reported_at": "2026-08-01T03:16:32Z",
       "last_reported_at": "2026-08-01T03:16:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ProtoART ClimateControl",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
     },
     {
@@ -6219,6 +6705,12 @@
       "times_reported": 1
     },
     {
+      "name": "Read the Docs",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Ready Set Bet",
       "first_reported_at": "2026-05-27T21:20:36Z",
       "last_reported_at": "2026-05-27T21:20:36Z",
@@ -6252,6 +6744,12 @@
       "name": "REBOUND",
       "first_reported_at": "2026-06-09T21:12:30Z",
       "last_reported_at": "2026-06-09T21:12:30Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Recall",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
       "times_reported": 1
     },
     {
@@ -6357,6 +6855,12 @@
       "times_reported": 1
     },
     {
+      "name": "Roborazzi",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Robot Dexterity Still Seems Hard",
       "first_reported_at": "2026-09-04T05:17:41+02:00",
       "last_reported_at": "2026-09-04T05:17:41+02:00",
@@ -6426,6 +6930,12 @@
       "name": "Ruby for Good",
       "first_reported_at": "2026-05-24T21:19:07Z",
       "last_reported_at": "2026-05-24T21:19:07Z",
+      "times_reported": 1
+    },
+    {
+      "name": "ruby-landlock",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
       "times_reported": 1
     },
     {
@@ -6549,6 +7059,12 @@
       "times_reported": 1
     },
     {
+      "name": "scikit-decide",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Scratchapixel",
       "first_reported_at": "2026-08-19T05:17:53+02:00",
       "last_reported_at": "2026-08-19T05:17:53+02:00",
@@ -6621,6 +7137,12 @@
       "times_reported": 1
     },
     {
+      "name": "Servo",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "Shader Lab",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
@@ -6690,6 +7212,12 @@
       "name": "Silent Shark",
       "first_reported_at": "2026-08-16T05:17:40+02:00",
       "last_reported_at": "2026-08-16T05:17:40+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Silo",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -6798,6 +7326,12 @@
       "name": "smolvm",
       "first_reported_at": "2026-08-31T05:19:11+02:00",
       "last_reported_at": "2026-08-31T05:19:11+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Snap!",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -7239,6 +7773,12 @@
       "times_reported": 1
     },
     {
+      "name": "System One Models",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "TabFM",
       "first_reported_at": "2026-08-05T05:17:17+02:00",
       "last_reported_at": "2026-08-05T05:17:17+02:00",
@@ -7431,9 +7971,21 @@
       "times_reported": 1
     },
     {
+      "name": "The Devastating Decline of a Brilliant Young Coder",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "The Drifter",
       "first_reported_at": "2026-07-31T03:24:26Z",
       "last_reported_at": "2026-07-31T03:24:26Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Elephant in the Brain",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
       "times_reported": 1
     },
     {
@@ -7464,6 +8016,12 @@
       "name": "The High Price of Free Parking",
       "first_reported_at": "2026-04-19T21:01:46.609636+00:00",
       "last_reported_at": "2026-04-19T21:01:46.609636+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Idea Factory",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
       "times_reported": 1
     },
     {
@@ -7509,6 +8067,12 @@
       "times_reported": 2
     },
     {
+      "name": "The Mythical Man-Month",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "The Naked Ape",
       "first_reported_at": "2026-04-25T21:08:06Z",
       "last_reported_at": "2026-04-25T21:08:06Z",
@@ -7542,6 +8106,12 @@
       "name": "The Storm Before the Storm",
       "first_reported_at": "2026-08-08T03:18:23Z",
       "last_reported_at": "2026-08-08T03:18:23Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
       "times_reported": 1
     },
     {
@@ -7593,6 +8163,12 @@
       "times_reported": 1
     },
     {
+      "name": "This Is Not Propaganda",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "ThisToThat",
       "first_reported_at": "2026-07-28T03:17:21Z",
       "last_reported_at": "2026-07-28T03:17:21Z",
@@ -7602,6 +8178,12 @@
       "name": "Thousand Year Old Vampire",
       "first_reported_at": "2026-09-04T05:17:41+02:00",
       "last_reported_at": "2026-09-04T05:17:41+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Three Body Orbits",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
     },
     {
@@ -7689,6 +8271,12 @@
       "times_reported": 1
     },
     {
+      "name": "TLSF",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
       "name": "tmp.0ut 2026 Mixtape",
       "first_reported_at": "2026-09-02T05:17:57+02:00",
       "last_reported_at": "2026-09-02T05:17:57+02:00",
@@ -7740,6 +8328,12 @@
       "name": "TownSquare",
       "first_reported_at": "2026-06-21T21:07:25Z",
       "last_reported_at": "2026-06-21T21:07:25Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Trace",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -7881,6 +8475,12 @@
       "times_reported": 1
     },
     {
+      "name": "Undefined Behavior: What Happened to My Code?",
+      "first_reported_at": "2026-09-19T05:17:52+02:00",
+      "last_reported_at": "2026-09-19T05:17:52+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Understanding Kubernetes",
       "first_reported_at": "2026-07-26T06:09:53+02:00",
       "last_reported_at": "2026-07-26T06:09:53+02:00",
@@ -7959,6 +8559,12 @@
       "times_reported": 1
     },
     {
+      "name": "Usenet Rewind",
+      "first_reported_at": "2026-09-13T05:17:56+02:00",
+      "last_reported_at": "2026-09-13T05:17:56+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "USM Haller Desk",
       "first_reported_at": "2026-05-23T21:13:54Z",
       "last_reported_at": "2026-05-23T21:13:54Z",
@@ -8013,9 +8619,21 @@
       "times_reported": 1
     },
     {
+      "name": "Vehicles: Experiments in Synthetic Psychology",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Vellum",
       "first_reported_at": "2026-05-26T21:11:22Z",
       "last_reported_at": "2026-05-26T21:11:22Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Velocity Raptor",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
       "times_reported": 1
     },
     {
@@ -8205,6 +8823,18 @@
       "times_reported": 1
     },
     {
+      "name": "Wax motors",
+      "first_reported_at": "2026-09-18T03:17:32Z",
+      "last_reported_at": "2026-09-18T03:17:32Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Wayback Machine",
+      "first_reported_at": "2026-09-16T05:17:20+02:00",
+      "last_reported_at": "2026-09-16T05:17:20+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "waynav",
       "first_reported_at": "2026-06-05T21:17:48.407385+00:00",
       "last_reported_at": "2026-06-05T21:17:48.407385+00:00",
@@ -8277,6 +8907,12 @@
       "times_reported": 1
     },
     {
+      "name": "What Makes Music Sound Good?",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "WhatCable",
       "first_reported_at": "2026-05-01T21:05:24Z",
       "last_reported_at": "2026-05-01T21:05:24Z",
@@ -8304,6 +8940,12 @@
       "name": "White Rabbit",
       "first_reported_at": "2026-05-25T21:20:05Z",
       "last_reported_at": "2026-05-25T21:20:05Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Who Framed Roger Rabbit",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
       "times_reported": 1
     },
     {
@@ -8499,6 +9141,24 @@
       "times_reported": 1
     },
     {
+      "name": "Xfce",
+      "first_reported_at": "2026-09-11T05:17:53+02:00",
+      "last_reported_at": "2026-09-11T05:17:53+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Xiaomi MiMo-V2.5",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "XREAL AR glasses",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "Xs of Y",
       "first_reported_at": "2026-05-13T21:22:29Z",
       "last_reported_at": "2026-05-13T21:22:29Z",
@@ -8514,6 +9174,12 @@
       "name": "XState",
       "first_reported_at": "2026-04-26T21:02:52Z",
       "last_reported_at": "2026-04-26T21:02:52Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Xteink X3",
+      "first_reported_at": "2026-09-15T05:17:47+02:00",
+      "last_reported_at": "2026-09-15T05:17:47+02:00",
       "times_reported": 1
     },
     {
@@ -8568,6 +9234,12 @@
       "name": "YourDrive",
       "first_reported_at": "2026-05-14T21:22:02Z",
       "last_reported_at": "2026-05-14T21:22:02Z",
+      "times_reported": 1
+    },
+    {
+      "name": "YouTube Premium",
+      "first_reported_at": "2026-09-12T05:17:20+02:00",
+      "last_reported_at": "2026-09-12T05:17:20+02:00",
       "times_reported": 1
     },
     {
@@ -8655,6 +9327,12 @@
       "times_reported": 1
     },
     {
+      "name": "Zinwa Q25",
+      "first_reported_at": "2026-09-10T05:19:13+02:00",
+      "last_reported_at": "2026-09-10T05:19:13+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "zizmor",
       "first_reported_at": "2026-08-18T05:16:47+02:00",
       "last_reported_at": "2026-08-18T05:16:47+02:00",
@@ -8691,6 +9369,12 @@
       "times_reported": 1
     },
     {
+      "name": "zoxide",
+      "first_reported_at": "2026-09-17T05:17:55+02:00",
+      "last_reported_at": "2026-09-17T05:17:55+02:00",
+      "times_reported": 1
+    },
+    {
       "name": "ZSA Voyager",
       "first_reported_at": "2026-08-23T05:18:16+02:00",
       "last_reported_at": "2026-08-23T05:18:16+02:00",
@@ -8700,624 +9384,6 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
-    },
-    {
-      "name": "FluidVoice",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Print for Visual Studio Code",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "GNU Radio World",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Read the Docs",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Crowd Supply",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Zinwa Q25",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Incorruptible",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "The Elephant in the Brain",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "The Devastating Decline of a Brilliant Young Coder",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Coyote vs. Acme",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Who Framed Roger Rabbit",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Dr. Strangelove",
-      "first_reported_at": "2026-09-10T05:19:13+02:00",
-      "last_reported_at": "2026-09-10T05:19:13+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Kotlin Multiplatform",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "cgit",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Xfce",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "DStretch",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Velocity Raptor",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Nocheto",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "BookFusion",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Libro.fm",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "What Makes Music Sound Good?",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Gödel, Escher, Bach",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Hallaig",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "The Mythical Man-Month",
-      "first_reported_at": "2026-09-11T05:17:53+02:00",
-      "last_reported_at": "2026-09-11T05:17:53+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Merge AI Gateway",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Trace",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Magit",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Git Repo Manager",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "godot-rust",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "earlyoom",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "HN Sans AI",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Snap!",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Logo",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "3Blue1Brown phase-kickback animation",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "YouTube Premium",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "IKEA KNAGGLIG",
-      "first_reported_at": "2026-09-12T05:17:20+02:00",
-      "last_reported_at": "2026-09-12T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "The Idea Factory",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "This Is Not Propaganda",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Logic: An Introduction to Elementary Logic",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Bodily Oddities",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Usenet Rewind",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Neal Nanda's Transformer Circuits Walkthrough",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Loom",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Inverse Kinematics and Foot Locking",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Galene",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Jitsi Meet",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Buildprof",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "OpenStreetMap iD Editor",
-      "first_reported_at": "2026-09-13T05:17:56+02:00",
-      "last_reported_at": "2026-09-13T05:17:56+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "ATEN CS782DP",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Mjolnir",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Maturin / PyO3",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "PicoClaw",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Persimmon",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "MESA",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "I Eat the Stars",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Connections Museum",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Mimms Museum of Technology and Art",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Australian Computer Museum Society",
-      "first_reported_at": "2026-09-14T05:17:51+02:00",
-      "last_reported_at": "2026-09-14T05:17:51+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "mitsubishi2MQTT",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "ProtoART ClimateControl",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "ESP32-Faikout",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "XREAL AR glasses",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Xteink X3",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Opair",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Kan",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Flexito",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Three Body Orbits",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Vehicles: Experiments in Synthetic Psychology",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Enemy Mind",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Pop!_OS",
-      "first_reported_at": "2026-09-15T05:17:47+02:00",
-      "last_reported_at": "2026-09-15T05:17:47+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Missionary Bush Pilot",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "System One Models",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Chrome Labs Text Editor",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Capsule",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Modem Thing",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "JuiceFS",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Silo",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "ForgeCAD",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "GPT-6 Astra",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Wayback Machine",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Oura Ring",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Garmin Lily 2 Active",
-      "first_reported_at": "2026-09-16T05:17:20+02:00",
-      "last_reported_at": "2026-09-16T05:17:20+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "zoxide",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Roborazzi",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "scikit-decide",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Xiaomi MiMo-V2.5",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "GPT-5.6 Luna Max",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "FlightGear",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "MiSTer",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Plagiarhythm Nation v2.0",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "AI Does to Us What American Cheese Did to Food",
-      "first_reported_at": "2026-09-17T05:17:55+02:00",
-      "last_reported_at": "2026-09-17T05:17:55+02:00",
-      "times_reported": 1
-    },
-    {
-      "name": "Candle",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "GLM-5.3-Flash",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Servo",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Byre",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "jcode",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Recall",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "debug-skill",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "TLSF",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "CrowdSec",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Wax motors",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
-      "times_reported": 1
-    },
-    {
-      "name": "Datenspuren 2026",
-      "first_reported_at": "2026-09-18T03:17:32Z",
-      "last_reported_at": "2026-09-18T03:17:32Z",
       "times_reported": 1
     }
   ]

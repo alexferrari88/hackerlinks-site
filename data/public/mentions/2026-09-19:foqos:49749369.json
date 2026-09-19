@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter credited Foqos with very low weekly iPhone screen time and strongly recommended it.",
+  "evidence_sources": [
+    {
+      "author": "olwmc",
+      "comment_id": "49760438",
+      "comment_url": "https://news.ycombinator.com/item?id=49749369#49760438",
+      "context": "first_hand_use",
+      "excerpt": "if you're struggling with apps on your (i)phone, I can't recommend",
+      "kind": "recommendation",
+      "parent_comment_id": "49749369"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49749369",
+  "id": "2026-09-19:foqos:49749369",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "foqos",
+  "rank": 8,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49749369",
+  "source_story_title": "Minimal Phone 2"
+}

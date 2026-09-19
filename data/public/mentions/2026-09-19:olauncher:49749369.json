@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter likes keyboard-based launchers and has retained Olauncher longer than alternatives.",
+  "evidence_sources": [
+    {
+      "author": "Groxx",
+      "comment_id": "49751346",
+      "comment_url": "https://news.ycombinator.com/item?id=49749369#49751346",
+      "context": "first_hand_use",
+      "excerpt": "Olauncher has lasted the longest:",
+      "kind": "recommendation",
+      "parent_comment_id": "49751031"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49749369",
+  "id": "2026-09-19:olauncher:49749369",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "olauncher",
+  "rank": 9,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49749369",
+  "source_story_title": "Minimal Phone 2"
+}

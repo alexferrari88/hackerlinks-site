@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "olauncher",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:olauncher:49749369",
+  "mention_ids": [
+    "2026-09-19:olauncher:49749369"
+  ],
+  "name": "Olauncher",
+  "slug": "olauncher",
+  "summary": "A minimalist keyboard-oriented Android launcher designed to reduce visual distraction.",
+  "thing_url": "https://play.google.com/store/apps/details?id=app.olauncher",
+  "times_seen": 1,
+  "why_included": "A long-term launcher user said Olauncher had lasted the longest."
+}

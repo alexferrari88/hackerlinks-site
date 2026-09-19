@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "foqos",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:foqos:49749369",
+  "mention_ids": [
+    "2026-09-19:foqos:49749369"
+  ],
+  "name": "Foqos",
+  "slug": "foqos",
+  "summary": "A free open-source iPhone app blocker activated by NFC, QR, or barcodes.",
+  "thing_url": "https://www.foqos.app/",
+  "times_seen": 1,
+  "why_included": "A user strongly recommended it after cutting measured weekly screen time below one hour."
+}

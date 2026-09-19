@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation praised the article's distinction between necessary and poorly chosen undefined behavior.",
+  "evidence_sources": [
+    {
+      "author": "ameliaquining",
+      "comment_id": "49756393",
+      "comment_url": "https://news.ycombinator.com/item?id=49746406#49756393",
+      "excerpt": "I recommend this explanation of why UB is good and necessary",
+      "kind": "recommendation",
+      "parent_comment_id": "49755632"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49746406",
+  "id": "2026-09-19:undefined-behavior-what-happened-to-my-code:49746406",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "undefined-behavior-what-happened-to-my-code",
+  "rank": 10,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49746406",
+  "source_story_title": "C++26: Trivial infinite loops are no longer undefined behaviour"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "mercury-2-5",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:mercury-2-5:49752041",
+  "mention_ids": [
+    "2026-09-19:mercury-2-5:49752041"
+  ],
+  "name": "Mercury 2.5",
+  "slug": "mercury-2-5",
+  "summary": "Inception's low-latency diffusion language model for fast production reasoning.",
+  "thing_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+  "times_seen": 1,
+  "why_included": "A commenter called it groundbreaking and explicitly recommended trying it."
+}

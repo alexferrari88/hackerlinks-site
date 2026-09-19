@@ -1,0 +1,32 @@
+{
+  "evidence": "One production user reported drastic Rails memory savings; another relies on per-thread allocation counters.",
+  "evidence_sources": [
+    {
+      "author": "collimarco",
+      "comment_id": "49758466",
+      "comment_url": "https://news.ycombinator.com/item?id=49750152#49758466",
+      "context": "production_use",
+      "excerpt": "Jemalloc is great for Ruby on Rails apps, and drastically reduces memory usage for the same workloads.",
+      "kind": "recommendation",
+      "parent_comment_id": "49750152"
+    },
+    {
+      "author": "atombender",
+      "comment_id": "49755709",
+      "comment_url": "https://news.ycombinator.com/item?id=49750152#49755709",
+      "context": "first_hand_use",
+      "excerpt": "I use Jemalloc on a project because it has per-thread allocation counters.",
+      "kind": "recommendation",
+      "parent_comment_id": "49750152"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49750152",
+  "id": "2026-09-19:jemalloc:49750152",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "jemalloc",
+  "rank": 6,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49750152",
+  "source_story_title": "Jemalloc 5.4.0"
+}

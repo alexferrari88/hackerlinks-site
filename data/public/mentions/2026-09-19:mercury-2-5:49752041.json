@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation singled out Mercury 2.5 as a diffusion model worth trying.",
+  "evidence_sources": [
+    {
+      "author": "Topfi",
+      "comment_id": "49753261",
+      "comment_url": "https://news.ycombinator.com/item?id=49752041#49753261",
+      "excerpt": "Mercury 2.5 is truly groundbreaking, giving it a try is highly recommended.",
+      "kind": "recommendation",
+      "parent_comment_id": "49752989"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49752041",
+  "id": "2026-09-19:mercury-2-5:49752041",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "mercury-2-5",
+  "rank": 4,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49752041",
+  "source_story_title": "OpenJev"
+}

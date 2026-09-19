@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "jemalloc",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:jemalloc:49750152",
+  "mention_ids": [
+    "2026-09-19:jemalloc:49750152"
+  ],
+  "name": "Jemalloc",
+  "slug": "jemalloc",
+  "summary": "A general-purpose allocator with profiling, memory controls, and per-thread counters.",
+  "thing_url": "https://github.com/jemalloc/jemalloc",
+  "times_seen": 1,
+  "why_included": "Users reported lower Rails memory use and useful per-thread workload budgeting."
+}

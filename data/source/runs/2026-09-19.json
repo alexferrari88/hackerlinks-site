@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "run_date": "2026-09-19",
+  "generated_at": "2026-09-19T05:17:52+02:00",
+  "summary": "Eleven comment-endorsed security, networking, AI, systems, focus, and learning tools from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-19.json",
+    "sha256": "69edd0044ff4bab92dec30955fc91fa6f92c9780a2d0079fdb93fa9194764c33",
+    "bytes": 3359636,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5412,
+    "fetched_item_count": 5442,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "ruby-landlock",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/discourse/ruby-landlock",
+      "hn_url": "https://news.ycombinator.com/item?id=49749656",
+      "source_story_title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "summary": "A Ruby gem that confines external binaries with Linux Landlock sandboxes.",
+      "why_included": "Two production users recommended it for defense-in-depth around native image-processing tools.",
+      "evidence": "Discourse runs external binaries inside ruby-landlock, while another user applies it to image processing.",
+      "evidence_sources": [
+        {"comment_id":"49750602","comment_url":"https://news.ycombinator.com/item?id=49749656#49750602","author":"sams99","excerpt":"we now run all external binaries, including magick via a landlock sandbox.","kind":"recommendation","context":"production_use","parent_comment_id":"49749656"},
+        {"comment_id":"49751852","comment_url":"https://news.ycombinator.com/item?id=49749656#49751852","author":"kawsper","excerpt":"I use ruby-landlock as well for image processing.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49750602"}
+      ]
+    },
+    {
+      "name": "Pangolin",
+      "category": "Privacy & Networking",
+      "thing_url": "https://pangolin.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49754785",
+      "source_story_title": "Cloudflare Quick Tunnels",
+      "summary": "A self-hosted reverse proxy and VPN for public or authenticated private resources.",
+      "why_included": "Two homelab users praised its long-term reliability and user experience.",
+      "evidence": "One user called Pangolin great after extended use; another preferred its UX to NetBird.",
+      "evidence_sources": [
+        {"comment_id":"49756511","comment_url":"https://news.ycombinator.com/item?id=49754785#49756511","author":"tamimio","excerpt":"Use pangolin (you can self host), been using it for a while and it’s great","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49756235"},
+        {"comment_id":"49758343","comment_url":"https://news.ycombinator.com/item?id=49754785#49758343","author":"garettmd","excerpt":"I've been using Pangolin","kind":"comparison","context":"first_hand_use","parent_comment_id":"49757983"}
+      ]
+    },
+    {
+      "name": "OpenZiti",
+      "category": "Privacy & Networking",
+      "thing_url": "https://github.com/openziti/ziti",
+      "hn_url": "https://news.ycombinator.com/item?id=49754785",
+      "source_story_title": "Cloudflare Quick Tunnels",
+      "summary": "An open-source zero-trust overlay for identity-gated, otherwise invisible network services.",
+      "why_included": "A self-hoster praised its granular access controls and dark-service routing.",
+      "evidence": "The commenter enjoyed OpenZiti and called its granular private-service controls a game changer.",
+      "evidence_sources": [
+        {"comment_id":"49762525","comment_url":"https://news.ycombinator.com/item?id=49754785#49762525","author":"gibs0ns","excerpt":"I have really enjoyed the experience of OpenZiti for this purpose.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49756985"}
+      ]
+    },
+    {
+      "name": "Mercury 2.5",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "hn_url": "https://news.ycombinator.com/item?id=49752041",
+      "source_story_title": "OpenJev",
+      "summary": "Inception's low-latency diffusion language model for fast production reasoning.",
+      "why_included": "A commenter called it groundbreaking and explicitly recommended trying it.",
+      "evidence": "The recommendation singled out Mercury 2.5 as a diffusion model worth trying.",
+      "evidence_sources": [
+        {"comment_id":"49753261","comment_url":"https://news.ycombinator.com/item?id=49752041#49753261","author":"Topfi","excerpt":"Mercury 2.5 is truly groundbreaking, giving it a try is highly recommended.","kind":"recommendation","parent_comment_id":"49752989"}
+      ]
+    },
+    {
+      "name": "CostGoat",
+      "category": "AI & Local Models",
+      "thing_url": "https://costgoat.com/compare/llm-api#pricing-guide",
+      "hn_url": "https://news.ycombinator.com/item?id=49747925",
+      "source_story_title": "Qwen 3.8 Omni Flash",
+      "summary": "A comparison site for checking LLM API prices and model costs.",
+      "why_included": "A commenter uses it specifically to minimize model spending.",
+      "evidence": "The commenter described CostGoat as their practical tool for finding cheaper LLM APIs.",
+      "evidence_sources": [
+        {"comment_id":"49752805","comment_url":"https://news.ycombinator.com/item?id=49747925#49752805","author":"deedree","excerpt":"I use costgoat to be a cheapass","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49751471"}
+      ]
+    },
+    {
+      "name": "Jemalloc",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/jemalloc/jemalloc",
+      "hn_url": "https://news.ycombinator.com/item?id=49750152",
+      "source_story_title": "Jemalloc 5.4.0",
+      "summary": "A general-purpose allocator with profiling, memory controls, and per-thread counters.",
+      "why_included": "Users reported lower Rails memory use and useful per-thread workload budgeting.",
+      "evidence": "One production user reported drastic Rails memory savings; another relies on per-thread allocation counters.",
+      "evidence_sources": [
+        {"comment_id":"49758466","comment_url":"https://news.ycombinator.com/item?id=49750152#49758466","author":"collimarco","excerpt":"Jemalloc is great for Ruby on Rails apps, and drastically reduces memory usage for the same workloads.","kind":"recommendation","context":"production_use","parent_comment_id":"49750152"},
+        {"comment_id":"49755709","comment_url":"https://news.ycombinator.com/item?id=49750152#49755709","author":"atombender","excerpt":"I use Jemalloc on a project because it has per-thread allocation counters.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49750152"}
+      ]
+    },
+    {
+      "name": "FEX",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://fex-emu.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49750094",
+      "source_story_title": "The scourge of x86 emulation",
+      "summary": "A fast x86 and x86-64 userspace emulator for ARM64 Linux systems.",
+      "why_included": "An ARM-handheld user praised its compatibility and battery-friendly results.",
+      "evidence": "The commenter runs FEX on several ARM handhelds and called the project amazing.",
+      "evidence_sources": [
+        {"comment_id":"49751886","comment_url":"https://news.ycombinator.com/item?id=49750094#49751886","author":"sureglymop","excerpt":"this project (FEX) is amazing. I've been running Armada OS on multiple ARM handhelds","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49750094"}
+      ]
+    },
+    {
+      "name": "Foqos",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.foqos.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49749369",
+      "source_story_title": "Minimal Phone 2",
+      "summary": "A free open-source iPhone app blocker activated by NFC, QR, or barcodes.",
+      "why_included": "A user strongly recommended it after cutting measured weekly screen time below one hour.",
+      "evidence": "The commenter credited Foqos with very low weekly iPhone screen time and strongly recommended it.",
+      "evidence_sources": [
+        {"comment_id":"49760438","comment_url":"https://news.ycombinator.com/item?id=49749369#49760438","author":"olwmc","excerpt":"if you're struggling with apps on your (i)phone, I can't recommend","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49749369"}
+      ]
+    },
+    {
+      "name": "Olauncher",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://play.google.com/store/apps/details?id=app.olauncher",
+      "hn_url": "https://news.ycombinator.com/item?id=49749369",
+      "source_story_title": "Minimal Phone 2",
+      "summary": "A minimalist keyboard-oriented Android launcher designed to reduce visual distraction.",
+      "why_included": "A long-term launcher user said Olauncher had lasted the longest.",
+      "evidence": "The commenter likes keyboard-based launchers and has retained Olauncher longer than alternatives.",
+      "evidence_sources": [
+        {"comment_id":"49751346","comment_url":"https://news.ycombinator.com/item?id=49749369#49751346","author":"Groxx","excerpt":"Olauncher has lasted the longest:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49751031"}
+      ]
+    },
+    {
+      "name": "Undefined Behavior: What Happened to My Code?",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.ralfj.de/blog/2021/11/18/ub-good-idea.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49746406",
+      "source_story_title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "summary": "An article explaining why undefined behavior exists and where C and C++ overuse it.",
+      "why_included": "A commenter explicitly recommended it as a nuanced explanation of undefined behavior.",
+      "evidence": "The recommendation praised the article's distinction between necessary and poorly chosen undefined behavior.",
+      "evidence_sources": [
+        {"comment_id":"49756393","comment_url":"https://news.ycombinator.com/item?id=49746406#49756393","author":"ameliaquining","excerpt":"I recommend this explanation of why UB is good and necessary","kind":"recommendation","parent_comment_id":"49755632"}
+      ]
+    },
+    {
+      "name": "Analysis I by Terence Tao",
+      "category": "Watch & Learn",
+      "thing_url": "https://link.springer.com/book/10.1007/978-981-19-7261-4",
+      "hn_url": "https://news.ycombinator.com/item?id=49755024",
+      "source_story_title": "I vibed a proof of Conway's conjecture",
+      "summary": "A rigorous real-analysis textbook that builds mathematics methodically from first principles.",
+      "why_included": "A commenter strongly recommended it and credited it with getting them into proofs.",
+      "evidence": "The commenter found Tao's methodical foundation accessible and personally useful for learning proofs.",
+      "evidence_sources": [
+        {"comment_id":"49762512","comment_url":"https://news.ycombinator.com/item?id=49755024#49762512","author":"danabramov","excerpt":"I highly recommend Terence Tao's Analysis textbook","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49762165"}
+      ]
+    }
+  ]
+}

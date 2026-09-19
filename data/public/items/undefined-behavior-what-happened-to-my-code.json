@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "undefined-behavior-what-happened-to-my-code",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:undefined-behavior-what-happened-to-my-code:49746406",
+  "mention_ids": [
+    "2026-09-19:undefined-behavior-what-happened-to-my-code:49746406"
+  ],
+  "name": "Undefined Behavior: What Happened to My Code?",
+  "slug": "undefined-behavior-what-happened-to-my-code",
+  "summary": "An article explaining why undefined behavior exists and where C and C++ overuse it.",
+  "thing_url": "https://www.ralfj.de/blog/2021/11/18/ub-good-idea.html",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended it as a nuanced explanation of undefined behavior."
+}

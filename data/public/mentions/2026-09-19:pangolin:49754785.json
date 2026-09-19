@@ -1,0 +1,32 @@
+{
+  "evidence": "One user called Pangolin great after extended use; another preferred its UX to NetBird.",
+  "evidence_sources": [
+    {
+      "author": "tamimio",
+      "comment_id": "49756511",
+      "comment_url": "https://news.ycombinator.com/item?id=49754785#49756511",
+      "context": "first_hand_use",
+      "excerpt": "Use pangolin (you can self host), been using it for a while and it\u2019s great",
+      "kind": "recommendation",
+      "parent_comment_id": "49756235"
+    },
+    {
+      "author": "garettmd",
+      "comment_id": "49758343",
+      "comment_url": "https://news.ycombinator.com/item?id=49754785#49758343",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Pangolin",
+      "kind": "comparison",
+      "parent_comment_id": "49757983"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49754785",
+  "id": "2026-09-19:pangolin:49754785",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "pangolin",
+  "rank": 2,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49754785",
+  "source_story_title": "Cloudflare Quick Tunnels"
+}

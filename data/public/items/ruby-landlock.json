@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "ruby-landlock",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:ruby-landlock:49749656",
+  "mention_ids": [
+    "2026-09-19:ruby-landlock:49749656"
+  ],
+  "name": "ruby-landlock",
+  "slug": "ruby-landlock",
+  "summary": "A Ruby gem that confines external binaries with Linux Landlock sandboxes.",
+  "thing_url": "https://github.com/discourse/ruby-landlock",
+  "times_seen": 1,
+  "why_included": "Two production users recommended it for defense-in-depth around native image-processing tools."
+}

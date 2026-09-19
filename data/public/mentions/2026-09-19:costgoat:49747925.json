@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter described CostGoat as their practical tool for finding cheaper LLM APIs.",
+  "evidence_sources": [
+    {
+      "author": "deedree",
+      "comment_id": "49752805",
+      "comment_url": "https://news.ycombinator.com/item?id=49747925#49752805",
+      "context": "first_hand_use",
+      "excerpt": "I use costgoat to be a cheapass",
+      "kind": "recommendation",
+      "parent_comment_id": "49751471"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49747925",
+  "id": "2026-09-19:costgoat:49747925",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "costgoat",
+  "rank": 5,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49747925",
+  "source_story_title": "Qwen 3.8 Omni Flash"
+}

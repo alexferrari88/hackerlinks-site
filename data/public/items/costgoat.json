@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "costgoat",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:costgoat:49747925",
+  "mention_ids": [
+    "2026-09-19:costgoat:49747925"
+  ],
+  "name": "CostGoat",
+  "slug": "costgoat",
+  "summary": "A comparison site for checking LLM API prices and model costs.",
+  "thing_url": "https://costgoat.com/compare/llm-api#pricing-guide",
+  "times_seen": 1,
+  "why_included": "A commenter uses it specifically to minimize model spending."
+}

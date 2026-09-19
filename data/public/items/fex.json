@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "fex",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:fex:49750094",
+  "mention_ids": [
+    "2026-09-19:fex:49750094"
+  ],
+  "name": "FEX",
+  "slug": "fex",
+  "summary": "A fast x86 and x86-64 userspace emulator for ARM64 Linux systems.",
+  "thing_url": "https://fex-emu.com/",
+  "times_seen": 1,
+  "why_included": "An ARM-handheld user praised its compatibility and battery-friendly results."
+}

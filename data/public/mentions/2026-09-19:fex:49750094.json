@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs FEX on several ARM handhelds and called the project amazing.",
+  "evidence_sources": [
+    {
+      "author": "sureglymop",
+      "comment_id": "49751886",
+      "comment_url": "https://news.ycombinator.com/item?id=49750094#49751886",
+      "context": "first_hand_use",
+      "excerpt": "this project (FEX) is amazing. I've been running Armada OS on multiple ARM handhelds",
+      "kind": "recommendation",
+      "parent_comment_id": "49750094"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49750094",
+  "id": "2026-09-19:fex:49750094",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "fex",
+  "rank": 7,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49750094",
+  "source_story_title": "The scourge of x86 emulation"
+}

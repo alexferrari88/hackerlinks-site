@@ -1,0 +1,32 @@
+{
+  "evidence": "Discourse runs external binaries inside ruby-landlock, while another user applies it to image processing.",
+  "evidence_sources": [
+    {
+      "author": "sams99",
+      "comment_id": "49750602",
+      "comment_url": "https://news.ycombinator.com/item?id=49749656#49750602",
+      "context": "production_use",
+      "excerpt": "we now run all external binaries, including magick via a landlock sandbox.",
+      "kind": "recommendation",
+      "parent_comment_id": "49749656"
+    },
+    {
+      "author": "kawsper",
+      "comment_id": "49751852",
+      "comment_url": "https://news.ycombinator.com/item?id=49749656#49751852",
+      "context": "first_hand_use",
+      "excerpt": "I use ruby-landlock as well for image processing.",
+      "kind": "recommendation",
+      "parent_comment_id": "49750602"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49749656",
+  "id": "2026-09-19:ruby-landlock:49749656",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "ruby-landlock",
+  "rank": 1,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49749656",
+  "source_story_title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos"
+}

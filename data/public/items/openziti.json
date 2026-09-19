@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-19T05:17:52+02:00",
+  "id": "openziti",
+  "last_seen_at": "2026-09-19T05:17:52+02:00",
+  "latest_mention_id": "2026-09-19:openziti:49754785",
+  "mention_ids": [
+    "2026-09-19:openziti:49754785"
+  ],
+  "name": "OpenZiti",
+  "slug": "openziti",
+  "summary": "An open-source zero-trust overlay for identity-gated, otherwise invisible network services.",
+  "thing_url": "https://github.com/openziti/ziti",
+  "times_seen": 1,
+  "why_included": "A self-hoster praised its granular access controls and dark-service routing."
+}

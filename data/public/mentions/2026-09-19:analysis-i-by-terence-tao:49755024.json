@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found Tao's methodical foundation accessible and personally useful for learning proofs.",
+  "evidence_sources": [
+    {
+      "author": "danabramov",
+      "comment_id": "49762512",
+      "comment_url": "https://news.ycombinator.com/item?id=49755024#49762512",
+      "context": "first_hand_use",
+      "excerpt": "I highly recommend Terence Tao's Analysis textbook",
+      "kind": "recommendation",
+      "parent_comment_id": "49762165"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49755024",
+  "id": "2026-09-19:analysis-i-by-terence-tao:49755024",
+  "is_repeat": false,
+  "issue_id": "2026-09-19",
+  "item_id": "analysis-i-by-terence-tao",
+  "rank": 11,
+  "seen_at": "2026-09-19T05:17:52+02:00",
+  "source_story_id": "49755024",
+  "source_story_title": "I vibed a proof of Conway's conjecture"
+}
