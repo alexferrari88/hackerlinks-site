@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation praised the episode as an accessible walkthrough of the hindbrain.",
+  "evidence_sources": [
+    {
+      "author": "cyanydeez",
+      "comment_id": "49765110",
+      "comment_url": "https://news.ycombinator.com/item?id=49763697#49765110",
+      "excerpt": "this is a great walk through the curiousity of the hindbrain:",
+      "kind": "recommendation",
+      "parent_comment_id": "49764726"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49763697",
+  "id": "2026-09-20:song-of-the-cerebellum:49763697",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "song-of-the-cerebellum",
+  "rank": 6,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49763697",
+  "source_story_title": "Two parallel neural ectoderm progenitors contribute to the developing brain"
+}

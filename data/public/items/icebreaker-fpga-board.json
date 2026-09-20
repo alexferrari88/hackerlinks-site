@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-20T05:18:04+02:00",
+  "id": "icebreaker-fpga-board",
+  "last_seen_at": "2026-09-20T05:18:04+02:00",
+  "latest_mention_id": "2026-09-20:icebreaker-fpga-board:49761432",
+  "mention_ids": [
+    "2026-09-20:icebreaker-fpga-board:49761432"
+  ],
+  "name": "iCEBreaker FPGA board",
+  "slug": "icebreaker-fpga-board",
+  "summary": "An open-source iCE40 FPGA development board for experimenting with digital circuits.",
+  "thing_url": "https://1bitsquared.com/products/icebreaker",
+  "times_seen": 1,
+  "why_included": "A hands-on user praised a pair of boards as great experimentation hardware."
+}

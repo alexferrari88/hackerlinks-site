@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter linked PBS Space Time's take and said they loved the recommended channels.",
+  "evidence_sources": [
+    {
+      "author": "ck2",
+      "comment_id": "49767806",
+      "comment_url": "https://news.ycombinator.com/item?id=49756121#49767806",
+      "excerpt": "love those channels",
+      "kind": "recommendation",
+      "parent_comment_id": "49756121"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49756121",
+  "id": "2026-09-20:pbs-space-time:49756121",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "pbs-space-time",
+  "rank": 10,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49756121",
+  "source_story_title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-20T05:18:04+02:00",
+  "id": "writelucid",
+  "last_seen_at": "2026-09-20T05:18:04+02:00",
+  "latest_mention_id": "2026-09-20:writelucid:49767937",
+  "mention_ids": [
+    "2026-09-20:writelucid:49767937"
+  ],
+  "name": "WriteLucid",
+  "slug": "writelucid",
+  "summary": "An AI writing critic that comments on passages without replacing the author's prose.",
+  "thing_url": "https://www.writelucid.cc/",
+  "times_seen": 1,
+  "why_included": "Its creator uses it for all writing and values debating passage-level feedback."
+}

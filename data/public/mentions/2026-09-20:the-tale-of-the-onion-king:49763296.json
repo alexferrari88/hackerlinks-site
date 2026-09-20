@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation praised the episode's explanation of why onion futures were banned.",
+  "evidence_sources": [
+    {
+      "author": "envoked",
+      "comment_id": "49764037",
+      "comment_url": "https://news.ycombinator.com/item?id=49763296#49764037",
+      "excerpt": "For those unfamiliar, there's an excellent Planet Money episode on how trading onion futures got banned in the 50s.",
+      "kind": "recommendation",
+      "parent_comment_id": "49763296"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49763296",
+  "id": "2026-09-20:the-tale-of-the-onion-king:49763296",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "the-tale-of-the-onion-king",
+  "rank": 8,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49763296",
+  "source_story_title": "San Francisco Onion Futures Company"
+}

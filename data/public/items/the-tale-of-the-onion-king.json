@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-20T05:18:04+02:00",
+  "id": "the-tale-of-the-onion-king",
+  "last_seen_at": "2026-09-20T05:18:04+02:00",
+  "latest_mention_id": "2026-09-20:the-tale-of-the-onion-king:49763296",
+  "mention_ids": [
+    "2026-09-20:the-tale-of-the-onion-king:49763296"
+  ],
+  "name": "The Tale of the Onion King",
+  "slug": "the-tale-of-the-onion-king",
+  "summary": "A Planet Money episode explaining America's unusual ban on onion futures.",
+  "thing_url": "https://www.npr.org/sections/money/2015/10/14/448718171/episode-657-the-tale-of-the-onion-king",
+  "times_seen": 1,
+  "why_included": "A commenter called it an excellent account of the 1950s trading ban."
+}

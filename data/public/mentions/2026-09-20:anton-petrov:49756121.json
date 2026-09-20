@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter said Anton belongs with the praised science channels.",
+  "evidence_sources": [
+    {
+      "author": "brabel",
+      "comment_id": "49769261",
+      "comment_url": "https://news.ycombinator.com/item?id=49756121#49769261",
+      "excerpt": "They are great but you forgot Anton! He definitely belongs with them in my opinion, he is a wonderful person after all :)",
+      "kind": "recommendation",
+      "parent_comment_id": "49767806"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49756121",
+  "id": "2026-09-20:anton-petrov:49756121",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "anton-petrov",
+  "rank": 11,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49756121",
+  "source_story_title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation praised the Cookbook as a hands-on learning resource across modular formats.",
+  "evidence_sources": [
+    {
+      "author": "outofpaper",
+      "comment_id": "49770296",
+      "comment_url": "https://news.ycombinator.com/item?id=49735010#49770296",
+      "excerpt": "This is an amazing resource, whether you're into hardware modular synths or virtual ones like VCV Rack and Cardinal.",
+      "kind": "recommendation",
+      "parent_comment_id": "49735010"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49735010",
+  "id": "2026-09-20:suzanne-ciani-s-buchla-cookbook:49735010",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "suzanne-ciani-s-buchla-cookbook",
+  "rank": 12,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49735010",
+  "source_story_title": "Suzanne Ciani's Buchla Cookbook"
+}

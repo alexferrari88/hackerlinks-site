@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T05:18:04+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-20",
+  "id": "2026-09-20",
+  "mention_ids": [
+    "2026-09-20:icebreaker-fpga-board:49761432",
+    "2026-09-20:saleae-logic:49761432",
+    "2026-09-20:sdcc:49762744",
+    "2026-09-20:writelucid:49767937",
+    "2026-09-20:ai-arena:49766966",
+    "2026-09-20:song-of-the-cerebellum:49763697",
+    "2026-09-20:alphaphoenix:49720143",
+    "2026-09-20:the-tale-of-the-onion-king:49763296",
+    "2026-09-20:seven-onion-soup-with-parmesan-garlic-bread:49763296",
+    "2026-09-20:pbs-space-time:49756121",
+    "2026-09-20:anton-petrov:49756121",
+    "2026-09-20:suzanne-ciani-s-buchla-cookbook:49735010"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-20T05:18:04+02:00",
+  "id": "saleae-logic",
+  "last_seen_at": "2026-09-20T05:18:04+02:00",
+  "latest_mention_id": "2026-09-20:saleae-logic:49761432",
+  "mention_ids": [
+    "2026-09-20:saleae-logic:49761432"
+  ],
+  "name": "Saleae Logic",
+  "slug": "saleae-logic",
+  "summary": "A USB logic analyzer and software suite for debugging digital hardware.",
+  "thing_url": "https://www.saleae.com/",
+  "times_seen": 1,
+  "why_included": "A hardware experimenter praised Saleae analyzers in a verifiable AI-design workflow."
+}

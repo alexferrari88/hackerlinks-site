@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found SDCC brilliant on Z80-family targets after mixed 8051 experience.",
+  "evidence_sources": [
+    {
+      "author": "nickcw",
+      "comment_id": "49764529",
+      "comment_url": "https://news.ycombinator.com/item?id=49762744#49764529",
+      "context": "production_use",
+      "excerpt": "Whereas sdcc works brilliantly for z80 lineage processors.",
+      "kind": "recommendation",
+      "parent_comment_id": "49763011"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49762744",
+  "id": "2026-09-20:sdcc:49762744",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "sdcc",
+  "rank": 3,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49762744",
+  "source_story_title": "SDCC \u2013 Small Device C Compiler"
+}

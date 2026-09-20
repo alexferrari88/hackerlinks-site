@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator reported sustained personal use and strong approval of WriteLucid's critique workflow.",
+  "evidence_sources": [
+    {
+      "author": "stavros",
+      "comment_id": "49770543",
+      "comment_url": "https://news.ycombinator.com/item?id=49767937#49770543",
+      "context": "author_or_maintainer",
+      "excerpt": "I really like it, I use it for all my writing nowadays.",
+      "kind": "recommendation",
+      "parent_comment_id": "49767937"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49767937",
+  "id": "2026-09-20:writelucid:49767937",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "writelucid",
+  "rank": 4,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49767937",
+  "source_story_title": "I think you should almost never use AI to write"
+}

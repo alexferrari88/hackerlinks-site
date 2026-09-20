@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter owns two iCEBreaker boards and enjoys using them for circuit experiments.",
+  "evidence_sources": [
+    {
+      "author": "gregsadetsky",
+      "comment_id": "49769173",
+      "comment_url": "https://news.ycombinator.com/item?id=49761432#49769173",
+      "context": "first_hand_use",
+      "excerpt": "I got a pair of icebreaker boards [0] and they\u2019ve been great to toy around with.",
+      "kind": "recommendation",
+      "parent_comment_id": "49766638"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49761432",
+  "id": "2026-09-20:icebreaker-fpga-board:49761432",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "icebreaker-fpga-board",
+  "rank": 1,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49761432",
+  "source_story_title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip"
+}

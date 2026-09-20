@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-20",
+  "generated_at": "2026-09-20T05:18:04+02:00",
+  "summary": "Twelve comment-endorsed electronics, writing, science, food, music, and game-AI resources from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-20.json",
+    "sha256": "d21844ab860302dcc109510d782c5cda167817a5f787b735c3e38f5cf5600623",
+    "bytes": 2462705,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3879,
+    "fetched_item_count": 3909,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "iCEBreaker FPGA board",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://1bitsquared.com/products/icebreaker",
+      "hn_url": "https://news.ycombinator.com/item?id=49761432",
+      "source_story_title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "summary": "An open-source iCE40 FPGA development board for experimenting with digital circuits.",
+      "why_included": "A hands-on user praised a pair of boards as great experimentation hardware.",
+      "evidence": "The commenter owns two iCEBreaker boards and enjoys using them for circuit experiments.",
+      "evidence_sources": [{"comment_id":"49769173","comment_url":"https://news.ycombinator.com/item?id=49761432#49769173","author":"gregsadetsky","excerpt":"I got a pair of icebreaker boards [0] and they’ve been great to toy around with.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49766638"}]
+    },
+    {
+      "name": "Saleae Logic",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.saleae.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49761432",
+      "source_story_title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "summary": "A USB logic analyzer and software suite for debugging digital hardware.",
+      "why_included": "A hardware experimenter praised Saleae analyzers in a verifiable AI-design workflow.",
+      "evidence": "The commenter called Saleae analyzers great while describing a circuit-testing loop.",
+      "evidence_sources": [{"comment_id":"49769173","comment_url":"https://news.ycombinator.com/item?id=49761432#49769173","author":"gregsadetsky","excerpt":"the Saleae’s [1] are great","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49766638"}]
+    },
+    {
+      "name": "SDCC",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://sdcc.sourceforge.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49762744",
+      "source_story_title": "SDCC – Small Device C Compiler",
+      "summary": "A retargetable C compiler for 8051, Z80, Game Boy, and other small devices.",
+      "why_included": "A commercial user reported excellent Z80-family results and bug-free recent Game Boy work.",
+      "evidence": "The commenter found SDCC brilliant on Z80-family targets after mixed 8051 experience.",
+      "evidence_sources": [{"comment_id":"49764529","comment_url":"https://news.ycombinator.com/item?id=49762744#49764529","author":"nickcw","excerpt":"Whereas sdcc works brilliantly for z80 lineage processors.","kind":"recommendation","context":"production_use","parent_comment_id":"49763011"}]
+    },
+    {
+      "name": "WriteLucid",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.writelucid.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49767937",
+      "source_story_title": "I think you should almost never use AI to write",
+      "summary": "An AI writing critic that comments on passages without replacing the author's prose.",
+      "why_included": "Its creator uses it for all writing and values debating passage-level feedback.",
+      "evidence": "The creator reported sustained personal use and strong approval of WriteLucid's critique workflow.",
+      "evidence_sources": [{"comment_id":"49770543","comment_url":"https://news.ycombinator.com/item?id=49767937#49770543","author":"stavros","excerpt":"I really like it, I use it for all my writing nowadays.","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":"49767937"}]
+    },
+    {
+      "name": "AI Arena",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://aiarena.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49766966",
+      "source_story_title": "Brood War Bench",
+      "summary": "A StarCraft II bot ladder for watching and competing with human-written agents.",
+      "why_included": "A commenter directly recommended it for bot matches and ladder participation.",
+      "evidence": "The recommendation invited readers to watch human-written bots or enter the ladder themselves.",
+      "evidence_sources": [{"comment_id":"49770103","comment_url":"https://news.ycombinator.com/item?id=49766966#49770103","author":"tweakimp","excerpt":"If you want to see human written bots in action or compete in the bot ladder yourself, try https://aiarena.net/","kind":"recommendation","parent_comment_id":"49766966"}]
+    },
+    {
+      "name": "Song of the Cerebellum",
+      "category": "Watch & Learn",
+      "thing_url": "https://radiolab.org/podcast/song-of-the-cerebellum",
+      "hn_url": "https://news.ycombinator.com/item?id=49763697",
+      "source_story_title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "summary": "A Radiolab episode exploring the cerebellum's surprising roles beyond movement.",
+      "why_included": "A commenter called it a great walkthrough of hindbrain curiosity.",
+      "evidence": "The recommendation praised the episode as an accessible walkthrough of the hindbrain.",
+      "evidence_sources": [{"comment_id":"49765110","comment_url":"https://news.ycombinator.com/item?id=49763697#49765110","author":"cyanydeez","excerpt":"this is a great walk through the curiousity of the hindbrain:","kind":"recommendation","parent_comment_id":"49764726"}]
+    },
+    {
+      "name": "AlphaPhoenix",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
+      "hn_url": "https://news.ycombinator.com/item?id=49720143",
+      "source_story_title": "The Secret Life of Circuits",
+      "summary": "A science-and-making channel using experiments to clarify physics and electronics.",
+      "why_included": "A hobbyist praised its theoretical explanations, visible reasoning, and contagious enthusiasm.",
+      "evidence": "The commenter finds AlphaPhoenix highly useful for understanding theoretical electronics topics.",
+      "evidence_sources": [{"comment_id":"49765636","comment_url":"https://news.ycombinator.com/item?id=49720143#49765636","author":"dgellow","excerpt":"AlphaPhoenix YouTube channel is also a great source of information to clarify theoretical topics.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49765309"}]
+    },
+    {
+      "name": "The Tale of the Onion King",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.npr.org/sections/money/2015/10/14/448718171/episode-657-the-tale-of-the-onion-king",
+      "hn_url": "https://news.ycombinator.com/item?id=49763296",
+      "source_story_title": "San Francisco Onion Futures Company",
+      "summary": "A Planet Money episode explaining America's unusual ban on onion futures.",
+      "why_included": "A commenter called it an excellent account of the 1950s trading ban.",
+      "evidence": "The recommendation praised the episode's explanation of why onion futures were banned.",
+      "evidence_sources": [{"comment_id":"49764037","comment_url":"https://news.ycombinator.com/item?id=49763296#49764037","author":"envoked","excerpt":"For those unfamiliar, there's an excellent Planet Money episode on how trading onion futures got banned in the 50s.","kind":"recommendation","parent_comment_id":"49763296"}]
+    },
+    {
+      "name": "Seven Onion Soup with Parmesan-Garlic Bread",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.emerils.com/127311/seven-onion-soup-parmesan-garlic-bread",
+      "hn_url": "https://news.ycombinator.com/item?id=49763296",
+      "source_story_title": "San Francisco Onion Futures Company",
+      "summary": "An Emeril Lagasse onion soup recipe with adaptable broth and bacon choices.",
+      "why_included": "A commenter called it a favorite and supplied a tested vegetarian adaptation.",
+      "evidence": "The commenter personally favors the recipe and substitutes vegetable broth while omitting bacon.",
+      "evidence_sources": [{"comment_id":"49767313","comment_url":"https://news.ycombinator.com/item?id=49763296#49767313","author":"astura","excerpt":"7 onion soup is a favorite of mine. I'm vegetarian so I omit the bacon and use veggie broth.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49763668"}]
+    },
+    {
+      "name": "PBS Space Time",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@pbsspacetime",
+      "hn_url": "https://news.ycombinator.com/item?id=49756121",
+      "source_story_title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "summary": "A PBS astrophysics channel explaining cosmology, black holes, and frontier physics.",
+      "why_included": "A commenter shared its relevant Little Red Dots coverage and praised the channel.",
+      "evidence": "The commenter linked PBS Space Time's take and said they loved the recommended channels.",
+      "evidence_sources": [{"comment_id":"49767806","comment_url":"https://news.ycombinator.com/item?id=49756121#49767806","author":"ck2","excerpt":"love those channels","kind":"recommendation","parent_comment_id":"49756121"}]
+    },
+    {
+      "name": "Anton Petrov",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/whatdamath",
+      "hn_url": "https://news.ycombinator.com/item?id=49756121",
+      "source_story_title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "summary": "A science channel explaining astronomy and research in approachable daily videos.",
+      "why_included": "A commenter strongly endorsed Anton alongside other respected astronomy channels.",
+      "evidence": "The commenter said Anton belongs with the praised science channels.",
+      "evidence_sources": [{"comment_id":"49769261","comment_url":"https://news.ycombinator.com/item?id=49756121#49769261","author":"brabel","excerpt":"They are great but you forgot Anton! He definitely belongs with them in my opinion, he is a wonderful person after all :)","kind":"recommendation","parent_comment_id":"49767806"}]
+    },
+    {
+      "name": "Suzanne Ciani's Buchla Cookbook",
+      "category": "Watch & Learn",
+      "thing_url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+      "hn_url": "https://news.ycombinator.com/item?id=49735010",
+      "source_story_title": "Suzanne Ciani's Buchla Cookbook",
+      "summary": "Suzanne Ciani's practical guide to patching and performing with Buchla modular synthesizers.",
+      "why_included": "A commenter called it amazing for both hardware and virtual modular-synth users.",
+      "evidence": "The recommendation praised the Cookbook as a hands-on learning resource across modular formats.",
+      "evidence_sources": [{"comment_id":"49770296","comment_url":"https://news.ycombinator.com/item?id=49735010#49770296","author":"outofpaper","excerpt":"This is an amazing resource, whether you're into hardware modular synths or virtual ones like VCV Rack and Cardinal.","kind":"recommendation","parent_comment_id":"49735010"}]
+    }
+  ]
+}

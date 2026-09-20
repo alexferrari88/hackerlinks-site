@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-20T05:18:04+02:00",
+  "id": "ai-arena",
+  "last_seen_at": "2026-09-20T05:18:04+02:00",
+  "latest_mention_id": "2026-09-20:ai-arena:49766966",
+  "mention_ids": [
+    "2026-09-20:ai-arena:49766966"
+  ],
+  "name": "AI Arena",
+  "slug": "ai-arena",
+  "summary": "A StarCraft II bot ladder for watching and competing with human-written agents.",
+  "thing_url": "https://aiarena.net/",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it for bot matches and ladder participation."
+}

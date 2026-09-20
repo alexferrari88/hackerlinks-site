@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter finds AlphaPhoenix highly useful for understanding theoretical electronics topics.",
+  "evidence_sources": [
+    {
+      "author": "dgellow",
+      "comment_id": "49765636",
+      "comment_url": "https://news.ycombinator.com/item?id=49720143#49765636",
+      "context": "first_hand_use",
+      "excerpt": "AlphaPhoenix YouTube channel is also a great source of information to clarify theoretical topics.",
+      "kind": "recommendation",
+      "parent_comment_id": "49765309"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49720143",
+  "id": "2026-09-20:alphaphoenix:49720143",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "alphaphoenix",
+  "rank": 7,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49720143",
+  "source_story_title": "The Secret Life of Circuits"
+}

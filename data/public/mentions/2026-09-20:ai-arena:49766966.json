@@ -1,0 +1,22 @@
+{
+  "evidence": "The recommendation invited readers to watch human-written bots or enter the ladder themselves.",
+  "evidence_sources": [
+    {
+      "author": "tweakimp",
+      "comment_id": "49770103",
+      "comment_url": "https://news.ycombinator.com/item?id=49766966#49770103",
+      "excerpt": "If you want to see human written bots in action or compete in the bot ladder yourself, try https://aiarena.net/",
+      "kind": "recommendation",
+      "parent_comment_id": "49766966"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49766966",
+  "id": "2026-09-20:ai-arena:49766966",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "ai-arena",
+  "rank": 5,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49766966",
+  "source_story_title": "Brood War Bench"
+}

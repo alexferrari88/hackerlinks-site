@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-20T05:18:04+02:00",
+  "id": "sdcc",
+  "last_seen_at": "2026-09-20T05:18:04+02:00",
+  "latest_mention_id": "2026-09-20:sdcc:49762744",
+  "mention_ids": [
+    "2026-09-20:sdcc:49762744"
+  ],
+  "name": "SDCC",
+  "slug": "sdcc",
+  "summary": "A retargetable C compiler for 8051, Z80, Game Boy, and other small devices.",
+  "thing_url": "https://sdcc.sourceforge.net/",
+  "times_seen": 1,
+  "why_included": "A commercial user reported excellent Z80-family results and bug-free recent Game Boy work."
+}

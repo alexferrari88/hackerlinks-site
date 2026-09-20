@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter personally favors the recipe and substitutes vegetable broth while omitting bacon.",
+  "evidence_sources": [
+    {
+      "author": "astura",
+      "comment_id": "49767313",
+      "comment_url": "https://news.ycombinator.com/item?id=49763296#49767313",
+      "context": "first_hand_use",
+      "excerpt": "7 onion soup is a favorite of mine. I'm vegetarian so I omit the bacon and use veggie broth.",
+      "kind": "recommendation",
+      "parent_comment_id": "49763668"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49763296",
+  "id": "2026-09-20:seven-onion-soup-with-parmesan-garlic-bread:49763296",
+  "is_repeat": false,
+  "issue_id": "2026-09-20",
+  "item_id": "seven-onion-soup-with-parmesan-garlic-bread",
+  "rank": 9,
+  "seen_at": "2026-09-20T05:18:04+02:00",
+  "source_story_id": "49763296",
+  "source_story_title": "San Francisco Onion Futures Company"
+}
