@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "birthday-party",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:birthday-party:49771966",
+  "mention_ids": [
+    "2026-09-21:birthday-party:49771966"
+  ],
+  "name": "birthday_party",
+  "slug": "birthday-party",
+  "summary": "A GPU project for searching partial cryptographic hash collisions and chasing records.",
+  "thing_url": "https://github.com/DavidBuchanan314/birthday_party",
+  "times_seen": 1,
+  "why_included": "Its author directly recommended it as an accessible spare-GPU challenge."
+}

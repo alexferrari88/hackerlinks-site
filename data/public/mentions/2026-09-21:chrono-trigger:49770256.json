@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter said Chrono Trigger still holds up exceptionally well compared with later console games.",
+  "evidence_sources": [
+    {
+      "author": "cpburns2009",
+      "comment_id": "49778630",
+      "comment_url": "https://news.ycombinator.com/item?id=49770256#49778630",
+      "context": "first_hand_use",
+      "excerpt": "Chrono Trigger holds up very well, and much better than many PSX/N64 games. It was at the pinickle of 16bit sprite graphics.",
+      "kind": "comparison",
+      "parent_comment_id": "49773109"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49770256",
+  "id": "2026-09-21:chrono-trigger:49770256",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "chrono-trigger",
+  "rank": 11,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49770256",
+  "source_story_title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow"
+}

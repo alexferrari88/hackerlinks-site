@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses ntfy to trigger device actions including volume changes, OTP forwarding, and Syncthing resyncs.",
+  "evidence_sources": [
+    {
+      "author": "KetoManx64",
+      "comment_id": "49780531",
+      "comment_url": "https://news.ycombinator.com/item?id=49772662#49780531",
+      "context": "first_hand_use",
+      "excerpt": "I use ntfy to send commands from within scripts to my android devices.",
+      "kind": "recommendation",
+      "parent_comment_id": "49776218"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49772662",
+  "id": "2026-09-21:ntfy:49772662",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "ntfy",
+  "rank": 4,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49772662",
+  "source_story_title": "Telling a Computer to Do Things"
+}

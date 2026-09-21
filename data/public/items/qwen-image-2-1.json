@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "qwen-image-2-1",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:qwen-image-2-1:49775499",
+  "mention_ids": [
+    "2026-09-21:qwen-image-2-1:49775499"
+  ],
+  "name": "Qwen Image 2.1",
+  "slug": "qwen-image-2-1",
+  "summary": "An image-generation model with unusually strong small-text rendering and open weights.",
+  "thing_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+  "times_seen": 1,
+  "why_included": "A prompt-to-UI builder found its text fidelity best among current open-weight models."
+}

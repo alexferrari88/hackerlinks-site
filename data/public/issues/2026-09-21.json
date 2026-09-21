@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T05:17:43+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-21",
+  "id": "2026-09-21",
+  "mention_ids": [
+    "2026-09-21:qwen-image-2-1:49775499",
+    "2026-09-21:stable-diffusion-cpp:49775499",
+    "2026-09-21:ublock-origin-lite-for-ios:49776729",
+    "2026-09-21:ntfy:49772662",
+    "2026-09-21:duckdb:49772662",
+    "2026-09-21:numpy-ts:49737326",
+    "2026-09-21:birthday-party:49771966",
+    "2026-09-21:craftcloud:49776627",
+    "2026-09-21:factoring-rsa-260:49771966",
+    "2026-09-21:death-open-yale-courses:49735159",
+    "2026-09-21:chrono-trigger:49770256",
+    "2026-09-21:dungeon-crawl-stone-soup:49770809"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

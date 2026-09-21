@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "death-open-yale-courses",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:death-open-yale-courses:49735159",
+  "mention_ids": [
+    "2026-09-21:death-open-yale-courses:49735159"
+  ],
+  "name": "Death \u2014 Open Yale Courses",
+  "slug": "death-open-yale-courses",
+  "summary": "A free Yale philosophy lecture series examining mortality, identity, and personal survival.",
+  "thing_url": "https://oyc.yale.edu/death/phil-176",
+  "times_seen": 1,
+  "why_included": "A commenter called the course great while linking a relevant identity lecture."
+}

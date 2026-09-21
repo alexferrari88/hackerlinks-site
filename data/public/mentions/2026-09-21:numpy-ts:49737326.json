@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter said numpy-ts benchmarks faster than NumPy proper without requiring WebAssembly.",
+  "evidence_sources": [
+    {
+      "author": "bern4444",
+      "comment_id": "49781086",
+      "comment_url": "https://news.ycombinator.com/item?id=49737326#49781086",
+      "excerpt": "There is also numpy-ts[1] which is measured to be faster than numpy proper if you want to skip the webassembly.",
+      "kind": "comparison",
+      "parent_comment_id": "49737326"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49737326",
+  "id": "2026-09-21:numpy-ts:49737326",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "numpy-ts",
+  "rank": 6,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49737326",
+  "source_story_title": "Faster NumPy in the Browser"
+}

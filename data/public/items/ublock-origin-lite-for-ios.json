@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "ublock-origin-lite-for-ios",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:ublock-origin-lite-for-ios:49776729",
+  "mention_ids": [
+    "2026-09-21:ublock-origin-lite-for-ios:49776729"
+  ],
+  "name": "uBlock Origin Lite for iOS",
+  "slug": "ublock-origin-lite-for-ios",
+  "summary": "A Safari content blocker that brings uBlock's lighter ruleset to iPhone and iPad.",
+  "thing_url": "https://apps.apple.com/us/app/ublock-origin-lite/id6745342698",
+  "times_seen": 1,
+  "why_included": "A new user immediately regretted not installing the iOS blocker sooner."
+}

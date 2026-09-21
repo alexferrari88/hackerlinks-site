@@ -2081,8 +2081,8 @@
     {
       "name": "DuckDB",
       "first_reported_at": "2026-05-30T21:12:13Z",
-      "last_reported_at": "2026-05-30T21:12:13Z",
-      "times_reported": 1
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 2
     },
     {
       "name": "DuckDNS",
@@ -9456,6 +9456,72 @@
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
       "last_reported_at": "2026-05-15T21:17:01Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Qwen Image 2.1",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "stable-diffusion.cpp",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "uBlock Origin Lite for iOS",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ntfy",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "numpy-ts",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "birthday_party",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Craftcloud",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Factoring RSA-260",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Death — Open Yale Courses",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Chrono Trigger",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dungeon Crawl Stone Soup",
+      "first_reported_at": "2026-09-21T05:17:43+02:00",
+      "last_reported_at": "2026-09-21T05:17:43+02:00",
       "times_reported": 1
     }
   ]

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Qwen Image 2.1's text rendering and small-text fidelity after comparative testing.",
+  "evidence_sources": [
+    {
+      "author": "jjcm",
+      "comment_id": "49776897",
+      "comment_url": "https://news.ycombinator.com/item?id=49775499#49776897",
+      "context": "evaluated",
+      "excerpt": "The text rendering definitely is much, much better than anything else on the open weights market right now. Small text fidelity is quite good.",
+      "kind": "comparison",
+      "parent_comment_id": "49775499"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49775499",
+  "id": "2026-09-21:qwen-image-2-1:49775499",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "qwen-image-2-1",
+  "rank": 1,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49775499",
+  "source_story_title": "Qwen Image 2.1"
+}

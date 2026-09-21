@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised access to every prior version and favored the current game.",
+  "evidence_sources": [
+    {
+      "author": "iamthemonster",
+      "comment_id": "49773003",
+      "comment_url": "https://news.ycombinator.com/item?id=49770809#49773003",
+      "context": "first_hand_use",
+      "excerpt": "I love that you can play every previous version for free too!  I THINK I like the current version the best",
+      "kind": "recommendation",
+      "parent_comment_id": "49772862"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49770809",
+  "id": "2026-09-21:dungeon-crawl-stone-soup:49770809",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "dungeon-crawl-stone-soup",
+  "rank": 12,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49770809",
+  "source_story_title": "An open source roguelike adventure through dungeons"
+}

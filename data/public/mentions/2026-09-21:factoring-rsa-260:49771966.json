@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter explicitly recommended Cognition's article for its technical detail.",
+  "evidence_sources": [
+    {
+      "author": "bertonvv",
+      "comment_id": "49775054",
+      "comment_url": "https://news.ycombinator.com/item?id=49771966#49775054",
+      "excerpt": "I recommend reading their article since it's much more thorough on details.",
+      "kind": "recommendation",
+      "parent_comment_id": "49771967"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49771966",
+  "id": "2026-09-21:factoring-rsa-260:49771966",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "factoring-rsa-260",
+  "rank": 9,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49771966",
+  "source_story_title": "RSA-896"
+}

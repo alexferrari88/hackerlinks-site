@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses and recommends Craftcloud for comparing outsourced fabrication options.",
+  "evidence_sources": [
+    {
+      "author": "steve-atx-7600",
+      "comment_id": "49777416",
+      "comment_url": "https://news.ycombinator.com/item?id=49776627#49777416",
+      "context": "first_hand_use",
+      "excerpt": "I use and recommend craftcloud",
+      "kind": "recommendation",
+      "parent_comment_id": "49776867"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49776627",
+  "id": "2026-09-21:craftcloud:49776627",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "craftcloud",
+  "rank": 8,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49776627",
+  "source_story_title": "Sherline Tools Is Going Out of Business"
+}

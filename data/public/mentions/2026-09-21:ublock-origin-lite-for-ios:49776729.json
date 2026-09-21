@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter had recently installed uBlock Origin Lite and strongly approved of the decision.",
+  "evidence_sources": [
+    {
+      "author": "consumer451",
+      "comment_id": "49778801",
+      "comment_url": "https://news.ycombinator.com/item?id=49776729#49778801",
+      "context": "first_hand_use",
+      "excerpt": "I finally got around to installing uBlock Origin Lite on iOS. I used to run the Firefox version on iOS, but that was discontinued long ago, and I never replaced it.  I feel like a bit of an idiot for not doing this sooner.",
+      "kind": "recommendation",
+      "parent_comment_id": "49777837"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49776729",
+  "id": "2026-09-21:ublock-origin-lite-for-ios:49776729",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "ublock-origin-lite-for-ios",
+  "rank": 3,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49776729",
+  "source_story_title": "ChatGPT now knows what you do on other websites via ad collector"
+}

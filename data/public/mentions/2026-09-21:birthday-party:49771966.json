@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommended partial hash-collision hunting and said the current record took about one GPU-day.",
+  "evidence_sources": [
+    {
+      "author": "Retr0id",
+      "comment_id": "49774827",
+      "comment_url": "https://news.ycombinator.com/item?id=49771966#49774827",
+      "context": "author_or_maintainer",
+      "excerpt": "If anyone else has spare GPU hours they don't know what to do with, may I recommend partial hash collisions:",
+      "kind": "recommendation",
+      "parent_comment_id": "49771966"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49771966",
+  "id": "2026-09-21:birthday-party:49771966",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "birthday-party",
+  "rank": 7,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49771966",
+  "source_story_title": "RSA-896"
+}

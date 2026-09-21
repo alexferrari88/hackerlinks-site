@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "numpy-ts",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:numpy-ts:49737326",
+  "mention_ids": [
+    "2026-09-21:numpy-ts:49737326"
+  ],
+  "name": "numpy-ts",
+  "slug": "numpy-ts",
+  "summary": "A TypeScript NumPy-style array library positioned as a fast WebAssembly-free option.",
+  "thing_url": "https://numpyts.dev/latest/performance/overview",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as the faster path when avoiding WebAssembly."
+}

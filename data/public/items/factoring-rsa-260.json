@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "factoring-rsa-260",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:factoring-rsa-260:49771966",
+  "mention_ids": [
+    "2026-09-21:factoring-rsa-260:49771966"
+  ],
+  "name": "Factoring RSA-260",
+  "slug": "factoring-rsa-260",
+  "summary": "A technical account of porting CADO-NFS to GPUs for a large RSA factorization.",
+  "thing_url": "https://cognition.com/blog/factoring-rsa-260",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as the more thorough explanation of the GPU factoring work."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "dungeon-crawl-stone-soup",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:dungeon-crawl-stone-soup:49770809",
+  "mention_ids": [
+    "2026-09-21:dungeon-crawl-stone-soup:49770809"
+  ],
+  "name": "Dungeon Crawl Stone Soup",
+  "slug": "dungeon-crawl-stone-soup",
+  "summary": "A free open-source roguelike with playable historical versions and evolving mechanics.",
+  "thing_url": "https://crawl.develz.org/",
+  "times_seen": 1,
+  "why_included": "A returning player loved the version archive and preferred the current release."
+}

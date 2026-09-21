@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter expects DuckDB's JSON reader to help investigate files too large or awkward for jq.",
+  "evidence_sources": [
+    {
+      "author": "ccapitalK",
+      "comment_id": "49773285",
+      "comment_url": "https://news.ycombinator.com/item?id=49772662#49773285",
+      "excerpt": "This might actually be useful the next time I need to investigate a massive json file (`jq` can only go so far).",
+      "kind": "recommendation",
+      "parent_comment_id": "49772662"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49772662",
+  "id": "2026-09-21:duckdb:49772662",
+  "is_repeat": true,
+  "issue_id": "2026-09-21",
+  "item_id": "duckdb",
+  "rank": 5,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49772662",
+  "source_story_title": "Telling a Computer to Do Things"
+}

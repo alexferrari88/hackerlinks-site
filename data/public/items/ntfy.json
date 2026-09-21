@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "ntfy",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:ntfy:49772662",
+  "mention_ids": [
+    "2026-09-21:ntfy:49772662"
+  ],
+  "name": "ntfy",
+  "slug": "ntfy",
+  "summary": "An HTTP push-notification service for connecting scripts to phones and desktops.",
+  "thing_url": "https://ntfy.sh/",
+  "times_seen": 1,
+  "why_included": "A user described a practical ntfy-plus-Tasker automation loop on Android."
+}

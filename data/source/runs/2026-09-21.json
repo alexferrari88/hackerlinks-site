@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-21",
+  "generated_at": "2026-09-21T05:17:43+02:00",
+  "summary": "Twelve comment-endorsed developer tools, privacy utilities, learning resources, services, and games from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-21.json",
+    "sha256": "f668b352591cf1eba537f7ca8ddde55d7616acddd44294df6a95ebf59e265168",
+    "bytes": 1920610,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3205,
+    "fetched_item_count": 3235,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Qwen Image 2.1",
+      "category": "AI & Local Models",
+      "thing_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "hn_url": "https://news.ycombinator.com/item?id=49775499",
+      "source_story_title": "Qwen Image 2.1",
+      "summary": "An image-generation model with unusually strong small-text rendering and open weights.",
+      "why_included": "A prompt-to-UI builder found its text fidelity best among current open-weight models.",
+      "evidence": "The commenter praised Qwen Image 2.1's text rendering and small-text fidelity after comparative testing.",
+      "evidence_sources": [{"comment_id":"49776897","comment_url":"https://news.ycombinator.com/item?id=49775499#49776897","author":"jjcm","excerpt":"The text rendering definitely is much, much better than anything else on the open weights market right now. Small text fidelity is quite good.","kind":"comparison","context":"evaluated","parent_comment_id":"49775499"}]
+    },
+    {
+      "name": "stable-diffusion.cpp",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/leejet/stable-diffusion.cpp",
+      "hn_url": "https://news.ycombinator.com/item?id=49775499",
+      "source_story_title": "Qwen Image 2.1",
+      "summary": "A C/C++ diffusion-model inference engine with day-one Qwen Image 2.1 support.",
+      "why_included": "A user highlighted its immediate support for the newly released image model.",
+      "evidence": "The commenter uses stable-diffusion.cpp and noted its day-one Qwen Image 2.1 support.",
+      "evidence_sources": [{"comment_id":"49776907","comment_url":"https://news.ycombinator.com/item?id=49775499#49776907","author":"nkhgfugjk","excerpt":"I am using sd.cpp, which is the cousin of llama.cpp:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49775954"}]
+    },
+    {
+      "name": "uBlock Origin Lite for iOS",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://apps.apple.com/us/app/ublock-origin-lite/id6745342698",
+      "hn_url": "https://news.ycombinator.com/item?id=49776729",
+      "source_story_title": "ChatGPT now knows what you do on other websites via ad collector",
+      "summary": "A Safari content blocker that brings uBlock's lighter ruleset to iPhone and iPad.",
+      "why_included": "A new user immediately regretted not installing the iOS blocker sooner.",
+      "evidence": "The commenter had recently installed uBlock Origin Lite and strongly approved of the decision.",
+      "evidence_sources": [{"comment_id":"49778801","comment_url":"https://news.ycombinator.com/item?id=49776729#49778801","author":"consumer451","excerpt":"I finally got around to installing uBlock Origin Lite on iOS. I used to run the Firefox version on iOS, but that was discontinued long ago, and I never replaced it.  I feel like a bit of an idiot for not doing this sooner.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49777837"}]
+    },
+    {
+      "name": "ntfy",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://ntfy.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49772662",
+      "source_story_title": "Telling a Computer to Do Things",
+      "summary": "An HTTP push-notification service for connecting scripts to phones and desktops.",
+      "why_included": "A user described a practical ntfy-plus-Tasker automation loop on Android.",
+      "evidence": "The commenter uses ntfy to trigger device actions including volume changes, OTP forwarding, and Syncthing resyncs.",
+      "evidence_sources": [{"comment_id":"49780531","comment_url":"https://news.ycombinator.com/item?id=49772662#49780531","author":"KetoManx64","excerpt":"I use ntfy to send commands from within scripts to my android devices.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49776218"}]
+    },
+    {
+      "name": "DuckDB",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://duckdb.org/docs/current/data/json/overview",
+      "hn_url": "https://news.ycombinator.com/item?id=49772662",
+      "source_story_title": "Telling a Computer to Do Things",
+      "summary": "An in-process analytical database whose REPL can inspect large JSON files directly.",
+      "why_included": "A commenter identified it as a useful step beyond jq for massive JSON investigations.",
+      "evidence": "The commenter expects DuckDB's JSON reader to help investigate files too large or awkward for jq.",
+      "evidence_sources": [{"comment_id":"49773285","comment_url":"https://news.ycombinator.com/item?id=49772662#49773285","author":"ccapitalK","excerpt":"This might actually be useful the next time I need to investigate a massive json file (`jq` can only go so far).","kind":"recommendation","parent_comment_id":"49772662"}]
+    },
+    {
+      "name": "numpy-ts",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://numpyts.dev/latest/performance/overview",
+      "hn_url": "https://news.ycombinator.com/item?id=49737326",
+      "source_story_title": "Faster NumPy in the Browser",
+      "summary": "A TypeScript NumPy-style array library positioned as a fast WebAssembly-free option.",
+      "why_included": "A commenter recommended it as the faster path when avoiding WebAssembly.",
+      "evidence": "The commenter said numpy-ts benchmarks faster than NumPy proper without requiring WebAssembly.",
+      "evidence_sources": [{"comment_id":"49781086","comment_url":"https://news.ycombinator.com/item?id=49737326#49781086","author":"bern4444","excerpt":"There is also numpy-ts[1] which is measured to be faster than numpy proper if you want to skip the webassembly.","kind":"comparison","parent_comment_id":"49737326"}]
+    },
+    {
+      "name": "birthday_party",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/DavidBuchanan314/birthday_party",
+      "hn_url": "https://news.ycombinator.com/item?id=49771966",
+      "source_story_title": "RSA-896",
+      "summary": "A GPU project for searching partial cryptographic hash collisions and chasing records.",
+      "why_included": "Its author directly recommended it as an accessible spare-GPU challenge.",
+      "evidence": "The commenter recommended partial hash-collision hunting and said the current record took about one GPU-day.",
+      "evidence_sources": [{"comment_id":"49774827","comment_url":"https://news.ycombinator.com/item?id=49771966#49774827","author":"Retr0id","excerpt":"If anyone else has spare GPU hours they don't know what to do with, may I recommend partial hash collisions:","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":"49771966"}]
+    },
+    {
+      "name": "Craftcloud",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://craftcloud3d.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49776627",
+      "source_story_title": "Sherline Tools Is Going Out of Business",
+      "summary": "A marketplace comparing global quotes for outsourced 3D printing and CNC machining.",
+      "why_included": "A repeat customer explicitly recommended it for finding suitable domestic print providers.",
+      "evidence": "The commenter uses and recommends Craftcloud for comparing outsourced fabrication options.",
+      "evidence_sources": [{"comment_id":"49777416","comment_url":"https://news.ycombinator.com/item?id=49776627#49777416","author":"steve-atx-7600","excerpt":"I use and recommend craftcloud","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49776867"}]
+    },
+    {
+      "name": "Factoring RSA-260",
+      "category": "Watch & Learn",
+      "thing_url": "https://cognition.com/blog/factoring-rsa-260",
+      "hn_url": "https://news.ycombinator.com/item?id=49771966",
+      "source_story_title": "RSA-896",
+      "summary": "A technical account of porting CADO-NFS to GPUs for a large RSA factorization.",
+      "why_included": "A commenter recommended it as the more thorough explanation of the GPU factoring work.",
+      "evidence": "The commenter explicitly recommended Cognition's article for its technical detail.",
+      "evidence_sources": [{"comment_id":"49775054","comment_url":"https://news.ycombinator.com/item?id=49771966#49775054","author":"bertonvv","excerpt":"I recommend reading their article since it's much more thorough on details.","kind":"recommendation","parent_comment_id":"49771967"}]
+    },
+    {
+      "name": "Death — Open Yale Courses",
+      "category": "Watch & Learn",
+      "thing_url": "https://oyc.yale.edu/death/phil-176",
+      "hn_url": "https://news.ycombinator.com/item?id=49735159",
+      "source_story_title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "summary": "A free Yale philosophy lecture series examining mortality, identity, and personal survival.",
+      "why_included": "A commenter called the course great while linking a relevant identity lecture.",
+      "evidence": "The commenter recommended Yale's free Death series as a useful treatment of personal identity.",
+      "evidence_sources": [{"comment_id":"49776649","comment_url":"https://news.ycombinator.com/item?id=49735159#49776649","author":"tenuousemphasis","excerpt":"There's a great free Yale lecture series called Death that goes into this.","kind":"recommendation","parent_comment_id":"49775711"}]
+    },
+    {
+      "name": "Chrono Trigger",
+      "category": "Games & Systems",
+      "thing_url": "https://store.steampowered.com/app/613830/CHRONO_TRIGGER",
+      "hn_url": "https://news.ycombinator.com/item?id=49770256",
+      "source_story_title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "summary": "A classic time-travel JRPG whose 16-bit visuals and design still hold up.",
+      "why_included": "A repeat player strongly endorsed its lasting quality across emulator and DS playthroughs.",
+      "evidence": "The commenter said Chrono Trigger still holds up exceptionally well compared with later console games.",
+      "evidence_sources": [{"comment_id":"49778630","comment_url":"https://news.ycombinator.com/item?id=49770256#49778630","author":"cpburns2009","excerpt":"Chrono Trigger holds up very well, and much better than many PSX/N64 games. It was at the pinickle of 16bit sprite graphics.","kind":"comparison","context":"first_hand_use","parent_comment_id":"49773109"}]
+    },
+    {
+      "name": "Dungeon Crawl Stone Soup",
+      "category": "Games & Systems",
+      "thing_url": "https://crawl.develz.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49770809",
+      "source_story_title": "An open source roguelike adventure through dungeons",
+      "summary": "A free open-source roguelike with playable historical versions and evolving mechanics.",
+      "why_included": "A returning player loved the version archive and preferred the current release.",
+      "evidence": "The commenter praised access to every prior version and favored the current game.",
+      "evidence_sources": [{"comment_id":"49773003","comment_url":"https://news.ycombinator.com/item?id=49770809#49773003","author":"iamthemonster","excerpt":"I love that you can play every previous version for free too!  I THINK I like the current version the best","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49772862"}]
+    }
+  ]
+}

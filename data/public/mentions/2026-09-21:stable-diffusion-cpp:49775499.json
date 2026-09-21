@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses stable-diffusion.cpp and noted its day-one Qwen Image 2.1 support.",
+  "evidence_sources": [
+    {
+      "author": "nkhgfugjk",
+      "comment_id": "49776907",
+      "comment_url": "https://news.ycombinator.com/item?id=49775499#49776907",
+      "context": "first_hand_use",
+      "excerpt": "I am using sd.cpp, which is the cousin of llama.cpp:",
+      "kind": "recommendation",
+      "parent_comment_id": "49775954"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49775499",
+  "id": "2026-09-21:stable-diffusion-cpp:49775499",
+  "is_repeat": false,
+  "issue_id": "2026-09-21",
+  "item_id": "stable-diffusion-cpp",
+  "rank": 2,
+  "seen_at": "2026-09-21T05:17:43+02:00",
+  "source_story_id": "49775499",
+  "source_story_title": "Qwen Image 2.1"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-21T05:17:43+02:00",
+  "id": "chrono-trigger",
+  "last_seen_at": "2026-09-21T05:17:43+02:00",
+  "latest_mention_id": "2026-09-21:chrono-trigger:49770256",
+  "mention_ids": [
+    "2026-09-21:chrono-trigger:49770256"
+  ],
+  "name": "Chrono Trigger",
+  "slug": "chrono-trigger",
+  "summary": "A classic time-travel JRPG whose 16-bit visuals and design still hold up.",
+  "thing_url": "https://store.steampowered.com/app/613830/CHRONO_TRIGGER",
+  "times_seen": 1,
+  "why_included": "A repeat player strongly endorsed its lasting quality across emulator and DS playthroughs."
+}
