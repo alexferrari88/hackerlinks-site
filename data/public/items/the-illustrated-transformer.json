@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "the-illustrated-transformer",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:the-illustrated-transformer:49792342",
+  "mention_ids": [
+    "2026-09-22:the-illustrated-transformer:49792342"
+  ],
+  "name": "The Illustrated Transformer",
+  "slug": "the-illustrated-transformer",
+  "summary": "A visual, beginner-friendly walkthrough of the Transformer neural-network architecture.",
+  "thing_url": "https://jalammar.github.io/illustrated-transformer/",
+  "times_seen": 1,
+  "why_included": "A commenter gave it an unusually direct recommendation for newcomers."
+}

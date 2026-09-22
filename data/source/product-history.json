@@ -9523,6 +9523,72 @@
       "first_reported_at": "2026-09-21T05:17:43+02:00",
       "last_reported_at": "2026-09-21T05:17:43+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "SelfControl",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Bazel",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "mini-AGI",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pyodide",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DFlash 2",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DeepSeek-V4.1-Flash",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Illustrated Transformer",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "HERMES radio",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Intercept Snowden Archive",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Grim Fandango Remastered",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ogre Battle 64: Person of Lordly Caliber",
+      "first_reported_at": "2026-09-22T05:18:06+02:00",
+      "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
     }
   ]
 }

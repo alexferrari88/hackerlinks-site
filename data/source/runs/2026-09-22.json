@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "run_date": "2026-09-22",
+  "generated_at": "2026-09-22T05:18:06+02:00",
+  "summary": "Eleven comment-endorsed tools, models, learning resources, communications projects, archives, and games from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-22.json",
+    "sha256": "c50259d1f5c5d3bf46302e7e12998d92335f841b647e005616e87e813b469477",
+    "bytes": 3393068,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5516,
+    "fetched_item_count": 5546,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "SelfControl",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.selfcontrolapp.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49787726",
+      "source_story_title": "Attention is all you have",
+      "summary": "A macOS blocker that locks distracting websites for a chosen period.",
+      "why_included": "A long-session user reported measurable improvements in attention, habits, and productivity.",
+      "evidence": "The commenter uses SelfControl in roughly 15-day blocks and says it has helped a lot.",
+      "evidence_sources": [{"comment_id":"49790240","comment_url":"https://news.ycombinator.com/item?id=49787726#49790240","author":"inshard","excerpt":"I use SelfControl for Mac and set the down time to around 15 days. No Youtube no news sites etc. Except HN. It's helped a lot, after a week you can notice measurable change in attention and habit and productivity.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49787726"}]
+    },
+    {
+      "name": "Bazel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://bazel.build/",
+      "hn_url": "https://news.ycombinator.com/item?id=49792067",
+      "source_story_title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "summary": "A scalable multi-language build and test system for large codebases and CI.",
+      "why_included": "A practitioner is using Bazel specifically to reduce agent-driven CI build times.",
+      "evidence": "The commenter uses Bazel to improve build times while adapting CI for agentic coding.",
+      "evidence_sources": [{"comment_id":"49792521","comment_url":"https://news.ycombinator.com/item?id=49792067#49792521","author":"mraza007","excerpt":"I have been using Bazel to improve our build times and ultimately building customized runners to improve our CI","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49792067"}]
+    },
+    {
+      "name": "mini-AGI",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/volotat/mini-AGI",
+      "hn_url": "https://news.ycombinator.com/item?id=49783133",
+      "source_story_title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "summary": "A toy continual-learning byte model trainable from scratch on 8GB VRAM.",
+      "why_included": "A commenter familiar with continual-learning approaches called it worth cloning.",
+      "evidence": "The commenter praised mini-AGI's ground-up approach to avoiding catastrophic forgetting.",
+      "evidence_sources": [{"comment_id":"49784414","comment_url":"https://news.ycombinator.com/item?id=49783133#49784414","author":"advael","excerpt":"Seems interesting, I've been messing with a lot of continuous learning approaches lately and it's cool to see something that's built from the ground up for avoiding catastrophic forgetting. Worth a clone for sure","kind":"recommendation","context":"evaluated","parent_comment_id":"49783133"}]
+    },
+    {
+      "name": "Pyodide",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pyodide.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49787142",
+      "source_story_title": "Python Workers are now generally available",
+      "summary": "A CPython-to-WebAssembly distribution for running Python in browsers and Node.js.",
+      "why_included": "A prominent Python practitioner strongly praised its role in the ecosystem.",
+      "evidence": "The commenter called Pyodide a particularly valuable part of the Python ecosystem.",
+      "evidence_sources": [{"comment_id":"49791438","comment_url":"https://news.ycombinator.com/item?id=49787142#49791438","author":"simonw","excerpt":"Pyodide is such a cool piece of the Python ecosystem. I hope Cloudflare consider throwing some money their direction:","kind":"recommendation","parent_comment_id":"49787142"}]
+    },
+    {
+      "name": "DFlash 2",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/collections/z-lab/dflash-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49787313",
+      "source_story_title": "M5 Ultra Mac Studio Review",
+      "summary": "A speculative-decoding drafter collection for accelerating supported local language models.",
+      "why_included": "A local-model user reported a large throughput increase with DFlash enabled.",
+      "evidence": "The commenter reported roughly 75–80 tokens per second on an M5 Max and said DFlash helps substantially.",
+      "evidence_sources": [{"comment_id":"49790334","comment_url":"https://news.ycombinator.com/item?id=49787313#49790334","author":"alex7o","excerpt":"So yeah base might be 30tps (I used iq4) but mtp or dflash help a lot and should be used when checking what is useful and what is not for running models as it is not fare to judge without them.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49787783"}]
+    },
+    {
+      "name": "DeepSeek-V4.1-Flash",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash",
+      "hn_url": "https://news.ycombinator.com/item?id=49789224",
+      "source_story_title": "Fable 5 – Median thinking declined in August",
+      "summary": "A multimodal mixture-of-experts model optimized for fast, cache-efficient agentic workloads.",
+      "why_included": "A Claude Code user positively described its visible reasoning during recent use.",
+      "evidence": "The commenter has been using DeepSeek 4.1 Flash with Claude Code and likes seeing its reasoning process.",
+      "evidence_sources": [{"comment_id":"49789746","comment_url":"https://news.ycombinator.com/item?id=49789224#49789746","author":"CamperBob2","excerpt":"I have been using CC with DeepSeek 4.1 Flash lately, and it's nice to see how the sausage is being made (even if it's partly illusory, as CoT always is.)","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49789716"}]
+    },
+    {
+      "name": "The Illustrated Transformer",
+      "category": "Watch & Learn",
+      "thing_url": "https://jalammar.github.io/illustrated-transformer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49792342",
+      "source_story_title": "Transformers Explained Visually",
+      "summary": "A visual, beginner-friendly walkthrough of the Transformer neural-network architecture.",
+      "why_included": "A commenter gave it an unusually direct recommendation for newcomers.",
+      "evidence": "The commenter strongly recommended The Illustrated Transformer to uninitiated readers.",
+      "evidence_sources": [{"comment_id":"49794250","comment_url":"https://news.ycombinator.com/item?id=49792342#49794250","author":"jasonjmcghee","excerpt":"For the uninitiated, I can't recommend enough, The Illustrated Transformer:","kind":"recommendation","parent_comment_id":"49792342"}]
+    },
+    {
+      "name": "HERMES radio",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://hermes.radio/",
+      "hn_url": "https://news.ycombinator.com/item?id=49789228",
+      "source_story_title": "HERMES radio enables voice and data communication over vast distances",
+      "summary": "An open shortwave terminal for resilient long-distance voice and digital communication.",
+      "why_included": "A commenter praised its practical deployment for emergency communications in the Global South.",
+      "evidence": "The commenter liked HERMES's resilient-communications goal and successful real-world distress use.",
+      "evidence_sources": [{"comment_id":"49789955","comment_url":"https://news.ycombinator.com/item?id=49789228#49789955","author":"wmchen","excerpt":"My initial thought is that this is a cool way to try and get more resilient communications technology in the hands of those who need it most in the Global South, and it's awesome it was successfully used for a Pan Pan.","kind":"recommendation","parent_comment_id":"49789228"}]
+    },
+    {
+      "name": "The Intercept Snowden Archive",
+      "category": "Watch & Learn",
+      "thing_url": "https://theintercept.com/series/snowden-archive",
+      "hn_url": "https://news.ycombinator.com/item?id=49780820",
+      "source_story_title": "What happened to the Snowden archive",
+      "summary": "The Intercept's collected reporting based on documents supplied by Edward Snowden.",
+      "why_included": "A reader recommended sampling the archive for its depth and overlooked details.",
+      "evidence": "The commenter found the reporting detailed and explicitly recommended reading several articles.",
+      "evidence_sources": [{"comment_id":"49781507","comment_url":"https://news.ycombinator.com/item?id=49780820#49781507","author":"rtpg","excerpt":"While I heard many of the headlines the reporting is very in depth, including a bunch of smaller details worth poking into. I'd recommend people who are interested and who haven't done so yet to just read a couple of these.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49780820"}]
+    },
+    {
+      "name": "Grim Fandango Remastered",
+      "category": "Games & Systems",
+      "thing_url": "https://www.doublefine.com/games/grim-fandango-remastered",
+      "hn_url": "https://news.ycombinator.com/item?id=49783495",
+      "source_story_title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "summary": "A remaster of the noir-inspired classic adventure game set in the afterlife.",
+      "why_included": "A longtime player called it one of the best adventure games ever made.",
+      "evidence": "The commenter praised Grim Fandango's art, music, writing, and enduring style.",
+      "evidence_sources": [{"comment_id":"49783677","comment_url":"https://news.ycombinator.com/item?id=49783495#49783677","author":"fredrikholm","excerpt":"The art work, the music, the writing. The whole game oozes of style that I've never seen replicated. Even some 20+ years later I can almost recite most of Act I from heart. If you haven't played this game and like adventure games, this is one of the best.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49783495"}]
+    },
+    {
+      "name": "Ogre Battle 64: Person of Lordly Caliber",
+      "category": "Games & Systems",
+      "thing_url": "https://www.nintendo.com/en-gb/Games/Nintendo-64/Ogre-Battle-64-Person-of-Lordly-Caliber-278414.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49780022",
+      "source_story_title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "summary": "A Nintendo 64 tactical RPG with branching endings and a deep class system.",
+      "why_included": "A 60-hour player ranked it among the system's best and Matsuno's finest peers.",
+      "evidence": "The commenter called Ogre Battle 64 one of the N64's best games and praised it over its predecessor.",
+      "evidence_sources": [{"comment_id":"49782437","comment_url":"https://news.ycombinator.com/item?id=49780022#49782437","author":"AdmiralAsshat","excerpt":"It was one of the best games of the system, and I think OB64 in particular gets overlooked next to Tactics Ogre and Final Fantasy Tactics due to the lack of Matsuno's involvement. But it's head and shoulders better than the original Ogre Battle, and can stand toe-to-toe with Matsuno's best.","kind":"comparison","context":"first_hand_use","parent_comment_id":"49780022"}]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Grim Fandango's art, music, writing, and enduring style.",
+  "evidence_sources": [
+    {
+      "author": "fredrikholm",
+      "comment_id": "49783677",
+      "comment_url": "https://news.ycombinator.com/item?id=49783495#49783677",
+      "context": "first_hand_use",
+      "excerpt": "The art work, the music, the writing. The whole game oozes of style that I've never seen replicated. Even some 20+ years later I can almost recite most of Act I from heart. If you haven't played this game and like adventure games, this is one of the best.",
+      "kind": "recommendation",
+      "parent_comment_id": "49783495"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49783495",
+  "id": "2026-09-22:grim-fandango-remastered:49783495",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "grim-fandango-remastered",
+  "rank": 10,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49783495",
+  "source_story_title": "Grim Fandango Puzzle Document (1996) [pdf]"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "bazel",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:bazel:49792067",
+  "mention_ids": [
+    "2026-09-22:bazel:49792067"
+  ],
+  "name": "Bazel",
+  "slug": "bazel",
+  "summary": "A scalable multi-language build and test system for large codebases and CI.",
+  "thing_url": "https://bazel.build/",
+  "times_seen": 1,
+  "why_included": "A practitioner is using Bazel specifically to reduce agent-driven CI build times."
+}

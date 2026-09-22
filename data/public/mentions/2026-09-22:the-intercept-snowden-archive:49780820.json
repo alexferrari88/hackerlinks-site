@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter found the reporting detailed and explicitly recommended reading several articles.",
+  "evidence_sources": [
+    {
+      "author": "rtpg",
+      "comment_id": "49781507",
+      "comment_url": "https://news.ycombinator.com/item?id=49780820#49781507",
+      "context": "first_hand_use",
+      "excerpt": "While I heard many of the headlines the reporting is very in depth, including a bunch of smaller details worth poking into. I'd recommend people who are interested and who haven't done so yet to just read a couple of these.",
+      "kind": "recommendation",
+      "parent_comment_id": "49780820"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49780820",
+  "id": "2026-09-22:the-intercept-snowden-archive:49780820",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "the-intercept-snowden-archive",
+  "rank": 9,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49780820",
+  "source_story_title": "What happened to the Snowden archive"
+}

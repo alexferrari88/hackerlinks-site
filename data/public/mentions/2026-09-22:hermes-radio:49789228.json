@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter liked HERMES's resilient-communications goal and successful real-world distress use.",
+  "evidence_sources": [
+    {
+      "author": "wmchen",
+      "comment_id": "49789955",
+      "comment_url": "https://news.ycombinator.com/item?id=49789228#49789955",
+      "excerpt": "My initial thought is that this is a cool way to try and get more resilient communications technology in the hands of those who need it most in the Global South, and it's awesome it was successfully used for a Pan Pan.",
+      "kind": "recommendation",
+      "parent_comment_id": "49789228"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49789228",
+  "id": "2026-09-22:hermes-radio:49789228",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "hermes-radio",
+  "rank": 8,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49789228",
+  "source_story_title": "HERMES radio enables voice and data communication over vast distances"
+}

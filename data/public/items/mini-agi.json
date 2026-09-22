@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "mini-agi",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:mini-agi:49783133",
+  "mention_ids": [
+    "2026-09-22:mini-agi:49783133"
+  ],
+  "name": "mini-AGI",
+  "slug": "mini-agi",
+  "summary": "A toy continual-learning byte model trainable from scratch on 8GB VRAM.",
+  "thing_url": "https://github.com/volotat/mini-AGI",
+  "times_seen": 1,
+  "why_included": "A commenter familiar with continual-learning approaches called it worth cloning."
+}

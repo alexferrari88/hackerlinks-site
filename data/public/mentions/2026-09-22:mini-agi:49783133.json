@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised mini-AGI's ground-up approach to avoiding catastrophic forgetting.",
+  "evidence_sources": [
+    {
+      "author": "advael",
+      "comment_id": "49784414",
+      "comment_url": "https://news.ycombinator.com/item?id=49783133#49784414",
+      "context": "evaluated",
+      "excerpt": "Seems interesting, I've been messing with a lot of continuous learning approaches lately and it's cool to see something that's built from the ground up for avoiding catastrophic forgetting. Worth a clone for sure",
+      "kind": "recommendation",
+      "parent_comment_id": "49783133"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49783133",
+  "id": "2026-09-22:mini-agi:49783133",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "mini-agi",
+  "rank": 3,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49783133",
+  "source_story_title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM"
+}

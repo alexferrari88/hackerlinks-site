@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reported roughly 75\u201380 tokens per second on an M5 Max and said DFlash helps substantially.",
+  "evidence_sources": [
+    {
+      "author": "alex7o",
+      "comment_id": "49790334",
+      "comment_url": "https://news.ycombinator.com/item?id=49787313#49790334",
+      "context": "first_hand_use",
+      "excerpt": "So yeah base might be 30tps (I used iq4) but mtp or dflash help a lot and should be used when checking what is useful and what is not for running models as it is not fare to judge without them.",
+      "kind": "recommendation",
+      "parent_comment_id": "49787783"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49787313",
+  "id": "2026-09-22:dflash-2:49787313",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "dflash-2",
+  "rank": 5,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49787313",
+  "source_story_title": "M5 Ultra Mac Studio Review"
+}

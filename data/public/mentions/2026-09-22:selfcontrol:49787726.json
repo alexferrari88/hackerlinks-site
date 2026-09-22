@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses SelfControl in roughly 15-day blocks and says it has helped a lot.",
+  "evidence_sources": [
+    {
+      "author": "inshard",
+      "comment_id": "49790240",
+      "comment_url": "https://news.ycombinator.com/item?id=49787726#49790240",
+      "context": "first_hand_use",
+      "excerpt": "I use SelfControl for Mac and set the down time to around 15 days. No Youtube no news sites etc. Except HN. It's helped a lot, after a week you can notice measurable change in attention and habit and productivity.",
+      "kind": "recommendation",
+      "parent_comment_id": "49787726"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49787726",
+  "id": "2026-09-22:selfcontrol:49787726",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "selfcontrol",
+  "rank": 1,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49787726",
+  "source_story_title": "Attention is all you have"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "the-intercept-snowden-archive",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:the-intercept-snowden-archive:49780820",
+  "mention_ids": [
+    "2026-09-22:the-intercept-snowden-archive:49780820"
+  ],
+  "name": "The Intercept Snowden Archive",
+  "slug": "the-intercept-snowden-archive",
+  "summary": "The Intercept's collected reporting based on documents supplied by Edward Snowden.",
+  "thing_url": "https://theintercept.com/series/snowden-archive",
+  "times_seen": 1,
+  "why_included": "A reader recommended sampling the archive for its depth and overlooked details."
+}

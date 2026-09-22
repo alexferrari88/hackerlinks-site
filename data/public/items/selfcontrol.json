@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "selfcontrol",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:selfcontrol:49787726",
+  "mention_ids": [
+    "2026-09-22:selfcontrol:49787726"
+  ],
+  "name": "SelfControl",
+  "slug": "selfcontrol",
+  "summary": "A macOS blocker that locks distracting websites for a chosen period.",
+  "thing_url": "https://www.selfcontrolapp.com/",
+  "times_seen": 1,
+  "why_included": "A long-session user reported measurable improvements in attention, habits, and productivity."
+}

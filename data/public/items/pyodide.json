@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "pyodide",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:pyodide:49787142",
+  "mention_ids": [
+    "2026-09-22:pyodide:49787142"
+  ],
+  "name": "Pyodide",
+  "slug": "pyodide",
+  "summary": "A CPython-to-WebAssembly distribution for running Python in browsers and Node.js.",
+  "thing_url": "https://pyodide.org/",
+  "times_seen": 1,
+  "why_included": "A prominent Python practitioner strongly praised its role in the ecosystem."
+}

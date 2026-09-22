@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter has been using DeepSeek 4.1 Flash with Claude Code and likes seeing its reasoning process.",
+  "evidence_sources": [
+    {
+      "author": "CamperBob2",
+      "comment_id": "49789746",
+      "comment_url": "https://news.ycombinator.com/item?id=49789224#49789746",
+      "context": "first_hand_use",
+      "excerpt": "I have been using CC with DeepSeek 4.1 Flash lately, and it's nice to see how the sausage is being made (even if it's partly illusory, as CoT always is.)",
+      "kind": "recommendation",
+      "parent_comment_id": "49789716"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49789224",
+  "id": "2026-09-22:deepseek-v4-1-flash:49789224",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "deepseek-v4-1-flash",
+  "rank": 6,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49789224",
+  "source_story_title": "Fable 5 \u2013 Median thinking declined in August"
+}

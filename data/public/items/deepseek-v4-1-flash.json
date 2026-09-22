@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "deepseek-v4-1-flash",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:deepseek-v4-1-flash:49789224",
+  "mention_ids": [
+    "2026-09-22:deepseek-v4-1-flash:49789224"
+  ],
+  "name": "DeepSeek-V4.1-Flash",
+  "slug": "deepseek-v4-1-flash",
+  "summary": "A multimodal mixture-of-experts model optimized for fast, cache-efficient agentic workloads.",
+  "thing_url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash",
+  "times_seen": 1,
+  "why_included": "A Claude Code user positively described its visible reasoning during recent use."
+}

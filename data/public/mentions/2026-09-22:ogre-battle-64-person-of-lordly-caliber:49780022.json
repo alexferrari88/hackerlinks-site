@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called Ogre Battle 64 one of the N64's best games and praised it over its predecessor.",
+  "evidence_sources": [
+    {
+      "author": "AdmiralAsshat",
+      "comment_id": "49782437",
+      "comment_url": "https://news.ycombinator.com/item?id=49780022#49782437",
+      "context": "first_hand_use",
+      "excerpt": "It was one of the best games of the system, and I think OB64 in particular gets overlooked next to Tactics Ogre and Final Fantasy Tactics due to the lack of Matsuno's involvement. But it's head and shoulders better than the original Ogre Battle, and can stand toe-to-toe with Matsuno's best.",
+      "kind": "comparison",
+      "parent_comment_id": "49780022"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49780022",
+  "id": "2026-09-22:ogre-battle-64-person-of-lordly-caliber:49780022",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "ogre-battle-64-person-of-lordly-caliber",
+  "rank": 11,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49780022",
+  "source_story_title": "Ogre Battle 64 Recompiled Project at 99.05%"
+}

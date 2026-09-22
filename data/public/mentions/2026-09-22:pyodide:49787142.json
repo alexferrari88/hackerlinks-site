@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter called Pyodide a particularly valuable part of the Python ecosystem.",
+  "evidence_sources": [
+    {
+      "author": "simonw",
+      "comment_id": "49791438",
+      "comment_url": "https://news.ycombinator.com/item?id=49787142#49791438",
+      "excerpt": "Pyodide is such a cool piece of the Python ecosystem. I hope Cloudflare consider throwing some money their direction:",
+      "kind": "recommendation",
+      "parent_comment_id": "49787142"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49787142",
+  "id": "2026-09-22:pyodide:49787142",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "pyodide",
+  "rank": 4,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49787142",
+  "source_story_title": "Python Workers are now generally available"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter strongly recommended The Illustrated Transformer to uninitiated readers.",
+  "evidence_sources": [
+    {
+      "author": "jasonjmcghee",
+      "comment_id": "49794250",
+      "comment_url": "https://news.ycombinator.com/item?id=49792342#49794250",
+      "excerpt": "For the uninitiated, I can't recommend enough, The Illustrated Transformer:",
+      "kind": "recommendation",
+      "parent_comment_id": "49792342"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49792342",
+  "id": "2026-09-22:the-illustrated-transformer:49792342",
+  "is_repeat": false,
+  "issue_id": "2026-09-22",
+  "item_id": "the-illustrated-transformer",
+  "rank": 7,
+  "seen_at": "2026-09-22T05:18:06+02:00",
+  "source_story_id": "49792342",
+  "source_story_title": "Transformers Explained Visually"
+}

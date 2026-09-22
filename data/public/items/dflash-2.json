@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-22T05:18:06+02:00",
+  "id": "dflash-2",
+  "last_seen_at": "2026-09-22T05:18:06+02:00",
+  "latest_mention_id": "2026-09-22:dflash-2:49787313",
+  "mention_ids": [
+    "2026-09-22:dflash-2:49787313"
+  ],
+  "name": "DFlash 2",
+  "slug": "dflash-2",
+  "summary": "A speculative-decoding drafter collection for accelerating supported local language models.",
+  "thing_url": "https://huggingface.co/collections/z-lab/dflash-2",
+  "times_seen": 1,
+  "why_included": "A local-model user reported a large throughput increase with DFlash enabled."
+}
