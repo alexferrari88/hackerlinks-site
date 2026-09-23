@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter called Access very good and wished Linux and macOS had an equivalent.",
+  "evidence_sources": [
+    {
+      "author": "post-it",
+      "comment_id": "49808617",
+      "comment_url": "https://news.ycombinator.com/item?id=49808023#49808617",
+      "context": "first_hand_use",
+      "excerpt": "Access is so good. I can't believe there's no universal equivalent for Linux and Mac.",
+      "kind": "recommendation",
+      "parent_comment_id": "49808557"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49808023",
+  "id": "2026-09-23:microsoft-access:49808023",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "microsoft-access",
+  "rank": 9,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49808023",
+  "source_story_title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived"
+}

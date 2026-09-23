@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T05:17:33+02:00",
+  "headline": "12 interesting things surfaced from HN on 2026-09-23",
+  "id": "2026-09-23",
+  "mention_ids": [
+    "2026-09-23:trainscanner:49780622",
+    "2026-09-23:text-classification-with-python-3-14-s-zstd-module:49797323",
+    "2026-09-23:information-theory-inference-and-learning-algorithms:49797323",
+    "2026-09-23:fail0verflow-s-ps3-hacking-presentation:49798204",
+    "2026-09-23:sharecleaner:49799965",
+    "2026-09-23:pi-memorisation:49785202",
+    "2026-09-23:love-is-a-dog-from-hell:49803635",
+    "2026-09-23:godot:49785609",
+    "2026-09-23:microsoft-access:49808023",
+    "2026-09-23:the-clicker:49799083",
+    "2026-09-23:innocuous:49794615",
+    "2026-09-23:pgdbf:49808023"
+  ],
+  "summary": {
+    "items_surfaced": 12,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

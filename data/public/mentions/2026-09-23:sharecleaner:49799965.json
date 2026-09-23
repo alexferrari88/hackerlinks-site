@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter recommends ShareCleaner for stripping trackers from links on iOS.",
+  "evidence_sources": [
+    {
+      "author": "toomuchtodo",
+      "comment_id": "49801278",
+      "comment_url": "https://news.ycombinator.com/item?id=49799965#49801278",
+      "context": "first_hand_use",
+      "excerpt": "I recommend https://sharecleaner.com/ for cleaning links of trackers when sharing from mobile. No affiliation, just a user on iOS.",
+      "kind": "recommendation",
+      "parent_comment_id": "49800880"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49799965",
+  "id": "2026-09-23:sharecleaner:49799965",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "sharecleaner",
+  "rank": 5,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49799965",
+  "source_story_title": "AI Has No Wisdom and Neither Will You"
+}

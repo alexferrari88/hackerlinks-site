@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-23T05:17:33+02:00",
+  "id": "information-theory-inference-and-learning-algorithms",
+  "last_seen_at": "2026-09-23T05:17:33+02:00",
+  "latest_mention_id": "2026-09-23:information-theory-inference-and-learning-algorithms:49797323",
+  "mention_ids": [
+    "2026-09-23:information-theory-inference-and-learning-algorithms:49797323"
+  ],
+  "name": "Information Theory, Inference, and Learning Algorithms",
+  "slug": "information-theory-inference-and-learning-algorithms",
+  "summary": "David MacKay's approachable textbook connecting information theory, inference, and learning.",
+  "thing_url": "https://www.inference.org.uk/itila/",
+  "times_seen": 1,
+  "why_included": "A commenter recommended it as an introductory treatment of the thread's core ideas."
+}

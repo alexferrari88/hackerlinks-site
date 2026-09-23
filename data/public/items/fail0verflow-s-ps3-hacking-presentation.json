@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-23T05:17:33+02:00",
+  "id": "fail0verflow-s-ps3-hacking-presentation",
+  "last_seen_at": "2026-09-23T05:17:33+02:00",
+  "latest_mention_id": "2026-09-23:fail0verflow-s-ps3-hacking-presentation:49798204",
+  "mention_ids": [
+    "2026-09-23:fail0verflow-s-ps3-hacking-presentation:49798204"
+  ],
+  "name": "fail0verflow's PS3 hacking presentation",
+  "slug": "fail0verflow-s-ps3-hacking-presentation",
+  "summary": "A console-hacking talk explaining the PlayStation 3's cryptographic failure story.",
+  "thing_url": "https://youtu.be/DUGGJpn2_zY",
+  "times_seen": 1,
+  "why_included": "A commenter called the presentation great, informative, and entertaining."
+}

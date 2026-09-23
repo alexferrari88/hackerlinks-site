@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-23T05:17:33+02:00",
+  "id": "trainscanner",
+  "last_seen_at": "2026-09-23T05:17:33+02:00",
+  "latest_mention_id": "2026-09-23:trainscanner:49780622",
+  "mention_ids": [
+    "2026-09-23:trainscanner:49780622"
+  ],
+  "name": "TrainScanner",
+  "slug": "trainscanner",
+  "summary": "An app that turns ordinary train videos into detailed line-scan photographs.",
+  "thing_url": "https://github.com/vitroid/TrainScanner",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommended it and highlighted the detailed results from regular cameras."
+}

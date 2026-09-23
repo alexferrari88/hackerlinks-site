@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised Godot's simplicity and power and compared its game-jam momentum favorably with Unity.",
+  "evidence_sources": [
+    {
+      "author": "lemmetellya",
+      "comment_id": "49795196",
+      "comment_url": "https://news.ycombinator.com/item?id=49785609#49795196",
+      "context": "evaluated",
+      "excerpt": "Godot is such a delight. Brings me back to working with Flixel and Flash game dev. It's really shaping up to be a powerful tool in a simple package, and it's eating Unity's lunch for game jams these days.",
+      "kind": "recommendation",
+      "parent_comment_id": "49785609"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49785609",
+  "id": "2026-09-23:godot:49785609",
+  "is_repeat": true,
+  "issue_id": "2026-09-23",
+  "item_id": "godot",
+  "rank": 8,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49785609",
+  "source_story_title": "First Shader from Zero in Godot 4"
+}

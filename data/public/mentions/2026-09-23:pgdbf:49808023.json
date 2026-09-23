@@ -1,0 +1,23 @@
+{
+  "evidence": "The author ran pgdbf on a schedule during migration and said it worked great.",
+  "evidence_sources": [
+    {
+      "author": "kstrauser",
+      "comment_id": "49808778",
+      "comment_url": "https://news.ycombinator.com/item?id=49808023#49808778",
+      "context": "production_use",
+      "excerpt": "For a while we had to run it as a cron job so that people could to data entry in an old VFP app but others could run fast reports on our web app with a postgres backend. It wasn't pretty, but it worked great and helped us get off that ancient stack.",
+      "kind": "recommendation",
+      "parent_comment_id": "49808023"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49808023",
+  "id": "2026-09-23:pgdbf:49808023",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "pgdbf",
+  "rank": 12,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49808023",
+  "source_story_title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived"
+}

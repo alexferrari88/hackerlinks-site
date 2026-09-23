@@ -3065,8 +3065,8 @@
     {
       "name": "Godot",
       "first_reported_at": "2026-04-25T21:08:06Z",
-      "last_reported_at": "2026-04-25T21:08:06Z",
-      "times_reported": 1
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 2
     },
     {
       "name": "godot-rust",
@@ -9588,6 +9588,72 @@
       "name": "Ogre Battle 64: Person of Lordly Caliber",
       "first_reported_at": "2026-09-22T05:18:06+02:00",
       "last_reported_at": "2026-09-22T05:18:06+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "TrainScanner",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Text classification with Python 3.14's zstd module",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Information Theory, Inference, and Learning Algorithms",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "fail0verflow's PS3 hacking presentation",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ShareCleaner",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pi Memorisation",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Love Is a Dog from Hell",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Microsoft Access",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Clicker",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Innocuous",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "pgdbf",
+      "first_reported_at": "2026-09-23T05:17:33+02:00",
+      "last_reported_at": "2026-09-23T05:17:33+02:00",
       "times_reported": 1
     }
   ]

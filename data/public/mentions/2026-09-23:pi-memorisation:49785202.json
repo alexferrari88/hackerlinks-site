@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter used the page's techniques and can recall sixty digits by place.",
+  "evidence_sources": [
+    {
+      "author": "KyleJune",
+      "comment_id": "49804323",
+      "comment_url": "https://news.ycombinator.com/item?id=49785202#49804323",
+      "context": "first_hand_use",
+      "excerpt": "I used the techniques described on this page to memorize pi. I've got 60 memorized where I can recall the digits by place.",
+      "kind": "recommendation",
+      "parent_comment_id": "49785202"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49785202",
+  "id": "2026-09-23:pi-memorisation:49785202",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "pi-memorisation",
+  "rank": 6,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49785202",
+  "source_story_title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)"
+}

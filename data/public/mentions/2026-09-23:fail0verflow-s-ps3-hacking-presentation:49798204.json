@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praised the fail0verflow talk as a strong explanation of the underlying bug.",
+  "evidence_sources": [
+    {
+      "author": "lathiat",
+      "comment_id": "49799199",
+      "comment_url": "https://news.ycombinator.com/item?id=49798204#49799199",
+      "context": "evaluated",
+      "excerpt": "And for the full fail story behind it, fail0verflow hacking the PS3 presentation is great and covers the bug:",
+      "kind": "recommendation",
+      "parent_comment_id": "49799145"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49798204",
+  "id": "2026-09-23:fail0verflow-s-ps3-hacking-presentation:49798204",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "fail0verflow-s-ps3-hacking-presentation",
+  "rank": 4,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49798204",
+  "source_story_title": "AMD's random number generator can't generate a 0?"
+}

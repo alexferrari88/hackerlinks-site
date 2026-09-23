@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-09-23",
+  "generated_at": "2026-09-23T05:17:33+02:00",
+  "summary": "Twelve comment-endorsed tools, learning resources, media, software, and a poetry collection from 30 fully crawled HN threads.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "12 items surfaced | 30/30 current front-page stories processed | history + run artifact updated.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-23.json",
+    "sha256": "ab56962280079b101bd1ae359c90592df9eee192f3a5cbec6c5e6d77653f0f48",
+    "bytes": 4226572,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6787,
+    "fetched_item_count": 6817,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "TrainScanner",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/vitroid/TrainScanner",
+      "hn_url": "https://news.ycombinator.com/item?id=49780622",
+      "source_story_title": "MUNI Heritage Weekend in San Francisco",
+      "summary": "An app that turns ordinary train videos into detailed line-scan photographs.",
+      "why_included": "A commenter directly recommended it and highlighted the detailed results from regular cameras.",
+      "evidence": "The commenter recommended TrainScanner for making line-scan images with an ordinary phone or camera.",
+      "evidence_sources": [{"comment_id":"49805414","comment_url":"https://news.ycombinator.com/item?id=49780622#49805414","author":"dllu","excerpt":"If you want to use a regular phone or camera, check out TrainScanner!","kind":"recommendation","context":"evaluated","parent_comment_id":"49803376"}]
+    },
+    {
+      "name": "Text classification with Python 3.14's zstd module",
+      "category": "Watch & Learn",
+      "thing_url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "hn_url": "https://news.ycombinator.com/item?id=49797323",
+      "source_story_title": "Can gzip be a language model?",
+      "summary": "A practical tutorial on using compression for text classification in Python.",
+      "why_included": "A commenter explicitly pointed readers to this directly relevant worked example.",
+      "evidence": "The commenter recommended the tutorial as a companion to the compression-based language-model discussion.",
+      "evidence_sources": [{"comment_id":"49798203","comment_url":"https://news.ycombinator.com/item?id=49797323#49798203","author":"networked","excerpt":"Check out \"Text classification with Python 3.14's zstd module\"","kind":"recommendation","parent_comment_id":"49798102"}]
+    },
+    {
+      "name": "Information Theory, Inference, and Learning Algorithms",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.inference.org.uk/itila/",
+      "hn_url": "https://news.ycombinator.com/item?id=49797323",
+      "source_story_title": "Can gzip be a language model?",
+      "summary": "David MacKay's approachable textbook connecting information theory, inference, and learning.",
+      "why_included": "A commenter recommended it as an introductory treatment of the thread's core ideas.",
+      "evidence": "The commenter said MacKay's textbook is worth reading for an introduction and broader applications.",
+      "evidence_sources": [{"comment_id":"49799246","comment_url":"https://news.ycombinator.com/item?id=49797323#49799246","author":"shoo","excerpt":"For anyone wanting an introductory text for information theory & that explores some of these connections & applications, it's worth checking out the late David MacKay's 2003 textbook Information Theory, Inference & Learning Algorithms","kind":"recommendation","parent_comment_id":"49799066"}]
+    },
+    {
+      "name": "fail0verflow's PS3 hacking presentation",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtu.be/DUGGJpn2_zY",
+      "hn_url": "https://news.ycombinator.com/item?id=49798204",
+      "source_story_title": "AMD's random number generator can't generate a 0?",
+      "summary": "A console-hacking talk explaining the PlayStation 3's cryptographic failure story.",
+      "why_included": "A commenter called the presentation great, informative, and entertaining.",
+      "evidence": "The commenter praised the fail0verflow talk as a strong explanation of the underlying bug.",
+      "evidence_sources": [{"comment_id":"49799199","comment_url":"https://news.ycombinator.com/item?id=49798204#49799199","author":"lathiat","excerpt":"And for the full fail story behind it, fail0verflow hacking the PS3 presentation is great and covers the bug:","kind":"recommendation","context":"evaluated","parent_comment_id":"49799145"}]
+    },
+    {
+      "name": "ShareCleaner",
+      "category": "Privacy & Networking",
+      "thing_url": "https://sharecleaner.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49799965",
+      "source_story_title": "AI Has No Wisdom and Neither Will You",
+      "summary": "An iOS utility that removes tracking parameters before links are shared.",
+      "why_included": "An unaffiliated iOS user gave it a direct recommendation for mobile sharing.",
+      "evidence": "The commenter recommends ShareCleaner for stripping trackers from links on iOS.",
+      "evidence_sources": [{"comment_id":"49801278","comment_url":"https://news.ycombinator.com/item?id=49799965#49801278","author":"toomuchtodo","excerpt":"I recommend https://sharecleaner.com/ for cleaning links of trackers when sharing from mobile. No affiliation, just a user on iOS.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49800880"}]
+    },
+    {
+      "name": "Pi Memorisation",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.ludism.org/mentat/PiMemorisation",
+      "hn_url": "https://news.ycombinator.com/item?id=49785202",
+      "source_story_title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "summary": "A mnemonic system for memorizing pi and recalling digits by position.",
+      "why_included": "A user successfully applied the method to memorize and index sixty digits.",
+      "evidence": "The commenter used the page's techniques and can recall sixty digits by place.",
+      "evidence_sources": [{"comment_id":"49804323","comment_url":"https://news.ycombinator.com/item?id=49785202#49804323","author":"KyleJune","excerpt":"I used the techniques described on this page to memorize pi. I've got 60 memorized where I can recall the digits by place.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49785202"}]
+    },
+    {
+      "name": "Love Is a Dog from Hell",
+      "category": "Books & Culture",
+      "thing_url": "https://www.harpercollins.com/products/love-is-a-dog-from-hell-charles-bukowski",
+      "hn_url": "https://news.ycombinator.com/item?id=49803635",
+      "source_story_title": "16-bit Intel 8088 chip (c. 1985)",
+      "summary": "Charles Bukowski's gritty poetry collection about love, loneliness, and vulnerability.",
+      "why_included": "A longtime poetry buyer singled it out as a favorite Bukowski collection.",
+      "evidence": "The commenter named Love Is a Dog from Hell as their favorite Bukowski poetry book.",
+      "evidence_sources": [{"comment_id":"49805134","comment_url":"https://news.ycombinator.com/item?id=49803635#49805134","author":"ggerules","excerpt":"My favorite Bukowski book of poetry \"Love is a Dog from Hell\". Very Bukowski.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49803721"}]
+    },
+    {
+      "name": "Godot",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://godotengine.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49785609",
+      "source_story_title": "First Shader from Zero in Godot 4",
+      "summary": "An open-source game engine combining a compact workflow with broad capabilities.",
+      "why_included": "Fresh praise framed Godot as powerful, delightful, and increasingly dominant for game jams.",
+      "evidence": "The commenter praised Godot's simplicity and power and compared its game-jam momentum favorably with Unity.",
+      "evidence_sources": [{"comment_id":"49795196","comment_url":"https://news.ycombinator.com/item?id=49785609#49795196","author":"lemmetellya","excerpt":"Godot is such a delight. Brings me back to working with Flixel and Flash game dev. It's really shaping up to be a powerful tool in a simple package, and it's eating Unity's lunch for game jams these days.","kind":"recommendation","context":"evaluated","parent_comment_id":"49785609"}]
+    },
+    {
+      "name": "Microsoft Access",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.microsoft.com/en-us/microsoft-365/access",
+      "hn_url": "https://news.ycombinator.com/item?id=49808023",
+      "source_story_title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "summary": "A Windows desktop database builder for forms, reports, and small applications.",
+      "why_included": "A commenter strongly praised its niche between spreadsheets and larger database systems.",
+      "evidence": "The commenter called Access very good and wished Linux and macOS had an equivalent.",
+      "evidence_sources": [{"comment_id":"49808617","comment_url":"https://news.ycombinator.com/item?id=49808023#49808617","author":"post-it","excerpt":"Access is so good. I can't believe there's no universal equivalent for Linux and Mac.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49808557"}]
+    },
+    {
+      "name": "The Clicker",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/michigandrew/the-clicker",
+      "hn_url": "https://news.ycombinator.com/item?id=49799083",
+      "source_story_title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "summary": "An open-source device that mutes live ads and skips recorded commercials.",
+      "why_included": "A commenter reported actively using it for automatic ad muting and skipping.",
+      "evidence": "The commenter says the linked project automatically mutes live ads and skips recorded ones.",
+      "evidence_sources": [{"comment_id":"49801367","comment_url":"https://news.ycombinator.com/item?id=49799083#49801367","author":"gonzogato","excerpt":"I haven’t gotten to the “replace” bit yet, but I’m automatically muting live ads and auto skipping through recorded ones:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49800822"}]
+    },
+    {
+      "name": "Innocuous",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/sutt/innocuous",
+      "hn_url": "https://news.ycombinator.com/item?id=49794615",
+      "source_story_title": "Spymarks, not Watermarks",
+      "summary": "A library for hiding steganographic signals in language-model output.",
+      "why_included": "Its author reported a working implementation closely matching Anthropic's watermark approach.",
+      "evidence": "The author says Innocuous implements LLM-output steganography and works with last year's llama.cpp.",
+      "evidence_sources": [{"comment_id":"49811004","comment_url":"https://news.ycombinator.com/item?id=49794615#49811004","author":"stillsut","excerpt":"I actually wrote a library to do stego with LLM outputs last year and it turned out to be an almost exact implementation of the Anthropic watermark algo.","kind":"author_context","context":"author_or_maintainer","parent_comment_id":"49796270"}]
+    },
+    {
+      "name": "pgdbf",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/kstrauser/pgdbf",
+      "hn_url": "https://news.ycombinator.com/item?id=49808023",
+      "source_story_title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "summary": "A command-line converter that loads Visual FoxPro DBF files into PostgreSQL.",
+      "why_included": "Its author described successful production use during a legacy-system migration.",
+      "evidence": "The author ran pgdbf on a schedule during migration and said it worked great.",
+      "evidence_sources": [{"comment_id":"49808778","comment_url":"https://news.ycombinator.com/item?id=49808023#49808778","author":"kstrauser","excerpt":"For a while we had to run it as a cron job so that people could to data entry in an old VFP app but others could run fast reports on our web app with a postgres backend. It wasn't pretty, but it worked great and helped us get off that ancient stack.","kind":"recommendation","context":"production_use","parent_comment_id":"49808023"}]
+    }
+  ]
+}

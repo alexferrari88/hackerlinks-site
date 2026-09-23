@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommended the tutorial as a companion to the compression-based language-model discussion.",
+  "evidence_sources": [
+    {
+      "author": "networked",
+      "comment_id": "49798203",
+      "comment_url": "https://news.ycombinator.com/item?id=49797323#49798203",
+      "excerpt": "Check out \"Text classification with Python 3.14's zstd module\"",
+      "kind": "recommendation",
+      "parent_comment_id": "49798102"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49797323",
+  "id": "2026-09-23:text-classification-with-python-3-14-s-zstd-module:49797323",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "text-classification-with-python-3-14-s-zstd-module",
+  "rank": 2,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49797323",
+  "source_story_title": "Can gzip be a language model?"
+}

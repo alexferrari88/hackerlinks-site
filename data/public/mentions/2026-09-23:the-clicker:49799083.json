@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter says the linked project automatically mutes live ads and skips recorded ones.",
+  "evidence_sources": [
+    {
+      "author": "gonzogato",
+      "comment_id": "49801367",
+      "comment_url": "https://news.ycombinator.com/item?id=49799083#49801367",
+      "context": "first_hand_use",
+      "excerpt": "I haven\u2019t gotten to the \u201creplace\u201d bit yet, but I\u2019m automatically muting live ads and auto skipping through recorded ones:",
+      "kind": "recommendation",
+      "parent_comment_id": "49800822"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49799083",
+  "id": "2026-09-23:the-clicker:49799083",
+  "is_repeat": false,
+  "issue_id": "2026-09-23",
+  "item_id": "the-clicker",
+  "rank": 10,
+  "seen_at": "2026-09-23T05:17:33+02:00",
+  "source_story_id": "49799083",
+  "source_story_title": "9 Ads per Minute: FIFA Cup 26 \u2013 \"the price of the beautiful game\""
+}
