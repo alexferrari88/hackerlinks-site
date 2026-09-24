@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "audio-cpp",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:audio-cpp:49817615",
+  "mention_ids": [
+    "2026-09-24:audio-cpp:49817615"
+  ],
+  "name": "audio.cpp",
+  "slug": "audio-cpp",
+  "summary": "A C++ audio-model inference engine recommended as an easy way to try multiple models.",
+  "thing_url": "https://github.com/0xShug0/audio.cpp",
+  "times_seen": 1,
+  "why_included": "A commenter directly endorsed its utility while comparing text-to-speech options."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter links the project's code and says they love the idea, noting its age.",
+  "evidence_sources": [
+    {
+      "author": "jottinger",
+      "comment_id": "49815519",
+      "comment_url": "https://news.ycombinator.com/item?id=49815519",
+      "excerpt": "With that said, I love the idea.",
+      "kind": "recommendation",
+      "parent_comment_id": "49814236"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49814236",
+  "id": "2026-09-24:z80-repl:49814236",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "z80-repl",
+  "rank": 8,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49814236",
+  "source_story_title": "Z80 REPL (2018)"
+}

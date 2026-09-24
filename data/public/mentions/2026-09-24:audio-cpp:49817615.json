@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls audio.cpp an easy way to run a range of audio models.",
+  "evidence_sources": [
+    {
+      "author": "VariousPrograms",
+      "comment_id": "49820311",
+      "comment_url": "https://news.ycombinator.com/item?id=49820311",
+      "context": "first_hand_use",
+      "excerpt": "is an easy way to run a lot of different models.",
+      "kind": "recommendation",
+      "parent_comment_id": "49819931"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49817615",
+  "id": "2026-09-24:audio-cpp:49817615",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "audio-cpp",
+  "rank": 5,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49817615",
+  "source_story_title": "Gemini 3.8 text-to-speech"
+}

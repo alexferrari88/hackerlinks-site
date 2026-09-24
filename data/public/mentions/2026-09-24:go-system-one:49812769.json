@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses the linked Gemma-based project and says it seems less distracted by ordering.",
+  "evidence_sources": [
+    {
+      "author": "rcarmo",
+      "comment_id": "49822399",
+      "comment_url": "https://news.ycombinator.com/item?id=49822399",
+      "context": "first_hand_use",
+      "excerpt": "uses Gemma, and that's partly why. Seems less prone to getting distracted with ordering.",
+      "kind": "recommendation",
+      "parent_comment_id": "49817543"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49812769",
+  "id": "2026-09-24:go-system-one:49812769",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "go-system-one",
+  "rank": 4,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49812769",
+  "source_story_title": "Jev in 25 Lines of Python"
+}

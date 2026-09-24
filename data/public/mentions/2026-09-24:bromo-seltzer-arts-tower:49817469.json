@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter urges Baltimore visitors to see its gravity-driven pendulum clock and calls the mechanism beautiful.",
+  "evidence_sources": [
+    {
+      "author": "js2",
+      "comment_id": "49820706",
+      "comment_url": "https://news.ycombinator.com/item?id=49820706",
+      "excerpt": "Next time you're in Baltimore, be sure to visit the Bromo Seltzer Arts Tower where you can see its gravity-driven pendulum clock. It's a beautiful mechanism",
+      "kind": "recommendation",
+      "parent_comment_id": "49817469"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49817469",
+  "id": "2026-09-24:bromo-seltzer-arts-tower:49817469",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "bromo-seltzer-arts-tower",
+  "rank": 10,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49817469",
+  "source_story_title": "Fixing the Portobello Police Station Clock"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "go-system-one",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:go-system-one:49812769",
+  "mention_ids": [
+    "2026-09-24:go-system-one:49812769"
+  ],
+  "name": "Go System One",
+  "slug": "go-system-one",
+  "summary": "A Gemma-based decision API for scoring constrained answers; its user praises its focus.",
+  "thing_url": "https://rcarmo.github.io/projects/go-system-one",
+  "times_seen": 1,
+  "why_included": "A first-hand user linked a specific open project and explained a useful behavior."
+}

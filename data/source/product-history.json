@@ -9655,6 +9655,66 @@
       "first_reported_at": "2026-09-23T05:17:33+02:00",
       "last_reported_at": "2026-09-23T05:17:33+02:00",
       "times_reported": 1
+    },
+    {
+      "name": "LanguageTool",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sphinx",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mastra",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Go System One",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "audio.cpp",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pocket TTS",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "pdf-narrator",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Z80 REPL",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Allen Carr's Easy Way to Quit Smoking",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Bromo Seltzer Arts Tower",
+      "first_reported_at": "2026-09-24T05:17:22+02:00",
+      "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
     }
   ]
 }

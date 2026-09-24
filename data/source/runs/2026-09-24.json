@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-09-24",
+  "generated_at": "2026-09-24T05:17:22+02:00",
+  "summary": "Ten comment-endorsed finds from the verified prior-day HN front-page discussion crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-24.json",
+    "sha256": "fa2c4ea7332129337b1a51cce41f03dd37231e4769d0d7b9435d6ef02f667b10",
+    "bytes": 3453176,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5603,
+    "fetched_item_count": 5633,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "LanguageTool",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/languagetool-org/languagetool",
+      "hn_url": "https://news.ycombinator.com/item?id=49811484",
+      "source_story_title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "summary": "A self-hostable grammar checker; one team calls its private on-prem server reliable.",
+      "why_included": "A production deployment makes the privacy and reliability case concrete.",
+      "evidence": "A commenter runs LanguageTool on premises and describes it as incredibly reliable, while noting subscription restrictions on some plugins.",
+      "evidence_sources": [{"comment_id":"49824839","comment_url":"https://news.ycombinator.com/item?id=49824839","author":"davidee","excerpt":"We use a self-hosted OSS LanguageTool server that's containerized and runs in a private, on-prem cluster to provide good performance and be HA, but it only works on our corporate network or when using a VPN connection while roaming/remote. It's incredibly reliable.","kind":"recommendation","context":"production_use","parent_comment_id":"49815517"}]
+    },
+    {
+      "name": "Sphinx",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.sphinx-doc.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49815484",
+      "source_story_title": "The GitHub wiki is an anti-pattern (2022)",
+      "summary": "A documentation generator used to publish Markdown and generate API references from docstrings.",
+      "why_included": "A specific working documentation workflow, not a generic mention of an alternative.",
+      "evidence": "A commenter uses Sphinx to publish a site from Markdown and produce a docstring-based API reference.",
+      "evidence_sources": [{"comment_id":"49820735","comment_url":"https://news.ycombinator.com/item?id=49820735","author":"WCSTombs","excerpt":"I use Sphinx to make a nice website from the markdown sources (although it doesn't have to be markdown). That includes generating a full API reference page from all the docstrings.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49816779"}]
+    },
+    {
+      "name": "Mastra",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://mastra.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49817289",
+      "source_story_title": "Strands Harness",
+      "summary": "A TypeScript framework for building agents; one evaluator preferred its more complete offering.",
+      "why_included": "A commenter explicitly chose it after evaluating the thread's featured alternative.",
+      "evidence": "One evaluator chose Mastra over Strands because it seemed more complete for TypeScript agent work.",
+      "evidence_sources": [{"comment_id":"49822231","comment_url":"https://news.ycombinator.com/item?id=49822231","author":"dzonga","excerpt":"I looked into it and ended up picking mastra as it had a better story / seems more complete for people making agents in typescript.","kind":"comparison","context":"evaluated","parent_comment_id":"49817289"}]
+    },
+    {
+      "name": "Go System One",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://rcarmo.github.io/projects/go-system-one",
+      "hn_url": "https://news.ycombinator.com/item?id=49812769",
+      "source_story_title": "Jev in 25 Lines of Python",
+      "summary": "A Gemma-based decision API for scoring constrained answers; its user praises its focus.",
+      "why_included": "A first-hand user linked a specific open project and explained a useful behavior.",
+      "evidence": "A commenter uses the linked Gemma-based project and says it seems less distracted by ordering.",
+      "evidence_sources": [{"comment_id":"49822399","comment_url":"https://news.ycombinator.com/item?id=49822399","author":"rcarmo","excerpt":"uses Gemma, and that's partly why. Seems less prone to getting distracted with ordering.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49817543"}]
+    },
+    {
+      "name": "audio.cpp",
+      "category": "Audio & Reading",
+      "thing_url": "https://github.com/0xShug0/audio.cpp",
+      "hn_url": "https://news.ycombinator.com/item?id=49817615",
+      "source_story_title": "Gemini 3.8 text-to-speech",
+      "summary": "A C++ audio-model inference engine recommended as an easy way to try multiple models.",
+      "why_included": "A commenter directly endorsed its utility while comparing text-to-speech options.",
+      "evidence": "A commenter calls audio.cpp an easy way to run a range of audio models.",
+      "evidence_sources": [{"comment_id":"49820311","comment_url":"https://news.ycombinator.com/item?id=49820311","author":"VariousPrograms","excerpt":"is an easy way to run a lot of different models.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49819931"}]
+    },
+    {
+      "name": "Pocket TTS",
+      "category": "Audio & Reading",
+      "thing_url": "https://github.com/kyutai-labs/pocket-tts",
+      "hn_url": "https://news.ycombinator.com/item?id=49817615",
+      "source_story_title": "Gemini 3.8 text-to-speech",
+      "summary": "A lightweight speech generator praised for speed, though not top-tier voice quality.",
+      "why_included": "Direct enthusiastic use includes a useful quality-versus-speed limitation.",
+      "evidence": "One commenter loves its speed and considers the voice decent, but not the highest quality.",
+      "evidence_sources": [{"comment_id":"49819962","comment_url":"https://news.ycombinator.com/item?id=49819962","author":"x3haloed","excerpt":"I love PocketTTS. It's stupid fast and the voice quality is decent. But it's not the highest quality.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49819931"}]
+    },
+    {
+      "name": "pdf-narrator",
+      "category": "Audio & Reading",
+      "thing_url": "https://github.com/mateogon/pdf-narrator",
+      "hn_url": "https://news.ycombinator.com/item?id=49817615",
+      "source_story_title": "Gemini 3.8 text-to-speech",
+      "summary": "A Python frontend for Kokoro that a user employs to make free local audiobooks.",
+      "why_included": "A concrete, linked local audiobook workflow with positive first-hand experience.",
+      "evidence": "A user runs pdf-narrator locally on an older MacBook and calls the result incredible for making audiobooks.",
+      "evidence_sources": [{"comment_id":"49818923","comment_url":"https://news.ycombinator.com/item?id=49818923","author":"exhilaration","excerpt":"(it's a Python frontend for Kokoro) on my M1 Macbook Air (from 2020, with 8GB RAM) and it's incredible. I make my own audiobooks now - for free!","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49818488"}]
+    },
+    {
+      "name": "Z80 REPL",
+      "category": "Explore & Read",
+      "thing_url": "https://github.com/abagames/z80-repl",
+      "hn_url": "https://news.ycombinator.com/item?id=49814236",
+      "source_story_title": "Z80 REPL (2018)",
+      "summary": "An interactive Z80 assembly REPL whose concept drew explicit praise from a commenter.",
+      "why_included": "The reply independently praised the project and provided its source repository.",
+      "evidence": "A commenter links the project's code and says they love the idea, noting its age.",
+      "evidence_sources": [{"comment_id":"49815519","comment_url":"https://news.ycombinator.com/item?id=49815519","author":"jottinger","excerpt":"With that said, I love the idea.","kind":"recommendation","parent_comment_id":"49814236"}]
+    },
+    {
+      "name": "Allen Carr's Easy Way to Quit Smoking",
+      "category": "Explore & Read",
+      "thing_url": "https://www.allencarr.com/en-us/easyway-stop-smoking",
+      "hn_url": "https://news.ycombinator.com/item?id=49795686",
+      "source_story_title": "People hooked on vapes try a new way to quit: cigarettes",
+      "summary": "A smoking-cessation book explicitly recommended after helping people the commenter knows.",
+      "why_included": "An unambiguous book recommendation with a stated real-world reason.",
+      "evidence": "A commenter recommends the book and says it helped several people in their life.",
+      "evidence_sources": [{"comment_id":"49812745","comment_url":"https://news.ycombinator.com/item?id=49812745","author":"rafael09ed","excerpt":"For anyone looking to quit, I recommend Allen Carr's Easy Way to Quit Smoking. Helped multiple people in my life with addiction","kind":"recommendation","parent_comment_id":"49795686"}]
+    },
+    {
+      "name": "Bromo Seltzer Arts Tower",
+      "category": "Explore & Read",
+      "thing_url": "https://www.bromoseltzertower.com/visitor-info",
+      "hn_url": "https://news.ycombinator.com/item?id=49817469",
+      "source_story_title": "Fixing the Portobello Police Station Clock",
+      "summary": "A Baltimore arts tower with a gravity-driven clock that a commenter urges visitors to see.",
+      "why_included": "A specific place recommendation with a direct visitor link and mechanical appeal.",
+      "evidence": "A commenter urges Baltimore visitors to see its gravity-driven pendulum clock and calls the mechanism beautiful.",
+      "evidence_sources": [{"comment_id":"49820706","comment_url":"https://news.ycombinator.com/item?id=49820706","author":"js2","excerpt":"Next time you're in Baltimore, be sure to visit the Bromo Seltzer Arts Tower where you can see its gravity-driven pendulum clock. It's a beautiful mechanism","kind":"recommendation","parent_comment_id":"49817469"}]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "One evaluator chose Mastra over Strands because it seemed more complete for TypeScript agent work.",
+  "evidence_sources": [
+    {
+      "author": "dzonga",
+      "comment_id": "49822231",
+      "comment_url": "https://news.ycombinator.com/item?id=49822231",
+      "context": "evaluated",
+      "excerpt": "I looked into it and ended up picking mastra as it had a better story / seems more complete for people making agents in typescript.",
+      "kind": "comparison",
+      "parent_comment_id": "49817289"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49817289",
+  "id": "2026-09-24:mastra:49817289",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "mastra",
+  "rank": 3,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49817289",
+  "source_story_title": "Strands Harness"
+}

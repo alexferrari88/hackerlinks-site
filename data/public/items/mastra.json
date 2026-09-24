@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "mastra",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:mastra:49817289",
+  "mention_ids": [
+    "2026-09-24:mastra:49817289"
+  ],
+  "name": "Mastra",
+  "slug": "mastra",
+  "summary": "A TypeScript framework for building agents; one evaluator preferred its more complete offering.",
+  "thing_url": "https://mastra.ai/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly chose it after evaluating the thread's featured alternative."
+}

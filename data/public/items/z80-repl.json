@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "z80-repl",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:z80-repl:49814236",
+  "mention_ids": [
+    "2026-09-24:z80-repl:49814236"
+  ],
+  "name": "Z80 REPL",
+  "slug": "z80-repl",
+  "summary": "An interactive Z80 assembly REPL whose concept drew explicit praise from a commenter.",
+  "thing_url": "https://github.com/abagames/z80-repl",
+  "times_seen": 1,
+  "why_included": "The reply independently praised the project and provided its source repository."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter runs LanguageTool on premises and describes it as incredibly reliable, while noting subscription restrictions on some plugins.",
+  "evidence_sources": [
+    {
+      "author": "davidee",
+      "comment_id": "49824839",
+      "comment_url": "https://news.ycombinator.com/item?id=49824839",
+      "context": "production_use",
+      "excerpt": "We use a self-hosted OSS LanguageTool server that's containerized and runs in a private, on-prem cluster to provide good performance and be HA, but it only works on our corporate network or when using a VPN connection while roaming/remote. It's incredibly reliable.",
+      "kind": "recommendation",
+      "parent_comment_id": "49815517"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49811484",
+  "id": "2026-09-24:languagetool:49811484",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "languagetool",
+  "rank": 1,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49811484",
+  "source_story_title": "Grammarly will send unhinged messages to all your users if you try to cancel"
+}

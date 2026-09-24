@@ -1,0 +1,23 @@
+{
+  "evidence": "A user runs pdf-narrator locally on an older MacBook and calls the result incredible for making audiobooks.",
+  "evidence_sources": [
+    {
+      "author": "exhilaration",
+      "comment_id": "49818923",
+      "comment_url": "https://news.ycombinator.com/item?id=49818923",
+      "context": "first_hand_use",
+      "excerpt": "(it's a Python frontend for Kokoro) on my M1 Macbook Air (from 2020, with 8GB RAM) and it's incredible. I make my own audiobooks now - for free!",
+      "kind": "recommendation",
+      "parent_comment_id": "49818488"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49817615",
+  "id": "2026-09-24:pdf-narrator:49817615",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "pdf-narrator",
+  "rank": 7,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49817615",
+  "source_story_title": "Gemini 3.8 text-to-speech"
+}

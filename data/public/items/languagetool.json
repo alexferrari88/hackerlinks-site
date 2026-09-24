@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "languagetool",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:languagetool:49811484",
+  "mention_ids": [
+    "2026-09-24:languagetool:49811484"
+  ],
+  "name": "LanguageTool",
+  "slug": "languagetool",
+  "summary": "A self-hostable grammar checker; one team calls its private on-prem server reliable.",
+  "thing_url": "https://github.com/languagetool-org/languagetool",
+  "times_seen": 1,
+  "why_included": "A production deployment makes the privacy and reliability case concrete."
+}

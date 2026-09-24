@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses Sphinx to publish a site from Markdown and produce a docstring-based API reference.",
+  "evidence_sources": [
+    {
+      "author": "WCSTombs",
+      "comment_id": "49820735",
+      "comment_url": "https://news.ycombinator.com/item?id=49820735",
+      "context": "first_hand_use",
+      "excerpt": "I use Sphinx to make a nice website from the markdown sources (although it doesn't have to be markdown). That includes generating a full API reference page from all the docstrings.",
+      "kind": "recommendation",
+      "parent_comment_id": "49816779"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49815484",
+  "id": "2026-09-24:sphinx:49815484",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "sphinx",
+  "rank": 2,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49815484",
+  "source_story_title": "The GitHub wiki is an anti-pattern (2022)"
+}

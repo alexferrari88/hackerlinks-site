@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "sphinx",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:sphinx:49815484",
+  "mention_ids": [
+    "2026-09-24:sphinx:49815484"
+  ],
+  "name": "Sphinx",
+  "slug": "sphinx",
+  "summary": "A documentation generator used to publish Markdown and generate API references from docstrings.",
+  "thing_url": "https://www.sphinx-doc.org/",
+  "times_seen": 1,
+  "why_included": "A specific working documentation workflow, not a generic mention of an alternative."
+}

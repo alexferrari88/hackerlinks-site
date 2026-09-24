@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the book and says it helped several people in their life.",
+  "evidence_sources": [
+    {
+      "author": "rafael09ed",
+      "comment_id": "49812745",
+      "comment_url": "https://news.ycombinator.com/item?id=49812745",
+      "excerpt": "For anyone looking to quit, I recommend Allen Carr's Easy Way to Quit Smoking. Helped multiple people in my life with addiction",
+      "kind": "recommendation",
+      "parent_comment_id": "49795686"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49795686",
+  "id": "2026-09-24:allen-carr-s-easy-way-to-quit-smoking:49795686",
+  "is_repeat": false,
+  "issue_id": "2026-09-24",
+  "item_id": "allen-carr-s-easy-way-to-quit-smoking",
+  "rank": 9,
+  "seen_at": "2026-09-24T05:17:22+02:00",
+  "source_story_id": "49795686",
+  "source_story_title": "People hooked on vapes try a new way to quit: cigarettes"
+}

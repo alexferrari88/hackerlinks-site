@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "pdf-narrator",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:pdf-narrator:49817615",
+  "mention_ids": [
+    "2026-09-24:pdf-narrator:49817615"
+  ],
+  "name": "pdf-narrator",
+  "slug": "pdf-narrator",
+  "summary": "A Python frontend for Kokoro that a user employs to make free local audiobooks.",
+  "thing_url": "https://github.com/mateogon/pdf-narrator",
+  "times_seen": 1,
+  "why_included": "A concrete, linked local audiobook workflow with positive first-hand experience."
+}

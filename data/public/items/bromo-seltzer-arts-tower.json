@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-24T05:17:22+02:00",
+  "id": "bromo-seltzer-arts-tower",
+  "last_seen_at": "2026-09-24T05:17:22+02:00",
+  "latest_mention_id": "2026-09-24:bromo-seltzer-arts-tower:49817469",
+  "mention_ids": [
+    "2026-09-24:bromo-seltzer-arts-tower:49817469"
+  ],
+  "name": "Bromo Seltzer Arts Tower",
+  "slug": "bromo-seltzer-arts-tower",
+  "summary": "A Baltimore arts tower with a gravity-driven clock that a commenter urges visitors to see.",
+  "thing_url": "https://www.bromoseltzertower.com/visitor-info",
+  "times_seen": 1,
+  "why_included": "A specific place recommendation with a direct visitor link and mechanical appeal."
+}

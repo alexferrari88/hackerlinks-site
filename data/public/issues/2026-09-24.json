@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T05:17:22+02:00",
+  "headline": "10 interesting things surfaced from HN on 2026-09-24",
+  "id": "2026-09-24",
+  "mention_ids": [
+    "2026-09-24:languagetool:49811484",
+    "2026-09-24:sphinx:49815484",
+    "2026-09-24:mastra:49817289",
+    "2026-09-24:go-system-one:49812769",
+    "2026-09-24:audio-cpp:49817615",
+    "2026-09-24:pocket-tts:49817615",
+    "2026-09-24:pdf-narrator:49817615",
+    "2026-09-24:z80-repl:49814236",
+    "2026-09-24:allen-carr-s-easy-way-to-quit-smoking:49795686",
+    "2026-09-24:bromo-seltzer-arts-tower:49817469"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}
