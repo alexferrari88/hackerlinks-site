@@ -1,0 +1,23 @@
+{
+  "evidence": "A fan calls the enhanced Ocarina of Time experience amazing with high-resolution, high-frame-rate graphics.",
+  "evidence_sources": [
+    {
+      "author": "thejazzman",
+      "comment_id": "49845819",
+      "comment_url": "https://news.ycombinator.com/item?id=49845819",
+      "context": "first_hand_use",
+      "excerpt": "You can play OOT in 4k 120fps raytracing with an official Bluetooth N64 controller and it is amazing",
+      "kind": "recommendation",
+      "parent_comment_id": "49840767"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49801436",
+  "id": "2026-09-26:oot-reloaded:49801436",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "oot-reloaded",
+  "rank": 4,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49801436",
+  "source_story_title": "2DWillNeverDie"
+}

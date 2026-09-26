@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "run_date": "2026-09-26",
+  "generated_at": "2026-09-26T09:04:45+02:00",
+  "summary": "Ten comment-endorsed tools, games, talks and creative works from the complete HN front-page comment crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-26.json",
+    "sha256": "bef817eff222114a536b0c8413b8f95643eddcff49512c36ba1734c1346629b6",
+    "bytes": 3293098,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5137,
+    "fetched_item_count": 5167,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "ticket", "category": "Dev Tools & Workflows", "thing_url": "https://github.com/wedow/ticket", "hn_url": "https://news.ycombinator.com/item?id=49843174", "source_story_title": "Git-bug: Distributed, offline-first bug tracker embedded in Git", "summary": "A version-control-friendly ticket tracker with human-readable files and little hidden machinery.", "why_included": "A commenter explicitly called it their favorite VCS-friendly tracker and praised its simplicity.", "evidence": "A commenter favors ticket because it is human-readable, simple and easy to work with.",
+      "evidence_sources": [{"comment_id":"49846369","comment_url":"https://news.ycombinator.com/item?id=49846369","author":"dizzard","excerpt":"My favorite VCS friendly ticket tracker is","kind":"recommendation","parent_comment_id":"49843174"}]
+    },
+    {
+      "name": "http4k", "category": "Dev Tools & Workflows", "thing_url": "https://www.http4k.org/", "hn_url": "https://news.ycombinator.com/item?id=49839664", "source_story_title": "What About Rails?", "summary": "A functional Kotlin HTTP toolkit used by a Rails migrant for server-rendered applications.", "why_included": "A developer described moving to Kotlin and http4k as a preferred working stack.", "evidence": "A developer who migrated from Rails calls Kotlin and http4k their new refuge and likens http4k to Rack.",
+      "evidence_sources": [{"comment_id":"49845372","comment_url":"https://news.ycombinator.com/item?id=49845372","author":"flossly","excerpt":"my new place of refuge: Kotlin+http4k.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49839664"}]
+    },
+    {
+      "name": "86Box", "category": "Games & Retro Computing", "thing_url": "https://86box.net/", "hn_url": "https://news.ycombinator.com/item?id=49841285", "source_story_title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini", "summary": "An x86 PC emulator for running old operating systems and childhood software.", "why_included": "A commenter actively uses an emulated Windows 95 PC and finds it fun for visitors and children.", "evidence": "A long-time user says an 86Box Windows 95 machine remains fun for nostalgia and for children.",
+      "evidence_sources": [{"comment_id":"49843460","comment_url":"https://news.ycombinator.com/item?id=49843460","author":"acidburnNSA","excerpt":"I've been maintaining an emulated Pentium Pro 200 MHz Windows 95 machine on 86Box for some time with all my favorite old software from childhood. It's great for nostalgia","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49843090"}]
+    },
+    {
+      "name": "OoT Reloaded", "category": "Games & Retro Computing", "thing_url": "https://github.com/GhostlyDark/OoT-Reloaded", "hn_url": "https://news.ycombinator.com/item?id=49801436", "source_story_title": "2DWillNeverDie", "summary": "A visual enhancement project for playing Ocarina of Time in high resolution.", "why_included": "A self-described fan explicitly praised the resulting game experience.", "evidence": "A fan calls the enhanced Ocarina of Time experience amazing with high-resolution, high-frame-rate graphics.",
+      "evidence_sources": [{"comment_id":"49845819","comment_url":"https://news.ycombinator.com/item?id=49845819","author":"thejazzman","excerpt":"You can play OOT in 4k 120fps raytracing with an official Bluetooth N64 controller and it is amazing","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49840767"}]
+    },
+    {
+      "name": "Tiny Life", "category": "Games & Retro Computing", "thing_url": "https://tinylifegame.com/", "hn_url": "https://news.ycombinator.com/item?id=49801436", "source_story_title": "2DWillNeverDie", "summary": "A pixel-art life-simulation game praised for its expressive low-resolution style.", "why_included": "A commenter praises the game's soul rather than merely mentioning its genre.", "evidence": "A commenter describes Tiny Life as a Sims homage and praises its character despite low resolution.",
+      "evidence_sources": [{"comment_id":"49841600","comment_url":"https://news.ycombinator.com/item?id=49841600","author":"DonHopkins","excerpt":"The indie game Tiny Life is an homage cover of The Sims, played in the key of The Sims 0 -- like Little Computer People, 1985, one person and his dog living on one floppy disk. It has in soul what it lacks in resolution, and soul was always the hard part.","kind":"recommendation","parent_comment_id":"49839448"}]
+    },
+    {
+      "name": "Mathy", "category": "Apps & Side Projects", "thing_url": "https://mathy.game/", "hn_url": "https://news.ycombinator.com/item?id=49788014", "source_story_title": "Show HN: Make math automatic with Mathy", "summary": "A mobile-friendly math practice app for building quick recall of learned concepts.", "why_included": "A commenter tested it on a Pixel, praised it and supplied a specific usability issue.", "evidence": "A Pixel user calls Mathy great but notes that the Android keyboard covers a button.",
+      "evidence_sources": [{"comment_id":"49812136","comment_url":"https://news.ycombinator.com/item?id=49812136","author":"rahimnathwani","excerpt":"This is great, Gabe. One small piece of feedback: on my Pixel, the Android keyboard obscures the green button.","kind":"recommendation","context":"evaluated","parent_comment_id":"49788014"}]
+    },
+    {
+      "name": "CZP-1", "category": "Apps & Side Projects", "thing_url": "https://www.crazyphase.com/czp-1/", "hn_url": "https://news.ycombinator.com/item?id=49842084", "source_story_title": "Boards of Casio", "summary": "An in-browser phase-distortion synthesizer inspired by classic Casio CZ instruments.", "why_included": "A commenter explicitly likes the synth and gives a practical interface preference.", "evidence": "A Casio CZ owner calls CZP-1 pretty nice, especially after switching its interface flow.",
+      "evidence_sources": [{"comment_id":"49843663","comment_url":"https://news.ycombinator.com/item?id=49843663","author":"Lio","excerpt":"I like this CZP-1 soft synth. It's pretty nice once you flip the flow from left to right to top to bottom.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49842084"}]
+    },
+    {
+      "name": "Potluck: Dynamic documents as personal software", "category": "Read & Watch", "thing_url": "https://www.inkandswitch.com/potluck/", "hn_url": "https://news.ycombinator.com/item?id=49842270", "source_story_title": "Ink and Switch interactive homepage", "summary": "An Ink & Switch essay and prototype exploring editable dynamic documents as personal software.", "why_included": "A commenter singled out this specific work with unequivocal praise.", "evidence": "A commenter says they really love the Potluck piece about dynamic documents.",
+      "evidence_sources": [{"comment_id":"49847978","comment_url":"https://news.ycombinator.com/item?id=49847978","author":"hencq","excerpt":"I really love this one on dynamic documents as well: Potluck: Dynamic documents as personal software","kind":"recommendation","parent_comment_id":"49842754"}]
+    },
+    {
+      "name": "Raphael Bousso's holographic information talk", "category": "Read & Watch", "thing_url": "https://www.youtube.com/watch?v=GHgi6E1ECgo", "hn_url": "https://news.ycombinator.com/item?id=49845998", "source_story_title": "Gravity seems holographic. What does that mean for reality?", "summary": "A physics talk explaining holographic information for curious non-specialists.", "why_included": "A commenter highly recommended the specific video for lay viewers.", "evidence": "A commenter strongly recommends Bousso's holography talk to interested laypeople.",
+      "evidence_sources": [{"comment_id":"49848428","comment_url":"https://news.ycombinator.com/item?id=49848428","author":"wormius","excerpt":"HIGHLY recommend it for lay folks interested in this stuff.","kind":"recommendation","parent_comment_id":"49847936"}]
+    },
+    {
+      "name": "Space-Time Dynamics in Video Feedback", "category": "Read & Watch", "thing_url": "https://www.youtube.com/watch?v=B4Kn3djJMCE", "hn_url": "https://news.ycombinator.com/item?id=49848295", "source_story_title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]", "summary": "James Crutchfield's experimental film exploring visual patterns generated by video feedback.", "why_included": "A commenter explicitly highly recommended watching this named film.", "evidence": "A commenter recommends James Crutchfield's 1984 video-feedback film as an unusual watch.",
+      "evidence_sources": [{"comment_id":"49849567","comment_url":"https://news.ycombinator.com/item?id=49849567","author":"DonHopkins","excerpt":"watching James \"Doctor Chaos\" Crutchfield's \"Space-Time Dynamics in Video Feedback\" film, which he made at UC Santa Cruz in 1984","kind":"recommendation","parent_comment_id":"49848329"}]
+    }
+  ]
+}

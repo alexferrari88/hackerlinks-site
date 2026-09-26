@@ -1,0 +1,23 @@
+{
+  "evidence": "A Casio CZ owner calls CZP-1 pretty nice, especially after switching its interface flow.",
+  "evidence_sources": [
+    {
+      "author": "Lio",
+      "comment_id": "49843663",
+      "comment_url": "https://news.ycombinator.com/item?id=49843663",
+      "context": "first_hand_use",
+      "excerpt": "I like this CZP-1 soft synth. It's pretty nice once you flip the flow from left to right to top to bottom.",
+      "kind": "recommendation",
+      "parent_comment_id": "49842084"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49842084",
+  "id": "2026-09-26:czp-1:49842084",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "czp-1",
+  "rank": 7,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49842084",
+  "source_story_title": "Boards of Casio"
+}

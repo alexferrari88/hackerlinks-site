@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter favors ticket because it is human-readable, simple and easy to work with.",
+  "evidence_sources": [
+    {
+      "author": "dizzard",
+      "comment_id": "49846369",
+      "comment_url": "https://news.ycombinator.com/item?id=49846369",
+      "excerpt": "My favorite VCS friendly ticket tracker is",
+      "kind": "recommendation",
+      "parent_comment_id": "49843174"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49843174",
+  "id": "2026-09-26:ticket:49843174",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "ticket",
+  "rank": 1,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49843174",
+  "source_story_title": "Git-bug: Distributed, offline-first bug tracker embedded in Git"
+}

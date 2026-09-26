@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-26T09:04:45+02:00",
+  "id": "tiny-life",
+  "last_seen_at": "2026-09-26T09:04:45+02:00",
+  "latest_mention_id": "2026-09-26:tiny-life:49801436",
+  "mention_ids": [
+    "2026-09-26:tiny-life:49801436"
+  ],
+  "name": "Tiny Life",
+  "slug": "tiny-life",
+  "summary": "A pixel-art life-simulation game praised for its expressive low-resolution style.",
+  "thing_url": "https://tinylifegame.com/",
+  "times_seen": 1,
+  "why_included": "A commenter praises the game's soul rather than merely mentioning its genre."
+}

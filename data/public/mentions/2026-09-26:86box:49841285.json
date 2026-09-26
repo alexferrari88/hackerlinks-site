@@ -1,0 +1,23 @@
+{
+  "evidence": "A long-time user says an 86Box Windows 95 machine remains fun for nostalgia and for children.",
+  "evidence_sources": [
+    {
+      "author": "acidburnNSA",
+      "comment_id": "49843460",
+      "comment_url": "https://news.ycombinator.com/item?id=49843460",
+      "context": "first_hand_use",
+      "excerpt": "I've been maintaining an emulated Pentium Pro 200 MHz Windows 95 machine on 86Box for some time with all my favorite old software from childhood. It's great for nostalgia",
+      "kind": "recommendation",
+      "parent_comment_id": "49843090"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49841285",
+  "id": "2026-09-26:86box:49841285",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "86box",
+  "rank": 3,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49841285",
+  "source_story_title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini"
+}

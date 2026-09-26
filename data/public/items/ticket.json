@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-26T09:04:45+02:00",
+  "id": "ticket",
+  "last_seen_at": "2026-09-26T09:04:45+02:00",
+  "latest_mention_id": "2026-09-26:ticket:49843174",
+  "mention_ids": [
+    "2026-09-26:ticket:49843174"
+  ],
+  "name": "ticket",
+  "slug": "ticket",
+  "summary": "A version-control-friendly ticket tracker with human-readable files and little hidden machinery.",
+  "thing_url": "https://github.com/wedow/ticket",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly called it their favorite VCS-friendly tracker and praised its simplicity."
+}

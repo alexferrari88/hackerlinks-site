@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter describes Tiny Life as a Sims homage and praises its character despite low resolution.",
+  "evidence_sources": [
+    {
+      "author": "DonHopkins",
+      "comment_id": "49841600",
+      "comment_url": "https://news.ycombinator.com/item?id=49841600",
+      "excerpt": "The indie game Tiny Life is an homage cover of The Sims, played in the key of The Sims 0 -- like Little Computer People, 1985, one person and his dog living on one floppy disk. It has in soul what it lacks in resolution, and soul was always the hard part.",
+      "kind": "recommendation",
+      "parent_comment_id": "49839448"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49801436",
+  "id": "2026-09-26:tiny-life:49801436",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "tiny-life",
+  "rank": 5,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49801436",
+  "source_story_title": "2DWillNeverDie"
+}

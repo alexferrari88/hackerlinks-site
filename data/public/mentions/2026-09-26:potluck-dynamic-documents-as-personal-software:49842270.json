@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says they really love the Potluck piece about dynamic documents.",
+  "evidence_sources": [
+    {
+      "author": "hencq",
+      "comment_id": "49847978",
+      "comment_url": "https://news.ycombinator.com/item?id=49847978",
+      "excerpt": "I really love this one on dynamic documents as well: Potluck: Dynamic documents as personal software",
+      "kind": "recommendation",
+      "parent_comment_id": "49842754"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49842270",
+  "id": "2026-09-26:potluck-dynamic-documents-as-personal-software:49842270",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "potluck-dynamic-documents-as-personal-software",
+  "rank": 8,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49842270",
+  "source_story_title": "Ink and Switch interactive homepage"
+}

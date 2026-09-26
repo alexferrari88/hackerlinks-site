@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends James Crutchfield's 1984 video-feedback film as an unusual watch.",
+  "evidence_sources": [
+    {
+      "author": "DonHopkins",
+      "comment_id": "49849567",
+      "comment_url": "https://news.ycombinator.com/item?id=49849567",
+      "excerpt": "watching James \"Doctor Chaos\" Crutchfield's \"Space-Time Dynamics in Video Feedback\" film, which he made at UC Santa Cruz in 1984",
+      "kind": "recommendation",
+      "parent_comment_id": "49848329"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49848295",
+  "id": "2026-09-26:space-time-dynamics-in-video-feedback:49848295",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "space-time-dynamics-in-video-feedback",
+  "rank": 10,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49848295",
+  "source_story_title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]"
+}

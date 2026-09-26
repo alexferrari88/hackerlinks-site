@@ -1,0 +1,23 @@
+{
+  "evidence": "A Pixel user calls Mathy great but notes that the Android keyboard covers a button.",
+  "evidence_sources": [
+    {
+      "author": "rahimnathwani",
+      "comment_id": "49812136",
+      "comment_url": "https://news.ycombinator.com/item?id=49812136",
+      "context": "evaluated",
+      "excerpt": "This is great, Gabe. One small piece of feedback: on my Pixel, the Android keyboard obscures the green button.",
+      "kind": "recommendation",
+      "parent_comment_id": "49788014"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49788014",
+  "id": "2026-09-26:mathy:49788014",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "mathy",
+  "rank": 6,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49788014",
+  "source_story_title": "Show HN: Make math automatic with Mathy"
+}

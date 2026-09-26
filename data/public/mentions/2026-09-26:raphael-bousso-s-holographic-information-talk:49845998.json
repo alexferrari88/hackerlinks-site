@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter strongly recommends Bousso's holography talk to interested laypeople.",
+  "evidence_sources": [
+    {
+      "author": "wormius",
+      "comment_id": "49848428",
+      "comment_url": "https://news.ycombinator.com/item?id=49848428",
+      "excerpt": "HIGHLY recommend it for lay folks interested in this stuff.",
+      "kind": "recommendation",
+      "parent_comment_id": "49847936"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49845998",
+  "id": "2026-09-26:raphael-bousso-s-holographic-information-talk:49845998",
+  "is_repeat": false,
+  "issue_id": "2026-09-26",
+  "item_id": "raphael-bousso-s-holographic-information-talk",
+  "rank": 9,
+  "seen_at": "2026-09-26T09:04:45+02:00",
+  "source_story_id": "49845998",
+  "source_story_title": "Gravity seems holographic. What does that mean for reality?"
+}
