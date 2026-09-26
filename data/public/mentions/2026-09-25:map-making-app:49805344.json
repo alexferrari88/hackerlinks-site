@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends map-making.app for wandering around and says GeoGuessr players use it.",
+  "evidence_sources": [
+    {
+      "author": "jvvw",
+      "comment_id": "49835187",
+      "comment_url": "https://news.ycombinator.com/item?id=49835187",
+      "excerpt": "I recommend map-making-app for wandering around",
+      "kind": "recommendation",
+      "parent_comment_id": "49834852"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49805344",
+  "id": "2026-09-25:map-making-app:49805344",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "map-making-app",
+  "rank": 6,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49805344",
+  "source_story_title": "My weird new hobby: Wandering around Tokyo on Google Maps"
+}

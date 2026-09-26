@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "cosmic",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:cosmic:49825642",
+  "mention_ids": [
+    "2026-09-25:cosmic:49825642"
+  ],
+  "name": "COSMIC",
+  "slug": "cosmic",
+  "summary": "A Linux desktop environment whose mixed tiling and floating workflow won over a daily user.",
+  "thing_url": "https://system76.com/cosmic",
+  "times_seen": 1,
+  "why_included": "The commenter praises a specific workflow and reports adopting it daily."
+}

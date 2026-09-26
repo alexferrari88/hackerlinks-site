@@ -1,0 +1,23 @@
+{
+  "evidence": "A user runs SolarOS on a LilyGO T-Deck and praises its expanding runtimes and applications.",
+  "evidence_sources": [
+    {
+      "author": "100percentjake",
+      "comment_id": "49832119",
+      "comment_url": "https://news.ycombinator.com/item?id=49832119",
+      "context": "first_hand_use",
+      "excerpt": "a project I've been a big fan of is SolarOS, which provides Python and Lua runtimes for user application development",
+      "kind": "recommendation",
+      "parent_comment_id": "49828969"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49828969",
+  "id": "2026-09-25:solaros:49828969",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "solaros",
+  "rank": 2,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49828969",
+  "source_story_title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi"
+}

@@ -8855,8 +8855,8 @@
     {
       "name": "Wander",
       "first_reported_at": "2026-05-10T21:13:50.159568Z",
-      "last_reported_at": "2026-05-10T21:13:50.159568Z",
-      "times_reported": 1
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 2
     },
     {
       "name": "War Atlas",
@@ -9714,6 +9714,66 @@
       "name": "Bromo Seltzer Arts Tower",
       "first_reported_at": "2026-09-24T05:17:22+02:00",
       "last_reported_at": "2026-09-24T05:17:22+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fearless SIMD",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SolarOS",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "COSMIC",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Neo Store",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Öffi",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "map-making.app",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Biology of Cancer",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Scott Jenson's open-source desktop talk",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BYD Atto 2",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hyundai Kona Electric",
+      "first_reported_at": "2026-09-25T05:17:45+02:00",
+      "last_reported_at": "2026-09-25T05:17:45+02:00",
       "times_reported": 1
     }
   ]

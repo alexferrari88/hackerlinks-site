@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "map-making-app",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:map-making-app:49805344",
+  "mention_ids": [
+    "2026-09-25:map-making-app:49805344"
+  ],
+  "name": "map-making.app",
+  "slug": "map-making-app",
+  "summary": "A web map-making tool recommended for virtual wandering by a GeoGuessr community member.",
+  "thing_url": "https://map-making.app/",
+  "times_seen": 1,
+  "why_included": "A direct recommendation in a map-exploration discussion names and links the tool."
+}

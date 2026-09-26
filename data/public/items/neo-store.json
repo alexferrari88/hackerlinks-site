@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "neo-store",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:neo-store:49831968",
+  "mention_ids": [
+    "2026-09-25:neo-store:49831968"
+  ],
+  "name": "Neo Store",
+  "slug": "neo-store",
+  "summary": "A modern F-Droid client suggested as an alternative in the Android app-store discussion.",
+  "thing_url": "https://github.com/NeoApplications/Neo-Store",
+  "times_seen": 1,
+  "why_included": "A reply directly urges another reader to try this named alternative."
+}

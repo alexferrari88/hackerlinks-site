@@ -1,0 +1,32 @@
+{
+  "evidence": "One developer is happy using it for byte searching; another says it enabled a stable-Rust FFT crate.",
+  "evidence_sources": [
+    {
+      "author": "Dr_Emann",
+      "comment_id": "49836633",
+      "comment_url": "https://news.ycombinator.com/item?id=49836633",
+      "context": "first_hand_use",
+      "excerpt": "Have been really happy with Fearless simd, I used it to write",
+      "kind": "recommendation",
+      "parent_comment_id": "49800085"
+    },
+    {
+      "author": "O3marchnative",
+      "comment_id": "49837285",
+      "comment_url": "https://news.ycombinator.com/item?id=49837285",
+      "context": "first_hand_use",
+      "excerpt": "This is quite amazing. Fearless SIMD is what finally allowed my FFT crate, PhastFT, to run on stable Rust",
+      "kind": "recommendation",
+      "parent_comment_id": "49800085"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49800085",
+  "id": "2026-09-25:fearless-simd:49800085",
+  "is_repeat": true,
+  "issue_id": "2026-09-25",
+  "item_id": "fearless-simd",
+  "rank": 1,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49800085",
+  "source_story_title": "Fearless SIMD v1.0"
+}

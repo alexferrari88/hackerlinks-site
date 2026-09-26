@@ -1,0 +1,23 @@
+{
+  "evidence": "An owner likes the Kona EV's physical climate and volume controls and conventional door handles.",
+  "evidence_sources": [
+    {
+      "author": "sgarrity",
+      "comment_id": "49834545",
+      "comment_url": "https://news.ycombinator.com/item?id=49834545",
+      "context": "first_hand_use",
+      "excerpt": "So, I bought one. It's good. There are physical controls for the temperature and volume, and the door handles aren't stupid.",
+      "kind": "recommendation",
+      "parent_comment_id": "49834479"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49823568",
+  "id": "2026-09-25:hyundai-kona-electric:49823568",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "hyundai-kona-electric",
+  "rank": 11,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49823568",
+  "source_story_title": "Toyota is taking the Corolla electric"
+}

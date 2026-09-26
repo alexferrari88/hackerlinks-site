@@ -1,0 +1,23 @@
+{
+  "evidence": "A buyer says they purchased an Atto 2 this month and find it great.",
+  "evidence_sources": [
+    {
+      "author": "XorNot",
+      "comment_id": "49839299",
+      "comment_url": "https://news.ycombinator.com/item?id=49839299",
+      "context": "first_hand_use",
+      "excerpt": "I bought a BYD Atto 2 this month and it's great.",
+      "kind": "recommendation",
+      "parent_comment_id": "49823568"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49823568",
+  "id": "2026-09-25:byd-atto-2:49823568",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "byd-atto-2",
+  "rank": 10,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49823568",
+  "source_story_title": "Toyota is taking the Corolla electric"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The pathologist recommends the book as a starting point and calls it their best biological-science read.",
+  "evidence_sources": [
+    {
+      "author": "0xWTF",
+      "comment_id": "49839087",
+      "comment_url": "https://news.ycombinator.com/item?id=49839087",
+      "context": "first_hand_use",
+      "excerpt": "If you really want to learn about this stuff, Robert Weinberg's The Biology of Cancer is where to start.",
+      "kind": "recommendation",
+      "parent_comment_id": "49832938"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49832938",
+  "id": "2026-09-25:the-biology-of-cancer:49832938",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "the-biology-of-cancer",
+  "rank": 8,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49832938",
+  "source_story_title": "Why is the liver so weirdly regenerative?"
+}

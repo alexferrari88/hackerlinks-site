@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "offi",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:offi:49831968",
+  "mention_ids": [
+    "2026-09-25:offi:49831968"
+  ],
+  "name": "\u00d6ffi",
+  "slug": "offi",
+  "summary": "An Android public-transit planner singled out as excellent among apps available via F-Droid.",
+  "thing_url": "https://offi.schildbach.de/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly calls the named transit app excellent while explaining their app-store use."
+}

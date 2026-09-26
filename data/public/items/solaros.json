@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "solaros",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:solaros:49828969",
+  "mention_ids": [
+    "2026-09-25:solaros:49828969"
+  ],
+  "name": "SolarOS",
+  "slug": "solaros",
+  "summary": "An ESP32 operating environment with Python and Lua runtimes, used to build a handheld PDA.",
+  "thing_url": "https://github.com/nilseuropa/solar_os",
+  "times_seen": 1,
+  "why_included": "A user describes a working LilyGO T-Deck project and calls themselves a big fan."
+}

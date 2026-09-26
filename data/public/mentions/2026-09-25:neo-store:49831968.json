@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends trying Neo Store and predicts the reader will like it.",
+  "evidence_sources": [
+    {
+      "author": "TutleCpt",
+      "comment_id": "49833533",
+      "comment_url": "https://news.ycombinator.com/item?id=49833533",
+      "excerpt": "Check out Neostore too. You'll love it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49832613"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49831968",
+  "id": "2026-09-25:neo-store:49831968",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "neo-store",
+  "rank": 4,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49831968",
+  "source_story_title": "F-Droid 2.0"
+}

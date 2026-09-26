@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "hyundai-kona-electric",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:hyundai-kona-electric:49823568",
+  "mention_ids": [
+    "2026-09-25:hyundai-kona-electric:49823568"
+  ],
+  "name": "Hyundai Kona Electric",
+  "slug": "hyundai-kona-electric",
+  "summary": "An electric compact SUV praised by its owner for physical controls and conventional door handles.",
+  "thing_url": "https://www.hyundai.com/eu/en/models/kona-electric.html",
+  "times_seen": 1,
+  "why_included": "An owner gives a specific positive rationale rather than a generic comparison."
+}

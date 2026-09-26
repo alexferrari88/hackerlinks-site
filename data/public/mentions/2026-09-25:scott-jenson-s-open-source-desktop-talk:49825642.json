@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommends the presenter and liked the demo for moving windows to screen edges.",
+  "evidence_sources": [
+    {
+      "author": "ardeguire",
+      "comment_id": "49829595",
+      "comment_url": "https://news.ycombinator.com/item?id=49829595",
+      "context": "evaluated",
+      "excerpt": "Scott is a very good presenter, and he clearly thinks about this stuff a lot. I really liked the demo for moving windows to the sides of the screen",
+      "kind": "recommendation",
+      "parent_comment_id": "49825642"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49825642",
+  "id": "2026-09-25:scott-jenson-s-open-source-desktop-talk:49825642",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "scott-jenson-s-open-source-desktop-talk",
+  "rank": 9,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49825642",
+  "source_story_title": "Ideas on modernizing the open-source desktop"
+}

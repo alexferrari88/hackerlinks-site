@@ -1,0 +1,23 @@
+{
+  "evidence": "A user calls COSMIC's mixed tiling and floating workflow amazing and their new daily driver.",
+  "evidence_sources": [
+    {
+      "author": "c7b",
+      "comment_id": "49831485",
+      "comment_url": "https://news.ycombinator.com/item?id=49831485",
+      "context": "first_hand_use",
+      "excerpt": "COSMIC's mixed tiling+floating workflow is amazing and my new daily driver.",
+      "kind": "recommendation",
+      "parent_comment_id": "49825642"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49825642",
+  "id": "2026-09-25:cosmic:49825642",
+  "is_repeat": false,
+  "issue_id": "2026-09-25",
+  "item_id": "cosmic",
+  "rank": 3,
+  "seen_at": "2026-09-25T05:17:45+02:00",
+  "source_story_id": "49825642",
+  "source_story_title": "Ideas on modernizing the open-source desktop"
+}

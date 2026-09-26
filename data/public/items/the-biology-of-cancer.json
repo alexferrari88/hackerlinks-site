@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "the-biology-of-cancer",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:the-biology-of-cancer:49832938",
+  "mention_ids": [
+    "2026-09-25:the-biology-of-cancer:49832938"
+  ],
+  "name": "The Biology of Cancer",
+  "slug": "the-biology-of-cancer",
+  "summary": "Robert Weinberg's cancer-biology textbook, recommended by a pathologist as an accessible starting point.",
+  "thing_url": "https://wwnorton.com/books/9780393887655",
+  "times_seen": 1,
+  "why_included": "A pathologist gives a direct reading recommendation grounded in personal experience."
+}

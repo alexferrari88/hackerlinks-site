@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-25T05:17:45+02:00",
+  "id": "scott-jenson-s-open-source-desktop-talk",
+  "last_seen_at": "2026-09-25T05:17:45+02:00",
+  "latest_mention_id": "2026-09-25:scott-jenson-s-open-source-desktop-talk:49825642",
+  "mention_ids": [
+    "2026-09-25:scott-jenson-s-open-source-desktop-talk:49825642"
+  ],
+  "name": "Scott Jenson's open-source desktop talk",
+  "slug": "scott-jenson-s-open-source-desktop-talk",
+  "summary": "A talk on rethinking desktop interfaces, praised for its presenter and window-overview demo.",
+  "thing_url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+  "times_seen": 1,
+  "why_included": "A viewer independently praises the linked talk and cites a specific demo they liked."
+}
