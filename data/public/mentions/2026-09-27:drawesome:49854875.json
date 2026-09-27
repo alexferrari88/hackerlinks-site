@@ -1,0 +1,23 @@
+{
+  "evidence": "The maker says their children love sharing the drawing canvas.",
+  "evidence_sources": [
+    {
+      "author": "kraig911",
+      "comment_id": "49860894",
+      "comment_url": "https://news.ycombinator.com/item?id=49860894",
+      "context": "author_or_maintainer",
+      "excerpt": "multiple people drawing/painting/coloring on the same canvas my kids love this.",
+      "kind": "recommendation",
+      "parent_comment_id": "49859774"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49854875",
+  "id": "2026-09-27:drawesome:49854875",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "drawesome",
+  "rank": 9,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49854875",
+  "source_story_title": "How to keep enjoying programming in a world of LLMs"
+}

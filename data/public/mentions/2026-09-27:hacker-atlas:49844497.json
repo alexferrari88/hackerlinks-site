@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls its interface clean and mobile-friendly, then bookmarks it.",
+  "evidence_sources": [
+    {
+      "author": "alfg",
+      "comment_id": "49853162",
+      "comment_url": "https://news.ycombinator.com/item?id=49853162",
+      "context": "evaluated",
+      "excerpt": "Great idea. UI looks good and clean as well as mobile-friendly. Thanks for this, bookmarked.",
+      "kind": "recommendation",
+      "parent_comment_id": "49844497"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49844497",
+  "id": "2026-09-27:hacker-atlas:49844497",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "hacker-atlas",
+  "rank": 8,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49844497",
+  "source_story_title": "Show HN: Hacker Atlas - A map of what Hacker News talks about"
+}

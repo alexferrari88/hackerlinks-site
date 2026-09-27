@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "conversations",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:conversations:49855315",
+  "mention_ids": [
+    "2026-09-27:conversations:49855315"
+  ],
+  "name": "Conversations",
+  "slug": "conversations",
+  "summary": "An Android XMPP messenger that a longtime user relies on for family chats.",
+  "thing_url": "https://conversations.im/",
+  "times_seen": 1,
+  "why_included": "A commenter gives unambiguous positive firsthand experience over several years."
+}

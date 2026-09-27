@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports good results with whiteboard-mcp for architecture diagrams.",
+  "evidence_sources": [
+    {
+      "author": "bad_haircut72",
+      "comment_id": "49858820",
+      "comment_url": "https://news.ycombinator.com/item?id=49858820",
+      "context": "first_hand_use",
+      "excerpt": "I've had good success with",
+      "kind": "recommendation",
+      "parent_comment_id": "49857729"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49857729",
+  "id": "2026-09-27:whiteboard-mcp:49857729",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "whiteboard-mcp",
+  "rank": 5,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49857729",
+  "source_story_title": "Drawgent: Coding agent on a live Excalidraw canvas"
+}

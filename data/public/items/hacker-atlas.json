@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "hacker-atlas",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:hacker-atlas:49844497",
+  "mention_ids": [
+    "2026-09-27:hacker-atlas:49844497"
+  ],
+  "name": "Hacker Atlas",
+  "slug": "hacker-atlas",
+  "summary": "A visual map of Hacker News topics with a clean, mobile-friendly interface.",
+  "thing_url": "https://hackeratlas.com/",
+  "times_seen": 1,
+  "why_included": "A commenter praises the presentation and bookmarks the project."
+}

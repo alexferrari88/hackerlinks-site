@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "grill-me",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:grill-me:49840054",
+  "mention_ids": [
+    "2026-09-27:grill-me:49840054"
+  ],
+  "name": "grill-me",
+  "slug": "grill-me",
+  "summary": "An agent skill that interviews you about implementation choices before coding begins.",
+  "thing_url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
+  "times_seen": 1,
+  "why_included": "A developer reports a marked improvement in implementation quality from using the questioning skill."
+}

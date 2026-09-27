@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "whiteboard-mcp",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:whiteboard-mcp:49857729",
+  "mention_ids": [
+    "2026-09-27:whiteboard-mcp:49857729"
+  ],
+  "name": "whiteboard-mcp",
+  "slug": "whiteboard-mcp",
+  "summary": "A whiteboard integration for agents creating architecture diagrams.",
+  "thing_url": "https://whiteboard-mcp.com",
+  "times_seen": 1,
+  "why_included": "A commenter reports firsthand success and prefers it to other free diagramming alternatives."
+}

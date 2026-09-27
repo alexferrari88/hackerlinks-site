@@ -1,0 +1,23 @@
+{
+  "evidence": "A user thanks the developer and says Conversations has been their go-to for friends and family for years.",
+  "evidence_sources": [
+    {
+      "author": "4chandaily",
+      "comment_id": "49855671",
+      "comment_url": "https://news.ycombinator.com/item?id=49855671",
+      "context": "first_hand_use",
+      "excerpt": "thank you for Conversations, Daniel, it has been my go-to for years for communicating with friends and family.",
+      "kind": "recommendation",
+      "parent_comment_id": "49855315"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49855315",
+  "id": "2026-09-27:conversations:49855315",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "conversations",
+  "rank": 7,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49855315",
+  "source_story_title": "Breaking Up with Google Play: Why Conversations Is Now Free"
+}

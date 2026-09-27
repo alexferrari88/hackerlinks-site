@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "run_date": "2026-09-27",
+  "generated_at": "2026-09-27T05:16:37+02:00",
+  "summary": "Eleven comment-endorsed tools, apps, books and creative resources from the complete HN front-page crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-27.json",
+    "sha256": "2a5b7ed8669ed8d0093764b73a0478c983d6b88cee82b74e75fc514e4a9509b1",
+    "bytes": 2266033,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3522,
+    "fetched_item_count": 3552,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Floci", "category": "Dev Tools & Workflows", "thing_url": "https://floci.io", "hn_url": "https://news.ycombinator.com/item?id=49854416", "source_story_title": "Floci: Locally emulating any cloud service", "summary": "A local cloud-service emulator praised for lightweight integration testing with Testcontainers.", "why_included": "A developer reports sustained use and explicitly praises its lightweight testing workflow.", "evidence": "A user says Floci has worked well for integration tests and is lighter than LocalStack.",
+      "evidence_sources": [{"comment_id":"49856396","comment_url":"https://news.ycombinator.com/item?id=49856396","author":"microflash","excerpt":"Been using it for a while to run integration tests with Testcontainers [1]. It's very good and much more lightweight than Localstack.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49854416"}]
+    },
+    {
+      "name": "grill-me", "category": "Dev Tools & Workflows", "thing_url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md", "hn_url": "https://news.ycombinator.com/item?id=49840054", "source_story_title": "Plan mode is dead", "summary": "An agent skill that interviews you about implementation choices before coding begins.", "why_included": "A developer reports a marked improvement in implementation quality from using the questioning skill.", "evidence": "A user says the simple interviewing skill made Claude's implementation quality feel substantially better.",
+      "evidence_sources": [{"comment_id":"49853409","comment_url":"https://news.ycombinator.com/item?id=49853409","author":"valzam","excerpt":"I have been using this super simple skill[0] to make Claude ask exhaustive questions about the implementation of larger features. It has been absolutely amazing and felt like a step change in the output quality.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49840054"}]
+    },
+    {
+      "name": "Schematic", "category": "Dev Tools & Workflows", "thing_url": "https://gitlab.com/deltaex/schematic", "hn_url": "https://news.ycombinator.com/item?id=49854161", "source_story_title": "Is your Postgres migration safe or not safe?", "summary": "A database schema-management tool that avoids routine migrations for additive changes.", "why_included": "A production user credits it with avoiding routine migration work and guarding destructive changes.", "evidence": "A user says Schematic handles most additive changes without migrations and refuses potentially destructive auto-generated migrations.",
+      "evidence_sources": [{"comment_id":"49857458","comment_url":"https://news.ycombinator.com/item?id=49857458","author":"agubelu","excerpt":"the tool we use for schema management [1] removes the need for migrations for most additive schema changes. It refuses to auto-generate potentially destructive migrations","kind":"recommendation","context":"production_use","parent_comment_id":"49854161"}]
+    },
+    {
+      "name": "vercel-labs/emulate", "category": "Dev Tools & Workflows", "thing_url": "https://github.com/vercel-labs/emulate", "hn_url": "https://news.ycombinator.com/item?id=49854416", "source_story_title": "Floci: Locally emulating any cloud service", "summary": "An extensible service-emulation framework used to model cloud integrations and hardware devices.", "why_included": "A developer reports successful custom emulators and praises its working foundation.", "evidence": "A developer describes successful custom emulators and calls the project's existing framework a useful base.",
+      "evidence_sources": [{"comment_id":"49861620","comment_url":"https://news.ycombinator.com/item?id=49861620","author":"tough","excerpt":"i've made custom ones for stuff like emulating hardware devices (airplay/google play) with much success","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49857264"}]
+    },
+    {
+      "name": "whiteboard-mcp", "category": "Dev Tools & Workflows", "thing_url": "https://whiteboard-mcp.com", "hn_url": "https://news.ycombinator.com/item?id=49857729", "source_story_title": "Drawgent: Coding agent on a live Excalidraw canvas", "summary": "A whiteboard integration for agents creating architecture diagrams.", "why_included": "A commenter reports firsthand success and prefers it to other free diagramming alternatives.", "evidence": "A user reports good results with whiteboard-mcp for architecture diagrams.",
+      "evidence_sources": [{"comment_id":"49858820","comment_url":"https://news.ycombinator.com/item?id=49858820","author":"bad_haircut72","excerpt":"I've had good success with","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49857729"}]
+    },
+    {
+      "name": "Reladraw", "category": "Dev Tools & Workflows", "thing_url": "https://github.com/reladraw/reladraw", "hn_url": "https://news.ycombinator.com/item?id=49858513", "source_story_title": "Show HN: Reladraw – A diagram language where you decide where to place things", "summary": "A diagram-as-code language that lets authors specify relative placement of elements.", "why_included": "Commenters explicitly praise its approach to controlling diagram layout.", "evidence": "One commenter loves its approach and another says they intend to use it for their diagrams.",
+      "evidence_sources": [{"comment_id":"49860294","comment_url":"https://news.ycombinator.com/item?id=49860294","author":"kinduff","excerpt":"I love it, and I wish it was part of Mermaid.","kind":"recommendation","parent_comment_id":"49858513"},{"comment_id":"49860528","comment_url":"https://news.ycombinator.com/item?id=49860528","author":"ciefa","excerpt":"Definitely going to make use of this, I didn't know how much I wanted something like this until right now hahaha.","kind":"recommendation","parent_comment_id":"49858513"}]
+    },
+    {
+      "name": "Conversations", "category": "Apps & Side Projects", "thing_url": "https://conversations.im/", "hn_url": "https://news.ycombinator.com/item?id=49855315", "source_story_title": "Breaking Up with Google Play: Why Conversations Is Now Free", "summary": "An Android XMPP messenger that a longtime user relies on for family chats.", "why_included": "A commenter gives unambiguous positive firsthand experience over several years.", "evidence": "A user thanks the developer and says Conversations has been their go-to for friends and family for years.",
+      "evidence_sources": [{"comment_id":"49855671","comment_url":"https://news.ycombinator.com/item?id=49855671","author":"4chandaily","excerpt":"thank you for Conversations, Daniel, it has been my go-to for years for communicating with friends and family.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"49855315"}]
+    },
+    {
+      "name": "Hacker Atlas", "category": "Apps & Side Projects", "thing_url": "https://hackeratlas.com/", "hn_url": "https://news.ycombinator.com/item?id=49844497", "source_story_title": "Show HN: Hacker Atlas - A map of what Hacker News talks about", "summary": "A visual map of Hacker News topics with a clean, mobile-friendly interface.", "why_included": "A commenter praises the presentation and bookmarks the project.", "evidence": "A commenter calls its interface clean and mobile-friendly, then bookmarks it.",
+      "evidence_sources": [{"comment_id":"49853162","comment_url":"https://news.ycombinator.com/item?id=49853162","author":"alfg","excerpt":"Great idea. UI looks good and clean as well as mobile-friendly. Thanks for this, bookmarked.","kind":"recommendation","context":"evaluated","parent_comment_id":"49844497"}]
+    },
+    {
+      "name": "Drawesome", "category": "Apps & Side Projects", "thing_url": "https://drawesome.art", "hn_url": "https://news.ycombinator.com/item?id=49854875", "source_story_title": "How to keep enjoying programming in a world of LLMs", "summary": "A collaborative drawing canvas whose creator says their children enjoy it.", "why_included": "Its creator reports specific positive use by the intended family audience.", "evidence": "The maker says their children love sharing the drawing canvas.",
+      "evidence_sources": [{"comment_id":"49860894","comment_url":"https://news.ycombinator.com/item?id=49860894","author":"kraig911","excerpt":"multiple people drawing/painting/coloring on the same canvas my kids love this.","kind":"recommendation","context":"author_or_maintainer","parent_comment_id":"49859774"}]
+    },
+    {
+      "name": "mobygratis", "category": "Media & Publishing", "thing_url": "https://mobygratis.com/", "hn_url": "https://news.ycombinator.com/item?id=49832768", "source_story_title": "A searchable library of forgotten public-domain film clips from 1915 onward", "summary": "Moby's free instrumental-music library for filmmakers and other creators.", "why_included": "A commenter explicitly suggests it to found-footage makers and praises its collection.", "evidence": "A commenter calls mobygratis an amazing gift to filmmakers and a pleasant listening library.",
+      "evidence_sources": [{"comment_id":"49862762","comment_url":"https://news.ycombinator.com/item?id=49862762","author":"ynac","excerpt":"an amazing gift to filmmakers and a pretty snazzy listening experience for (semi-)library music.","kind":"recommendation","parent_comment_id":"49832768"}]
+    },
+    {
+      "name": "Sacred Economics", "category": "Read & Watch", "thing_url": "https://charleseisenstein.org/books/sacred-economics/", "hn_url": "https://news.ycombinator.com/item?id=49855315", "source_story_title": "Breaking Up with Google Play: Why Conversations Is Now Free", "summary": "Charles Eisenstein's freely readable book about money, gift economies and exchange.", "why_included": "A commenter directly recommends the book in the discussion of platform economics.", "evidence": "A commenter recommends Sacred Economics as related reading and notes it is free online.",
+      "evidence_sources": [{"comment_id":"49855798","comment_url":"https://news.ycombinator.com/item?id=49855798","author":"N_Lens","excerpt":"I recommend the book “sacred economics” regarding this play. Free to read online","kind":"recommendation","parent_comment_id":"49855315"}]
+    }
+  ]
+}

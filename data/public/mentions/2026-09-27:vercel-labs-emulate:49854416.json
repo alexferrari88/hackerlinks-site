@@ -1,0 +1,23 @@
+{
+  "evidence": "A developer describes successful custom emulators and calls the project's existing framework a useful base.",
+  "evidence_sources": [
+    {
+      "author": "tough",
+      "comment_id": "49861620",
+      "comment_url": "https://news.ycombinator.com/item?id=49861620",
+      "context": "first_hand_use",
+      "excerpt": "i've made custom ones for stuff like emulating hardware devices (airplay/google play) with much success",
+      "kind": "recommendation",
+      "parent_comment_id": "49857264"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49854416",
+  "id": "2026-09-27:vercel-labs-emulate:49854416",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "vercel-labs-emulate",
+  "rank": 4,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49854416",
+  "source_story_title": "Floci: Locally emulating any cloud service"
+}

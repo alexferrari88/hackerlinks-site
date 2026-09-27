@@ -1,0 +1,23 @@
+{
+  "evidence": "A user says Schematic handles most additive changes without migrations and refuses potentially destructive auto-generated migrations.",
+  "evidence_sources": [
+    {
+      "author": "agubelu",
+      "comment_id": "49857458",
+      "comment_url": "https://news.ycombinator.com/item?id=49857458",
+      "context": "production_use",
+      "excerpt": "the tool we use for schema management [1] removes the need for migrations for most additive schema changes. It refuses to auto-generate potentially destructive migrations",
+      "kind": "recommendation",
+      "parent_comment_id": "49854161"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49854161",
+  "id": "2026-09-27:schematic:49854161",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "schematic",
+  "rank": 3,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49854161",
+  "source_story_title": "Is your Postgres migration safe or not safe?"
+}

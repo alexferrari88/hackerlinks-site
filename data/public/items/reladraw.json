@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "reladraw",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:reladraw:49858513",
+  "mention_ids": [
+    "2026-09-27:reladraw:49858513"
+  ],
+  "name": "Reladraw",
+  "slug": "reladraw",
+  "summary": "A diagram-as-code language that lets authors specify relative placement of elements.",
+  "thing_url": "https://github.com/reladraw/reladraw",
+  "times_seen": 1,
+  "why_included": "Commenters explicitly praise its approach to controlling diagram layout."
+}

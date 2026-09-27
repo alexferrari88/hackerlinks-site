@@ -1,0 +1,23 @@
+{
+  "evidence": "A user says the simple interviewing skill made Claude's implementation quality feel substantially better.",
+  "evidence_sources": [
+    {
+      "author": "valzam",
+      "comment_id": "49853409",
+      "comment_url": "https://news.ycombinator.com/item?id=49853409",
+      "context": "first_hand_use",
+      "excerpt": "I have been using this super simple skill[0] to make Claude ask exhaustive questions about the implementation of larger features. It has been absolutely amazing and felt like a step change in the output quality.",
+      "kind": "recommendation",
+      "parent_comment_id": "49840054"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49840054",
+  "id": "2026-09-27:grill-me:49840054",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "grill-me",
+  "rank": 2,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49840054",
+  "source_story_title": "Plan mode is dead"
+}

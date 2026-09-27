@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "sacred-economics",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:sacred-economics:49855315",
+  "mention_ids": [
+    "2026-09-27:sacred-economics:49855315"
+  ],
+  "name": "Sacred Economics",
+  "slug": "sacred-economics",
+  "summary": "Charles Eisenstein's freely readable book about money, gift economies and exchange.",
+  "thing_url": "https://charleseisenstein.org/books/sacred-economics/",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommends the book in the discussion of platform economics."
+}

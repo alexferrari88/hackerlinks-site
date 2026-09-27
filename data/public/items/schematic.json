@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "schematic",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:schematic:49854161",
+  "mention_ids": [
+    "2026-09-27:schematic:49854161"
+  ],
+  "name": "Schematic",
+  "slug": "schematic",
+  "summary": "A database schema-management tool that avoids routine migrations for additive changes.",
+  "thing_url": "https://gitlab.com/deltaex/schematic",
+  "times_seen": 1,
+  "why_included": "A production user credits it with avoiding routine migration work and guarding destructive changes."
+}

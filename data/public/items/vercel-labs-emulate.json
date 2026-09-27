@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-27T05:16:37+02:00",
+  "id": "vercel-labs-emulate",
+  "last_seen_at": "2026-09-27T05:16:37+02:00",
+  "latest_mention_id": "2026-09-27:vercel-labs-emulate:49854416",
+  "mention_ids": [
+    "2026-09-27:vercel-labs-emulate:49854416"
+  ],
+  "name": "vercel-labs/emulate",
+  "slug": "vercel-labs-emulate",
+  "summary": "An extensible service-emulation framework used to model cloud integrations and hardware devices.",
+  "thing_url": "https://github.com/vercel-labs/emulate",
+  "times_seen": 1,
+  "why_included": "A developer reports successful custom emulators and praises its working foundation."
+}

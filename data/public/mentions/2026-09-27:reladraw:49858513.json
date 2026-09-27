@@ -1,0 +1,30 @@
+{
+  "evidence": "One commenter loves its approach and another says they intend to use it for their diagrams.",
+  "evidence_sources": [
+    {
+      "author": "kinduff",
+      "comment_id": "49860294",
+      "comment_url": "https://news.ycombinator.com/item?id=49860294",
+      "excerpt": "I love it, and I wish it was part of Mermaid.",
+      "kind": "recommendation",
+      "parent_comment_id": "49858513"
+    },
+    {
+      "author": "ciefa",
+      "comment_id": "49860528",
+      "comment_url": "https://news.ycombinator.com/item?id=49860528",
+      "excerpt": "Definitely going to make use of this, I didn't know how much I wanted something like this until right now hahaha.",
+      "kind": "recommendation",
+      "parent_comment_id": "49858513"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49858513",
+  "id": "2026-09-27:reladraw:49858513",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "reladraw",
+  "rank": 6,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49858513",
+  "source_story_title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things"
+}

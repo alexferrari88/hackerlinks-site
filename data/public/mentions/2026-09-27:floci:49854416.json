@@ -1,0 +1,23 @@
+{
+  "evidence": "A user says Floci has worked well for integration tests and is lighter than LocalStack.",
+  "evidence_sources": [
+    {
+      "author": "microflash",
+      "comment_id": "49856396",
+      "comment_url": "https://news.ycombinator.com/item?id=49856396",
+      "context": "first_hand_use",
+      "excerpt": "Been using it for a while to run integration tests with Testcontainers [1]. It's very good and much more lightweight than Localstack.",
+      "kind": "recommendation",
+      "parent_comment_id": "49854416"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49854416",
+  "id": "2026-09-27:floci:49854416",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "floci",
+  "rank": 1,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49854416",
+  "source_story_title": "Floci: Locally emulating any cloud service"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Sacred Economics as related reading and notes it is free online.",
+  "evidence_sources": [
+    {
+      "author": "N_Lens",
+      "comment_id": "49855798",
+      "comment_url": "https://news.ycombinator.com/item?id=49855798",
+      "excerpt": "I recommend the book \u201csacred economics\u201d regarding this play. Free to read online",
+      "kind": "recommendation",
+      "parent_comment_id": "49855315"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49855315",
+  "id": "2026-09-27:sacred-economics:49855315",
+  "is_repeat": false,
+  "issue_id": "2026-09-27",
+  "item_id": "sacred-economics",
+  "rank": 11,
+  "seen_at": "2026-09-27T05:16:37+02:00",
+  "source_story_id": "49855315",
+  "source_story_title": "Breaking Up with Google Play: Why Conversations Is Now Free"
+}
