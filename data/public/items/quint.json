@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-04T21:23:23Z",
   "id": "quint",
-  "last_seen_at": "2026-05-04T21:23:23Z",
-  "latest_mention_id": "2026-05-04:quint:48009172",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:quint:49863600",
   "mention_ids": [
-    "2026-05-04:quint:48009172"
+    "2026-05-04:quint:48009172",
+    "2026-09-28:quint:49863600"
   ],
   "name": "Quint",
   "slug": "quint",
-  "summary": "Executable specification language for modeling and verification.",
-  "thing_url": "https://quint.sh/",
-  "times_seen": 1,
-  "why_included": "A Redis-thread commenter pointed to Quint as a formal-modeling option."
+  "summary": "A formal-modeling language for testing system designs before implementation; one user found transaction bugs.",
+  "thing_url": "https://github.com/quint-co/quint",
+  "times_seen": 2,
+  "why_included": "A first-hand report describes concrete bugs caught by modeling features with Quint."
 }

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says their Quint-assisted design workflow found and fixed transaction and atomicity bugs, though it takes longer.",
+  "evidence_sources": [
+    {
+      "author": "stevefan1999",
+      "comment_id": "49865720",
+      "comment_url": "https://news.ycombinator.com/item?id=49865720",
+      "context": "first_hand_use",
+      "excerpt": "A lot of transaction and atomic bugs were found and fixed just by having such simple instruction alone.",
+      "kind": "recommendation",
+      "parent_comment_id": "49863600"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49863600",
+  "id": "2026-09-28:quint:49863600",
+  "is_repeat": true,
+  "issue_id": "2026-09-28",
+  "item_id": "quint",
+  "rank": 1,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49863600",
+  "source_story_title": "The internet discovers TLA+. Now what?"
+}

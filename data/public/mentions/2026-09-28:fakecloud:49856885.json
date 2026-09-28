@@ -1,0 +1,22 @@
+{
+  "evidence": "One commenter says its SES support looks especially good, better than LocalStack's; this is an impression, not a test report.",
+  "evidence_sources": [
+    {
+      "author": "zeronone",
+      "comment_id": "49872175",
+      "comment_url": "https://news.ycombinator.com/item?id=49872175",
+      "excerpt": "The support for SES looks really great, better than LocalStack.",
+      "kind": "recommendation",
+      "parent_comment_id": "49856885"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49856885",
+  "id": "2026-09-28:fakecloud:49856885",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "fakecloud",
+  "rank": 2,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49856885",
+  "source_story_title": "Fakecloud: Local AWS cloud emulator for integration tests"
+}

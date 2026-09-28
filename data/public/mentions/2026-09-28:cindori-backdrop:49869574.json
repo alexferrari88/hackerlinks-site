@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reports great success with Cindori Backdrop while noting it is not free.",
+  "evidence_sources": [
+    {
+      "author": "Vakaiser",
+      "comment_id": "49870068",
+      "comment_url": "https://news.ycombinator.com/item?id=49870068",
+      "context": "first_hand_use",
+      "excerpt": "While it's not free or a first party offering, I've had great success with Cindori Backdrop:",
+      "kind": "recommendation",
+      "parent_comment_id": "49869858"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49869574",
+  "id": "2026-09-28:cindori-backdrop:49869574",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "cindori-backdrop",
+  "rank": 5,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49869574",
+  "source_story_title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi"
+}

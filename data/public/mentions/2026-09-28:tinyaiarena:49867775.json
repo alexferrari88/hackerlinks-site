@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says they love the project and its aesthetic.",
+  "evidence_sources": [
+    {
+      "author": "rao-v",
+      "comment_id": "49868585",
+      "comment_url": "https://news.ycombinator.com/item?id=49868585",
+      "excerpt": "I love this and the aesthetic.",
+      "kind": "recommendation",
+      "parent_comment_id": "49867775"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49867775",
+  "id": "2026-09-28:tinyaiarena:49867775",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "tinyaiarena",
+  "rank": 7,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49867775",
+  "source_story_title": "Show HN: TinyAIArena watch AI agents battle it out"
+}

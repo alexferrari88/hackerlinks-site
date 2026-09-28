@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the PDF a great-looking resource, but explicitly says they have not read it.",
+  "evidence_sources": [
+    {
+      "author": "MaxBarraclough",
+      "comment_id": "49868851",
+      "comment_url": "https://news.ycombinator.com/item?id=49868851",
+      "excerpt": "I've not read Fog's Optimizing software in C++ but I see it's freely available there as a PDF (182 pages). Looks like a great resource on these topics.",
+      "kind": "recommendation",
+      "parent_comment_id": "49868657"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49849409",
+  "id": "2026-09-28:optimizing-software-in-c:49849409",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "optimizing-software-in-c",
+  "rank": 8,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49849409",
+  "source_story_title": "Writing Efficient C++ Code (2013)"
+}

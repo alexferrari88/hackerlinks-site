@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-28T05:17:14+02:00",
+  "id": "leslie-lamport-s-tla-video-course",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:leslie-lamport-s-tla-video-course:49863600",
+  "mention_ids": [
+    "2026-09-28:leslie-lamport-s-tla-video-course:49863600"
+  ],
+  "name": "Leslie Lamport's TLA+ video course",
+  "slug": "leslie-lamport-s-tla-video-course",
+  "summary": "A TLA+ video course taught by Leslie Lamport; recommended as an approachable introduction.",
+  "thing_url": "https://lamport.azurewebsites.net/video/videos.html",
+  "times_seen": 1,
+  "why_included": "A commenter independently points readers to the course and praises it."
+}

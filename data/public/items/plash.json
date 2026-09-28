@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-28T05:17:14+02:00",
+  "id": "plash",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:plash:49869574",
+  "mention_ids": [
+    "2026-09-28:plash:49869574"
+  ],
+  "name": "Plash",
+  "slug": "plash",
+  "summary": "A macOS app for using websites as desktop wallpapers; tested with Lofi Cities.",
+  "thing_url": "https://sindresorhus.com/plash",
+  "times_seen": 1,
+  "why_included": "A commenter reports a specific working setup rather than speculative compatibility."
+}

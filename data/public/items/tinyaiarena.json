@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-28T05:17:14+02:00",
+  "id": "tinyaiarena",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:tinyaiarena:49867775",
+  "mention_ids": [
+    "2026-09-28:tinyaiarena:49867775"
+  ],
+  "name": "TinyAIArena",
+  "slug": "tinyaiarena",
+  "summary": "A site for watching AI agents battle; a commenter liked the experience and aesthetic.",
+  "thing_url": "https://tinyaiarena.com/",
+  "times_seen": 1,
+  "why_included": "The reply explicitly praises the project, rather than merely describing its launch."
+}

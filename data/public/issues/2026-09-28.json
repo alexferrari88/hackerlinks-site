@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T05:17:14+02:00",
+  "headline": "10 interesting things surfaced from HN on 2026-09-28",
+  "id": "2026-09-28",
+  "mention_ids": [
+    "2026-09-28:quint:49863600",
+    "2026-09-28:fakecloud:49856885",
+    "2026-09-28:kagi:49870367",
+    "2026-09-28:plash:49869574",
+    "2026-09-28:cindori-backdrop:49869574",
+    "2026-09-28:lofi-cities:49869574",
+    "2026-09-28:tinyaiarena:49867775",
+    "2026-09-28:optimizing-software-in-c:49849409",
+    "2026-09-28:leslie-lamport-s-tla-video-course:49863600",
+    "2026-09-28:you-re-probably-using-the-wrong-dictionary:49870367"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

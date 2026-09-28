@@ -1,0 +1,23 @@
+{
+  "evidence": "A user tested Lofi Cities as a macOS wallpaper in Plash and reports that it works well.",
+  "evidence_sources": [
+    {
+      "author": "andelink",
+      "comment_id": "49870725",
+      "comment_url": "https://news.ycombinator.com/item?id=49870725",
+      "context": "evaluated",
+      "excerpt": "Just tested and this works great on macOS with Plash [1] by Sindre Sorhus.",
+      "kind": "recommendation",
+      "parent_comment_id": "49869858"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49869574",
+  "id": "2026-09-28:plash:49869574",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "plash",
+  "rank": 4,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49869574",
+  "source_story_title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi"
+}

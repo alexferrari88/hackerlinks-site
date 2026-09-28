@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says James Somers' dictionary essay changed their life for the better.",
+  "evidence_sources": [
+    {
+      "author": "willturman",
+      "comment_id": "49871967",
+      "comment_url": "https://news.ycombinator.com/item?id=49871967",
+      "excerpt": "James Somers\u2019 You\u2019re probably using the wrong dictionary (2014) changed my life for the better.",
+      "kind": "recommendation",
+      "parent_comment_id": "49870762"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49870367",
+  "id": "2026-09-28:you-re-probably-using-the-wrong-dictionary:49870367",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "you-re-probably-using-the-wrong-dictionary",
+  "rank": 10,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49870367",
+  "source_story_title": "When did Google get so weird?"
+}

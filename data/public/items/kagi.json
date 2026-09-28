@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-19T21:23:59.571471Z",
   "id": "kagi",
-  "last_seen_at": "2026-05-19T21:23:59.571471Z",
-  "latest_mention_id": "2026-05-19:kagi:48197370",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:kagi:49870367",
   "mention_ids": [
-    "2026-05-19:kagi:48197370"
+    "2026-05-19:kagi:48197370",
+    "2026-09-28:kagi:49870367"
   ],
   "name": "Kagi",
   "slug": "kagi",
-  "summary": "A paid search engine people say is better than Google.",
+  "summary": "A paid search engine; a longtime user likes its results and customer-first model.",
   "thing_url": "https://kagi.com/",
-  "times_seen": 1,
-  "why_included": "The Google search-box thread turned into repeated first-hand endorsements."
+  "times_seen": 2,
+  "why_included": "A multi-year user offers direct positive experience, with another commenter praising its search-first assistant."
 }

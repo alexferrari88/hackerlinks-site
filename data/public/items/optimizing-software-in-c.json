@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-28T05:17:14+02:00",
+  "id": "optimizing-software-in-c",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:optimizing-software-in-c:49849409",
+  "mention_ids": [
+    "2026-09-28:optimizing-software-in-c:49849409"
+  ],
+  "name": "Optimizing software in C++",
+  "slug": "optimizing-software-in-c",
+  "summary": "Agner Fog's freely available C++ optimization PDF; a commenter flagged it as promising.",
+  "thing_url": "https://www.agner.org/optimize/optimizing_cpp.pdf",
+  "times_seen": 1,
+  "why_included": "The reply names a concrete free resource and positively recommends its apparent relevance."
+}

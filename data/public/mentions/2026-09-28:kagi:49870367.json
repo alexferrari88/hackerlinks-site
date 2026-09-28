@@ -1,0 +1,31 @@
+{
+  "evidence": "One user says they have used Kagi for years without looking back; another calls its search-first assistant great.",
+  "evidence_sources": [
+    {
+      "author": "kelnos",
+      "comment_id": "49871094",
+      "comment_url": "https://news.ycombinator.com/item?id=49871094",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Kagi for a couple years now and haven't looked back.",
+      "kind": "recommendation",
+      "parent_comment_id": "49870851"
+    },
+    {
+      "author": "terribleperson",
+      "comment_id": "49870772",
+      "comment_url": "https://news.ycombinator.com/item?id=49870772",
+      "excerpt": "Searching first is how Kagi assistant works and it's great.",
+      "kind": "recommendation",
+      "parent_comment_id": "49870615"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49870367",
+  "id": "2026-09-28:kagi:49870367",
+  "is_repeat": true,
+  "issue_id": "2026-09-28",
+  "item_id": "kagi",
+  "rank": 3,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49870367",
+  "source_story_title": "When did Google get so weird?"
+}

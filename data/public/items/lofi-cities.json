@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-28T05:17:14+02:00",
+  "id": "lofi-cities",
+  "last_seen_at": "2026-09-28T05:17:14+02:00",
+  "latest_mention_id": "2026-09-28:lofi-cities:49869574",
+  "mention_ids": [
+    "2026-09-28:lofi-cities:49869574"
+  ],
+  "name": "Lofi Cities",
+  "slug": "lofi-cities",
+  "summary": "Browser-based pixel-city scenes with procedurally synthesized lofi music; commenters praised the presentation.",
+  "thing_url": "https://loficities.com/",
+  "times_seen": 1,
+  "why_included": "Independent replies praise the city's presentation and the FM-synth music."
+}

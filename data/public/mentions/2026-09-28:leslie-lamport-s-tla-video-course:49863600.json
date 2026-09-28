@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Lamport's TLA+ course lovely, with memorable presentation.",
+  "evidence_sources": [
+    {
+      "author": "drpacman",
+      "comment_id": "49870076",
+      "comment_url": "https://news.ycombinator.com/item?id=49870076",
+      "excerpt": "This is a lovely little course on TLA+ by Lamport himself - has some great wigs too",
+      "kind": "recommendation",
+      "parent_comment_id": "49863600"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49863600",
+  "id": "2026-09-28:leslie-lamport-s-tla-video-course:49863600",
+  "is_repeat": false,
+  "issue_id": "2026-09-28",
+  "item_id": "leslie-lamport-s-tla-video-course",
+  "rank": 9,
+  "seen_at": "2026-09-28T05:17:14+02:00",
+  "source_story_id": "49863600",
+  "source_story_title": "The internet discovers TLA+. Now what?"
+}
