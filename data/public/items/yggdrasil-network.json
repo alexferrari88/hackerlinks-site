@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "yggdrasil-network",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:yggdrasil-network:49870295",
+  "mention_ids": [
+    "2026-09-29:yggdrasil-network:49870295"
+  ],
+  "name": "Yggdrasil Network",
+  "slug": "yggdrasil-network",
+  "summary": "An encrypted IPv6 overlay network recommended for speed, not anonymity.",
+  "thing_url": "https://yggdrasil-network.github.io/",
+  "times_seen": 1,
+  "why_included": "The commenter explicitly urged readers to try Yggdrasil and supplied a crucial privacy caveat."
+}

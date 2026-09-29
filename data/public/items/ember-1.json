@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "ember-1",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:ember-1:49881850",
+  "mention_ids": [
+    "2026-09-29:ember-1:49881850"
+  ],
+  "name": "Ember-1",
+  "slug": "ember-1",
+  "summary": "A Fireworks fine-tuned model; a production user liked its shorter reasoning.",
+  "thing_url": "https://fireworks.ai/blog/ember-1",
+  "times_seen": 1,
+  "why_included": "A commenter using Fireworks independently praised the named model."
+}

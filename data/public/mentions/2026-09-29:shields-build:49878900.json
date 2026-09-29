@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the generative-shields project really cool.",
+  "evidence_sources": [
+    {
+      "author": "NickNaraghi",
+      "comment_id": "49881436",
+      "comment_url": "https://news.ycombinator.com/item?id=49878900#49881436",
+      "excerpt": "There was a really cool project a few years ago from Area Tech that explored this - generative shields (with heraldry on them).",
+      "kind": "recommendation",
+      "parent_comment_id": "49878900"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49878900",
+  "id": "2026-09-29:shields-build:49878900",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "shields-build",
+  "rank": 6,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49878900",
+  "source_story_title": "What heraldry and Japanese mon can teach about visual-identity generators"
+}

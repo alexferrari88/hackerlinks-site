@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called the site one of their favorite HN discoveries.",
+  "evidence_sources": [
+    {
+      "author": "pseudosavant",
+      "comment_id": "49882424",
+      "comment_url": "https://news.ycombinator.com/item?id=49880601#49882424",
+      "context": "first_hand_use",
+      "excerpt": "This is one of my favorite things I've ever stumbled across on HN",
+      "kind": "recommendation",
+      "parent_comment_id": "49880601"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49880601",
+  "id": "2026-09-29:destroy-any-website-with-stickman:49880601",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "destroy-any-website-with-stickman",
+  "rank": 9,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49880601",
+  "source_story_title": "Show HN: Destroy Any Website with Stickman"
+}

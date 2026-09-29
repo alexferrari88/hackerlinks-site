@@ -1,0 +1,23 @@
+{
+  "evidence": "A prerelease user reported success but said version 1.0 was not out and CI was red.",
+  "evidence_sources": [
+    {
+      "author": "esafak",
+      "comment_id": "49882151",
+      "comment_url": "https://news.ycombinator.com/item?id=49879577#49882151",
+      "context": "first_hand_use",
+      "excerpt": "I have been using the pre-releases with success, but this post could have waited a few days!",
+      "kind": "recommendation",
+      "parent_comment_id": "49879577"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49879577",
+  "id": "2026-09-29:cloudflare-cf:49879577",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "cloudflare-cf",
+  "rank": 2,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49879577",
+  "source_story_title": "Cf: The Agentic CLI for the Cloudflare API"
+}

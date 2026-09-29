@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "creating-sigils",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:creating-sigils:49878900",
+  "mention_ids": [
+    "2026-09-29:creating-sigils:49878900"
+  ],
+  "name": "Creating Sigils",
+  "slug": "creating-sigils",
+  "summary": "An Urbit design article about generating unique sigils, endorsed as a favorite read.",
+  "thing_url": "https://urbit.org/blog/creating-sigils",
+  "times_seen": 1,
+  "why_included": "A commenter singled out the article itself as a favorite design and technology read."
+}

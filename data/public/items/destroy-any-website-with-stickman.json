@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "destroy-any-website-with-stickman",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:destroy-any-website-with-stickman:49880601",
+  "mention_ids": [
+    "2026-09-29:destroy-any-website-with-stickman:49880601"
+  ],
+  "name": "Destroy Any Website with Stickman",
+  "slug": "destroy-any-website-with-stickman",
+  "summary": "A playful browser toy for wrecking websites with a stick figure, called an HN favorite.",
+  "thing_url": "https://destroy.spritefusion.com/",
+  "times_seen": 1,
+  "why_included": "A commenter enthusiastically endorsed the project itself."
+}

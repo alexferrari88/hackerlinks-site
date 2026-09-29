@@ -1,0 +1,23 @@
+{
+  "evidence": "A Fireworks user called Ember-1 pretty good and said it thinks less than Kimi3.",
+  "evidence_sources": [
+    {
+      "author": "verdverm",
+      "comment_id": "49886589",
+      "comment_url": "https://news.ycombinator.com/item?id=49881850#49886589",
+      "context": "production_use",
+      "excerpt": "Their new Ember-1 model is pretty good, fine-tune of Kimi3 with way less thinking",
+      "kind": "recommendation",
+      "parent_comment_id": "49886306"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49881850",
+  "id": "2026-09-29:ember-1:49881850",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "ember-1",
+  "rank": 1,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49881850",
+  "source_story_title": "Sonnet 5.5"
+}

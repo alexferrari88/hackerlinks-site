@@ -1,0 +1,23 @@
+{
+  "evidence": "A former user said BitlBee worked better than expected when bridging chat services.",
+  "evidence_sources": [
+    {
+      "author": "Athas",
+      "comment_id": "49876490",
+      "comment_url": "https://news.ycombinator.com/item?id=49875913#49876490",
+      "context": "first_hand_use",
+      "excerpt": "It worked way better than you would expect, especially back in the day when you could use XMPP to connect to the various proprietary chat services.",
+      "kind": "recommendation",
+      "parent_comment_id": "49876340"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49875913",
+  "id": "2026-09-29:bitlbee:49875913",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "bitlbee",
+  "rank": 4,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49875913",
+  "source_story_title": "Parley: Federated, decentralised chat that speaks plain IRC"
+}

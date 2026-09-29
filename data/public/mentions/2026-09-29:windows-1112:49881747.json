@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter called the site insanely good and said it mirrored their Windows experience.",
+  "evidence_sources": [
+    {
+      "author": "accrual",
+      "comment_id": "49882388",
+      "comment_url": "https://news.ycombinator.com/item?id=49881747#49882388",
+      "context": "first_hand_use",
+      "excerpt": "This is insanely good and mimics my personal experience of Windows these days.",
+      "kind": "recommendation",
+      "parent_comment_id": "49881747"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49881747",
+  "id": "2026-09-29:windows-1112:49881747",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "windows-1112",
+  "rank": 8,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49881747",
+  "source_story_title": "Windows 11\u00bd"
+}

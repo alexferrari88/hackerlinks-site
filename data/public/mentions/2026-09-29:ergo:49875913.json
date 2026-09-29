@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommends Ergo, citing its single binary and IRCv3 support.",
+  "evidence_sources": [
+    {
+      "author": "stackghost",
+      "comment_id": "49883194",
+      "comment_url": "https://news.ycombinator.com/item?id=49875913#49883194",
+      "context": "first_hand_use",
+      "excerpt": "I recommend the Ergo ircd. It ships as a single binary (golang), can support tens of thousands of clients, is at the forefront of the ircv3 modernization initiative, and is under active development.",
+      "kind": "recommendation",
+      "parent_comment_id": "49880976"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49875913",
+  "id": "2026-09-29:ergo:49875913",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "ergo",
+  "rank": 3,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49875913",
+  "source_story_title": "Parley: Federated, decentralised chat that speaks plain IRC"
+}

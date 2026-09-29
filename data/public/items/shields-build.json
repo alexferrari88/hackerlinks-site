@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "shields-build",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:shields-build:49878900",
+  "mention_ids": [
+    "2026-09-29:shields-build:49878900"
+  ],
+  "name": "Shields.build",
+  "slug": "shields-build",
+  "summary": "A generative heraldic-shield project highlighted as a cool visual-identity experiment.",
+  "thing_url": "https://shields.build/",
+  "times_seen": 1,
+  "why_included": "A commenter independently praised and linked the named design project."
+}

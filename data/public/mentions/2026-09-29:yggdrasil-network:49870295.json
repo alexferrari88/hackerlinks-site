@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter especially recommends Yggdrasil for speed and latency, while warning it provides no anonymity.",
+  "evidence_sources": [
+    {
+      "author": "coldblues",
+      "comment_id": "49875569",
+      "comment_url": "https://news.ycombinator.com/item?id=49870295#49875569",
+      "excerpt": "I recommend that people give I2P and Yggdrasil a try as well, especially Yggdrasil. It makes no compromises on speed and latency, but it has no anonymity.",
+      "kind": "recommendation",
+      "parent_comment_id": "49870295"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49870295",
+  "id": "2026-09-29:yggdrasil-network:49870295",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "yggdrasil-network",
+  "rank": 5,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49870295",
+  "source_story_title": "Self-Hosting on the Dark Web"
+}

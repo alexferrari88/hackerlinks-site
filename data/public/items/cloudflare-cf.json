@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "cloudflare-cf",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:cloudflare-cf:49879577",
+  "mention_ids": [
+    "2026-09-29:cloudflare-cf:49879577"
+  ],
+  "name": "Cloudflare cf",
+  "slug": "cloudflare-cf",
+  "summary": "A CLI for Cloudflare's API; a prerelease user reported success, with a release caveat.",
+  "thing_url": "https://github.com/cloudflare/cf",
+  "times_seen": 1,
+  "why_included": "A commenter described successful hands-on use, while flagging the immature release state."
+}

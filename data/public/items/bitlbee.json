@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "bitlbee",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:bitlbee:49875913",
+  "mention_ids": [
+    "2026-09-29:bitlbee:49875913"
+  ],
+  "name": "BitlBee",
+  "slug": "bitlbee",
+  "summary": "An IRC gateway for other chat protocols that a former user found surprisingly effective.",
+  "thing_url": "https://bitlbee.org/",
+  "times_seen": 1,
+  "why_included": "A first-hand commenter praised how well this specific chat bridge worked."
+}

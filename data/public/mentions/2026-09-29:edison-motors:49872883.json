@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter said they loved Edison Motors' business ethos and rugged utilitarian design.",
+  "evidence_sources": [
+    {
+      "author": "ehnto",
+      "comment_id": "49873921",
+      "comment_url": "https://news.ycombinator.com/item?id=49872883#49873921",
+      "excerpt": "I really love what Edison are doing, I have no skin in the game I just think it's a great business ethos.",
+      "kind": "recommendation",
+      "parent_comment_id": "49873565"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49872883",
+  "id": "2026-09-29:edison-motors:49872883",
+  "is_repeat": false,
+  "issue_id": "2026-09-29",
+  "item_id": "edison-motors",
+  "rank": 10,
+  "seen_at": "2026-09-29T05:18:02+02:00",
+  "source_story_id": "49872883",
+  "source_story_title": "Nissan's third generation e-POWER powertrain"
+}

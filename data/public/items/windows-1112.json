@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "windows-1112",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:windows-1112:49881747",
+  "mention_ids": [
+    "2026-09-29:windows-1112:49881747"
+  ],
+  "name": "Windows 11\u00bd",
+  "slug": "windows-1112",
+  "summary": "An interactive Windows parody praised for capturing the desktop's constant interruptions.",
+  "thing_url": "https://definitelynotwindows.com/",
+  "times_seen": 1,
+  "why_included": "A commenter positively endorsed the actual experience, not only the submission title."
+}

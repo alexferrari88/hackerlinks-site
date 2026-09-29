@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "edison-motors",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:edison-motors:49872883",
+  "mention_ids": [
+    "2026-09-29:edison-motors:49872883"
+  ],
+  "name": "Edison Motors",
+  "slug": "edison-motors",
+  "summary": "A Canadian builder of diesel-electric heavy trucks praised for its rugged design and ethos.",
+  "thing_url": "https://edisonmotors.ca/",
+  "times_seen": 1,
+  "why_included": "A commenter independently praised the named truck maker in a hybrid-powertrain discussion."
+}

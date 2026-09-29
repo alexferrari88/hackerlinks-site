@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T05:18:02+02:00",
+  "headline": "10 interesting things surfaced from HN on 2026-09-29",
+  "id": "2026-09-29",
+  "mention_ids": [
+    "2026-09-29:ember-1:49881850",
+    "2026-09-29:cloudflare-cf:49879577",
+    "2026-09-29:ergo:49875913",
+    "2026-09-29:bitlbee:49875913",
+    "2026-09-29:yggdrasil-network:49870295",
+    "2026-09-29:shields-build:49878900",
+    "2026-09-29:creating-sigils:49878900",
+    "2026-09-29:windows-1112:49881747",
+    "2026-09-29:destroy-any-website-with-stickman:49880601",
+    "2026-09-29:edison-motors:49872883"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

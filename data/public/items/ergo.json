@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-29T05:18:02+02:00",
+  "id": "ergo",
+  "last_seen_at": "2026-09-29T05:18:02+02:00",
+  "latest_mention_id": "2026-09-29:ergo:49875913",
+  "mention_ids": [
+    "2026-09-29:ergo:49875913"
+  ],
+  "name": "Ergo",
+  "slug": "ergo",
+  "summary": "A modern single-binary IRC server recommended for self-hosted chats and bots.",
+  "thing_url": "https://github.com/ergochat/ergo",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommended the concrete server for a bot-friendly IRC setup."
+}
