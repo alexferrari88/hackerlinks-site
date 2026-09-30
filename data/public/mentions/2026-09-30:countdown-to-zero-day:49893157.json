@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the in-depth Stuxnet history while noting that it is a bit long and does not include code.",
+  "evidence_sources": [
+    {
+      "author": "jadijadi",
+      "comment_id": "49902917",
+      "comment_url": "https://news.ycombinator.com/item?id=49902917",
+      "excerpt": "An indepth history of Stuxnet. A bit long but recommended. You can not find any other book which goes this much in describing a mallware (no code).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49893157",
+  "id": "2026-09-30:countdown-to-zero-day:49893157",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "countdown-to-zero-day",
+  "rank": 6,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49893157",
+  "source_story_title": "Ask HN: What are you reading?"
+}

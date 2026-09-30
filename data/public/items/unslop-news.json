@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "id": "unslop-news",
+  "last_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "latest_mention_id": "2026-09-30:unslop-news:49866783",
+  "mention_ids": [
+    "2026-09-30:unslop-news:49866783"
+  ],
+  "name": "unslop.news",
+  "slug": "unslop-news",
+  "summary": "A filtered Hacker News front page that removes AI-related submissions.",
+  "thing_url": "https://unslop.news/",
+  "times_seen": 1,
+  "why_included": "A concrete news-reading alternative explicitly endorsed in a technical thread."
+}

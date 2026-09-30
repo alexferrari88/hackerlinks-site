@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator says Civic Mined exposes municipal documents and data through MCP and has been very helpful in personal dealings with local government; this is creator-reported use, not independent validation.",
+  "evidence_sources": [
+    {
+      "author": "janj",
+      "comment_id": "49901824",
+      "comment_url": "https://news.ycombinator.com/item?id=49901824",
+      "context": "author_or_maintainer",
+      "excerpt": "I've used it a number of times for personal interactions with my local government, it's been very helpful.",
+      "kind": "recommendation",
+      "parent_comment_id": "49895552"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49893509",
+  "id": "2026-09-30:civic-mined:49893509",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "civic-mined",
+  "rank": 2,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49893509",
+  "source_story_title": "America.gov"
+}

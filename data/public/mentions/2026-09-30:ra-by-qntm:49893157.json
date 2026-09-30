@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader who finished Ra says they greatly enjoyed it and strongly recommend it, noting that it is free on the author's website.",
+  "evidence_sources": [
+    {
+      "author": "1potato",
+      "comment_id": "49902534",
+      "comment_url": "https://news.ycombinator.com/item?id=49902534",
+      "context": "first_hand_use",
+      "excerpt": "If you haven't read Ra, though, I greatly enjoyed it and would strongly recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49893157",
+  "id": "2026-09-30:ra-by-qntm:49893157",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "ra-by-qntm",
+  "rank": 7,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49893157",
+  "source_story_title": "Ask HN: What are you reading?"
+}

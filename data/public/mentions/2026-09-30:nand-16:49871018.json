@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls NAND-16 well done, interactive, and visually strong, regardless of AI involvement.",
+  "evidence_sources": [
+    {
+      "author": "tails4e",
+      "comment_id": "49902654",
+      "comment_url": "https://news.ycombinator.com/item?id=49902654",
+      "excerpt": "I think this is very cool. AI generated or not, its well done, interactive and has great visuals.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49871018",
+  "id": "2026-09-30:nand-16:49871018",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "nand-16",
+  "rank": 3,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49871018",
+  "source_story_title": "NAND-16: a computer built from 277,248 NAND gates"
+}

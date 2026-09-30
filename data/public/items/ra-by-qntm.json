@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "id": "ra-by-qntm",
+  "last_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "latest_mention_id": "2026-09-30:ra-by-qntm:49893157",
+  "mention_ids": [
+    "2026-09-30:ra-by-qntm:49893157"
+  ],
+  "name": "Ra by qntm",
+  "slug": "ra-by-qntm",
+  "summary": "A freely readable science-fantasy novel where magic becomes an engineering discipline.",
+  "thing_url": "https://qntm.org/ra",
+  "times_seen": 1,
+  "why_included": "An explicit recommendation from a reader who finished it supports a free direct reading link."
+}

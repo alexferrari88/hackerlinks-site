@@ -1,0 +1,32 @@
+{
+  "evidence": "One reader reports many aha moments and recommends the book to comics readers or creators; a lifelong comics fan says it changed how they read comics.",
+  "evidence_sources": [
+    {
+      "author": "mysterydip",
+      "comment_id": "49899665",
+      "comment_url": "https://news.ycombinator.com/item?id=49899665",
+      "context": "first_hand_use",
+      "excerpt": "I just finished Scott McCloud\u2019s Understanding Comics and it had so many \u201caha\u201d moments for me. Definitely recommended if you have even a passing interest in reading or making graphic novels or comics.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "dam_jackalopes",
+      "comment_id": "49901980",
+      "comment_url": "https://news.ycombinator.com/item?id=49901980",
+      "context": "first_hand_use",
+      "excerpt": "So, so good. Changed the way I read comics and I've been a lifelong fan of the medium.",
+      "kind": "recommendation",
+      "parent_comment_id": "49899665"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49893157",
+  "id": "2026-09-30:understanding-comics:49893157",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "understanding-comics",
+  "rank": 5,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49893157",
+  "source_story_title": "Ask HN: What are you reading?"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "id": "agatha-christie-standard-ebooks-collection",
+  "last_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "latest_mention_id": "2026-09-30:agatha-christie-standard-ebooks-collection:49893157",
+  "mention_ids": [
+    "2026-09-30:agatha-christie-standard-ebooks-collection:49893157"
+  ],
+  "name": "Agatha Christie \u2014 Standard Ebooks collection",
+  "slug": "agatha-christie-standard-ebooks-collection",
+  "summary": "Carefully produced Agatha Christie ebooks for readers wanting classic mysteries.",
+  "thing_url": "https://standardebooks.org/ebooks/agatha-christie",
+  "times_seen": 1,
+  "why_included": "A specific author collection is endorsed as an accessible mystery-reading starting point."
+}

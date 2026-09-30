@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the Has It Held Up? section as a very good entry point.",
+  "evidence_sources": [
+    {
+      "author": "laurencerowe",
+      "comment_id": "49898272",
+      "comment_url": "https://news.ycombinator.com/item?id=49898272",
+      "excerpt": "The 'Has It Held Up?' section seems a very good entry point.",
+      "kind": "recommendation",
+      "parent_comment_id": "49893562"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49892175",
+  "id": "2026-09-30:has-it-held-up-without-the-hot-air:49892175",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "has-it-held-up-without-the-hot-air",
+  "rank": 4,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49892175",
+  "source_story_title": "Sustainable energy without the hot air (2008)"
+}

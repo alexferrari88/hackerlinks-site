@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "id": "has-it-held-up-without-the-hot-air",
+  "last_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "latest_mention_id": "2026-09-30:has-it-held-up-without-the-hot-air:49892175",
+  "mention_ids": [
+    "2026-09-30:has-it-held-up-without-the-hot-air:49892175"
+  ],
+  "name": "Has It Held Up? \u2014 Without the Hot Air",
+  "slug": "has-it-held-up-without-the-hot-air",
+  "summary": "An energy-book retrospective checking David MacKay's assumptions against subsequent developments.",
+  "thing_url": "https://withouthotair.org/has-it-held-up",
+  "times_seen": 1,
+  "why_included": "A directly recommended entry point separates the book's enduring method from outdated numbers."
+}

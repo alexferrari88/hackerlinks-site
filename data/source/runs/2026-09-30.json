@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "run_date": "2026-09-30",
+  "generated_at": "2026-09-30T05:53:29.536499+00:00",
+  "summary": "Eight comment-endorsed discoveries spanning filtered news, civic data, computer simulation, energy analysis, and books.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-09-30.json",
+    "sha256": "6984de5d8ff197736db3ffdbfcd97abaaa0175c7df6ba33f0e02bd92aa8a3382",
+    "bytes": 4830586,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 7945,
+    "fetched_item_count": 7975,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "unslop.news",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://unslop.news/",
+      "hn_url": "https://news.ycombinator.com/item?id=49866783",
+      "source_story_title": "Software occlusion culling in Block Game",
+      "summary": "A filtered Hacker News front page that removes AI-related submissions.",
+      "why_included": "A concrete news-reading alternative explicitly endorsed in a technical thread.",
+      "evidence": "A commenter calls unslop.news a good tool in a discussion about finding technical articles on HN.",
+      "evidence_sources": [
+        {"comment_id": "49891536", "comment_url": "https://news.ycombinator.com/item?id=49891536", "author": "jamesnorden", "excerpt": "unslop.news is a good tool", "kind": "recommendation", "parent_comment_id": "49890928"}
+      ]
+    },
+    {
+      "name": "Civic Mined",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://civicmined.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49893509",
+      "source_story_title": "America.gov",
+      "summary": "A civic-data search service covering municipal records, budgets, meetings, and permits.",
+      "why_included": "Its creator reports useful personal interactions with local government, beyond merely announcing a project.",
+      "evidence": "The creator says Civic Mined exposes municipal documents and data through MCP and has been very helpful in personal dealings with local government; this is creator-reported use, not independent validation.",
+      "evidence_sources": [
+        {"comment_id": "49901824", "comment_url": "https://news.ycombinator.com/item?id=49901824", "author": "janj", "excerpt": "I've used it a number of times for personal interactions with my local government, it's been very helpful.", "kind": "recommendation", "context": "author_or_maintainer", "parent_comment_id": "49895552"}
+      ]
+    },
+    {
+      "name": "NAND-16",
+      "category": "Watch & Learn",
+      "thing_url": "https://somethingbig.ai/computer",
+      "hn_url": "https://news.ycombinator.com/item?id=49871018",
+      "source_story_title": "NAND-16: a computer built from 277,248 NAND gates",
+      "summary": "An interactive 16-bit computer simulation built from NAND gates; praised for its visuals.",
+      "why_included": "A comment independently praises the interactive result rather than merely naming the submission.",
+      "evidence": "A commenter calls NAND-16 well done, interactive, and visually strong, regardless of AI involvement.",
+      "evidence_sources": [
+        {"comment_id": "49902654", "comment_url": "https://news.ycombinator.com/item?id=49902654", "author": "tails4e", "excerpt": "I think this is very cool. AI generated or not, its well done, interactive and has great visuals.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Has It Held Up? — Without the Hot Air",
+      "category": "Watch & Learn",
+      "thing_url": "https://withouthotair.org/has-it-held-up",
+      "hn_url": "https://news.ycombinator.com/item?id=49892175",
+      "source_story_title": "Sustainable energy without the hot air (2008)",
+      "summary": "An energy-book retrospective checking David MacKay's assumptions against subsequent developments.",
+      "why_included": "A directly recommended entry point separates the book's enduring method from outdated numbers.",
+      "evidence": "A commenter recommends the Has It Held Up? section as a very good entry point.",
+      "evidence_sources": [
+        {"comment_id": "49898272", "comment_url": "https://news.ycombinator.com/item?id=49898272", "author": "laurencerowe", "excerpt": "The 'Has It Held Up?' section seems a very good entry point.", "kind": "recommendation", "parent_comment_id": "49893562"}
+      ]
+    },
+    {
+      "name": "Understanding Comics",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.scottmccloud.com/2-print/1-uc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49893157",
+      "source_story_title": "Ask HN: What are you reading?",
+      "summary": "Scott McCloud's comic-book guide to visual storytelling; readers describe perspective-changing insights.",
+      "why_included": "Two readers give specific, first-hand praise for how the book changes reading comics.",
+      "evidence": "One reader reports many aha moments and recommends the book to comics readers or creators; a lifelong comics fan says it changed how they read comics.",
+      "evidence_sources": [
+        {"comment_id": "49899665", "comment_url": "https://news.ycombinator.com/item?id=49899665", "author": "mysterydip", "excerpt": "I just finished Scott McCloud’s Understanding Comics and it had so many “aha” moments for me. Definitely recommended if you have even a passing interest in reading or making graphic novels or comics.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49901980", "comment_url": "https://news.ycombinator.com/item?id=49901980", "author": "dam_jackalopes", "excerpt": "So, so good. Changed the way I read comics and I've been a lifelong fan of the medium.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49899665"}
+      ]
+    },
+    {
+      "name": "Countdown to Zero Day",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter",
+      "hn_url": "https://news.ycombinator.com/item?id=49893157",
+      "source_story_title": "Ask HN: What are you reading?",
+      "summary": "Kim Zetter's detailed history of Stuxnet; recommended despite its length.",
+      "why_included": "The recommendation identifies concrete depth on a consequential malware operation.",
+      "evidence": "A commenter recommends the in-depth Stuxnet history while noting that it is a bit long and does not include code.",
+      "evidence_sources": [
+        {"comment_id": "49902917", "comment_url": "https://news.ycombinator.com/item?id=49902917", "author": "jadijadi", "excerpt": "An indepth history of Stuxnet. A bit long but recommended. You can not find any other book which goes this much in describing a mallware (no code).", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Ra by qntm",
+      "category": "Watch & Learn",
+      "thing_url": "https://qntm.org/ra",
+      "hn_url": "https://news.ycombinator.com/item?id=49893157",
+      "source_story_title": "Ask HN: What are you reading?",
+      "summary": "A freely readable science-fantasy novel where magic becomes an engineering discipline.",
+      "why_included": "An explicit recommendation from a reader who finished it supports a free direct reading link.",
+      "evidence": "A reader who finished Ra says they greatly enjoyed it and strongly recommend it, noting that it is free on the author's website.",
+      "evidence_sources": [
+        {"comment_id": "49902534", "comment_url": "https://news.ycombinator.com/item?id=49902534", "author": "1potato", "excerpt": "If you haven't read Ra, though, I greatly enjoyed it and would strongly recommend it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Agatha Christie — Standard Ebooks collection",
+      "category": "Watch & Learn",
+      "thing_url": "https://standardebooks.org/ebooks/agatha-christie",
+      "hn_url": "https://news.ycombinator.com/item?id=49893157",
+      "source_story_title": "Ask HN: What are you reading?",
+      "summary": "Carefully produced Agatha Christie ebooks for readers wanting classic mysteries.",
+      "why_included": "A specific author collection is endorsed as an accessible mystery-reading starting point.",
+      "evidence": "A reader praises Christie's writing and calls the Standard Ebooks editions an easy pick for readers interested in mysteries.",
+      "evidence_sources": [
+        {"comment_id": "49904605", "comment_url": "https://news.ycombinator.com/item?id=49904605", "author": "SwellJoe", "excerpt": "A lot of her work is now in the public domain and there are Standard Ebook versions of them, making them an easy pick if you like mysteries or are willing to give mysteries a try:", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    }
+  ]
+}

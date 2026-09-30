@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls unslop.news a good tool in a discussion about finding technical articles on HN.",
+  "evidence_sources": [
+    {
+      "author": "jamesnorden",
+      "comment_id": "49891536",
+      "comment_url": "https://news.ycombinator.com/item?id=49891536",
+      "excerpt": "unslop.news is a good tool",
+      "kind": "recommendation",
+      "parent_comment_id": "49890928"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49866783",
+  "id": "2026-09-30:unslop-news:49866783",
+  "is_repeat": false,
+  "issue_id": "2026-09-30",
+  "item_id": "unslop-news",
+  "rank": 1,
+  "seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "source_story_id": "49866783",
+  "source_story_title": "Software occlusion culling in Block Game"
+}

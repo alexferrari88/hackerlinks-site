@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "id": "countdown-to-zero-day",
+  "last_seen_at": "2026-09-30T05:53:29.536499+00:00",
+  "latest_mention_id": "2026-09-30:countdown-to-zero-day:49893157",
+  "mention_ids": [
+    "2026-09-30:countdown-to-zero-day:49893157"
+  ],
+  "name": "Countdown to Zero Day",
+  "slug": "countdown-to-zero-day",
+  "summary": "Kim Zetter's detailed history of Stuxnet; recommended despite its length.",
+  "thing_url": "https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter",
+  "times_seen": 1,
+  "why_included": "The recommendation identifies concrete depth on a consequential malware operation."
+}
