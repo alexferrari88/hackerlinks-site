@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "id": "facet",
+  "last_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "latest_mention_id": "2026-10-01:facet:49883913",
+  "mention_ids": [
+    "2026-10-01:facet:49883913"
+  ],
+  "name": "Facet",
+  "slug": "facet",
+  "summary": "Rust reflection library; endorsed for helping check CPU-to-GPU data layouts.",
+  "thing_url": "https://github.com/facet-rs/facet",
+  "times_seen": 1,
+  "why_included": "The comment independently endorses the tool in the context of GPU buffer alignment pain."
+}

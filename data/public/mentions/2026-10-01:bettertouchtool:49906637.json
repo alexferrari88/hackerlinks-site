@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises BetterTouchTool's MCP for creating native SwiftUI views and binding them to hotkeys and trackpad gestures.",
+  "evidence_sources": [
+    {
+      "author": "alin23",
+      "comment_id": "49908136",
+      "comment_url": "https://news.ycombinator.com/item?id=49908136",
+      "excerpt": "BetterTouchTool has a great MCP which can create native SwiftUI views and bind them to hotkeys, trackpad gestures etc.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49906637",
+  "id": "2026-10-01:bettertouchtool:49906637",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "bettertouchtool",
+  "rank": 2,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49906637",
+  "source_story_title": "You said no MCP"
+}

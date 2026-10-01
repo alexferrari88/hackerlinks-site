@@ -1,0 +1,31 @@
+{
+  "evidence": "A former Kindle user says KCC was great; a second commenter highlights filesize optimization, black-level correction, spread joining, and color-e-ink rainbow removal.",
+  "evidence_sources": [
+    {
+      "author": "maeln",
+      "comment_id": "49908978",
+      "comment_url": "https://news.ycombinator.com/item?id=49908978",
+      "context": "first_hand_use",
+      "excerpt": "I used to use KCC when I had a Kindle and it was great !",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "seam_carver",
+      "comment_id": "49909997",
+      "comment_url": "https://news.ycombinator.com/item?id=49909997",
+      "excerpt": "KCC best features: 1) filesize optimization. Think 600 to 100 mb after optimization per volume depending on source and settings. Does it by downscaling and dithering from 256 to 16 shades of gray (e.g. 8 bit to 4 bit) 2) black level correction. You need pure blacks in eink. Dark gray looks ok on paper and normal screens but not eink. Does it with histogram manipulation 3) semi automatic 2 page spread joining. spreads can be autorotated or not. 4) rainbow removal on kaleido 3 color eink with 2D discrete Fourier transform",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49879758",
+  "id": "2026-10-01:kindle-comic-converter:49879758",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "kindle-comic-converter",
+  "rank": 6,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49879758",
+  "source_story_title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality"
+}

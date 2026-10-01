@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter who spent time debugging Vulkan buffer alignment calls having tools like Facet for WebGPU a huge win.",
+  "evidence_sources": [
+    {
+      "author": "brinepot",
+      "comment_id": "49906826",
+      "comment_url": "https://news.ycombinator.com/item?id=49906826",
+      "excerpt": "Spent too much time debugging alignment issues with Vulkan buffers. WebGPU having good tools like Facet from the start is a huge win.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49883913",
+  "id": "2026-10-01:facet:49883913",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "facet",
+  "rank": 3,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49883913",
+  "source_story_title": "Testing WebGPU data layouts with Facet"
+}

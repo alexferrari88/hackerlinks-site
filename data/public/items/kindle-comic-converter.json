@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "id": "kindle-comic-converter",
+  "last_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "latest_mention_id": "2026-10-01:kindle-comic-converter:49879758",
+  "mention_ids": [
+    "2026-10-01:kindle-comic-converter:49879758"
+  ],
+  "name": "Kindle Comic Converter",
+  "slug": "kindle-comic-converter",
+  "summary": "Comic and manga converter for e-readers; praised by a former Kindle user.",
+  "thing_url": "https://github.com/ciromattia/kcc",
+  "times_seen": 1,
+  "why_included": "A first-hand endorsement supports a practical e-reader tool rather than a neutral launch mention."
+}

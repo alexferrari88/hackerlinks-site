@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "id": "build-a-large-language-model-from-scratch",
+  "last_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "latest_mention_id": "2026-10-01:build-a-large-language-model-from-scratch:49891203",
+  "mention_ids": [
+    "2026-10-01:build-a-large-language-model-from-scratch:49891203"
+  ],
+  "name": "Build a Large Language Model (From Scratch)",
+  "slug": "build-a-large-language-model-from-scratch",
+  "summary": "Hands-on book teaching LLM architecture, pretraining, and finetuning with Python and PyTorch.",
+  "thing_url": "https://sebastianraschka.com/llms-from-scratch/",
+  "times_seen": 1,
+  "why_included": "An HN comment explicitly recommends Raschka's book rather than merely linking it."
+}

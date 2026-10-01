@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "id": "incident-command-for-itwhat-we-ve-learned-from-the-fire-department",
+  "last_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "latest_mention_id": "2026-10-01:incident-command-for-itwhat-we-ve-learned-from-the-fire-department:49882754",
+  "mention_ids": [
+    "2026-10-01:incident-command-for-itwhat-we-ve-learned-from-the-fire-department:49882754"
+  ],
+  "name": "Incident Command for IT\u2014What We've Learned from the Fire Department",
+  "slug": "incident-command-for-itwhat-we-ve-learned-from-the-fire-department",
+  "summary": "Brent Chapman workshop applying fire-department incident command to IT; praised by an attendee.",
+  "thing_url": "https://www.usenix.org/conference/srecon18americas/presentation/chapman",
+  "times_seen": 1,
+  "why_included": "An attendee explicitly calls the incident-command talk excellent, a useful discovery in a statistics thread."
+}

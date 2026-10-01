@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter names this book as one of Sebastian Raschka's two excellent books related to LLMs.",
+  "evidence_sources": [
+    {
+      "author": "malshe",
+      "comment_id": "49910736",
+      "comment_url": "https://news.ycombinator.com/item?id=49910736",
+      "excerpt": "Sebastian is the author of two excellent books related to LLMs Build a Large Language Model (From Scratch):",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49891203",
+  "id": "2026-10-01:build-a-large-language-model-from-scratch:49891203",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "build-a-large-language-model-from-scratch",
+  "rank": 4,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49891203",
+  "source_story_title": "Language models for text classification: From bag-of-words to Jev"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who heard Chapman's incident-command talk at BayLISA calls it excellent and links the USENIX presentation.",
+  "evidence_sources": [
+    {
+      "author": "buredoranna",
+      "comment_id": "49913195",
+      "comment_url": "https://news.ycombinator.com/item?id=49913195",
+      "context": "first_hand_use",
+      "excerpt": "I as able to hear him at BayLISA giving his talk on incident command and what we can learn from the fire department[2][3], an excellent talk.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49882754",
+  "id": "2026-10-01:incident-command-for-itwhat-we-ve-learned-from-the-fire-department:49882754",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "incident-command-for-itwhat-we-ve-learned-from-the-fire-department",
+  "rank": 9,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49882754",
+  "source_story_title": "Burning Man death rates \u2013 A short lesson in statistics"
+}

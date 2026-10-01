@@ -1,0 +1,245 @@
+{
+  "version": 2,
+  "run_date": "2026-10-01",
+  "generated_at": "2026-10-01T03:18:25.808708+00:00",
+  "summary": "Ten comment-endorsed finds: developer tools, hands-on AI books, e-reader software, incident response, and family projects.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-01.json",
+    "sha256": "f0f12ea8d6f58603ed2f9ddf759be192242e0a99574349fb7686b82a3790f3ea",
+    "bytes": 2778911,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4322,
+    "fetched_item_count": 4352,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "SlicerVM",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://docs.slicervm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49912444",
+      "source_story_title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "summary": "Firecracker VM tooling for local agents and CI; praised for fast laptop workflows.",
+      "why_included": "A first-hand user describes replacing a Proxmox VM orchestrator with SlicerVM.",
+      "evidence": "A commenter reports extensive use for local agents and development CI, praising fast VMs on a laptop.",
+      "evidence_sources": [
+        {
+          "comment_id": "49914558",
+          "comment_url": "https://news.ycombinator.com/item?id=49914558",
+          "author": "Normal_gaussian",
+          "excerpt": "Agents, local dev CI, etc. It slotted in and replaced my proxmox vm orchestrator, and now I have secure and and fast vms on my laptop wherever I go.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "BetterTouchTool",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://folivora.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49906637",
+      "source_story_title": "You said no MCP",
+      "summary": "Mac automation app; its MCP integration earns praise for UI and gesture control.",
+      "why_included": "The endorsement identifies a concrete use for MCP beyond coding assistants.",
+      "evidence": "A commenter praises BetterTouchTool's MCP for creating native SwiftUI views and binding them to hotkeys and trackpad gestures.",
+      "evidence_sources": [
+        {
+          "comment_id": "49908136",
+          "comment_url": "https://news.ycombinator.com/item?id=49908136",
+          "author": "alin23",
+          "excerpt": "BetterTouchTool has a great MCP which can create native SwiftUI views and bind them to hotkeys, trackpad gestures etc.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Facet",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/facet-rs/facet",
+      "hn_url": "https://news.ycombinator.com/item?id=49883913",
+      "source_story_title": "Testing WebGPU data layouts with Facet",
+      "summary": "Rust reflection library; endorsed for helping check CPU-to-GPU data layouts.",
+      "why_included": "The comment independently endorses the tool in the context of GPU buffer alignment pain.",
+      "evidence": "A commenter who spent time debugging Vulkan buffer alignment calls having tools like Facet for WebGPU a huge win.",
+      "evidence_sources": [
+        {
+          "comment_id": "49906826",
+          "comment_url": "https://news.ycombinator.com/item?id=49906826",
+          "author": "brinepot",
+          "excerpt": "Spent too much time debugging alignment issues with Vulkan buffers. WebGPU having good tools like Facet from the start is a huge win.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Build a Large Language Model (From Scratch)",
+      "category": "AI & Local Models",
+      "thing_url": "https://sebastianraschka.com/llms-from-scratch/",
+      "hn_url": "https://news.ycombinator.com/item?id=49891203",
+      "source_story_title": "Language models for text classification: From bag-of-words to Jev",
+      "summary": "Hands-on book teaching LLM architecture, pretraining, and finetuning with Python and PyTorch.",
+      "why_included": "An HN comment explicitly recommends Raschka's book rather than merely linking it.",
+      "evidence": "A commenter names this book as one of Sebastian Raschka's two excellent books related to LLMs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49910736",
+          "comment_url": "https://news.ycombinator.com/item?id=49910736",
+          "author": "malshe",
+          "excerpt": "Sebastian is the author of two excellent books related to LLMs Build a Large Language Model (From Scratch):",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Build a Reasoning Model (From Scratch)",
+      "category": "AI & Local Models",
+      "thing_url": "https://sebastianraschka.com/reasoning-from-scratch/",
+      "hn_url": "https://news.ycombinator.com/item?id=49891203",
+      "source_story_title": "Language models for text classification: From bag-of-words to Jev",
+      "summary": "Hands-on book covering reasoning-model evaluation, inference-time scaling, reinforcement learning, and distillation.",
+      "why_included": "The comment explicitly praises the named reasoning book, with a direct author-site link.",
+      "evidence": "A commenter includes this title among Sebastian Raschka's two excellent books related to LLMs.",
+      "evidence_sources": [
+        {
+          "comment_id": "49910736",
+          "comment_url": "https://news.ycombinator.com/item?id=49910736",
+          "author": "malshe",
+          "excerpt": "Sebastian is the author of two excellent books related to LLMs Build a Large Language Model (From Scratch): https://sebastianraschka.com/llms-from-scratch/ Build a Reasoning Model (From Scratch):",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Kindle Comic Converter",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/ciromattia/kcc",
+      "hn_url": "https://news.ycombinator.com/item?id=49879758",
+      "source_story_title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "summary": "Comic and manga converter for e-readers; praised by a former Kindle user.",
+      "why_included": "A first-hand endorsement supports a practical e-reader tool rather than a neutral launch mention.",
+      "evidence": "A former Kindle user says KCC was great; a second commenter highlights filesize optimization, black-level correction, spread joining, and color-e-ink rainbow removal.",
+      "evidence_sources": [
+        {
+          "comment_id": "49908978",
+          "comment_url": "https://news.ycombinator.com/item?id=49908978",
+          "author": "maeln",
+          "excerpt": "I used to use KCC when I had a Kindle and it was great !",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "49909997",
+          "comment_url": "https://news.ycombinator.com/item?id=49909997",
+          "author": "seam_carver",
+          "excerpt": "KCC best features: 1) filesize optimization. Think 600 to 100 mb after optimization per volume depending on source and settings. Does it by downscaling and dithering from 256 to 16 shades of gray (e.g. 8 bit to 4 bit) 2) black level correction. You need pure blacks in eink. Dark gray looks ok on paper and normal screens but not eink. Does it with histogram manipulation 3) semi automatic 2 page spread joining. spreads can be autorotated or not. 4) rainbow removal on kaleido 3 color eink with 2D discrete Fourier transform",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Space Now",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://space.bl2.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49898778",
+      "source_story_title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "summary": "Interactive solar-system and satellite explorer; praised for fast, responsive browsing.",
+      "why_included": "A commenter independently praises the submitted project after interacting with its orbital visualization.",
+      "evidence": "A commenter calls the website awesome, extremely fast, and responsive.",
+      "evidence_sources": [
+        {
+          "comment_id": "49912767",
+          "comment_url": "https://news.ycombinator.com/item?id=49912767",
+          "author": "marcd35",
+          "excerpt": "this is awesome! website is extremely fast and responsive, well done.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "JBR-001",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "hn_url": "https://news.ycombinator.com/item?id=49890707",
+      "source_story_title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "summary": "Open-source, 3D-printable desktop companion robot; praised as a parent-and-child build project.",
+      "why_included": "Independent praise focuses on open design files and building with a child; the robot does not walk.",
+      "evidence": "A commenter loves the included open-source 3D files and instructions and plans to build JBR-001 with their son. The creator clarifies that the legs are supports, not a walking mechanism.",
+      "evidence_sources": [
+        {
+          "comment_id": "49891318",
+          "comment_url": "https://news.ycombinator.com/item?id=49891318",
+          "author": "salamachinas",
+          "excerpt": "Thanks for sharing! Love that it's open source with the 3D files and instructions included. My son and I are going to build this together. Great project.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "49911314",
+          "comment_url": "https://news.ycombinator.com/item?id=49911314",
+          "author": "gvuksic",
+          "excerpt": "JBR-001 is made as and announced as a desktop companion, legs are there for support and appearance, but it doesnt walk.",
+          "kind": "caveat",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "49910827"
+        }
+      ]
+    },
+    {
+      "name": "Incident Command for IT—What We've Learned from the Fire Department",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.usenix.org/conference/srecon18americas/presentation/chapman",
+      "hn_url": "https://news.ycombinator.com/item?id=49882754",
+      "source_story_title": "Burning Man death rates – A short lesson in statistics",
+      "summary": "Brent Chapman workshop applying fire-department incident command to IT; praised by an attendee.",
+      "why_included": "An attendee explicitly calls the incident-command talk excellent, a useful discovery in a statistics thread.",
+      "evidence": "A commenter who heard Chapman's incident-command talk at BayLISA calls it excellent and links the USENIX presentation.",
+      "evidence_sources": [
+        {
+          "comment_id": "49913195",
+          "comment_url": "https://news.ycombinator.com/item?id=49913195",
+          "author": "buredoranna",
+          "excerpt": "I as able to hear him at BayLISA giving his talk on incident command and what we can learn from the fire department[2][3], an excellent talk.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Five Intersecting Tetrahedra",
+      "category": "Watch & Learn",
+      "thing_url": "http://origametry.net/fit.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49889140",
+      "source_story_title": "Mathematical Origami",
+      "summary": "Thomas Hull's modular-origami instructions; endorsed by someone who assembled the geometric sculpture.",
+      "why_included": "The recommendation combines enthusiasm with first-hand use of the specific assembly instructions.",
+      "evidence": "A commenter calls the five intersecting tetrahedra particularly cool and says they used these instructions to assemble it.",
+      "evidence_sources": [
+        {
+          "comment_id": "49908952",
+          "comment_url": "https://news.ycombinator.com/item?id=49908952",
+          "author": "ciroduran",
+          "excerpt": "The 5 intersecting tetrahedra is particularly cool, and I've used these instructions to assemble it",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    }
+  ]
+}

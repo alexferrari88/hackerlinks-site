@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "id": "slicervm",
+  "last_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "latest_mention_id": "2026-10-01:slicervm:49912444",
+  "mention_ids": [
+    "2026-10-01:slicervm:49912444"
+  ],
+  "name": "SlicerVM",
+  "slug": "slicervm",
+  "summary": "Firecracker VM tooling for local agents and CI; praised for fast laptop workflows.",
+  "thing_url": "https://docs.slicervm.com/",
+  "times_seen": 1,
+  "why_included": "A first-hand user describes replacing a Proxmox VM orchestrator with SlicerVM."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls the website awesome, extremely fast, and responsive.",
+  "evidence_sources": [
+    {
+      "author": "marcd35",
+      "comment_id": "49912767",
+      "comment_url": "https://news.ycombinator.com/item?id=49912767",
+      "context": "first_hand_use",
+      "excerpt": "this is awesome! website is extremely fast and responsive, well done.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49898778",
+  "id": "2026-10-01:space-now:49898778",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "space-now",
+  "rank": 7,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49898778",
+  "source_story_title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites"
+}

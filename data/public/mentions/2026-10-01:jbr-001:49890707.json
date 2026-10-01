@@ -1,0 +1,31 @@
+{
+  "evidence": "A commenter loves the included open-source 3D files and instructions and plans to build JBR-001 with their son. The creator clarifies that the legs are supports, not a walking mechanism.",
+  "evidence_sources": [
+    {
+      "author": "salamachinas",
+      "comment_id": "49891318",
+      "comment_url": "https://news.ycombinator.com/item?id=49891318",
+      "excerpt": "Thanks for sharing! Love that it's open source with the 3D files and instructions included. My son and I are going to build this together. Great project.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "gvuksic",
+      "comment_id": "49911314",
+      "comment_url": "https://news.ycombinator.com/item?id=49911314",
+      "context": "author_or_maintainer",
+      "excerpt": "JBR-001 is made as and announced as a desktop companion, legs are there for support and appearance, but it doesnt walk.",
+      "kind": "caveat",
+      "parent_comment_id": "49910827"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49890707",
+  "id": "2026-10-01:jbr-001:49890707",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "jbr-001",
+  "rank": 8,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49890707",
+  "source_story_title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot"
+}

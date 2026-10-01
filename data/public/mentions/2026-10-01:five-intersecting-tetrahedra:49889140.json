@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls the five intersecting tetrahedra particularly cool and says they used these instructions to assemble it.",
+  "evidence_sources": [
+    {
+      "author": "ciroduran",
+      "comment_id": "49908952",
+      "comment_url": "https://news.ycombinator.com/item?id=49908952",
+      "context": "first_hand_use",
+      "excerpt": "The 5 intersecting tetrahedra is particularly cool, and I've used these instructions to assemble it",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49889140",
+  "id": "2026-10-01:five-intersecting-tetrahedra:49889140",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "five-intersecting-tetrahedra",
+  "rank": 10,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49889140",
+  "source_story_title": "Mathematical Origami"
+}

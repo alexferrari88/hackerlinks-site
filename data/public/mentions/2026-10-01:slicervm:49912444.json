@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reports extensive use for local agents and development CI, praising fast VMs on a laptop.",
+  "evidence_sources": [
+    {
+      "author": "Normal_gaussian",
+      "comment_id": "49914558",
+      "comment_url": "https://news.ycombinator.com/item?id=49914558",
+      "context": "first_hand_use",
+      "excerpt": "Agents, local dev CI, etc. It slotted in and replaced my proxmox vm orchestrator, and now I have secure and and fast vms on my laptop wherever I go.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49912444",
+  "id": "2026-10-01:slicervm:49912444",
+  "is_repeat": false,
+  "issue_id": "2026-10-01",
+  "item_id": "slicervm",
+  "rank": 1,
+  "seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "source_story_id": "49912444",
+  "source_story_title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "id": "build-a-reasoning-model-from-scratch",
+  "last_seen_at": "2026-10-01T03:18:25.808708+00:00",
+  "latest_mention_id": "2026-10-01:build-a-reasoning-model-from-scratch:49891203",
+  "mention_ids": [
+    "2026-10-01:build-a-reasoning-model-from-scratch:49891203"
+  ],
+  "name": "Build a Reasoning Model (From Scratch)",
+  "slug": "build-a-reasoning-model-from-scratch",
+  "summary": "Hands-on book covering reasoning-model evaluation, inference-time scaling, reinforcement learning, and distillation.",
+  "thing_url": "https://sebastianraschka.com/reasoning-from-scratch/",
+  "times_seen": 1,
+  "why_included": "The comment explicitly praises the named reasoning book, with a direct author-site link."
+}
