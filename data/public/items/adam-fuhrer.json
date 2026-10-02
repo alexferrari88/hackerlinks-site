@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "adam-fuhrer",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:adam-fuhrer:49894430",
+  "mention_ids": [
+    "2026-10-02:adam-fuhrer:49894430"
+  ],
+  "name": "Adam Fuhrer",
+  "slug": "adam-fuhrer",
+  "summary": "Algorithmic-art gallery featuring pen plots, digital patterns, and experimental hardware pieces.",
+  "thing_url": "https://adamfuhrer.com/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly praises the named artist's visual work and links the portfolio."
+}

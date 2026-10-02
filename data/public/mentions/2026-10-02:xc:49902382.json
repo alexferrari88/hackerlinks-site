@@ -1,0 +1,23 @@
+{
+  "evidence": "20after4 calls xc fairly solid after long-term use and says they use it to deploy router, firewall, DNS, and container changes from a README.",
+  "evidence_sources": [
+    {
+      "author": "20after4",
+      "comment_id": "49918206",
+      "comment_url": "https://news.ycombinator.com/item?id=49918206",
+      "context": "first_hand_use",
+      "excerpt": "I've used xc\u00b3 for a long time now and it's fairly solid.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49902382",
+  "id": "2026-10-02:xc:49902382",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "xc",
+  "rank": 1,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49902382",
+  "source_story_title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes"
+}

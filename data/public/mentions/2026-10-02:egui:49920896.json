@@ -1,0 +1,23 @@
+{
+  "evidence": "echelon says they stopped using Tauri for egui and calls it cross-platform and excellent, with attractive results when given design constraints.",
+  "evidence_sources": [
+    {
+      "author": "echelon",
+      "comment_id": "49922904",
+      "comment_url": "https://news.ycombinator.com/item?id=49922904",
+      "context": "first_hand_use",
+      "excerpt": "I've stopped using Tauri and gone with 100% egui. It's cross platform and excellent, and if you give it design constraints it will look beautiful.",
+      "kind": "recommendation",
+      "parent_comment_id": "49922865"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49920896",
+  "id": "2026-10-02:egui:49920896",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "egui",
+  "rank": 3,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49920896",
+  "source_story_title": "How to speed up the Rust compiler in September 2026"
+}

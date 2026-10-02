@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "internet-history-roulette",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:internet-history-roulette:49915126",
+  "mention_ids": [
+    "2026-10-02:internet-history-roulette:49915126"
+  ],
+  "name": "Internet History Roulette",
+  "slug": "internet-history-roulette",
+  "summary": "Early-web time machine serving random archived pages; watch for fast-changing fact bubbles.",
+  "thing_url": "https://internethistoryroulette.com/",
+  "times_seen": 1,
+  "why_included": "A commenter directly recommends it for exploring sites from the dial-up era."
+}

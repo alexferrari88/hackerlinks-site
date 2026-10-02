@@ -1,0 +1,22 @@
+{
+  "evidence": "adrianwaj recommends the site for seeing pages from that era, while noting that its optional fact bubbles change too quickly.",
+  "evidence_sources": [
+    {
+      "author": "adrianwaj",
+      "comment_id": "49917986",
+      "comment_url": "https://news.ycombinator.com/item?id=49917986",
+      "excerpt": "To see sites from back then checkout: https://internethistoryroulette.com/ - could be improved whereby the \"facts\" bubbles change too quickly when turned on.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49915126",
+  "id": "2026-10-02:internet-history-roulette:49915126",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "internet-history-roulette",
+  "rank": 9,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49915126",
+  "source_story_title": "56k.rip \u2013 the 1996 dial-up internet experience"
+}

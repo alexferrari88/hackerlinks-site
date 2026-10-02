@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "book-of-shapes",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:book-of-shapes:49894430",
+  "mention_ids": [
+    "2026-10-02:book-of-shapes:49894430"
+  ],
+  "name": "Book of Shapes",
+  "slug": "book-of-shapes",
+  "summary": "Customizable generative SVG-pattern collection; a commenter explicitly praises its visual quality.",
+  "thing_url": "https://bookofshapes.com/",
+  "times_seen": 1,
+  "why_included": "An independent comment directly endorses the collection's appearance."
+}

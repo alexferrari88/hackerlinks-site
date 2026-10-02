@@ -2,6 +2,16 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "xc", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "Org Babel", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "egui", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "OpenPencil", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "Book of Shapes", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "Adam Fuhrer", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "StrongPhrase.net", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "The Wise-Woman's Dog", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "Internet History Roulette", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {"name": "Lectron", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
     {
       "name": "1.38 Millimeter Microcontroller",
       "first_reported_at": "2026-06-30T21:15:09Z",

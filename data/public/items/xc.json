@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "xc",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:xc:49902382",
+  "mention_ids": [
+    "2026-10-02:xc:49902382"
+  ],
+  "name": "xc",
+  "slug": "xc",
+  "summary": "Markdown task runner; a long-term user runs home-infrastructure deployments from README files.",
+  "thing_url": "https://github.com/joerdav/xc",
+  "times_seen": 1,
+  "why_included": "A long-term user directly praises its reliability and describes a concrete deployment workflow."
+}

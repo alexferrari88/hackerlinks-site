@@ -1,0 +1,22 @@
+{
+  "evidence": "loclol101 calls the submitted collection amazing and beautiful.",
+  "evidence_sources": [
+    {
+      "author": "loclol101",
+      "comment_id": "49926815",
+      "comment_url": "https://news.ycombinator.com/item?id=49926815",
+      "excerpt": "Amazing! this is beautiful.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49894430",
+  "id": "2026-10-02:book-of-shapes:49894430",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "book-of-shapes",
+  "rank": 5,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49894430",
+  "source_story_title": "Book of Shapes \u2013 Collection of minimal, generative and customizable SVG-patterns"
+}

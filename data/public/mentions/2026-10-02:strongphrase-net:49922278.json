@@ -1,0 +1,22 @@
+{
+  "evidence": "Cider9986 links StrongPhrase.net as a source of memorable random passphrases and calls that quality cool.",
+  "evidence_sources": [
+    {
+      "author": "Cider9986",
+      "comment_id": "49923244",
+      "comment_url": "https://news.ycombinator.com/item?id=49923244",
+      "excerpt": "https://strongphrase.net give memorable ones which is cool.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49922278",
+  "id": "2026-10-02:strongphrase-net:49922278",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "strongphrase-net",
+  "rank": 7,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49922278",
+  "source_story_title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones"
+}

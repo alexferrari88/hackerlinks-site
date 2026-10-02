@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "org-babel",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:org-babel:49902382",
+  "mention_ids": [
+    "2026-10-02:org-babel:49902382"
+  ],
+  "name": "Org Babel",
+  "slug": "org-babel",
+  "summary": "Emacs notebook system combining executable code, research notes, plots, and PDF exports.",
+  "thing_url": "https://orgmode.org/worg/org-contrib/babel/",
+  "times_seen": 1,
+  "why_included": "Concrete research use is backed by an independent comment praising the runnable notebooks."
+}

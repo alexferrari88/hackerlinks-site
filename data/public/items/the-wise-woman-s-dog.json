@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "the-wise-woman-s-dog",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:the-wise-woman-s-dog:49890732",
+  "mention_ids": [
+    "2026-10-02:the-wise-woman-s-dog:49890732"
+  ],
+  "name": "The Wise-Woman's Dog",
+  "slug": "the-wise-woman-s-dog",
+  "summary": "Bronze Age interactive fiction; a player praises its historical texture and footnotes.",
+  "thing_url": "https://ifdb.org/viewgame?id=bor8rmyfk7w9kgqs",
+  "times_seen": 1,
+  "why_included": "A player endorses both the experience and its ability to make the historical setting vivid."
+}

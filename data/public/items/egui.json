@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "egui",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:egui:49920896",
+  "mention_ids": [
+    "2026-10-02:egui:49920896"
+  ],
+  "name": "egui",
+  "slug": "egui",
+  "summary": "Cross-platform Rust GUI library; a desktop-app developer praises it after leaving Tauri.",
+  "thing_url": "https://github.com/emilk/egui",
+  "times_seen": 1,
+  "why_included": "A developer explicitly endorses the library after switching their desktop applications to it."
+}

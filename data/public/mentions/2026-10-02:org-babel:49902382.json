@@ -1,0 +1,31 @@
+{
+  "evidence": "mfld describes combining data-wrangling code, plots, and notes and exporting PDFs for collaborators; mijoharas praises the runnable notebooks.",
+  "evidence_sources": [
+    {
+      "author": "mfld",
+      "comment_id": "49918799",
+      "comment_url": "https://news.ycombinator.com/item?id=49918799",
+      "context": "first_hand_use",
+      "excerpt": "During my time as a researcher, I heavily used org-babel. I used it to put code for data wrangling, plots, and notes into a single document.",
+      "kind": "author_context",
+      "parent_comment_id": null
+    },
+    {
+      "author": "mijoharas",
+      "comment_id": "49919822",
+      "comment_url": "https://news.ycombinator.com/item?id=49919822",
+      "excerpt": "org-babel (which can make some very nice runnable notebooks)",
+      "kind": "recommendation",
+      "parent_comment_id": "49911985"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49902382",
+  "id": "2026-10-02:org-babel:49902382",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "org-babel",
+  "rank": 2,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49902382",
+  "source_story_title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes"
+}

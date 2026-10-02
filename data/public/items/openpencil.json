@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "openpencil",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:openpencil:49922729",
+  "mention_ids": [
+    "2026-10-02:openpencil:49922729"
+  ],
+  "name": "OpenPencil",
+  "slug": "openpencil",
+  "summary": "Open-source design editor; a Figma user reports it works as their replacement.",
+  "thing_url": "https://openpencil.dev/",
+  "times_seen": 1,
+  "why_included": "The endorsement is a concrete first-hand replacement report rather than launch promotion."
+}

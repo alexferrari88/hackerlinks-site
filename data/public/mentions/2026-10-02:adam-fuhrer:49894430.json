@@ -1,0 +1,22 @@
+{
+  "evidence": "kachnuv_ocasek calls Adam Fuhrer's visual art amazing while discussing generative patterns.",
+  "evidence_sources": [
+    {
+      "author": "kachnuv_ocasek",
+      "comment_id": "49920163",
+      "comment_url": "https://news.ycombinator.com/item?id=49920163",
+      "excerpt": "Reminds me of the amazing visual art of Adam Fuhrer[1].",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49894430",
+  "id": "2026-10-02:adam-fuhrer:49894430",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "adam-fuhrer",
+  "rank": 6,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49894430",
+  "source_story_title": "Book of Shapes \u2013 Collection of minimal, generative and customizable SVG-patterns"
+}

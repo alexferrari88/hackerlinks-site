@@ -1,0 +1,23 @@
+{
+  "evidence": "sneezychl says they have been using OpenPencil as a drop-in Figma replacement and that it works fine for their needs.",
+  "evidence_sources": [
+    {
+      "author": "sneezychl",
+      "comment_id": "49926018",
+      "comment_url": "https://news.ycombinator.com/item?id=49926018",
+      "context": "first_hand_use",
+      "excerpt": "I've been using OpenPencil as a drop-in replacement for Figma and it works fine for my needs.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49922729",
+  "id": "2026-10-02:openpencil:49922729",
+  "is_repeat": false,
+  "issue_id": "2026-10-02",
+  "item_id": "openpencil",
+  "rank": 4,
+  "seen_at": "2026-10-02T05:18:23+02:00",
+  "source_story_id": "49922729",
+  "source_story_title": "Figma restricts MCP access to whitelisted clients, excluding Pi"
+}

@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "run_date": "2026-10-02",
+  "generated_at": "2026-10-02T05:18:23+02:00",
+  "summary": "Ten comment-endorsed finds spanning developer tools, design, privacy, retro hardware, and interactive fiction.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-02.json",
+    "sha256": "8d4add22f38c94b670f437a9fd80f91a0e278af4da689a6a4775814cd4c94e8d",
+    "bytes": 3158048,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4575,
+    "fetched_item_count": 4605,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 HN /front stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "xc",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/joerdav/xc",
+      "hn_url": "https://news.ycombinator.com/item?id=49902382",
+      "source_story_title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "summary": "Markdown task runner; a long-term user runs home-infrastructure deployments from README files.",
+      "why_included": "A long-term user directly praises its reliability and describes a concrete deployment workflow.",
+      "evidence": "20after4 calls xc fairly solid after long-term use and says they use it to deploy router, firewall, DNS, and container changes from a README.",
+      "evidence_sources": [{"comment_id": "49918206", "comment_url": "https://news.ycombinator.com/item?id=49918206", "author": "20after4", "excerpt": "I've used xc³ for a long time now and it's fairly solid.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Org Babel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://orgmode.org/worg/org-contrib/babel/",
+      "hn_url": "https://news.ycombinator.com/item?id=49902382",
+      "source_story_title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "summary": "Emacs notebook system combining executable code, research notes, plots, and PDF exports.",
+      "why_included": "Concrete research use is backed by an independent comment praising the runnable notebooks.",
+      "evidence": "mfld describes combining data-wrangling code, plots, and notes and exporting PDFs for collaborators; mijoharas praises the runnable notebooks.",
+      "evidence_sources": [
+        {"comment_id": "49918799", "comment_url": "https://news.ycombinator.com/item?id=49918799", "author": "mfld", "excerpt": "During my time as a researcher, I heavily used org-babel. I used it to put code for data wrangling, plots, and notes into a single document.", "kind": "author_context", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49919822", "comment_url": "https://news.ycombinator.com/item?id=49919822", "author": "mijoharas", "excerpt": "org-babel (which can make some very nice runnable notebooks)", "kind": "recommendation", "parent_comment_id": "49911985"}
+      ]
+    },
+    {
+      "name": "egui",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/emilk/egui",
+      "hn_url": "https://news.ycombinator.com/item?id=49920896",
+      "source_story_title": "How to speed up the Rust compiler in September 2026",
+      "summary": "Cross-platform Rust GUI library; a desktop-app developer praises it after leaving Tauri.",
+      "why_included": "A developer explicitly endorses the library after switching their desktop applications to it.",
+      "evidence": "echelon says they stopped using Tauri for egui and calls it cross-platform and excellent, with attractive results when given design constraints.",
+      "evidence_sources": [{"comment_id": "49922904", "comment_url": "https://news.ycombinator.com/item?id=49922904", "author": "echelon", "excerpt": "I've stopped using Tauri and gone with 100% egui. It's cross platform and excellent, and if you give it design constraints it will look beautiful.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49922865"}]
+    },
+    {
+      "name": "OpenPencil",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://openpencil.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49922729",
+      "source_story_title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "summary": "Open-source design editor; a Figma user reports it works as their replacement.",
+      "why_included": "The endorsement is a concrete first-hand replacement report rather than launch promotion.",
+      "evidence": "sneezychl says they have been using OpenPencil as a drop-in Figma replacement and that it works fine for their needs.",
+      "evidence_sources": [{"comment_id": "49926018", "comment_url": "https://news.ycombinator.com/item?id=49926018", "author": "sneezychl", "excerpt": "I've been using OpenPencil as a drop-in replacement for Figma and it works fine for my needs.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Book of Shapes",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://bookofshapes.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49894430",
+      "source_story_title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "summary": "Customizable generative SVG-pattern collection; a commenter explicitly praises its visual quality.",
+      "why_included": "An independent comment directly endorses the collection's appearance.",
+      "evidence": "loclol101 calls the submitted collection amazing and beautiful.",
+      "evidence_sources": [{"comment_id": "49926815", "comment_url": "https://news.ycombinator.com/item?id=49926815", "author": "loclol101", "excerpt": "Amazing! this is beautiful.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Adam Fuhrer",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://adamfuhrer.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49894430",
+      "source_story_title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "summary": "Algorithmic-art gallery featuring pen plots, digital patterns, and experimental hardware pieces.",
+      "why_included": "A commenter explicitly praises the named artist's visual work and links the portfolio.",
+      "evidence": "kachnuv_ocasek calls Adam Fuhrer's visual art amazing while discussing generative patterns.",
+      "evidence_sources": [{"comment_id": "49920163", "comment_url": "https://news.ycombinator.com/item?id=49920163", "author": "kachnuv_ocasek", "excerpt": "Reminds me of the amazing visual art of Adam Fuhrer[1].", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "StrongPhrase.net",
+      "category": "Privacy & Networking",
+      "thing_url": "https://strongphrase.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49922278",
+      "source_story_title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "summary": "Random-passphrase generator recommended for memorable phrases in a phone-security discussion.",
+      "why_included": "The commenter explicitly recommends the generator's memorable output, not merely its domain.",
+      "evidence": "Cider9986 links StrongPhrase.net as a source of memorable random passphrases and calls that quality cool.",
+      "evidence_sources": [{"comment_id": "49923244", "comment_url": "https://news.ycombinator.com/item?id=49923244", "author": "Cider9986", "excerpt": "https://strongphrase.net give memorable ones which is cool.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Wise-Woman's Dog",
+      "category": "Watch & Learn",
+      "thing_url": "https://ifdb.org/viewgame?id=bor8rmyfk7w9kgqs",
+      "hn_url": "https://news.ycombinator.com/item?id=49890732",
+      "source_story_title": "Why the Bronze Age Collapsed",
+      "summary": "Bronze Age interactive fiction; a player praises its historical texture and footnotes.",
+      "why_included": "A player endorses both the experience and its ability to make the historical setting vivid.",
+      "evidence": "kqr describes learning about ordinary Bronze Age life through the game, highlights its footnotes, and calls it fun and useful for bringing the period alive.",
+      "evidence_sources": [{"comment_id": "49917925", "comment_url": "https://news.ycombinator.com/item?id=49917925", "author": "kqr", "excerpt": "It's made by someone who researches that sort of thing for a living, and is full of interesting footnotes too. It's a fun experience and a useful way to make a place and a time really feel alive.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Internet History Roulette",
+      "category": "Watch & Learn",
+      "thing_url": "https://internethistoryroulette.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49915126",
+      "source_story_title": "56k.rip – the 1996 dial-up internet experience",
+      "summary": "Early-web time machine serving random archived pages; watch for fast-changing fact bubbles.",
+      "why_included": "A commenter directly recommends it for exploring sites from the dial-up era.",
+      "evidence": "adrianwaj recommends the site for seeing pages from that era, while noting that its optional fact bubbles change too quickly.",
+      "evidence_sources": [{"comment_id": "49917986", "comment_url": "https://news.ycombinator.com/item?id=49917986", "author": "adrianwaj", "excerpt": "To see sites from back then checkout: https://internethistoryroulette.com/ - could be improved whereby the \"facts\" bubbles change too quickly when turned on.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Lectron",
+      "category": "Watch & Learn",
+      "thing_url": "https://de.wikipedia.org/wiki/Lectron",
+      "hn_url": "https://news.ycombinator.com/item?id=49912792",
+      "source_story_title": "Before pixels: Modular industrial dashboards",
+      "summary": "Vintage magnetic electronics-building kit; an admired modular-design rabbit hole, now second-hand.",
+      "why_included": "A commenter explicitly likes the named physical system and points readers toward surviving kits.",
+      "evidence": "frnz says they like the Lectron system and suggests searching eBay for Braun Lectron kits.",
+      "evidence_sources": [{"comment_id": "49919442", "comment_url": "https://news.ycombinator.com/item?id=49919442", "author": "frnz", "excerpt": "I also like this LECTRON-system by Gregor Greger from 1965.", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

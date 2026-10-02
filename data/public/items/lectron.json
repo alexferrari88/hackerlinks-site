@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "lectron",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:lectron:49912792",
+  "mention_ids": [
+    "2026-10-02:lectron:49912792"
+  ],
+  "name": "Lectron",
+  "slug": "lectron",
+  "summary": "Vintage magnetic electronics-building kit; an admired modular-design rabbit hole, now second-hand.",
+  "thing_url": "https://de.wikipedia.org/wiki/Lectron",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly likes the named physical system and points readers toward surviving kits."
+}

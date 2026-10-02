@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-02T05:18:23+02:00",
+  "id": "strongphrase-net",
+  "last_seen_at": "2026-10-02T05:18:23+02:00",
+  "latest_mention_id": "2026-10-02:strongphrase-net:49922278",
+  "mention_ids": [
+    "2026-10-02:strongphrase-net:49922278"
+  ],
+  "name": "StrongPhrase.net",
+  "slug": "strongphrase-net",
+  "summary": "Random-passphrase generator recommended for memorable phrases in a phone-security discussion.",
+  "thing_url": "https://strongphrase.net/",
+  "times_seen": 1,
+  "why_included": "The commenter explicitly recommends the generator's memorable output, not merely its domain."
+}
