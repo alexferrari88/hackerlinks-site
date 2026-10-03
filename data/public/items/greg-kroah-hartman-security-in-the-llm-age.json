@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "greg-kroah-hartman-security-in-the-llm-age",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:greg-kroah-hartman-security-in-the-llm-age:49929391",
+  "mention_ids": [
+    "2026-10-03:greg-kroah-hartman-security-in-the-llm-age:49929391"
+  ],
+  "name": "Greg Kroah-Hartman \u2014 Security in the LLM Age",
+  "slug": "greg-kroah-hartman-security-in-the-llm-age",
+  "summary": "Linux maintainer's talk on LLM security, praised for grounded analysis and human-review emphasis.",
+  "thing_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly praises the talk's grounded approach to LLM security."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "neom uses Pass2U Wallet and says it works well despite a clunky interface.",
+  "evidence_sources": [
+    {
+      "author": "neom",
+      "comment_id": "49938798",
+      "comment_url": "https://news.ycombinator.com/item?id=49938798",
+      "context": "first_hand_use",
+      "excerpt": "I use an app called pass2 u wallet for this, it's clunky but works well. No affiliation.",
+      "kind": "recommendation",
+      "parent_comment_id": "49938546"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49937276",
+  "id": "2026-10-03:pass2u-wallet:49937276",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "pass2u-wallet",
+  "rank": 5,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49937276",
+  "source_story_title": "Apple Pass Designer"
+}

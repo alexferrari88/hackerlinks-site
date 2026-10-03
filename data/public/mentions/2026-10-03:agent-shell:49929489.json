@@ -1,0 +1,23 @@
+{
+  "evidence": "gnufied uses agent-shell as their sole agent interface and praises workflow customization.",
+  "evidence_sources": [
+    {
+      "author": "gnufied",
+      "comment_id": "49933623",
+      "comment_url": "https://news.ycombinator.com/item?id=49933623",
+      "context": "first_hand_use",
+      "excerpt": "What makes this great is infinite hack-ability of the interface",
+      "kind": "recommendation",
+      "parent_comment_id": "49932668"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49929489",
+  "id": "2026-10-03:agent-shell:49929489",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "agent-shell",
+  "rank": 1,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49929489",
+  "source_story_title": "DeepSeek Harness Desktop for macOS and Windows"
+}

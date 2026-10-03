@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "pyxel",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:pyxel:49928215",
+  "mention_ids": [
+    "2026-10-03:pyxel:49928215"
+  ],
+  "name": "Pyxel",
+  "slug": "pyxel",
+  "summary": "Python retro-game engine with art and sound editors; praised for quick, playful coding.",
+  "thing_url": "https://github.com/kitao/pyxel",
+  "times_seen": 1,
+  "why_included": "An independent user endorses the engine after making a retro demo."
+}

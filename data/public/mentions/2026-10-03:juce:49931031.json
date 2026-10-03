@@ -1,0 +1,31 @@
+{
+  "evidence": "vltmrkls praises decades of reliability and a maintained forum; r2ob flags commercial licensing barriers.",
+  "evidence_sources": [
+    {
+      "author": "vltmrkls",
+      "comment_id": "49935521",
+      "comment_url": "https://news.ycombinator.com/item?id=49935521",
+      "context": "first_hand_use",
+      "excerpt": "i have been using JUCE for decades and it's been very reliable and stable with a well maintained forum.",
+      "kind": "recommendation",
+      "parent_comment_id": "49934814"
+    },
+    {
+      "author": "r2ob",
+      "comment_id": "49934814",
+      "comment_url": "https://news.ycombinator.com/item?id=49934814",
+      "excerpt": "JUCE is open source, but it has a lot of barriers for commercial products.",
+      "kind": "caveat",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49931031",
+  "id": "2026-10-03:juce:49931031",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "juce",
+  "rank": 2,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49931031",
+  "source_story_title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor"
+}

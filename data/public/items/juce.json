@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "juce",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:juce:49931031",
+  "mention_ids": [
+    "2026-10-03:juce:49931031"
+  ],
+  "name": "JUCE",
+  "slug": "juce",
+  "summary": "Cross-platform C++ audio framework; a longtime user praises reliability and community support.",
+  "thing_url": "https://juce.com/",
+  "times_seen": 1,
+  "why_included": "Decades of first-hand use provide a concrete reliability endorsement."
+}

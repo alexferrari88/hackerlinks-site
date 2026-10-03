@@ -1,0 +1,22 @@
+{
+  "evidence": "crooked-v explicitly recommends the book as a more adult but lovingly universal spin.",
+  "evidence_sources": [
+    {
+      "author": "crooked-v",
+      "comment_id": "49936849",
+      "comment_url": "https://news.ycombinator.com/item?id=49936849",
+      "excerpt": "I definitely have to recommend Frog and Toad are Doing Their Best, which puts a spin on the concept with a more adult, but still lovingly universal, take:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49927760",
+  "id": "2026-10-03:frog-and-toad-are-doing-their-best:49927760",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "frog-and-toad-are-doing-their-best",
+  "rank": 8,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49927760",
+  "source_story_title": "Frog and Toad and the Increasingly Capable Machines"
+}

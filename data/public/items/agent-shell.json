@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "agent-shell",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:agent-shell:49929489",
+  "mention_ids": [
+    "2026-10-03:agent-shell:49929489"
+  ],
+  "name": "agent-shell",
+  "slug": "agent-shell",
+  "summary": "Emacs interface for coding agents, praised for deeply customizable workflows.",
+  "thing_url": "https://github.com/xenodium/agent-shell/",
+  "times_seen": 1,
+  "why_included": "A daily user explicitly praises the interface's hackability."
+}

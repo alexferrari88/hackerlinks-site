@@ -1,0 +1,23 @@
+{
+  "evidence": "Lalabadie describes Pass4Wallet as their recent go-to among free options.",
+  "evidence_sources": [
+    {
+      "author": "Lalabadie",
+      "comment_id": "49940528",
+      "comment_url": "https://news.ycombinator.com/item?id=49940528",
+      "context": "first_hand_use",
+      "excerpt": "Pass4Wallet has been my go-to recently (among the free options)",
+      "kind": "recommendation",
+      "parent_comment_id": "49939884"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49937276",
+  "id": "2026-10-03:pass4wallet:49937276",
+  "is_repeat": true,
+  "issue_id": "2026-10-03",
+  "item_id": "pass4wallet",
+  "rank": 6,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49937276",
+  "source_story_title": "Apple Pass Designer"
+}

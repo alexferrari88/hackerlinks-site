@@ -1,0 +1,23 @@
+{
+  "evidence": "not_a_bot_4sho likes Mozilla VPN's privacy and DNS blocking but sometimes encounters blocked sites while using a VPN.",
+  "evidence_sources": [
+    {
+      "author": "not_a_bot_4sho",
+      "comment_id": "49936045",
+      "comment_url": "https://news.ycombinator.com/item?id=49936045",
+      "context": "first_hand_use",
+      "excerpt": "I like Mozilla VPN for personal privacy. (Note: it has ad blocking DNS built in which is nice!) I occasionally get blocked by websites or services, especially streaming apps, if I'm on VPN.",
+      "kind": "recommendation",
+      "parent_comment_id": "49935866"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49927754",
+  "id": "2026-10-03:mozilla-vpn:49927754",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "mozilla-vpn",
+  "rank": 4,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49927754",
+  "source_story_title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility"
+}

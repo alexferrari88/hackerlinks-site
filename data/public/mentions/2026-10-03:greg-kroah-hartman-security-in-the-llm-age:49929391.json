@@ -1,0 +1,22 @@
+{
+  "evidence": "asaiacai praises the analysis and says it reinforces the importance of human reviewers.",
+  "evidence_sources": [
+    {
+      "author": "asaiacai",
+      "comment_id": "49938729",
+      "comment_url": "https://news.ycombinator.com/item?id=49938729",
+      "excerpt": "cool to see a really grounded analysis of the \"security\" and LLMs.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49929391",
+  "id": "2026-10-03:greg-kroah-hartman-security-in-the-llm-age:49929391",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "greg-kroah-hartman-security-in-the-llm-age",
+  "rank": 9,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49929391",
+  "source_story_title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]"
+}

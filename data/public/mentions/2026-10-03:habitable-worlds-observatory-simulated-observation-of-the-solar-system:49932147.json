@@ -1,0 +1,22 @@
+{
+  "evidence": "7373737373 recommends the simulated Solar System observation in the observatory's Videos section.",
+  "evidence_sources": [
+    {
+      "author": "7373737373",
+      "comment_id": "49938425",
+      "comment_url": "https://news.ycombinator.com/item?id=49938425",
+      "excerpt": "Also check out the Simulated Observation of the Solar System by the Habitable Worlds Observatory (under \"Videos\")",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49932147",
+  "id": "2026-10-03:habitable-worlds-observatory-simulated-observation-of-the-solar-system:49932147",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "habitable-worlds-observatory-simulated-observation-of-the-solar-system",
+  "rank": 10,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49932147",
+  "source_story_title": "A 12-year sequence of telescope images of a star and four planets orbiting"
+}

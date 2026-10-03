@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "mozilla-vpn",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:mozilla-vpn:49927754",
+  "mention_ids": [
+    "2026-10-03:mozilla-vpn:49927754"
+  ],
+  "name": "Mozilla VPN",
+  "slug": "mozilla-vpn",
+  "summary": "Personal VPN with ad-blocking DNS; a user likes it despite occasional website blocks.",
+  "thing_url": "https://www.mozilla.org/products/vpn/",
+  "times_seen": 1,
+  "why_included": "A first-hand privacy endorsement includes a practical access caveat."
+}

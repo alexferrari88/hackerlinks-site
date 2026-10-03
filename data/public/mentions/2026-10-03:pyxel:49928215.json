@@ -1,0 +1,23 @@
+{
+  "evidence": "gregkb enjoyed recreating demoscene effects and found setup and initial coding easy.",
+  "evidence_sources": [
+    {
+      "author": "gregkb",
+      "comment_id": "49932469",
+      "comment_url": "https://news.ycombinator.com/item?id=49932469",
+      "context": "first_hand_use",
+      "excerpt": "had such a great time with Pyxel! was great fun to recreate some of the demo scene effects from my childhood.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49928215",
+  "id": "2026-10-03:pyxel:49928215",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "pyxel",
+  "rank": 3,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49928215",
+  "source_story_title": "Show HN: Pyxel \u2013 A Python retro game engine with built-in art and sound editors"
+}

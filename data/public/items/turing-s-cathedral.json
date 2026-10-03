@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "turing-s-cathedral",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:turing-s-cathedral:49933235",
+  "mention_ids": [
+    "2026-10-03:turing-s-cathedral:49933235"
+  ],
+  "name": "Turing's Cathedral",
+  "slug": "turing-s-cathedral",
+  "summary": "George Dyson's history of early computing, including von Neumann's Princeton IAS machine.",
+  "thing_url": "https://www.penguinrandomhouse.com/books/44425/turings-cathedral-by-george-dyson/",
+  "times_seen": 1,
+  "why_included": "An explicit book recommendation adds context to the von Neumann discussion."
+}

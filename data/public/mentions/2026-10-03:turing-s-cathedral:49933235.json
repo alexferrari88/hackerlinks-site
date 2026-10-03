@@ -1,0 +1,22 @@
+{
+  "evidence": "seemaze highly recommends George Dyson's book and highlights its account of the IAS machine.",
+  "evidence_sources": [
+    {
+      "author": "seemaze",
+      "comment_id": "49936439",
+      "comment_url": "https://news.ycombinator.com/item?id=49936439",
+      "excerpt": "highly recommend reading: Turings Cathedral: The Origins of the Digital Universe by George Dyson[0]",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49933235",
+  "id": "2026-10-03:turing-s-cathedral:49933235",
+  "is_repeat": false,
+  "issue_id": "2026-10-03",
+  "item_id": "turing-s-cathedral",
+  "rank": 7,
+  "seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "source_story_id": "49933235",
+  "source_story_title": "The Legend of von Neumann (1973) [pdf]"
+}

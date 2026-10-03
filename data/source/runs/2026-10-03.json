@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "run_date": "2026-10-03",
+  "generated_at": "2026-10-03T03:16:16.389404+00:00",
+  "summary": "Ten comment-endorsed tools, apps, books, and videos from the prior-day HN front page.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-03.json",
+    "sha256": "5965d6c600a82fcbbdd4f8c6769ebb0460430befcf452833b2414b9ef3e4b0d1",
+    "bytes": 2111237,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3417,
+    "fetched_item_count": 3447,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "agent-shell",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/xenodium/agent-shell/",
+      "hn_url": "https://news.ycombinator.com/item?id=49929489",
+      "source_story_title": "DeepSeek Harness Desktop for macOS and Windows",
+      "summary": "Emacs interface for coding agents, praised for deeply customizable workflows.",
+      "why_included": "A daily user explicitly praises the interface's hackability.",
+      "evidence": "gnufied uses agent-shell as their sole agent interface and praises workflow customization.",
+      "evidence_sources": [{"comment_id": "49933623", "comment_url": "https://news.ycombinator.com/item?id=49933623", "author": "gnufied", "excerpt": "What makes this great is infinite hack-ability of the interface", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49932668"}]
+    },
+    {
+      "name": "JUCE",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://juce.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49931031",
+      "source_story_title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "summary": "Cross-platform C++ audio framework; a longtime user praises reliability and community support.",
+      "why_included": "Decades of first-hand use provide a concrete reliability endorsement.",
+      "evidence": "vltmrkls praises decades of reliability and a maintained forum; r2ob flags commercial licensing barriers.",
+      "evidence_sources": [
+        {"comment_id": "49935521", "comment_url": "https://news.ycombinator.com/item?id=49935521", "author": "vltmrkls", "excerpt": "i have been using JUCE for decades and it's been very reliable and stable with a well maintained forum.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49934814"},
+        {"comment_id": "49934814", "comment_url": "https://news.ycombinator.com/item?id=49934814", "author": "r2ob", "excerpt": "JUCE is open source, but it has a lot of barriers for commercial products.", "kind": "caveat", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Pyxel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/kitao/pyxel",
+      "hn_url": "https://news.ycombinator.com/item?id=49928215",
+      "source_story_title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+      "summary": "Python retro-game engine with art and sound editors; praised for quick, playful coding.",
+      "why_included": "An independent user endorses the engine after making a retro demo.",
+      "evidence": "gregkb enjoyed recreating demoscene effects and found setup and initial coding easy.",
+      "evidence_sources": [{"comment_id": "49932469", "comment_url": "https://news.ycombinator.com/item?id=49932469", "author": "gregkb", "excerpt": "had such a great time with Pyxel! was great fun to recreate some of the demo scene effects from my childhood.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Mozilla VPN",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.mozilla.org/products/vpn/",
+      "hn_url": "https://news.ycombinator.com/item?id=49927754",
+      "source_story_title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "summary": "Personal VPN with ad-blocking DNS; a user likes it despite occasional website blocks.",
+      "why_included": "A first-hand privacy endorsement includes a practical access caveat.",
+      "evidence": "not_a_bot_4sho likes Mozilla VPN's privacy and DNS blocking but sometimes encounters blocked sites while using a VPN.",
+      "evidence_sources": [{"comment_id": "49936045", "comment_url": "https://news.ycombinator.com/item?id=49936045", "author": "not_a_bot_4sho", "excerpt": "I like Mozilla VPN for personal privacy. (Note: it has ad blocking DNS built in which is nice!) I occasionally get blocked by websites or services, especially streaming apps, if I'm on VPN.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49935866"}]
+    },
+    {
+      "name": "Pass2U Wallet",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://itunes.apple.com/us/app/pass2u-wallet-put-cards-into/id1142473931?mt=8",
+      "hn_url": "https://news.ycombinator.com/item?id=49937276",
+      "source_story_title": "Apple Pass Designer",
+      "summary": "App for putting cards into Apple Wallet; described as clunky but effective.",
+      "why_included": "A user explicitly endorses the app for replacing barcode-only apps with wallet passes.",
+      "evidence": "neom uses Pass2U Wallet and says it works well despite a clunky interface.",
+      "evidence_sources": [{"comment_id": "49938798", "comment_url": "https://news.ycombinator.com/item?id=49938798", "author": "neom", "excerpt": "I use an app called pass2 u wallet for this, it's clunky but works well. No affiliation.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49938546"}]
+    },
+    {
+      "name": "Pass4Wallet",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://apps.apple.com/us/app/pass4wallet-store-cards/id1423106610",
+      "hn_url": "https://news.ycombinator.com/item?id=49937276",
+      "source_story_title": "Apple Pass Designer",
+      "summary": "Free iPhone app for creating Apple Wallet passes from store cards and coupons.",
+      "why_included": "A fresh first-hand recommendation resurfaces this useful app after its 90-day cooldown.",
+      "evidence": "Lalabadie describes Pass4Wallet as their recent go-to among free options.",
+      "evidence_sources": [{"comment_id": "49940528", "comment_url": "https://news.ycombinator.com/item?id=49940528", "author": "Lalabadie", "excerpt": "Pass4Wallet has been my go-to recently (among the free options)", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49939884"}]
+    },
+    {
+      "name": "Turing's Cathedral",
+      "category": "Books",
+      "thing_url": "https://www.penguinrandomhouse.com/books/44425/turings-cathedral-by-george-dyson/",
+      "hn_url": "https://news.ycombinator.com/item?id=49933235",
+      "source_story_title": "The Legend of von Neumann (1973) [pdf]",
+      "summary": "George Dyson's history of early computing, including von Neumann's Princeton IAS machine.",
+      "why_included": "An explicit book recommendation adds context to the von Neumann discussion.",
+      "evidence": "seemaze highly recommends George Dyson's book and highlights its account of the IAS machine.",
+      "evidence_sources": [{"comment_id": "49936439", "comment_url": "https://news.ycombinator.com/item?id=49936439", "author": "seemaze", "excerpt": "highly recommend reading: Turings Cathedral: The Origins of the Digital Universe by George Dyson[0]", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Frog and Toad Are Doing Their Best",
+      "category": "Books",
+      "thing_url": "https://bookshop.org/p/books/frog-and-toad-are-doing-their-best-a-parody-bedtime-stories-for-trying-times-jennie-egerdie/d337d24d787fcb2d",
+      "hn_url": "https://news.ycombinator.com/item?id=49927760",
+      "source_story_title": "Frog and Toad and the Increasingly Capable Machines",
+      "summary": "Adult Frog and Toad parody, recommended for its affectionate, universal take.",
+      "why_included": "A direct reading recommendation offers a nontechnical discovery from an AI thread.",
+      "evidence": "crooked-v explicitly recommends the book as a more adult but lovingly universal spin.",
+      "evidence_sources": [{"comment_id": "49936849", "comment_url": "https://news.ycombinator.com/item?id=49936849", "author": "crooked-v", "excerpt": "I definitely have to recommend Frog and Toad are Doing Their Best, which puts a spin on the concept with a more adult, but still lovingly universal, take:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Greg Kroah-Hartman — Security in the LLM Age",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "hn_url": "https://news.ycombinator.com/item?id=49929391",
+      "source_story_title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "summary": "Linux maintainer's talk on LLM security, praised for grounded analysis and human-review emphasis.",
+      "why_included": "A commenter explicitly praises the talk's grounded approach to LLM security.",
+      "evidence": "asaiacai praises the analysis and says it reinforces the importance of human reviewers.",
+      "evidence_sources": [{"comment_id": "49938729", "comment_url": "https://news.ycombinator.com/item?id=49938729", "author": "asaiacai", "excerpt": "cool to see a really grounded analysis of the \"security\" and LLMs.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Habitable Worlds Observatory — Simulated Observation of the Solar System",
+      "category": "Watch & Learn",
+      "thing_url": "https://habitableworldsobservatory.org/multimedia",
+      "hn_url": "https://news.ycombinator.com/item?id=49932147",
+      "source_story_title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "summary": "Simulation showing how a future space observatory could image our Solar System.",
+      "why_included": "A commenter explicitly invites readers to watch a concrete astronomy simulation.",
+      "evidence": "7373737373 recommends the simulated Solar System observation in the observatory's Videos section.",
+      "evidence_sources": [{"comment_id": "49938425", "comment_url": "https://news.ycombinator.com/item?id=49938425", "author": "7373737373", "excerpt": "Also check out the Simulated Observation of the Solar System by the Habitable Worlds Observatory (under \"Videos\")", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

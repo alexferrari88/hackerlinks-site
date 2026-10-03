@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "id": "pass2u-wallet",
+  "last_seen_at": "2026-10-03T03:16:16.389404+00:00",
+  "latest_mention_id": "2026-10-03:pass2u-wallet:49937276",
+  "mention_ids": [
+    "2026-10-03:pass2u-wallet:49937276"
+  ],
+  "name": "Pass2U Wallet",
+  "slug": "pass2u-wallet",
+  "summary": "App for putting cards into Apple Wallet; described as clunky but effective.",
+  "thing_url": "https://itunes.apple.com/us/app/pass2u-wallet-put-cards-into/id1142473931?mt=8",
+  "times_seen": 1,
+  "why_included": "A user explicitly endorses the app for replacing barcode-only apps with wallet passes."
+}

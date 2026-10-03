@@ -6027,8 +6027,8 @@
     {
       "name": "Pass4Wallet",
       "first_reported_at": "2026-05-05T21:17:42.347177Z",
-      "last_reported_at": "2026-05-05T21:17:42.347177Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 2
     },
     {
       "name": "Pavement Paradise",
@@ -10139,6 +10139,15 @@
       "first_reported_at": "2026-10-01T03:18:25.808708+00:00",
       "last_reported_at": "2026-10-01T03:18:25.808708+00:00",
       "times_reported": 1
-    }
+    },
+    {"name": "agent-shell", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "JUCE", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Pyxel", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Mozilla VPN", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Pass2U Wallet", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Turing's Cathedral", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Frog and Toad Are Doing Their Best", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Greg Kroah-Hartman — Security in the LLM Age", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
+    {"name": "Habitable Worlds Observatory — Simulated Observation of the Solar System", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1}
   ]
 }
