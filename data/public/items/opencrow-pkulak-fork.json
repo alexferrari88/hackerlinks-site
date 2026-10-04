@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "id": "opencrow-pkulak-fork",
+  "last_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "latest_mention_id": "2026-10-04:opencrow-pkulak-fork:49937304",
+  "mention_ids": [
+    "2026-10-04:opencrow-pkulak-fork:49937304"
+  ],
+  "name": "OpenCrow (pkulak fork)",
+  "slug": "opencrow-pkulak-fork",
+  "summary": "Matrix AI-assistant project; its maintainer praises selective desktop access through Nix containers.",
+  "thing_url": "https://github.com/pkulak/opencrow",
+  "times_seen": 1,
+  "why_included": "The linked personal setup has a concrete, positively described access-control benefit."
+}

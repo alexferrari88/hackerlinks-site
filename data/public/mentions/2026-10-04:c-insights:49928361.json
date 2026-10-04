@@ -1,0 +1,22 @@
+{
+  "evidence": "sltkr praises the tool for explaining C++ lambdas and provides an example that also exposes range-based loop mechanics.",
+  "evidence_sources": [
+    {
+      "author": "sltkr",
+      "comment_id": "49947515",
+      "comment_url": "https://news.ycombinator.com/item?id=49947515",
+      "excerpt": "But it's a great example of how this tool is useful to learn about those things (of course you could also read the C++ standard but who has time for that?)",
+      "kind": "recommendation",
+      "parent_comment_id": "49944344"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49928361",
+  "id": "2026-10-04:c-insights:49928361",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "c-insights",
+  "rank": 1,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49928361",
+  "source_story_title": "C++ Insights \u2013 See your source code with the eyes of a Compiler"
+}

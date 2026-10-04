@@ -1,0 +1,23 @@
+{
+  "evidence": "phildenhoff praises long-term Orca use, but describes frustration with finding blocking questions buried in agent conversations.",
+  "evidence_sources": [
+    {
+      "author": "phildenhoff",
+      "comment_id": "49946800",
+      "comment_url": "https://news.ycombinator.com/item?id=49946800",
+      "context": "first_hand_use",
+      "excerpt": "I used Orca for ages and that was great; I'm just tired of having to scroll back through a convo to find that \"one last blocking question\" that Claude or Codex spit out 15 tool calls and subagent messages ago.",
+      "kind": "recommendation",
+      "parent_comment_id": "49946647"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49942434",
+  "id": "2026-10-04:orca:49942434",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "orca",
+  "rank": 4,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49942434",
+  "source_story_title": "Show HN: Offrun \u2013 manage every coding agent from one workspace"
+}

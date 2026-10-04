@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "id": "aerospace",
+  "last_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "latest_mention_id": "2026-10-04:aerospace:49937540",
+  "mention_ids": [
+    "2026-10-04:aerospace:49937540"
+  ],
+  "name": "AeroSpace",
+  "slug": "aerospace",
+  "summary": "Configurable macOS tiling window manager that leaves System Integrity Protection enabled.",
+  "thing_url": "https://github.com/nikitabobko/AeroSpace",
+  "times_seen": 1,
+  "why_included": "Two weeks of positive first-hand use provide a concrete desktop-workflow endorsement."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "polytely directly urges readers to play Arctic Eggs while discussing celebrities' interest in indie games.",
+  "evidence_sources": [
+    {
+      "author": "polytely",
+      "comment_id": "49947307",
+      "comment_url": "https://news.ycombinator.com/item?id=49947307",
+      "excerpt": "(play Arctic Eggs y'all)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49925184",
+  "id": "2026-10-04:arctic-eggs:49925184",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "arctic-eggs",
+  "rank": 8,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49925184",
+  "source_story_title": "Mike Tomlin spent 12 years building a Minecraft city"
+}

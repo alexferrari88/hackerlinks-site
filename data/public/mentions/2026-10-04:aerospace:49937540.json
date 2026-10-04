@@ -1,0 +1,23 @@
+{
+  "evidence": "rubslopes reports a great experience after two weeks, highlighting configurability and not needing to disable SIP.",
+  "evidence_sources": [
+    {
+      "author": "rubslopes",
+      "comment_id": "49948439",
+      "comment_url": "https://news.ycombinator.com/item?id=49948439",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Aerospace on MacOS for 2 weeks and having a great experience with it. Very configurable, and it doesn't require you to deactivate SIP like yabai.",
+      "kind": "recommendation",
+      "parent_comment_id": "49946293"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49937540",
+  "id": "2026-10-04:aerospace:49937540",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "aerospace",
+  "rank": 2,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49937540",
+  "source_story_title": "Make Tmux the OS"
+}

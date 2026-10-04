@@ -1,0 +1,23 @@
+{
+  "evidence": "carefree-bob names William and Sly and William and Sly 2 among their favorite games from the site.",
+  "evidence_sources": [
+    {
+      "author": "carefree-bob",
+      "comment_id": "49942041",
+      "comment_url": "https://news.ycombinator.com/item?id=49942041",
+      "context": "first_hand_use",
+      "excerpt": "I used to play flash games on this site, one of my favorites was \"William and Sly\" and also \"William and Sly 2\".",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49940394",
+  "id": "2026-10-04:william-and-sly-2:49940394",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "william-and-sly-2",
+  "rank": 9,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49940394",
+  "source_story_title": "Newgrounds.com \u2013 A community of games, music, and art"
+}

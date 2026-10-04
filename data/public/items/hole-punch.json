@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "id": "hole-punch",
+  "last_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "latest_mention_id": "2026-10-04:hole-punch:49946393",
+  "mention_ids": [
+    "2026-10-04:hole-punch:49946393"
+  ],
+  "name": "Hole Punch",
+  "slug": "hole-punch",
+  "summary": "Browser physics puzzle that steers a spaceship using black-hole gravity; mobile controls need care.",
+  "thing_url": "https://notoriousbfg.com/hole-punch/",
+  "times_seen": 1,
+  "why_included": "Direct gameplay praise comes with specific, useful mobile-control caveats."
+}

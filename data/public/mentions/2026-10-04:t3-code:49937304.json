@@ -1,0 +1,23 @@
+{
+  "evidence": "fratellobigio says T3 Code works well with a Claude subscription in Kubernetes, using persistent storage for configs and repos; the comment notes no official Docker image.",
+  "evidence_sources": [
+    {
+      "author": "fratellobigio",
+      "comment_id": "49947002",
+      "comment_url": "https://news.ycombinator.com/item?id=49947002",
+      "context": "first_hand_use",
+      "excerpt": "I use a T3 Code pod in a kubernetes Deployment (sadly no official Docker image), with a PVC so configs and cloned repos survive pod restarts. Seems to work quite well with my Claude subscription (no GPU in my homelab yet)",
+      "kind": "recommendation",
+      "parent_comment_id": "49946715"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49937304",
+  "id": "2026-10-04:t3-code:49937304",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "t3-code",
+  "rank": 3,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49937304",
+  "source_story_title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server"
+}

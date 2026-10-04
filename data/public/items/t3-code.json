@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "id": "t3-code",
+  "last_seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "latest_mention_id": "2026-10-04:t3-code:49937304",
+  "mention_ids": [
+    "2026-10-04:t3-code:49937304"
+  ],
+  "name": "T3 Code",
+  "slug": "t3-code",
+  "summary": "Open-source coding-agent control interface; one user runs it successfully in Kubernetes.",
+  "thing_url": "https://t3.codes/",
+  "times_seen": 1,
+  "why_included": "A specific self-hosted setup is positively endorsed rather than merely listed."
+}

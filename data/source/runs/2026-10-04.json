@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-04",
+  "generated_at": "2026-10-04T03:17:28.932874+00:00",
+  "summary": "10 comment-endorsed discoveries: coding tools, desktop workflows, games, and an emergency-care course.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-04.json",
+    "sha256": "0bf29938941b9099ef66252d10305418691d434a4add810db7e6c7d6641e29fb",
+    "bytes": 1676949,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 2799,
+    "fetched_item_count": 2829,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "C++ Insights",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://cppinsights.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49928361",
+      "source_story_title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "summary": "C++ code explorer that reveals how lambdas and range-based loops work.",
+      "why_included": "A commenter demonstrates its teaching value with a concrete lambda example.",
+      "evidence": "sltkr praises the tool for explaining C++ lambdas and provides an example that also exposes range-based loop mechanics.",
+      "evidence_sources": [{"comment_id": "49947515", "comment_url": "https://news.ycombinator.com/item?id=49947515", "author": "sltkr", "excerpt": "But it's a great example of how this tool is useful to learn about those things (of course you could also read the C++ standard but who has time for that?)", "kind": "recommendation", "parent_comment_id": "49944344"}]
+    },
+    {
+      "name": "AeroSpace",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/nikitabobko/AeroSpace",
+      "hn_url": "https://news.ycombinator.com/item?id=49937540",
+      "source_story_title": "Make Tmux the OS",
+      "summary": "Configurable macOS tiling window manager that leaves System Integrity Protection enabled.",
+      "why_included": "Two weeks of positive first-hand use provide a concrete desktop-workflow endorsement.",
+      "evidence": "rubslopes reports a great experience after two weeks, highlighting configurability and not needing to disable SIP.",
+      "evidence_sources": [{"comment_id": "49948439", "comment_url": "https://news.ycombinator.com/item?id=49948439", "author": "rubslopes", "excerpt": "I've been using Aerospace on MacOS for 2 weeks and having a great experience with it. Very configurable, and it doesn't require you to deactivate SIP like yabai.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49946293"}]
+    },
+    {
+      "name": "T3 Code",
+      "category": "AI & Local Models",
+      "thing_url": "https://t3.codes/",
+      "hn_url": "https://news.ycombinator.com/item?id=49937304",
+      "source_story_title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "summary": "Open-source coding-agent control interface; one user runs it successfully in Kubernetes.",
+      "why_included": "A specific self-hosted setup is positively endorsed rather than merely listed.",
+      "evidence": "fratellobigio says T3 Code works well with a Claude subscription in Kubernetes, using persistent storage for configs and repos; the comment notes no official Docker image.",
+      "evidence_sources": [{"comment_id": "49947002", "comment_url": "https://news.ycombinator.com/item?id=49947002", "author": "fratellobigio", "excerpt": "I use a T3 Code pod in a kubernetes Deployment (sadly no official Docker image), with a PVC so configs and cloned repos survive pod restarts. Seems to work quite well with my Claude subscription (no GPU in my homelab yet)", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49946715"}]
+    },
+    {
+      "name": "Orca",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.onorca.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49942434",
+      "source_story_title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "summary": "Coding-agent development environment with parallel worktrees, terminals, diffs, and mobile access.",
+      "why_included": "A long-time user explicitly calls the experience great while explaining an unmet workflow need.",
+      "evidence": "phildenhoff praises long-term Orca use, but describes frustration with finding blocking questions buried in agent conversations.",
+      "evidence_sources": [{"comment_id": "49946800", "comment_url": "https://news.ycombinator.com/item?id=49946800", "author": "phildenhoff", "excerpt": "I used Orca for ages and that was great; I'm just tired of having to scroll back through a convo to find that \"one last blocking question\" that Claude or Codex spit out 15 tool calls and subagent messages ago.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49946647"}]
+    },
+    {
+      "name": "OpenCrow (pkulak fork)",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/pkulak/opencrow",
+      "hn_url": "https://news.ycombinator.com/item?id=49937304",
+      "source_story_title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "summary": "Matrix AI-assistant project; its maintainer praises selective desktop access through Nix containers.",
+      "why_included": "The linked personal setup has a concrete, positively described access-control benefit.",
+      "evidence": "pkulak endorses using systemd containers in Nix to selectively expose desktop resources and links their OpenCrow fork; this is maintainer context, not an independent security audit.",
+      "evidence_sources": [{"comment_id": "49946778", "comment_url": "https://news.ycombinator.com/item?id=49946778", "author": "pkulak", "excerpt": "I use Systemd containers in Nix. That’s really cool because I can selectively link in the parts of my desktop that I want it to have access to.", "kind": "recommendation", "context": "author_or_maintainer", "parent_comment_id": "49946715"}]
+    },
+    {
+      "name": "Hole Punch",
+      "category": "Games",
+      "thing_url": "https://notoriousbfg.com/hole-punch/",
+      "hn_url": "https://news.ycombinator.com/item?id=49946393",
+      "source_story_title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "summary": "Browser physics puzzle that steers a spaceship using black-hole gravity; mobile controls need care.",
+      "why_included": "Direct gameplay praise comes with specific, useful mobile-control caveats.",
+      "evidence": "rkagerer calls it a great game but finds mobile controls imprecise.",
+      "evidence_sources": [{"comment_id": "49947579", "comment_url": "https://news.ycombinator.com/item?id=49947579", "author": "rkagerer", "excerpt": "Great game, though the controls on mobile are a bit too imprecise.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Interplanetary: Enhanced Edition",
+      "category": "Games",
+      "thing_url": "https://store.steampowered.com/app/650220/Interplanetary_Enhanced_Edition/",
+      "hn_url": "https://news.ycombinator.com/item?id=49946393",
+      "source_story_title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "summary": "Turn-based planetary artillery game where shots bend through solar-system gravity fields.",
+      "why_included": "A commenter explicitly recommends it as a playable gravity-artillery game.",
+      "evidence": "x______________ tells readers to check out Interplanetary in a discussion of turn-based space artillery.",
+      "evidence_sources": [{"comment_id": "49948182", "comment_url": "https://news.ycombinator.com/item?id=49948182", "author": "x______________", "excerpt": "Another version of this idea has been out for some time now, check out Interplanetary[0]", "kind": "recommendation", "parent_comment_id": "49946822"}]
+    },
+    {
+      "name": "Arctic Eggs",
+      "category": "Games",
+      "thing_url": "https://the-water-museum.itch.io/arctic-eggs",
+      "hn_url": "https://news.ycombinator.com/item?id=49925184",
+      "source_story_title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "summary": "Surreal sci-fi cooking game about frying illegal eggs in Antarctica.",
+      "why_included": "An explicit play recommendation surfaces an off-topic indie-game discovery.",
+      "evidence": "polytely directly urges readers to play Arctic Eggs while discussing celebrities' interest in indie games.",
+      "evidence_sources": [{"comment_id": "49947307", "comment_url": "https://news.ycombinator.com/item?id=49947307", "author": "polytely", "excerpt": "(play Arctic Eggs y'all)", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "William and Sly 2",
+      "category": "Games",
+      "thing_url": "https://www.newgrounds.com/portal/view/586756",
+      "hn_url": "https://news.ycombinator.com/item?id=49940394",
+      "source_story_title": "Newgrounds.com – A community of games, music, and art",
+      "summary": "Atmospheric fox-exploration platformer remembered fondly by a longtime Newgrounds player.",
+      "why_included": "A first-hand favorite is named clearly and has a direct game page.",
+      "evidence": "carefree-bob names William and Sly and William and Sly 2 among their favorite games from the site.",
+      "evidence_sources": [{"comment_id": "49942041", "comment_url": "https://news.ycombinator.com/item?id=49942041", "author": "carefree-bob", "excerpt": "I used to play flash games on this site, one of my favorites was \"William and Sly\" and also \"William and Sly 2\".", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Become an EMT",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.coursera.org/specializations/become-an-emt",
+      "hn_url": "https://news.ycombinator.com/item?id=49947631",
+      "source_story_title": "Reasons I didn't become an EMT, ranked",
+      "summary": "Emergency-care course series recommended for previewing EMT study before pursuing a license.",
+      "why_included": "A commenter recommends a concrete course for making an informed training decision.",
+      "evidence": "keane recommends the MD-led Coursera course to understand EMT class content and decide whether to pursue licensing.",
+      "evidence_sources": [{"comment_id": "49948543", "comment_url": "https://news.ycombinator.com/item?id=49948543", "author": "keane", "excerpt": "The Coursera course led by an MD will give you a good idea of the content of the class and can help you decide if you want the license:", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

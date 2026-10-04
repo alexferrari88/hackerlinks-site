@@ -1,0 +1,22 @@
+{
+  "evidence": "keane recommends the MD-led Coursera course to understand EMT class content and decide whether to pursue licensing.",
+  "evidence_sources": [
+    {
+      "author": "keane",
+      "comment_id": "49948543",
+      "comment_url": "https://news.ycombinator.com/item?id=49948543",
+      "excerpt": "The Coursera course led by an MD will give you a good idea of the content of the class and can help you decide if you want the license:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49947631",
+  "id": "2026-10-04:become-an-emt:49947631",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "become-an-emt",
+  "rank": 10,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49947631",
+  "source_story_title": "Reasons I didn't become an EMT, ranked"
+}

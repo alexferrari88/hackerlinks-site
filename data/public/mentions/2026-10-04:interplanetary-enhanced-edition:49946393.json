@@ -1,0 +1,22 @@
+{
+  "evidence": "x______________ tells readers to check out Interplanetary in a discussion of turn-based space artillery.",
+  "evidence_sources": [
+    {
+      "author": "x______________",
+      "comment_id": "49948182",
+      "comment_url": "https://news.ycombinator.com/item?id=49948182",
+      "excerpt": "Another version of this idea has been out for some time now, check out Interplanetary[0]",
+      "kind": "recommendation",
+      "parent_comment_id": "49946822"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49946393",
+  "id": "2026-10-04:interplanetary-enhanced-edition:49946393",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "interplanetary-enhanced-edition",
+  "rank": 7,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49946393",
+  "source_story_title": "Hole Punch: Sling your spaceship around gravitational fields"
+}

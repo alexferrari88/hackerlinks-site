@@ -1,0 +1,23 @@
+{
+  "evidence": "pkulak endorses using systemd containers in Nix to selectively expose desktop resources and links their OpenCrow fork; this is maintainer context, not an independent security audit.",
+  "evidence_sources": [
+    {
+      "author": "pkulak",
+      "comment_id": "49946778",
+      "comment_url": "https://news.ycombinator.com/item?id=49946778",
+      "context": "author_or_maintainer",
+      "excerpt": "I use Systemd containers in Nix. That\u2019s really cool because I can selectively link in the parts of my desktop that I want it to have access to.",
+      "kind": "recommendation",
+      "parent_comment_id": "49946715"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49937304",
+  "id": "2026-10-04:opencrow-pkulak-fork:49937304",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "opencrow-pkulak-fork",
+  "rank": 5,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49937304",
+  "source_story_title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server"
+}

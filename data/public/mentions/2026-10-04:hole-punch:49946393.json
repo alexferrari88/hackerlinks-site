@@ -1,0 +1,23 @@
+{
+  "evidence": "rkagerer calls it a great game but finds mobile controls imprecise.",
+  "evidence_sources": [
+    {
+      "author": "rkagerer",
+      "comment_id": "49947579",
+      "comment_url": "https://news.ycombinator.com/item?id=49947579",
+      "context": "first_hand_use",
+      "excerpt": "Great game, though the controls on mobile are a bit too imprecise.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49946393",
+  "id": "2026-10-04:hole-punch:49946393",
+  "is_repeat": false,
+  "issue_id": "2026-10-04",
+  "item_id": "hole-punch",
+  "rank": 6,
+  "seen_at": "2026-10-04T03:17:28.932874+00:00",
+  "source_story_id": "49946393",
+  "source_story_title": "Hole Punch: Sling your spaceship around gravitational fields"
+}
