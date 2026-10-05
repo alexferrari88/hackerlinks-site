@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says they have found Perfetto an excellent modern alternative to gpuvis.",
+  "evidence_sources": [
+    {
+      "author": "shadeslayer",
+      "comment_id": "49953902",
+      "comment_url": "https://news.ycombinator.com/item?id=49953902",
+      "context": "first_hand_use",
+      "excerpt": "I've found perfetto [1] to be a excellent modern alternative to gpuvis.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49935097",
+  "id": "2026-10-05:perfetto:49935097",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "perfetto",
+  "rank": 3,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49935097",
+  "source_story_title": "gpuvis: GPU Trace Visualizer"
+}

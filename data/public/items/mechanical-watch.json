@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "id": "mechanical-watch",
+  "last_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "latest_mention_id": "2026-10-05:mechanical-watch:49930439",
+  "mention_ids": [
+    "2026-10-05:mechanical-watch:49930439"
+  ],
+  "name": "Mechanical Watch",
+  "slug": "mechanical-watch",
+  "summary": "Interactive mechanical-watch explainer by Bartosz Ciechanowski, praised alongside a hands-on clock build.",
+  "thing_url": "https://ciechanow.ski/mechanical-watch/",
+  "times_seen": 1,
+  "why_included": "Explicit affection for the explainer accompanies a direct link and a useful contrasting project."
+}

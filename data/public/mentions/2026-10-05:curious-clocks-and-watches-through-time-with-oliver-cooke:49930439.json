@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter describes the linked video's clocks as cool and highlights gravity-based clocks distinct from hourglasses.",
+  "evidence_sources": [
+    {
+      "author": "Razengan",
+      "comment_id": "49956118",
+      "comment_url": "https://news.ycombinator.com/item?id=49956118",
+      "excerpt": "Some more cool clocks, including gravity based clocks (not hourglasses):",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49930439",
+  "id": "2026-10-05:curious-clocks-and-watches-through-time-with-oliver-cooke:49930439",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "curious-clocks-and-watches-through-time-with-oliver-cooke",
+  "rank": 9,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49930439",
+  "source_story_title": "Show HN: Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash"
+}

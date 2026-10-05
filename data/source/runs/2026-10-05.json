@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-05",
+  "generated_at": "2026-10-05T03:16:35.913152+00:00",
+  "summary": "Ten comment-endorsed finds spanning agent workflows, profiling, visual learning, and mechanical clocks.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-05.json",
+    "sha256": "bbe2694371f65963cf9b57e8e37ca7ba4494617d1e344dcd5bfa3bba8e71f3d6",
+    "bytes": 2557474,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3986,
+    "fetched_item_count": 4016,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Gnosis",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/skorokithakis/gnosis",
+      "hn_url": "https://news.ycombinator.com/item?id=49945933",
+      "source_story_title": "Agents don't need memory, they need documentation",
+      "summary": "Agent decision recorder that captures chosen paths and rejected alternatives after a session.",
+      "why_included": "The creator reports months of successful use with an end-of-session pass.",
+      "evidence": "The creator says Gnosis records decisions and untaken paths, runs a pass at the end, and has worked great for months.",
+      "evidence_sources": [{"comment_id": "49957482", "comment_url": "https://news.ycombinator.com/item?id=49957482", "author": "stavros", "excerpt": "This just does a pass at the end, rather than consume context all the time. I've been using it for months and it works great.", "kind": "recommendation", "context": "author_or_maintainer", "parent_comment_id": "49948312"}]
+    },
+    {
+      "name": "Principle Driven Development",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://principledriven.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49945933",
+      "source_story_title": "Agents don't need memory, they need documentation",
+      "summary": "Versioned engineering principles for coding agents; the creator reports strong adherence in practice.",
+      "why_included": "A concrete shared system accompanies a positive two-month first-hand account.",
+      "evidence": "The creator describes versioned principles referenced in code and reports good agent adherence after roughly two months of use.",
+      "evidence_sources": [{"comment_id": "49948420", "comment_url": "https://news.ycombinator.com/item?id=49948420", "author": "bushido", "excerpt": "System still evolving, but the last two-ish months that I've used it has served me really, really well, And it's been even better with the latest models. I've had surprisingly good adherence from agents on this technique.", "kind": "recommendation", "context": "author_or_maintainer", "parent_comment_id": null}]
+    },
+    {
+      "name": "Perfetto",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://ui.perfetto.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49935097",
+      "source_story_title": "gpuvis: GPU Trace Visualizer",
+      "summary": "Performance trace viewer recommended by a commenter as an excellent modern gpuvis alternative.",
+      "why_included": "A direct recommendation supplies both the alternative and its usable interface.",
+      "evidence": "A commenter says they have found Perfetto an excellent modern alternative to gpuvis.",
+      "evidence_sources": [{"comment_id": "49953902", "comment_url": "https://news.ycombinator.com/item?id=49953902", "author": "shadeslayer", "excerpt": "I've found perfetto [1] to be a excellent modern alternative to gpuvis.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Apple Vision framework",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://developer.apple.com/documentation/vision",
+      "hn_url": "https://news.ycombinator.com/item?id=49952111",
+      "source_story_title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "summary": "Apple's computer-vision framework; a commenter recommends its OCR over Tesseract on macOS.",
+      "why_included": "An explicit platform-specific recommendation identifies a practical OCR alternative.",
+      "evidence": "A commenter recommends Apple's Vision framework for Mac OCR and claims better speed and accuracy than Tesseract; this is not a verified benchmark.",
+      "evidence_sources": [{"comment_id": "49953995", "comment_url": "https://news.ycombinator.com/item?id=49953995", "author": "postalcoder", "excerpt": "Since this is for the mac you really should be using apple's vision framework for OCR. It smokes tesseract in both speed and accuracy.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "BetterExplained",
+      "category": "Watch & Learn",
+      "thing_url": "https://betterexplained.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49940482",
+      "source_story_title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
+      "summary": "Intuition-first mathematics explanations, strongly recommended in a discussion about how to teach maths.",
+      "why_included": "The comment explicitly recommends the site for building intuition.",
+      "evidence": "A commenter highly recommends BetterExplained as an alternative approach to developing mathematical intuition.",
+      "evidence_sources": [{"comment_id": "49954773", "comment_url": "https://news.ycombinator.com/item?id=49954773", "author": "chrisweekly", "excerpt": "Regarding intuition, I highly recommend https://betterexplained.com as a great example of an alternative approach that aligns with your ideas.", "kind": "recommendation", "parent_comment_id": "49953118"}]
+    },
+    {
+      "name": "Math Made Visual: Creating Images for Understanding Mathematics",
+      "category": "Watch & Learn",
+      "thing_url": "https://bookstore.ams.org/CLRM/28",
+      "hn_url": "https://news.ycombinator.com/item?id=49940482",
+      "source_story_title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
+      "summary": "Alsina and Nelsen's book on understanding mathematics through images and visual reasoning.",
+      "why_included": "The commenter explicitly offers this named book as a useful learning resource.",
+      "evidence": "A commenter suggests Math Made Visual as a resource others might find useful.",
+      "evidence_sources": [{"comment_id": "49952665", "comment_url": "https://news.ycombinator.com/item?id=49952665", "author": "rramadass", "excerpt": "I recently came to know of the following which others might also find useful; 1) Math Made Visual: Creating Images for Understanding Mathematics by Claudi Alsina and Roger Nelsen", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Mechanical Watch",
+      "category": "Watch & Learn",
+      "thing_url": "https://ciechanow.ski/mechanical-watch/",
+      "hn_url": "https://news.ycombinator.com/item?id=49930439",
+      "source_story_title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "summary": "Interactive mechanical-watch explainer by Bartosz Ciechanowski, praised alongside a hands-on clock build.",
+      "why_included": "Explicit affection for the explainer accompanies a direct link and a useful contrasting project.",
+      "evidence": "A commenter links Mechanical Watch and says they love both the explainer and the trash-clock demo for their contrasting approaches.",
+      "evidence_sources": [{"comment_id": "49953965", "comment_url": "https://news.ycombinator.com/item?id=49953965", "author": "geerlingguy", "excerpt": "(I love both, just opposite in the color vs dryness, jank vs precision, \"build first, principles later\" approach).", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Plane Crazy: Building a Plane in 30 Days",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtu.be/FSNzF-KSGiw",
+      "hn_url": "https://news.ycombinator.com/item?id=49949438",
+      "source_story_title": "Tell HN: Bob Cringely has died",
+      "summary": "Bob Cringely's aircraft-building documentary, praised as a fascinating failure and filmmaking salvage exercise.",
+      "why_included": "A viewer offers specific praise rather than merely mentioning the documentary.",
+      "evidence": "A viewer says they liked the PBS documentary and calls it a fascinating failure and a masterclass in salvaging a collapsing premise.",
+      "evidence_sources": [{"comment_id": "49950029", "comment_url": "https://news.ycombinator.com/item?id=49950029", "author": "JKCalhoun", "excerpt": "The documentary is a fascinating failure and a masterclass in attempting to salvage a show when the whole premise for the show completely collapses.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Curious Clocks and Watches through time with Oliver Cooke",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=ywD5kngMuYM",
+      "hn_url": "https://news.ycombinator.com/item?id=49930439",
+      "source_story_title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "summary": "British Museum video exploring unusual clocks and watches, including gravity-powered mechanisms.",
+      "why_included": "A commenter points viewers to a named video with explicit praise for its clocks.",
+      "evidence": "A commenter describes the linked video's clocks as cool and highlights gravity-based clocks distinct from hourglasses.",
+      "evidence_sources": [{"comment_id": "49956118", "comment_url": "https://news.ycombinator.com/item?id=49956118", "author": "Razengan", "excerpt": "Some more cool clocks, including gravity based clocks (not hourglasses):", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Glashütte Trash Clock",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://niklasroy.com/gtc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49930439",
+      "source_story_title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "summary": "Thirty-minute pendulum clock made from trash, praised for its build-first approach to mechanics.",
+      "why_included": "An independent commenter explicitly endorses the submitted clock rather than just describing it.",
+      "evidence": "A commenter calls the project a perfect contrasting clock demo and says they love both it and the linked mechanical-watch explainer.",
+      "evidence_sources": [{"comment_id": "49953965", "comment_url": "https://news.ycombinator.com/item?id=49953965", "author": "geerlingguy", "excerpt": "(I love both, just opposite in the color vs dryness, jank vs precision, \"build first, principles later\" approach).", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

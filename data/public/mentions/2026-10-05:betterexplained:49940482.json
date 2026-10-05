@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends BetterExplained as an alternative approach to developing mathematical intuition.",
+  "evidence_sources": [
+    {
+      "author": "chrisweekly",
+      "comment_id": "49954773",
+      "comment_url": "https://news.ycombinator.com/item?id=49954773",
+      "excerpt": "Regarding intuition, I highly recommend https://betterexplained.com as a great example of an alternative approach that aligns with your ideas.",
+      "kind": "recommendation",
+      "parent_comment_id": "49953118"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49940482",
+  "id": "2026-10-05:betterexplained:49940482",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "betterexplained",
+  "rank": 5,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49940482",
+  "source_story_title": "Math's pedagogical curse \u2013 Grant Sanderson [video] (2023)"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "id": "gnosis",
+  "last_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "latest_mention_id": "2026-10-05:gnosis:49945933",
+  "mention_ids": [
+    "2026-10-05:gnosis:49945933"
+  ],
+  "name": "Gnosis",
+  "slug": "gnosis",
+  "summary": "Agent decision recorder that captures chosen paths and rejected alternatives after a session.",
+  "thing_url": "https://github.com/skorokithakis/gnosis",
+  "times_seen": 1,
+  "why_included": "The creator reports months of successful use with an end-of-session pass."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter suggests Math Made Visual as a resource others might find useful.",
+  "evidence_sources": [
+    {
+      "author": "rramadass",
+      "comment_id": "49952665",
+      "comment_url": "https://news.ycombinator.com/item?id=49952665",
+      "excerpt": "I recently came to know of the following which others might also find useful; 1) Math Made Visual: Creating Images for Understanding Mathematics by Claudi Alsina and Roger Nelsen",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49940482",
+  "id": "2026-10-05:math-made-visual-creating-images-for-understanding-mathematics:49940482",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "math-made-visual-creating-images-for-understanding-mathematics",
+  "rank": 6,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49940482",
+  "source_story_title": "Math's pedagogical curse \u2013 Grant Sanderson [video] (2023)"
+}

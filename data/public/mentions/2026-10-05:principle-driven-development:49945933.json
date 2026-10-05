@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator describes versioned principles referenced in code and reports good agent adherence after roughly two months of use.",
+  "evidence_sources": [
+    {
+      "author": "bushido",
+      "comment_id": "49948420",
+      "comment_url": "https://news.ycombinator.com/item?id=49948420",
+      "context": "author_or_maintainer",
+      "excerpt": "System still evolving, but the last two-ish months that I've used it has served me really, really well, And it's been even better with the latest models. I've had surprisingly good adherence from agents on this technique.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49945933",
+  "id": "2026-10-05:principle-driven-development:49945933",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "principle-driven-development",
+  "rank": 2,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49945933",
+  "source_story_title": "Agents don't need memory, they need documentation"
+}

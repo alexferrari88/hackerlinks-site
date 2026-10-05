@@ -1,0 +1,23 @@
+{
+  "evidence": "A viewer says they liked the PBS documentary and calls it a fascinating failure and a masterclass in salvaging a collapsing premise.",
+  "evidence_sources": [
+    {
+      "author": "JKCalhoun",
+      "comment_id": "49950029",
+      "comment_url": "https://news.ycombinator.com/item?id=49950029",
+      "context": "first_hand_use",
+      "excerpt": "The documentary is a fascinating failure and a masterclass in attempting to salvage a show when the whole premise for the show completely collapses.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49949438",
+  "id": "2026-10-05:plane-crazy-building-a-plane-in-30-days:49949438",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "plane-crazy-building-a-plane-in-30-days",
+  "rank": 8,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49949438",
+  "source_story_title": "Tell HN: Bob Cringely has died"
+}

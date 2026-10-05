@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter links Mechanical Watch and says they love both the explainer and the trash-clock demo for their contrasting approaches.",
+  "evidence_sources": [
+    {
+      "author": "geerlingguy",
+      "comment_id": "49953965",
+      "comment_url": "https://news.ycombinator.com/item?id=49953965",
+      "excerpt": "(I love both, just opposite in the color vs dryness, jank vs precision, \"build first, principles later\" approach).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49930439",
+  "id": "2026-10-05:mechanical-watch:49930439",
+  "is_repeat": false,
+  "issue_id": "2026-10-05",
+  "item_id": "mechanical-watch",
+  "rank": 7,
+  "seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "source_story_id": "49930439",
+  "source_story_title": "Show HN: Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash"
+}

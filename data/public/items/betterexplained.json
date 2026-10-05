@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "id": "betterexplained",
+  "last_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "latest_mention_id": "2026-10-05:betterexplained:49940482",
+  "mention_ids": [
+    "2026-10-05:betterexplained:49940482"
+  ],
+  "name": "BetterExplained",
+  "slug": "betterexplained",
+  "summary": "Intuition-first mathematics explanations, strongly recommended in a discussion about how to teach maths.",
+  "thing_url": "https://betterexplained.com",
+  "times_seen": 1,
+  "why_included": "The comment explicitly recommends the site for building intuition."
+}

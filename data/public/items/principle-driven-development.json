@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "id": "principle-driven-development",
+  "last_seen_at": "2026-10-05T03:16:35.913152+00:00",
+  "latest_mention_id": "2026-10-05:principle-driven-development:49945933",
+  "mention_ids": [
+    "2026-10-05:principle-driven-development:49945933"
+  ],
+  "name": "Principle Driven Development",
+  "slug": "principle-driven-development",
+  "summary": "Versioned engineering principles for coding agents; the creator reports strong adherence in practice.",
+  "thing_url": "https://principledriven.dev/",
+  "times_seen": 1,
+  "why_included": "A concrete shared system accompanies a positive two-month first-hand account."
+}
