@@ -1,0 +1,23 @@
+{
+  "evidence": "sidkshatriya calls Peter Bex's posts extremely high quality and lists the garbage-collector article among posts they spent hours reading.",
+  "evidence_sources": [
+    {
+      "author": "sidkshatriya",
+      "comment_id": "49964473",
+      "comment_url": "https://news.ycombinator.com/item?id=49964473",
+      "context": "first_hand_use",
+      "excerpt": "Extremely high-quality blog posts by Peter Bex ! Spent too many hours reading these:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49939308",
+  "id": "2026-10-06:chicken-internals-the-garbage-collector:49939308",
+  "is_repeat": false,
+  "issue_id": "2026-10-06",
+  "item_id": "chicken-internals-the-garbage-collector",
+  "rank": 6,
+  "seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "source_story_id": "49939308",
+  "source_story_title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex"
+}

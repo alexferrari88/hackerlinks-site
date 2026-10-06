@@ -1,0 +1,23 @@
+{
+  "evidence": "jrapdx3 describes several years with CHICKEN as gratifying and credits its easy, sensible FFI.",
+  "evidence_sources": [
+    {
+      "author": "jrapdx3",
+      "comment_id": "49959967",
+      "comment_url": "https://news.ycombinator.com/item?id=49959967",
+      "context": "first_hand_use",
+      "excerpt": "I've used Chicken Scheme for a few years. For the most part, it's been a gratifying experience. For me, Chicken's easy to use and sensible FFI is big part of the reason.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49939308",
+  "id": "2026-10-06:chicken-scheme:49939308",
+  "is_repeat": false,
+  "issue_id": "2026-10-06",
+  "item_id": "chicken-scheme",
+  "rank": 3,
+  "seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "source_story_id": "49939308",
+  "source_story_title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex"
+}

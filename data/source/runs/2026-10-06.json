@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-06",
+  "generated_at": "2026-10-06T03:17:36.198863+00:00",
+  "summary": "Ten comment-endorsed finds spanning developer tools, search, programming resources, games, and physical products.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-06.json",
+    "sha256": "e1f69fb87119535971e2ad2e3f7548431ca6ee84f02112032430babcdba61a32",
+    "bytes": 2707994,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4428,
+    "fetched_item_count": 4458,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "98.css",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://jdan.github.io/98.css/",
+      "hn_url": "https://news.ycombinator.com/item?id=49956681",
+      "source_story_title": "A browser-native classic Visual Basic VB6 IDE",
+      "summary": "CSS library for Windows 98-style interfaces; praised as a personal-project foundation.",
+      "why_included": "Direct first-hand praise connects a concrete library to repeated personal-project use.",
+      "evidence": "HanClinto uses 98.css for many personal projects and calls it great and refreshing.",
+      "evidence_sources": [{"comment_id": "49966892", "comment_url": "https://news.ycombinator.com/item?id=49966892", "author": "HanClinto", "excerpt": "I've been using 98.css [0] as a foundation for building many of my personal projects lately -- I think it's pretty great, and a really refreshing return to some older paradigms.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49965965"}]
+    },
+    {
+      "name": "mold",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/rui314/mold",
+      "hn_url": "https://news.ycombinator.com/item?id=49963385",
+      "source_story_title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "summary": "Fast linker; a distro builder reports substantial speed advantages over LLVM's lld.",
+      "why_included": "A production user independently endorses the story subject with a concrete speed comparison.",
+      "evidence": "lrvick says their distro switched from lld to mold because lld was much slower; the same comment warns that building Rust dependencies delays those gains.",
+      "evidence_sources": [{"comment_id": "49969363", "comment_url": "https://news.ycombinator.com/item?id=49969363", "author": "lrvick", "excerpt": "LLD would work fine for the whole tree, and did previously, but is much much slower than mold which is why we switched to mold. Having to build all dependencies of rust including python and openssl and everything else before being able to use mold erases most of the full-tree build speedups as the path to rust is already about 80% of the full tree build time.", "kind": "comparison", "context": "production_use", "parent_comment_id": "49967560"}]
+    },
+    {
+      "name": "CHICKEN Scheme",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "http://www.call-cc.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49939308",
+      "source_story_title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "summary": "Scheme-to-C compiler; a longtime user praises its approachable foreign-function interface.",
+      "why_included": "Years of positive first-hand use provide stronger evidence than language nostalgia.",
+      "evidence": "jrapdx3 describes several years with CHICKEN as gratifying and credits its easy, sensible FFI.",
+      "evidence_sources": [{"comment_id": "49959967", "comment_url": "https://news.ycombinator.com/item?id=49959967", "author": "jrapdx3", "excerpt": "I've used Chicken Scheme for a few years. For the most part, it's been a gratifying experience. For me, Chicken's easy to use and sensible FFI is big part of the reason.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Serper",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://serper.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49963171",
+      "source_story_title": "Web Search API",
+      "summary": "Search API for applications and agents; a trial user reports good results.",
+      "why_included": "The commenter actually tried the service and explicitly approved the experience.",
+      "evidence": "sejje says they used Serper's free allowance and found it good.",
+      "evidence_sources": [{"comment_id": "49966413", "comment_url": "https://news.ycombinator.com/item?id=49966413", "author": "sejje", "excerpt": "They have 2,500 free which I used, it seemed good.", "kind": "recommendation", "context": "evaluated", "parent_comment_id": "49964828"}]
+    },
+    {
+      "name": "SearXNG",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://docs.searxng.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49963171",
+      "source_story_title": "Web Search API",
+      "summary": "Self-hostable metasearch engine; one user finds it adequate for personal AI models.",
+      "why_included": "A modest but explicit first-hand endorsement offers a distinct search alternative.",
+      "evidence": "laumars uses SearXNG for personal models and says it is free and seems okay so far.",
+      "evidence_sources": [{"comment_id": "49968084", "comment_url": "https://news.ycombinator.com/item?id=49968084", "author": "laumars", "excerpt": "Lately I've been using SearXNG for personal models. It's free and seems ok thus far.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "CHICKEN internals: the garbage collector",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.more-magic.net/posts/internals-gc.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49939308",
+      "source_story_title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "summary": "Peter Bex's technical deep dive into Scheme compilation and garbage collection.",
+      "why_included": "Explicit praise and reported reading identify a concrete technical resource worth resurfacing.",
+      "evidence": "sidkshatriya calls Peter Bex's posts extremely high quality and lists the garbage-collector article among posts they spent hours reading.",
+      "evidence_sources": [{"comment_id": "49964473", "comment_url": "https://news.ycombinator.com/item?id=49964473", "author": "sidkshatriya", "excerpt": "Extremely high-quality blog posts by Peter Bex ! Spent too many hours reading these:", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Competitive Programmer's Handbook",
+      "category": "Watch & Learn",
+      "thing_url": "https://cses.fi/book/book.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49944049",
+      "source_story_title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "summary": "Free algorithms handbook; recommended as a reference and coding-interview preparation resource.",
+      "why_included": "An independent comment explicitly recommends both practical uses of the book.",
+      "evidence": "Keegs calls the book a great algorithms reference and interview-preparation resource.",
+      "evidence_sources": [{"comment_id": "49970169", "comment_url": "https://news.ycombinator.com/item?id=49970169", "author": "Keegs", "excerpt": "I’m a big fan of this book. It’s an equally great algorithms reference and way to prep for coding interviews.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "SQL Doom",
+      "category": "Games & Experiments",
+      "thing_url": "https://cedardb.com/blog/sqldoom/",
+      "hn_url": "https://news.ycombinator.com/item?id=49948300",
+      "source_story_title": "We ported the original Doom to SQL",
+      "summary": "Doom implemented in SQL; admired for turning query planning into a state machine.",
+      "why_included": "A playful but explicit endorsement makes this a concrete systems rabbit hole.",
+      "evidence": "soltanov admires the port's use of query planning as a state machine and says they love it.",
+      "evidence_sources": [{"comment_id": "49961500", "comment_url": "https://news.ycombinator.com/item?id=49961500", "author": "soltanov", "excerpt": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Mack's Flightguard",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.macksearplugs.com/product/flightguard-airplane-pressure-relief-ear-plugs",
+      "hn_url": "https://news.ycombinator.com/item?id=49920785",
+      "source_story_title": "The first fully implanted cochlear implant reaches patients",
+      "summary": "Reusable earplugs with a carry case; praised for making everyday use convenient.",
+      "why_included": "The exact linked product resolves to a named earplug with concrete first-hand praise.",
+      "evidence": "schiffern praises the earplugs and especially the pocket-sized case for keeping them available throughout the day.",
+      "evidence_sources": [{"comment_id": "49965230", "comment_url": "https://news.ycombinator.com/item?id=49965230", "author": "schiffern", "excerpt": "The special part isn't the earplugs (and they're good!), the special part is the little carry case so they can live in my pocket 24/7.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49964589"}]
+    },
+    {
+      "name": "Foscarini Le Soleil",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.foscarini.com/en/product/le-soleil-std-s-en/",
+      "hn_url": "https://news.ycombinator.com/item?id=49965152",
+      "source_story_title": "The lamps in my house",
+      "summary": "Sculptural pendant lamp; praised for asymmetrical layers and exceptional light distribution.",
+      "why_included": "A reply supplies an explicit named favorite outside the submitted article's lamp collection.",
+      "evidence": "eps names Le Soleil as a recent favorite and praises its asymmetry, suspended layers, and light distribution.",
+      "evidence_sources": [{"comment_id": "49971666", "comment_url": "https://news.ycombinator.com/item?id=49971666", "author": "eps", "excerpt": "One of my recent favourites - Le Soleil by Foscarini - https://www.foscarini.com/en/product/le-soleil-std-s-en/ It's wonderfully asymmetrical without overdoing it, with every layer suspended and swaying independently when prodded. Exceptional light distribution.", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

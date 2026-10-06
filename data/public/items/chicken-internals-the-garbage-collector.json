@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "id": "chicken-internals-the-garbage-collector",
+  "last_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "latest_mention_id": "2026-10-06:chicken-internals-the-garbage-collector:49939308",
+  "mention_ids": [
+    "2026-10-06:chicken-internals-the-garbage-collector:49939308"
+  ],
+  "name": "CHICKEN internals: the garbage collector",
+  "slug": "chicken-internals-the-garbage-collector",
+  "summary": "Peter Bex's technical deep dive into Scheme compilation and garbage collection.",
+  "thing_url": "https://www.more-magic.net/posts/internals-gc.html",
+  "times_seen": 1,
+  "why_included": "Explicit praise and reported reading identify a concrete technical resource worth resurfacing."
+}

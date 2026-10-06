@@ -1,0 +1,23 @@
+{
+  "evidence": "sejje says they used Serper's free allowance and found it good.",
+  "evidence_sources": [
+    {
+      "author": "sejje",
+      "comment_id": "49966413",
+      "comment_url": "https://news.ycombinator.com/item?id=49966413",
+      "context": "evaluated",
+      "excerpt": "They have 2,500 free which I used, it seemed good.",
+      "kind": "recommendation",
+      "parent_comment_id": "49964828"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49963171",
+  "id": "2026-10-06:serper:49963171",
+  "is_repeat": false,
+  "issue_id": "2026-10-06",
+  "item_id": "serper",
+  "rank": 4,
+  "seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "source_story_id": "49963171",
+  "source_story_title": "Web Search API"
+}

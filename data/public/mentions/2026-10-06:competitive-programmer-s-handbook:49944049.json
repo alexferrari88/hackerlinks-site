@@ -1,0 +1,22 @@
+{
+  "evidence": "Keegs calls the book a great algorithms reference and interview-preparation resource.",
+  "evidence_sources": [
+    {
+      "author": "Keegs",
+      "comment_id": "49970169",
+      "comment_url": "https://news.ycombinator.com/item?id=49970169",
+      "excerpt": "I\u2019m a big fan of this book. It\u2019s an equally great algorithms reference and way to prep for coding interviews.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49944049",
+  "id": "2026-10-06:competitive-programmer-s-handbook:49944049",
+  "is_repeat": false,
+  "issue_id": "2026-10-06",
+  "item_id": "competitive-programmer-s-handbook",
+  "rank": 7,
+  "seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "source_story_id": "49944049",
+  "source_story_title": "Competitive Programmer's Handbook (2018) [pdf]"
+}

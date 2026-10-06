@@ -1,0 +1,22 @@
+{
+  "evidence": "soltanov admires the port's use of query planning as a state machine and says they love it.",
+  "evidence_sources": [
+    {
+      "author": "soltanov",
+      "comment_id": "49961500",
+      "comment_url": "https://news.ycombinator.com/item?id=49961500",
+      "excerpt": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49948300",
+  "id": "2026-10-06:sql-doom:49948300",
+  "is_repeat": false,
+  "issue_id": "2026-10-06",
+  "item_id": "sql-doom",
+  "rank": 8,
+  "seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "source_story_id": "49948300",
+  "source_story_title": "We ported the original Doom to SQL"
+}

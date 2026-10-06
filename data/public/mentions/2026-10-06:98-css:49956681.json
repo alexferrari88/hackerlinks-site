@@ -1,0 +1,23 @@
+{
+  "evidence": "HanClinto uses 98.css for many personal projects and calls it great and refreshing.",
+  "evidence_sources": [
+    {
+      "author": "HanClinto",
+      "comment_id": "49966892",
+      "comment_url": "https://news.ycombinator.com/item?id=49966892",
+      "context": "first_hand_use",
+      "excerpt": "I've been using 98.css [0] as a foundation for building many of my personal projects lately -- I think it's pretty great, and a really refreshing return to some older paradigms.",
+      "kind": "recommendation",
+      "parent_comment_id": "49965965"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49956681",
+  "id": "2026-10-06:98-css:49956681",
+  "is_repeat": false,
+  "issue_id": "2026-10-06",
+  "item_id": "98-css",
+  "rank": 1,
+  "seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "source_story_id": "49956681",
+  "source_story_title": "A browser-native classic Visual Basic VB6 IDE"
+}

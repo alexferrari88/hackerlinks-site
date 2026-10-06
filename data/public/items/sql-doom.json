@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "id": "sql-doom",
+  "last_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "latest_mention_id": "2026-10-06:sql-doom:49948300",
+  "mention_ids": [
+    "2026-10-06:sql-doom:49948300"
+  ],
+  "name": "SQL Doom",
+  "slug": "sql-doom",
+  "summary": "Doom implemented in SQL; admired for turning query planning into a state machine.",
+  "thing_url": "https://cedardb.com/blog/sqldoom/",
+  "times_seen": 1,
+  "why_included": "A playful but explicit endorsement makes this a concrete systems rabbit hole."
+}

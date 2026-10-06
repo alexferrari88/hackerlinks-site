@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "id": "mack-s-flightguard",
+  "last_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "latest_mention_id": "2026-10-06:mack-s-flightguard:49920785",
+  "mention_ids": [
+    "2026-10-06:mack-s-flightguard:49920785"
+  ],
+  "name": "Mack's Flightguard",
+  "slug": "mack-s-flightguard",
+  "summary": "Reusable earplugs with a carry case; praised for making everyday use convenient.",
+  "thing_url": "https://www.macksearplugs.com/product/flightguard-airplane-pressure-relief-ear-plugs",
+  "times_seen": 1,
+  "why_included": "The exact linked product resolves to a named earplug with concrete first-hand praise."
+}

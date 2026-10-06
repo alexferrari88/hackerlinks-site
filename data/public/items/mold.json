@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "id": "mold",
+  "last_seen_at": "2026-10-06T03:17:36.198863+00:00",
+  "latest_mention_id": "2026-10-06:mold:49963385",
+  "mention_ids": [
+    "2026-10-06:mold:49963385"
+  ],
+  "name": "mold",
+  "slug": "mold",
+  "summary": "Fast linker; a distro builder reports substantial speed advantages over LLVM's lld.",
+  "thing_url": "https://github.com/rui314/mold",
+  "times_seen": 1,
+  "why_included": "A production user independently endorses the story subject with a concrete speed comparison."
+}
