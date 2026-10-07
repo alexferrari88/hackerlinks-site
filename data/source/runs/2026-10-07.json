@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-10-07",
+  "generated_at": "2026-10-07T03:18:11Z",
+  "summary": "Nine comment-endorsed discoveries across developer tools, home automation, games, and reading.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-07.json",
+    "sha256": "48a601b77e581c1653b567a9220ccabfd7d7a361896aaf19f57cb44a375726a9",
+    "bytes": 3270999,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5361,
+    "fetched_item_count": 5391,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Prettier",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://prettier.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49971719",
+      "source_story_title": "Friendship ended with Deno, now Node is my best friend",
+      "summary": "An opinionated code formatter praised by a user across multiple projects.",
+      "why_included": "Clear first-hand approval distinguishes the formatter from neutral runtime comparisons.",
+      "evidence": "AgentME praises Prettier in their projects, while noting the extra dependency and configuration burden in Node projects.",
+      "evidence_sources": [{"comment_id": "49982742", "comment_url": "https://news.ycombinator.com/item?id=49982742", "author": "AgentME", "excerpt": "I use Prettier in other projects and it's also great in those projects, but it's tiring that it's yet another dependency to remember to add and configure in a new node project.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49974203"}]
+    },
+    {
+      "name": "Tachometer",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/google/tachometer",
+      "hn_url": "https://news.ycombinator.com/item?id=49967427",
+      "source_story_title": "Benchmark in Milliseconds",
+      "summary": "A statistical web benchmark runner using confidence intervals; its repository is archived.",
+      "why_included": "A concrete benchmark runner anchors a practical endorsement of statistically controlled comparisons.",
+      "evidence": "spankalee credits this benchmarking approach with reliable, actionable results and points to Tachometer as the runner implementing it.",
+      "evidence_sources": [{"comment_id": "49981209", "comment_url": "https://news.ycombinator.com/item?id=49981209", "author": "spankalee", "excerpt": "This is the only way I've been able to get reliable, actionable benchmarks outside of a very, very controlled hardware lab. It's what Google's Tachometer benchmark runner does, and I wish more runners did this:", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "LibRaw",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.libraw.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49944196",
+      "source_story_title": "Show HN: Photoc – Command-line tools for photographers",
+      "summary": "A library for extracting camera RAW data and metadata, recommended by a happy user.",
+      "why_included": "An unaffiliated user explicitly recommends a concrete component for photographic tooling.",
+      "evidence": "tonyarkles recommends LibRaw and identifies themselves as a happy user with no affiliation.",
+      "evidence_sources": [{"comment_id": "49975831", "comment_url": "https://news.ycombinator.com/item?id=49975831", "author": "tonyarkles", "excerpt": "Check out https://www.libraw.org/! No affiliation, just a happy user.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49953629"}]
+    },
+    {
+      "name": "GEOPHIRES",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/NatLabRockies/GEOPHIRES-v2",
+      "hn_url": "https://news.ycombinator.com/item?id=49977819",
+      "source_story_title": "Mathematics of Geothermal Energy",
+      "summary": "An open-source geothermal techno-economic simulator; the linked v2 repository is archived.",
+      "why_included": "A direct recommendation turns a broad energy discussion into an actionable modeling resource.",
+      "evidence": "hnmullany recommends the open-source GEOPHIRES model as a starting point for geothermal mathematics and notes its UI.",
+      "evidence_sources": [{"comment_id": "49984072", "comment_url": "https://news.ycombinator.com/item?id=49984072", "author": "hnmullany", "excerpt": "If you want the ACTUAL mathematics of geothermal energy - a good place to start is the open source GEOPHIRES model which is available on github and has a UI", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Battery Notes",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/andrew-codechimp/HA-Battery-Notes",
+      "hn_url": "https://news.ycombinator.com/item?id=49950653",
+      "source_story_title": "Best-selling Zigbee temperature sensors tested and compared",
+      "summary": "A Home Assistant integration tracking battery replacements for clearer sensor-life measurements.",
+      "why_included": "Positive first-hand use gives this small maintenance tool a practical, specific benefit.",
+      "evidence": "moogly uses Battery Notes replacement timestamps to get a clearer view of sensor battery life.",
+      "evidence_sources": [{"comment_id": "49983741", "comment_url": "https://news.ycombinator.com/item?id=49983741", "author": "moogly", "excerpt": "I use Battery Notes in HA which keeps a timestamp since you last changed the battery so I have a pretty good view into battery life", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49980335"}]
+    },
+    {
+      "name": "SONOFF SNZB-02P",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://sonoff.tech/products/sonoff-zigbee-temperature-and-humidity-sensor-snzb-02p",
+      "hn_url": "https://news.ycombinator.com/item?id=49950653",
+      "source_story_title": "Best-selling Zigbee temperature sensors tested and compared",
+      "summary": "A Zigbee temperature/humidity sensor with a magnetic mount and CR2477 battery.",
+      "why_included": "A user's replacement choice and approval of the magnetic mount provide concrete endorsement.",
+      "evidence": "moogly replaced most of their previous sensors with SNZB-02P units and likes the built-in magnet despite the thicker body; their three-to-four-year battery estimate is an expectation, not a measured result.",
+      "evidence_sources": [{"comment_id": "49983741", "comment_url": "https://news.ycombinator.com/item?id=49983741", "author": "moogly", "excerpt": "I've replaced most of them with Sonoff SNZB-02P which runs a CR2477 battery and I expect the battery life to be at least 3 years; with some luck maybe 4? Not as slim however, but the built-in magnet makes up for it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49980335"}]
+    },
+    {
+      "name": "Zen Puzzle Garden",
+      "category": "Games & Experiments",
+      "thing_url": "https://www.lexaloffle.com/zen.php",
+      "hn_url": "https://news.ycombinator.com/item?id=49972211",
+      "source_story_title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "summary": "A Japanese rock-garden raking puzzle praised for its polished player experience.",
+      "why_included": "A player's clear preference surfaces a concrete alternative to the submitted game.",
+      "evidence": "robinhouston recalls enjoying Zen Puzzle Garden and finds it more enjoyable and polished than Samon.",
+      "evidence_sources": [{"comment_id": "49976539", "comment_url": "https://news.ycombinator.com/item?id=49976539", "author": "robinhouston", "excerpt": "I find it much more enjoyable to play than Samon. The player experience feels a lot more polished.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Quarks and Leptons",
+      "category": "Watch & Learn",
+      "thing_url": "https://archive.org/details/quarksleptonsint0000halz",
+      "hn_url": "https://news.ycombinator.com/item?id=49976265",
+      "source_story_title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "summary": "Halzen and Martin's introductory particle-physics textbook, warmly endorsed by a reader.",
+      "why_included": "An explicit reader endorsement offers a substantive resource beyond the Nobel headline.",
+      "evidence": "cowang says they loved the Halzen and Martin book and links its Internet Archive record.",
+      "evidence_sources": [{"comment_id": "49977378", "comment_url": "https://news.ycombinator.com/item?id=49977378", "author": "cowang", "excerpt": "Absolute loved this book by Halzen and Martin", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Deep History of Your Apps",
+      "category": "Watch & Learn",
+      "thing_url": "https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/",
+      "hn_url": "https://news.ycombinator.com/item?id=49979845",
+      "source_story_title": "The Early History of Smalltalk (1993)",
+      "summary": "A Computer History Museum article tracing NeXTSTEP and early object-oriented programming.",
+      "why_included": "A commenter explicitly recommends this historical account alongside the Smalltalk discussion.",
+      "evidence": "slowin recommends the article as a good history while discussing Smalltalk's influence on NeXTSTEP and Objective-C.",
+      "evidence_sources": [{"comment_id": "49980823", "comment_url": "https://news.ycombinator.com/item?id=49980823", "author": "slowin", "excerpt": "This is a good history:", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

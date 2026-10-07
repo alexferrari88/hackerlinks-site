@@ -1,0 +1,23 @@
+{
+  "evidence": "AgentME praises Prettier in their projects, while noting the extra dependency and configuration burden in Node projects.",
+  "evidence_sources": [
+    {
+      "author": "AgentME",
+      "comment_id": "49982742",
+      "comment_url": "https://news.ycombinator.com/item?id=49982742",
+      "context": "first_hand_use",
+      "excerpt": "I use Prettier in other projects and it's also great in those projects, but it's tiring that it's yet another dependency to remember to add and configure in a new node project.",
+      "kind": "recommendation",
+      "parent_comment_id": "49974203"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49971719",
+  "id": "2026-10-07:prettier:49971719",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "prettier",
+  "rank": 1,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49971719",
+  "source_story_title": "Friendship ended with Deno, now Node is my best friend"
+}

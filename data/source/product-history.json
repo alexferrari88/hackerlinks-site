@@ -2,46 +2,246 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
-    {"name": "98.css", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "mold", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "CHICKEN Scheme", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "Serper", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "SearXNG", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "CHICKEN internals: the garbage collector", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "Competitive Programmer's Handbook", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "SQL Doom", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "Mack's Flightguard", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "Foscarini Le Soleil", "first_reported_at": "2026-10-06T03:17:36.198863+00:00", "last_reported_at": "2026-10-06T03:17:36.198863+00:00", "times_reported": 1},
-    {"name": "Gnosis", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Principle Driven Development", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Perfetto", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Apple Vision framework", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "BetterExplained", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Math Made Visual: Creating Images for Understanding Mathematics", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Mechanical Watch", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Plane Crazy: Building a Plane in 30 Days", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Curious Clocks and Watches through time with Oliver Cooke", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "Glashütte Trash Clock", "first_reported_at": "2026-10-05T03:16:35.913152+00:00", "last_reported_at": "2026-10-05T03:16:35.913152+00:00", "times_reported": 1},
-    {"name": "C++ Insights", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "AeroSpace", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "T3 Code", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "Orca", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "OpenCrow (pkulak fork)", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "Hole Punch", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "Interplanetary: Enhanced Edition", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "Arctic Eggs", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "William and Sly 2", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "Become an EMT", "first_reported_at": "2026-10-04T03:17:28.932874+00:00", "last_reported_at": "2026-10-04T03:17:28.932874+00:00", "times_reported": 1},
-    {"name": "xc", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "Org Babel", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "egui", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "OpenPencil", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "Book of Shapes", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "Adam Fuhrer", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "StrongPhrase.net", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "The Wise-Woman's Dog", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "Internet History Roulette", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
-    {"name": "Lectron", "first_reported_at": "2026-10-02T05:18:23+02:00", "last_reported_at": "2026-10-02T05:18:23+02:00", "times_reported": 1},
+    {
+      "name": "98.css",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "mold",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CHICKEN Scheme",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Serper",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SearXNG",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CHICKEN internals: the garbage collector",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Competitive Programmer's Handbook",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SQL Doom",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mack's Flightguard",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Foscarini Le Soleil",
+      "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "last_reported_at": "2026-10-06T03:17:36.198863+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gnosis",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Principle Driven Development",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Perfetto",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Apple Vision framework",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BetterExplained",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Math Made Visual: Creating Images for Understanding Mathematics",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mechanical Watch",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Plane Crazy: Building a Plane in 30 Days",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Curious Clocks and Watches through time with Oliver Cooke",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Glashütte Trash Clock",
+      "first_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "last_reported_at": "2026-10-05T03:16:35.913152+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "C++ Insights",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AeroSpace",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "T3 Code",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Orca",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenCrow (pkulak fork)",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hole Punch",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Interplanetary: Enhanced Edition",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Arctic Eggs",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "William and Sly 2",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Become an EMT",
+      "first_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "last_reported_at": "2026-10-04T03:17:28.932874+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "xc",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Org Babel",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "egui",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenPencil",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Book of Shapes",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Adam Fuhrer",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "StrongPhrase.net",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Wise-Woman's Dog",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Internet History Roulette",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lectron",
+      "first_reported_at": "2026-10-02T05:18:23+02:00",
+      "last_reported_at": "2026-10-02T05:18:23+02:00",
+      "times_reported": 1
+    },
     {
       "name": "1.38 Millimeter Microcontroller",
       "first_reported_at": "2026-06-30T21:15:09Z",
@@ -10170,14 +10370,113 @@
       "last_reported_at": "2026-10-01T03:18:25.808708+00:00",
       "times_reported": 1
     },
-    {"name": "agent-shell", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "JUCE", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Pyxel", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Mozilla VPN", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Pass2U Wallet", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Turing's Cathedral", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Frog and Toad Are Doing Their Best", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Greg Kroah-Hartman — Security in the LLM Age", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1},
-    {"name": "Habitable Worlds Observatory — Simulated Observation of the Solar System", "first_reported_at": "2026-10-03T03:16:16.389404+00:00", "last_reported_at": "2026-10-03T03:16:16.389404+00:00", "times_reported": 1}
+    {
+      "name": "agent-shell",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "JUCE",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pyxel",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mozilla VPN",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Pass2U Wallet",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Turing's Cathedral",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Frog and Toad Are Doing Their Best",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Greg Kroah-Hartman — Security in the LLM Age",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Habitable Worlds Observatory — Simulated Observation of the Solar System",
+      "first_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "last_reported_at": "2026-10-03T03:16:16.389404+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Prettier",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Tachometer",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "LibRaw",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "GEOPHIRES",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Battery Notes",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "SONOFF SNZB-02P",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Zen Puzzle Garden",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Quarks and Leptons",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    },
+    {
+      "name": "The Deep History of Your Apps",
+      "first_reported_at": "2026-10-07T03:18:11Z",
+      "last_reported_at": "2026-10-07T03:18:11Z",
+      "times_reported": 1
+    }
   ]
 }

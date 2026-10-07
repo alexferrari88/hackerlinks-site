@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "libraw",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:libraw:49944196",
+  "mention_ids": [
+    "2026-10-07:libraw:49944196"
+  ],
+  "name": "LibRaw",
+  "slug": "libraw",
+  "summary": "A library for extracting camera RAW data and metadata, recommended by a happy user.",
+  "thing_url": "https://www.libraw.org/",
+  "times_seen": 1,
+  "why_included": "An unaffiliated user explicitly recommends a concrete component for photographic tooling."
+}

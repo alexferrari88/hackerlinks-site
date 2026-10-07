@@ -1,0 +1,23 @@
+{
+  "evidence": "moogly uses Battery Notes replacement timestamps to get a clearer view of sensor battery life.",
+  "evidence_sources": [
+    {
+      "author": "moogly",
+      "comment_id": "49983741",
+      "comment_url": "https://news.ycombinator.com/item?id=49983741",
+      "context": "first_hand_use",
+      "excerpt": "I use Battery Notes in HA which keeps a timestamp since you last changed the battery so I have a pretty good view into battery life",
+      "kind": "recommendation",
+      "parent_comment_id": "49980335"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49950653",
+  "id": "2026-10-07:battery-notes:49950653",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "battery-notes",
+  "rank": 5,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49950653",
+  "source_story_title": "Best-selling Zigbee temperature sensors tested and compared"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "moogly replaced most of their previous sensors with SNZB-02P units and likes the built-in magnet despite the thicker body; their three-to-four-year battery estimate is an expectation, not a measured result.",
+  "evidence_sources": [
+    {
+      "author": "moogly",
+      "comment_id": "49983741",
+      "comment_url": "https://news.ycombinator.com/item?id=49983741",
+      "context": "first_hand_use",
+      "excerpt": "I've replaced most of them with Sonoff SNZB-02P which runs a CR2477 battery and I expect the battery life to be at least 3 years; with some luck maybe 4? Not as slim however, but the built-in magnet makes up for it.",
+      "kind": "recommendation",
+      "parent_comment_id": "49980335"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49950653",
+  "id": "2026-10-07:sonoff-snzb-02p:49950653",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "sonoff-snzb-02p",
+  "rank": 6,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49950653",
+  "source_story_title": "Best-selling Zigbee temperature sensors tested and compared"
+}

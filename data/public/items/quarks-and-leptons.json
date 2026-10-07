@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "quarks-and-leptons",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:quarks-and-leptons:49976265",
+  "mention_ids": [
+    "2026-10-07:quarks-and-leptons:49976265"
+  ],
+  "name": "Quarks and Leptons",
+  "slug": "quarks-and-leptons",
+  "summary": "Halzen and Martin's introductory particle-physics textbook, warmly endorsed by a reader.",
+  "thing_url": "https://archive.org/details/quarksleptonsint0000halz",
+  "times_seen": 1,
+  "why_included": "An explicit reader endorsement offers a substantive resource beyond the Nobel headline."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "tachometer",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:tachometer:49967427",
+  "mention_ids": [
+    "2026-10-07:tachometer:49967427"
+  ],
+  "name": "Tachometer",
+  "slug": "tachometer",
+  "summary": "A statistical web benchmark runner using confidence intervals; its repository is archived.",
+  "thing_url": "https://github.com/google/tachometer",
+  "times_seen": 1,
+  "why_included": "A concrete benchmark runner anchors a practical endorsement of statistically controlled comparisons."
+}

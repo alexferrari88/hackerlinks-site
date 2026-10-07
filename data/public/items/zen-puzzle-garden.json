@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "zen-puzzle-garden",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:zen-puzzle-garden:49972211",
+  "mention_ids": [
+    "2026-10-07:zen-puzzle-garden:49972211"
+  ],
+  "name": "Zen Puzzle Garden",
+  "slug": "zen-puzzle-garden",
+  "summary": "A Japanese rock-garden raking puzzle praised for its polished player experience.",
+  "thing_url": "https://www.lexaloffle.com/zen.php",
+  "times_seen": 1,
+  "why_included": "A player's clear preference surfaces a concrete alternative to the submitted game."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "battery-notes",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:battery-notes:49950653",
+  "mention_ids": [
+    "2026-10-07:battery-notes:49950653"
+  ],
+  "name": "Battery Notes",
+  "slug": "battery-notes",
+  "summary": "A Home Assistant integration tracking battery replacements for clearer sensor-life measurements.",
+  "thing_url": "https://github.com/andrew-codechimp/HA-Battery-Notes",
+  "times_seen": 1,
+  "why_included": "Positive first-hand use gives this small maintenance tool a practical, specific benefit."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "slowin recommends the article as a good history while discussing Smalltalk's influence on NeXTSTEP and Objective-C.",
+  "evidence_sources": [
+    {
+      "author": "slowin",
+      "comment_id": "49980823",
+      "comment_url": "https://news.ycombinator.com/item?id=49980823",
+      "excerpt": "This is a good history:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49979845",
+  "id": "2026-10-07:the-deep-history-of-your-apps:49979845",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "the-deep-history-of-your-apps",
+  "rank": 9,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49979845",
+  "source_story_title": "The Early History of Smalltalk (1993)"
+}

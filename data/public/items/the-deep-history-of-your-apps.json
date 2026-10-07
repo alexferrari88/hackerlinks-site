@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "the-deep-history-of-your-apps",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:the-deep-history-of-your-apps:49979845",
+  "mention_ids": [
+    "2026-10-07:the-deep-history-of-your-apps:49979845"
+  ],
+  "name": "The Deep History of Your Apps",
+  "slug": "the-deep-history-of-your-apps",
+  "summary": "A Computer History Museum article tracing NeXTSTEP and early object-oriented programming.",
+  "thing_url": "https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommends this historical account alongside the Smalltalk discussion."
+}

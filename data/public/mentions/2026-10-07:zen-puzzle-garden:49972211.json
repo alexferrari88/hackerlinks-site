@@ -1,0 +1,23 @@
+{
+  "evidence": "robinhouston recalls enjoying Zen Puzzle Garden and finds it more enjoyable and polished than Samon.",
+  "evidence_sources": [
+    {
+      "author": "robinhouston",
+      "comment_id": "49976539",
+      "comment_url": "https://news.ycombinator.com/item?id=49976539",
+      "context": "first_hand_use",
+      "excerpt": "I find it much more enjoyable to play than Samon. The player experience feels a lot more polished.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49972211",
+  "id": "2026-10-07:zen-puzzle-garden:49972211",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "zen-puzzle-garden",
+  "rank": 7,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49972211",
+  "source_story_title": "Samon: Designing a Zen Garden Raking Puzzle"
+}

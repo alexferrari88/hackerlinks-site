@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "prettier",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:prettier:49971719",
+  "mention_ids": [
+    "2026-10-07:prettier:49971719"
+  ],
+  "name": "Prettier",
+  "slug": "prettier",
+  "summary": "An opinionated code formatter praised by a user across multiple projects.",
+  "thing_url": "https://prettier.io/",
+  "times_seen": 1,
+  "why_included": "Clear first-hand approval distinguishes the formatter from neutral runtime comparisons."
+}

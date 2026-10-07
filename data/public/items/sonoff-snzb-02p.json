@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-07T03:18:11Z",
+  "id": "sonoff-snzb-02p",
+  "last_seen_at": "2026-10-07T03:18:11Z",
+  "latest_mention_id": "2026-10-07:sonoff-snzb-02p:49950653",
+  "mention_ids": [
+    "2026-10-07:sonoff-snzb-02p:49950653"
+  ],
+  "name": "SONOFF SNZB-02P",
+  "slug": "sonoff-snzb-02p",
+  "summary": "A Zigbee temperature/humidity sensor with a magnetic mount and CR2477 battery.",
+  "thing_url": "https://sonoff.tech/products/sonoff-zigbee-temperature-and-humidity-sensor-snzb-02p",
+  "times_seen": 1,
+  "why_included": "A user's replacement choice and approval of the magnetic mount provide concrete endorsement."
+}

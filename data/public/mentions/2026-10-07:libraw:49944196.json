@@ -1,0 +1,23 @@
+{
+  "evidence": "tonyarkles recommends LibRaw and identifies themselves as a happy user with no affiliation.",
+  "evidence_sources": [
+    {
+      "author": "tonyarkles",
+      "comment_id": "49975831",
+      "comment_url": "https://news.ycombinator.com/item?id=49975831",
+      "context": "first_hand_use",
+      "excerpt": "Check out https://www.libraw.org/! No affiliation, just a happy user.",
+      "kind": "recommendation",
+      "parent_comment_id": "49953629"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49944196",
+  "id": "2026-10-07:libraw:49944196",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "libraw",
+  "rank": 3,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49944196",
+  "source_story_title": "Show HN: Photoc \u2013 Command-line tools for photographers"
+}

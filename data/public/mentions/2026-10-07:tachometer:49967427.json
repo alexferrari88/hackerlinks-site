@@ -1,0 +1,23 @@
+{
+  "evidence": "spankalee credits this benchmarking approach with reliable, actionable results and points to Tachometer as the runner implementing it.",
+  "evidence_sources": [
+    {
+      "author": "spankalee",
+      "comment_id": "49981209",
+      "comment_url": "https://news.ycombinator.com/item?id=49981209",
+      "context": "first_hand_use",
+      "excerpt": "This is the only way I've been able to get reliable, actionable benchmarks outside of a very, very controlled hardware lab. It's what Google's Tachometer benchmark runner does, and I wish more runners did this:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49967427",
+  "id": "2026-10-07:tachometer:49967427",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "tachometer",
+  "rank": 2,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49967427",
+  "source_story_title": "Benchmark in Milliseconds"
+}

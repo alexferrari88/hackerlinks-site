@@ -1,0 +1,22 @@
+{
+  "evidence": "hnmullany recommends the open-source GEOPHIRES model as a starting point for geothermal mathematics and notes its UI.",
+  "evidence_sources": [
+    {
+      "author": "hnmullany",
+      "comment_id": "49984072",
+      "comment_url": "https://news.ycombinator.com/item?id=49984072",
+      "excerpt": "If you want the ACTUAL mathematics of geothermal energy - a good place to start is the open source GEOPHIRES model which is available on github and has a UI",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49977819",
+  "id": "2026-10-07:geophires:49977819",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "geophires",
+  "rank": 4,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49977819",
+  "source_story_title": "Mathematics of Geothermal Energy"
+}

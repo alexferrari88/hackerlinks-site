@@ -1,0 +1,23 @@
+{
+  "evidence": "cowang says they loved the Halzen and Martin book and links its Internet Archive record.",
+  "evidence_sources": [
+    {
+      "author": "cowang",
+      "comment_id": "49977378",
+      "comment_url": "https://news.ycombinator.com/item?id=49977378",
+      "context": "first_hand_use",
+      "excerpt": "Absolute loved this book by Halzen and Martin",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49976265",
+  "id": "2026-10-07:quarks-and-leptons:49976265",
+  "is_repeat": false,
+  "issue_id": "2026-10-07",
+  "item_id": "quarks-and-leptons",
+  "rank": 8,
+  "seen_at": "2026-10-07T03:18:11Z",
+  "source_story_id": "49976265",
+  "source_story_title": "Nobel Prize in Physics 2026: Francis Halzen"
+}
