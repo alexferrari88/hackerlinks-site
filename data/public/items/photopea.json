@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "photopea",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:photopea:49982498",
+  "mention_ids": [
+    "2026-10-08:photopea:49982498"
+  ],
+  "name": "Photopea",
+  "slug": "photopea",
+  "summary": "Browser-based photo editor with layers and masks; multiple users praise hands-on editing.",
+  "thing_url": "https://www.photopea.com/",
+  "times_seen": 1,
+  "why_included": "Two independent users endorse the software despite the thread's focus on piracy."
+}

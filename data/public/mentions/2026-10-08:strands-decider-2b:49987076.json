@@ -1,0 +1,23 @@
+{
+  "evidence": "miguelspizza reports running the model in a Chrome extension to filter email and praises its size, capability, and speed for bulk classification.",
+  "evidence_sources": [
+    {
+      "author": "miguelspizza",
+      "comment_id": "49987351",
+      "comment_url": "https://news.ycombinator.com/item?id=49987351",
+      "context": "first_hand_use",
+      "excerpt": "This is a great model. I've been running it on device in chrome extension to filter things like email. It is just the right mix of size, capability and speed to make it generally useful for adhoc bulk classification tasks.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49987076",
+  "id": "2026-10-08:strands-decider-2b:49987076",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "strands-decider-2b",
+  "rank": 2,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49987076",
+  "source_story_title": "Strands Decider 2B: a small, open-source, decision model"
+}

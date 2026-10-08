@@ -1,0 +1,32 @@
+{
+  "evidence": "randyrand praises Photopea as amazing software used frequently; Qwuke calls it a cool project after using it for small edits.",
+  "evidence_sources": [
+    {
+      "author": "randyrand",
+      "comment_id": "49989570",
+      "comment_url": "https://news.ycombinator.com/item?id=49989570",
+      "context": "first_hand_use",
+      "excerpt": "Wow, was not expecting this to be about Photopea! What an amazing piece of software I used it all the time! Less with AI these days, but still lots!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "Qwuke",
+      "comment_id": "49990925",
+      "comment_url": "https://news.ycombinator.com/item?id=49990925",
+      "context": "first_hand_use",
+      "excerpt": "I've used Photopea for small editing before, and even though it's not my daily driver, it's a really cool project.",
+      "kind": "recommendation",
+      "parent_comment_id": "49989198"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49982498",
+  "id": "2026-10-08:photopea:49982498",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "photopea",
+  "rank": 4,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49982498",
+  "source_story_title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month"
+}

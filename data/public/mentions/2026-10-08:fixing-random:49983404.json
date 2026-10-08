@@ -1,0 +1,22 @@
+{
+  "evidence": "wolfwyrd names Fixing Random, describes its breadth, and calls it a fantastic deep dive.",
+  "evidence_sources": [
+    {
+      "author": "wolfwyrd",
+      "comment_id": "49992114",
+      "comment_url": "https://news.ycombinator.com/item?id=49992114",
+      "excerpt": "There is a series of blog posts[0] by Eric Lippert called \"Fixing Random\"[1] that starts at random and covers distributions, weights, noise and so much more. It's a fantastic deep dive into the subject.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49983404",
+  "id": "2026-10-08:fixing-random:49983404",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "fixing-random",
+  "rank": 8,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49983404",
+  "source_story_title": "When random is not actually random enough"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "underlipton describes the linked article as seminal while discussing the rigor of safety-critical software.",
+  "evidence_sources": [
+    {
+      "author": "underlipton",
+      "comment_id": "50000725",
+      "comment_url": "https://news.ycombinator.com/item?id=50000725",
+      "excerpt": "Tangential: the software documented in the books next to her were likely developed with a level of rigor that consumer software can only dream of, per the seminal article on similar matters:",
+      "kind": "recommendation",
+      "parent_comment_id": "49999090"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49998895",
+  "id": "2026-10-08:they-write-the-right-stuff:49998895",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "they-write-the-right-stuff",
+  "rank": 7,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49998895",
+  "source_story_title": "Margaret Hamilton has died"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "fixing-random",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:fixing-random:49983404",
+  "mention_ids": [
+    "2026-10-08:fixing-random:49983404"
+  ],
+  "name": "Fixing Random",
+  "slug": "fixing-random",
+  "summary": "Eric Lippert's programming series explores random-number pitfalls, distributions, weights, and noise.",
+  "thing_url": "https://ericlippert.com/2019/01/31/fixing-random-part-1/",
+  "times_seen": 1,
+  "why_included": "A clear recommendation singles out a substantial learning resource rather than a bare reference."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "strands-decider-2b",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:strands-decider-2b:49987076",
+  "mention_ids": [
+    "2026-10-08:strands-decider-2b:49987076"
+  ],
+  "name": "Strands Decider 2B",
+  "slug": "strands-decider-2b",
+  "summary": "Small open-source decision model; a browser user praises its email-classification speed and size.",
+  "thing_url": "https://github.com/strands-labs/strands-decider",
+  "times_seen": 1,
+  "why_included": "A concrete on-device email-filtering use case supports the model's practical appeal."
+}

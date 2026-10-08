@@ -1,0 +1,22 @@
+{
+  "evidence": "Bayes7 links the official popular-information page and calls the material a great read for non-experts.",
+  "evidence_sources": [
+    {
+      "author": "Bayes7",
+      "comment_id": "49993616",
+      "comment_url": "https://news.ycombinator.com/item?id=49993616",
+      "excerpt": "The popular information is always a great read for non-experts!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49990470",
+  "id": "2026-10-08:nobel-chemistry-2026-popular-information:49990470",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "nobel-chemistry-2026-popular-information",
+  "rank": 10,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49990470",
+  "source_story_title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai"
+}

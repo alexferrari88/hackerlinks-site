@@ -1,0 +1,154 @@
+{
+  "version": 2,
+  "run_date": "2026-10-08",
+  "generated_at": "2026-10-08T03:16:54.781206+00:00",
+  "summary": "Ten comment-endorsed finds: agent tools, browser utilities, typography, software quality, probability, and chemistry.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-08.json",
+    "sha256": "4681f05cf70d9b2f06b738b75c8a8bcbe7429f2a4c60af01e772bc01c26066cf",
+    "bytes": 2812700,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4728,
+    "fetched_item_count": 4758,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Flow",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/robdmac/flow",
+      "hn_url": "https://news.ycombinator.com/item?id=49993857",
+      "source_story_title": "Animated ASCII Art for Web Pages",
+      "summary": "Animated ASCII activity display for Claude Code and Pi; praised after installation.",
+      "why_included": "An installed user's enthusiastic approval makes this more than an attractive demo.",
+      "evidence": "conesus calls Flow gorgeous and says they installed it, while asking about contributing changes.",
+      "evidence_sources": [
+        {"comment_id": "49995930", "comment_url": "https://news.ycombinator.com/item?id=49995930", "author": "conesus", "excerpt": "Flow is gorgeous and fits this ascii art theme beautifully. I've installed it and have lots of changes I'd like to make.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49995217"}
+      ]
+    },
+    {
+      "name": "Strands Decider 2B",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/strands-labs/strands-decider",
+      "hn_url": "https://news.ycombinator.com/item?id=49987076",
+      "source_story_title": "Strands Decider 2B: a small, open-source, decision model",
+      "summary": "Small open-source decision model; a browser user praises its email-classification speed and size.",
+      "why_included": "A concrete on-device email-filtering use case supports the model's practical appeal.",
+      "evidence": "miguelspizza reports running the model in a Chrome extension to filter email and praises its size, capability, and speed for bulk classification.",
+      "evidence_sources": [
+        {"comment_id": "49987351", "comment_url": "https://news.ycombinator.com/item?id=49987351", "author": "miguelspizza", "excerpt": "This is a great model. I've been running it on device in chrome extension to filter things like email. It is just the right mix of size, capability and speed to make it generally useful for adhoc bulk classification tasks.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Bigwords.page",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://bigwords.page/",
+      "hn_url": "https://news.ycombinator.com/item?id=49994443",
+      "source_story_title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "summary": "Browser signs and countdowns encoded entirely in a shareable URL; no account needed.",
+      "why_included": "Independent praise targets the URL-as-data design rather than merely the launch announcement.",
+      "evidence": "whycome explicitly loves the design in which the URL contains all the data needed.",
+      "evidence_sources": [
+        {"comment_id": "49996220", "comment_url": "https://news.ycombinator.com/item?id=49996220", "author": "whycome", "excerpt": "I love solutions like this. Make the URL the entirety of the data needed. Awesome", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Photopea",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.photopea.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49982498",
+      "source_story_title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "summary": "Browser-based photo editor with layers and masks; multiple users praise hands-on editing.",
+      "why_included": "Two independent users endorse the software despite the thread's focus on piracy.",
+      "evidence": "randyrand praises Photopea as amazing software used frequently; Qwuke calls it a cool project after using it for small edits.",
+      "evidence_sources": [
+        {"comment_id": "49989570", "comment_url": "https://news.ycombinator.com/item?id=49989570", "author": "randyrand", "excerpt": "Wow, was not expecting this to be about Photopea! What an amazing piece of software I used it all the time! Less with AI these days, but still lots!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "49990925", "comment_url": "https://news.ycombinator.com/item?id=49990925", "author": "Qwuke", "excerpt": "I've used Photopea for small editing before, and even though it's not my daily driver, it's a really cool project.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49989198"}
+      ]
+    },
+    {
+      "name": "QT Eurotype",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://ctan.org/pkg/qualitype",
+      "hn_url": "https://news.ycombinator.com/item?id=49990224",
+      "source_story_title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "summary": "Open-source Eurostile-style font in the QualiType collection; praised by a project user.",
+      "why_included": "First-hand project use backs this concrete typography alternative.",
+      "evidence": "queenkjuul says QTEurotype makes an excellent approximation of the classic fonts under discussion and reports using it in a recent project.",
+      "evidence_sources": [
+        {"comment_id": "49994735", "comment_url": "https://news.ycombinator.com/item?id=49994735", "author": "queenkjuul", "excerpt": "There's an open source font QTEurotype that does an excellent approximation that I've been using in a recent project", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "49992288"}
+      ]
+    },
+    {
+      "name": "The hardest working font in Manhattan",
+      "category": "Watch & Learn",
+      "thing_url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "hn_url": "https://news.ycombinator.com/item?id=49990224",
+      "source_story_title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "summary": "Photo-rich essay tracing Gorton's lettering across keyboards and New York's everyday infrastructure.",
+      "why_included": "An independently praised typography essay offers a concrete visual rabbit hole.",
+      "evidence": "jankhg links the essay and calls it beautifully written.",
+      "evidence_sources": [
+        {"comment_id": "49991050", "comment_url": "https://news.ycombinator.com/item?id=49991050", "author": "jankhg", "excerpt": "This reminds me of this beautifully written article about the font Gorton.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "They Write the Right Stuff",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.eng.auburn.edu/~kchang/comp6710/readings/They%20Write%20the%20Right%20Stuff.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49998895",
+      "source_story_title": "Margaret Hamilton has died",
+      "summary": "Classic reporting on Space Shuttle software engineering and the discipline behind exceptional reliability.",
+      "why_included": "The commenter explicitly endorses this article as a seminal reference on rigorous software engineering.",
+      "evidence": "underlipton describes the linked article as seminal while discussing the rigor of safety-critical software.",
+      "evidence_sources": [
+        {"comment_id": "50000725", "comment_url": "https://news.ycombinator.com/item?id=50000725", "author": "underlipton", "excerpt": "Tangential: the software documented in the books next to her were likely developed with a level of rigor that consumer software can only dream of, per the seminal article on similar matters:", "kind": "recommendation", "parent_comment_id": "49999090"}
+      ]
+    },
+    {
+      "name": "Fixing Random",
+      "category": "Watch & Learn",
+      "thing_url": "https://ericlippert.com/2019/01/31/fixing-random-part-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49983404",
+      "source_story_title": "When random is not actually random enough",
+      "summary": "Eric Lippert's programming series explores random-number pitfalls, distributions, weights, and noise.",
+      "why_included": "A clear recommendation singles out a substantial learning resource rather than a bare reference.",
+      "evidence": "wolfwyrd names Fixing Random, describes its breadth, and calls it a fantastic deep dive.",
+      "evidence_sources": [
+        {"comment_id": "49992114", "comment_url": "https://news.ycombinator.com/item?id=49992114", "author": "wolfwyrd", "excerpt": "There is a series of blog posts[0] by Eric Lippert called \"Fixing Random\"[1] that starts at random and covers distributions, weights, noise and so much more. It's a fantastic deep dive into the subject.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Darts, Dice, and Coins",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.keithschwarz.com/darts-dice-coins/",
+      "hn_url": "https://news.ycombinator.com/item?id=49983404",
+      "source_story_title": "When random is not actually random enough",
+      "summary": "Illustrated guide to weighted sampling, including an explanation of Vose's alias method.",
+      "why_included": "The commenter explicitly identifies the linked guide as their favorite write-up.",
+      "evidence": "colmmacc endorses Vose's alias method for sampling and calls Keith Schwarz's guide their favorite write-up.",
+      "evidence_sources": [
+        {"comment_id": "49991676", "comment_url": "https://news.ycombinator.com/item?id=49991676", "author": "colmmacc", "excerpt": "For sampling from a distribution, the best method is Vose's Alias. https://www.keithschwarz.com/darts-dice-coins/ is my favorite write up.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Nobel Chemistry 2026: Popular information",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.nobelprize.org/prizes/chemistry/2026/popular-information/",
+      "hn_url": "https://news.ycombinator.com/item?id=49990470",
+      "source_story_title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "summary": "Accessible Nobel explainer on mirror-image molecules and the chemistry behind asymmetric reactions.",
+      "why_included": "A commenter expressly recommends the official popular-science material for non-experts.",
+      "evidence": "Bayes7 links the official popular-information page and calls the material a great read for non-experts.",
+      "evidence_sources": [
+        {"comment_id": "49993616", "comment_url": "https://news.ycombinator.com/item?id=49993616", "author": "Bayes7", "excerpt": "The popular information is always a great read for non-experts!", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    }
+  ]
+}

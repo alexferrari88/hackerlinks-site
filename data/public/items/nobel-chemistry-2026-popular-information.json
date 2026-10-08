@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "nobel-chemistry-2026-popular-information",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:nobel-chemistry-2026-popular-information:49990470",
+  "mention_ids": [
+    "2026-10-08:nobel-chemistry-2026-popular-information:49990470"
+  ],
+  "name": "Nobel Chemistry 2026: Popular information",
+  "slug": "nobel-chemistry-2026-popular-information",
+  "summary": "Accessible Nobel explainer on mirror-image molecules and the chemistry behind asymmetric reactions.",
+  "thing_url": "https://www.nobelprize.org/prizes/chemistry/2026/popular-information/",
+  "times_seen": 1,
+  "why_included": "A commenter expressly recommends the official popular-science material for non-experts."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "colmmacc endorses Vose's alias method for sampling and calls Keith Schwarz's guide their favorite write-up.",
+  "evidence_sources": [
+    {
+      "author": "colmmacc",
+      "comment_id": "49991676",
+      "comment_url": "https://news.ycombinator.com/item?id=49991676",
+      "excerpt": "For sampling from a distribution, the best method is Vose's Alias. https://www.keithschwarz.com/darts-dice-coins/ is my favorite write up.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49983404",
+  "id": "2026-10-08:darts-dice-and-coins:49983404",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "darts-dice-and-coins",
+  "rank": 9,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49983404",
+  "source_story_title": "When random is not actually random enough"
+}

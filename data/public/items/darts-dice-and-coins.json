@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "darts-dice-and-coins",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:darts-dice-and-coins:49983404",
+  "mention_ids": [
+    "2026-10-08:darts-dice-and-coins:49983404"
+  ],
+  "name": "Darts, Dice, and Coins",
+  "slug": "darts-dice-and-coins",
+  "summary": "Illustrated guide to weighted sampling, including an explanation of Vose's alias method.",
+  "thing_url": "https://www.keithschwarz.com/darts-dice-coins/",
+  "times_seen": 1,
+  "why_included": "The commenter explicitly identifies the linked guide as their favorite write-up."
+}

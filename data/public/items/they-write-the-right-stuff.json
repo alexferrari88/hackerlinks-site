@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "they-write-the-right-stuff",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:they-write-the-right-stuff:49998895",
+  "mention_ids": [
+    "2026-10-08:they-write-the-right-stuff:49998895"
+  ],
+  "name": "They Write the Right Stuff",
+  "slug": "they-write-the-right-stuff",
+  "summary": "Classic reporting on Space Shuttle software engineering and the discipline behind exceptional reliability.",
+  "thing_url": "https://www.eng.auburn.edu/~kchang/comp6710/readings/They%20Write%20the%20Right%20Stuff.pdf",
+  "times_seen": 1,
+  "why_included": "The commenter explicitly endorses this article as a seminal reference on rigorous software engineering."
+}

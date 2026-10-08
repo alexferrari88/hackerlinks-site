@@ -1,0 +1,22 @@
+{
+  "evidence": "jankhg links the essay and calls it beautifully written.",
+  "evidence_sources": [
+    {
+      "author": "jankhg",
+      "comment_id": "49991050",
+      "comment_url": "https://news.ycombinator.com/item?id=49991050",
+      "excerpt": "This reminds me of this beautifully written article about the font Gorton.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49990224",
+  "id": "2026-10-08:the-hardest-working-font-in-manhattan:49990224",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "the-hardest-working-font-in-manhattan",
+  "rank": 6,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49990224",
+  "source_story_title": "A font recreated from photographs of classic Commodore 64 keycaps"
+}

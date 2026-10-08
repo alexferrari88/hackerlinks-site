@@ -1,0 +1,22 @@
+{
+  "evidence": "whycome explicitly loves the design in which the URL contains all the data needed.",
+  "evidence_sources": [
+    {
+      "author": "whycome",
+      "comment_id": "49996220",
+      "comment_url": "https://news.ycombinator.com/item?id=49996220",
+      "excerpt": "I love solutions like this. Make the URL the entirety of the data needed. Awesome",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49994443",
+  "id": "2026-10-08:bigwords-page:49994443",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "bigwords-page",
+  "rank": 3,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49994443",
+  "source_story_title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app"
+}

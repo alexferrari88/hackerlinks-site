@@ -1,0 +1,23 @@
+{
+  "evidence": "conesus calls Flow gorgeous and says they installed it, while asking about contributing changes.",
+  "evidence_sources": [
+    {
+      "author": "conesus",
+      "comment_id": "49995930",
+      "comment_url": "https://news.ycombinator.com/item?id=49995930",
+      "context": "first_hand_use",
+      "excerpt": "Flow is gorgeous and fits this ascii art theme beautifully. I've installed it and have lots of changes I'd like to make.",
+      "kind": "recommendation",
+      "parent_comment_id": "49995217"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49993857",
+  "id": "2026-10-08:flow:49993857",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "flow",
+  "rank": 1,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49993857",
+  "source_story_title": "Animated ASCII Art for Web Pages"
+}

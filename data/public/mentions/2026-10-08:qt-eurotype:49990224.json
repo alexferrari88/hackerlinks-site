@@ -1,0 +1,23 @@
+{
+  "evidence": "queenkjuul says QTEurotype makes an excellent approximation of the classic fonts under discussion and reports using it in a recent project.",
+  "evidence_sources": [
+    {
+      "author": "queenkjuul",
+      "comment_id": "49994735",
+      "comment_url": "https://news.ycombinator.com/item?id=49994735",
+      "context": "first_hand_use",
+      "excerpt": "There's an open source font QTEurotype that does an excellent approximation that I've been using in a recent project",
+      "kind": "recommendation",
+      "parent_comment_id": "49992288"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49990224",
+  "id": "2026-10-08:qt-eurotype:49990224",
+  "is_repeat": false,
+  "issue_id": "2026-10-08",
+  "item_id": "qt-eurotype",
+  "rank": 5,
+  "seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "source_story_id": "49990224",
+  "source_story_title": "A font recreated from photographs of classic Commodore 64 keycaps"
+}

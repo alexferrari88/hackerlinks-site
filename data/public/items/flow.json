@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "flow",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:flow:49993857",
+  "mention_ids": [
+    "2026-10-08:flow:49993857"
+  ],
+  "name": "Flow",
+  "slug": "flow",
+  "summary": "Animated ASCII activity display for Claude Code and Pi; praised after installation.",
+  "thing_url": "https://github.com/robdmac/flow",
+  "times_seen": 1,
+  "why_included": "An installed user's enthusiastic approval makes this more than an attractive demo."
+}

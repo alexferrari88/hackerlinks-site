@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "id": "qt-eurotype",
+  "last_seen_at": "2026-10-08T03:16:54.781206+00:00",
+  "latest_mention_id": "2026-10-08:qt-eurotype:49990224",
+  "mention_ids": [
+    "2026-10-08:qt-eurotype:49990224"
+  ],
+  "name": "QT Eurotype",
+  "slug": "qt-eurotype",
+  "summary": "Open-source Eurostile-style font in the QualiType collection; praised by a project user.",
+  "thing_url": "https://ctan.org/pkg/qualitype",
+  "times_seen": 1,
+  "why_included": "First-hand project use backs this concrete typography alternative."
+}

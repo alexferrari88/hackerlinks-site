@@ -10477,6 +10477,66 @@
       "first_reported_at": "2026-10-07T03:18:11Z",
       "last_reported_at": "2026-10-07T03:18:11Z",
       "times_reported": 1
+    },
+    {
+      "name": "Flow",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Strands Decider 2B",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Bigwords.page",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Photopea",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "QT Eurotype",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The hardest working font in Manhattan",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "They Write the Right Stuff",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fixing Random",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Darts, Dice, and Coins",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nobel Chemistry 2026: Popular information",
+      "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
     }
   ]
 }
