@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses a locally hosted wallabag instance across computers and a smartphone and reports being happy with it.",
+  "evidence_sources": [
+    {
+      "author": "Shorel",
+      "comment_id": "50011236",
+      "comment_url": "https://news.ycombinator.com/item?id=50011236",
+      "context": "first_hand_use",
+      "excerpt": "I use a locally hosted Wallabag, synchronized with all my computers, smartphone, etc. Maybe Zotero does more than Wallabag, but I am happy with it so far.",
+      "kind": "recommendation",
+      "parent_comment_id": "50006690"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49980346",
+  "id": "2026-10-09:wallabag:49980346",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "wallabag",
+  "rank": 7,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49980346",
+  "source_story_title": "The Slow Formation of Durable Software"
+}

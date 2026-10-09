@@ -1,0 +1,23 @@
+{
+  "evidence": "A contributor used Sashiko locally before submitting Linux kernel changes and praised the system, while warning that it consumes many tokens.",
+  "evidence_sources": [
+    {
+      "author": "eru",
+      "comment_id": "50015400",
+      "comment_url": "https://news.ycombinator.com/item?id=50015400",
+      "context": "first_hand_use",
+      "excerpt": "Eg I've used Sashiko locally for Linux kernel code reviews before sending out my contributions out to the world. Sashiko is a great system, but it can burn through tokens like there's no tomorrow.",
+      "kind": "recommendation",
+      "parent_comment_id": "50012838"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50000488",
+  "id": "2026-10-09:sashiko:50000488",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "sashiko",
+  "rank": 1,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "50000488",
+  "source_story_title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?"
+}

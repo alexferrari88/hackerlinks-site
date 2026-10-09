@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "id": "wallabag",
+  "last_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "latest_mention_id": "2026-10-09:wallabag:49980346",
+  "mention_ids": [
+    "2026-10-09:wallabag:49980346"
+  ],
+  "name": "wallabag",
+  "slug": "wallabag",
+  "summary": "Self-hosted read-it-later app; a user praises syncing across personal devices.",
+  "thing_url": "https://wallabag.org/",
+  "times_seen": 1,
+  "why_included": "A happy self-hosting user offers a concrete reading-workflow alternative."
+}

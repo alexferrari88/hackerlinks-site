@@ -1,0 +1,22 @@
+{
+  "evidence": "A fan singles out Uxn and its applications, praising how much a small, portable virtual machine can accomplish.",
+  "evidence_sources": [
+    {
+      "author": "larme",
+      "comment_id": "50007180",
+      "comment_url": "https://news.ycombinator.com/item?id=50007180",
+      "excerpt": "Always a fan of their works, especially uxn[0] and apps developed for it. They showcase how many things a small virtual machine can do while being very portable",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49970767",
+  "id": "2026-10-09:uxn:49970767",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "uxn",
+  "rank": 3,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49970767",
+  "source_story_title": "Living off-grid: Hundred Rabbits"
+}

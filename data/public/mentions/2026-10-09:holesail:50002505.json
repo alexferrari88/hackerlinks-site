@@ -1,0 +1,22 @@
+{
+  "evidence": "In response to doubts about NAT traversal, a commenter recommends trying Holesail to see P2P hole punching in action.",
+  "evidence_sources": [
+    {
+      "author": "schmoooo",
+      "comment_id": "50008156",
+      "comment_url": "https://news.ycombinator.com/item?id=50008156",
+      "excerpt": "if you dont want to dive that deep, just try something like https://holesail.io first to see that holepunching nat traversing p2p is real",
+      "kind": "recommendation",
+      "parent_comment_id": "50003093"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50002505",
+  "id": "2026-10-09:holesail:50002505",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "holesail",
+  "rank": 5,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "50002505",
+  "source_story_title": "Dat-ecosystem: high level applications built on top of P2P protocols"
+}

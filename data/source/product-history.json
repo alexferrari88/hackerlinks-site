@@ -2,6 +2,16 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "Sashiko", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "Embedded Swift", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "Uxn", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "datafusion-ducklake", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "Holesail", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "Zotero", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "wallabag", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "Clickspring", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "Cameras and Lenses", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {"name": "An Ageing World: Lifespan vs Healthspan", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
     {
       "name": "98.css",
       "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
@@ -2981,8 +2991,8 @@
     {
       "name": "FUTO Keyboard",
       "first_reported_at": "2026-06-17T03:27:34Z",
-      "last_reported_at": "2026-06-17T03:27:34Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 2
     },
     {
       "name": "FUTO Swipe",

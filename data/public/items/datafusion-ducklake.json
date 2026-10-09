@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "id": "datafusion-ducklake",
+  "last_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "latest_mention_id": "2026-10-09:datafusion-ducklake:49996149",
+  "mention_ids": [
+    "2026-10-09:datafusion-ducklake:49996149"
+  ],
+  "name": "datafusion-ducklake",
+  "slug": "datafusion-ducklake",
+  "summary": "DuckLake integration for Apache DataFusion, with a PostgreSQL-backed catalog option.",
+  "thing_url": "https://github.com/datafusion-contrib/datafusion-ducklake",
+  "times_seen": 1,
+  "why_included": "An independent endorsement is supplemented by clearly labeled implementer experience."
+}

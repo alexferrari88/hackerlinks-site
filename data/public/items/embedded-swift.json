@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "id": "embedded-swift",
+  "last_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "latest_mention_id": "2026-10-09:embedded-swift:49977351",
+  "mention_ids": [
+    "2026-10-09:embedded-swift:49977351"
+  ],
+  "name": "Embedded Swift",
+  "slug": "embedded-swift",
+  "summary": "Swift for bare-metal systems, praised for straightforward C/C++ interoperability.",
+  "thing_url": "https://www.swift.org/get-started/embedded",
+  "times_seen": 1,
+  "why_included": "A boot-firmware experiment supplies practical evidence beyond enthusiasm for the submitted kernel."
+}

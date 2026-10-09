@@ -1,0 +1,31 @@
+{
+  "evidence": "A commenter praises the alternate Rust/DataFusion initiative. An implementer reports performance matching their specialized catalogs and praises PostgreSQL as the catalog store.",
+  "evidence_sources": [
+    {
+      "author": "smithclay",
+      "comment_id": "50011324",
+      "comment_url": "https://news.ycombinator.com/item?id=50011324",
+      "excerpt": "There's a cool alternate rust/datafusion ecosystem initiative going on at",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "eddietejeda",
+      "comment_id": "50013044",
+      "comment_url": "https://news.ycombinator.com/item?id=50013044",
+      "context": "author_or_maintainer",
+      "excerpt": "Since Ducklake is only a spec, we implemented datafusion-ducklake, and it performs as well as any custom or specialized catalog we built. We use Postgres as the catalog store, and it does not get much simpler than that: a transactional database for transactional data.",
+      "kind": "author_context",
+      "parent_comment_id": "50011324"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49996149",
+  "id": "2026-10-09:datafusion-ducklake:49996149",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "datafusion-ducklake",
+  "rank": 4,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49996149",
+  "source_story_title": "DuckDB Ducklake"
+}

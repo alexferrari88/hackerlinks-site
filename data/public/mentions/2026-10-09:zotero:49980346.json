@@ -1,0 +1,23 @@
+{
+  "evidence": "A daily user praises Zotero's article snapshots, annotation workflow, and cross-device sync.",
+  "evidence_sources": [
+    {
+      "author": "nickledave",
+      "comment_id": "50005088",
+      "comment_url": "https://news.ycombinator.com/item?id=50005088",
+      "context": "first_hand_use",
+      "excerpt": "It also does an amazing job of taking snapshots of posts. I use it all the time to grab posts from HackerNews so I can mark them up. And it automagically syncs everywhere across devices",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49980346",
+  "id": "2026-10-09:zotero:49980346",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "zotero",
+  "rank": 6,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49980346",
+  "source_story_title": "The Slow Formation of Durable Software"
+}

@@ -1,0 +1,168 @@
+{
+  "version": 2,
+  "run_date": "2026-10-09",
+  "generated_at": "2026-10-09T03:17:16.220801+00:00",
+  "summary": "11 comment-endorsed recommendations across developer tools, reading, offline dictation, and educational media.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-09.json",
+    "sha256": "31ec630cb90b2f0e2a786fe9319d450f21161755eb042d28678c97aed75bb831",
+    "bytes": 3776716,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6059,
+    "fetched_item_count": 6089,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Sashiko",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/sashiko-dev/sashiko",
+      "hn_url": "https://news.ycombinator.com/item?id=50000488",
+      "source_story_title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "summary": "AI code-review system praised for kernel reviews; watch token spending.",
+      "why_included": "Concrete first-hand use comes with a useful operating-cost warning.",
+      "evidence": "A contributor used Sashiko locally before submitting Linux kernel changes and praised the system, while warning that it consumes many tokens.",
+      "evidence_sources": [
+        {"comment_id": "50015400", "comment_url": "https://news.ycombinator.com/item?id=50015400", "author": "eru", "excerpt": "Eg I've used Sashiko locally for Linux kernel code reviews before sending out my contributions out to the world. Sashiko is a great system, but it can burn through tokens like there's no tomorrow.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50012838"}
+      ]
+    },
+    {
+      "name": "Embedded Swift",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.swift.org/get-started/embedded",
+      "hn_url": "https://news.ycombinator.com/item?id=49977351",
+      "source_story_title": "A minimal kernel in Swift, running in QEMU",
+      "summary": "Swift for bare-metal systems, praised for straightforward C/C++ interoperability.",
+      "why_included": "A boot-firmware experiment supplies practical evidence beyond enthusiasm for the submitted kernel.",
+      "evidence": "A commenter who wrote simulator boot firmware praised Embedded Swift's out-of-the-box C/C++ interoperability and ease of adoption.",
+      "evidence_sources": [
+        {"comment_id": "50001407", "comment_url": "https://news.ycombinator.com/item?id=50001407", "author": "aseipp", "excerpt": "But beyond that I think the best feature is that the C/C++ interop works really well and comes out of the box. Makes two-way adoption easy. I wrote a small boot firmware for a simulator", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Uxn",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://100r.co/site/uxn.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49970767",
+      "source_story_title": "Living off-grid: Hundred Rabbits",
+      "summary": "Tiny portable virtual machine for building deliberately small, durable applications.",
+      "why_included": "The comment independently praises a specific project rather than merely admiring off-grid living.",
+      "evidence": "A fan singles out Uxn and its applications, praising how much a small, portable virtual machine can accomplish.",
+      "evidence_sources": [
+        {"comment_id": "50007180", "comment_url": "https://news.ycombinator.com/item?id=50007180", "author": "larme", "excerpt": "Always a fan of their works, especially uxn[0] and apps developed for it. They showcase how many things a small virtual machine can do while being very portable", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "datafusion-ducklake",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/datafusion-contrib/datafusion-ducklake",
+      "hn_url": "https://news.ycombinator.com/item?id=49996149",
+      "source_story_title": "DuckDB Ducklake",
+      "summary": "DuckLake integration for Apache DataFusion, with a PostgreSQL-backed catalog option.",
+      "why_included": "An independent endorsement is supplemented by clearly labeled implementer experience.",
+      "evidence": "A commenter praises the alternate Rust/DataFusion initiative. An implementer reports performance matching their specialized catalogs and praises PostgreSQL as the catalog store.",
+      "evidence_sources": [
+        {"comment_id": "50011324", "comment_url": "https://news.ycombinator.com/item?id=50011324", "author": "smithclay", "excerpt": "There's a cool alternate rust/datafusion ecosystem initiative going on at", "kind": "recommendation", "parent_comment_id": null},
+        {"comment_id": "50013044", "comment_url": "https://news.ycombinator.com/item?id=50013044", "author": "eddietejeda", "excerpt": "Since Ducklake is only a spec, we implemented datafusion-ducklake, and it performs as well as any custom or specialized catalog we built. We use Postgres as the catalog store, and it does not get much simpler than that: a transactional database for transactional data.", "kind": "author_context", "context": "author_or_maintainer", "parent_comment_id": "50011324"}
+      ]
+    },
+    {
+      "name": "Holesail",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://holesail.io",
+      "hn_url": "https://news.ycombinator.com/item?id=50002505",
+      "source_story_title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "summary": "Open-source P2P reverse proxy recommended for trying NAT-traversing connections.",
+      "why_included": "An explicit try-it recommendation points to a concrete P2P application.",
+      "evidence": "In response to doubts about NAT traversal, a commenter recommends trying Holesail to see P2P hole punching in action.",
+      "evidence_sources": [
+        {"comment_id": "50008156", "comment_url": "https://news.ycombinator.com/item?id=50008156", "author": "schmoooo", "excerpt": "if you dont want to dive that deep, just try something like https://holesail.io first to see that holepunching nat traversing p2p is real", "kind": "recommendation", "parent_comment_id": "50003093"}
+      ]
+    },
+    {
+      "name": "Zotero",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.zotero.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49980346",
+      "source_story_title": "The Slow Formation of Durable Software",
+      "summary": "Research library for collecting, annotating, and syncing articles and books.",
+      "why_included": "An independent comment explicitly recommends the story subject with detailed daily-use evidence.",
+      "evidence": "A daily user praises Zotero's article snapshots, annotation workflow, and cross-device sync.",
+      "evidence_sources": [
+        {"comment_id": "50005088", "comment_url": "https://news.ycombinator.com/item?id=50005088", "author": "nickledave", "excerpt": "It also does an amazing job of taking snapshots of posts. I use it all the time to grab posts from HackerNews so I can mark them up. And it automagically syncs everywhere across devices", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "wallabag",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://wallabag.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49980346",
+      "source_story_title": "The Slow Formation of Durable Software",
+      "summary": "Self-hosted read-it-later app; a user praises syncing across personal devices.",
+      "why_included": "A happy self-hosting user offers a concrete reading-workflow alternative.",
+      "evidence": "A commenter uses a locally hosted wallabag instance across computers and a smartphone and reports being happy with it.",
+      "evidence_sources": [
+        {"comment_id": "50011236", "comment_url": "https://news.ycombinator.com/item?id=50011236", "author": "Shorel", "excerpt": "I use a locally hosted Wallabag, synchronized with all my computers, smartphone, etc. Maybe Zotero does more than Wallabag, but I am happy with it so far.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50006690"}
+      ]
+    },
+    {
+      "name": "FUTO Keyboard",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://keyboard.futo.tech/",
+      "hn_url": "https://news.ycombinator.com/item?id=50008427",
+      "source_story_title": "Whistle: Speech to Text in 16.9 MB",
+      "summary": "Offline Android keyboard praised for dictation accuracy; source-available, not open-source.",
+      "why_included": "A long-time user's clear approval supports resurfacing after the 90-day cooldown.",
+      "evidence": "A long-time user praises on-device speech recognition accuracy and says they love the keyboard. Their edit clarifies that its license is source-available rather than open-source.",
+      "evidence_sources": [
+        {"comment_id": "50009323", "comment_url": "https://news.ycombinator.com/item?id=50009323", "author": "rpdillon", "excerpt": "FUTO keyboard (open-source, free) runs entirely on-device and has extremely good STT accurary, especially with the 70M parameter model. I've used it for years now and love it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50009255"},
+        {"comment_id": "50009612", "comment_url": "https://news.ycombinator.com/item?id=50009612", "author": "robertlane0", "excerpt": "I'd classify it as \"source-available\" given the noncommercial clause in the license.", "kind": "caveat", "parent_comment_id": "50009323"}
+      ]
+    },
+    {
+      "name": "Clickspring",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@Clickspring",
+      "hn_url": "https://news.ycombinator.com/item?id=49998992",
+      "source_story_title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "summary": "Precision-machining videos featuring skeleton clocks and an Antikythera mechanism reconstruction.",
+      "why_included": "An enthusiastic recommendation points to unusually detailed hands-on craft education.",
+      "evidence": "A commenter recommends Clickspring's videos and counts the skeleton-clock build among their favorite pieces of internet content.",
+      "evidence_sources": [
+        {"comment_id": "50008475", "comment_url": "https://news.ycombinator.com/item?id=50008475", "author": "MengerSponge", "excerpt": "If you've never watched Clickspring's Youtube videos you're in for a treat. He has a long-running series where he works to make a new Antikythera mechanism using ancient (bronze age) technologies.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Cameras and Lenses",
+      "category": "Watch & Learn",
+      "thing_url": "https://ciechanow.ski/cameras-and-lenses/",
+      "hn_url": "https://news.ycombinator.com/item?id=49998992",
+      "source_story_title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "summary": "Bartosz Ciechanowski's visual explainer builds camera optics from first principles.",
+      "why_included": "Explicit praise links directly to a concrete educational essay.",
+      "evidence": "A commenter places Ciechanowski's webpages alongside their favorite internet content and links specifically to Cameras and Lenses.",
+      "evidence_sources": [
+        {"comment_id": "50008475", "comment_url": "https://news.ycombinator.com/item?id=50008475", "author": "MengerSponge", "excerpt": "His skeleton clock build is one of my favorite pieces of internet content ever, up there with Bartoz's gorgeous webpages:", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "An Ageing World: Lifespan vs Healthspan",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.ppfideas.com/episodes/an-ageing-world-lifespan-vs-healthspan",
+      "hn_url": "https://news.ycombinator.com/item?id=49998066",
+      "source_story_title": "'Jonathan' is the oldest land animal on Earth",
+      "summary": "Podcast with Adam Rutherford exploring longer lives versus healthier years.",
+      "why_included": "A direct podcast recommendation adds a thoughtful non-software discovery.",
+      "evidence": "A commenter calls the linked episode a great podcast about the distinction between lifespan and healthspan.",
+      "evidence_sources": [
+        {"comment_id": "50002534", "comment_url": "https://news.ycombinator.com/item?id=50002534", "author": "frereubu", "excerpt": "This is a great podcast about the difference between lifespan and healthspan:", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    }
+  ]
+}

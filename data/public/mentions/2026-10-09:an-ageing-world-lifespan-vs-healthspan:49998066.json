@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the linked episode a great podcast about the distinction between lifespan and healthspan.",
+  "evidence_sources": [
+    {
+      "author": "frereubu",
+      "comment_id": "50002534",
+      "comment_url": "https://news.ycombinator.com/item?id=50002534",
+      "excerpt": "This is a great podcast about the difference between lifespan and healthspan:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49998066",
+  "id": "2026-10-09:an-ageing-world-lifespan-vs-healthspan:49998066",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "an-ageing-world-lifespan-vs-healthspan",
+  "rank": 11,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49998066",
+  "source_story_title": "'Jonathan' is the oldest land animal on Earth"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "id": "clickspring",
+  "last_seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "latest_mention_id": "2026-10-09:clickspring:49998992",
+  "mention_ids": [
+    "2026-10-09:clickspring:49998992"
+  ],
+  "name": "Clickspring",
+  "slug": "clickspring",
+  "summary": "Precision-machining videos featuring skeleton clocks and an Antikythera mechanism reconstruction.",
+  "thing_url": "https://www.youtube.com/@Clickspring",
+  "times_seen": 1,
+  "why_included": "An enthusiastic recommendation points to unusually detailed hands-on craft education."
+}

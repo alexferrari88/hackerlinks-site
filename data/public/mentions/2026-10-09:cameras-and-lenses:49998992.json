@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter places Ciechanowski's webpages alongside their favorite internet content and links specifically to Cameras and Lenses.",
+  "evidence_sources": [
+    {
+      "author": "MengerSponge",
+      "comment_id": "50008475",
+      "comment_url": "https://news.ycombinator.com/item?id=50008475",
+      "excerpt": "His skeleton clock build is one of my favorite pieces of internet content ever, up there with Bartoz's gorgeous webpages:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49998992",
+  "id": "2026-10-09:cameras-and-lenses:49998992",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "cameras-and-lenses",
+  "rank": 10,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49998992",
+  "source_story_title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age"
+}

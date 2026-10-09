@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who wrote simulator boot firmware praised Embedded Swift's out-of-the-box C/C++ interoperability and ease of adoption.",
+  "evidence_sources": [
+    {
+      "author": "aseipp",
+      "comment_id": "50001407",
+      "comment_url": "https://news.ycombinator.com/item?id=50001407",
+      "context": "first_hand_use",
+      "excerpt": "But beyond that I think the best feature is that the C/C++ interop works really well and comes out of the box. Makes two-way adoption easy. I wrote a small boot firmware for a simulator",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49977351",
+  "id": "2026-10-09:embedded-swift:49977351",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "embedded-swift",
+  "rank": 2,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49977351",
+  "source_story_title": "A minimal kernel in Swift, running in QEMU"
+}

@@ -1,0 +1,31 @@
+{
+  "evidence": "A long-time user praises on-device speech recognition accuracy and says they love the keyboard. Their edit clarifies that its license is source-available rather than open-source.",
+  "evidence_sources": [
+    {
+      "author": "rpdillon",
+      "comment_id": "50009323",
+      "comment_url": "https://news.ycombinator.com/item?id=50009323",
+      "context": "first_hand_use",
+      "excerpt": "FUTO keyboard (open-source, free) runs entirely on-device and has extremely good STT accurary, especially with the 70M parameter model. I've used it for years now and love it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50009255"
+    },
+    {
+      "author": "robertlane0",
+      "comment_id": "50009612",
+      "comment_url": "https://news.ycombinator.com/item?id=50009612",
+      "excerpt": "I'd classify it as \"source-available\" given the noncommercial clause in the license.",
+      "kind": "caveat",
+      "parent_comment_id": "50009323"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50008427",
+  "id": "2026-10-09:futo-keyboard:50008427",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "futo-keyboard",
+  "rank": 8,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "50008427",
+  "source_story_title": "Whistle: Speech to Text in 16.9 MB"
+}

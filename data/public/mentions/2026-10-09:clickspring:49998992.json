@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Clickspring's videos and counts the skeleton-clock build among their favorite pieces of internet content.",
+  "evidence_sources": [
+    {
+      "author": "MengerSponge",
+      "comment_id": "50008475",
+      "comment_url": "https://news.ycombinator.com/item?id=50008475",
+      "excerpt": "If you've never watched Clickspring's Youtube videos you're in for a treat. He has a long-running series where he works to make a new Antikythera mechanism using ancient (bronze age) technologies.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49998992",
+  "id": "2026-10-09:clickspring:49998992",
+  "is_repeat": false,
+  "issue_id": "2026-10-09",
+  "item_id": "clickspring",
+  "rank": 9,
+  "seen_at": "2026-10-09T03:17:16.220801+00:00",
+  "source_story_id": "49998992",
+  "source_story_title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age"
+}
