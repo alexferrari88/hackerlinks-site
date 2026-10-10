@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T03:17:25.575035+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-10-10",
+  "id": "2026-10-10",
+  "mention_ids": [
+    "2026-10-10:fresh:50019911",
+    "2026-10-10:mxc:50016489",
+    "2026-10-10:memo:50018239",
+    "2026-10-10:exe-dev:49985548",
+    "2026-10-10:snikket:49985548",
+    "2026-10-10:moccamaster:49995495",
+    "2026-10-10:triple-a-minesweeper:50022292",
+    "2026-10-10:tainted-coders:50013610",
+    "2026-10-10:jasmine-s-solari-introduction:50013610",
+    "2026-10-10:the-wrong-trousers:50020533"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "evidence": "aktau identifies the script as memo; thomascountz says it is very handy and praises its design.",
+  "evidence_sources": [
+    {
+      "author": "aktau",
+      "comment_id": "50019267",
+      "comment_url": "https://news.ycombinator.com/item?id=50019267",
+      "context": "author_or_maintainer",
+      "excerpt": "I have my own called memo",
+      "kind": "author_context",
+      "parent_comment_id": null
+    },
+    {
+      "author": "thomascountz",
+      "comment_id": "50022081",
+      "comment_url": "https://news.ycombinator.com/item?id=50022081",
+      "context": "first_hand_use",
+      "excerpt": "It's very handy (I find myself reaching for it as if it's a built-in) and I appreciate its design (I learned a few things reading it)!",
+      "kind": "recommendation",
+      "parent_comment_id": "50019267"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50018239",
+  "id": "2026-10-10:memo:50018239",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "memo",
+  "rank": 3,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "50018239",
+  "source_story_title": "Once: Cache CLI commands"
+}

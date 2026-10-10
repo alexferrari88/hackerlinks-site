@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "moccamaster",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:moccamaster:49995495",
+  "mention_ids": [
+    "2026-10-10:moccamaster:49995495"
+  ],
+  "name": "Moccamaster",
+  "slug": "moccamaster",
+  "summary": "A simple filter coffee maker; one second-hand owner reports fifteen years of reliable use.",
+  "thing_url": "https://www.moccamaster.nl/koffiemachines",
+  "times_seen": 1,
+  "why_included": "Long-term first-hand durability praise provides a physical-product discovery outside the software threads."
+}

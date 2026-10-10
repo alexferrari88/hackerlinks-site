@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "fresh",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:fresh:50019911",
+  "mention_ids": [
+    "2026-10-10:fresh:50019911"
+  ],
+  "name": "Fresh",
+  "slug": "fresh",
+  "summary": "A Deno web framework with server rendering and interactive islands; praised by a user.",
+  "thing_url": "https://usefresh.dev/",
+  "times_seen": 1,
+  "why_included": "A named alternative earned unusually strong first-hand praise rather than a neutral mention."
+}

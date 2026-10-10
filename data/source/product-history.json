@@ -2,6 +2,15 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "Fresh", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "MXC", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "memo", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "Snikket", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "Moccamaster", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "Triple-A Minesweeper", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "Tainted Coders", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "Jasmine's Solari introduction", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
+    {"name": "The Wrong Trousers", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
     {"name": "Sashiko", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
     {"name": "Embedded Swift", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
     {"name": "Uxn", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
@@ -2583,8 +2592,8 @@
     {
       "name": "exe.dev",
       "first_reported_at": "2026-05-28T21:20:20Z",
-      "last_reported_at": "2026-05-28T21:20:20Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 2
     },
     {
       "name": "Expanse",

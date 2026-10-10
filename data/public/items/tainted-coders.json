@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "tainted-coders",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:tainted-coders:50013610",
+  "mention_ids": [
+    "2026-10-10:tainted-coders:50013610"
+  ],
+  "name": "Tainted Coders",
+  "slug": "tainted-coders",
+  "summary": "Bevy game-development guides; an HN reader calls the site their go-to resource.",
+  "thing_url": "https://taintedcoders.com/",
+  "times_seen": 1,
+  "why_included": "The reply chain resolves a short endorsement to a named, directly linked learning resource."
+}

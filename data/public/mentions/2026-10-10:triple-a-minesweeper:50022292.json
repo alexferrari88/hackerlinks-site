@@ -1,0 +1,30 @@
+{
+  "evidence": "devin calls the game very good; wredcoll calls it a great parody and says the presentation raised their interest.",
+  "evidence_sources": [
+    {
+      "author": "devin",
+      "comment_id": "50024657",
+      "comment_url": "https://news.ycombinator.com/item?id=50024657",
+      "excerpt": "So good.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "wredcoll",
+      "comment_id": "50025056",
+      "comment_url": "https://news.ycombinator.com/item?id=50025056",
+      "excerpt": "That was a great parody, but how much of those effects still worked even though you knew it was coming?",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50022292",
+  "id": "2026-10-10:triple-a-minesweeper:50022292",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "triple-a-minesweeper",
+  "rank": 7,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "50022292",
+  "source_story_title": "Triple-A Minesweeper"
+}

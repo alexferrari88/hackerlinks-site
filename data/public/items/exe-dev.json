@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-28T21:20:20Z",
   "id": "exe-dev",
-  "last_seen_at": "2026-05-28T21:20:20Z",
-  "latest_mention_id": "2026-05-28:exe-dev:48308376",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:exe-dev:49985548",
   "mention_ids": [
-    "2026-05-28:exe-dev:48308376"
+    "2026-05-28:exe-dev:48308376",
+    "2026-10-10:exe-dev:49985548"
   ],
   "name": "exe.dev",
   "slug": "exe-dev",
-  "summary": "Disposable cloud sandboxes for agent work; one commenter recommended it as a useful agent UX for reducing permission churn.",
+  "summary": "Persistent Linux VMs for development; a user keeps worktrees and preview sites running.",
   "thing_url": "https://exe.dev/",
-  "times_seen": 1,
-  "why_included": "A concrete tool recommendation with a direct link and explicit praise."
+  "times_seen": 2,
+  "why_included": "Concrete daily use supports resurfacing after the publication cooldown."
 }

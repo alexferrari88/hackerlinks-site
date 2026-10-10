@@ -1,0 +1,23 @@
+{
+  "evidence": "IshKebab calls Fresh the best web framework they have used.",
+  "evidence_sources": [
+    {
+      "author": "IshKebab",
+      "comment_id": "50024845",
+      "comment_url": "https://news.ycombinator.com/item?id=50024845",
+      "context": "first_hand_use",
+      "excerpt": "Fresh was also the best web framework I've used.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50019911",
+  "id": "2026-10-10:fresh:50019911",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "fresh",
+  "rank": 1,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "50019911",
+  "source_story_title": "Cloudflare acquires Deno"
+}

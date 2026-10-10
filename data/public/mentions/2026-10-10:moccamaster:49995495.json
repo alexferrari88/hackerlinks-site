@@ -1,0 +1,23 @@
+{
+  "evidence": "Freak_NL reports that a second-hand Moccamaster is still doing great after fifteen years.",
+  "evidence_sources": [
+    {
+      "author": "Freak_NL",
+      "comment_id": "50012083",
+      "comment_url": "https://news.ycombinator.com/item?id=50012083",
+      "context": "first_hand_use",
+      "excerpt": "Tongue-in-cheek, but my Moccamaster which I bought second-hand is still doing great after 15 years.",
+      "kind": "recommendation",
+      "parent_comment_id": "50011648"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49995495",
+  "id": "2026-10-10:moccamaster:49995495",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "moccamaster",
+  "rank": 6,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "49995495",
+  "source_story_title": "Man discovers his parents' coffee machine used 1TB of data in 10 days"
+}

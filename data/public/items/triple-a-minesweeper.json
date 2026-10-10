@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "triple-a-minesweeper",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:triple-a-minesweeper:50022292",
+  "mention_ids": [
+    "2026-10-10:triple-a-minesweeper:50022292"
+  ],
+  "name": "Triple-A Minesweeper",
+  "slug": "triple-a-minesweeper",
+  "summary": "A playable Minesweeper parody with cinematic dialogue; commenters enjoyed the deliberately overproduced presentation.",
+  "thing_url": "https://minesweeper.mikelacher.com/",
+  "times_seen": 1,
+  "why_included": "Independent comments endorse the joke and presentation, rather than merely sharing the launch."
+}

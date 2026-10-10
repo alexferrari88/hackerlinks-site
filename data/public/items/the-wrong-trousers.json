@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "the-wrong-trousers",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:the-wrong-trousers:50020533",
+  "mention_ids": [
+    "2026-10-10:the-wrong-trousers:50020533"
+  ],
+  "name": "The Wrong Trousers",
+  "slug": "the-wrong-trousers",
+  "summary": "A Wallace and Gromit stop-motion film; praised for its climactic train chase.",
+  "thing_url": "https://www.wallaceandgromit.com/films/the-wrong-trousers",
+  "times_seen": 1,
+  "why_included": "A specific film recommendation broadens the digest beyond technical tools."
+}

@@ -1,0 +1,31 @@
+{
+  "evidence": "GenericCanadian links the updated guides; apitman identifies that resource as their go-to.",
+  "evidence_sources": [
+    {
+      "author": "GenericCanadian",
+      "comment_id": "50014617",
+      "comment_url": "https://news.ycombinator.com/item?id=50014617",
+      "excerpt": "https://taintedcoders.com/ has been updated to 0.20",
+      "kind": "incidental",
+      "parent_comment_id": null
+    },
+    {
+      "author": "apitman",
+      "comment_id": "50015583",
+      "comment_url": "https://news.ycombinator.com/item?id=50015583",
+      "context": "first_hand_use",
+      "excerpt": "This is my go-to resource",
+      "kind": "recommendation",
+      "parent_comment_id": "50014617"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50013610",
+  "id": "2026-10-10:tainted-coders:50013610",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "tainted-coders",
+  "rank": 8,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "50013610",
+  "source_story_title": "Bevy 0.20"
+}

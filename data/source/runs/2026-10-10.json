@@ -1,0 +1,147 @@
+{
+  "version": 2,
+  "run_date": "2026-10-10",
+  "generated_at": "2026-10-10T03:17:25.575035+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning developer tools, self-hosting, games, coffee hardware, and animation.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-10.json",
+    "sha256": "5c482611e696f360f0ebb09afc35f630453298859ea8ac429421fda9f3b749dc",
+    "bytes": 4686137,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 7813,
+    "fetched_item_count": 7843,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Fresh",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://usefresh.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50019911",
+      "source_story_title": "Cloudflare acquires Deno",
+      "summary": "A Deno web framework with server rendering and interactive islands; praised by a user.",
+      "why_included": "A named alternative earned unusually strong first-hand praise rather than a neutral mention.",
+      "evidence": "IshKebab calls Fresh the best web framework they have used.",
+      "evidence_sources": [{"comment_id": "50024845", "comment_url": "https://news.ycombinator.com/item?id=50024845", "author": "IshKebab", "excerpt": "Fresh was also the best web framework I've used.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "MXC",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/microsoft/mxc",
+      "hn_url": "https://news.ycombinator.com/item?id=50016489",
+      "source_story_title": "MXC - a sandboxed code execution system",
+      "summary": "A sandboxed code-execution system; commenters praise permission discovery and agent-harness integration.",
+      "why_included": "Two comments independently endorse concrete features of the submitted project.",
+      "evidence": "dannyw praises learning mode, licensing, telemetry disclosures, and documentation; gandreani highlights audit/debug modes for agent harnesses.",
+      "evidence_sources": [
+        {"comment_id": "50017836", "comment_url": "https://news.ycombinator.com/item?id=50017836", "author": "dannyw", "excerpt": "I like the ‘learning’ mode for figuring out what perms/config a runtime needs, the MIT license, the clear optional telemetry disclosures, and somewhat light and still readable documentation.", "kind": "recommendation", "context": "evaluated", "parent_comment_id": null},
+        {"comment_id": "50019575", "comment_url": "https://news.ycombinator.com/item?id=50019575", "author": "gandreani", "excerpt": "I agree! I can't comment on the design of the SDKs but from the looks of it this is a great option to integrate into agent harnesses/pipelines. The \"audit\" and \"debug\" mode are specially useful.", "kind": "recommendation", "parent_comment_id": "50017836"}
+      ]
+    },
+    {
+      "name": "memo",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/aktau/dotfiles/blob/master/bin/memo",
+      "hn_url": "https://news.ycombinator.com/item?id=50018239",
+      "source_story_title": "Once: Cache CLI commands",
+      "summary": "A shell script that caches command output; a user reaches for it like a built-in.",
+      "why_included": "A reply supplies independent adoption evidence for a concrete alternative to the story subject.",
+      "evidence": "aktau identifies the script as memo; thomascountz says it is very handy and praises its design.",
+      "evidence_sources": [
+        {"comment_id": "50019267", "comment_url": "https://news.ycombinator.com/item?id=50019267", "author": "aktau", "excerpt": "I have my own called memo", "kind": "author_context", "context": "author_or_maintainer", "parent_comment_id": null},
+        {"comment_id": "50022081", "comment_url": "https://news.ycombinator.com/item?id=50022081", "author": "thomascountz", "excerpt": "It's very handy (I find myself reaching for it as if it's a built-in) and I appreciate its design (I learned a few things reading it)!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50019267"}
+      ]
+    },
+    {
+      "name": "exe.dev",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://exe.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49985548",
+      "source_story_title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "summary": "Persistent Linux VMs for development; a user keeps worktrees and preview sites running.",
+      "why_included": "Concrete daily use supports resurfacing after the publication cooldown.",
+      "evidence": "skybrian likes developing in a Linux VM while hosting production elsewhere and keeps exe.dev development machines running because idle machines carry no extra charge in their setup.",
+      "evidence_sources": [{"comment_id": "50012959", "comment_url": "https://news.ycombinator.com/item?id=50012959", "author": "skybrian", "excerpt": "Checking out a git repo in a Linux VM and hosting prod elsewhere (automatically deployed via a push to GitHub) seems like a nice pattern. Since exe.dev doesn’t charge anything to leave the dev machines running, I leave them running.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Snikket",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://snikket.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49985548",
+      "source_story_title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "summary": "Self-hosted XMPP messaging with mobile apps; praised for keeping contacts reachable across internet restrictions.",
+      "why_included": "The self-hosting reply describes a specific communication benefit, not just an installed package.",
+      "evidence": "deniska lists Snikket among services they run and calls it useful for talking to people behind Russian internet restrictions.",
+      "evidence_sources": [{"comment_id": "50023492", "comment_url": "https://news.ycombinator.com/item?id=50023492", "author": "deniska", "excerpt": "snikket, xmpp server with a whatsapp-esque mobile app, useful to talk to people who are behind the great Russian firewall", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Moccamaster",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.moccamaster.nl/koffiemachines",
+      "hn_url": "https://news.ycombinator.com/item?id=49995495",
+      "source_story_title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "summary": "A simple filter coffee maker; one second-hand owner reports fifteen years of reliable use.",
+      "why_included": "Long-term first-hand durability praise provides a physical-product discovery outside the software threads.",
+      "evidence": "Freak_NL reports that a second-hand Moccamaster is still doing great after fifteen years.",
+      "evidence_sources": [
+        {"comment_id": "50012083", "comment_url": "https://news.ycombinator.com/item?id=50012083", "author": "Freak_NL", "excerpt": "Tongue-in-cheek, but my Moccamaster which I bought second-hand is still doing great after 15 years.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50011648"}
+      ]
+    },
+    {
+      "name": "Triple-A Minesweeper",
+      "category": "Games & Experiments",
+      "thing_url": "https://minesweeper.mikelacher.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50022292",
+      "source_story_title": "Triple-A Minesweeper",
+      "summary": "A playable Minesweeper parody with cinematic dialogue; commenters enjoyed the deliberately overproduced presentation.",
+      "why_included": "Independent comments endorse the joke and presentation, rather than merely sharing the launch.",
+      "evidence": "devin calls the game very good; wredcoll calls it a great parody and says the presentation raised their interest.",
+      "evidence_sources": [
+        {"comment_id": "50024657", "comment_url": "https://news.ycombinator.com/item?id=50024657", "author": "devin", "excerpt": "So good.", "kind": "recommendation", "parent_comment_id": null},
+        {"comment_id": "50025056", "comment_url": "https://news.ycombinator.com/item?id=50025056", "author": "wredcoll", "excerpt": "That was a great parody, but how much of those effects still worked even though you knew it was coming?", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Tainted Coders",
+      "category": "Watch & Learn",
+      "thing_url": "https://taintedcoders.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50013610",
+      "source_story_title": "Bevy 0.20",
+      "summary": "Bevy game-development guides; an HN reader calls the site their go-to resource.",
+      "why_included": "The reply chain resolves a short endorsement to a named, directly linked learning resource.",
+      "evidence": "GenericCanadian links the updated guides; apitman identifies that resource as their go-to.",
+      "evidence_sources": [
+        {"comment_id": "50014617", "comment_url": "https://news.ycombinator.com/item?id=50014617", "author": "GenericCanadian", "excerpt": "https://taintedcoders.com/ has been updated to 0.20", "kind": "incidental", "parent_comment_id": null},
+        {"comment_id": "50015583", "comment_url": "https://news.ycombinator.com/item?id=50015583", "author": "apitman", "excerpt": "This is my go-to resource", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50014617"}
+      ]
+    },
+    {
+      "name": "Jasmine's Solari introduction",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtube.com/watch?v=V1XJtUOsY2s",
+      "hn_url": "https://news.ycombinator.com/item?id=50013610",
+      "source_story_title": "Bevy 0.20",
+      "summary": "A Bevy meetup talk introducing Solari path tracing; recommended as a good starting point.",
+      "why_included": "A concrete video earns an explicit learning recommendation in the game-engine discussion.",
+      "evidence": "weinzierl praises Solari's path-tracing work and recommends Jasmine's introductory Bevy meetup talk.",
+      "evidence_sources": [{"comment_id": "50017634", "comment_url": "https://news.ycombinator.com/item?id=50017634", "author": "weinzierl", "excerpt": "If you want to learn more, Jasmine gave a good introductory talk about it last week at the Bevy meetup which is available on YouTube.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Wrong Trousers",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.wallaceandgromit.com/films/the-wrong-trousers",
+      "hn_url": "https://news.ycombinator.com/item?id=50020533",
+      "source_story_title": "'Wallace and Gromit,' 90% Alone",
+      "summary": "A Wallace and Gromit stop-motion film; praised for its climactic train chase.",
+      "why_included": "A specific film recommendation broadens the digest beyond technical tools.",
+      "evidence": "codeulike calls The Wrong Trousers a near-perfect film and especially praises its ending train sequence.",
+      "evidence_sources": [{"comment_id": "50026489", "comment_url": "https://news.ycombinator.com/item?id=50026489", "author": "codeulike", "excerpt": "And then for his next work to be The Wrong Trousers, a near perfect film with the ending train sequence widely acclaimed as one of the best action sequences ever put to film", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

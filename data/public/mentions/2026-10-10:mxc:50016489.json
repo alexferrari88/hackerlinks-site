@@ -1,0 +1,31 @@
+{
+  "evidence": "dannyw praises learning mode, licensing, telemetry disclosures, and documentation; gandreani highlights audit/debug modes for agent harnesses.",
+  "evidence_sources": [
+    {
+      "author": "dannyw",
+      "comment_id": "50017836",
+      "comment_url": "https://news.ycombinator.com/item?id=50017836",
+      "context": "evaluated",
+      "excerpt": "I like the \u2018learning\u2019 mode for figuring out what perms/config a runtime needs, the MIT license, the clear optional telemetry disclosures, and somewhat light and still readable documentation.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "gandreani",
+      "comment_id": "50019575",
+      "comment_url": "https://news.ycombinator.com/item?id=50019575",
+      "excerpt": "I agree! I can't comment on the design of the SDKs but from the looks of it this is a great option to integrate into agent harnesses/pipelines. The \"audit\" and \"debug\" mode are specially useful.",
+      "kind": "recommendation",
+      "parent_comment_id": "50017836"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50016489",
+  "id": "2026-10-10:mxc:50016489",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "mxc",
+  "rank": 2,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "50016489",
+  "source_story_title": "MXC - a sandboxed code execution system"
+}

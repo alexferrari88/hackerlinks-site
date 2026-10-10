@@ -1,0 +1,23 @@
+{
+  "evidence": "deniska lists Snikket among services they run and calls it useful for talking to people behind Russian internet restrictions.",
+  "evidence_sources": [
+    {
+      "author": "deniska",
+      "comment_id": "50023492",
+      "comment_url": "https://news.ycombinator.com/item?id=50023492",
+      "context": "first_hand_use",
+      "excerpt": "snikket, xmpp server with a whatsapp-esque mobile app, useful to talk to people who are behind the great Russian firewall",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49985548",
+  "id": "2026-10-10:snikket:49985548",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "snikket",
+  "rank": 5,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "49985548",
+  "source_story_title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?"
+}

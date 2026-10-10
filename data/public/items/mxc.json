@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "mxc",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:mxc:50016489",
+  "mention_ids": [
+    "2026-10-10:mxc:50016489"
+  ],
+  "name": "MXC",
+  "slug": "mxc",
+  "summary": "A sandboxed code-execution system; commenters praise permission discovery and agent-harness integration.",
+  "thing_url": "https://github.com/microsoft/mxc",
+  "times_seen": 1,
+  "why_included": "Two comments independently endorse concrete features of the submitted project."
+}

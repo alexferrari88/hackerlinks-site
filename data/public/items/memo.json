@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "memo",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:memo:50018239",
+  "mention_ids": [
+    "2026-10-10:memo:50018239"
+  ],
+  "name": "memo",
+  "slug": "memo",
+  "summary": "A shell script that caches command output; a user reaches for it like a built-in.",
+  "thing_url": "https://github.com/aktau/dotfiles/blob/master/bin/memo",
+  "times_seen": 1,
+  "why_included": "A reply supplies independent adoption evidence for a concrete alternative to the story subject."
+}

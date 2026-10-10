@@ -1,0 +1,23 @@
+{
+  "evidence": "skybrian likes developing in a Linux VM while hosting production elsewhere and keeps exe.dev development machines running because idle machines carry no extra charge in their setup.",
+  "evidence_sources": [
+    {
+      "author": "skybrian",
+      "comment_id": "50012959",
+      "comment_url": "https://news.ycombinator.com/item?id=50012959",
+      "context": "first_hand_use",
+      "excerpt": "Checking out a git repo in a Linux VM and hosting prod elsewhere (automatically deployed via a push to GitHub) seems like a nice pattern. Since exe.dev doesn\u2019t charge anything to leave the dev machines running, I leave them running.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49985548",
+  "id": "2026-10-10:exe-dev:49985548",
+  "is_repeat": true,
+  "issue_id": "2026-10-10",
+  "item_id": "exe-dev",
+  "rank": 4,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "49985548",
+  "source_story_title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?"
+}

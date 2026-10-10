@@ -1,0 +1,22 @@
+{
+  "evidence": "weinzierl praises Solari's path-tracing work and recommends Jasmine's introductory Bevy meetup talk.",
+  "evidence_sources": [
+    {
+      "author": "weinzierl",
+      "comment_id": "50017634",
+      "comment_url": "https://news.ycombinator.com/item?id=50017634",
+      "excerpt": "If you want to learn more, Jasmine gave a good introductory talk about it last week at the Bevy meetup which is available on YouTube.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50013610",
+  "id": "2026-10-10:jasmine-s-solari-introduction:50013610",
+  "is_repeat": false,
+  "issue_id": "2026-10-10",
+  "item_id": "jasmine-s-solari-introduction",
+  "rank": 9,
+  "seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "source_story_id": "50013610",
+  "source_story_title": "Bevy 0.20"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "snikket",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:snikket:49985548",
+  "mention_ids": [
+    "2026-10-10:snikket:49985548"
+  ],
+  "name": "Snikket",
+  "slug": "snikket",
+  "summary": "Self-hosted XMPP messaging with mobile apps; praised for keeping contacts reachable across internet restrictions.",
+  "thing_url": "https://snikket.org/",
+  "times_seen": 1,
+  "why_included": "The self-hosting reply describes a specific communication benefit, not just an installed package."
+}

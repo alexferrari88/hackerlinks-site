@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "id": "jasmine-s-solari-introduction",
+  "last_seen_at": "2026-10-10T03:17:25.575035+00:00",
+  "latest_mention_id": "2026-10-10:jasmine-s-solari-introduction:50013610",
+  "mention_ids": [
+    "2026-10-10:jasmine-s-solari-introduction:50013610"
+  ],
+  "name": "Jasmine's Solari introduction",
+  "slug": "jasmine-s-solari-introduction",
+  "summary": "A Bevy meetup talk introducing Solari path tracing; recommended as a good starting point.",
+  "thing_url": "https://youtube.com/watch?v=V1XJtUOsY2s",
+  "times_seen": 1,
+  "why_included": "A concrete video earns an explicit learning recommendation in the game-engine discussion."
+}
