@@ -76,6 +76,12 @@ jobs:
           HACKERLINKS_SITE_URL: https://hackerlinks.cc
         run: PYTHONPATH=src python -m hackerlinks.build
 
+      - name: Deduplicate navigation assets and check free-plan limit
+        if: steps.preflight.outputs.deploy_enabled == 'true'
+        run: |
+          PYTHONPATH=src python -m unittest discover -s tests -p test_pages.py
+          PYTHONPATH=src python -m hackerlinks.pages
+
       - name: Deploy to Cloudflare Pages
         if: steps.preflight.outputs.deploy_enabled == 'true'
         env:
