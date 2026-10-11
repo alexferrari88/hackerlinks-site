@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends AeneasVerif projects and specifically names Aeneas alongside Scylla and Charon.",
+  "evidence_sources": [
+    {
+      "author": "weinzierl",
+      "comment_id": "50032365",
+      "comment_url": "https://news.ycombinator.com/item?id=50032365",
+      "excerpt": "I highly recommend checking out the other projects from AeneasVerif (and Jonathan Protzenko). Scylla is kind of Eurydice's dual. But also Charon and the eponymous Aeneas.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50027853",
+  "id": "2026-10-11:aeneas:50027853",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "aeneas",
+  "rank": 2,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "50027853",
+  "source_story_title": "Compiling Rust to readable C with Eurydice"
+}

@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-11",
+  "generated_at": "2026-10-11T03:17:22.915079+00:00",
+  "summary": "Ten comment-endorsed tools, books, and a lecture, selected from 30 fully crawled HN front-page stories.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-11.json",
+    "sha256": "4e1993c225bfb43d6f4759803cc77d54d36d32c198c0a5b864ba5080c7bb9166",
+    "bytes": 2691865,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4258,
+    "fetched_item_count": 4288,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "ILSpy",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/icsharpcode/ILSpy",
+      "hn_url": "https://news.ycombinator.com/item?id=50028275",
+      "source_story_title": "REA Reverse – Engineer Anything",
+      "summary": ".NET decompiler praised for inspecting NuGet packages and uncovering implementation gaps.",
+      "why_included": "A first-hand workflow endorsement connects decompilation to finding actionable bugs.",
+      "evidence": "A commenter finds using ILSpy to inspect NuGet implementations effective and says the workflow reveals bugs or gaps in their own packages.",
+      "evidence_sources": [{"comment_id": "50030561", "comment_url": "https://news.ycombinator.com/item?id=50030561", "author": "sreekanth850", "excerpt": "With C#, whenever codex need some info about the packages we use, it just use ILSpy to decompile the nuget instead of checking the docs. its much effective though. Even in my own packages, it use to gave back the bugs or gaps that i need to patch up.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Aeneas",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/AeneasVerif/aeneas",
+      "hn_url": "https://news.ycombinator.com/item?id=50027853",
+      "source_story_title": "Compiling Rust to readable C with Eurydice",
+      "summary": "Rust verification toolchain translating programs into functional models for proof assistants.",
+      "why_included": "An explicit recommendation names Aeneas among the Rust verification projects worth exploring.",
+      "evidence": "A commenter highly recommends AeneasVerif projects and specifically names Aeneas alongside Scylla and Charon.",
+      "evidence_sources": [{"comment_id": "50032365", "comment_url": "https://news.ycombinator.com/item?id=50032365", "author": "weinzierl", "excerpt": "I highly recommend checking out the other projects from AeneasVerif (and Jonathan Protzenko). Scylla is kind of Eurydice's dual. But also Charon and the eponymous Aeneas.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "elaboration-zoo",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/AndrasKovacs/elaboration-zoo",
+      "hn_url": "https://news.ycombinator.com/item?id=50024090",
+      "source_story_title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "summary": "Worked implementations for learning how dependent-type elaboration operates under the hood.",
+      "why_included": "A direct learning-resource recommendation offers concrete examples rather than abstract discussion.",
+      "evidence": "A commenter recommends elaboration-zoo as a great resource for worked examples of dependent-type elaboration.",
+      "evidence_sources": [{"comment_id": "50029339", "comment_url": "https://news.ycombinator.com/item?id=50029339", "author": "solomonb", "excerpt": "And if you want to see worked examples elaboration of dependent types then the `elaboration-zoo` is a great thing to look at:", "kind": "recommendation", "parent_comment_id": "50028902"}]
+    },
+    {
+      "name": "OpenSCAD",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://openscad.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984349",
+      "source_story_title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "summary": "Code-driven 3D modeller praised for productive geometric designs and fabric printing.",
+      "why_included": "Fresh first-hand praise demonstrates practical use, and its previous report is outside the cooldown.",
+      "evidence": "Jeff Barr reports great results using OpenSCAD for 3D printing on fabric and says he finds its functional model efficient and productive.",
+      "evidence_sources": [{"comment_id": "50035959", "comment_url": "https://news.ycombinator.com/item?id=50035959", "author": "jeffbarr", "excerpt": "I have been using OpenSCAD to create cool geometric designs for 3D printing on fabric, with great results. The functional model is likely unfamiliar to most developers, but I have found that I can be efficient and productive with it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "CQ-editor",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/CadQuery/CQ-editor/releases/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984349",
+      "source_story_title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "summary": "CadQuery editor recommended as an easy entry point to Python-based CAD.",
+      "why_included": "An explicit installation recommendation makes the Python CAD alternative approachable.",
+      "evidence": "A commenter recommends CQ-editor for an easy installation while introducing CadQuery as a Python-based CAD alternative.",
+      "evidence_sources": [{"comment_id": "50037332", "comment_url": "https://news.ycombinator.com/item?id=50037332", "author": "wren6991", "excerpt": "(I recommend CQ-editor for an easy install:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "BOSL2",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/BelfrySCAD/BOSL2/wiki",
+      "hn_url": "https://news.ycombinator.com/item?id=49984349",
+      "source_story_title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "summary": "OpenSCAD modelling library explicitly recommended for programmers making practical household parts.",
+      "why_included": "A concrete library recommendation emerges from a first-hand account of useful 3D printing.",
+      "evidence": "A commenter who describes repairing household items with 3D-printed parts explicitly recommends the BOSL2 library for OpenSCAD.",
+      "evidence_sources": [{"comment_id": "50035552", "comment_url": "https://news.ycombinator.com/item?id=50035552", "author": "TacticalCoder", "excerpt": "I'd recommend people to use the BOSL2 library for OpenSCAD:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "KeeForge",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://keeforge.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50033407",
+      "source_story_title": "Bitwarden Dual License Model",
+      "summary": "Open-source KeePass client for Apple devices, endorsed for opening encrypted password vaults.",
+      "why_included": "A positive recommendation answers the practical question of accessing KeePass files on iOS.",
+      "evidence": "A commenter calls KeeForge a good open-source iOS app for opening encrypted KeePass password files.",
+      "evidence_sources": [{"comment_id": "50033972", "comment_url": "https://news.ycombinator.com/item?id=50033972", "author": "pprotas", "excerpt": "iOS has a good open source app KeeForge to open the encryped password files.", "kind": "recommendation", "parent_comment_id": "50033904"}]
+    },
+    {
+      "name": "The Man Who Solved the Market",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.gregoryzuckerman.com/the-books/the-man-who-solved-the-market",
+      "hn_url": "https://news.ycombinator.com/item?id=50021410",
+      "source_story_title": "Can you use autoregressive diffusion to generate market data?",
+      "summary": "Gregory Zuckerman's Jim Simons biography, recommended for the history of algorithmic trading.",
+      "why_included": "An unambiguous book recommendation adds historical context to quantitative market modelling.",
+      "evidence": "A commenter highly recommends the book for readers interested in the history of algorithmic trading.",
+      "evidence_sources": [{"comment_id": "50031879", "comment_url": "https://news.ycombinator.com/item?id=50031879", "author": "alexpotato", "excerpt": "Highly recommend the book if you are interested in the history of algorithmic trading.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Unaccountability Machine",
+      "category": "Watch & Learn",
+      "thing_url": "https://profilebooks.com/work/the-unaccountability-machine/",
+      "hn_url": "https://news.ycombinator.com/item?id=50029982",
+      "source_story_title": "Computers Cannot Make Decisions",
+      "summary": "Dan Davies's book about how large systems diffuse responsibility for bad decisions.",
+      "why_included": "A clear book endorsement supplies a concrete reading path from the decision-laundering discussion.",
+      "evidence": "A commenter calls The Unaccountability Machine a good book by Dan Davies.",
+      "evidence_sources": [{"comment_id": "50031200", "comment_url": "https://news.ycombinator.com/item?id=50031200", "author": "FabHK", "excerpt": "Related: The Unaccountability Machine (good book by Dan Davies, who also wrote Lying for Money about financial fraud).", "kind": "recommendation", "parent_comment_id": "50031036"}]
+    },
+    {
+      "name": "Dan Gelbart's sensors lecture",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtu.be/0MtRxX0crjU?t=1815",
+      "hn_url": "https://news.ycombinator.com/item?id=49997481",
+      "source_story_title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "summary": "Engineering lecture explaining RF and optical methods for detecting hidden surveillance devices.",
+      "why_included": "An explicit watch recommendation links directly to the relevant RF demonstration.",
+      "evidence": "A commenter says the full sensors lecture is worth watching and highlights its explanation of RF and optical scanning methods.",
+      "evidence_sources": [{"comment_id": "50030766", "comment_url": "https://news.ycombinator.com/item?id=50030766", "author": "Zanfa", "excerpt": "Dan Gelbart's lecture on sensors[0] explains another fascinating method in detail using RF as well as the optical scanning method mentioned in the original video. The full lecture is worth a watch, but the timestamp is where the RF method explanation starts.", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T03:17:22.915079+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-10-11",
+  "id": "2026-10-11",
+  "mention_ids": [
+    "2026-10-11:ilspy:50028275",
+    "2026-10-11:aeneas:50027853",
+    "2026-10-11:elaboration-zoo:50024090",
+    "2026-10-11:openscad:49984349",
+    "2026-10-11:cq-editor:49984349",
+    "2026-10-11:bosl2:49984349",
+    "2026-10-11:keeforge:50033407",
+    "2026-10-11:the-man-who-solved-the-market:50021410",
+    "2026-10-11:the-unaccountability-machine:50029982",
+    "2026-10-11:dan-gelbart-s-sensors-lecture:49997481"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

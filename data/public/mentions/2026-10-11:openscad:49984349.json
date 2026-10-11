@@ -1,0 +1,23 @@
+{
+  "evidence": "Jeff Barr reports great results using OpenSCAD for 3D printing on fabric and says he finds its functional model efficient and productive.",
+  "evidence_sources": [
+    {
+      "author": "jeffbarr",
+      "comment_id": "50035959",
+      "comment_url": "https://news.ycombinator.com/item?id=50035959",
+      "context": "first_hand_use",
+      "excerpt": "I have been using OpenSCAD to create cool geometric designs for 3D printing on fabric, with great results. The functional model is likely unfamiliar to most developers, but I have found that I can be efficient and productive with it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49984349",
+  "id": "2026-10-11:openscad:49984349",
+  "is_repeat": true,
+  "issue_id": "2026-10-11",
+  "item_id": "openscad",
+  "rank": 4,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "49984349",
+  "source_story_title": "OpenSCAD the Programmers Solid 3D CAD Modeller"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends the book for readers interested in the history of algorithmic trading.",
+  "evidence_sources": [
+    {
+      "author": "alexpotato",
+      "comment_id": "50031879",
+      "comment_url": "https://news.ycombinator.com/item?id=50031879",
+      "excerpt": "Highly recommend the book if you are interested in the history of algorithmic trading.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50021410",
+  "id": "2026-10-11:the-man-who-solved-the-market:50021410",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "the-man-who-solved-the-market",
+  "rank": 8,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "50021410",
+  "source_story_title": "Can you use autoregressive diffusion to generate market data?"
+}

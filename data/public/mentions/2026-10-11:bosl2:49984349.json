@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter who describes repairing household items with 3D-printed parts explicitly recommends the BOSL2 library for OpenSCAD.",
+  "evidence_sources": [
+    {
+      "author": "TacticalCoder",
+      "comment_id": "50035552",
+      "comment_url": "https://news.ycombinator.com/item?id=50035552",
+      "excerpt": "I'd recommend people to use the BOSL2 library for OpenSCAD:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49984349",
+  "id": "2026-10-11:bosl2:49984349",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "bosl2",
+  "rank": 6,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "49984349",
+  "source_story_title": "OpenSCAD the Programmers Solid 3D CAD Modeller"
+}

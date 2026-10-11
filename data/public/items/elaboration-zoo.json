@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "id": "elaboration-zoo",
+  "last_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "latest_mention_id": "2026-10-11:elaboration-zoo:50024090",
+  "mention_ids": [
+    "2026-10-11:elaboration-zoo:50024090"
+  ],
+  "name": "elaboration-zoo",
+  "slug": "elaboration-zoo",
+  "summary": "Worked implementations for learning how dependent-type elaboration operates under the hood.",
+  "thing_url": "https://github.com/AndrasKovacs/elaboration-zoo",
+  "times_seen": 1,
+  "why_included": "A direct learning-resource recommendation offers concrete examples rather than abstract discussion."
+}

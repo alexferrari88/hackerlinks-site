@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "id": "the-man-who-solved-the-market",
+  "last_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "latest_mention_id": "2026-10-11:the-man-who-solved-the-market:50021410",
+  "mention_ids": [
+    "2026-10-11:the-man-who-solved-the-market:50021410"
+  ],
+  "name": "The Man Who Solved the Market",
+  "slug": "the-man-who-solved-the-market",
+  "summary": "Gregory Zuckerman's Jim Simons biography, recommended for the history of algorithmic trading.",
+  "thing_url": "https://www.gregoryzuckerman.com/the-books/the-man-who-solved-the-market",
+  "times_seen": 1,
+  "why_included": "An unambiguous book recommendation adds historical context to quantitative market modelling."
+}

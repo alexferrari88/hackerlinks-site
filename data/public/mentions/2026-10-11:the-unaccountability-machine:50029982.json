@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls The Unaccountability Machine a good book by Dan Davies.",
+  "evidence_sources": [
+    {
+      "author": "FabHK",
+      "comment_id": "50031200",
+      "comment_url": "https://news.ycombinator.com/item?id=50031200",
+      "excerpt": "Related: The Unaccountability Machine (good book by Dan Davies, who also wrote Lying for Money about financial fraud).",
+      "kind": "recommendation",
+      "parent_comment_id": "50031036"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50029982",
+  "id": "2026-10-11:the-unaccountability-machine:50029982",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "the-unaccountability-machine",
+  "rank": 9,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "50029982",
+  "source_story_title": "Computers Cannot Make Decisions"
+}

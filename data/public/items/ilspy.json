@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "id": "ilspy",
+  "last_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "latest_mention_id": "2026-10-11:ilspy:50028275",
+  "mention_ids": [
+    "2026-10-11:ilspy:50028275"
+  ],
+  "name": "ILSpy",
+  "slug": "ilspy",
+  "summary": ".NET decompiler praised for inspecting NuGet packages and uncovering implementation gaps.",
+  "thing_url": "https://github.com/icsharpcode/ILSpy",
+  "times_seen": 1,
+  "why_included": "A first-hand workflow endorsement connects decompilation to finding actionable bugs."
+}

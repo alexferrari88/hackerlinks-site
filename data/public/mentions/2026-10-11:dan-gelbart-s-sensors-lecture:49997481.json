@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter says the full sensors lecture is worth watching and highlights its explanation of RF and optical scanning methods.",
+  "evidence_sources": [
+    {
+      "author": "Zanfa",
+      "comment_id": "50030766",
+      "comment_url": "https://news.ycombinator.com/item?id=50030766",
+      "excerpt": "Dan Gelbart's lecture on sensors[0] explains another fascinating method in detail using RF as well as the optical scanning method mentioned in the original video. The full lecture is worth a watch, but the timestamp is where the RF method explanation starts.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49997481",
+  "id": "2026-10-11:dan-gelbart-s-sensors-lecture:49997481",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "dan-gelbart-s-sensors-lecture",
+  "rank": 10,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "49997481",
+  "source_story_title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)"
+}

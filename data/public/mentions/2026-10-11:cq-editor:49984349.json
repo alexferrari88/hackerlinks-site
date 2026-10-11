@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends CQ-editor for an easy installation while introducing CadQuery as a Python-based CAD alternative.",
+  "evidence_sources": [
+    {
+      "author": "wren6991",
+      "comment_id": "50037332",
+      "comment_url": "https://news.ycombinator.com/item?id=50037332",
+      "excerpt": "(I recommend CQ-editor for an easy install:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=49984349",
+  "id": "2026-10-11:cq-editor:49984349",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "cq-editor",
+  "rank": 5,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "49984349",
+  "source_story_title": "OpenSCAD the Programmers Solid 3D CAD Modeller"
+}

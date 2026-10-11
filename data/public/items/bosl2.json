@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "id": "bosl2",
+  "last_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "latest_mention_id": "2026-10-11:bosl2:49984349",
+  "mention_ids": [
+    "2026-10-11:bosl2:49984349"
+  ],
+  "name": "BOSL2",
+  "slug": "bosl2",
+  "summary": "OpenSCAD modelling library explicitly recommended for programmers making practical household parts.",
+  "thing_url": "https://github.com/BelfrySCAD/BOSL2/wiki",
+  "times_seen": 1,
+  "why_included": "A concrete library recommendation emerges from a first-hand account of useful 3D printing."
+}

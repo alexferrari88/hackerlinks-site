@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "id": "dan-gelbart-s-sensors-lecture",
+  "last_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "latest_mention_id": "2026-10-11:dan-gelbart-s-sensors-lecture:49997481",
+  "mention_ids": [
+    "2026-10-11:dan-gelbart-s-sensors-lecture:49997481"
+  ],
+  "name": "Dan Gelbart's sensors lecture",
+  "slug": "dan-gelbart-s-sensors-lecture",
+  "summary": "Engineering lecture explaining RF and optical methods for detecting hidden surveillance devices.",
+  "thing_url": "https://youtu.be/0MtRxX0crjU?t=1815",
+  "times_seen": 1,
+  "why_included": "An explicit watch recommendation links directly to the relevant RF demonstration."
+}

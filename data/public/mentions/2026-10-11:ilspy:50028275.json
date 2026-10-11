@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter finds using ILSpy to inspect NuGet implementations effective and says the workflow reveals bugs or gaps in their own packages.",
+  "evidence_sources": [
+    {
+      "author": "sreekanth850",
+      "comment_id": "50030561",
+      "comment_url": "https://news.ycombinator.com/item?id=50030561",
+      "context": "first_hand_use",
+      "excerpt": "With C#, whenever codex need some info about the packages we use, it just use ILSpy to decompile the nuget instead of checking the docs. its much effective though. Even in my own packages, it use to gave back the bugs or gaps that i need to patch up.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50028275",
+  "id": "2026-10-11:ilspy:50028275",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "ilspy",
+  "rank": 1,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "50028275",
+  "source_story_title": "REA Reverse \u2013 Engineer Anything"
+}

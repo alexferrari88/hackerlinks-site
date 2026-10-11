@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "id": "aeneas",
+  "last_seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "latest_mention_id": "2026-10-11:aeneas:50027853",
+  "mention_ids": [
+    "2026-10-11:aeneas:50027853"
+  ],
+  "name": "Aeneas",
+  "slug": "aeneas",
+  "summary": "Rust verification toolchain translating programs into functional models for proof assistants.",
+  "thing_url": "https://github.com/AeneasVerif/aeneas",
+  "times_seen": 1,
+  "why_included": "An explicit recommendation names Aeneas among the Rust verification projects worth exploring."
+}

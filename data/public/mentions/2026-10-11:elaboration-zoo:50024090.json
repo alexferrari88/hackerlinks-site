@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends elaboration-zoo as a great resource for worked examples of dependent-type elaboration.",
+  "evidence_sources": [
+    {
+      "author": "solomonb",
+      "comment_id": "50029339",
+      "comment_url": "https://news.ycombinator.com/item?id=50029339",
+      "excerpt": "And if you want to see worked examples elaboration of dependent types then the `elaboration-zoo` is a great thing to look at:",
+      "kind": "recommendation",
+      "parent_comment_id": "50028902"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50024090",
+  "id": "2026-10-11:elaboration-zoo:50024090",
+  "is_repeat": false,
+  "issue_id": "2026-10-11",
+  "item_id": "elaboration-zoo",
+  "rank": 3,
+  "seen_at": "2026-10-11T03:17:22.915079+00:00",
+  "source_story_id": "50024090",
+  "source_story_title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
+}

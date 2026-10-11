@@ -2,6 +2,15 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "ILSpy", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "Aeneas", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "elaboration-zoo", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "CQ-editor", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "BOSL2", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "KeeForge", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "The Man Who Solved the Market", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "The Unaccountability Machine", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
+    {"name": "Dan Gelbart's sensors lecture", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
     {"name": "Fresh", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
     {"name": "MXC", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
     {"name": "memo", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
@@ -5976,8 +5985,8 @@
     {
       "name": "OpenSCAD",
       "first_reported_at": "2026-05-03T21:17:03Z",
-      "last_reported_at": "2026-05-03T21:17:03Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 2
     },
     {
       "name": "OpenSeadragon",
