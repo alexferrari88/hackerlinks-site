@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "apswutils",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:apswutils:50045273",
+  "mention_ids": [
+    "2026-10-12:apswutils:50045273"
+  ],
+  "name": "apswutils",
+  "slug": "apswutils",
+  "summary": "An ergonomic Python SQLite API built on APSW, praised after sustained use.",
+  "thing_url": "https://github.com/AnswerDotAI/apswutils",
+  "times_seen": 1,
+  "why_included": "The maintainer reports extensive successful use over one to two years."
+}

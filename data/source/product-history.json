@@ -2,6 +2,16 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "apswutils", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "MkDocs", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "Nushell", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "Diffle", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "VoiceInk", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "Shelter", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "WallHop", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "Zero-K", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "Virtual Barbershop", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
+    {"name": "Merchants of Doubt", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
     {"name": "ILSpy", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
     {"name": "Aeneas", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
     {"name": "elaboration-zoo", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
@@ -957,8 +967,8 @@
     {
       "name": "Beyond All Reason",
       "first_reported_at": "2026-06-21T21:07:25Z",
-      "last_reported_at": "2026-06-21T21:07:25Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 2
     },
     {
       "name": "Bézier Curves",

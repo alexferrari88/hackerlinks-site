@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T03:16:54.397240+00:00",
+  "headline": "11 interesting things surfaced from HN on 2026-10-12",
+  "id": "2026-10-12",
+  "mention_ids": [
+    "2026-10-12:apswutils:50045273",
+    "2026-10-12:mkdocs:50042219",
+    "2026-10-12:nushell:50042425",
+    "2026-10-12:diffle:50006930",
+    "2026-10-12:voiceink:50042333",
+    "2026-10-12:shelter:50040276",
+    "2026-10-12:wallhop:50038634",
+    "2026-10-12:beyond-all-reason:50045984",
+    "2026-10-12:zero-k:50045984",
+    "2026-10-12:virtual-barbershop:50044272",
+    "2026-10-12:merchants-of-doubt:50043682"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

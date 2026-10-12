@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "virtual-barbershop",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:virtual-barbershop:50044272",
+  "mention_ids": [
+    "2026-10-12:virtual-barbershop:50044272"
+  ],
+  "name": "Virtual Barbershop",
+  "slug": "virtual-barbershop",
+  "summary": "A binaural barbershop audio demonstration, fondly recommended in a spatial-audio discussion.",
+  "thing_url": "https://youtube.com/watch?v=IUDTlvagjJA",
+  "times_seen": 1,
+  "why_included": "The commenter explicitly calls the concrete recording cool and supplies its video URL."
+}

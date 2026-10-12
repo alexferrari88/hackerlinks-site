@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "mkdocs",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:mkdocs:50042219",
+  "mention_ids": [
+    "2026-10-12:mkdocs:50042219"
+  ],
+  "name": "MkDocs",
+  "slug": "mkdocs",
+  "summary": "A Markdown documentation-site generator; one user praises GitHub-driven automatic publishing.",
+  "thing_url": "https://www.mkdocs.org/",
+  "times_seen": 1,
+  "why_included": "A concrete first-hand endorsement describes a working documentation publishing loop."
+}

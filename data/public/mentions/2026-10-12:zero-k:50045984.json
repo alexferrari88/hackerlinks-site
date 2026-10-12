@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter prefers Zero-K over Beyond All Reason and recommends genre fans try both.",
+  "evidence_sources": [
+    {
+      "author": "vladms",
+      "comment_id": "50048077",
+      "comment_url": "https://news.ycombinator.com/item?id=50048077",
+      "excerpt": "I do prefer Zero-K over Beyond All Reason, but I would recommend anyone interested in the genre to try both and decide for themselves.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50045984",
+  "id": "2026-10-12:zero-k:50045984",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "zero-k",
+  "rank": 9,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50045984",
+  "source_story_title": "Total Annihilation, rebuilt for modern computers"
+}

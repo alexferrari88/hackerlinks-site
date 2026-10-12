@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter reports flawless dictation for three users, with some initial compilation time.",
+  "evidence_sources": [
+    {
+      "author": "abyssin",
+      "comment_id": "50044360",
+      "comment_url": "https://news.ycombinator.com/item?id=50044360",
+      "context": "first_hand_use",
+      "excerpt": "VoiceInk took a little time compiling but it's been working flawlessly for the three people that use it now for dictating consultation notes.",
+      "kind": "recommendation",
+      "parent_comment_id": "50044126"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50042333",
+  "id": "2026-10-12:voiceink:50042333",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "voiceink",
+  "rank": 5,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50042333",
+  "source_story_title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter immediately bookmarks WallHop and contrasts it favorably with the friction of archive.is.",
+  "evidence_sources": [
+    {
+      "author": "SmashDan",
+      "comment_id": "50038695",
+      "comment_url": "https://news.ycombinator.com/item?id=50038695",
+      "excerpt": "This is great, straight into my bookmarks. I've been using archive.is but it's much more of a faff.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50038634",
+  "id": "2026-10-12:wallhop:50038634",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "wallhop",
+  "rank": 7,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50038634",
+  "source_story_title": "Show HN: WallHop \u2013 12ft.io is gone, so I built a replacement"
+}

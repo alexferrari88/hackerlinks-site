@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter says MkDocs works well and uses a GitHub job to update documentation on main-branch commits.",
+  "evidence_sources": [
+    {
+      "author": "alaudet",
+      "comment_id": "50043177",
+      "comment_url": "https://news.ycombinator.com/item?id=50043177",
+      "context": "first_hand_use",
+      "excerpt": "I found mkdocs works pretty well and integrated with a github job that updates the docs when I commit changes to my main branch.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50042219",
+  "id": "2026-10-12:mkdocs:50042219",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "mkdocs",
+  "rank": 2,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50042219",
+  "source_story_title": "I paid people to try and follow my README"
+}

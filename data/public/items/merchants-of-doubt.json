@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "merchants-of-doubt",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:merchants-of-doubt:50043682",
+  "mention_ids": [
+    "2026-10-12:merchants-of-doubt:50043682"
+  ],
+  "name": "Merchants of Doubt",
+  "slug": "merchants-of-doubt",
+  "summary": "A nonfiction book tracing organized doubt campaigns around tobacco and climate science.",
+  "thing_url": "https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943",
+  "times_seen": 1,
+  "why_included": "An explicit book recommendation adds a grounded nonfiction discovery outside software."
+}

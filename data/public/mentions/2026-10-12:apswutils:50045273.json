@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter ported sqlite-utils to APSW and reports that extensive use has worked great.",
+  "evidence_sources": [
+    {
+      "author": "jph00",
+      "comment_id": "50048185",
+      "comment_url": "https://news.ycombinator.com/item?id=50048185",
+      "context": "author_or_maintainer",
+      "excerpt": "I've been using it a lot over the last year or two and it's worked great.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50045273",
+  "id": "2026-10-12:apswutils:50045273",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "apswutils",
+  "rank": 1,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50045273",
+  "source_story_title": "apsw: Another Python SQLite Wrapper"
+}

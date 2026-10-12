@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "nushell",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:nushell:50042425",
+  "mention_ids": [
+    "2026-10-12:nushell:50042425"
+  ],
+  "name": "Nushell",
+  "slug": "nushell",
+  "summary": "A structured-data shell that pipes tables and records instead of fragile text.",
+  "thing_url": "https://www.nushell.sh/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommends shell alternatives and identifies Nushell's concrete benefit."
+}

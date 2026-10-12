@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter says Diffle looks great and may help the review bottleneck; this is interest, not a usage report.",
+  "evidence_sources": [
+    {
+      "author": "aktenlage",
+      "comment_id": "50041314",
+      "comment_url": "https://news.ycombinator.com/item?id=50041314",
+      "excerpt": "This looks great, I need to try it. Reviewing is such a bottleneck now and this may help.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50006930",
+  "id": "2026-10-12:diffle:50006930",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "diffle",
+  "rank": 4,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50006930",
+  "source_story_title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "diffle",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:diffle:50006930",
+  "mention_ids": [
+    "2026-10-12:diffle:50006930"
+  ],
+  "name": "Diffle",
+  "slug": "diffle",
+  "summary": "A keyboard-centric diff viewer with LSP support, attracting interest for code reviews.",
+  "thing_url": "https://github.com/moritzwilksch/diffle",
+  "times_seen": 1,
+  "why_included": "An independent commenter explicitly praises the project as a potential review aid."
+}

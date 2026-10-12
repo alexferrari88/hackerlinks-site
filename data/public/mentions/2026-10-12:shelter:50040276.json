@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter uses Shelter for WhatsApp and values default photo isolation, while describing the workflow as more annoying.",
+  "evidence_sources": [
+    {
+      "author": "jurf",
+      "comment_id": "50042125",
+      "comment_url": "https://news.ycombinator.com/item?id=50042125",
+      "context": "first_hand_use",
+      "excerpt": "It\u2019s a bit more annoying but also isolates stuff like photos etc. by default, so you don\u2019t have to think about it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50041549"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50040276",
+  "id": "2026-10-12:shelter:50040276",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "shelter",
+  "rank": 6,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50040276",
+  "source_story_title": "LineageOS 24"
+}

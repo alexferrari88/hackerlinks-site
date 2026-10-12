@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter fondly endorses the Virtual Barbershop recording and describes its binaural microphones.",
+  "evidence_sources": [
+    {
+      "author": "andai",
+      "comment_id": "50045094",
+      "comment_url": "https://news.ycombinator.com/item?id=50045094",
+      "excerpt": "This also reminds me of this cool mp3 from the 2000s \u2014 maybe it's on YouTube these days \u2014 called virtual barbershop, which was recorded with binaural microphones.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50044272",
+  "id": "2026-10-12:virtual-barbershop:50044272",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "virtual-barbershop",
+  "rank": 10,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50044272",
+  "source_story_title": "How I reverse engineered a commercial spatial audio effect"
+}

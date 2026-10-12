@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter calls BAR the best spiritual successor and praises its polish and quality-of-life features.",
+  "evidence_sources": [
+    {
+      "author": "modeless",
+      "comment_id": "50046412",
+      "comment_url": "https://news.ycombinator.com/item?id=50046412",
+      "excerpt": "There have been several of these, but I think BAR is by far the best. It's open source, but looks nice and is polished. It has amazing quality-of-life features I haven't seen in any other RTS.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50045984",
+  "id": "2026-10-12:beyond-all-reason:50045984",
+  "is_repeat": true,
+  "issue_id": "2026-10-12",
+  "item_id": "beyond-all-reason",
+  "rank": 8,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50045984",
+  "source_story_title": "Total Annihilation, rebuilt for modern computers"
+}

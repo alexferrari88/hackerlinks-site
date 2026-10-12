@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "id": "wallhop",
+  "last_seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "latest_mention_id": "2026-10-12:wallhop:50038634",
+  "mention_ids": [
+    "2026-10-12:wallhop:50038634"
+  ],
+  "name": "WallHop",
+  "slug": "wallhop",
+  "summary": "A web paywall-bypass service, bookmarked by a commenter seeking less archive friction.",
+  "thing_url": "https://wallhop.io/",
+  "times_seen": 1,
+  "why_included": "An independent commenter gives an explicit positive endorsement rather than a bare link."
+}

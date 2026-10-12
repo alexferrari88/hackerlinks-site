@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter says the book covers the topic well and calls it a fascinating read.",
+  "evidence_sources": [
+    {
+      "author": "abound",
+      "comment_id": "50044917",
+      "comment_url": "https://news.ycombinator.com/item?id=50044917",
+      "excerpt": "Since it doesn't look like anyone has mentioned it yet: the book \"Merchants of Doubt\" covers this topic quite well.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50043682",
+  "id": "2026-10-12:merchants-of-doubt:50043682",
+  "is_repeat": false,
+  "issue_id": "2026-10-12",
+  "item_id": "merchants-of-doubt",
+  "rank": 11,
+  "seen_at": "2026-10-12T03:16:54.397240+00:00",
+  "source_story_id": "50043682",
+  "source_story_title": "Documents add to evidence in climate deception case against ExxonMobil"
+}
