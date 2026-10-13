@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter links Funes and calls it their go-to for conversation search.",
+  "evidence_sources": [
+    {
+      "author": "striking",
+      "comment_id": "50051281",
+      "comment_url": "https://news.ycombinator.com/item?id=50051281",
+      "context": "first_hand_use",
+      "excerpt": "https://github.com/huggingface/funes/ has been my go-to here (specifically for conversation search)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50049508",
+  "id": "2026-10-13:funes:50049508",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "funes",
+  "rank": 2,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50049508",
+  "source_story_title": "Local Indexing to reduce tool calling and token usage"
+}

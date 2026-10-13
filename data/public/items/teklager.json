@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "teklager",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:teklager:50039291",
+  "mention_ids": [
+    "2026-10-13:teklager:50039291"
+  ],
+  "name": "TekLager",
+  "slug": "teklager",
+  "summary": "Routers with open-source operating systems preinstalled; a buyer praises excellent build quality.",
+  "thing_url": "https://teklager.se/en/",
+  "times_seen": 1,
+  "why_included": "An unaffiliated customer gives a concrete buying recommendation backed by ownership."
+}

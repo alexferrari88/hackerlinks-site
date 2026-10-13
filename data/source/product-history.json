@@ -2,44 +2,234 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
-    {"name": "apswutils", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "MkDocs", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "Nushell", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "Diffle", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "VoiceInk", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "Shelter", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "WallHop", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "Zero-K", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "Virtual Barbershop", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "Merchants of Doubt", "first_reported_at": "2026-10-12T03:16:54.397240+00:00", "last_reported_at": "2026-10-12T03:16:54.397240+00:00", "times_reported": 1},
-    {"name": "ILSpy", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "Aeneas", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "elaboration-zoo", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "CQ-editor", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "BOSL2", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "KeeForge", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "The Man Who Solved the Market", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "The Unaccountability Machine", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "Dan Gelbart's sensors lecture", "first_reported_at": "2026-10-11T03:17:22.915079+00:00", "last_reported_at": "2026-10-11T03:17:22.915079+00:00", "times_reported": 1},
-    {"name": "Fresh", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "MXC", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "memo", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "Snikket", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "Moccamaster", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "Triple-A Minesweeper", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "Tainted Coders", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "Jasmine's Solari introduction", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "The Wrong Trousers", "first_reported_at": "2026-10-10T03:17:25.575035+00:00", "last_reported_at": "2026-10-10T03:17:25.575035+00:00", "times_reported": 1},
-    {"name": "Sashiko", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "Embedded Swift", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "Uxn", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "datafusion-ducklake", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "Holesail", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "Zotero", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "wallabag", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "Clickspring", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "Cameras and Lenses", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
-    {"name": "An Ageing World: Lifespan vs Healthspan", "first_reported_at": "2026-10-09T03:17:16.220801+00:00", "last_reported_at": "2026-10-09T03:17:16.220801+00:00", "times_reported": 1},
+    {
+      "name": "apswutils",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MkDocs",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nushell",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Diffle",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "VoiceInk",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Shelter",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "WallHop",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Zero-K",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Virtual Barbershop",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Merchants of Doubt",
+      "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "last_reported_at": "2026-10-12T03:16:54.397240+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ILSpy",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Aeneas",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "elaboration-zoo",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CQ-editor",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BOSL2",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "KeeForge",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Man Who Solved the Market",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Unaccountability Machine",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dan Gelbart's sensors lecture",
+      "first_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "last_reported_at": "2026-10-11T03:17:22.915079+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fresh",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MXC",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "memo",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Snikket",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Moccamaster",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Triple-A Minesweeper",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Tainted Coders",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Jasmine's Solari introduction",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Wrong Trousers",
+      "first_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "last_reported_at": "2026-10-10T03:17:25.575035+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sashiko",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Embedded Swift",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Uxn",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "datafusion-ducklake",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Holesail",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Zotero",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "wallabag",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Clickspring",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cameras and Lenses",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "An Ageing World: Lifespan vs Healthspan",
+      "first_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "last_reported_at": "2026-10-09T03:17:16.220801+00:00",
+      "times_reported": 1
+    },
     {
       "name": "98.css",
       "first_reported_at": "2026-10-06T03:17:36.198863+00:00",
@@ -10574,6 +10764,66 @@
       "name": "Nobel Chemistry 2026: Popular information",
       "first_reported_at": "2026-10-08T03:20:02.514445+00:00",
       "last_reported_at": "2026-10-08T03:20:02.514445+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "llm-agents.nix",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Funes",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Agent37",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "TekLager",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "eSpDR",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Vitaslop",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Holocenter",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "How are holograms possible?",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Vanishing Asia",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Masters of Doom",
+      "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
       "times_reported": 1
     }
   ]

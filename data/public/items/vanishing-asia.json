@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "vanishing-asia",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:vanishing-asia:50057668",
+  "mention_ids": [
+    "2026-10-13:vanishing-asia:50057668"
+  ],
+  "name": "Vanishing Asia",
+  "slug": "vanishing-asia",
+  "summary": "Kevin Kelly's photography books documenting disappearing communities and traditions across Asia.",
+  "thing_url": "https://kk.org/books/vanishing-asia",
+  "times_seen": 1,
+  "why_included": "An owner's unusually strong praise provides a serendipitous photography recommendation inside an AI discussion."
+}

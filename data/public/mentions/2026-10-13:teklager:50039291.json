@@ -1,0 +1,23 @@
+{
+  "evidence": "A customer recommends TekLager, praises their router's build quality, and says the devices can come with open-source operating systems preinstalled.",
+  "evidence_sources": [
+    {
+      "author": "vintagedave",
+      "comment_id": "50054908",
+      "comment_url": "https://news.ycombinator.com/item?id=50054908",
+      "context": "first_hand_use",
+      "excerpt": "Check out TekLager. They're Swedish, and I've bought a router from them before - excellent build quality.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50039291",
+  "id": "2026-10-13:teklager:50039291",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "teklager",
+  "rank": 4,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50039291",
+  "source_story_title": "Ask HN: Do you want a router that has DD-WRT pre-installed?"
+}

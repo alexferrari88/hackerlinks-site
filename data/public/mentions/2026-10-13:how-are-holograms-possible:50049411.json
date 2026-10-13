@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter links this exact 3Blue1Brown video and calls it a great explainer of holograms.",
+  "evidence_sources": [
+    {
+      "author": "adastra22",
+      "comment_id": "50051458",
+      "comment_url": "https://news.ycombinator.com/item?id=50051458",
+      "excerpt": "3blue1brown has a great explainer video on what holograms are:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50049411",
+  "id": "2026-10-13:how-are-holograms-possible:50049411",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "how-are-holograms-possible",
+  "rank": 8,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50049411",
+  "source_story_title": "Whatever became of holography? (2011)"
+}

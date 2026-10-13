@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "run_date": "2026-10-13",
+  "generated_at": "2026-10-13T03:16:04.006319+00:00",
+  "summary": "Ten comment-endorsed discoveries across agent tooling, networking, experimental emulation, holography, and books.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-13.json",
+    "sha256": "5969796eaf64e1fe5255e21b5689e1672b3be1fa1f473bdb64bda4389bfa09d6",
+    "bytes": 3754618,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5983,
+    "fetched_item_count": 6013,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "llm-agents.nix",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/numtide/llm-agents.nix",
+      "hn_url": "https://news.ycombinator.com/item?id=50060694",
+      "source_story_title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "summary": "Daily-updated Nix packages for coding agents; praised for patching unwanted background behavior.",
+      "why_included": "A package user explicitly recommends this alternative to agent-managed updates and background tasks.",
+      "evidence": "A Claude Code package user says the discussed update and background-task behaviors are patched out, and recommends the daily-updated repository as an alternative.",
+      "evidence_sources": [
+        {"comment_id": "50061569", "comment_url": "https://news.ycombinator.com/item?id=50061569", "author": "whimblepop", "excerpt": "Both behaviors you mention are helpfully patched out of the Claude Code package I use:", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50061258"}
+      ]
+    },
+    {
+      "name": "Funes",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/huggingface/funes",
+      "hn_url": "https://news.ycombinator.com/item?id=50049508",
+      "source_story_title": "Local Indexing to reduce tool calling and token usage",
+      "summary": "Searchable memory for past agent sessions; a user's go-to for conversation search.",
+      "why_included": "A direct first-hand endorsement identifies a useful alternative inside a local-indexing discussion.",
+      "evidence": "A commenter links Funes and calls it their go-to for conversation search.",
+      "evidence_sources": [
+        {"comment_id": "50051281", "comment_url": "https://news.ycombinator.com/item?id=50051281", "author": "striking", "excerpt": "https://github.com/huggingface/funes/ has been my go-to here (specifically for conversation search)", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Agent37",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.agent37.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50059096",
+      "source_story_title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "summary": "Hosted agent sandboxes; a prototype user praises cost but notes cold-start delays.",
+      "why_included": "Independent prototype experience supports the launch beyond the founder's own pitch.",
+      "evidence": "A prototype user describes Agent37 as amazing and its cost as attractive, while noting slightly annoying cold-start time.",
+      "evidence_sources": [
+        {"comment_id": "50065802", "comment_url": "https://news.ycombinator.com/item?id=50065802", "author": "JHM168", "excerpt": "I used agent37 for a protoype a few weeks ago and it was amazing, awesome work. cold start time was ever so slightly annoying but nevertheless, cost is attractive", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "TekLager",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://teklager.se/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=50039291",
+      "source_story_title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "summary": "Routers with open-source operating systems preinstalled; a buyer praises excellent build quality.",
+      "why_included": "An unaffiliated customer gives a concrete buying recommendation backed by ownership.",
+      "evidence": "A customer recommends TekLager, praises their router's build quality, and says the devices can come with open-source operating systems preinstalled.",
+      "evidence_sources": [
+        {"comment_id": "50054908", "comment_url": "https://news.ycombinator.com/item?id=50054908", "author": "vintagedave", "excerpt": "Check out TekLager. They're Swedish, and I've bought a router from them before - excellent build quality.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "eSpDR",
+      "category": "Games & Experiments",
+      "thing_url": "https://github.com/h0m3us3r/eSpDR",
+      "hn_url": "https://news.ycombinator.com/item?id=50055593",
+      "source_story_title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "summary": "Experimental software-defined radio built from an ESP32 Wi-Fi microcontroller.",
+      "why_included": "A commenter explicitly praises a concrete low-cost radio experiment linked from a router-hacking thread.",
+      "evidence": "A commenter links eSpDR and calls the ESP32-based software-defined radio awesome.",
+      "evidence_sources": [
+        {"comment_id": "50059772", "comment_url": "https://news.ycombinator.com/item?id=50059772", "author": "yonatan8070", "excerpt": "This same devloper also built an SDR out of an ESP32 Wi-Fi microcontroller [1], this is awesome!", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Vitaslop",
+      "category": "Games & Experiments",
+      "thing_url": "https://github.com/cretz/vitaslop",
+      "hn_url": "https://news.ycombinator.com/item?id=50052251",
+      "source_story_title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "summary": "Experimental PS Vita emulator using WebAssembly; its builder reports promising Android browser results.",
+      "why_included": "The builder provides positive tested-use evidence, while clearly limiting it to a few games.",
+      "evidence": "The builder reports that a few tested games work quite well in mobile Chrome on flagship Android phones, and explicitly calls the project early-stage.",
+      "evidence_sources": [
+        {"comment_id": "50055649", "comment_url": "https://news.ycombinator.com/item?id=50055649", "author": "kodablah", "excerpt": "Only have tested a few games so far, it's early days, but works quite well in Chrome mobile on flagship Android phones.", "kind": "recommendation", "context": "author_or_maintainer", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Holocenter",
+      "category": "Watch & Learn",
+      "thing_url": "https://holocenter.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50049411",
+      "source_story_title": "Whatever became of holography? (2011)",
+      "summary": "New York holographic-arts nonprofit offering exhibitions and hands-on hologram-making workshops.",
+      "why_included": "A positive comment points to a tangible way to explore holography beyond watching a video.",
+      "evidence": "A commenter calls Holocenter a neat nonprofit and highlights exhibitions and workshops for making holograms.",
+      "evidence_sources": [
+        {"comment_id": "50060052", "comment_url": "https://news.ycombinator.com/item?id=50060052", "author": "garethsprice", "excerpt": "There's a neat non-profit in Upstate NY, Holocenter, \"center for the holographic arts\". They have exhibits of currently working holographic artists, and you can do a workshop to make holograms:", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "How are holograms possible?",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=EmKQsSDlaa4",
+      "hn_url": "https://news.ycombinator.com/item?id=50049411",
+      "source_story_title": "Whatever became of holography? (2011)",
+      "summary": "3Blue1Brown's visual explainer of how holograms work, explicitly recommended in the discussion.",
+      "why_included": "A clear recommendation supplies a specific educational video rather than a generic channel mention.",
+      "evidence": "A commenter links this exact 3Blue1Brown video and calls it a great explainer of holograms.",
+      "evidence_sources": [
+        {"comment_id": "50051458", "comment_url": "https://news.ycombinator.com/item?id=50051458", "author": "adastra22", "excerpt": "3blue1brown has a great explainer video on what holograms are:", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Vanishing Asia",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://kk.org/books/vanishing-asia",
+      "hn_url": "https://news.ycombinator.com/item?id=50057668",
+      "source_story_title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "summary": "Kevin Kelly's photography books documenting disappearing communities and traditions across Asia.",
+      "why_included": "An owner's unusually strong praise provides a serendipitous photography recommendation inside an AI discussion.",
+      "evidence": "An owner calls Vanishing Asia possibly the best photography book they have encountered and says they obtained a copy on eBay.",
+      "evidence_sources": [
+        {"comment_id": "50061236", "comment_url": "https://news.ycombinator.com/item?id=50061236", "author": "at1as", "excerpt": "Possibly the best photography book I've come across. It's out of print, but I managed to snag a copy on eBay last year", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Masters of Doom",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://davidkushner.com/book/masters-of-doom",
+      "hn_url": "https://news.ycombinator.com/item?id=50036287",
+      "source_story_title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "summary": "David Kushner's history of Doom's creators; recommended for its game-development drama.",
+      "why_included": "A direct book recommendation broadens the digest beyond today's software launches.",
+      "evidence": "A commenter recommends Masters of Doom as a pretty good book for readers wanting drama.",
+      "evidence_sources": [
+        {"comment_id": "50058136", "comment_url": "https://news.ycombinator.com/item?id=50058136", "author": "ramgine", "excerpt": "The Masters of Doom book was pretty good if you want a bit of drama.", "kind": "recommendation", "parent_comment_id": "50057752"}
+      ]
+    }
+  ]
+}

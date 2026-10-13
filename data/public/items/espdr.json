@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "espdr",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:espdr:50055593",
+  "mention_ids": [
+    "2026-10-13:espdr:50055593"
+  ],
+  "name": "eSpDR",
+  "slug": "espdr",
+  "summary": "Experimental software-defined radio built from an ESP32 Wi-Fi microcontroller.",
+  "thing_url": "https://github.com/h0m3us3r/eSpDR",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly praises a concrete low-cost radio experiment linked from a router-hacking thread."
+}

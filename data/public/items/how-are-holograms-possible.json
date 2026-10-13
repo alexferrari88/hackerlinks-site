@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "how-are-holograms-possible",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:how-are-holograms-possible:50049411",
+  "mention_ids": [
+    "2026-10-13:how-are-holograms-possible:50049411"
+  ],
+  "name": "How are holograms possible?",
+  "slug": "how-are-holograms-possible",
+  "summary": "3Blue1Brown's visual explainer of how holograms work, explicitly recommended in the discussion.",
+  "thing_url": "https://www.youtube.com/watch?v=EmKQsSDlaa4",
+  "times_seen": 1,
+  "why_included": "A clear recommendation supplies a specific educational video rather than a generic channel mention."
+}

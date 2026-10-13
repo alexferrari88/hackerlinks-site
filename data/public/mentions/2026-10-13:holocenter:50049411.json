@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Holocenter a neat nonprofit and highlights exhibitions and workshops for making holograms.",
+  "evidence_sources": [
+    {
+      "author": "garethsprice",
+      "comment_id": "50060052",
+      "comment_url": "https://news.ycombinator.com/item?id=50060052",
+      "excerpt": "There's a neat non-profit in Upstate NY, Holocenter, \"center for the holographic arts\". They have exhibits of currently working holographic artists, and you can do a workshop to make holograms:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50049411",
+  "id": "2026-10-13:holocenter:50049411",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "holocenter",
+  "rank": 7,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50049411",
+  "source_story_title": "Whatever became of holography? (2011)"
+}

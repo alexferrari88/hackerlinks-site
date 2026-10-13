@@ -1,0 +1,23 @@
+{
+  "evidence": "A Claude Code package user says the discussed update and background-task behaviors are patched out, and recommends the daily-updated repository as an alternative.",
+  "evidence_sources": [
+    {
+      "author": "whimblepop",
+      "comment_id": "50061569",
+      "comment_url": "https://news.ycombinator.com/item?id=50061569",
+      "context": "first_hand_use",
+      "excerpt": "Both behaviors you mention are helpfully patched out of the Claude Code package I use:",
+      "kind": "recommendation",
+      "parent_comment_id": "50061258"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50060694",
+  "id": "2026-10-13:llm-agents-nix:50060694",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "llm-agents-nix",
+  "rank": 1,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50060694",
+  "source_story_title": "Codex CLI installs a persistent, self-updating background daemon by default"
+}

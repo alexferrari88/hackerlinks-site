@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter links eSpDR and calls the ESP32-based software-defined radio awesome.",
+  "evidence_sources": [
+    {
+      "author": "yonatan8070",
+      "comment_id": "50059772",
+      "comment_url": "https://news.ycombinator.com/item?id=50059772",
+      "excerpt": "This same devloper also built an SDR out of an ESP32 Wi-Fi microcontroller [1], this is awesome!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50055593",
+  "id": "2026-10-13:espdr:50055593",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "espdr",
+  "rank": 5,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50055593",
+  "source_story_title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver"
+}

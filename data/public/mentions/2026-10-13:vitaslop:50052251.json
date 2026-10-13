@@ -1,0 +1,23 @@
+{
+  "evidence": "The builder reports that a few tested games work quite well in mobile Chrome on flagship Android phones, and explicitly calls the project early-stage.",
+  "evidence_sources": [
+    {
+      "author": "kodablah",
+      "comment_id": "50055649",
+      "comment_url": "https://news.ycombinator.com/item?id=50055649",
+      "context": "author_or_maintainer",
+      "excerpt": "Only have tested a few games so far, it's early days, but works quite well in Chrome mobile on flagship Android phones.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50052251",
+  "id": "2026-10-13:vitaslop:50052251",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "vitaslop",
+  "rank": 6,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50052251",
+  "source_story_title": "Show HN: PS2 games statically recompiled to WebAssembly"
+}

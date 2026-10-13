@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "agent37",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:agent37:50059096",
+  "mention_ids": [
+    "2026-10-13:agent37:50059096"
+  ],
+  "name": "Agent37",
+  "slug": "agent37",
+  "summary": "Hosted agent sandboxes; a prototype user praises cost but notes cold-start delays.",
+  "thing_url": "https://www.agent37.com/",
+  "times_seen": 1,
+  "why_included": "Independent prototype experience supports the launch beyond the founder's own pitch."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "funes",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:funes:50049508",
+  "mention_ids": [
+    "2026-10-13:funes:50049508"
+  ],
+  "name": "Funes",
+  "slug": "funes",
+  "summary": "Searchable memory for past agent sessions; a user's go-to for conversation search.",
+  "thing_url": "https://github.com/huggingface/funes",
+  "times_seen": 1,
+  "why_included": "A direct first-hand endorsement identifies a useful alternative inside a local-indexing discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "llm-agents-nix",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:llm-agents-nix:50060694",
+  "mention_ids": [
+    "2026-10-13:llm-agents-nix:50060694"
+  ],
+  "name": "llm-agents.nix",
+  "slug": "llm-agents-nix",
+  "summary": "Daily-updated Nix packages for coding agents; praised for patching unwanted background behavior.",
+  "thing_url": "https://github.com/numtide/llm-agents.nix",
+  "times_seen": 1,
+  "why_included": "A package user explicitly recommends this alternative to agent-managed updates and background tasks."
+}

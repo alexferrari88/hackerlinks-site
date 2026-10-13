@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "masters-of-doom",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:masters-of-doom:50036287",
+  "mention_ids": [
+    "2026-10-13:masters-of-doom:50036287"
+  ],
+  "name": "Masters of Doom",
+  "slug": "masters-of-doom",
+  "summary": "David Kushner's history of Doom's creators; recommended for its game-development drama.",
+  "thing_url": "https://davidkushner.com/book/masters-of-doom",
+  "times_seen": 1,
+  "why_included": "A direct book recommendation broadens the digest beyond today's software launches."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "id": "vitaslop",
+  "last_seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "latest_mention_id": "2026-10-13:vitaslop:50052251",
+  "mention_ids": [
+    "2026-10-13:vitaslop:50052251"
+  ],
+  "name": "Vitaslop",
+  "slug": "vitaslop",
+  "summary": "Experimental PS Vita emulator using WebAssembly; its builder reports promising Android browser results.",
+  "thing_url": "https://github.com/cretz/vitaslop",
+  "times_seen": 1,
+  "why_included": "The builder provides positive tested-use evidence, while clearly limiting it to a few games."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Masters of Doom as a pretty good book for readers wanting drama.",
+  "evidence_sources": [
+    {
+      "author": "ramgine",
+      "comment_id": "50058136",
+      "comment_url": "https://news.ycombinator.com/item?id=50058136",
+      "excerpt": "The Masters of Doom book was pretty good if you want a bit of drama.",
+      "kind": "recommendation",
+      "parent_comment_id": "50057752"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50036287",
+  "id": "2026-10-13:masters-of-doom:50036287",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "masters-of-doom",
+  "rank": 10,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50036287",
+  "source_story_title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)"
+}

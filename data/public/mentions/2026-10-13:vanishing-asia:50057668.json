@@ -1,0 +1,23 @@
+{
+  "evidence": "An owner calls Vanishing Asia possibly the best photography book they have encountered and says they obtained a copy on eBay.",
+  "evidence_sources": [
+    {
+      "author": "at1as",
+      "comment_id": "50061236",
+      "comment_url": "https://news.ycombinator.com/item?id=50061236",
+      "context": "first_hand_use",
+      "excerpt": "Possibly the best photography book I've come across. It's out of print, but I managed to snag a copy on eBay last year",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50057668",
+  "id": "2026-10-13:vanishing-asia:50057668",
+  "is_repeat": false,
+  "issue_id": "2026-10-13",
+  "item_id": "vanishing-asia",
+  "rank": 9,
+  "seen_at": "2026-10-13T03:16:04.006319+00:00",
+  "source_story_id": "50057668",
+  "source_story_title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later"
+}
