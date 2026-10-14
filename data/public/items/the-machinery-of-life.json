@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "id": "the-machinery-of-life",
+  "last_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "latest_mention_id": "2026-10-14:the-machinery-of-life:50041866",
+  "mention_ids": [
+    "2026-10-14:the-machinery-of-life:50041866"
+  ],
+  "name": "The Machinery of Life",
+  "slug": "the-machinery-of-life",
+  "summary": "David Goodsell's illustrated biology book recommended for patient, visual explanations of cellular machinery.",
+  "thing_url": "https://ccsb.scripps.edu/goodsell/machinery-of-life/",
+  "times_seen": 1,
+  "why_included": "A reader directly recommends the book rather than merely mentioning the author or article."
+}

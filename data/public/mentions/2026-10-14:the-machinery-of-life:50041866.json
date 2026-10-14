@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader strongly recommends The Machinery of Life for its patient, visual explanation of cellular mechanisms.",
+  "evidence_sources": [
+    {
+      "author": "ORDINAND_PIZZA",
+      "comment_id": "50070070",
+      "comment_url": "https://news.ycombinator.com/item?id=50070070",
+      "context": "first_hand_use",
+      "excerpt": "i've read and can highly recommend his book The Machinery of Life for a patient and visual explanation of these baffling machines!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50041866",
+  "id": "2026-10-14:the-machinery-of-life:50041866",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "the-machinery-of-life",
+  "rank": 7,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50041866",
+  "source_story_title": "The baffling intelligence of a single cell (2024)"
+}

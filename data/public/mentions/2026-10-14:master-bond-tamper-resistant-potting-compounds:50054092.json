@@ -1,0 +1,23 @@
+{
+  "evidence": "A practitioner identifies Master Bond as a brand used in tamper-exposed devices and reports no known intact-circuit epoxy removal, while warning about cost.",
+  "evidence_sources": [
+    {
+      "author": "jacquesm",
+      "comment_id": "50071554",
+      "comment_url": "https://news.ycombinator.com/item?id=50071554",
+      "context": "production_use",
+      "excerpt": "The devices we made were put in places where there was a significant risk of tampering and to the best of my knowledge nobody ever managed to break the epoxy bond to the point that the circuit was still functional. But as I wrote above: not cheap.",
+      "kind": "recommendation",
+      "parent_comment_id": "50070011"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50054092",
+  "id": "2026-10-14:master-bond-tamper-resistant-potting-compounds:50054092",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "master-bond-tamper-resistant-potting-compounds",
+  "rank": 10,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50054092",
+  "source_story_title": "Ledger confirms spy chip implant behind wallet crypto thefts"
+}

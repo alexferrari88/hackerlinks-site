@@ -1,0 +1,23 @@
+{
+  "evidence": "A longtime user calls Aqua Mail solid and highly customizable, recommends it for heavy phone-email use, and flags its changed payment model.",
+  "evidence_sources": [
+    {
+      "author": "jdoss",
+      "comment_id": "50073999",
+      "comment_url": "https://news.ycombinator.com/item?id=50073999",
+      "context": "first_hand_use",
+      "excerpt": "It's been solid and it is super customizable. I think the only downside is they changed their payment model a while back and if you didn't buy it back then it costs monthly fee or a $99.99 for a lifetime license. I highly recomend it if you do a lot of email on your phone.",
+      "kind": "recommendation",
+      "parent_comment_id": "50073824"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50072913",
+  "id": "2026-10-14:aqua-mail:50072913",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "aqua-mail",
+  "rank": 5,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50072913",
+  "source_story_title": "Thunderbird for iOS"
+}

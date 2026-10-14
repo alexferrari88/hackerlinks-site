@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "id": "p4merge",
+  "last_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "latest_mention_id": "2026-10-14:p4merge:50073633",
+  "mention_ids": [
+    "2026-10-14:p4merge:50073633"
+  ],
+  "name": "P4Merge",
+  "slug": "p4merge",
+  "summary": "Visual diff and merge tool endorsed for resolving conflicts in Git workflows.",
+  "thing_url": "https://www.perforce.com/products/p4/p4-merge",
+  "times_seen": 1,
+  "why_included": "Specific praise for the merge tool survives the commenter's criticism of Perforce itself."
+}

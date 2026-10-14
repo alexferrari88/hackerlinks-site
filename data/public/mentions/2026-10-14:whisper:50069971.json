@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports great results with GPU-accelerated Whisper while keeping all processing on their machine.",
+  "evidence_sources": [
+    {
+      "author": "1970-01-01",
+      "comment_id": "50070734",
+      "comment_url": "https://news.ycombinator.com/item?id=50070734",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Whisper with great results; GPU acceleration gets the job done, nothing leaves my box, and the medium model is overkill.",
+      "kind": "recommendation",
+      "parent_comment_id": "50070171"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50069971",
+  "id": "2026-10-14:whisper:50069971",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "whisper",
+  "rank": 4,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50069971",
+  "source_story_title": "We turned EmbeddingGemma 2 into a speech-to-text model"
+}

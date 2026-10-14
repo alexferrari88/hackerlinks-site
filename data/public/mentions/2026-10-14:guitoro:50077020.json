@@ -1,0 +1,23 @@
+{
+  "evidence": "A guitarist calls the app intuitive and exceptionally well designed but cannot find their nonstandard tunings.",
+  "evidence_sources": [
+    {
+      "author": "slinkydink",
+      "comment_id": "50080162",
+      "comment_url": "https://news.ycombinator.com/item?id=50080162",
+      "context": "first_hand_use",
+      "excerpt": "I've been playing for years, and so happy to see an app so intuitive. The only thing is that I use several non standard tunings none of them are found in the drop down.....",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50077020",
+  "id": "2026-10-14:guitoro:50077020",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "guitoro",
+  "rank": 6,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50077020",
+  "source_story_title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
+}

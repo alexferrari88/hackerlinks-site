@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-14",
+  "generated_at": "2026-10-14T03:17:00.449981+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning CAD, AI, email, molecular biology, music, history, and hardware protection.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-14.json",
+    "sha256": "9c7539fb9196464b48929900f2f25ca7d4c6971125a2a6ea21f25aac0e769783",
+    "bytes": 4929873,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 8450,
+    "fetched_item_count": 8480,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "SolveSpace",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://solvespace.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50064840",
+      "source_story_title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "summary": "Open-source parametric CAD praised for reliable sketching and a coherent, compact interface.",
+      "why_included": "A longtime user explicitly prefers its polished core over broader but frustrating CAD alternatives.",
+      "evidence": "A longtime user calls SolveSpace stable, fast, and compact, and says it remains their go-to for practical work.",
+      "evidence_sources": [{"comment_id": "50075608", "comment_url": "https://news.ycombinator.com/item?id=50075608", "author": "rspeele", "excerpt": "SolveSpace -- pretty stable and reliable. Fast, compact, great sketching interface, good discoverable UI.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50073151"}]
+    },
+    {
+      "name": "P4Merge",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.perforce.com/products/p4/p4-merge",
+      "hn_url": "https://news.ycombinator.com/item?id=50073633",
+      "source_story_title": "Redesigning source control at Anthropic",
+      "summary": "Visual diff and merge tool endorsed for resolving conflicts in Git workflows.",
+      "why_included": "Specific praise for the merge tool survives the commenter's criticism of Perforce itself.",
+      "evidence": "A commenter who used P4Merge with Git describes it as an outstanding manual merge tool.",
+      "evidence_sources": [{"comment_id": "50076996", "comment_url": "https://news.ycombinator.com/item?id=50076996", "author": "pyrolistical", "excerpt": "If I were still manually merging conflicts the p4merge tool was GOAT I used it in git", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50076658"}]
+    },
+    {
+      "name": "Gemini 4 Argon",
+      "category": "AI & Local Models",
+      "thing_url": "https://deepmind.google/models/gemini/",
+      "hn_url": "https://news.ycombinator.com/item?id=50073879",
+      "source_story_title": "Gemini 4 Argon",
+      "summary": "Google's AI model praised by an internal user for clear, organized answers.",
+      "why_included": "The comment independently endorses the submitted model and identifies a concrete writing preference.",
+      "evidence": "A commenter reports internal use at Google and prefers Argon's direct, organized phrasing over Opus 5.5.",
+      "evidence_sources": [{"comment_id": "50075802", "comment_url": "https://news.ycombinator.com/item?id=50075802", "author": "asdfman123", "excerpt": "I've been using it for a while internally at Google. I prefer Argon over Opus 5.5 because of the clear thinking and directness. It phrases things in an organized, straightforward way.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50074108"}]
+    },
+    {
+      "name": "Whisper",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/openai/whisper",
+      "hn_url": "https://news.ycombinator.com/item?id=50069971",
+      "source_story_title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "summary": "Open-source speech recognition praised for GPU-accelerated transcription without sending audio off-device.",
+      "why_included": "An explicit positive firsthand report highlights a practical local transcription alternative.",
+      "evidence": "A user reports great results with GPU-accelerated Whisper while keeping all processing on their machine.",
+      "evidence_sources": [{"comment_id": "50070734", "comment_url": "https://news.ycombinator.com/item?id=50070734", "author": "1970-01-01", "excerpt": "I've been using Whisper with great results; GPU acceleration gets the job done, nothing leaves my box, and the medium model is overkill.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50070171"}]
+    },
+    {
+      "name": "Aqua Mail",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.aqua-mail.com/android",
+      "hn_url": "https://news.ycombinator.com/item?id=50072913",
+      "source_story_title": "Thunderbird for iOS",
+      "summary": "Customizable Android email client recommended by a longtime user; paid licensing is a caveat.",
+      "why_included": "A concrete phone-email recommendation includes both sustained approval and a pricing drawback.",
+      "evidence": "A longtime user calls Aqua Mail solid and highly customizable, recommends it for heavy phone-email use, and flags its changed payment model.",
+      "evidence_sources": [{"comment_id": "50073999", "comment_url": "https://news.ycombinator.com/item?id=50073999", "author": "jdoss", "excerpt": "It's been solid and it is super customizable. I think the only downside is they changed their payment model a while back and if you didn't buy it back then it costs monthly fee or a $99.99 for a lifetime license. I highly recomend it if you do a lot of email on your phone.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50073824"}]
+    },
+    {
+      "name": "Guitoro",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://guitoro.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50077020",
+      "source_story_title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "summary": "Keyboard-strummed virtual guitar praised for intuitive design; custom tunings remain a requested feature.",
+      "why_included": "An experienced guitarist independently praises the app while identifying a specific limitation.",
+      "evidence": "A guitarist calls the app intuitive and exceptionally well designed but cannot find their nonstandard tunings.",
+      "evidence_sources": [{"comment_id": "50080162", "comment_url": "https://news.ycombinator.com/item?id=50080162", "author": "slinkydink", "excerpt": "I've been playing for years, and so happy to see an app so intuitive. The only thing is that I use several non standard tunings none of them are found in the drop down.....", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Machinery of Life",
+      "category": "Watch & Learn",
+      "thing_url": "https://ccsb.scripps.edu/goodsell/machinery-of-life/",
+      "hn_url": "https://news.ycombinator.com/item?id=50041866",
+      "source_story_title": "The baffling intelligence of a single cell (2024)",
+      "summary": "David Goodsell's illustrated biology book recommended for patient, visual explanations of cellular machinery.",
+      "why_included": "A reader directly recommends the book rather than merely mentioning the author or article.",
+      "evidence": "A reader strongly recommends The Machinery of Life for its patient, visual explanation of cellular mechanisms.",
+      "evidence_sources": [{"comment_id": "50070070", "comment_url": "https://news.ycombinator.com/item?id=50070070", "author": "ORDINAND_PIZZA", "excerpt": "i've read and can highly recommend his book The Machinery of Life for a patient and visual explanation of these baffling machines!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "LifeBrush",
+      "category": "Watch & Learn",
+      "thing_url": "https://github.com/timdecode/LifeBrush",
+      "hn_url": "https://news.ycombinator.com/item?id=50041866",
+      "source_story_title": "The baffling intelligence of a single cell (2024)",
+      "summary": "Open-source VR molecular painting and simulation system praised for making cellular illustrations interactive.",
+      "why_included": "Detailed praise for manipulating molecular scenes offers an unusual hands-on science discovery.",
+      "evidence": "A commenter praises LifeBrush's interactive ribosome scenes, where users can move a ribosome rather than wait for Brownian motion.",
+      "evidence_sources": [{"comment_id": "50070796", "comment_url": "https://news.ycombinator.com/item?id=50070796", "author": "DonHopkins", "excerpt": "The interaction is the magic: in the overview, a ribosome moves along mRNA as tRNA brings amino acids and a polypeptide chain grows. You can grab the ribosome and move it where you want, rather than wait for Brownian motion.", "kind": "recommendation", "parent_comment_id": "50070070"}]
+    },
+    {
+      "name": "The History Blog",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.thehistoryblog.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50067414",
+      "source_story_title": "Hittite royal archive found in Turkey",
+      "summary": "History publication praised for detailed, nonsensational reporting with source material and pictures.",
+      "why_included": "An explicit endorsement identifies a useful reading destination beyond the submitted archaeology story.",
+      "evidence": "A commenter praises The History Blog's seriousness, accessible detail, close-to-primary sources, and pictures.",
+      "evidence_sources": [{"comment_id": "50069421", "comment_url": "https://news.ycombinator.com/item?id=50069421", "author": "sherr", "excerpt": "The History Blog is a small gem because it is serious and not sensational. Always with a good level of detail for the average interested visitor, and from the original (or close by) sources. Plus pictures.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Master Bond tamper-resistant potting compounds",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.masterbond.com/techtips/tamper-resistant-potting-and-encapsulation-compounds",
+      "hn_url": "https://news.ycombinator.com/item?id=50054092",
+      "source_story_title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "summary": "Electronics encapsulation compounds praised for resisting destructive tampering; cost is the trade-off.",
+      "why_included": "A hardware practitioner's concrete positive experience is more useful than generic wallet-security speculation.",
+      "evidence": "A practitioner identifies Master Bond as a brand used in tamper-exposed devices and reports no known intact-circuit epoxy removal, while warning about cost.",
+      "evidence_sources": [{"comment_id": "50071554", "comment_url": "https://news.ycombinator.com/item?id=50071554", "author": "jacquesm", "excerpt": "The devices we made were put in places where there was a significant risk of tampering and to the best of my knowledge nobody ever managed to break the epoxy bond to the point that the circuit was still functional. But as I wrote above: not cheap.", "kind": "recommendation", "context": "production_use", "parent_comment_id": "50070011"}]
+    }
+  ]
+}

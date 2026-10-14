@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises The History Blog's seriousness, accessible detail, close-to-primary sources, and pictures.",
+  "evidence_sources": [
+    {
+      "author": "sherr",
+      "comment_id": "50069421",
+      "comment_url": "https://news.ycombinator.com/item?id=50069421",
+      "excerpt": "The History Blog is a small gem because it is serious and not sensational. Always with a good level of detail for the average interested visitor, and from the original (or close by) sources. Plus pictures.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50067414",
+  "id": "2026-10-14:the-history-blog:50067414",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "the-history-blog",
+  "rank": 9,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50067414",
+  "source_story_title": "Hittite royal archive found in Turkey"
+}

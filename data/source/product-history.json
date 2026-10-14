@@ -2,6 +2,16 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "SolveSpace", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "P4Merge", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "Gemini 4 Argon", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "Whisper", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "Aqua Mail", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "Guitoro", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "The Machinery of Life", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "LifeBrush", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "The History Blog", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {"name": "Master Bond tamper-resistant potting compounds", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
     {
       "name": "apswutils",
       "first_reported_at": "2026-10-12T03:16:54.397240+00:00",

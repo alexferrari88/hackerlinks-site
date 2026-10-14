@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "id": "solvespace",
+  "last_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "latest_mention_id": "2026-10-14:solvespace:50064840",
+  "mention_ids": [
+    "2026-10-14:solvespace:50064840"
+  ],
+  "name": "SolveSpace",
+  "slug": "solvespace",
+  "summary": "Open-source parametric CAD praised for reliable sketching and a coherent, compact interface.",
+  "thing_url": "https://solvespace.com/",
+  "times_seen": 1,
+  "why_included": "A longtime user explicitly prefers its polished core over broader but frustrating CAD alternatives."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "id": "lifebrush",
+  "last_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "latest_mention_id": "2026-10-14:lifebrush:50041866",
+  "mention_ids": [
+    "2026-10-14:lifebrush:50041866"
+  ],
+  "name": "LifeBrush",
+  "slug": "lifebrush",
+  "summary": "Open-source VR molecular painting and simulation system praised for making cellular illustrations interactive.",
+  "thing_url": "https://github.com/timdecode/LifeBrush",
+  "times_seen": 1,
+  "why_included": "Detailed praise for manipulating molecular scenes offers an unusual hands-on science discovery."
+}

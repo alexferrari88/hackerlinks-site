@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T03:17:00.449981+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-10-14",
+  "id": "2026-10-14",
+  "mention_ids": [
+    "2026-10-14:solvespace:50064840",
+    "2026-10-14:p4merge:50073633",
+    "2026-10-14:gemini-4-argon:50073879",
+    "2026-10-14:whisper:50069971",
+    "2026-10-14:aqua-mail:50072913",
+    "2026-10-14:guitoro:50077020",
+    "2026-10-14:the-machinery-of-life:50041866",
+    "2026-10-14:lifebrush:50041866",
+    "2026-10-14:the-history-blog:50067414",
+    "2026-10-14:master-bond-tamper-resistant-potting-compounds:50054092"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

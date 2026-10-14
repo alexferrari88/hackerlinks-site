@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reports internal use at Google and prefers Argon's direct, organized phrasing over Opus 5.5.",
+  "evidence_sources": [
+    {
+      "author": "asdfman123",
+      "comment_id": "50075802",
+      "comment_url": "https://news.ycombinator.com/item?id=50075802",
+      "context": "first_hand_use",
+      "excerpt": "I've been using it for a while internally at Google. I prefer Argon over Opus 5.5 because of the clear thinking and directness. It phrases things in an organized, straightforward way.",
+      "kind": "recommendation",
+      "parent_comment_id": "50074108"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50073879",
+  "id": "2026-10-14:gemini-4-argon:50073879",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "gemini-4-argon",
+  "rank": 3,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50073879",
+  "source_story_title": "Gemini 4 Argon"
+}

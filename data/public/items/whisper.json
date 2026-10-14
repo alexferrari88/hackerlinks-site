@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "id": "whisper",
+  "last_seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "latest_mention_id": "2026-10-14:whisper:50069971",
+  "mention_ids": [
+    "2026-10-14:whisper:50069971"
+  ],
+  "name": "Whisper",
+  "slug": "whisper",
+  "summary": "Open-source speech recognition praised for GPU-accelerated transcription without sending audio off-device.",
+  "thing_url": "https://github.com/openai/whisper",
+  "times_seen": 1,
+  "why_included": "An explicit positive firsthand report highlights a practical local transcription alternative."
+}

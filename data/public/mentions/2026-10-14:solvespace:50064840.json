@@ -1,0 +1,23 @@
+{
+  "evidence": "A longtime user calls SolveSpace stable, fast, and compact, and says it remains their go-to for practical work.",
+  "evidence_sources": [
+    {
+      "author": "rspeele",
+      "comment_id": "50075608",
+      "comment_url": "https://news.ycombinator.com/item?id=50075608",
+      "context": "first_hand_use",
+      "excerpt": "SolveSpace -- pretty stable and reliable. Fast, compact, great sketching interface, good discoverable UI.",
+      "kind": "recommendation",
+      "parent_comment_id": "50073151"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50064840",
+  "id": "2026-10-14:solvespace:50064840",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "solvespace",
+  "rank": 1,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50064840",
+  "source_story_title": "Show HN: SolidCraft \u2013 Open-Source Parametric CAD in Rust (With MCP Support)"
+}

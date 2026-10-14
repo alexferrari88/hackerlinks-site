@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who used P4Merge with Git describes it as an outstanding manual merge tool.",
+  "evidence_sources": [
+    {
+      "author": "pyrolistical",
+      "comment_id": "50076996",
+      "comment_url": "https://news.ycombinator.com/item?id=50076996",
+      "context": "first_hand_use",
+      "excerpt": "If I were still manually merging conflicts the p4merge tool was GOAT I used it in git",
+      "kind": "recommendation",
+      "parent_comment_id": "50076658"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50073633",
+  "id": "2026-10-14:p4merge:50073633",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "p4merge",
+  "rank": 2,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50073633",
+  "source_story_title": "Redesigning source control at Anthropic"
+}

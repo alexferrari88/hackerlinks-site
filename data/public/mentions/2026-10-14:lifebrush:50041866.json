@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises LifeBrush's interactive ribosome scenes, where users can move a ribosome rather than wait for Brownian motion.",
+  "evidence_sources": [
+    {
+      "author": "DonHopkins",
+      "comment_id": "50070796",
+      "comment_url": "https://news.ycombinator.com/item?id=50070796",
+      "excerpt": "The interaction is the magic: in the overview, a ribosome moves along mRNA as tRNA brings amino acids and a polypeptide chain grows. You can grab the ribosome and move it where you want, rather than wait for Brownian motion.",
+      "kind": "recommendation",
+      "parent_comment_id": "50070070"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50041866",
+  "id": "2026-10-14:lifebrush:50041866",
+  "is_repeat": false,
+  "issue_id": "2026-10-14",
+  "item_id": "lifebrush",
+  "rank": 8,
+  "seen_at": "2026-10-14T03:17:00.449981+00:00",
+  "source_story_id": "50041866",
+  "source_story_title": "The baffling intelligence of a single cell (2024)"
+}
