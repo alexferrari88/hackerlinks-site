@@ -2,16 +2,66 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
-    {"name": "SolveSpace", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "P4Merge", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "Gemini 4 Argon", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "Whisper", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "Aqua Mail", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "Guitoro", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "The Machinery of Life", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "LifeBrush", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "The History Blog", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
-    {"name": "Master Bond tamper-resistant potting compounds", "first_reported_at": "2026-10-14T03:17:00.449981+00:00", "last_reported_at": "2026-10-14T03:17:00.449981+00:00", "times_reported": 1},
+    {
+      "name": "SolveSpace",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "P4Merge",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gemini 4 Argon",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Whisper",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Aqua Mail",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Guitoro",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Machinery of Life",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "LifeBrush",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The History Blog",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Master Bond tamper-resistant potting compounds",
+      "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
+      "times_reported": 1
+    },
     {
       "name": "apswutils",
       "first_reported_at": "2026-10-12T03:16:54.397240+00:00",
@@ -10834,6 +10884,66 @@
       "name": "Masters of Doom",
       "first_reported_at": "2026-10-13T03:16:04.006319+00:00",
       "last_reported_at": "2026-10-13T03:16:04.006319+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Iosevka",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Maple Mono",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fireworks AI",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Proton Pass",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MoreWrong",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ColorNerd",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sound — Bartosz Ciechanowski",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nature’s Palette",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Art and Science of Ernst Haeckel",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Aaronson Oracle",
+      "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
+      "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
       "times_reported": 1
     }
   ]

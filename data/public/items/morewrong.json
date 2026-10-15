@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "id": "morewrong",
+  "last_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "latest_mention_id": "2026-10-15:morewrong:50083028",
+  "mention_ids": [
+    "2026-10-15:morewrong:50083028"
+  ],
+  "name": "MoreWrong",
+  "slug": "morewrong",
+  "summary": "Rationalist-blog parody site, recommended through a reader's explicit enjoyment of its satire.",
+  "thing_url": "https://morewrong.lol/",
+  "times_seen": 1,
+  "why_included": "A positive reader endorsement supplies a lighter discovery outside the software recommendations."
+}

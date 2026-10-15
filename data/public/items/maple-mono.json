@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "id": "maple-mono",
+  "last_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "latest_mention_id": "2026-10-15:maple-mono:50084240",
+  "mention_ids": [
+    "2026-10-15:maple-mono:50084240"
+  ],
+  "name": "Maple Mono",
+  "slug": "maple-mono",
+  "summary": "Customizable coding font, explicitly praised as a worthwhile option in the font discussion.",
+  "thing_url": "https://font.subf.dev/en/",
+  "times_seen": 1,
+  "why_included": "A concrete named alternative receives direct praise rather than a neutral comparison."
+}

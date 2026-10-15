@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-15",
+  "generated_at": "2026-10-15T03:17:02.468099+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning coding fonts, inference, passkeys, visual learning, art books, satire, and human randomness.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-15.json",
+    "sha256": "27b40265b75c84321358247dcebc9b79032d948ca1f47040f289daa9141fa79c",
+    "bytes": 4468416,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6861,
+    "fetched_item_count": 6891,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 past front-page stories fully crawled | history + run artifact updated",
+  "items": [
+    {
+      "name": "Iosevka",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://typeof.net/Iosevka/",
+      "hn_url": "https://news.ycombinator.com/item?id=50084240",
+      "source_story_title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "summary": "Customizable open-source monospace font, praised by a longtime user building personal variants.",
+      "why_included": "A longtime user's enthusiastic endorsement explicitly highlights the custom-build system.",
+      "evidence": "A user calls Iosevka their most-loved font for years and describes building a custom version.",
+      "evidence_sources": [{"comment_id": "50084940", "comment_url": "https://news.ycombinator.com/item?id=50084940", "author": "wartywhoa23", "excerpt": "Iosevka, my absolutely most loved font for years! I've been using a custom version - you can customize the font¹ and build your own ttf (or better yet, ttc) using the build system supplied in the repository².", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Maple Mono",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://font.subf.dev/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=50084240",
+      "source_story_title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "summary": "Customizable coding font, explicitly praised as a worthwhile option in the font discussion.",
+      "why_included": "A concrete named alternative receives direct praise rather than a neutral comparison.",
+      "evidence": "A commenter explicitly calls Maple Mono a great customizable font.",
+      "evidence_sources": [{"comment_id": "50085645", "comment_url": "https://news.ycombinator.com/item?id=50085645", "author": "needfish", "excerpt": "Another great customizable font is Maple Mono", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Fireworks AI",
+      "category": "AI & Local Models",
+      "thing_url": "https://fireworks.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50091788",
+      "source_story_title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "summary": "Hosted open-model inference platform, endorsed by a user as an enterprise choice.",
+      "why_included": "The recommendation names an enterprise use case and explicitly confirms personal use.",
+      "evidence": "A commenter who uses Fireworks calls it a good enterprise choice.",
+      "evidence_sources": [{"comment_id": "50092770", "comment_url": "https://news.ycombinator.com/item?id=50092770", "author": "verdverm", "excerpt": "Fireworks is a good enterprise choice OpenCode-go is a good personal subscription choice I use both", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50092702"}]
+    },
+    {
+      "name": "Proton Pass",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://proton.me/pass",
+      "hn_url": "https://news.ycombinator.com/item?id=50088935",
+      "source_story_title": "Passkeys are not a trap",
+      "summary": "Password and passkey manager, praised for reliable use across a commenter's devices.",
+      "why_included": "First-hand praise includes a concrete warning about accidentally mixing credential stores.",
+      "evidence": "A user reports trouble-free use across their devices, but warns that saving passkeys into the wrong credential store can become annoying.",
+      "evidence_sources": [{"comment_id": "50090747", "comment_url": "https://news.ycombinator.com/item?id=50090747", "author": "teekert", "excerpt": "I use ProtonPass on every device I own (religiously) and have never had an issue. But it's because I'm very careful to only deal with any credential ever via ProtonPass. I can imagine it gets annoying very fast if you accidentally put a passkey in the wrong place, ie because Chrome proposes it's own credentials store.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "MoreWrong",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://morewrong.lol/",
+      "hn_url": "https://news.ycombinator.com/item?id=50083028",
+      "source_story_title": "Why is every rationalist blog post way too long?",
+      "summary": "Rationalist-blog parody site, recommended through a reader's explicit enjoyment of its satire.",
+      "why_included": "A positive reader endorsement supplies a lighter discovery outside the software recommendations.",
+      "evidence": "A commenter says they have enjoyed all the parodies on MoreWrong.",
+      "evidence_sources": [{"comment_id": "50095833", "comment_url": "https://news.ycombinator.com/item?id=50095833", "author": "axus", "excerpt": "I've enjoyed all the parodies at https://morewrong.lol/", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "ColorNerd",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@ColorNerd1",
+      "hn_url": "https://news.ycombinator.com/item?id=50053487",
+      "source_story_title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "summary": "YouTube channel explaining color spaces and color theory, with an artist-focused approach.",
+      "why_included": "An unambiguous recommendation identifies both the subject matter and intended audience.",
+      "evidence": "A commenter highly recommends ColorNerd's explanations of color spaces and theory, describing them as artist-focused but informative.",
+      "evidence_sources": [{"comment_id": "50083092", "comment_url": "https://news.ycombinator.com/item?id=50083092", "author": "ulnarkressty", "excerpt": "I highly recommend ColorNerd on Youtube for his explanations of various color spaces and color theory. It's primarily aimed at artists, but very informational.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Sound — Bartosz Ciechanowski",
+      "category": "Watch & Learn",
+      "thing_url": "https://ciechanow.ski/sound/",
+      "hn_url": "https://news.ycombinator.com/item?id=50045147",
+      "source_story_title": "Sound (2022)",
+      "summary": "Interactive sound explainer progressing from bouncing air molecules to harmonics and interference.",
+      "why_included": "Independent comment praise identifies the explainer's teaching progression rather than merely sharing its link.",
+      "evidence": "A reader praises the progression from individual air molecules to understanding harmonics and interference.",
+      "evidence_sources": [{"comment_id": "50082832", "comment_url": "https://news.ycombinator.com/item?id=50082832", "author": "SwtCyber", "excerpt": "The progression here is what impressed me most... You start with individual air molecules bouncing around and somehow end up understanding harmonics, interference and etc. Love this kind of articles!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Nature’s Palette",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.thamesandhudson.com/products/natures-palette",
+      "hn_url": "https://news.ycombinator.com/item?id=50053487",
+      "source_story_title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "summary": "Illustrated natural-history color reference, recommended as a gift for nature-inspired artists.",
+      "why_included": "A specific book recommendation links historical color standards to illustrated plants and animals.",
+      "evidence": "A commenter calls Nature’s Palette wonderful and praises its expansion of Werner’s Nomenclature with illustrated plants and animals.",
+      "evidence_sources": [{"comment_id": "50081316", "comment_url": "https://news.ycombinator.com/item?id=50081316", "author": "dofm", "excerpt": "There is a wonderful Thames and Hudson book, Nature’s Palette, which includes Werner’s Nomenclature and expands on it by discussing how the nomenclature was produced, has illustrations of the reference plants and animals Werner used, etc.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Art and Science of Ernst Haeckel",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.taschen.com/en/books/classics/49600/the-art-and-science-of-ernst-haeckel/",
+      "hn_url": "https://news.ycombinator.com/item?id=50053487",
+      "source_story_title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "summary": "Illustrated collection of Haeckel's natural-history artwork, praised as a mesmerising historical reference.",
+      "why_included": "The named art book receives explicit praise and a concrete gift-pairing recommendation.",
+      "evidence": "A commenter recommends pairing an artist's gift with Taschen's Haeckel book, calling it a mesmerising historical reference.",
+      "evidence_sources": [{"comment_id": "50081316", "comment_url": "https://news.ycombinator.com/item?id=50081316", "author": "dofm", "excerpt": "Particularly when paired with Taschen’s The Art and Science of Ernst Haeckel which is a similarly mesmerising historical reference:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Aaronson Oracle",
+      "category": "Games & Experiments",
+      "thing_url": "https://aaronsonoracle.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50074909",
+      "source_story_title": "Show HN: How random are you?",
+      "summary": "Interactive prediction game challenging you to produce unpredictable sequences of keypresses.",
+      "why_included": "A reply independently recommends the concrete implementation, with the parent explaining its human-predictability premise.",
+      "evidence": "A commenter calls the Aaronson Oracle implementation uncanny and recommends everyone check it out.",
+      "evidence_sources": [{"comment_id": "50085074", "comment_url": "https://news.ycombinator.com/item?id=50085074", "author": "nico", "excerpt": "The implementation on that website (https://aaronsonoracle.com/) is uncanny, I recommend everyone to check it out", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50075947"}]
+    }
+  ]
+}

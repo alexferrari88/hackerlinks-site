@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "id": "sound-bartosz-ciechanowski",
+  "last_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "latest_mention_id": "2026-10-15:sound-bartosz-ciechanowski:50045147",
+  "mention_ids": [
+    "2026-10-15:sound-bartosz-ciechanowski:50045147"
+  ],
+  "name": "Sound \u2014 Bartosz Ciechanowski",
+  "slug": "sound-bartosz-ciechanowski",
+  "summary": "Interactive sound explainer progressing from bouncing air molecules to harmonics and interference.",
+  "thing_url": "https://ciechanow.ski/sound/",
+  "times_seen": 1,
+  "why_included": "Independent comment praise identifies the explainer's teaching progression rather than merely sharing its link."
+}

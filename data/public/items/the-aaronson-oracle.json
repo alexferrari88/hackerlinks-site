@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "id": "the-aaronson-oracle",
+  "last_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "latest_mention_id": "2026-10-15:the-aaronson-oracle:50074909",
+  "mention_ids": [
+    "2026-10-15:the-aaronson-oracle:50074909"
+  ],
+  "name": "The Aaronson Oracle",
+  "slug": "the-aaronson-oracle",
+  "summary": "Interactive prediction game challenging you to produce unpredictable sequences of keypresses.",
+  "thing_url": "https://aaronsonoracle.com/",
+  "times_seen": 1,
+  "why_included": "A reply independently recommends the concrete implementation, with the parent explaining its human-predictability premise."
+}

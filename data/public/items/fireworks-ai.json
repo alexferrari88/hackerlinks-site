@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "id": "fireworks-ai",
+  "last_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "latest_mention_id": "2026-10-15:fireworks-ai:50091788",
+  "mention_ids": [
+    "2026-10-15:fireworks-ai:50091788"
+  ],
+  "name": "Fireworks AI",
+  "slug": "fireworks-ai",
+  "summary": "Hosted open-model inference platform, endorsed by a user as an enterprise choice.",
+  "thing_url": "https://fireworks.ai/",
+  "times_seen": 1,
+  "why_included": "The recommendation names an enterprise use case and explicitly confirms personal use."
+}

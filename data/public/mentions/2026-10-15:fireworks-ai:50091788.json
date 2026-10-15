@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who uses Fireworks calls it a good enterprise choice.",
+  "evidence_sources": [
+    {
+      "author": "verdverm",
+      "comment_id": "50092770",
+      "comment_url": "https://news.ycombinator.com/item?id=50092770",
+      "context": "first_hand_use",
+      "excerpt": "Fireworks is a good enterprise choice OpenCode-go is a good personal subscription choice I use both",
+      "kind": "recommendation",
+      "parent_comment_id": "50092702"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50091788",
+  "id": "2026-10-15:fireworks-ai:50091788",
+  "is_repeat": false,
+  "issue_id": "2026-10-15",
+  "item_id": "fireworks-ai",
+  "rank": 3,
+  "seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "source_story_id": "50091788",
+  "source_story_title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts"
+}

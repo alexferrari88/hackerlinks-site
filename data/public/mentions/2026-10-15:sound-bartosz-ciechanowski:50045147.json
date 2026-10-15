@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader praises the progression from individual air molecules to understanding harmonics and interference.",
+  "evidence_sources": [
+    {
+      "author": "SwtCyber",
+      "comment_id": "50082832",
+      "comment_url": "https://news.ycombinator.com/item?id=50082832",
+      "context": "first_hand_use",
+      "excerpt": "The progression here is what impressed me most... You start with individual air molecules bouncing around and somehow end up understanding harmonics, interference and etc. Love this kind of articles!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50045147",
+  "id": "2026-10-15:sound-bartosz-ciechanowski:50045147",
+  "is_repeat": false,
+  "issue_id": "2026-10-15",
+  "item_id": "sound-bartosz-ciechanowski",
+  "rank": 7,
+  "seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "source_story_id": "50045147",
+  "source_story_title": "Sound (2022)"
+}

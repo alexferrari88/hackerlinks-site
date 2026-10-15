@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "id": "iosevka",
+  "last_seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "latest_mention_id": "2026-10-15:iosevka:50084240",
+  "mention_ids": [
+    "2026-10-15:iosevka:50084240"
+  ],
+  "name": "Iosevka",
+  "slug": "iosevka",
+  "summary": "Customizable open-source monospace font, praised by a longtime user building personal variants.",
+  "thing_url": "https://typeof.net/Iosevka/",
+  "times_seen": 1,
+  "why_included": "A longtime user's enthusiastic endorsement explicitly highlights the custom-build system."
+}

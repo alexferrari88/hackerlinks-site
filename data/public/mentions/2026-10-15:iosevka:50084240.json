@@ -1,0 +1,23 @@
+{
+  "evidence": "A user calls Iosevka their most-loved font for years and describes building a custom version.",
+  "evidence_sources": [
+    {
+      "author": "wartywhoa23",
+      "comment_id": "50084940",
+      "comment_url": "https://news.ycombinator.com/item?id=50084940",
+      "context": "first_hand_use",
+      "excerpt": "Iosevka, my absolutely most loved font for years! I've been using a custom version - you can customize the font\u00b9 and build your own ttf (or better yet, ttc) using the build system supplied in the repository\u00b2.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50084240",
+  "id": "2026-10-15:iosevka:50084240",
+  "is_repeat": false,
+  "issue_id": "2026-10-15",
+  "item_id": "iosevka",
+  "rank": 1,
+  "seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "source_story_id": "50084240",
+  "source_story_title": "Iosevka is an open-source, sans-serif and slab-serif monospace font"
+}

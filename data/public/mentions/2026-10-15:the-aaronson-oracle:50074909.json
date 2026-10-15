@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls the Aaronson Oracle implementation uncanny and recommends everyone check it out.",
+  "evidence_sources": [
+    {
+      "author": "nico",
+      "comment_id": "50085074",
+      "comment_url": "https://news.ycombinator.com/item?id=50085074",
+      "context": "first_hand_use",
+      "excerpt": "The implementation on that website (https://aaronsonoracle.com/) is uncanny, I recommend everyone to check it out",
+      "kind": "recommendation",
+      "parent_comment_id": "50075947"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50074909",
+  "id": "2026-10-15:the-aaronson-oracle:50074909",
+  "is_repeat": false,
+  "issue_id": "2026-10-15",
+  "item_id": "the-aaronson-oracle",
+  "rank": 10,
+  "seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "source_story_id": "50074909",
+  "source_story_title": "Show HN: How random are you?"
+}

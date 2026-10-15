@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends ColorNerd's explanations of color spaces and theory, describing them as artist-focused but informative.",
+  "evidence_sources": [
+    {
+      "author": "ulnarkressty",
+      "comment_id": "50083092",
+      "comment_url": "https://news.ycombinator.com/item?id=50083092",
+      "excerpt": "I highly recommend ColorNerd on Youtube for his explanations of various color spaces and color theory. It's primarily aimed at artists, but very informational.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50053487",
+  "id": "2026-10-15:colornerd:50053487",
+  "is_repeat": false,
+  "issue_id": "2026-10-15",
+  "item_id": "colornerd",
+  "rank": 6,
+  "seen_at": "2026-10-15T03:17:02.468099+00:00",
+  "source_story_id": "50053487",
+  "source_story_title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)"
+}
