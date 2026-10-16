@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "catch-a-bird",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:catch-a-bird:50053384",
+  "mention_ids": [
+    "2026-10-16:catch-a-bird:50053384"
+  ],
+  "name": "Catch a Bird",
+  "slug": "catch-a-bird",
+  "summary": "A virtual tree carrying strangers' happy moments; a reader found it inspiring.",
+  "thing_url": "https://catchabird.com",
+  "times_seen": 1,
+  "why_included": "Direct approval after spending time reading the messages supports a small, uplifting serendipity pick."
+}

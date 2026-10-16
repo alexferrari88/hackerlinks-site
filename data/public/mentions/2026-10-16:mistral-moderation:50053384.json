@@ -1,0 +1,22 @@
+{
+  "evidence": "A builder who researched moderation for a Dutch message-sharing project explicitly recommends Mistral's moderation endpoint, describing it as free with zero data retention; those terms are the commenter's claims, not independently verified guarantees.",
+  "evidence_sources": [
+    {
+      "author": "lemontheme",
+      "comment_id": "50100845",
+      "comment_url": "https://news.ycombinator.com/item?id=50100845",
+      "excerpt": "Mistral has a free moderation endpoint with ZDR. Can definitely recommend it!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50053384",
+  "id": "2026-10-16:mistral-moderation:50053384",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "mistral-moderation",
+  "rank": 4,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50053384",
+  "source_story_title": "Catch a Bird \u2013 I made it for my own sanity"
+}

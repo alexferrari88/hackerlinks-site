@@ -1,0 +1,230 @@
+{
+  "version": 2,
+  "run_date": "2026-10-16",
+  "generated_at": "2026-10-16T03:17:15.326300+00:00",
+  "summary": "Ten comment-endorsed finds spanning self-hosting, woodworking, moderation, networking, and a small positive corner of the web.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-16.json",
+    "sha256": "c56898f1409947107b871bd6fe294e7ac656a74f5a110142579b2dab323357cb",
+    "bytes": 3212087,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5195,
+    "fetched_item_count": 5225,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Iroh",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://www.iroh.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50099136",
+      "source_story_title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
+      "summary": "Peer-to-peer networking library; one user connects a Mac to a meter-reading Pi.",
+      "why_included": "A concrete home-automation deployment makes the endorsement more useful than generic networking praise.",
+      "evidence": "A user likes Iroh for retrieving home meter readings from a Raspberry Pi without a stable IP, while acknowledging simpler approaches exist.",
+      "evidence_sources": [
+        {
+          "comment_id": "50111369",
+          "comment_url": "https://news.ycombinator.com/item?id=50111369",
+          "author": "nozzlegear",
+          "excerpt": "I've also been using Iroh lately, it's pretty neat. I use it to create a connection between my Mac and a pi that I shoved in a closet on an isolated network. The pi reads my house's electric and water meters with an rtl sdr device, and the Mac connects to it every 30 minutes or so to grab and record the latest readings. The pi doesn't have a stable ip (or, I didn't set it up with one), so the Mac uses an Iroh ticket to connect to the pi. It's much overengineered for what it's doing, and there are definitely less complicated ways to just connect to the pi, but half the fun is playing with new tech.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50103843"
+        }
+      ]
+    },
+    {
+      "name": "mash-playbook",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/mother-of-all-self-hosting/mash-playbook",
+      "hn_url": "https://news.ycombinator.com/item?id=50109715",
+      "source_story_title": "What I Self-Host",
+      "summary": "Ansible playbook for self-hosting containerized services, explicitly recommended for its security controls.",
+      "why_included": "An explicit recommendation points to a reusable self-hosting setup rather than a neutral stack inventory.",
+      "evidence": "A commenter highly recommends mash-playbook for secure containerized self-hosting and highlights non-root execution, read-only operation, and capability dropping where possible.",
+      "evidence_sources": [
+        {
+          "comment_id": "50112586",
+          "comment_url": "https://news.ycombinator.com/item?id=50112586",
+          "author": "spatterl1ght",
+          "excerpt": "I highly recommend https://github.com/mother-of-all-self-hosting/mash-playbook for those interested in secure containerized self hosting. A tremendous number of services are supported non-root user execution, read-only, and cap-drop where possible",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://dlang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50071546",
+      "source_story_title": "Your C is not standard C",
+      "summary": "Systems programming language; its creator praises built-in arrays over C's approach.",
+      "why_included": "A specific language-design endorsement offers a concrete alternative in a critique-heavy C thread.",
+      "evidence": "D creator Walter Bright praises D's arrays as worth their weight in gold and contrasts its unsigned char with C's implementation-defined signedness.",
+      "evidence_sources": [
+        {
+          "comment_id": "50099063",
+          "comment_url": "https://news.ycombinator.com/item?id=50099063",
+          "author": "WalterBright",
+          "excerpt": "C also needs to implement proper arrays. D does it, and that one feature is worth its weight in gold:",
+          "kind": "recommendation",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "50079442"
+        }
+      ]
+    },
+    {
+      "name": "Mistral Moderation",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://docs.mistral.ai/studio/conversations/moderation",
+      "hn_url": "https://news.ycombinator.com/item?id=50053384",
+      "source_story_title": "Catch a Bird – I made it for my own sanity",
+      "summary": "Text-moderation API explicitly recommended by a builder who researched moderation for a community project.",
+      "why_included": "A practical recommendation addresses the moderation problem faced by small open-message sites.",
+      "evidence": "A builder who researched moderation for a Dutch message-sharing project explicitly recommends Mistral's moderation endpoint, describing it as free with zero data retention; those terms are the commenter's claims, not independently verified guarantees.",
+      "evidence_sources": [
+        {
+          "comment_id": "50100845",
+          "comment_url": "https://news.ycombinator.com/item?id=50100845",
+          "author": "lemontheme",
+          "excerpt": "Mistral has a free moderation endpoint with ZDR. Can definitely recommend it!",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "FreeCAD",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.freecad.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50067325",
+      "source_story_title": "Ask HN: CAD for wood working with LLM support?",
+      "summary": "Open-source parametric CAD; a furniture hobbyist praises its intuitive, fast graphical tools.",
+      "why_included": "First-hand praise identifies a graphical CAD option without repeating the recently reported OpenSCAD.",
+      "evidence": "A furniture hobbyist says FreeCAD was more intuitive and faster with graphical tools than manually coding every detail in OpenSCAD, before later adopting an LLM-assisted OpenSCAD workflow.",
+      "evidence_sources": [
+        {
+          "comment_id": "50100796",
+          "comment_url": "https://news.ycombinator.com/item?id=50100796",
+          "author": "cladopa",
+          "excerpt": "I learned OpensCAD manually but it was so painful because you needed to take into account the most minimal and ridiculous thing using code, so I used Freecad in the end that is way more intuitive and fast with graphical tools.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "CutList Optimizer",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.cutlistoptimizer.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50067325",
+      "source_story_title": "Ask HN: CAD for wood working with LLM support?",
+      "summary": "Sheet-cutting layout optimizer; a home improver relies on it instead of elaborate CAD.",
+      "why_included": "A first-hand recommendation supplies a simpler alternative to an AI-heavy woodworking workflow.",
+      "evidence": "A home improver with limited time and working space calls CutList Optimizer the only tool they have relied on and argues paper plus simpler planning often beats CAD for hobby projects.",
+      "evidence_sources": [
+        {
+          "comment_id": "50098076",
+          "comment_url": "https://news.ycombinator.com/item?id=50098076",
+          "author": "itissid",
+          "excerpt": "I do home improvement projects (I've in wall built-in storage, benches and nooks) I am on a clock and i have very little room in which to work. The only tool I have relied on https://www.cutlistoptimizer.com/",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Lyrion Music Server",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://lyrion.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50109715",
+      "source_story_title": "What I Self-Host",
+      "summary": "Self-hosted music server; an MPD convert prefers its unified interface for multiple players.",
+      "why_included": "An actual switch from MPD supports a specific multi-client usability recommendation.",
+      "evidence": "A longtime MPD user recommends Lyrion after switching, finding it easier for many clients and appreciating one interface for music and local speakers.",
+      "evidence_sources": [
+        {
+          "comment_id": "50111669",
+          "comment_url": "https://news.ycombinator.com/item?id=50111669",
+          "author": "disposition2",
+          "excerpt": "I’ve used MPD for years but recently switched to lyrion and for me, it’s a lot easier and suitable when you have many clients. It’s nice to have a single (nice) UX/UI for my music and all the “speakers” on the local network.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Catch a Bird",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://catchabird.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50053384",
+      "source_story_title": "Catch a Bird – I made it for my own sanity",
+      "summary": "A virtual tree carrying strangers' happy moments; a reader found it inspiring.",
+      "why_included": "Direct approval after spending time reading the messages supports a small, uplifting serendipity pick.",
+      "evidence": "A reader spent five minutes reading messages, praised the project, and called it inspiring even while struggling to contribute on a bad day.",
+      "evidence_sources": [
+        {
+          "comment_id": "50101129",
+          "comment_url": "https://news.ycombinator.com/item?id=50101129",
+          "author": "noduerme",
+          "excerpt": "I sat there for 5 minutes reading them and then I tried to type something, and realized I couldn't think of a single thing. Just a bad day. I love that you made this, though. It's inspiring.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Protectli Vault",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://protectli.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50070625",
+      "source_story_title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "summary": "Firewall appliances; a longtime user endorses a Coreboot and OPNsense setup.",
+      "why_included": "A multi-year first-hand alternative emerges from a router-security discussion without asserting comparative security guarantees.",
+      "evidence": "A commenter says they switched to a Protectli box running Coreboot and OPNsense seven to eight years ago and have not looked back, while not claiming their choices are the best.",
+      "evidence_sources": [
+        {
+          "comment_id": "50101726",
+          "comment_url": "https://news.ycombinator.com/item?id=50101726",
+          "author": "alias_neo",
+          "excerpt": "I switched, about 7-8 years ago to a Protectli box running Coreboot and OPNSense and haven't looked back; I use Ubiquiti APs and switches. I'm not saying they're the best, but anything used in corporate/enterprise is going to have better support (if not better code quality).",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50100679"
+        }
+      ]
+    },
+    {
+      "name": "Woodworking for Mere Mortals",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@SteveRamsey",
+      "hn_url": "https://news.ycombinator.com/item?id=50067325",
+      "source_story_title": "Ask HN: CAD for wood working with LLM support?",
+      "summary": "Steve Ramsey's woodworking channel, recommended as a starting point for practical beginners.",
+      "why_included": "A concrete learning resource broadens the CAD discussion into actually making things.",
+      "evidence": "A commenter recommends the channel as a good starting point, encourages building basic projects, and cautions that online woodworking videos compress the real time involved.",
+      "evidence_sources": [
+        {
+          "comment_id": "50103260",
+          "comment_url": "https://news.ycombinator.com/item?id=50103260",
+          "author": "mattbrewsbytes",
+          "excerpt": "You really need to build things to learn and progress. Woodworking for Mere Mortals youtube channel is a good place to start. Start with hand tools and build some very basic things, see what you like doing and progress from there. The caution with all online content is the constant promotions, etc. for recommendations of tools or brands. Look for counter opinions. See if you can go use a tool somewhere before buying, maybe at a local store like Rockler or Woodcraft - they may have classes. What you won't see in online content is how long something really takes, they are probably editing 40 hours of video down into 30 minutes.",
+          "kind": "recommendation",
+          "parent_comment_id": "50100449"
+        }
+      ]
+    }
+  ]
+}

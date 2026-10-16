@@ -1,0 +1,23 @@
+{
+  "evidence": "A home improver with limited time and working space calls CutList Optimizer the only tool they have relied on and argues paper plus simpler planning often beats CAD for hobby projects.",
+  "evidence_sources": [
+    {
+      "author": "itissid",
+      "comment_id": "50098076",
+      "comment_url": "https://news.ycombinator.com/item?id=50098076",
+      "context": "first_hand_use",
+      "excerpt": "I do home improvement projects (I've in wall built-in storage, benches and nooks) I am on a clock and i have very little room in which to work. The only tool I have relied on https://www.cutlistoptimizer.com/",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50067325",
+  "id": "2026-10-16:cutlist-optimizer:50067325",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "cutlist-optimizer",
+  "rank": 6,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50067325",
+  "source_story_title": "Ask HN: CAD for wood working with LLM support?"
+}

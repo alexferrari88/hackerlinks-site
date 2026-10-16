@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "freecad",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:freecad:50067325",
+  "mention_ids": [
+    "2026-10-16:freecad:50067325"
+  ],
+  "name": "FreeCAD",
+  "slug": "freecad",
+  "summary": "Open-source parametric CAD; a furniture hobbyist praises its intuitive, fast graphical tools.",
+  "thing_url": "https://www.freecad.org/",
+  "times_seen": 1,
+  "why_included": "First-hand praise identifies a graphical CAD option without repeating the recently reported OpenSCAD."
+}

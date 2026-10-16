@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "cutlist-optimizer",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:cutlist-optimizer:50067325",
+  "mention_ids": [
+    "2026-10-16:cutlist-optimizer:50067325"
+  ],
+  "name": "CutList Optimizer",
+  "slug": "cutlist-optimizer",
+  "summary": "Sheet-cutting layout optimizer; a home improver relies on it instead of elaborate CAD.",
+  "thing_url": "https://www.cutlistoptimizer.com/",
+  "times_seen": 1,
+  "why_included": "A first-hand recommendation supplies a simpler alternative to an AI-heavy woodworking workflow."
+}

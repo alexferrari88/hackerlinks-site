@@ -1,0 +1,23 @@
+{
+  "evidence": "A furniture hobbyist says FreeCAD was more intuitive and faster with graphical tools than manually coding every detail in OpenSCAD, before later adopting an LLM-assisted OpenSCAD workflow.",
+  "evidence_sources": [
+    {
+      "author": "cladopa",
+      "comment_id": "50100796",
+      "comment_url": "https://news.ycombinator.com/item?id=50100796",
+      "context": "first_hand_use",
+      "excerpt": "I learned OpensCAD manually but it was so painful because you needed to take into account the most minimal and ridiculous thing using code, so I used Freecad in the end that is way more intuitive and fast with graphical tools.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50067325",
+  "id": "2026-10-16:freecad:50067325",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "freecad",
+  "rank": 5,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50067325",
+  "source_story_title": "Ask HN: CAD for wood working with LLM support?"
+}

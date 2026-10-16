@@ -1,0 +1,23 @@
+{
+  "evidence": "A longtime MPD user recommends Lyrion after switching, finding it easier for many clients and appreciating one interface for music and local speakers.",
+  "evidence_sources": [
+    {
+      "author": "disposition2",
+      "comment_id": "50111669",
+      "comment_url": "https://news.ycombinator.com/item?id=50111669",
+      "context": "first_hand_use",
+      "excerpt": "I\u2019ve used MPD for years but recently switched to lyrion and for me, it\u2019s a lot easier and suitable when you have many clients. It\u2019s nice to have a single (nice) UX/UI for my music and all the \u201cspeakers\u201d on the local network.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50109715",
+  "id": "2026-10-16:lyrion-music-server:50109715",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "lyrion-music-server",
+  "rank": 7,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50109715",
+  "source_story_title": "What I Self-Host"
+}

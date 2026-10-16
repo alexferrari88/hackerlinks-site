@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the channel as a good starting point, encourages building basic projects, and cautions that online woodworking videos compress the real time involved.",
+  "evidence_sources": [
+    {
+      "author": "mattbrewsbytes",
+      "comment_id": "50103260",
+      "comment_url": "https://news.ycombinator.com/item?id=50103260",
+      "excerpt": "You really need to build things to learn and progress. Woodworking for Mere Mortals youtube channel is a good place to start. Start with hand tools and build some very basic things, see what you like doing and progress from there. The caution with all online content is the constant promotions, etc. for recommendations of tools or brands. Look for counter opinions. See if you can go use a tool somewhere before buying, maybe at a local store like Rockler or Woodcraft - they may have classes. What you won't see in online content is how long something really takes, they are probably editing 40 hours of video down into 30 minutes.",
+      "kind": "recommendation",
+      "parent_comment_id": "50100449"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50067325",
+  "id": "2026-10-16:woodworking-for-mere-mortals:50067325",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "woodworking-for-mere-mortals",
+  "rank": 10,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50067325",
+  "source_story_title": "Ask HN: CAD for wood working with LLM support?"
+}

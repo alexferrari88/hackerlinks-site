@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says they switched to a Protectli box running Coreboot and OPNsense seven to eight years ago and have not looked back, while not claiming their choices are the best.",
+  "evidence_sources": [
+    {
+      "author": "alias_neo",
+      "comment_id": "50101726",
+      "comment_url": "https://news.ycombinator.com/item?id=50101726",
+      "context": "first_hand_use",
+      "excerpt": "I switched, about 7-8 years ago to a Protectli box running Coreboot and OPNSense and haven't looked back; I use Ubiquiti APs and switches. I'm not saying they're the best, but anything used in corporate/enterprise is going to have better support (if not better code quality).",
+      "kind": "recommendation",
+      "parent_comment_id": "50100679"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50070625",
+  "id": "2026-10-16:protectli-vault:50070625",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "protectli-vault",
+  "rank": 9,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50070625",
+  "source_story_title": "Wanted to download an ISO, ended up writing a kernel exploit"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "lyrion-music-server",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:lyrion-music-server:50109715",
+  "mention_ids": [
+    "2026-10-16:lyrion-music-server:50109715"
+  ],
+  "name": "Lyrion Music Server",
+  "slug": "lyrion-music-server",
+  "summary": "Self-hosted music server; an MPD convert prefers its unified interface for multiple players.",
+  "thing_url": "https://lyrion.org/",
+  "times_seen": 1,
+  "why_included": "An actual switch from MPD supports a specific multi-client usability recommendation."
+}

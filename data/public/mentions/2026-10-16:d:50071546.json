@@ -1,0 +1,23 @@
+{
+  "evidence": "D creator Walter Bright praises D's arrays as worth their weight in gold and contrasts its unsigned char with C's implementation-defined signedness.",
+  "evidence_sources": [
+    {
+      "author": "WalterBright",
+      "comment_id": "50099063",
+      "comment_url": "https://news.ycombinator.com/item?id=50099063",
+      "context": "author_or_maintainer",
+      "excerpt": "C also needs to implement proper arrays. D does it, and that one feature is worth its weight in gold:",
+      "kind": "recommendation",
+      "parent_comment_id": "50079442"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50071546",
+  "id": "2026-10-16:d:50071546",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "d",
+  "rank": 3,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50071546",
+  "source_story_title": "Your C is not standard C"
+}

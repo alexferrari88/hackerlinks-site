@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "mash-playbook",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:mash-playbook:50109715",
+  "mention_ids": [
+    "2026-10-16:mash-playbook:50109715"
+  ],
+  "name": "mash-playbook",
+  "slug": "mash-playbook",
+  "summary": "Ansible playbook for self-hosting containerized services, explicitly recommended for its security controls.",
+  "thing_url": "https://github.com/mother-of-all-self-hosting/mash-playbook",
+  "times_seen": 1,
+  "why_included": "An explicit recommendation points to a reusable self-hosting setup rather than a neutral stack inventory."
+}

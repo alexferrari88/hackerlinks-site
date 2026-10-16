@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "mistral-moderation",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:mistral-moderation:50053384",
+  "mention_ids": [
+    "2026-10-16:mistral-moderation:50053384"
+  ],
+  "name": "Mistral Moderation",
+  "slug": "mistral-moderation",
+  "summary": "Text-moderation API explicitly recommended by a builder who researched moderation for a community project.",
+  "thing_url": "https://docs.mistral.ai/studio/conversations/moderation",
+  "times_seen": 1,
+  "why_included": "A practical recommendation addresses the moderation problem faced by small open-message sites."
+}

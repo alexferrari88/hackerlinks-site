@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "protectli-vault",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:protectli-vault:50070625",
+  "mention_ids": [
+    "2026-10-16:protectli-vault:50070625"
+  ],
+  "name": "Protectli Vault",
+  "slug": "protectli-vault",
+  "summary": "Firewall appliances; a longtime user endorses a Coreboot and OPNsense setup.",
+  "thing_url": "https://protectli.com/",
+  "times_seen": 1,
+  "why_included": "A multi-year first-hand alternative emerges from a router-security discussion without asserting comparative security guarantees."
+}

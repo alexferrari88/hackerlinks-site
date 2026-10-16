@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-06-15T21:10:59Z",
   "id": "iroh",
-  "last_seen_at": "2026-06-15T21:10:59Z",
-  "latest_mention_id": "2026-06-15:iroh:48542480",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:iroh:50099136",
   "mention_ids": [
-    "2026-06-15:iroh:48542480"
+    "2026-06-15:iroh:48542480",
+    "2026-10-16:iroh:50099136"
   ],
   "name": "Iroh",
   "slug": "iroh",
-  "summary": "Peer-to-peer networking stack for direct device-to-device connections.",
+  "summary": "Peer-to-peer networking library; one user connects a Mac to a meter-reading Pi.",
   "thing_url": "https://www.iroh.computer/",
-  "times_seen": 1,
-  "why_included": "Commenters said they use it in production and like the app-layer model."
+  "times_seen": 2,
+  "why_included": "A concrete home-automation deployment makes the endorsement more useful than generic networking praise."
 }

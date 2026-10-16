@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends mash-playbook for secure containerized self-hosting and highlights non-root execution, read-only operation, and capability dropping where possible.",
+  "evidence_sources": [
+    {
+      "author": "spatterl1ght",
+      "comment_id": "50112586",
+      "comment_url": "https://news.ycombinator.com/item?id=50112586",
+      "excerpt": "I highly recommend https://github.com/mother-of-all-self-hosting/mash-playbook for those interested in secure containerized self hosting. A tremendous number of services are supported non-root user execution, read-only, and cap-drop where possible",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50109715",
+  "id": "2026-10-16:mash-playbook:50109715",
+  "is_repeat": false,
+  "issue_id": "2026-10-16",
+  "item_id": "mash-playbook",
+  "rank": 2,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50109715",
+  "source_story_title": "What I Self-Host"
+}

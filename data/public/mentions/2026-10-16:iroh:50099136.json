@@ -1,0 +1,23 @@
+{
+  "evidence": "A user likes Iroh for retrieving home meter readings from a Raspberry Pi without a stable IP, while acknowledging simpler approaches exist.",
+  "evidence_sources": [
+    {
+      "author": "nozzlegear",
+      "comment_id": "50111369",
+      "comment_url": "https://news.ycombinator.com/item?id=50111369",
+      "context": "first_hand_use",
+      "excerpt": "I've also been using Iroh lately, it's pretty neat. I use it to create a connection between my Mac and a pi that I shoved in a closet on an isolated network. The pi reads my house's electric and water meters with an rtl sdr device, and the Mac connects to it every 30 minutes or so to grab and record the latest readings. The pi doesn't have a stable ip (or, I didn't set it up with one), so the Mac uses an Iroh ticket to connect to the pi. It's much overengineered for what it's doing, and there are definitely less complicated ways to just connect to the pi, but half the fun is playing with new tech.",
+      "kind": "recommendation",
+      "parent_comment_id": "50103843"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50099136",
+  "id": "2026-10-16:iroh:50099136",
+  "is_repeat": true,
+  "issue_id": "2026-10-16",
+  "item_id": "iroh",
+  "rank": 1,
+  "seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "source_story_id": "50099136",
+  "source_story_title": "Show HN: Flipflop \u2013 Iroh-powered persistent tunnels for filesharing"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "id": "woodworking-for-mere-mortals",
+  "last_seen_at": "2026-10-16T03:17:15.326300+00:00",
+  "latest_mention_id": "2026-10-16:woodworking-for-mere-mortals:50067325",
+  "mention_ids": [
+    "2026-10-16:woodworking-for-mere-mortals:50067325"
+  ],
+  "name": "Woodworking for Mere Mortals",
+  "slug": "woodworking-for-mere-mortals",
+  "summary": "Steve Ramsey's woodworking channel, recommended as a starting point for practical beginners.",
+  "thing_url": "https://www.youtube.com/@SteveRamsey",
+  "times_seen": 1,
+  "why_included": "A concrete learning resource broadens the CAD discussion into actually making things."
+}

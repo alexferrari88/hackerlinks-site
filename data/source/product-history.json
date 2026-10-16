@@ -3,6 +3,60 @@
   "cooldown_days": 90,
   "products": [
     {
+      "name": "mash-playbook",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "D",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Mistral Moderation",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "FreeCAD",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "CutList Optimizer",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lyrion Music Server",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Catch a Bird",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Protectli Vault",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Woodworking for Mere Mortals",
+      "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "SolveSpace",
       "first_reported_at": "2026-10-14T03:17:00.449981+00:00",
       "last_reported_at": "2026-10-14T03:17:00.449981+00:00",
@@ -4259,8 +4313,8 @@
     {
       "name": "Iroh",
       "first_reported_at": "2026-06-15T21:10:59+00:00",
-      "last_reported_at": "2026-06-15T21:10:59+00:00",
-      "times_reported": 1
+      "last_reported_at": "2026-10-16T03:17:15.326300+00:00",
+      "times_reported": 2
     },
     {
       "name": "Ironwail",
