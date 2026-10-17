@@ -1,0 +1,22 @@
+{
+  "evidence": "jiffygist admires Woof's high-frame-rate software rendering and explicitly recommends its SDL3 codebase.",
+  "evidence_sources": [
+    {
+      "author": "jiffygist",
+      "comment_id": "50121977",
+      "comment_url": "https://news.ycombinator.com/item?id=50121977",
+      "excerpt": "I really admire Woof[1] sourceport of DOOM and how it can achieve high fps at modern resolutions using software rendering (Sure, there are still GPU apis at work behind the scenes managing swapchain and all but rendering logic is still software). Also it's worth checking out for anybody who wants to see a good SDL3 codebase.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50117746",
+  "id": "2026-10-17:woof:50117746",
+  "is_repeat": false,
+  "issue_id": "2026-10-17",
+  "item_id": "woof",
+  "rank": 3,
+  "seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "source_story_id": "50117746",
+  "source_story_title": "I love software rendering"
+}

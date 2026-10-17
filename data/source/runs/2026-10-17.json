@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-10-17",
+  "generated_at": "2026-10-17T03:17:01.863418+00:00",
+  "summary": "Nine comment-endorsed discoveries spanning remote access, experimental operating systems, graphics, programming, history and talks.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-17.json",
+    "sha256": "21147bfd3ad3ccb2d1660266e4a269b87fdbb24efd864e574f3d73e2b7a78778",
+    "bytes": 3668692,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6365,
+    "fetched_item_count": 6395,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Sill",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/Saffsanity/sill",
+      "hn_url": "https://news.ycombinator.com/item?id=50112739",
+      "source_story_title": "Any window from your Mac, on your iPhone and iPad",
+      "summary": "Mac window streaming to iPhone or iPad; praised as faster and smoother than VNC.",
+      "why_included": "A first-hand user reports immediate practical benefit rather than merely admiring the launch.",
+      "evidence": "alin23 says Sill already helped twice that day and felt faster and more seamless than VNC.",
+      "evidence_sources": [{"comment_id": "50113416", "comment_url": "https://news.ycombinator.com/item?id=50113416", "author": "alin23", "excerpt": "Brilliant! So much faster and seamless than VNC. Already helped me two times today.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "VitruvianOS",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://v-os.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50111742",
+      "source_story_title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "summary": "Linux-based desktop inspired by BeOS and Haiku; recommended for its lightweight, pleasing interface.",
+      "why_included": "A concrete alternative emerged from a retrocomputing thread with explicit interface praise.",
+      "evidence": "thisislife2 directs readers to the project and praises its low resource use and Be/Haiku-style GUI.",
+      "evidence_sources": [{"comment_id": "50116420", "comment_url": "https://news.ycombinator.com/item?id=50116420", "author": "thisislife2", "excerpt": "Pretty light on resource and the Be / Haiku GUI feels so good.", "kind": "recommendation", "parent_comment_id": "50112489"}]
+    },
+    {
+      "name": "Woof!",
+      "category": "Games & Systems",
+      "thing_url": "https://github.com/fabiangreffrath/woof/",
+      "hn_url": "https://news.ycombinator.com/item?id=50117746",
+      "source_story_title": "I love software rendering",
+      "summary": "Doom source port with fast software rendering; recommended as an SDL3 codebase to study.",
+      "why_included": "The endorsement offers both a playable discovery and a specific source-reading reason.",
+      "evidence": "jiffygist admires Woof's high-frame-rate software rendering and explicitly recommends its SDL3 codebase.",
+      "evidence_sources": [{"comment_id": "50121977", "comment_url": "https://news.ycombinator.com/item?id=50121977", "author": "jiffygist", "excerpt": "I really admire Woof[1] sourceport of DOOM and how it can achieve high fps at modern resolutions using software rendering (Sure, there are still GPU apis at work behind the scenes managing swapchain and all but rendering logic is still software). Also it's worth checking out for anybody who wants to see a good SDL3 codebase.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "9front",
+      "category": "Games & Systems",
+      "thing_url": "https://9front.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50117746",
+      "source_story_title": "I love software rendering",
+      "summary": "Plan 9 fork for systems experiments; a user enjoyed surprisingly fast software-rendered Quake 2.",
+      "why_included": "A detailed first-hand experiment makes an unusual operating-system recommendation tangible.",
+      "evidence": "MisterTea enjoyed software-rendered Quake 2 on a modest ThinkPad and calls the system fun to play with.",
+      "evidence_sources": [{"comment_id": "50119294", "comment_url": "https://news.ycombinator.com/item?id=50119294", "author": "MisterTea", "excerpt": "I recently got to try out Quake 2 on 9front, a Plan 9 fork, which ran surprisingly fast on my very, very modest Thinkpad T410i with a 2.4 GHz dual core i3 at 1440x900. Plan 9 has no GPU support so all rendering is software. Even had a little lan party with other devs. I really enjoyed the software rendering, it bought back early memories of playing Q2 before we bought our Voodoo2.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "AVIF",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://aomediacodec.github.io/av1-avif/",
+      "hn_url": "https://news.ycombinator.com/item?id=50120224",
+      "source_story_title": "JPEG XL vs. AVIF for web use-cases",
+      "summary": "AV1-based image format; a production user enthusiastically endorses it and shares FFmpeg encoding settings.",
+      "why_included": "Clear production-use approval supports inclusion beyond the submitted format comparison.",
+      "evidence": "Metricon calls AVIF fantastic and reports using it in production applications.",
+      "evidence_sources": [{"comment_id": "50122115", "comment_url": "https://news.ycombinator.com/item?id=50122115", "author": "Metricon", "excerpt": "AVIF is fantastic format and I use it in my production applications.", "kind": "recommendation", "context": "production_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Folders",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://danieltemkin.com/esolangs/folders",
+      "hn_url": "https://news.ycombinator.com/item?id=50114342",
+      "source_story_title": "The Folders Programming Language",
+      "summary": "Experimental programming language encoded in directory trees; admired for its gloriously impractical creativity.",
+      "why_included": "Explicit enthusiasm supports a playful programming discovery without pretending it is a practical tool.",
+      "evidence": "nunodonato calls the language nuts and pointless but explicitly says they love it.",
+      "evidence_sources": [{"comment_id": "50115383", "comment_url": "https://news.ycombinator.com/item?id=50115383", "author": "nunodonato", "excerpt": "This is so nuts and pointless... I love it!", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Grain Market in the Roman Empire",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.cambridge.org/core/books/grain-market-in-the-roman-empire/FE14AFD3544C58A1B35DB6AFE913CA2B",
+      "hn_url": "https://news.ycombinator.com/item?id=50084790",
+      "source_story_title": "The Economic Complexity of the Western Roman Empire",
+      "summary": "Paul Erdkamp's study of Roman grain markets; recommended for understanding ancient economies on their own terms.",
+      "why_included": "A specific book recommendation adds substantive historical serendipity to the technical mix.",
+      "evidence": "JumpCrisscross says Erdkamp's book is worth reading and cautions against projecting modern markets onto ancient empires.",
+      "evidence_sources": [{"comment_id": "50122817", "comment_url": "https://news.ycombinator.com/item?id=50122817", "author": "JumpCrisscross", "excerpt": "If this is your vibe, Erdkamp’s The Grain Market in the Roman Empire is worth a read. It’s easy to project modern markets onto ancient empires.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Secret of Psalm 46",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.gdcvault.com/play/1022597/The-Secret-of-Psalm",
+      "hn_url": "https://news.ycombinator.com/item?id=50072119",
+      "source_story_title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "summary": "Brian Moriarty's lecture on hidden meaning and puzzles, featured in The Witness.",
+      "why_included": "A positive recommendation for a specific lecture surfaced inside criticism of a lengthy game challenge.",
+      "evidence": "1una praises the movie while declining to repeat its 56-minute associated challenge, and links its transcript.",
+      "evidence_sources": [{"comment_id": "50115640", "comment_url": "https://news.ycombinator.com/item?id=50115640", "author": "1una", "excerpt": "I realized there was a puzzle about halfway through the movie. But there is no way I'm spending another 56min just to complete the challenge. It's a good movie, though.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50115450"}]
+    },
+    {
+      "name": "93% of Paint Splatters are Valid Perl Programs",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.mcmillen.dev/sigbovik/2019.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50077225",
+      "source_story_title": "Yet another way to invoke functions without parentheses",
+      "summary": "Satirical SIGBOVIK paper testing whether OCR-transcribed paint splatters parse as valid Perl.",
+      "why_included": "An explicitly praised paper delivers a concrete, unusual programming rabbit hole.",
+      "evidence": "marcosdumay calls the linked paper amazing.",
+      "evidence_sources": [{"comment_id": "50120085", "comment_url": "https://news.ycombinator.com/item?id=50120085", "author": "marcosdumay", "excerpt": "There's always this amazing paper:", "kind": "recommendation", "parent_comment_id": "50117107"}]
+    }
+  ]
+}

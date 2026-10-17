@@ -1,0 +1,23 @@
+{
+  "evidence": "alin23 says Sill already helped twice that day and felt faster and more seamless than VNC.",
+  "evidence_sources": [
+    {
+      "author": "alin23",
+      "comment_id": "50113416",
+      "comment_url": "https://news.ycombinator.com/item?id=50113416",
+      "context": "first_hand_use",
+      "excerpt": "Brilliant! So much faster and seamless than VNC. Already helped me two times today.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50112739",
+  "id": "2026-10-17:sill:50112739",
+  "is_repeat": false,
+  "issue_id": "2026-10-17",
+  "item_id": "sill",
+  "rank": 1,
+  "seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "source_story_id": "50112739",
+  "source_story_title": "Any window from your Mac, on your iPhone and iPad"
+}

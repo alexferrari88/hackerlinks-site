@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "id": "9front",
+  "last_seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "latest_mention_id": "2026-10-17:9front:50117746",
+  "mention_ids": [
+    "2026-10-17:9front:50117746"
+  ],
+  "name": "9front",
+  "slug": "9front",
+  "summary": "Plan 9 fork for systems experiments; a user enjoyed surprisingly fast software-rendered Quake 2.",
+  "thing_url": "https://9front.org/",
+  "times_seen": 1,
+  "why_included": "A detailed first-hand experiment makes an unusual operating-system recommendation tangible."
+}

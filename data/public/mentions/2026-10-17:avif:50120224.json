@@ -1,0 +1,23 @@
+{
+  "evidence": "Metricon calls AVIF fantastic and reports using it in production applications.",
+  "evidence_sources": [
+    {
+      "author": "Metricon",
+      "comment_id": "50122115",
+      "comment_url": "https://news.ycombinator.com/item?id=50122115",
+      "context": "production_use",
+      "excerpt": "AVIF is fantastic format and I use it in my production applications.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50120224",
+  "id": "2026-10-17:avif:50120224",
+  "is_repeat": false,
+  "issue_id": "2026-10-17",
+  "item_id": "avif",
+  "rank": 5,
+  "seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "source_story_id": "50120224",
+  "source_story_title": "JPEG XL vs. AVIF for web use-cases"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "id": "93-of-paint-splatters-are-valid-perl-programs",
+  "last_seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "latest_mention_id": "2026-10-17:93-of-paint-splatters-are-valid-perl-programs:50077225",
+  "mention_ids": [
+    "2026-10-17:93-of-paint-splatters-are-valid-perl-programs:50077225"
+  ],
+  "name": "93% of Paint Splatters are Valid Perl Programs",
+  "slug": "93-of-paint-splatters-are-valid-perl-programs",
+  "summary": "Satirical SIGBOVIK paper testing whether OCR-transcribed paint splatters parse as valid Perl.",
+  "thing_url": "https://www.mcmillen.dev/sigbovik/2019.pdf",
+  "times_seen": 1,
+  "why_included": "An explicitly praised paper delivers a concrete, unusual programming rabbit hole."
+}

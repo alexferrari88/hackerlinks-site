@@ -1,0 +1,22 @@
+{
+  "evidence": "marcosdumay calls the linked paper amazing.",
+  "evidence_sources": [
+    {
+      "author": "marcosdumay",
+      "comment_id": "50120085",
+      "comment_url": "https://news.ycombinator.com/item?id=50120085",
+      "excerpt": "There's always this amazing paper:",
+      "kind": "recommendation",
+      "parent_comment_id": "50117107"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50077225",
+  "id": "2026-10-17:93-of-paint-splatters-are-valid-perl-programs:50077225",
+  "is_repeat": false,
+  "issue_id": "2026-10-17",
+  "item_id": "93-of-paint-splatters-are-valid-perl-programs",
+  "rank": 9,
+  "seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "source_story_id": "50077225",
+  "source_story_title": "Yet another way to invoke functions without parentheses"
+}

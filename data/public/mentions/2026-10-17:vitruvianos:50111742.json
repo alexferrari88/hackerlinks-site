@@ -1,0 +1,22 @@
+{
+  "evidence": "thisislife2 directs readers to the project and praises its low resource use and Be/Haiku-style GUI.",
+  "evidence_sources": [
+    {
+      "author": "thisislife2",
+      "comment_id": "50116420",
+      "comment_url": "https://news.ycombinator.com/item?id=50116420",
+      "excerpt": "Pretty light on resource and the Be / Haiku GUI feels so good.",
+      "kind": "recommendation",
+      "parent_comment_id": "50112489"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50111742",
+  "id": "2026-10-17:vitruvianos:50111742",
+  "is_repeat": false,
+  "issue_id": "2026-10-17",
+  "item_id": "vitruvianos",
+  "rank": 2,
+  "seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "source_story_id": "50111742",
+  "source_story_title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox"
+}

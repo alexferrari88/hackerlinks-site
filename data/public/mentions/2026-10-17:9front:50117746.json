@@ -1,0 +1,23 @@
+{
+  "evidence": "MisterTea enjoyed software-rendered Quake 2 on a modest ThinkPad and calls the system fun to play with.",
+  "evidence_sources": [
+    {
+      "author": "MisterTea",
+      "comment_id": "50119294",
+      "comment_url": "https://news.ycombinator.com/item?id=50119294",
+      "context": "first_hand_use",
+      "excerpt": "I recently got to try out Quake 2 on 9front, a Plan 9 fork, which ran surprisingly fast on my very, very modest Thinkpad T410i with a 2.4 GHz dual core i3 at 1440x900. Plan 9 has no GPU support so all rendering is software. Even had a little lan party with other devs. I really enjoyed the software rendering, it bought back early memories of playing Q2 before we bought our Voodoo2.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50117746",
+  "id": "2026-10-17:9front:50117746",
+  "is_repeat": false,
+  "issue_id": "2026-10-17",
+  "item_id": "9front",
+  "rank": 4,
+  "seen_at": "2026-10-17T03:17:01.863418+00:00",
+  "source_story_id": "50117746",
+  "source_story_title": "I love software rendering"
+}

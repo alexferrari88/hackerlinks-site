@@ -2,6 +2,15 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "Sill", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "VitruvianOS", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "Woof!", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "9front", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "AVIF", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "Folders", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "The Grain Market in the Roman Empire", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "The Secret of Psalm 46", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {"name": "93% of Paint Splatters are Valid Perl Programs", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
     {
       "name": "mash-playbook",
       "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
