@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says MapQuest works well in CarPlay and welcomes the ability to avoid Flock cameras.",
+  "evidence_sources": [
+    {
+      "author": "emig647",
+      "comment_id": "50131444",
+      "comment_url": "https://news.ycombinator.com/item?id=50131444",
+      "context": "first_hand_use",
+      "excerpt": "It has been working great in CarPlay. My wife loved the unicorn. I get to avoid (or hunt) Flock cameras. Everyone wins.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50129947",
+  "id": "2026-10-18:mapquest:50129947",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "mapquest",
+  "rank": 5,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50129947",
+  "source_story_title": "MapQuest will now show you where Flock cameras are in your neighborhood"
+}

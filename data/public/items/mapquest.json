@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "mapquest",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:mapquest:50129947",
+  "mention_ids": [
+    "2026-10-18:mapquest:50129947"
+  ],
+  "name": "MapQuest",
+  "slug": "mapquest",
+  "summary": "Mapping and navigation app; a CarPlay user praises performance and Flock-camera avoidance.",
+  "thing_url": "https://www.mapquest.com/",
+  "times_seen": 1,
+  "why_included": "An existing user's approval makes this more than a feature-announcement mention."
+}

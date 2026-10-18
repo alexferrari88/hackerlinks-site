@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "esp32sim",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:esp32sim:50131189",
+  "mention_ids": [
+    "2026-10-18:esp32sim:50131189"
+  ],
+  "name": "Esp32sim",
+  "slug": "esp32sim",
+  "summary": "Browser-based ESP32 firmware simulator; praised for potential hardware-free development and CI testing.",
+  "thing_url": "https://github.com/mikroverk/esp32sim",
+  "times_seen": 1,
+  "why_included": "Independent praise connects the simulator to a concrete firmware-development use case."
+}

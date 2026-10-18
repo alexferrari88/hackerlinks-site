@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises the project and sees potential for running real firmware for application developers and CI runners.",
+  "evidence_sources": [
+    {
+      "author": "raminf",
+      "comment_id": "50133189",
+      "comment_url": "https://news.ycombinator.com/item?id=50133189",
+      "excerpt": "Where I can see this coming handy is instead of a \"functional simulator\" to actually have real firmware running for each mobile or back-end dev and CI/CD runner.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50131189",
+  "id": "2026-10-18:esp32sim:50131189",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "esp32sim",
+  "rank": 1,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50131189",
+  "source_story_title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends Samuel Butler's Erewhon and calls it interesting in the present moment.",
+  "evidence_sources": [
+    {
+      "author": "SarikayaKomzin",
+      "comment_id": "50132792",
+      "comment_url": "https://news.ycombinator.com/item?id=50132792",
+      "excerpt": "I highly recommend Erewhon by Samuel Butler. The author is the namesake for Butlerian Jihad. Interesting book in our times.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50127274",
+  "id": "2026-10-18:erewhon:50127274",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "erewhon",
+  "rank": 7,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50127274",
+  "source_story_title": "Butlerian Jihad"
+}

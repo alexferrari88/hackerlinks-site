@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Tim O'Reilly's chapter the best treatment of AI in the Dune universe they have found.",
+  "evidence_sources": [
+    {
+      "author": "twowaway",
+      "comment_id": "50129088",
+      "comment_url": "https://news.ycombinator.com/item?id=50129088",
+      "excerpt": "The best treatment of AI in the Dune universe I ever found, by far, is by Timothy O'Reilly (yes, that O'Reilly):",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50127274",
+  "id": "2026-10-18:transcending-the-human:50127274",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "transcending-the-human",
+  "rank": 8,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50127274",
+  "source_story_title": "Butlerian Jihad"
+}

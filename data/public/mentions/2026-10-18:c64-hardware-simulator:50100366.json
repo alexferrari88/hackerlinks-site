@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the simulator fantastic and suggests it could help diagnose and repair C64 boards.",
+  "evidence_sources": [
+    {
+      "author": "linker3000",
+      "comment_id": "50134087",
+      "comment_url": "https://news.ycombinator.com/item?id=50134087",
+      "excerpt": "This is really cool, and a fantastic piece of work. It may come in handy when diagnosing / fixing C64 boards.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50100366",
+  "id": "2026-10-18:c64-hardware-simulator:50100366",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "c64-hardware-simulator",
+  "rank": 4,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50100366",
+  "source_story_title": "The Commodore 64 hardware simulator: break chips and pins, see the results"
+}

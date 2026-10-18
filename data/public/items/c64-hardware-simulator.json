@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "c64-hardware-simulator",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:c64-hardware-simulator:50100366",
+  "mention_ids": [
+    "2026-10-18:c64-hardware-simulator:50100366"
+  ],
+  "name": "C64 Hardware Simulator",
+  "slug": "c64-hardware-simulator",
+  "summary": "Commodore 64 hardware simulator for exploring chip failures; praised as a potential repair aid.",
+  "thing_url": "https://github.com/antirez/c64-hw-simulator",
+  "times_seen": 1,
+  "why_included": "A board-repair commenter gives specific praise beyond generic retrocomputing nostalgia."
+}

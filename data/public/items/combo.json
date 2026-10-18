@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "combo",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:combo:50088767",
+  "mention_ids": [
+    "2026-10-18:combo:50088767"
+  ],
+  "name": "COMBO",
+  "slug": "combo",
+  "summary": "0\u20131 knapsack solver recommended for medium-to-large optimization problems; implementation and references included.",
+  "thing_url": "https://hjemmesider.diku.dk/~pisinger/codes.html",
+  "times_seen": 1,
+  "why_included": "A specific algorithm recommendation offers an actionable alternative to the submitted implementation."
+}

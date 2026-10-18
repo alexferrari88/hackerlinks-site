@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "erewhon",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:erewhon:50127274",
+  "mention_ids": [
+    "2026-10-18:erewhon:50127274"
+  ],
+  "name": "Erewhon",
+  "slug": "erewhon",
+  "summary": "Samuel Butler's satirical novel about an inverted society and machine intelligence; free to read.",
+  "thing_url": "https://www.gutenberg.org/ebooks/1906",
+  "times_seen": 1,
+  "why_included": "An explicit book recommendation adds historical perspective to the thread's AI discussion."
+}

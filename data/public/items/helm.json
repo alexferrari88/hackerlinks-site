@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "helm",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:helm:50127572",
+  "mention_ids": [
+    "2026-10-18:helm:50127572"
+  ],
+  "name": "Helm",
+  "slug": "helm",
+  "summary": "Kubernetes package manager; a production user recommends simple charts, not sprawling template hierarchies.",
+  "thing_url": "https://helm.sh/",
+  "times_seen": 1,
+  "why_included": "First-hand workplace approval comes with a concrete boundary on chart complexity."
+}

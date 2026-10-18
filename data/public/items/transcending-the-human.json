@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "id": "transcending-the-human",
+  "last_seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "latest_mention_id": "2026-10-18:transcending-the-human:50127274",
+  "mention_ids": [
+    "2026-10-18:transcending-the-human:50127274"
+  ],
+  "name": "Transcending the Human",
+  "slug": "transcending-the-human",
+  "summary": "Tim O'Reilly's Frank Herbert chapter; strongly recommended for its treatment of AI in Dune.",
+  "thing_url": "https://www.oreilly.com/tim/herbert/ch08.html",
+  "times_seen": 1,
+  "why_included": "A concrete chapter receives unusually strong, specific praise in the comments."
+}

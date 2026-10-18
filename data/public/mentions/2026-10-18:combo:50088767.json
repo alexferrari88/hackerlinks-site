@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends COMBO for practical knapsack solving and expects substantial speed gains on medium-to-large instances.",
+  "evidence_sources": [
+    {
+      "author": "7scan",
+      "comment_id": "50131033",
+      "comment_url": "https://news.ycombinator.com/item?id=50131033",
+      "excerpt": "In practice one should almost always use the \"combo\" algorithm to solve 0-1 knapsack problems. It will likely be orders of magnitude faster than any of these approaches (for medium-large instances, at least).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50088767",
+  "id": "2026-10-18:combo:50088767",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "combo",
+  "rank": 2,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50088767",
+  "source_story_title": "0/1 Knapsack Problem in PyTorch"
+}

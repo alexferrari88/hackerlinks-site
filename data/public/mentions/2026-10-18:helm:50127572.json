@@ -1,0 +1,31 @@
+{
+  "evidence": "One workplace user praises mostly hard-coded Helm charts; a reply prefers Kustomize patches for small environment differences.",
+  "evidence_sources": [
+    {
+      "author": "bigstrat2003",
+      "comment_id": "50135870",
+      "comment_url": "https://news.ycombinator.com/item?id=50135870",
+      "context": "production_use",
+      "excerpt": "Helm is a great tool, but you absolutely must keep it simple. We use Helm at work, and our charts are 95% hard-coded YAML templates, with an occasional sprinkling of a Helm variable for values which differ between dev/test/prod.",
+      "kind": "recommendation",
+      "parent_comment_id": "50134693"
+    },
+    {
+      "author": "baby_souffle",
+      "comment_id": "50136132",
+      "comment_url": "https://news.ycombinator.com/item?id=50136132",
+      "excerpt": "If you have \"base, and then we change three things per environment\", Kustomize is about as good as it gets using simple patches.",
+      "kind": "comparison",
+      "parent_comment_id": "50135870"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50127572",
+  "id": "2026-10-18:helm:50127572",
+  "is_repeat": false,
+  "issue_id": "2026-10-18",
+  "item_id": "helm",
+  "rank": 3,
+  "seen_at": "2026-10-18T03:16:28.015131+00:00",
+  "source_story_id": "50127572",
+  "source_story_title": "A skeptic's first contact with Kubernetes (2024)"
+}
