@@ -1,0 +1,23 @@
+{
+  "evidence": "huck0 loves the project and finds it relaxing to listen to in the background.",
+  "evidence_sources": [
+    {
+      "author": "huck0",
+      "comment_id": "50134964",
+      "comment_url": "https://news.ycombinator.com/item?id=50134964",
+      "context": "first_hand_use",
+      "excerpt": "Really love this. Very relaxing to listen to this in the background.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50131006",
+  "id": "2026-10-19:duck-pond:50131006",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "duck-pond",
+  "rank": 7,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50131006",
+  "source_story_title": "Show HN: High-quality duck audio synthesizer"
+}

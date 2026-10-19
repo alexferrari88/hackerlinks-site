@@ -1,0 +1,23 @@
+{
+  "evidence": "petcat reports extensive Lua use through mlua and calls the library excellent and full-featured.",
+  "evidence_sources": [
+    {
+      "author": "petcat",
+      "comment_id": "50140528",
+      "comment_url": "https://news.ycombinator.com/item?id=50140528",
+      "context": "first_hand_use",
+      "excerpt": "I've used Lua extensively with Rust via the mlua library and it's excellent and full-featured.",
+      "kind": "recommendation",
+      "parent_comment_id": "50140439"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50124730",
+  "id": "2026-10-19:mlua:50124730",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "mlua",
+  "rank": 3,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50124730",
+  "source_story_title": "Teal \u2013 A statically-typed dialect of Lua"
+}

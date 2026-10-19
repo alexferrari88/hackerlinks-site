@@ -1,0 +1,23 @@
+{
+  "evidence": "TacticalCoder bought a used A1 and confirms the download-and-print experience, while qualifying praise of Bambu's practices.",
+  "evidence_sources": [
+    {
+      "author": "TacticalCoder",
+      "comment_id": "50146586",
+      "comment_url": "https://news.ycombinator.com/item?id=50146586",
+      "context": "first_hand_use",
+      "excerpt": "I bought a cheap, used, Bambu Lab A1 printer after reading a comment here on HN a few months ago saying that it was basically now \"download and print\". And it's just that. Not saying Bambu's practices are great: what I'm saying is that 3D printer now work better than inkjet 2D printers ever did.",
+      "kind": "recommendation",
+      "parent_comment_id": "50143355"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50141076",
+  "id": "2026-10-19:bambu-lab-a1:50141076",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "bambu-lab-a1",
+  "rank": 5,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50141076",
+  "source_story_title": "RepRapMicron"
+}

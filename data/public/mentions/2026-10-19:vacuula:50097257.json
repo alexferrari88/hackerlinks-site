@@ -1,0 +1,30 @@
+{
+  "evidence": "BitBangingBytes calls the project awesome; hypfer flags the Gen3 nip.io dependency and its documentation visibility.",
+  "evidence_sources": [
+    {
+      "author": "BitBangingBytes",
+      "comment_id": "50136943",
+      "comment_url": "https://news.ycombinator.com/item?id=50136943",
+      "excerpt": "This is awesome!! I remember reverse engineering the Neato LIDAR long ago. It\u2019s come a long way since then.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "hypfer",
+      "comment_id": "50139849",
+      "comment_url": "https://news.ycombinator.com/item?id=50139849",
+      "excerpt": "Generation 3 robots (after being bitten by vacuula) currently use nip.io to help connect to your server, this is a limitation of the models we haven't managed to work around cleanly yet. That permanent cloud dependency should probably be on the main readme",
+      "kind": "caveat",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50097257",
+  "id": "2026-10-19:vacuula:50097257",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "vacuula",
+  "rank": 6,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50097257",
+  "source_story_title": "Custom server to revive neato bots"
+}

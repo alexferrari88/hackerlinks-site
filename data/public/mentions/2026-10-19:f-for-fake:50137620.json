@@ -1,0 +1,22 @@
+{
+  "evidence": "keiferski calls F for Fake amazing and explicitly highly recommends it.",
+  "evidence_sources": [
+    {
+      "author": "keiferski",
+      "comment_id": "50141538",
+      "comment_url": "https://news.ycombinator.com/item?id=50141538",
+      "excerpt": "I haven\u2019t seen the Holmes movie, but this article reminded me of Orson Welles\u2019 F for Fake. An amazing movie that plays with some similar ideas in a pseudo-documentary format.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50137620",
+  "id": "2026-10-19:f-for-fake:50137620",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "f-for-fake",
+  "rank": 8,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50137620",
+  "source_story_title": "The Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving"
+}

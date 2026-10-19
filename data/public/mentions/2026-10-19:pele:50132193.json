@@ -1,0 +1,23 @@
+{
+  "evidence": "bilibali replaced Mermaid.js in a static-site build and preferred Pele's layouts despite layout differences.",
+  "evidence_sources": [
+    {
+      "author": "bilibali",
+      "comment_id": "50141905",
+      "comment_url": "https://news.ycombinator.com/item?id=50141905",
+      "context": "first_hand_use",
+      "excerpt": "This seemed like a perfect fit for my use case and I already swapped it in. I noticed that the layouts were not 1 to 1, but to my pleasant surprise I actually liked the ones Pele renders better than mermaidjs.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50132193",
+  "id": "2026-10-19:pele:50132193",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "pele",
+  "rank": 1,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50132193",
+  "source_story_title": "Pele \u2013 Mermaid diagrams as themeable SVG"
+}

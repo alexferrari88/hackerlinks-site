@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "id": "mlua",
+  "last_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "latest_mention_id": "2026-10-19:mlua:50124730",
+  "mention_ids": [
+    "2026-10-19:mlua:50124730"
+  ],
+  "name": "mlua",
+  "slug": "mlua",
+  "summary": "Lua bindings for Rust, praised as excellent and full-featured after extensive use.",
+  "thing_url": "https://github.com/mlua-rs/mlua",
+  "times_seen": 1,
+  "why_included": "Strong first-hand endorsement of a practical embedded-scripting library."
+}

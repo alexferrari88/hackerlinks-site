@@ -1,0 +1,23 @@
+{
+  "evidence": "brie22 describes Joker.com as a solid registrar after approximately 25 years of use.",
+  "evidence_sources": [
+    {
+      "author": "brie22",
+      "comment_id": "50145440",
+      "comment_url": "https://news.ycombinator.com/item?id=50145440",
+      "context": "first_hand_use",
+      "excerpt": "I've been using joker.com for ~25 years - solid registrar.",
+      "kind": "recommendation",
+      "parent_comment_id": "50143695"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50142866",
+  "id": "2026-10-19:joker-com:50142866",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "joker-com",
+  "rank": 4,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50142866",
+  "source_story_title": "Namecheap just seized and disabled all my domains"
+}

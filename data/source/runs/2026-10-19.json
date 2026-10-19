@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "run_date": "2026-10-19",
+  "generated_at": "2026-10-19T03:16:22.047556+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning diagramming, embedded scripting, hardware, ambient audio, and thoughtful media.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-19.json",
+    "sha256": "89271f4cbc01e125779746610046711e0472697e738a2f56c52d11639244d3f9",
+    "bytes": 2172352,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3478,
+    "fetched_item_count": 3508,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Pele",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pele.run/",
+      "hn_url": "https://news.ycombinator.com/item?id=50132193",
+      "source_story_title": "Pele – Mermaid diagrams as themeable SVG",
+      "summary": "Mermaid-to-SVG renderer; a static-site user preferred its layouts after switching.",
+      "why_included": "A concrete migration report supports the recommendation beyond launch-day enthusiasm.",
+      "evidence": "bilibali replaced Mermaid.js in a static-site build and preferred Pele's layouts despite layout differences.",
+      "evidence_sources": [{"comment_id": "50141905", "comment_url": "https://news.ycombinator.com/item?id=50141905", "author": "bilibali", "excerpt": "This seemed like a perfect fit for my use case and I already swapped it in. I noticed that the layouts were not 1 to 1, but to my pleasant surprise I actually liked the ones Pele renders better than mermaidjs.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "D2",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://d2lang.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50132193",
+      "source_story_title": "Pele – Mermaid diagrams as themeable SVG",
+      "summary": "Text-to-diagram language; a Mermaid switcher praised its easier syntax.",
+      "why_included": "A named alternative with a specific first-hand reason for switching.",
+      "evidence": "burgeonlab switched to D2Lang for easier syntax and dissatisfaction with Mermaid's AI push.",
+      "evidence_sources": [{"comment_id": "50141285", "comment_url": "https://news.ycombinator.com/item?id=50141285", "author": "burgeonlab", "excerpt": "I've switched to D2Lang for its easier syntax and the fact Mermaid is hard pushing AI.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "mlua",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/mlua-rs/mlua",
+      "hn_url": "https://news.ycombinator.com/item?id=50124730",
+      "source_story_title": "Teal – A statically-typed dialect of Lua",
+      "summary": "Lua bindings for Rust, praised as excellent and full-featured after extensive use.",
+      "why_included": "Strong first-hand endorsement of a practical embedded-scripting library.",
+      "evidence": "petcat reports extensive Lua use through mlua and calls the library excellent and full-featured.",
+      "evidence_sources": [{"comment_id": "50140528", "comment_url": "https://news.ycombinator.com/item?id=50140528", "author": "petcat", "excerpt": "I've used Lua extensively with Rust via the mlua library and it's excellent and full-featured.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50140439"}]
+    },
+    {
+      "name": "Joker.com",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://joker.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50142866",
+      "source_story_title": "Namecheap just seized and disabled all my domains",
+      "summary": "Domain registrar endorsed by a customer reporting roughly 25 years of use.",
+      "why_included": "A long-term customer endorsement surfaced in a registrar-failure discussion.",
+      "evidence": "brie22 describes Joker.com as a solid registrar after approximately 25 years of use.",
+      "evidence_sources": [{"comment_id": "50145440", "comment_url": "https://news.ycombinator.com/item?id=50145440", "author": "brie22", "excerpt": "I've been using joker.com for ~25 years - solid registrar.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50143695"}]
+    },
+    {
+      "name": "Bambu Lab A1",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://bambulab.com/en/a1",
+      "hn_url": "https://news.ycombinator.com/item?id=50141076",
+      "source_story_title": "RepRapMicron",
+      "summary": "Desktop 3D printer; a used-unit owner describes a download-and-print experience.",
+      "why_included": "An owner reports practical printing success rather than hypothetical hardware potential.",
+      "evidence": "TacticalCoder bought a used A1 and confirms the download-and-print experience, while qualifying praise of Bambu's practices.",
+      "evidence_sources": [{"comment_id": "50146586", "comment_url": "https://news.ycombinator.com/item?id=50146586", "author": "TacticalCoder", "excerpt": "I bought a cheap, used, Bambu Lab A1 printer after reading a comment here on HN a few months ago saying that it was basically now \"download and print\". And it's just that. Not saying Bambu's practices are great: what I'm saying is that 3D printer now work better than inkjet 2D printers ever did.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50143355"}]
+    },
+    {
+      "name": "Vacuula",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/vacuula/vacuula",
+      "hn_url": "https://news.ycombinator.com/item?id=50097257",
+      "source_story_title": "Custom server to revive neato bots",
+      "summary": "Replacement server for Neato robot vacuums; Gen3 connectivity retains a nip.io dependency.",
+      "why_included": "A repair-oriented project earns independent praise, with a concrete connectivity caveat.",
+      "evidence": "BitBangingBytes calls the project awesome; hypfer flags the Gen3 nip.io dependency and its documentation visibility.",
+      "evidence_sources": [
+        {"comment_id": "50136943", "comment_url": "https://news.ycombinator.com/item?id=50136943", "author": "BitBangingBytes", "excerpt": "This is awesome!! I remember reverse engineering the Neato LIDAR long ago. It’s come a long way since then.", "kind": "recommendation", "parent_comment_id": null},
+        {"comment_id": "50139849", "comment_url": "https://news.ycombinator.com/item?id=50139849", "author": "hypfer", "excerpt": "Generation 3 robots (after being bitten by vacuula) currently use nip.io to help connect to your server, this is a limitation of the models we haven't managed to work around cleanly yet. That permanent cloud dependency should probably be on the main readme", "kind": "caveat", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Duck Pond",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://celphase.github.io/duck-pond/",
+      "hn_url": "https://news.ycombinator.com/item?id=50131006",
+      "source_story_title": "Show HN: High-quality duck audio synthesizer",
+      "summary": "Browser duck-pond audio synthesizer, praised as relaxing background listening.",
+      "why_included": "A playful discovery with direct praise tied to actual listening.",
+      "evidence": "huck0 loves the project and finds it relaxing to listen to in the background.",
+      "evidence_sources": [{"comment_id": "50134964", "comment_url": "https://news.ycombinator.com/item?id=50134964", "author": "huck0", "excerpt": "Really love this. Very relaxing to listen to this in the background.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "F for Fake",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.criterion.com/films/908-f-for-fake",
+      "hn_url": "https://news.ycombinator.com/item?id=50137620",
+      "source_story_title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "summary": "Orson Welles’ playful pseudo-documentary exploring deception, art, and the limits of truth.",
+      "why_included": "An explicit film recommendation emerges naturally from a debate about documentary deception.",
+      "evidence": "keiferski calls F for Fake amazing and explicitly highly recommends it.",
+      "evidence_sources": [{"comment_id": "50141538", "comment_url": "https://news.ycombinator.com/item?id=50141538", "author": "keiferski", "excerpt": "I haven’t seen the Holmes movie, but this article reminded me of Orson Welles’ F for Fake. An amazing movie that plays with some similar ideas in a pseudo-documentary format.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "On Self-Delusion and Bounded Rationality",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.scottaaronson.com/writings/selfdelusion.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50137620",
+      "source_story_title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "summary": "Scott Aaronson’s essay on self-delusion and bounded rationality, explicitly recommended in the discussion.",
+      "why_included": "A concrete reading recommendation broadens the documentary discussion into a thinking tool.",
+      "evidence": "bananaflag explicitly recommends Scott Aaronson's essay by its full title.",
+      "evidence_sources": [{"comment_id": "50142935", "comment_url": "https://news.ycombinator.com/item?id=50142935", "author": "bananaflag", "excerpt": "I also recommend Scott Aaronson's \"On Self-Delusion and Bounded Rationality\"", "kind": "recommendation", "parent_comment_id": "50141699"}]
+    },
+    {
+      "name": "Brian David Gilbert’s Zelda Timeline",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=Q-25c8Rsobw",
+      "hn_url": "https://news.ycombinator.com/item?id=50140769",
+      "source_story_title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "summary": "Brian David Gilbert’s video attempt to explain the tangled Zelda timeline.",
+      "why_included": "A commenter explicitly prefers this named video explanation over the submitted timeline site.",
+      "evidence": "prophesi praises the submitted site but prefers Brian David Gilbert's attempt at explaining the Zelda timeline.",
+      "evidence_sources": [{"comment_id": "50144866", "comment_url": "https://news.ycombinator.com/item?id=50144866", "author": "prophesi", "excerpt": "Love the site, though I'll always prefer this attempt at explaining the Zelda timeline by Brian David Gilbert", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

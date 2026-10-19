@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "id": "bambu-lab-a1",
+  "last_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "latest_mention_id": "2026-10-19:bambu-lab-a1:50141076",
+  "mention_ids": [
+    "2026-10-19:bambu-lab-a1:50141076"
+  ],
+  "name": "Bambu Lab A1",
+  "slug": "bambu-lab-a1",
+  "summary": "Desktop 3D printer; a used-unit owner describes a download-and-print experience.",
+  "thing_url": "https://bambulab.com/en/a1",
+  "times_seen": 1,
+  "why_included": "An owner reports practical printing success rather than hypothetical hardware potential."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "id": "vacuula",
+  "last_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "latest_mention_id": "2026-10-19:vacuula:50097257",
+  "mention_ids": [
+    "2026-10-19:vacuula:50097257"
+  ],
+  "name": "Vacuula",
+  "slug": "vacuula",
+  "summary": "Replacement server for Neato robot vacuums; Gen3 connectivity retains a nip.io dependency.",
+  "thing_url": "https://github.com/vacuula/vacuula",
+  "times_seen": 1,
+  "why_included": "A repair-oriented project earns independent praise, with a concrete connectivity caveat."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "bananaflag explicitly recommends Scott Aaronson's essay by its full title.",
+  "evidence_sources": [
+    {
+      "author": "bananaflag",
+      "comment_id": "50142935",
+      "comment_url": "https://news.ycombinator.com/item?id=50142935",
+      "excerpt": "I also recommend Scott Aaronson's \"On Self-Delusion and Bounded Rationality\"",
+      "kind": "recommendation",
+      "parent_comment_id": "50141699"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50137620",
+  "id": "2026-10-19:on-self-delusion-and-bounded-rationality:50137620",
+  "is_repeat": false,
+  "issue_id": "2026-10-19",
+  "item_id": "on-self-delusion-and-bounded-rationality",
+  "rank": 9,
+  "seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "source_story_id": "50137620",
+  "source_story_title": "The Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving"
+}

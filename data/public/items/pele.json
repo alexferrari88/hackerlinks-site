@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "id": "pele",
+  "last_seen_at": "2026-10-19T03:16:22.047556+00:00",
+  "latest_mention_id": "2026-10-19:pele:50132193",
+  "mention_ids": [
+    "2026-10-19:pele:50132193"
+  ],
+  "name": "Pele",
+  "slug": "pele",
+  "summary": "Mermaid-to-SVG renderer; a static-site user preferred its layouts after switching.",
+  "thing_url": "https://pele.run/",
+  "times_seen": 1,
+  "why_included": "A concrete migration report supports the recommendation beyond launch-day enthusiasm."
+}
