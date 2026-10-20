@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter used moteus controllers in a two-axis RF satellite-tracking gimbal and praises their quality and the lead developer's help.",
+  "evidence_sources": [
+    {
+      "author": "jcims",
+      "comment_id": "50157318",
+      "comment_url": "https://news.ycombinator.com/item?id=50157318",
+      "context": "first_hand_use",
+      "excerpt": "Side note, I used those same moteus controllers for a decidedly less energetic use case (two axis gimbal for RF satellite tracking) and found them to be super high quality and the lead developer always super helpful.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50150089",
+  "id": "2026-10-20:moteus:50150089",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "moteus",
+  "rank": 6,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50150089",
+  "source_story_title": "I built a drone with only one motor [video]"
+}

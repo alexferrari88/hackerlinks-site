@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-04-21T21:17:50Z",
   "id": "gomodel",
-  "last_seen_at": "2026-04-21T21:17:50Z",
-  "latest_mention_id": "2026-04-21:gomodel:47849097",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:gomodel:50145507",
   "mention_ids": [
-    "2026-04-21:gomodel:47849097"
+    "2026-04-21:gomodel:47849097",
+    "2026-10-20:gomodel:50145507"
   ],
   "name": "GoModel",
   "slug": "gomodel",
-  "summary": "An open-source Go AI gateway for model routing, usage tracking, and caching.",
-  "thing_url": "https://github.com/ENTERPILOT/GOModel/",
-  "times_seen": 1,
-  "why_included": "HN saw it as a compact alternative amid LiteLLM supply-chain worries."
+  "summary": "Self-hosted LLM gateway with request labels, dashboards, and detailed agent-interaction history.",
+  "thing_url": "https://github.com/ENTERPILOT/GOModel",
+  "times_seen": 2,
+  "why_included": "Strong first-hand home use plus a workplace rollout justify resurfacing beyond the 90-day cooldown."
 }

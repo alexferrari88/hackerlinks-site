@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator says the reusable guardrail skills have worked well across several game projects; they distinguish regression confidence from code quality or choosing the right change.",
+  "evidence_sources": [
+    {
+      "author": "onion2k",
+      "comment_id": "50157756",
+      "comment_url": "https://news.ycombinator.com/item?id=50157756",
+      "context": "author_or_maintainer",
+      "excerpt": "It might be the wrong change, and it might be crap code, but I can ship it without anything blowing up. I've been using it for a while across a few game projects and so far it's worked quite well.",
+      "kind": "recommendation",
+      "parent_comment_id": "50156740"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50151036",
+  "id": "2026-10-20:onion2k-guardrails:50151036",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "onion2k-guardrails",
+  "rank": 4,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50151036",
+  "source_story_title": "Ask HN: How to deal with shipping AI-written code you don't understand?"
+}

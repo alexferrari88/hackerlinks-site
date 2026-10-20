@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says they loved Human Resource Machine while finding 7 Billion Humans repetitive.",
+  "evidence_sources": [
+    {
+      "author": "xiaodai",
+      "comment_id": "50159075",
+      "comment_url": "https://news.ycombinator.com/item?id=50159075",
+      "context": "first_hand_use",
+      "excerpt": "I mean, I loved Human Resource Machine but not so much 7 billion humans (as the programming got repetitive).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50134472",
+  "id": "2026-10-20:human-resource-machine:50134472",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "human-resource-machine",
+  "rank": 7,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50134472",
+  "source_story_title": "It's still ok to enjoy programming"
+}

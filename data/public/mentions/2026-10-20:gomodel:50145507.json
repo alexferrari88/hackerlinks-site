@@ -1,0 +1,23 @@
+{
+  "evidence": "A home user praises virtual models, arbitrary request labels, and dashboards, and says their workplace is rolling out the free version.",
+  "evidence_sources": [
+    {
+      "author": "verdverm",
+      "comment_id": "50147194",
+      "comment_url": "https://news.ycombinator.com/item?id=50147194",
+      "context": "first_hand_use",
+      "excerpt": "I use GoModel and its amazing. My favorite features are virtual model, the support for arbitrary request labels, and the nice dashboads / ui.",
+      "kind": "recommendation",
+      "parent_comment_id": "50147121"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50145507",
+  "id": "2026-10-20:gomodel:50145507",
+  "is_repeat": true,
+  "issue_id": "2026-10-20",
+  "item_id": "gomodel",
+  "rank": 1,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50145507",
+  "source_story_title": "If you don't run your own LLM proxy, how do you know whats going on?"
+}

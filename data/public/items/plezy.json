@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-20T03:17:37Z",
+  "id": "plezy",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:plezy:50152321",
+  "mention_ids": [
+    "2026-10-20:plezy:50152321"
+  ],
+  "name": "Plezy",
+  "slug": "plezy",
+  "summary": "Open-source Plex client praised as a UI replacement; one user reports a wake-navigation bug.",
+  "thing_url": "https://plezy.app/",
+  "times_seen": 1,
+  "why_included": "First-hand approval and a useful concrete caveat, with the product spelling resolved from a reply."
+}

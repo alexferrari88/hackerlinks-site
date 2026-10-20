@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "run_date": "2026-10-20",
+  "generated_at": "2026-10-20T03:17:37Z",
+  "summary": "Nine comment-endorsed finds spanning agent tools, media, motor control, games, robotics, and history.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 past-front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-20.json",
+    "sha256": "4b278acc182abf760c1e119d2970a33da711a72df064789da08514db2cf65e0a",
+    "bytes": 3082919,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4825,
+    "fetched_item_count": 4855,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "GoModel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/ENTERPILOT/GOModel",
+      "hn_url": "https://news.ycombinator.com/item?id=50145507",
+      "source_story_title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "summary": "Self-hosted LLM gateway with request labels, dashboards, and detailed agent-interaction history.",
+      "why_included": "Strong first-hand home use plus a workplace rollout justify resurfacing beyond the 90-day cooldown.",
+      "evidence": "A home user praises virtual models, arbitrary request labels, and dashboards, and says their workplace is rolling out the free version.",
+      "evidence_sources": [
+        {"comment_id": "50147194", "comment_url": "https://news.ycombinator.com/item?id=50147194", "author": "verdverm", "excerpt": "I use GoModel and its amazing. My favorite features are virtual model, the support for arbitrary request labels, and the nice dashboads / ui.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50147121"}
+      ]
+    },
+    {
+      "name": "TermRover",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://termrover.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=50148855",
+      "source_story_title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "summary": "Mobile SSH and Mosh terminal built around comfortable tmux session control.",
+      "why_included": "A direct recommendation from a commenter describing their remote agent setup.",
+      "evidence": "A commenter calls TermRover a pretty good SSH client for tmux.",
+      "evidence_sources": [
+        {"comment_id": "50150418", "comment_url": "https://news.ycombinator.com/item?id=50150418", "author": "petesergeant", "excerpt": "TermRover[1] is a pretty good SSH client for tmux.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Happier",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://happier.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50148855",
+      "source_story_title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "summary": "Web and mobile front end for coding-agent sessions, praised for seamless Claude Code handover.",
+      "why_included": "Positive first-hand use identifies a concrete way to move between terminal and mobile sessions.",
+      "evidence": "A user describes Happier's web and iOS access and says handover with real Claude Code is seamless.",
+      "evidence_sources": [
+        {"comment_id": "50150418", "comment_url": "https://news.ycombinator.com/item?id=50150418", "author": "petesergeant", "excerpt": "For a more native integration I have started using Happier[2] which provides a web front-end and iOS app for my sessions too (unified with real Claude Code, so handover is seamless)", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "onion2k/guardrails",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/onion2k/guardrails",
+      "hn_url": "https://news.ycombinator.com/item?id=50151036",
+      "source_story_title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "summary": "Reusable testing skills for AI-generated code; its creator reports success across game projects.",
+      "why_included": "A concrete repository with positive reported use, explicitly identified as creator evidence rather than independent validation.",
+      "evidence": "The creator says the reusable guardrail skills have worked well across several game projects; they distinguish regression confidence from code quality or choosing the right change.",
+      "evidence_sources": [
+        {"comment_id": "50157756", "comment_url": "https://news.ycombinator.com/item?id=50157756", "author": "onion2k", "excerpt": "It might be the wrong change, and it might be crap code, but I can ship it without anything blowing up. I've been using it for a while across a few game projects and so far it's worked quite well.", "kind": "recommendation", "context": "author_or_maintainer", "parent_comment_id": "50156740"}
+      ]
+    },
+    {
+      "name": "Plezy",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://plezy.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50152321",
+      "source_story_title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "summary": "Open-source Plex client praised as a UI replacement; one user reports a wake-navigation bug.",
+      "why_included": "First-hand approval and a useful concrete caveat, with the product spelling resolved from a reply.",
+      "evidence": "A user likes Plezy as an open-source Plex UI alternative but must press back after wake; a reply corrects the spelling to Plezy. It is a client replacement, not a server-security fix.",
+      "evidence_sources": [
+        {"comment_id": "50158488", "comment_url": "https://news.ycombinator.com/item?id=50158488", "author": "HaloZero", "excerpt": "I use Pleezy which has been a nice open source alternative to the Plex UI. The only issue we've had is that on wake, you have to press back once to do anything else.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50157927"},
+        {"comment_id": "50160508", "comment_url": "https://news.ycombinator.com/item?id=50160508", "author": "spectre3d", "excerpt": "*Plezy.", "kind": "incidental", "parent_comment_id": "50158488"}
+      ]
+    },
+    {
+      "name": "moteus",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/mjbots/moteus",
+      "hn_url": "https://news.ycombinator.com/item?id=50150089",
+      "source_story_title": "I built a drone with only one motor [video]",
+      "summary": "Brushless motor controllers praised for build quality and helpful developer support.",
+      "why_included": "Specific first-hand hardware praise from a satellite-tracking gimbal project, not just enthusiasm for the submitted drone.",
+      "evidence": "A commenter used moteus controllers in a two-axis RF satellite-tracking gimbal and praises their quality and the lead developer's help.",
+      "evidence_sources": [
+        {"comment_id": "50157318", "comment_url": "https://news.ycombinator.com/item?id=50157318", "author": "jcims", "excerpt": "Side note, I used those same moteus controllers for a decidedly less energetic use case (two axis gimbal for RF satellite tracking) and found them to be super high quality and the lead developer always super helpful.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Human Resource Machine",
+      "category": "Games & Experiments",
+      "thing_url": "https://tomorrowcorporation.com/humanresourcemachine",
+      "hn_url": "https://news.ycombinator.com/item?id=50134472",
+      "source_story_title": "It's still ok to enjoy programming",
+      "summary": "Programming puzzle game about directing office workers; a recreational programmer says they loved it.",
+      "why_included": "An explicit personal endorsement offers a playful detour from the thread's AI-and-work debate.",
+      "evidence": "A commenter says they loved Human Resource Machine while finding 7 Billion Humans repetitive.",
+      "evidence_sources": [
+        {"comment_id": "50159075", "comment_url": "https://news.ycombinator.com/item?id=50159075", "author": "xiaodai", "excerpt": "I mean, I loved Human Resource Machine but not so much 7 billion humans (as the programming got repetitive).", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Sebastian Thrun's DARPA Grand Challenge talk",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=j8zj5lBpFTY",
+      "hn_url": "https://news.ycombinator.com/item?id=50104874",
+      "source_story_title": "How to Train Your Robot",
+      "summary": "Google talk on autonomous driving, recommended for practical robot-training lessons and humor.",
+      "why_included": "An explicit viewing recommendation highlights a concrete robotics talk rather than a generic topic.",
+      "evidence": "A commenter praises the talk's discussion of robot training and highly recommends it as a funny time capsule of early self-driving research.",
+      "evidence_sources": [
+        {"comment_id": "50151856", "comment_url": "https://news.ycombinator.com/item?id=50151856", "author": "alexpotato", "excerpt": "Sebastian Thrun's talk at Google about winning the DARPA Grand Challenge [0] has a great discussion of training \"robots\".", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Child Sacrifice in Ancient Israel",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.eisenbrauns.org/books/titles/978-1-57506-494-9.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50150750",
+      "source_story_title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "summary": "Historical study of ancient Israelite ritual, called a commenter's best book of the year.",
+      "why_included": "A strong book endorsement hidden in an unrelated thread, with the linked DOI resolved to the publisher's title.",
+      "evidence": "A commenter links this book and calls it the best book they read that year.",
+      "evidence_sources": [
+        {"comment_id": "50152439", "comment_url": "https://news.ycombinator.com/item?id=50152439", "author": "everdrive", "excerpt": "The best book I read this year was actually this (https://www.jstor.org/stable/10.5325/j.ctv2321hnd), so I'm aware (and was aware before) of human sacrifice.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50152186"}
+      ]
+    }
+  ]
+}

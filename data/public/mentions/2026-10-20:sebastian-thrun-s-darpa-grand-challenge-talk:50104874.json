@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises the talk's discussion of robot training and highly recommends it as a funny time capsule of early self-driving research.",
+  "evidence_sources": [
+    {
+      "author": "alexpotato",
+      "comment_id": "50151856",
+      "comment_url": "https://news.ycombinator.com/item?id=50151856",
+      "excerpt": "Sebastian Thrun's talk at Google about winning the DARPA Grand Challenge [0] has a great discussion of training \"robots\".",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50104874",
+  "id": "2026-10-20:sebastian-thrun-s-darpa-grand-challenge-talk:50104874",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "sebastian-thrun-s-darpa-grand-challenge-talk",
+  "rank": 8,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50104874",
+  "source_story_title": "How to Train Your Robot"
+}

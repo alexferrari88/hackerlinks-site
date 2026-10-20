@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter links this book and calls it the best book they read that year.",
+  "evidence_sources": [
+    {
+      "author": "everdrive",
+      "comment_id": "50152439",
+      "comment_url": "https://news.ycombinator.com/item?id=50152439",
+      "context": "first_hand_use",
+      "excerpt": "The best book I read this year was actually this (https://www.jstor.org/stable/10.5325/j.ctv2321hnd), so I'm aware (and was aware before) of human sacrifice.",
+      "kind": "recommendation",
+      "parent_comment_id": "50152186"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50150750",
+  "id": "2026-10-20:child-sacrifice-in-ancient-israel:50150750",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "child-sacrifice-in-ancient-israel",
+  "rank": 9,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50150750",
+  "source_story_title": "Ousted Savannah police officer gave ICE agent husband access to Flock system"
+}

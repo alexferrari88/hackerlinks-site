@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-20T03:17:37Z",
+  "id": "human-resource-machine",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:human-resource-machine:50134472",
+  "mention_ids": [
+    "2026-10-20:human-resource-machine:50134472"
+  ],
+  "name": "Human Resource Machine",
+  "slug": "human-resource-machine",
+  "summary": "Programming puzzle game about directing office workers; a recreational programmer says they loved it.",
+  "thing_url": "https://tomorrowcorporation.com/humanresourcemachine",
+  "times_seen": 1,
+  "why_included": "An explicit personal endorsement offers a playful detour from the thread's AI-and-work debate."
+}

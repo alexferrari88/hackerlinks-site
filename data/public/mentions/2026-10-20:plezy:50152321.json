@@ -1,0 +1,31 @@
+{
+  "evidence": "A user likes Plezy as an open-source Plex UI alternative but must press back after wake; a reply corrects the spelling to Plezy. It is a client replacement, not a server-security fix.",
+  "evidence_sources": [
+    {
+      "author": "HaloZero",
+      "comment_id": "50158488",
+      "comment_url": "https://news.ycombinator.com/item?id=50158488",
+      "context": "first_hand_use",
+      "excerpt": "I use Pleezy which has been a nice open source alternative to the Plex UI. The only issue we've had is that on wake, you have to press back once to do anything else.",
+      "kind": "recommendation",
+      "parent_comment_id": "50157927"
+    },
+    {
+      "author": "spectre3d",
+      "comment_id": "50160508",
+      "comment_url": "https://news.ycombinator.com/item?id=50160508",
+      "excerpt": "*Plezy.",
+      "kind": "incidental",
+      "parent_comment_id": "50158488"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50152321",
+  "id": "2026-10-20:plezy:50152321",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "plezy",
+  "rank": 5,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50152321",
+  "source_story_title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer"
+}

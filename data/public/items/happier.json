@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-20T03:17:37Z",
+  "id": "happier",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:happier:50148855",
+  "mention_ids": [
+    "2026-10-20:happier:50148855"
+  ],
+  "name": "Happier",
+  "slug": "happier",
+  "summary": "Web and mobile front end for coding-agent sessions, praised for seamless Claude Code handover.",
+  "thing_url": "https://happier.dev/",
+  "times_seen": 1,
+  "why_included": "Positive first-hand use identifies a concrete way to move between terminal and mobile sessions."
+}

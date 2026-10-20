@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls TermRover a pretty good SSH client for tmux.",
+  "evidence_sources": [
+    {
+      "author": "petesergeant",
+      "comment_id": "50150418",
+      "comment_url": "https://news.ycombinator.com/item?id=50150418",
+      "excerpt": "TermRover[1] is a pretty good SSH client for tmux.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50148855",
+  "id": "2026-10-20:termrover:50148855",
+  "is_repeat": false,
+  "issue_id": "2026-10-20",
+  "item_id": "termrover",
+  "rank": 2,
+  "seen_at": "2026-10-20T03:17:37Z",
+  "source_story_id": "50148855",
+  "source_story_title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling"
+}

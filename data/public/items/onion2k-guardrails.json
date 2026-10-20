@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-20T03:17:37Z",
+  "id": "onion2k-guardrails",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:onion2k-guardrails:50151036",
+  "mention_ids": [
+    "2026-10-20:onion2k-guardrails:50151036"
+  ],
+  "name": "onion2k/guardrails",
+  "slug": "onion2k-guardrails",
+  "summary": "Reusable testing skills for AI-generated code; its creator reports success across game projects.",
+  "thing_url": "https://github.com/onion2k/guardrails",
+  "times_seen": 1,
+  "why_included": "A concrete repository with positive reported use, explicitly identified as creator evidence rather than independent validation."
+}

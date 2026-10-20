@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-20T03:17:37Z",
+  "id": "sebastian-thrun-s-darpa-grand-challenge-talk",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:sebastian-thrun-s-darpa-grand-challenge-talk:50104874",
+  "mention_ids": [
+    "2026-10-20:sebastian-thrun-s-darpa-grand-challenge-talk:50104874"
+  ],
+  "name": "Sebastian Thrun's DARPA Grand Challenge talk",
+  "slug": "sebastian-thrun-s-darpa-grand-challenge-talk",
+  "summary": "Google talk on autonomous driving, recommended for practical robot-training lessons and humor.",
+  "thing_url": "https://www.youtube.com/watch?v=j8zj5lBpFTY",
+  "times_seen": 1,
+  "why_included": "An explicit viewing recommendation highlights a concrete robotics talk rather than a generic topic."
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T03:17:37Z",
+  "headline": "9 interesting things surfaced from HN on 2026-10-20",
+  "id": "2026-10-20",
+  "mention_ids": [
+    "2026-10-20:gomodel:50145507",
+    "2026-10-20:termrover:50148855",
+    "2026-10-20:happier:50148855",
+    "2026-10-20:onion2k-guardrails:50151036",
+    "2026-10-20:plezy:50152321",
+    "2026-10-20:moteus:50150089",
+    "2026-10-20:human-resource-machine:50134472",
+    "2026-10-20:sebastian-thrun-s-darpa-grand-challenge-talk:50104874",
+    "2026-10-20:child-sacrifice-in-ancient-israel:50150750"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -2,6 +2,14 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "TermRover", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "Happier", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "onion2k/guardrails", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "Plezy", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "moteus", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "Human Resource Machine", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "Sebastian Thrun's DARPA Grand Challenge talk", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
+    {"name": "Child Sacrifice in Ancient Israel", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
     {"name": "Pele", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
     {"name": "D2", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
     {"name": "mlua", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
@@ -3692,8 +3700,8 @@
     {
       "name": "GoModel",
       "first_reported_at": "2026-04-21T21:17:50Z",
-      "last_reported_at": "2026-04-21T21:17:50Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 2
     },
     {
       "name": "Google Agent Development Kit",

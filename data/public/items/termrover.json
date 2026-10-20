@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-20T03:17:37Z",
+  "id": "termrover",
+  "last_seen_at": "2026-10-20T03:17:37Z",
+  "latest_mention_id": "2026-10-20:termrover:50148855",
+  "mention_ids": [
+    "2026-10-20:termrover:50148855"
+  ],
+  "name": "TermRover",
+  "slug": "termrover",
+  "summary": "Mobile SSH and Mosh terminal built around comfortable tmux session control.",
+  "thing_url": "https://termrover.sh/",
+  "times_seen": 1,
+  "why_included": "A direct recommendation from a commenter describing their remote agent setup."
+}
