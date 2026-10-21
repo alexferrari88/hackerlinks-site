@@ -2,6 +2,14 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "Oxc", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "OpenBSD", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "Nordwand Mono", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "microG", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "ATV Launcher Pro", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "Switchfin", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "Weball", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
+    {"name": "River Bend Lab", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
     {"name": "TermRover", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
     {"name": "Happier", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
     {"name": "onion2k/guardrails", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
@@ -4690,8 +4698,8 @@
     {
       "name": "Kokoro",
       "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 2
     },
     {
       "name": "Komai",

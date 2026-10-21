@@ -1,0 +1,32 @@
+{
+  "evidence": "One user calls replacing Google's launcher with ATV Launcher Pro one of their best quality-of-life upgrades; a Shield TV user independently calls it great.",
+  "evidence_sources": [
+    {
+      "author": "cube00",
+      "comment_id": "50161434",
+      "comment_url": "https://news.ycombinator.com/item?id=50161434",
+      "context": "first_hand_use",
+      "excerpt": "Replacing the Google launcher (I used ATV Launcher Pro) was one of the best quality of life upgrades I've ever done, if you haven't already I highly recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "nticompass",
+      "comment_id": "50165267",
+      "comment_url": "https://news.ycombinator.com/item?id=50165267",
+      "context": "first_hand_use",
+      "excerpt": "personally, and it's great.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50158942",
+  "id": "2026-10-21:atv-launcher-pro:50158942",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "atv-launcher-pro",
+  "rank": 6,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50158942",
+  "source_story_title": "An ad-free Android TV"
+}

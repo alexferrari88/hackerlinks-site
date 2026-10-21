@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "run_date": "2026-10-21",
+  "generated_at": "2026-10-21T03:17:28.597704+00:00",
+  "summary": "Nine comment-endorsed discoveries spanning developer tools, local speech, Android, media and interactive web experiments.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-21.json",
+    "sha256": "bc87dfb2a970870679782bc17a1c8fb3ff26ad509a346b2cd0058e873a85f9a9",
+    "bytes": 3831241,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6310,
+    "fetched_item_count": 6340,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Oxc",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://oxc.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=50165953",
+      "source_story_title": "Tsrs: A Port of TypeScript to Rust",
+      "summary": "Rust-powered JavaScript and TypeScript tooling; a user praises its speed.",
+      "why_included": "A first-hand endorsement of an established alternative surfaced inside compiler-rewrite discussion.",
+      "evidence": "A user of Oxc tooling welcomes Rust rewrites and describes using the fastest tools.",
+      "evidence_sources": [{"comment_id": "50167405", "comment_url": "https://news.ycombinator.com/item?id=50167405", "author": "frangonf", "excerpt": "I use oxc tooling and it's great to see the rust rewrite singularity in action and get to ride the fastest horses", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "OpenBSD",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.openbsd.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50160494",
+      "source_story_title": "OpenBSD 8.0",
+      "summary": "Security-focused Unix operating system; a jump-host user praises its simplicity and documentation.",
+      "why_included": "The recommendation names a practical use case and explicitly encourages hands-on exploration.",
+      "evidence": "A year-long bastion-host user praises OpenBSD's small process list, pf and manuals, while noting it is not their daily driver.",
+      "evidence_sources": [{"comment_id": "50163511", "comment_url": "https://news.ycombinator.com/item?id=50163511", "author": "ctolsen", "excerpt": "OpenBSD just feels like a *nix system is supposed to. `ps aux` is like 10 entries at first. `pf` makes so much sense. `man` pages are consistently incredible.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Nordwand Mono",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/tywr/Nordwand-Mono",
+      "hn_url": "https://news.ycombinator.com/item?id=50141581",
+      "source_story_title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "summary": "Monospaced coding font; a Berkeley Mono user finds its shapes softer and nicer.",
+      "why_included": "A concrete aesthetic comparison independently endorses the submitted font.",
+      "evidence": "A Berkeley Mono user says Nordwand feels softer and nicer, while acknowledging subjective impressions.",
+      "evidence_sources": [{"comment_id": "50163051", "comment_url": "https://news.ycombinator.com/item?id=50163051", "author": "jan_m_savage", "excerpt": "But I think Nordwand feels softer and nicer, it embodies a message in the font (thus the fluency effect is more potent).", "kind": "comparison", "context": "evaluated", "parent_comment_id": null}]
+    },
+    {
+      "name": "Kokoro",
+      "category": "AI & Local Models",
+      "thing_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "hn_url": "https://news.ycombinator.com/item?id=50168396",
+      "source_story_title": "Voxtral 3",
+      "summary": "Compact local text-to-speech model; a user turns PDFs and EPUBs into audiobooks.",
+      "why_included": "A strong first-hand sound-quality endorsement supports resurfacing after the 90-day cooldown.",
+      "evidence": "A user calls Kokoro the best-sounding local TTS engine they have heard and uses it for PDF and EPUB audiobooks.",
+      "evidence_sources": [{"comment_id": "50169984", "comment_url": "https://news.ycombinator.com/item?id=50169984", "author": "gavinray", "excerpt": "Best sounding local TTS engine I've heard by far is Kokoro It's small enough to be run on modern phones realtime, I use it for listening to PDF's/EPUB as Audiobooks", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50168830"}]
+    },
+    {
+      "name": "microG",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/microg/GmsCore/wiki",
+      "hn_url": "https://news.ycombinator.com/item?id=50162177",
+      "source_story_title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "summary": "Free-software Android Google-services replacement; a LineageOS user explicitly recommends their daily setup.",
+      "why_included": "An explicit endorsement comes from someone using the software on their main phone.",
+      "evidence": "A main-device user says microG with LineageOS works really well and recommends it.",
+      "evidence_sources": [{"comment_id": "50168494", "comment_url": "https://news.ycombinator.com/item?id=50168494", "author": "hgfygkh", "excerpt": "My main device uses MicroG with LineageOS. It works really well, and I recommend it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "ATV Launcher Pro",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro",
+      "hn_url": "https://news.ycombinator.com/item?id=50158942",
+      "source_story_title": "An ad-free Android TV",
+      "summary": "Android TV home-screen replacement; users praise escaping Google's advertising-heavy default launcher.",
+      "why_included": "Two independent first-hand endorsements identify a practical quality-of-life upgrade.",
+      "evidence": "One user calls replacing Google's launcher with ATV Launcher Pro one of their best quality-of-life upgrades; a Shield TV user independently calls it great.",
+      "evidence_sources": [
+        {"comment_id": "50161434", "comment_url": "https://news.ycombinator.com/item?id=50161434", "author": "cube00", "excerpt": "Replacing the Google launcher (I used ATV Launcher Pro) was one of the best quality of life upgrades I've ever done, if you haven't already I highly recommend it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "50165267", "comment_url": "https://news.ycombinator.com/item?id=50165267", "author": "nticompass", "excerpt": "personally, and it's great.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Switchfin",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/dragonflylee/switchfin",
+      "hn_url": "https://news.ycombinator.com/item?id=50158942",
+      "source_story_title": "An ad-free Android TV",
+      "summary": "Native Jellyfin media client; a home-built Linux TV setup user reports easy operation.",
+      "why_included": "A concrete media-client recommendation appears inside a working DIY television setup.",
+      "evidence": "A commenter using Switchfin in their replacement TV interface says its Linux version works pretty well out of the box.",
+      "evidence_sources": [{"comment_id": "50162746", "comment_url": "https://news.ycombinator.com/item?id=50162746", "author": "darkwater", "excerpt": "Switchfin (which has a Linux version) works pretty well out of the box", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Weball",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.funwithcomputervision.com/weball/",
+      "hn_url": "https://news.ycombinator.com/item?id=50140584",
+      "source_story_title": "Weball: Play Katamari on Websites",
+      "summary": "Browser game that rolls up websites Katamari-style; fun, with reported frame-rate limits.",
+      "why_included": "Hands-on praise supports a playful discovery, with a specific performance caveat preserved.",
+      "evidence": "Two players praise the fun of rolling up websites; one reports poor frame rates after a few hundred words.",
+      "evidence_sources": [
+        {"comment_id": "50159593", "comment_url": "https://news.ycombinator.com/item?id=50159593", "author": "OuterVale", "excerpt": "This is such fun. I just went along and rolled up a few websites, including my own. Great little bit of web whimsy.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "50161670", "comment_url": "https://news.ycombinator.com/item?id=50161670", "author": "gavmor", "excerpt": "Horrible framerate after a few hundred words, but super fun until then!", "kind": "caveat", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "River Bend Lab",
+      "category": "Watch & Learn",
+      "thing_url": "https://sael.net/river-bend/",
+      "hn_url": "https://news.ycombinator.com/item?id=50168096",
+      "source_story_title": "IKEA – 3D Guide",
+      "summary": "Interactive river-meander simulation; a commenter spent nearly an hour exploring its animations.",
+      "why_included": "An enthusiastic hands-on recommendation leads beyond the submitted furniture visualization.",
+      "evidence": "A commenter says they enjoy Ryan Sael's animations and spent a good part of an hour exploring River Bend.",
+      "evidence_sources": [{"comment_id": "50170751", "comment_url": "https://news.ycombinator.com/item?id=50170751", "author": "dumpHero2", "excerpt": "Really enjoying all these animation by Ryan Sael. I spent a good part of an hour exploring", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    }
+  ]
+}

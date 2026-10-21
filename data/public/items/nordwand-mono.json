@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "id": "nordwand-mono",
+  "last_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "latest_mention_id": "2026-10-21:nordwand-mono:50141581",
+  "mention_ids": [
+    "2026-10-21:nordwand-mono:50141581"
+  ],
+  "name": "Nordwand Mono",
+  "slug": "nordwand-mono",
+  "summary": "Monospaced coding font; a Berkeley Mono user finds its shapes softer and nicer.",
+  "thing_url": "https://github.com/tywr/Nordwand-Mono",
+  "times_seen": 1,
+  "why_included": "A concrete aesthetic comparison independently endorses the submitted font."
+}

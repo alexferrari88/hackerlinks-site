@@ -1,0 +1,23 @@
+{
+  "evidence": "A user of Oxc tooling welcomes Rust rewrites and describes using the fastest tools.",
+  "evidence_sources": [
+    {
+      "author": "frangonf",
+      "comment_id": "50167405",
+      "comment_url": "https://news.ycombinator.com/item?id=50167405",
+      "context": "first_hand_use",
+      "excerpt": "I use oxc tooling and it's great to see the rust rewrite singularity in action and get to ride the fastest horses",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50165953",
+  "id": "2026-10-21:oxc:50165953",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "oxc",
+  "rank": 1,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50165953",
+  "source_story_title": "Tsrs: A Port of TypeScript to Rust"
+}

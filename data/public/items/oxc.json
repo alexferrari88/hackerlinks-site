@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "id": "oxc",
+  "last_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "latest_mention_id": "2026-10-21:oxc:50165953",
+  "mention_ids": [
+    "2026-10-21:oxc:50165953"
+  ],
+  "name": "Oxc",
+  "slug": "oxc",
+  "summary": "Rust-powered JavaScript and TypeScript tooling; a user praises its speed.",
+  "thing_url": "https://oxc.rs/",
+  "times_seen": 1,
+  "why_included": "A first-hand endorsement of an established alternative surfaced inside compiler-rewrite discussion."
+}

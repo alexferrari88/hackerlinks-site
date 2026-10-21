@@ -1,0 +1,23 @@
+{
+  "evidence": "A main-device user says microG with LineageOS works really well and recommends it.",
+  "evidence_sources": [
+    {
+      "author": "hgfygkh",
+      "comment_id": "50168494",
+      "comment_url": "https://news.ycombinator.com/item?id=50168494",
+      "context": "first_hand_use",
+      "excerpt": "My main device uses MicroG with LineageOS. It works really well, and I recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50162177",
+  "id": "2026-10-21:microg:50162177",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "microg",
+  "rank": 5,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50162177",
+  "source_story_title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space"
+}

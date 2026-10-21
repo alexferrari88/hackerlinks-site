@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T03:17:28.597704+00:00",
+  "headline": "9 interesting things surfaced from HN on 2026-10-21",
+  "id": "2026-10-21",
+  "mention_ids": [
+    "2026-10-21:oxc:50165953",
+    "2026-10-21:openbsd:50160494",
+    "2026-10-21:nordwand-mono:50141581",
+    "2026-10-21:kokoro:50168396",
+    "2026-10-21:microg:50162177",
+    "2026-10-21:atv-launcher-pro:50158942",
+    "2026-10-21:switchfin:50158942",
+    "2026-10-21:weball:50140584",
+    "2026-10-21:river-bend-lab:50168096"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

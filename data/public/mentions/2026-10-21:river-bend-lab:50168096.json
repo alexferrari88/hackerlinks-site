@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says they enjoy Ryan Sael's animations and spent a good part of an hour exploring River Bend.",
+  "evidence_sources": [
+    {
+      "author": "dumpHero2",
+      "comment_id": "50170751",
+      "comment_url": "https://news.ycombinator.com/item?id=50170751",
+      "context": "first_hand_use",
+      "excerpt": "Really enjoying all these animation by Ryan Sael. I spent a good part of an hour exploring",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50168096",
+  "id": "2026-10-21:river-bend-lab:50168096",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "river-bend-lab",
+  "rank": 9,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50168096",
+  "source_story_title": "IKEA \u2013 3D Guide"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A Berkeley Mono user says Nordwand feels softer and nicer, while acknowledging subjective impressions.",
+  "evidence_sources": [
+    {
+      "author": "jan_m_savage",
+      "comment_id": "50163051",
+      "comment_url": "https://news.ycombinator.com/item?id=50163051",
+      "context": "evaluated",
+      "excerpt": "But I think Nordwand feels softer and nicer, it embodies a message in the font (thus the fluency effect is more potent).",
+      "kind": "comparison",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50141581",
+  "id": "2026-10-21:nordwand-mono:50141581",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "nordwand-mono",
+  "rank": 3,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50141581",
+  "source_story_title": "Nordwand Mono \u2013 A monospace font for coders and adventurers"
+}

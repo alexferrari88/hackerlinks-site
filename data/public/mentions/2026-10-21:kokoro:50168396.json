@@ -1,0 +1,23 @@
+{
+  "evidence": "A user calls Kokoro the best-sounding local TTS engine they have heard and uses it for PDF and EPUB audiobooks.",
+  "evidence_sources": [
+    {
+      "author": "gavinray",
+      "comment_id": "50169984",
+      "comment_url": "https://news.ycombinator.com/item?id=50169984",
+      "context": "first_hand_use",
+      "excerpt": "Best sounding local TTS engine I've heard by far is Kokoro It's small enough to be run on modern phones realtime, I use it for listening to PDF's/EPUB as Audiobooks",
+      "kind": "recommendation",
+      "parent_comment_id": "50168830"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50168396",
+  "id": "2026-10-21:kokoro:50168396",
+  "is_repeat": true,
+  "issue_id": "2026-10-21",
+  "item_id": "kokoro",
+  "rank": 4,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50168396",
+  "source_story_title": "Voxtral 3"
+}

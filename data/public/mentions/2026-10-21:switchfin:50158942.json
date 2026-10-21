@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter using Switchfin in their replacement TV interface says its Linux version works pretty well out of the box.",
+  "evidence_sources": [
+    {
+      "author": "darkwater",
+      "comment_id": "50162746",
+      "comment_url": "https://news.ycombinator.com/item?id=50162746",
+      "context": "first_hand_use",
+      "excerpt": "Switchfin (which has a Linux version) works pretty well out of the box",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50158942",
+  "id": "2026-10-21:switchfin:50158942",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "switchfin",
+  "rank": 7,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50158942",
+  "source_story_title": "An ad-free Android TV"
+}

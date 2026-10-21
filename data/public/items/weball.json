@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "id": "weball",
+  "last_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "latest_mention_id": "2026-10-21:weball:50140584",
+  "mention_ids": [
+    "2026-10-21:weball:50140584"
+  ],
+  "name": "Weball",
+  "slug": "weball",
+  "summary": "Browser game that rolls up websites Katamari-style; fun, with reported frame-rate limits.",
+  "thing_url": "https://www.funwithcomputervision.com/weball/",
+  "times_seen": 1,
+  "why_included": "Hands-on praise supports a playful discovery, with a specific performance caveat preserved."
+}

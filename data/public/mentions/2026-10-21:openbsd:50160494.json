@@ -1,0 +1,23 @@
+{
+  "evidence": "A year-long bastion-host user praises OpenBSD's small process list, pf and manuals, while noting it is not their daily driver.",
+  "evidence_sources": [
+    {
+      "author": "ctolsen",
+      "comment_id": "50163511",
+      "comment_url": "https://news.ycombinator.com/item?id=50163511",
+      "context": "first_hand_use",
+      "excerpt": "OpenBSD just feels like a *nix system is supposed to. `ps aux` is like 10 entries at first. `pf` makes so much sense. `man` pages are consistently incredible.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50160494",
+  "id": "2026-10-21:openbsd:50160494",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "openbsd",
+  "rank": 2,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50160494",
+  "source_story_title": "OpenBSD 8.0"
+}

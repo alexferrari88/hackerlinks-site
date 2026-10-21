@@ -1,0 +1,32 @@
+{
+  "evidence": "Two players praise the fun of rolling up websites; one reports poor frame rates after a few hundred words.",
+  "evidence_sources": [
+    {
+      "author": "OuterVale",
+      "comment_id": "50159593",
+      "comment_url": "https://news.ycombinator.com/item?id=50159593",
+      "context": "first_hand_use",
+      "excerpt": "This is such fun. I just went along and rolled up a few websites, including my own. Great little bit of web whimsy.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "gavmor",
+      "comment_id": "50161670",
+      "comment_url": "https://news.ycombinator.com/item?id=50161670",
+      "context": "first_hand_use",
+      "excerpt": "Horrible framerate after a few hundred words, but super fun until then!",
+      "kind": "caveat",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50140584",
+  "id": "2026-10-21:weball:50140584",
+  "is_repeat": false,
+  "issue_id": "2026-10-21",
+  "item_id": "weball",
+  "rank": 8,
+  "seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "source_story_id": "50140584",
+  "source_story_title": "Weball: Play Katamari on Websites"
+}

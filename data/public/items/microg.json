@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "id": "microg",
+  "last_seen_at": "2026-10-21T03:17:28.597704+00:00",
+  "latest_mention_id": "2026-10-21:microg:50162177",
+  "mention_ids": [
+    "2026-10-21:microg:50162177"
+  ],
+  "name": "microG",
+  "slug": "microg",
+  "summary": "Free-software Android Google-services replacement; a LineageOS user explicitly recommends their daily setup.",
+  "thing_url": "https://github.com/microg/GmsCore/wiki",
+  "times_seen": 1,
+  "why_included": "An explicit endorsement comes from someone using the software on their main phone."
+}
