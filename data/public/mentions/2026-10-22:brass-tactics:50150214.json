@@ -1,0 +1,23 @@
+{
+  "evidence": "bni calls Brass Tactics their favorite during regular Oculus use and praises its unique play style.",
+  "evidence_sources": [
+    {
+      "author": "bni",
+      "comment_id": "50181901",
+      "comment_url": "https://news.ycombinator.com/item?id=50181901",
+      "context": "first_hand_use",
+      "excerpt": "Back when I used my Oculus a lot, a RTS game called Brass Tactics was my favorite.",
+      "kind": "recommendation",
+      "parent_comment_id": "50179741"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50150214",
+  "id": "2026-10-22:brass-tactics:50150214",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "brass-tactics",
+  "rank": 7,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50150214",
+  "source_story_title": "Way to Play Super Mario 64: On Apple Vision Pro"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-22T05:18:24+02:00",
+  "id": "drupal",
+  "last_seen_at": "2026-10-22T05:18:24+02:00",
+  "latest_mention_id": "2026-10-22:drupal:50158408",
+  "mention_ids": [
+    "2026-10-22:drupal:50158408"
+  ],
+  "name": "Drupal",
+  "slug": "drupal",
+  "summary": "Open-source CMS recommended for governed users, structured content and publishing workflows.",
+  "thing_url": "https://www.drupal.org/",
+  "times_seen": 1,
+  "why_included": "An independent comment gives a precise use-case recommendation rather than generic launch praise."
+}

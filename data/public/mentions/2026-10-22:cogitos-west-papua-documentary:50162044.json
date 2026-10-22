@@ -1,0 +1,23 @@
+{
+  "evidence": "culi highly recommends Cogito's West Papua documentary and praises its research and citations.",
+  "evidence_sources": [
+    {
+      "author": "culi",
+      "comment_id": "50186871",
+      "comment_url": "https://news.ycombinator.com/item?id=50186871",
+      "context": "first_hand_use",
+      "excerpt": "Cogito, who does some of the most astounding and in-depth research on global histories, just came out with an incredible documentary about the history of West Papua that changed the way I see it forever. I highly recommend it (and most of Cogito's work. Even his extensive citations are worth spending time with)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50162044",
+  "id": "2026-10-22:cogitos-west-papua-documentary:50162044",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "cogitos-west-papua-documentary",
+  "rank": 6,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50162044",
+  "source_story_title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua"
+}

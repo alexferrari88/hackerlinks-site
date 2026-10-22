@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-22T05:18:24+02:00",
+  "id": "openpandora-software-repository",
+  "last_seen_at": "2026-10-22T05:18:24+02:00",
+  "latest_mention_id": "2026-10-22:openpandora-software-repository:50147799",
+  "mention_ids": [
+    "2026-10-22:openpandora-software-repository:50147799"
+  ],
+  "name": "OpenPandora software repository",
+  "slug": "openpandora-software-repository",
+  "summary": "Software catalog for the Pandora handheld, including ZX Spectrum emulation.",
+  "thing_url": "https://repo.openpandora.org/",
+  "times_seen": 1,
+  "why_included": "An owner points to a concrete retro-computing catalog and praises the available software."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "sunbum says they use Safe Chain because package managers can be configured incorrectly.",
+  "evidence_sources": [
+    {
+      "author": "sunbum",
+      "comment_id": "50185583",
+      "comment_url": "https://news.ycombinator.com/item?id=50185583",
+      "context": "first_hand_use",
+      "excerpt": "I use safechain for this, because there is always gonna be another package manager configured wrong.",
+      "kind": "recommendation",
+      "parent_comment_id": "50182491"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50181114",
+  "id": "2026-10-22:aikido-safe-chain:50181114",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "aikido-safe-chain",
+  "rank": 1,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50181114",
+  "source_story_title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor"
+}

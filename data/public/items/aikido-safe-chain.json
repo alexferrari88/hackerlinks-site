@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-22T05:18:24+02:00",
+  "id": "aikido-safe-chain",
+  "last_seen_at": "2026-10-22T05:18:24+02:00",
+  "latest_mention_id": "2026-10-22:aikido-safe-chain:50181114",
+  "mention_ids": [
+    "2026-10-22:aikido-safe-chain:50181114"
+  ],
+  "name": "Aikido Safe Chain",
+  "slug": "aikido-safe-chain",
+  "summary": "Package-manager wrapper that checks dependencies for malicious code before installation.",
+  "thing_url": "https://github.com/AikidoSec/safe-chain",
+  "times_seen": 1,
+  "why_included": "A first-hand user recommends a cross-package-manager safeguard in a supply-chain discussion."
+}

@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-10-22",
+  "generated_at": "2026-10-22T05:18:24+02:00",
+  "summary": "Eight comment-endorsed finds spanning security tools, content management, media, VR and retro computing.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 past-front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-22.json",
+    "sha256": "e9678d9b2916f5166a683234fcaec0962971849f20ee83bc0fe35e0a899a0b5b",
+    "bytes": 4089439,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6799,
+    "fetched_item_count": 6829,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Aikido Safe Chain",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/AikidoSec/safe-chain",
+      "hn_url": "https://news.ycombinator.com/item?id=50181114",
+      "source_story_title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "summary": "Package-manager wrapper that checks dependencies for malicious code before installation.",
+      "why_included": "A first-hand user recommends a cross-package-manager safeguard in a supply-chain discussion.",
+      "evidence": "sunbum says they use Safe Chain because package managers can be configured incorrectly.",
+      "evidence_sources": [{"comment_id":"50185583","comment_url":"https://news.ycombinator.com/item?id=50185583","author":"sunbum","excerpt":"I use safechain for this, because there is always gonna be another package manager configured wrong.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50182491"}]
+    },
+    {
+      "name": "cargo-audit",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/rustsec/rustsec/tree/main/cargo-audit",
+      "hn_url": "https://news.ycombinator.com/item?id=50182987",
+      "source_story_title": "Today's PHP security release, and how we're strengthening security",
+      "summary": "Rust dependency auditor that checks Cargo lockfiles against known security advisories.",
+      "why_included": "A working developer offers a concrete tool for keeping track of vulnerable dependencies.",
+      "evidence": "berkes reports using cargo audit for Rust applications to check dependencies against CVEs.",
+      "evidence_sources": [{"comment_id":"50186514","comment_url":"https://news.ycombinator.com/item?id=50186514","author":"berkes","excerpt":"For my rust applications, I use \"cargo audit\" which checks all dependencies against the CVEs.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50185547"}]
+    },
+    {
+      "name": "debsecan",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://wiki.debian.org/DebianSecurity/debsecan",
+      "hn_url": "https://news.ycombinator.com/item?id=50182987",
+      "source_story_title": "Today's PHP security release, and how we're strengthening security",
+      "summary": "Debian security analyzer that reports known vulnerabilities in installed packages.",
+      "why_included": "A specific host-level auditing recommendation complements application dependency checks.",
+      "evidence": "berkes recommends debsecan for reporting CVEs in installed software, describing an Ubuntu use case.",
+      "evidence_sources": [{"comment_id":"50186514","comment_url":"https://news.ycombinator.com/item?id=50186514","author":"berkes","excerpt":"For the rest of the stack `debsecan` does exactly what you want on Ubuntu: report CVEs for installed software.","kind":"recommendation","parent_comment_id":"50185547"}]
+    },
+    {
+      "name": "Drupal",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.drupal.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50158408",
+      "source_story_title": "Drupal is now light-years ahead of its reputation",
+      "summary": "Open-source CMS recommended for governed users, structured content and publishing workflows.",
+      "why_included": "An independent comment gives a precise use-case recommendation rather than generic launch praise.",
+      "evidence": "scottfalconer recommends Drupal when governed users, content and workflow require battle-tested defaults.",
+      "evidence_sources": [{"comment_id":"50165591","comment_url":"https://news.ycombinator.com/item?id=50165591","author":"scottfalconer","excerpt":"I'd recommend Drupal specifically when you have the need for strong governed management of users + content + workflow and you want something that is battle tested without having to make all the decisions that get you there.","kind":"recommendation","parent_comment_id":"50162686"}]
+    },
+    {
+      "name": "Sean Carroll’s Mindscape",
+      "category": "Watch & Learn",
+      "thing_url": "https://preposterousuniverse.com/podcast/",
+      "hn_url": "https://news.ycombinator.com/item?id=50175185",
+      "source_story_title": "In Hilbert space, all things are quantumly possible",
+      "summary": "Science-and-philosophy podcast; an HN listener particularly recommends the David Wallace episode.",
+      "why_included": "A direct recommendation includes a concrete episode as an entry point.",
+      "evidence": "librasteve calls Mindscape excellent and particularly likes its David Wallace episode.",
+      "evidence_sources": [{"comment_id":"50176963","comment_url":"https://news.ycombinator.com/item?id=50176963","author":"librasteve","excerpt":"Sean Carroll (name checked in the article) has an excellent podcast “Mindscape” (https://preposterousuniverse.com/podcast/) I particularly like the one with David Wallace.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Cogito’s West Papua documentary",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=ZWp5904RkJY",
+      "hn_url": "https://news.ycombinator.com/item?id=50162044",
+      "source_story_title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "summary": "West Papua history documentary praised for deep research and extensive citations.",
+      "why_included": "An emphatic viewer recommendation supplies a direct video link and a clear research-quality rationale.",
+      "evidence": "culi highly recommends Cogito's West Papua documentary and praises its research and citations.",
+      "evidence_sources": [{"comment_id":"50186871","comment_url":"https://news.ycombinator.com/item?id=50186871","author":"culi","excerpt":"Cogito, who does some of the most astounding and in-depth research on global histories, just came out with an incredible documentary about the history of West Papua that changed the way I see it forever. I highly recommend it (and most of Cogito's work. Even his extensive citations are worth spending time with)","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Brass Tactics",
+      "category": "Games & Systems",
+      "thing_url": "https://www.meta.com/experiences/pcvr/brass-tactics/1101975213197949/",
+      "hn_url": "https://news.ycombinator.com/item?id=50150214",
+      "source_story_title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "summary": "Oculus Rift real-time strategy game played across a living tabletop battlefield.",
+      "why_included": "A former player identifies a distinctive VR favorite rather than merely mentioning a game.",
+      "evidence": "bni calls Brass Tactics their favorite during regular Oculus use and praises its unique play style.",
+      "evidence_sources": [{"comment_id":"50181901","comment_url":"https://news.ycombinator.com/item?id=50181901","author":"bni","excerpt":"Back when I used my Oculus a lot, a RTS game called Brass Tactics was my favorite.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50179741"}]
+    },
+    {
+      "name": "OpenPandora software repository",
+      "category": "Games & Systems",
+      "thing_url": "https://repo.openpandora.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50147799",
+      "source_story_title": "ZX Spectrum Next Laptop",
+      "summary": "Software catalog for the Pandora handheld, including ZX Spectrum emulation.",
+      "why_included": "An owner points to a concrete retro-computing catalog and praises the available software.",
+      "evidence": "MomsAVoxell reports Spectrum emulation on their Pandora and says the handheld runs a ton of great software, linking the repository.",
+      "evidence_sources": [{"comment_id":"50177673","comment_url":"https://news.ycombinator.com/item?id=50177673","author":"MomsAVoxell","excerpt":".. incidentally, the Open Pandora runs a ton of great stuff:","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50177443"}]
+    }
+  ]
+}

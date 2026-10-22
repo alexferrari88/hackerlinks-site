@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-22T05:18:24+02:00",
+  "id": "cargo-audit",
+  "last_seen_at": "2026-10-22T05:18:24+02:00",
+  "latest_mention_id": "2026-10-22:cargo-audit:50182987",
+  "mention_ids": [
+    "2026-10-22:cargo-audit:50182987"
+  ],
+  "name": "cargo-audit",
+  "slug": "cargo-audit",
+  "summary": "Rust dependency auditor that checks Cargo lockfiles against known security advisories.",
+  "thing_url": "https://github.com/rustsec/rustsec/tree/main/cargo-audit",
+  "times_seen": 1,
+  "why_included": "A working developer offers a concrete tool for keeping track of vulnerable dependencies."
+}

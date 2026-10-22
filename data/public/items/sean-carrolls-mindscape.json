@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-22T05:18:24+02:00",
+  "id": "sean-carrolls-mindscape",
+  "last_seen_at": "2026-10-22T05:18:24+02:00",
+  "latest_mention_id": "2026-10-22:sean-carrolls-mindscape:50175185",
+  "mention_ids": [
+    "2026-10-22:sean-carrolls-mindscape:50175185"
+  ],
+  "name": "Sean Carroll\u2019s Mindscape",
+  "slug": "sean-carrolls-mindscape",
+  "summary": "Science-and-philosophy podcast; an HN listener particularly recommends the David Wallace episode.",
+  "thing_url": "https://preposterousuniverse.com/podcast/",
+  "times_seen": 1,
+  "why_included": "A direct recommendation includes a concrete episode as an entry point."
+}

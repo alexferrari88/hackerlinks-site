@@ -1,0 +1,22 @@
+{
+  "evidence": "scottfalconer recommends Drupal when governed users, content and workflow require battle-tested defaults.",
+  "evidence_sources": [
+    {
+      "author": "scottfalconer",
+      "comment_id": "50165591",
+      "comment_url": "https://news.ycombinator.com/item?id=50165591",
+      "excerpt": "I'd recommend Drupal specifically when you have the need for strong governed management of users + content + workflow and you want something that is battle tested without having to make all the decisions that get you there.",
+      "kind": "recommendation",
+      "parent_comment_id": "50162686"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50158408",
+  "id": "2026-10-22:drupal:50158408",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "drupal",
+  "rank": 4,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50158408",
+  "source_story_title": "Drupal is now light-years ahead of its reputation"
+}

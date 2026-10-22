@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-22T05:18:24+02:00",
+  "id": "debsecan",
+  "last_seen_at": "2026-10-22T05:18:24+02:00",
+  "latest_mention_id": "2026-10-22:debsecan:50182987",
+  "mention_ids": [
+    "2026-10-22:debsecan:50182987"
+  ],
+  "name": "debsecan",
+  "slug": "debsecan",
+  "summary": "Debian security analyzer that reports known vulnerabilities in installed packages.",
+  "thing_url": "https://wiki.debian.org/DebianSecurity/debsecan",
+  "times_seen": 1,
+  "why_included": "A specific host-level auditing recommendation complements application dependency checks."
+}

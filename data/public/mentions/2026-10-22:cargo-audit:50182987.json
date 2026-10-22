@@ -1,0 +1,23 @@
+{
+  "evidence": "berkes reports using cargo audit for Rust applications to check dependencies against CVEs.",
+  "evidence_sources": [
+    {
+      "author": "berkes",
+      "comment_id": "50186514",
+      "comment_url": "https://news.ycombinator.com/item?id=50186514",
+      "context": "first_hand_use",
+      "excerpt": "For my rust applications, I use \"cargo audit\" which checks all dependencies against the CVEs.",
+      "kind": "recommendation",
+      "parent_comment_id": "50185547"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50182987",
+  "id": "2026-10-22:cargo-audit:50182987",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "cargo-audit",
+  "rank": 2,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50182987",
+  "source_story_title": "Today's PHP security release, and how we're strengthening security"
+}

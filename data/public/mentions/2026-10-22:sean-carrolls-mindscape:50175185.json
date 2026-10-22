@@ -1,0 +1,22 @@
+{
+  "evidence": "librasteve calls Mindscape excellent and particularly likes its David Wallace episode.",
+  "evidence_sources": [
+    {
+      "author": "librasteve",
+      "comment_id": "50176963",
+      "comment_url": "https://news.ycombinator.com/item?id=50176963",
+      "excerpt": "Sean Carroll (name checked in the article) has an excellent podcast \u201cMindscape\u201d (https://preposterousuniverse.com/podcast/) I particularly like the one with David Wallace.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50175185",
+  "id": "2026-10-22:sean-carrolls-mindscape:50175185",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "sean-carrolls-mindscape",
+  "rank": 5,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50175185",
+  "source_story_title": "In Hilbert space, all things are quantumly possible"
+}

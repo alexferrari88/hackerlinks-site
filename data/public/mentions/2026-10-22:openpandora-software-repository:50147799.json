@@ -1,0 +1,23 @@
+{
+  "evidence": "MomsAVoxell reports Spectrum emulation on their Pandora and says the handheld runs a ton of great software, linking the repository.",
+  "evidence_sources": [
+    {
+      "author": "MomsAVoxell",
+      "comment_id": "50177673",
+      "comment_url": "https://news.ycombinator.com/item?id=50177673",
+      "context": "first_hand_use",
+      "excerpt": ".. incidentally, the Open Pandora runs a ton of great stuff:",
+      "kind": "recommendation",
+      "parent_comment_id": "50177443"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50147799",
+  "id": "2026-10-22:openpandora-software-repository:50147799",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "openpandora-software-repository",
+  "rank": 8,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50147799",
+  "source_story_title": "ZX Spectrum Next Laptop"
+}

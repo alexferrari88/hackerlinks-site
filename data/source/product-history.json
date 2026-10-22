@@ -11042,6 +11042,14 @@
       "first_reported_at": "2026-10-15T03:17:02.468099+00:00",
       "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
       "times_reported": 1
-    }
+    },
+    {"name":"Aikido Safe Chain","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"cargo-audit","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"debsecan","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"Drupal","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"Sean Carroll’s Mindscape","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"Cogito’s West Papua documentary","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"Brass Tactics","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
+    {"name":"OpenPandora software repository","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1}
   ]
 }

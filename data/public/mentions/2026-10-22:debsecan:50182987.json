@@ -1,0 +1,22 @@
+{
+  "evidence": "berkes recommends debsecan for reporting CVEs in installed software, describing an Ubuntu use case.",
+  "evidence_sources": [
+    {
+      "author": "berkes",
+      "comment_id": "50186514",
+      "comment_url": "https://news.ycombinator.com/item?id=50186514",
+      "excerpt": "For the rest of the stack `debsecan` does exactly what you want on Ubuntu: report CVEs for installed software.",
+      "kind": "recommendation",
+      "parent_comment_id": "50185547"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50182987",
+  "id": "2026-10-22:debsecan:50182987",
+  "is_repeat": false,
+  "issue_id": "2026-10-22",
+  "item_id": "debsecan",
+  "rank": 3,
+  "seen_at": "2026-10-22T05:18:24+02:00",
+  "source_story_id": "50182987",
+  "source_story_title": "Today's PHP security release, and how we're strengthening security"
+}
