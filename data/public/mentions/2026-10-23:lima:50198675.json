@@ -1,0 +1,32 @@
+{
+  "evidence": "A frequent Lima user says it has been great, replying to a comment about running agents inside VMs.",
+  "evidence_sources": [
+    {
+      "author": "d2xdy2",
+      "comment_id": "50202798",
+      "comment_url": "https://news.ycombinator.com/item?id=50202798",
+      "context": "first_hand_use",
+      "excerpt": "Came here to mention Lima. I use a ton, and it\u2019s been great.",
+      "kind": "recommendation",
+      "parent_comment_id": "50201278"
+    },
+    {
+      "author": "Twirrim",
+      "comment_id": "50201278",
+      "comment_url": "https://news.ycombinator.com/item?id=50201278",
+      "context": "first_hand_use",
+      "excerpt": "I haven't gone to network filter and logger yet, but I'm running mine in a VM, using lima",
+      "kind": "author_context",
+      "parent_comment_id": "50200981"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50198675",
+  "id": "2026-10-23:lima:50198675",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "lima",
+  "rank": 2,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50198675",
+  "source_story_title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents"
+}

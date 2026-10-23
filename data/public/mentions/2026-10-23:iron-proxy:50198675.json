@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports successful use of domain restrictions and credential swapping, while warning that exfiltration through allowed domains remains unresolved.",
+  "evidence_sources": [
+    {
+      "author": "fennecbutt",
+      "comment_id": "50201432",
+      "comment_url": "https://news.ycombinator.com/item?id=50201432",
+      "context": "first_hand_use",
+      "excerpt": "I've been using iron proxy recently for a project I just started, it does network restrictions by domain etc with plenty of options, credential swapping and more. I have no affiliation with it, but it solved most of what I need in one go when I was stressing out about it. Only real problem remaining if you truly want to be able to trust agents is how to prevent data (in my case codebases the agent works on) exfiltration a la HF incident. We can restrict network to trusted domains, but there's always a chance an agent could be extra slippery especially if prompt injected and doing something like pushing data out a few characters at a time.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50198675",
+  "id": "2026-10-23:iron-proxy:50198675",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "iron-proxy",
+  "rank": 1,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50198675",
+  "source_story_title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents"
+}

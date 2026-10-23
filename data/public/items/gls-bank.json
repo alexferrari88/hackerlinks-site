@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-23T03:19:38+00:00",
+  "id": "gls-bank",
+  "last_seen_at": "2026-10-23T03:19:38+00:00",
+  "latest_mention_id": "2026-10-23:gls-bank:50197404",
+  "mention_ids": [
+    "2026-10-23:gls-bank:50197404"
+  ],
+  "name": "GLS Bank",
+  "slug": "gls-bank",
+  "summary": "German bank endorsed by a happy customer in the GNU Taler payments discussion.",
+  "thing_url": "https://www.gls.de/",
+  "times_seen": 1,
+  "why_included": "Explicit customer satisfaction offers a concrete financial-service discovery beyond software tools."
+}

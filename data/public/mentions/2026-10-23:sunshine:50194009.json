@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports streaming their Steam library through Sunshine to a Raspberry Pi 3 with under 10 ms input latency over Wi-Fi, while noting electricity costs.",
+  "evidence_sources": [
+    {
+      "author": "trey-jones",
+      "comment_id": "50194446",
+      "comment_url": "https://news.ycombinator.com/item?id=50194446",
+      "context": "first_hand_use",
+      "excerpt": "I built it for inference, but I also set it up to run sunshine server and now I have my Steam library on the TV through a Raspberry Pi 3. Even better, it was a fun and interesting project, maybe not as straightforward as you think. Unfortunately it's entirely possible that it costs .24/hr just for the electricity. Now, this feels fine with <10ms input latency over wifi.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50194009",
+  "id": "2026-10-23:sunshine:50194009",
+  "is_repeat": true,
+  "issue_id": "2026-10-23",
+  "item_id": "sunshine",
+  "rank": 8,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50194009",
+  "source_story_title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-23T03:19:38+00:00",
+  "id": "iron-proxy",
+  "last_seen_at": "2026-10-23T03:19:38+00:00",
+  "latest_mention_id": "2026-10-23:iron-proxy:50198675",
+  "mention_ids": [
+    "2026-10-23:iron-proxy:50198675"
+  ],
+  "name": "iron-proxy",
+  "slug": "iron-proxy",
+  "summary": "Egress firewall with domain rules and credential swapping; not a complete exfiltration defense.",
+  "thing_url": "https://github.com/ironsh/iron-proxy",
+  "times_seen": 1,
+  "why_included": "A user explicitly credits it with solving most of their agent network-control needs."
+}

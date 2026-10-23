@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Include Security as reasonably priced for finding glaring issues, while cautioning that subtle issues may escape entry-level reviews.",
+  "evidence_sources": [
+    {
+      "author": "kobieps",
+      "comment_id": "50197139",
+      "comment_url": "https://news.ycombinator.com/item?id=50197139",
+      "excerpt": "I can recommend https://includesecurity.com/ , they're very reasonably priced and will probably catch any glaring issues you have, but they probably won't catch any subtle issues on their entry-level pricing.",
+      "kind": "recommendation",
+      "parent_comment_id": "50196709"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50173716",
+  "id": "2026-10-23:include-security:50173716",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "include-security",
+  "rank": 5,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50173716",
+  "source_story_title": "PingCap TiDB Leaks"
+}

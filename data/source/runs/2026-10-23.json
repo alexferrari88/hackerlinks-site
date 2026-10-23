@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-23",
+  "generated_at": "2026-10-23T03:19:38+00:00",
+  "summary": "10 comment-endorsed discoveries spanning agent controls, infrastructure, browsers, banking, game streaming, and videos.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-23.json",
+    "sha256": "7762bfca28ade235ceaededa7cf5823fc4b208c36a9d72351cf69bc074af63df",
+    "bytes": 3498783,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5811,
+    "fetched_item_count": 5841,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "iron-proxy",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/ironsh/iron-proxy",
+      "hn_url": "https://news.ycombinator.com/item?id=50198675",
+      "source_story_title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "summary": "Egress firewall with domain rules and credential swapping; not a complete exfiltration defense.",
+      "why_included": "A user explicitly credits it with solving most of their agent network-control needs.",
+      "evidence": "A user reports successful use of domain restrictions and credential swapping, while warning that exfiltration through allowed domains remains unresolved.",
+      "evidence_sources": [{"comment_id": "50201432", "comment_url": "https://news.ycombinator.com/item?id=50201432", "author": "fennecbutt", "excerpt": "I've been using iron proxy recently for a project I just started, it does network restrictions by domain etc with plenty of options, credential swapping and more. I have no affiliation with it, but it solved most of what I need in one go when I was stressing out about it. Only real problem remaining if you truly want to be able to trust agents is how to prevent data (in my case codebases the agent works on) exfiltration a la HF incident. We can restrict network to trusted domains, but there's always a chance an agent could be extra slippery especially if prompt injected and doing something like pushing data out a few characters at a time.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Lima",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://lima-vm.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50198675",
+      "source_story_title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "summary": "Linux virtual-machine manager; a frequent user praises it in an agent-isolation discussion.",
+      "why_included": "Clear first-hand approval provides a practical alternative to container-only isolation.",
+      "evidence": "A frequent Lima user says it has been great, replying to a comment about running agents inside VMs.",
+      "evidence_sources": [{"comment_id": "50202798", "comment_url": "https://news.ycombinator.com/item?id=50202798", "author": "d2xdy2", "excerpt": "Came here to mention Lima. I use a ton, and it’s been great.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50201278"}, {"comment_id": "50201278", "comment_url": "https://news.ycombinator.com/item?id=50201278", "author": "Twirrim", "excerpt": "I haven't gone to network filter and logger yet, but I'm running mine in a VM, using lima", "kind": "author_context", "context": "first_hand_use", "parent_comment_id": "50200981"}]
+    },
+    {
+      "name": "earcut.hpp",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://github.com/mapbox/earcut.hpp",
+      "hn_url": "https://news.ycombinator.com/item?id=50193170",
+      "source_story_title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "summary": "C++ polygon triangulator; a commenter recommends its fast Delaunay-refinement path for benchmarking.",
+      "why_included": "A concrete library recommendation highlights a useful refinement capability rather than merely naming an alternative.",
+      "evidence": "A commenter recommends benchmarking earcut.hpp and says its recently added refine function produces Delaunay output while remaining fast.",
+      "evidence_sources": [{"comment_id": "50196724", "comment_url": "https://news.ycombinator.com/item?id=50196724", "author": "mourner", "excerpt": "You should also try out https://github.com/mapbox/earcut.hpp for the benchmark — it got a refine function recently that refines earcut output to Delaunay as well, and earcut+refine is still pretty fast.", "kind": "recommendation", "parent_comment_id": "50195879"}]
+    },
+    {
+      "name": "Quad9",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://quad9.net/service/service-addresses-and-features",
+      "hn_url": "https://news.ycombinator.com/item?id=50195959",
+      "source_story_title": "Quad9 (DNS Resolver) to Exit France",
+      "summary": "Privacy-focused DNS resolver with malware blocking; a current user says it works great.",
+      "why_included": "Independent first-hand praise qualifies the resolver beyond its appearance as the story subject.",
+      "evidence": "A current user explicitly says Quad9 works great in the discussion about its exit from France.",
+      "evidence_sources": [{"comment_id": "50200221", "comment_url": "https://news.ycombinator.com/item?id=50200221", "author": "tommica", "excerpt": "I use quad9 and it works great!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50200111"}]
+    },
+    {
+      "name": "Include Security",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://includesecurity.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50173716",
+      "source_story_title": "PingCap TiDB Leaks",
+      "summary": "Security assessment firm recommended for reasonable pricing; entry-level reviews may miss subtle issues.",
+      "why_included": "An explicit recommendation includes a specific limitation on the entry-level service.",
+      "evidence": "A commenter recommends Include Security as reasonably priced for finding glaring issues, while cautioning that subtle issues may escape entry-level reviews.",
+      "evidence_sources": [{"comment_id": "50197139", "comment_url": "https://news.ycombinator.com/item?id=50197139", "author": "kobieps", "excerpt": "I can recommend https://includesecurity.com/ , they're very reasonably priced and will probably catch any glaring issues you have, but they probably won't catch any subtle issues on their entry-level pricing.", "kind": "recommendation", "parent_comment_id": "50196709"}]
+    },
+    {
+      "name": "Zen Browser",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://zen-browser.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50197601",
+      "source_story_title": "A farewell to Arc browser",
+      "summary": "Firefox-based browser recommended by an Arc migrant as a near drop-in replacement.",
+      "why_included": "A migrated user explicitly recommends a concrete browser alternative rather than merely considering it.",
+      "evidence": "A user who moved from Arc highly recommends Zen as a near drop-in replacement, noting its Firefox foundation.",
+      "evidence_sources": [{"comment_id": "50201028", "comment_url": "https://news.ycombinator.com/item?id=50201028", "author": "constantlm", "excerpt": "I've been expecting this news for a while, and I moved to Zen when they changed direction originally. Can highly recommend it as a near drop-in replacement for Arc, albeit built on Firefox.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "GLS Bank",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.gls.de/",
+      "hn_url": "https://news.ycombinator.com/item?id=50197404",
+      "source_story_title": "Getting ready to operate GNU Taler in Germany",
+      "summary": "German bank endorsed by a happy customer in the GNU Taler payments discussion.",
+      "why_included": "Explicit customer satisfaction offers a concrete financial-service discovery beyond software tools.",
+      "evidence": "A happy GLS Bank customer praises learning of the bank's involvement in Taler.",
+      "evidence_sources": [{"comment_id": "50200877", "comment_url": "https://news.ycombinator.com/item?id=50200877", "author": "jttnr", "excerpt": "I'm a happy GLS Bank customer, and I've just learned about its involvement in Taler. Pretty awesome.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Sunshine",
+      "category": "Games & Systems",
+      "thing_url": "https://docs.lizardbyte.dev/projects/sunshine/latest/",
+      "hn_url": "https://news.ycombinator.com/item?id=50194009",
+      "source_story_title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "summary": "Self-hosted game streaming; one user streams Steam to a Raspberry Pi with low latency.",
+      "why_included": "Beyond the cooldown, a concrete Raspberry Pi setup supplies a useful first-hand adoption example.",
+      "evidence": "A user reports streaming their Steam library through Sunshine to a Raspberry Pi 3 with under 10 ms input latency over Wi-Fi, while noting electricity costs.",
+      "evidence_sources": [{"comment_id": "50194446", "comment_url": "https://news.ycombinator.com/item?id=50194446", "author": "trey-jones", "excerpt": "I built it for inference, but I also set it up to run sunshine server and now I have my Steam library on the TV through a Raspberry Pi 3. Even better, it was a fun and interesting project, maybe not as straightforward as you think. Unfortunately it's entirely possible that it costs .24/hr just for the electricity. Now, this feels fine with <10ms input latency over wifi.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Leland Sklar's YouTube channel",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/@lelandsklar6363/videos",
+      "hn_url": "https://news.ycombinator.com/item?id=50150163",
+      "source_story_title": "What Is Gridifcation",
+      "summary": "Studio bassist's channel mixing recording-session stories with play-alongs to songs he recorded.",
+      "why_included": "Direct praise and a vivid musical example make this a strong non-software discovery.",
+      "evidence": "A commenter calls Sklar's channel great and describes its studio stories and recorded-song play-alongs.",
+      "evidence_sources": [{"comment_id": "50197723", "comment_url": "https://news.ycombinator.com/item?id=50197723", "author": "tasty_freeze", "excerpt": "Famous studio and touring bassist Lee Sklar has a great youtube channel [1] where he tells war stories and plays along to a few of the thousands of songs he has recorded on over the past 50 years.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Soup Emporium's Yellowstone explainer",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=ypn3Fe_PLts",
+      "hn_url": "https://news.ycombinator.com/item?id=50157456",
+      "source_story_title": "Startup taps underwater volcano as energy source in “proof point” test",
+      "summary": "Yellowstone eruption explainer praised for its review of the available scientific literature.",
+      "why_included": "A specific recommended video adds a science rabbit hole with a direct watch link.",
+      "evidence": "A commenter recommends Soup Emporium's linked video as an excellent review of the literature available as of 2022.",
+      "evidence_sources": [{"comment_id": "50200195", "comment_url": "https://news.ycombinator.com/item?id=50200195", "author": "Elidrake24", "excerpt": "If you're sincerely curious, Soup Emporium has an excellent review of the available literature on the topic, as of 2022.", "kind": "recommendation", "parent_comment_id": "50199913"}]
+    }
+  ]
+}

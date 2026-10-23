@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T03:19:38+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-10-23",
+  "id": "2026-10-23",
+  "mention_ids": [
+    "2026-10-23:iron-proxy:50198675",
+    "2026-10-23:lima:50198675",
+    "2026-10-23:earcut-hpp:50193170",
+    "2026-10-23:quad9:50195959",
+    "2026-10-23:include-security:50173716",
+    "2026-10-23:zen-browser:50197601",
+    "2026-10-23:gls-bank:50197404",
+    "2026-10-23:sunshine:50194009",
+    "2026-10-23:leland-sklar-s-youtube-channel:50150163",
+    "2026-10-23:soup-emporium-s-yellowstone-explainer:50157456"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

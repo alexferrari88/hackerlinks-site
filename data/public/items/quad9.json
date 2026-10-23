@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-23T03:19:38+00:00",
+  "id": "quad9",
+  "last_seen_at": "2026-10-23T03:19:38+00:00",
+  "latest_mention_id": "2026-10-23:quad9:50195959",
+  "mention_ids": [
+    "2026-10-23:quad9:50195959"
+  ],
+  "name": "Quad9",
+  "slug": "quad9",
+  "summary": "Privacy-focused DNS resolver with malware blocking; a current user says it works great.",
+  "thing_url": "https://quad9.net/service/service-addresses-and-features",
+  "times_seen": 1,
+  "why_included": "Independent first-hand praise qualifies the resolver beyond its appearance as the story subject."
+}

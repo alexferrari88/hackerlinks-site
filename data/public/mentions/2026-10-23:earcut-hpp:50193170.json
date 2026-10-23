@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends benchmarking earcut.hpp and says its recently added refine function produces Delaunay output while remaining fast.",
+  "evidence_sources": [
+    {
+      "author": "mourner",
+      "comment_id": "50196724",
+      "comment_url": "https://news.ycombinator.com/item?id=50196724",
+      "excerpt": "You should also try out https://github.com/mapbox/earcut.hpp for the benchmark \u2014 it got a refine function recently that refines earcut output to Delaunay as well, and earcut+refine is still pretty fast.",
+      "kind": "recommendation",
+      "parent_comment_id": "50195879"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50193170",
+  "id": "2026-10-23:earcut-hpp:50193170",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "earcut-hpp",
+  "rank": 3,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50193170",
+  "source_story_title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms"
+}

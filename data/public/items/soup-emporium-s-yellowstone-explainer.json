@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-23T03:19:38+00:00",
+  "id": "soup-emporium-s-yellowstone-explainer",
+  "last_seen_at": "2026-10-23T03:19:38+00:00",
+  "latest_mention_id": "2026-10-23:soup-emporium-s-yellowstone-explainer:50157456",
+  "mention_ids": [
+    "2026-10-23:soup-emporium-s-yellowstone-explainer:50157456"
+  ],
+  "name": "Soup Emporium's Yellowstone explainer",
+  "slug": "soup-emporium-s-yellowstone-explainer",
+  "summary": "Yellowstone eruption explainer praised for its review of the available scientific literature.",
+  "thing_url": "https://www.youtube.com/watch?v=ypn3Fe_PLts",
+  "times_seen": 1,
+  "why_included": "A specific recommended video adds a science rabbit hole with a direct watch link."
+}

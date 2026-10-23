@@ -2,49 +2,264 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
-    {"name": "Oxc", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "OpenBSD", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "Nordwand Mono", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "microG", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "ATV Launcher Pro", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "Switchfin", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "Weball", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "River Bend Lab", "first_reported_at": "2026-10-21T03:17:28.597704+00:00", "last_reported_at": "2026-10-21T03:17:28.597704+00:00", "times_reported": 1},
-    {"name": "TermRover", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "Happier", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "onion2k/guardrails", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "Plezy", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "moteus", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "Human Resource Machine", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "Sebastian Thrun's DARPA Grand Challenge talk", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "Child Sacrifice in Ancient Israel", "first_reported_at": "2026-10-20T03:17:37Z", "last_reported_at": "2026-10-20T03:17:37Z", "times_reported": 1},
-    {"name": "Pele", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "D2", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "mlua", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "Joker.com", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "Bambu Lab A1", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "Vacuula", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "Duck Pond", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "F for Fake", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "On Self-Delusion and Bounded Rationality", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "Brian David Gilbert’s Zelda Timeline", "first_reported_at": "2026-10-19T03:16:22.047556+00:00", "last_reported_at": "2026-10-19T03:16:22.047556+00:00", "times_reported": 1},
-    {"name": "Esp32sim", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "COMBO", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "Helm", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "C64 Hardware Simulator", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "MapQuest", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "Sailwind", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "Erewhon", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "Transcending the Human", "first_reported_at": "2026-10-18T03:16:28.015131+00:00", "last_reported_at": "2026-10-18T03:16:28.015131+00:00", "times_reported": 1},
-    {"name": "Sill", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "VitruvianOS", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "Woof!", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "9front", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "AVIF", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "Folders", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "The Grain Market in the Roman Empire", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "The Secret of Psalm 46", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
-    {"name": "93% of Paint Splatters are Valid Perl Programs", "first_reported_at": "2026-10-17T03:17:01.863418+00:00", "last_reported_at": "2026-10-17T03:17:01.863418+00:00", "times_reported": 1},
+    {
+      "name": "Oxc",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenBSD",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Nordwand Mono",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "microG",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ATV Launcher Pro",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Switchfin",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Weball",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "River Bend Lab",
+      "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "last_reported_at": "2026-10-21T03:17:28.597704+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "TermRover",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Happier",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "onion2k/guardrails",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Plezy",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "moteus",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Human Resource Machine",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Sebastian Thrun's DARPA Grand Challenge talk",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Child Sacrifice in Ancient Israel",
+      "first_reported_at": "2026-10-20T03:17:37Z",
+      "last_reported_at": "2026-10-20T03:17:37Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Pele",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "D2",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "mlua",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Joker.com",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Bambu Lab A1",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Vacuula",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Duck Pond",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "F for Fake",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "On Self-Delusion and Bounded Rationality",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Brian David Gilbert’s Zelda Timeline",
+      "first_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "last_reported_at": "2026-10-19T03:16:22.047556+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Esp32sim",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "COMBO",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Helm",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "C64 Hardware Simulator",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MapQuest",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sailwind",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Erewhon",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Transcending the Human",
+      "first_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "last_reported_at": "2026-10-18T03:16:28.015131+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sill",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "VitruvianOS",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Woof!",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "9front",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AVIF",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Folders",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Grain Market in the Roman Empire",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Secret of Psalm 46",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "93% of Paint Splatters are Valid Perl Programs",
+      "first_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "last_reported_at": "2026-10-17T03:17:01.863418+00:00",
+      "times_reported": 1
+    },
     {
       "name": "mash-playbook",
       "first_reported_at": "2026-10-16T03:17:15.326300+00:00",
@@ -8340,8 +8555,8 @@
     {
       "name": "Sunshine",
       "first_reported_at": "2026-06-26T21:24:10.400244Z",
-      "last_reported_at": "2026-06-26T21:24:10.400244Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 2
     },
     {
       "name": "Sunwet",
@@ -11043,13 +11258,107 @@
       "last_reported_at": "2026-10-15T03:17:02.468099+00:00",
       "times_reported": 1
     },
-    {"name":"Aikido Safe Chain","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"cargo-audit","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"debsecan","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"Drupal","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"Sean Carroll’s Mindscape","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"Cogito’s West Papua documentary","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"Brass Tactics","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1},
-    {"name":"OpenPandora software repository","first_reported_at":"2026-10-22T05:18:24+02:00","last_reported_at":"2026-10-22T05:18:24+02:00","times_reported":1}
+    {
+      "name": "Aikido Safe Chain",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "cargo-audit",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "debsecan",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Drupal",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sean Carroll’s Mindscape",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cogito’s West Papua documentary",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Brass Tactics",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OpenPandora software repository",
+      "first_reported_at": "2026-10-22T05:18:24+02:00",
+      "last_reported_at": "2026-10-22T05:18:24+02:00",
+      "times_reported": 1
+    },
+    {
+      "name": "iron-proxy",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lima",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "earcut.hpp",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Quad9",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Include Security",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Zen Browser",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "GLS Bank",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Leland Sklar's YouTube channel",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Soup Emporium's Yellowstone explainer",
+      "first_reported_at": "2026-10-23T03:19:38+00:00",
+      "last_reported_at": "2026-10-23T03:19:38+00:00",
+      "times_reported": 1
+    }
   ]
 }

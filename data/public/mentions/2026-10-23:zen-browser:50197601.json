@@ -1,0 +1,23 @@
+{
+  "evidence": "A user who moved from Arc highly recommends Zen as a near drop-in replacement, noting its Firefox foundation.",
+  "evidence_sources": [
+    {
+      "author": "constantlm",
+      "comment_id": "50201028",
+      "comment_url": "https://news.ycombinator.com/item?id=50201028",
+      "context": "first_hand_use",
+      "excerpt": "I've been expecting this news for a while, and I moved to Zen when they changed direction originally. Can highly recommend it as a near drop-in replacement for Arc, albeit built on Firefox.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50197601",
+  "id": "2026-10-23:zen-browser:50197601",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "zen-browser",
+  "rank": 6,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50197601",
+  "source_story_title": "A farewell to Arc browser"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A current user explicitly says Quad9 works great in the discussion about its exit from France.",
+  "evidence_sources": [
+    {
+      "author": "tommica",
+      "comment_id": "50200221",
+      "comment_url": "https://news.ycombinator.com/item?id=50200221",
+      "context": "first_hand_use",
+      "excerpt": "I use quad9 and it works great!",
+      "kind": "recommendation",
+      "parent_comment_id": "50200111"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50195959",
+  "id": "2026-10-23:quad9:50195959",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "quad9",
+  "rank": 4,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50195959",
+  "source_story_title": "Quad9 (DNS Resolver) to Exit France"
+}

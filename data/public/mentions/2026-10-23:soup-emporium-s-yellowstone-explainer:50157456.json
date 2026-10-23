@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Soup Emporium's linked video as an excellent review of the literature available as of 2022.",
+  "evidence_sources": [
+    {
+      "author": "Elidrake24",
+      "comment_id": "50200195",
+      "comment_url": "https://news.ycombinator.com/item?id=50200195",
+      "excerpt": "If you're sincerely curious, Soup Emporium has an excellent review of the available literature on the topic, as of 2022.",
+      "kind": "recommendation",
+      "parent_comment_id": "50199913"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50157456",
+  "id": "2026-10-23:soup-emporium-s-yellowstone-explainer:50157456",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "soup-emporium-s-yellowstone-explainer",
+  "rank": 10,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50157456",
+  "source_story_title": "Startup taps underwater volcano as energy source in \u201cproof point\u201d test"
+}

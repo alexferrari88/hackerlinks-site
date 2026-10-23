@@ -1,0 +1,23 @@
+{
+  "evidence": "A happy GLS Bank customer praises learning of the bank's involvement in Taler.",
+  "evidence_sources": [
+    {
+      "author": "jttnr",
+      "comment_id": "50200877",
+      "comment_url": "https://news.ycombinator.com/item?id=50200877",
+      "context": "first_hand_use",
+      "excerpt": "I'm a happy GLS Bank customer, and I've just learned about its involvement in Taler. Pretty awesome.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50197404",
+  "id": "2026-10-23:gls-bank:50197404",
+  "is_repeat": false,
+  "issue_id": "2026-10-23",
+  "item_id": "gls-bank",
+  "rank": 7,
+  "seen_at": "2026-10-23T03:19:38+00:00",
+  "source_story_id": "50197404",
+  "source_story_title": "Getting ready to operate GNU Taler in Germany"
+}

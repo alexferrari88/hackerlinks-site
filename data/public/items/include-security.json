@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-23T03:19:38+00:00",
+  "id": "include-security",
+  "last_seen_at": "2026-10-23T03:19:38+00:00",
+  "latest_mention_id": "2026-10-23:include-security:50173716",
+  "mention_ids": [
+    "2026-10-23:include-security:50173716"
+  ],
+  "name": "Include Security",
+  "slug": "include-security",
+  "summary": "Security assessment firm recommended for reasonable pricing; entry-level reviews may miss subtle issues.",
+  "thing_url": "https://includesecurity.com/",
+  "times_seen": 1,
+  "why_included": "An explicit recommendation includes a specific limitation on the entry-level service."
+}

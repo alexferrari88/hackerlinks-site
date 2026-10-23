@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-23T03:19:38+00:00",
+  "id": "zen-browser",
+  "last_seen_at": "2026-10-23T03:19:38+00:00",
+  "latest_mention_id": "2026-10-23:zen-browser:50197601",
+  "mention_ids": [
+    "2026-10-23:zen-browser:50197601"
+  ],
+  "name": "Zen Browser",
+  "slug": "zen-browser",
+  "summary": "Firefox-based browser recommended by an Arc migrant as a near drop-in replacement.",
+  "thing_url": "https://zen-browser.app/",
+  "times_seen": 1,
+  "why_included": "A migrated user explicitly recommends a concrete browser alternative rather than merely considering it."
+}
