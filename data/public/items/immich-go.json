@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "immich-go",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:immich-go:50214218",
+  "mention_ids": [
+    "2026-10-24:immich-go:50214218"
+  ],
+  "name": "immich-go",
+  "slug": "immich-go",
+  "summary": "A Google Takeout importer for Immich; one user reports preserving photo metadata.",
+  "thing_url": "https://github.com/simulot/immich-go",
+  "times_seen": 1,
+  "why_included": "A successful migration directly addresses another user's lost-metadata problem."
+}

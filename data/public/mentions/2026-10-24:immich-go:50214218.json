@@ -1,0 +1,23 @@
+{
+  "evidence": "Replying to a metadata-loss report, a user says their Google Takeout migration retained all metadata using immich-go.",
+  "evidence_sources": [
+    {
+      "author": "slickdork",
+      "comment_id": "50217783",
+      "comment_url": "https://news.ycombinator.com/item?id=50217783",
+      "context": "first_hand_use",
+      "excerpt": "I did google take out > immich and it maintained all meta data. I used https://github.com/simulot/immich-go",
+      "kind": "recommendation",
+      "parent_comment_id": "50217698"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50214218",
+  "id": "2026-10-24:immich-go:50214218",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "immich-go",
+  "rank": 4,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50214218",
+  "source_story_title": "Now Google says it might use your Gmail and Google Photos data to target ads"
+}

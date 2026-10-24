@@ -1,0 +1,23 @@
+{
+  "evidence": "A team member recommends connecting the MCP server to a coding agent to explore research ideas, while tempering expectations outside AI and noting the lack of concrete measurements.",
+  "evidence_sources": [
+    {
+      "author": "nasimrahaman_tt",
+      "comment_id": "50207728",
+      "comment_url": "https://news.ycombinator.com/item?id=50207728",
+      "context": "author_or_maintainer",
+      "excerpt": "We haven't done concrete measurements yet, but my intuition is that the quality of Lacuna proposals is a function of density of topics / research directions. Lacuna is most dense around AI topics; for neighboring ones (e.g. bio, physics), I'd join you in tempering expectations. The one thing I could recommend however is rigging up the mcp (https://github.com/tiptreesystems/lacuna-research-mcp) to your code agent and trawling the database for ideas worth thinking about.",
+      "kind": "recommendation",
+      "parent_comment_id": "50207421"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50195002",
+  "id": "2026-10-24:lacuna-research-mcp:50195002",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "lacuna-research-mcp",
+  "rank": 6,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50195002",
+  "source_story_title": "The alien space of science: Coherent but cognitively unavailable directions"
+}

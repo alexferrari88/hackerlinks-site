@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "lacuna-research-mcp",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:lacuna-research-mcp:50195002",
+  "mention_ids": [
+    "2026-10-24:lacuna-research-mcp:50195002"
+  ],
+  "name": "Lacuna Research MCP",
+  "slug": "lacuna-research-mcp",
+  "summary": "An MCP server for exploring research directions with coding agents; strongest around AI topics.",
+  "thing_url": "https://github.com/tiptreesystems/lacuna-research-mcp",
+  "times_seen": 1,
+  "why_included": "The project's team explicitly recommends a concrete research workflow and states its limits."
+}

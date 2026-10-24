@@ -1,0 +1,23 @@
+{
+  "evidence": "A developer reports building GoodMem's authorization model with Codex and Alloy before implementation, while explicitly acknowledging a possible model-to-code gap.",
+  "evidence_sources": [
+    {
+      "author": "svcrunch",
+      "comment_id": "50204788",
+      "comment_url": "https://news.ycombinator.com/item?id=50204788",
+      "context": "first_hand_use",
+      "excerpt": "Along these lines, we used Codex to collaboratively build an alloy model for verifying the authorization model of GoodMem. After building the model, we implemented the code based on it, and, while there could be a gap in the translation process, several hours of red-teaming the server (w/attacker source code access) to try and produce a privilege escalation attack using GLM 5.3 failed.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50202217",
+  "id": "2026-10-24:alloy:50202217",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "alloy",
+  "rank": 1,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50202217",
+  "source_story_title": "LLMs are making formal software verification feasible at a much larger scale"
+}

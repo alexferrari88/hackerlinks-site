@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "the-music-lab-tone-deafness-test",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:the-music-lab-tone-deafness-test:50195488",
+  "mention_ids": [
+    "2026-10-24:the-music-lab-tone-deafness-test:50195488"
+  ],
+  "name": "The Music Lab Tone-Deafness Test",
+  "slug": "the-music-lab-tone-deafness-test",
+  "summary": "A Yale listening experiment that tests relative pitch perception rather than singing ability.",
+  "thing_url": "https://www.themusiclab.org/quizzes/td",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommends the test and reports their own result."
+}

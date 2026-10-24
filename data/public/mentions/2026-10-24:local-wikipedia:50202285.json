@@ -1,0 +1,23 @@
+{
+  "evidence": "A traveler used the site in Tirana, learned neighborhood history, discovered museums and buildings to visit, and called it a useful resource.",
+  "evidence_sources": [
+    {
+      "author": "johnny_lol",
+      "comment_id": "50205757",
+      "comment_url": "https://news.ycombinator.com/item?id=50205757",
+      "context": "first_hand_use",
+      "excerpt": "I used this during my walk around around Tirana, Albania this morning where I'm traveling right now. I learned some interesting history about the neighborhood I'm staying in. Also discovered some museums and buildings nearby that I'd like to check out now. When I visit a new city I usually spend time poking around Google Maps to discover points of interest nearby, but this will be another useful resource. Thanks!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50202285",
+  "id": "2026-10-24:local-wikipedia:50202285",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "local-wikipedia",
+  "rank": 7,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50202285",
+  "source_story_title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
+}

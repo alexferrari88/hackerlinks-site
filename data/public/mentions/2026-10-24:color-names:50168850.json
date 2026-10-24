@@ -1,0 +1,23 @@
+{
+  "evidence": "A developer says the dataset has helped with game palettes and error messages by replacing hex values with readable names.",
+  "evidence_sources": [
+    {
+      "author": "venning",
+      "comment_id": "50207078",
+      "comment_url": "https://news.ycombinator.com/item?id=50207078",
+      "context": "first_hand_use",
+      "excerpt": "Oh, it's yours! Thank you. I've been using this dataset for two years now. It's really helped me in game development; specifically being able to use words instead of hex values in things like error messages and modeling palettes.",
+      "kind": "recommendation",
+      "parent_comment_id": "50205317"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50168850",
+  "id": "2026-10-24:color-names:50168850",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "color-names",
+  "rank": 5,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50168850",
+  "source_story_title": "Color Names"
+}

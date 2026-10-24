@@ -1,0 +1,239 @@
+{
+  "version": 2,
+  "run_date": "2026-10-24",
+  "generated_at": "2026-10-24T03:17:12.172145+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning developer tools, research, local exploration, singing, and film.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-24.json",
+    "sha256": "d42316d93938eaa50dabc7322a0cfd63e6402f11acd3953f68ecc6d5b3abf0dc",
+    "bytes": 3662592,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6079,
+    "fetched_item_count": 6109,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Alloy",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://alloytools.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50202217",
+      "source_story_title": "LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "A software-modeling language and analyzer used to check an authorization design with Codex.",
+      "why_included": "A concrete first-hand example of agent-assisted modeling rather than a generic verification promise.",
+      "evidence": "A developer reports building GoodMem's authorization model with Codex and Alloy before implementation, while explicitly acknowledging a possible model-to-code gap.",
+      "evidence_sources": [
+        {
+          "comment_id": "50204788",
+          "comment_url": "https://news.ycombinator.com/item?id=50204788",
+          "author": "svcrunch",
+          "excerpt": "Along these lines, we used Codex to collaboratively build an alloy model for verifying the authorization model of GoodMem. After building the model, we implemented the code based on it, and, while there could be a gap in the translation process, several hours of red-teaming the server (w/attacker source code access) to try and produce a privilege escalation attack using GLM 5.3 failed.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Janet",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://janet-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50202762",
+      "source_story_title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "summary": "A lightweight, embeddable Lisp praised for portable scripting without a JVM.",
+      "why_included": "An enthusiastic user describes choosing Janet for all their agentic scripting.",
+      "evidence": "A commenter praises Janet's portability and lightweight runtime and says they use it for all their agentic scripts.",
+      "evidence_sources": [
+        {
+          "comment_id": "50206963",
+          "comment_url": "https://news.ycombinator.com/item?id=50206963",
+          "author": "phillc73",
+          "excerpt": "The beautiful thing about Janet is how lightweight and portable it is, no JVM. I use Janet for all my agentic scripting. Python is forbidden in my harness. Janet scripts for everything. Love it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50206766"
+        }
+      ]
+    },
+    {
+      "name": "uuid-utils",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pypi.org/project/uuid-utils/",
+      "hn_url": "https://news.ycombinator.com/item?id=50211746",
+      "source_story_title": "UUIDv7 doesn't have the properties you think it does",
+      "summary": "A Rust-backed Python UUID library recommended after a draft-format UUIDv7 compatibility trap.",
+      "why_included": "A specific debugging experience leads to a direct package recommendation.",
+      "evidence": "A commenter recommends uuid-utils after reporting that the separate uuid7 package used an incompatible draft format.",
+      "evidence_sources": [
+        {
+          "comment_id": "50214713",
+          "comment_url": "https://news.ycombinator.com/item?id=50214713",
+          "author": "btown",
+          "excerpt": "One of my favorite things about UUIDv7: the package https://pypi.org/project/uuid7/ does not implement compliant UUIDv7s, it's from a wholly incompatible draft format. That was not a fun debugging session. https://pypi.org/project/uuid-utils/ is what you want :)",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "immich-go",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/simulot/immich-go",
+      "hn_url": "https://news.ycombinator.com/item?id=50214218",
+      "source_story_title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "A Google Takeout importer for Immich; one user reports preserving photo metadata.",
+      "why_included": "A successful migration directly addresses another user's lost-metadata problem.",
+      "evidence": "Replying to a metadata-loss report, a user says their Google Takeout migration retained all metadata using immich-go.",
+      "evidence_sources": [
+        {
+          "comment_id": "50217783",
+          "comment_url": "https://news.ycombinator.com/item?id=50217783",
+          "author": "slickdork",
+          "excerpt": "I did google take out > immich and it maintained all meta data. I used https://github.com/simulot/immich-go",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50217698"
+        }
+      ]
+    },
+    {
+      "name": "Color Names",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/meodai/color-names",
+      "hn_url": "https://news.ycombinator.com/item?id=50168850",
+      "source_story_title": "Color Names",
+      "summary": "A handpicked color-name dataset that makes palettes and debugging output easier to read.",
+      "why_included": "A game developer describes two years of useful adoption, beyond admiration for the demo.",
+      "evidence": "A developer says the dataset has helped with game palettes and error messages by replacing hex values with readable names.",
+      "evidence_sources": [
+        {
+          "comment_id": "50207078",
+          "comment_url": "https://news.ycombinator.com/item?id=50207078",
+          "author": "venning",
+          "excerpt": "Oh, it's yours! Thank you. I've been using this dataset for two years now. It's really helped me in game development; specifically being able to use words instead of hex values in things like error messages and modeling palettes.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50205317"
+        }
+      ]
+    },
+    {
+      "name": "Lacuna Research MCP",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/tiptreesystems/lacuna-research-mcp",
+      "hn_url": "https://news.ycombinator.com/item?id=50195002",
+      "source_story_title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "summary": "An MCP server for exploring research directions with coding agents; strongest around AI topics.",
+      "why_included": "The project's team explicitly recommends a concrete research workflow and states its limits.",
+      "evidence": "A team member recommends connecting the MCP server to a coding agent to explore research ideas, while tempering expectations outside AI and noting the lack of concrete measurements.",
+      "evidence_sources": [
+        {
+          "comment_id": "50207728",
+          "comment_url": "https://news.ycombinator.com/item?id=50207728",
+          "author": "nasimrahaman_tt",
+          "excerpt": "We haven't done concrete measurements yet, but my intuition is that the quality of Lacuna proposals is a function of density of topics / research directions. Lacuna is most dense around AI topics; for neighboring ones (e.g. bio, physics), I'd join you in tempering expectations. The one thing I could recommend however is rigging up the mcp (https://github.com/tiptreesystems/lacuna-research-mcp) to your code agent and trawling the database for ideas worth thinking about.",
+          "kind": "recommendation",
+          "context": "author_or_maintainer",
+          "parent_comment_id": "50207421"
+        }
+      ]
+    },
+    {
+      "name": "Local Wikipedia",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://edjefferson.com/localwiki/",
+      "hn_url": "https://news.ycombinator.com/item?id=50202285",
+      "source_story_title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "summary": "A nearby-Wikipedia explorer that helped a traveler discover neighborhood history and museums.",
+      "why_included": "A traveler reports a successful real-world walk using the project.",
+      "evidence": "A traveler used the site in Tirana, learned neighborhood history, discovered museums and buildings to visit, and called it a useful resource.",
+      "evidence_sources": [
+        {
+          "comment_id": "50205757",
+          "comment_url": "https://news.ycombinator.com/item?id=50205757",
+          "author": "johnny_lol",
+          "excerpt": "I used this during my walk around around Tirana, Albania this morning where I'm traveling right now. I learned some interesting history about the neighborhood I'm staying in. Also discovered some museums and buildings nearby that I'd like to check out now. When I visit a new city I usually spend time poking around Google Maps to discover points of interest nearby, but this will be another useful resource. Thanks!",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "OnKey",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://singonkey.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50195488",
+      "source_story_title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "summary": "A free Mac singing trainer that compares your pitch against songs you choose.",
+      "why_included": "Independent comments praise a specific feature while clarifying the limits of pitch-only training.",
+      "evidence": "One commenter loves selecting a song for comparison; another calls the app a good starting point but says singing requires breath, technique, rhythm, and more than pitch.",
+      "evidence_sources": [
+        {
+          "comment_id": "50211178",
+          "comment_url": "https://news.ycombinator.com/item?id=50211178",
+          "author": "busssard",
+          "excerpt": "i love the feature where you can select a song to compare to.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "50205902",
+          "comment_url": "https://news.ycombinator.com/item?id=50205902",
+          "author": "enzoaguado",
+          "excerpt": "Singing is about so much more than just hitting the right notes. Breath management is one of the most important skills you can develop to improve your singing. Proper vocal technique helps you avoid injuring your voice when tackling difficult songs. Learning to recognize and use techniques like belting, twang, head voice, chest voice, vocal fry, etc., can really bring your singing to life. Prosody and rhythm training help you develop good timing (one of the most important aspects of music), and there's so much more to it. This kind of app is great for getting started and getting a taste of what singing involves, but it would be awesome to cover these other aspects as well, or at least mention their existence for aspiring singers.",
+          "kind": "caveat",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "The Music Lab Tone-Deafness Test",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.themusiclab.org/quizzes/td",
+      "hn_url": "https://news.ycombinator.com/item?id=50195488",
+      "source_story_title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "summary": "A Yale listening experiment that tests relative pitch perception rather than singing ability.",
+      "why_included": "A commenter explicitly recommends the test and reports their own result.",
+      "evidence": "A commenter calls the Yale site excellent and distinguishes relative pitch perception from producing a pitch.",
+      "evidence_sources": [
+        {
+          "comment_id": "50202551",
+          "comment_url": "https://news.ycombinator.com/item?id=50202551",
+          "author": "wnissen",
+          "excerpt": "In case anyone is interested, you can test your relative pitch perception (as opposed to producing the pitch) in this excellent Yale site:",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Cradle Will Rock",
+      "category": "Watch & Learn",
+      "thing_url": "https://tv.apple.com/us/movie/cradle-will-rock/umc.cmc.5gadbtyubf0uqt8o6rvy00gc3",
+      "hn_url": "https://news.ycombinator.com/item?id=50169499",
+      "source_story_title": "The Real Kevin Bacon",
+      "summary": "A 1999 Tim Robbins ensemble film about art, politics, and resisting censorship.",
+      "why_included": "A film recommendation emerges from a discussion of highly connected actors.",
+      "evidence": "A commenter explicitly urges readers to see the film, praising its dialogue, songs, and sprawling treatment of its themes.",
+      "evidence_sources": [
+        {
+          "comment_id": "50215757",
+          "comment_url": "https://news.ycombinator.com/item?id=50215757",
+          "author": "dofm",
+          "excerpt": "A ridiculously great film you should see, about everything that matters, all in one modestly history-distorting bonkers movie, with some songs and some cracking dialogue:",
+          "kind": "recommendation",
+          "parent_comment_id": "50212592"
+        }
+      ]
+    }
+  ]
+}

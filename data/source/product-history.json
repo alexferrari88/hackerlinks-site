@@ -3,6 +3,66 @@
   "cooldown_days": 90,
   "products": [
     {
+      "name": "Alloy",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Janet",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "uuid-utils",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "immich-go",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Color Names",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lacuna Research MCP",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Local Wikipedia",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OnKey",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Music Lab Tone-Deafness Test",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Cradle Will Rock",
+      "first_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "last_reported_at": "2026-10-24T03:17:12.172145+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "Oxc",
       "first_reported_at": "2026-10-21T03:17:28.597704+00:00",
       "last_reported_at": "2026-10-21T03:17:28.597704+00:00",

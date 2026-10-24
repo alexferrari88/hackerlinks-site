@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls the Yale site excellent and distinguishes relative pitch perception from producing a pitch.",
+  "evidence_sources": [
+    {
+      "author": "wnissen",
+      "comment_id": "50202551",
+      "comment_url": "https://news.ycombinator.com/item?id=50202551",
+      "context": "first_hand_use",
+      "excerpt": "In case anyone is interested, you can test your relative pitch perception (as opposed to producing the pitch) in this excellent Yale site:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50195488",
+  "id": "2026-10-24:the-music-lab-tone-deafness-test:50195488",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "the-music-lab-tone-deafness-test",
+  "rank": 9,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50195488",
+  "source_story_title": "Show HN: OnKey \u2013 I'm a bad singer, so I built an app to show where I'm off-key"
+}

@@ -1,0 +1,30 @@
+{
+  "evidence": "One commenter loves selecting a song for comparison; another calls the app a good starting point but says singing requires breath, technique, rhythm, and more than pitch.",
+  "evidence_sources": [
+    {
+      "author": "busssard",
+      "comment_id": "50211178",
+      "comment_url": "https://news.ycombinator.com/item?id=50211178",
+      "excerpt": "i love the feature where you can select a song to compare to.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "enzoaguado",
+      "comment_id": "50205902",
+      "comment_url": "https://news.ycombinator.com/item?id=50205902",
+      "excerpt": "Singing is about so much more than just hitting the right notes. Breath management is one of the most important skills you can develop to improve your singing. Proper vocal technique helps you avoid injuring your voice when tackling difficult songs. Learning to recognize and use techniques like belting, twang, head voice, chest voice, vocal fry, etc., can really bring your singing to life. Prosody and rhythm training help you develop good timing (one of the most important aspects of music), and there's so much more to it. This kind of app is great for getting started and getting a taste of what singing involves, but it would be awesome to cover these other aspects as well, or at least mention their existence for aspiring singers.",
+      "kind": "caveat",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50195488",
+  "id": "2026-10-24:onkey:50195488",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "onkey",
+  "rank": 8,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50195488",
+  "source_story_title": "Show HN: OnKey \u2013 I'm a bad singer, so I built an app to show where I'm off-key"
+}

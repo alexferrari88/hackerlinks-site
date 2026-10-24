@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommends uuid-utils after reporting that the separate uuid7 package used an incompatible draft format.",
+  "evidence_sources": [
+    {
+      "author": "btown",
+      "comment_id": "50214713",
+      "comment_url": "https://news.ycombinator.com/item?id=50214713",
+      "context": "first_hand_use",
+      "excerpt": "One of my favorite things about UUIDv7: the package https://pypi.org/project/uuid7/ does not implement compliant UUIDv7s, it's from a wholly incompatible draft format. That was not a fun debugging session. https://pypi.org/project/uuid-utils/ is what you want :)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50211746",
+  "id": "2026-10-24:uuid-utils:50211746",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "uuid-utils",
+  "rank": 3,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50211746",
+  "source_story_title": "UUIDv7 doesn't have the properties you think it does"
+}

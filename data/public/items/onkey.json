@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "onkey",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:onkey:50195488",
+  "mention_ids": [
+    "2026-10-24:onkey:50195488"
+  ],
+  "name": "OnKey",
+  "slug": "onkey",
+  "summary": "A free Mac singing trainer that compares your pitch against songs you choose.",
+  "thing_url": "https://singonkey.app/",
+  "times_seen": 1,
+  "why_included": "Independent comments praise a specific feature while clarifying the limits of pitch-only training."
+}

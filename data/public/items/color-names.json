@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "color-names",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:color-names:50168850",
+  "mention_ids": [
+    "2026-10-24:color-names:50168850"
+  ],
+  "name": "Color Names",
+  "slug": "color-names",
+  "summary": "A handpicked color-name dataset that makes palettes and debugging output easier to read.",
+  "thing_url": "https://github.com/meodai/color-names",
+  "times_seen": 1,
+  "why_included": "A game developer describes two years of useful adoption, beyond admiration for the demo."
+}

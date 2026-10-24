@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "janet",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:janet:50202762",
+  "mention_ids": [
+    "2026-10-24:janet:50202762"
+  ],
+  "name": "Janet",
+  "slug": "janet",
+  "summary": "A lightweight, embeddable Lisp praised for portable scripting without a JVM.",
+  "thing_url": "https://janet-lang.org/",
+  "times_seen": 1,
+  "why_included": "An enthusiastic user describes choosing Janet for all their agentic scripting."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "uuid-utils",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:uuid-utils:50211746",
+  "mention_ids": [
+    "2026-10-24:uuid-utils:50211746"
+  ],
+  "name": "uuid-utils",
+  "slug": "uuid-utils",
+  "summary": "A Rust-backed Python UUID library recommended after a draft-format UUIDv7 compatibility trap.",
+  "thing_url": "https://pypi.org/project/uuid-utils/",
+  "times_seen": 1,
+  "why_included": "A specific debugging experience leads to a direct package recommendation."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter praises Janet's portability and lightweight runtime and says they use it for all their agentic scripts.",
+  "evidence_sources": [
+    {
+      "author": "phillc73",
+      "comment_id": "50206963",
+      "comment_url": "https://news.ycombinator.com/item?id=50206963",
+      "context": "first_hand_use",
+      "excerpt": "The beautiful thing about Janet is how lightweight and portable it is, no JVM. I use Janet for all my agentic scripting. Python is forbidden in my harness. Janet scripts for everything. Love it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50206766"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50202762",
+  "id": "2026-10-24:janet:50202762",
+  "is_repeat": false,
+  "issue_id": "2026-10-24",
+  "item_id": "janet",
+  "rank": 2,
+  "seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "source_story_id": "50202762",
+  "source_story_title": "Jank \u2013 The native Clojure dialect with seamless C++ interop"
+}

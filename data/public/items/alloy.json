@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "alloy",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:alloy:50202217",
+  "mention_ids": [
+    "2026-10-24:alloy:50202217"
+  ],
+  "name": "Alloy",
+  "slug": "alloy",
+  "summary": "A software-modeling language and analyzer used to check an authorization design with Codex.",
+  "thing_url": "https://alloytools.org/",
+  "times_seen": 1,
+  "why_included": "A concrete first-hand example of agent-assisted modeling rather than a generic verification promise."
+}

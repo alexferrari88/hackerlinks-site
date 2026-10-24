@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "id": "local-wikipedia",
+  "last_seen_at": "2026-10-24T03:17:12.172145+00:00",
+  "latest_mention_id": "2026-10-24:local-wikipedia:50202285",
+  "mention_ids": [
+    "2026-10-24:local-wikipedia:50202285"
+  ],
+  "name": "Local Wikipedia",
+  "slug": "local-wikipedia",
+  "summary": "A nearby-Wikipedia explorer that helped a traveler discover neighborhood history and museums.",
+  "thing_url": "https://edjefferson.com/localwiki/",
+  "times_seen": 1,
+  "why_included": "A traveler reports a successful real-world walk using the project."
+}
