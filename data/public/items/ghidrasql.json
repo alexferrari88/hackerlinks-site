@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "ghidrasql",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:ghidrasql:50218633",
+  "mention_ids": [
+    "2026-10-25:ghidrasql:50218633"
+  ],
+  "name": "GhidraSQL",
+  "slug": "ghidrasql",
+  "summary": "SQL interface to Ghidra; praised for exposing agent tools as virtual tables.",
+  "thing_url": "https://github.com/0xeb/ghidrasql",
+  "times_seen": 1,
+  "why_included": "A reverse-engineering experiment produced a specific endorsement of the tool-interface design."
+}

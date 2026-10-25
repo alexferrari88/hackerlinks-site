@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:16:23+00:00",
+  "headline": "11 interesting things surfaced from HN on 2026-10-25",
+  "id": "2026-10-25",
+  "mention_ids": [
+    "2026-10-25:rqlite:50217500",
+    "2026-10-25:dagger:50222622",
+    "2026-10-25:ghidrasql:50218633",
+    "2026-10-25:performance-analysis-and-tuning-on-modern-cpus:50218195",
+    "2026-10-25:vdo-ninja:50218430",
+    "2026-10-25:func-godot:50193677",
+    "2026-10-25:city-design-documentation:50194536",
+    "2026-10-25:catlike-coding:50180251",
+    "2026-10-25:oxygen-the-molecule-that-made-the-world:50168075",
+    "2026-10-25:why-birds-can-fly-over-mount-everest:50168075",
+    "2026-10-25:marco-reps-cern-tour:50186450"
+  ],
+  "summary": {
+    "items_surfaced": 11,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

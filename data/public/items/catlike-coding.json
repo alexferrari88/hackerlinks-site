@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "catlike-coding",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:catlike-coding:50180251",
+  "mention_ids": [
+    "2026-10-25:catlike-coding:50180251"
+  ],
+  "name": "Catlike Coding",
+  "slug": "catlike-coding",
+  "summary": "Graphics-programming tutorials; independently praised as a consistently good learning resource.",
+  "thing_url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+  "times_seen": 1,
+  "why_included": "A comment independently endorses the tutorial resource rather than merely repeating the story subject."
+}

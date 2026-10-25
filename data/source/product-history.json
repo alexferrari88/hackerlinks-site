@@ -2,6 +2,17 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "rqlite", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "Dagger", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "GhidraSQL", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "Performance Analysis and Tuning on Modern CPUs", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "VDO.ninja", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "func_godot", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "µCity design documentation", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "Catlike Coding", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "Oxygen: The Molecule That Made the World", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "Why Birds Can Fly Over Mount Everest", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
+    {"name": "Marco Reps' CERN tour", "first_reported_at": "2026-10-25T04:18:07.261675+00:00", "last_reported_at": "2026-10-25T04:18:07.261675+00:00", "times_reported": 1},
     {
       "name": "Alloy",
       "first_reported_at": "2026-10-24T03:17:12.172145+00:00",

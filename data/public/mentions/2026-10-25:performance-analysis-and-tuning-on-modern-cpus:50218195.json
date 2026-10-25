@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter names Denis Bakhvalov's book as their best resource for bridging software and hardware.",
+  "evidence_sources": [
+    {
+      "author": "whilenot-dev",
+      "comment_id": "50218780",
+      "comment_url": "https://news.ycombinator.com/item?id=50218780",
+      "excerpt": "The best one I can come up with is Performance Analysis and Tuning on Modern CPUs",
+      "kind": "recommendation",
+      "parent_comment_id": "50218599"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50218195",
+  "id": "2026-10-25:performance-analysis-and-tuning-on-modern-cpus:50218195",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "performance-analysis-and-tuning-on-modern-cpus",
+  "rank": 4,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50218195",
+  "source_story_title": "How close can pure functional programming get to C?"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports successful imports of triggers, lights, materials, and sounds, and calls the workflow awesome for prototyping.",
+  "evidence_sources": [
+    {
+      "author": "paczki",
+      "comment_id": "50218729",
+      "comment_url": "https://news.ycombinator.com/item?id=50218729",
+      "context": "first_hand_use",
+      "excerpt": "func_godot works better than I expected it to the first time I used it, properly imports and compiles triggers, lights, materials, sounds, etc straight from trenchbroom so you really can do 90% of your work in trenchbroom. It's awesome for prototyping!",
+      "kind": "recommendation",
+      "parent_comment_id": "50218559"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50193677",
+  "id": "2026-10-25:func-godot:50193677",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "func-godot",
+  "rank": 6,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50193677",
+  "source_story_title": "The Quake Fan who built the map editor everybody uses"
+}

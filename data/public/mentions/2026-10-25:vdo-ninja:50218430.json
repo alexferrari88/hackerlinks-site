@@ -1,0 +1,23 @@
+{
+  "evidence": "A user praises its lightweight browser video transport and describes using it for webcams, remote movies, calls, and screen streaming.",
+  "evidence_sources": [
+    {
+      "author": "NamTaf",
+      "comment_id": "50221063",
+      "comment_url": "https://news.ycombinator.com/item?id=50221063",
+      "context": "first_hand_use",
+      "excerpt": "Adjacent to OBS, I want to give an unsolicited shoutout to VDO.ninja. It's a very lightweight way to push low latency video between devices via the browser. I've used it to turn my phone into a webcam, to jointly watch movies remotely (with simultaneous voice chat included), to make a multi-person video call, to stream my phone's screen to my desktop, etc All kinds of cool uses.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50218430",
+  "id": "2026-10-25:vdo-ninja:50218430",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "vdo-ninja",
+  "rank": 5,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50218430",
+  "source_story_title": "OBS Studio 33"
+}

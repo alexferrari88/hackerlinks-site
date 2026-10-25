@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "func-godot",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:func-godot:50193677",
+  "mention_ids": [
+    "2026-10-25:func-godot:50193677"
+  ],
+  "name": "func_godot",
+  "slug": "func-godot",
+  "summary": "Godot map importer; praised for bringing TrenchBroom levels into playable prototypes.",
+  "thing_url": "https://github.com/func-godot/func_godot_plugin",
+  "times_seen": 1,
+  "why_included": "A first-hand user explicitly praised the import workflow for rapid prototyping."
+}

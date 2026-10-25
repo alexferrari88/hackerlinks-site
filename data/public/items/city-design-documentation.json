@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "city-design-documentation",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:city-design-documentation:50194536",
+  "mention_ids": [
+    "2026-10-25:city-design-documentation:50194536"
+  ],
+  "name": "\u00b5City design documentation",
+  "slug": "city-design-documentation",
+  "summary": "Game Boy Color city-builder design notes praised for explaining constrained simulation.",
+  "thing_url": "https://github.com/AntonioND/ucity/blob/master/docs/index.rst",
+  "times_seen": 1,
+  "why_included": "The recommendation points to substantive implementation documentation rather than a passing game mention."
+}

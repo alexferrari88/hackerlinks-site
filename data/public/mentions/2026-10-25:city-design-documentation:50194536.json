@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises the in-depth documentation explaining how a lively city simulation fits an 8-bit machine.",
+  "evidence_sources": [
+    {
+      "author": "retrac",
+      "comment_id": "50219697",
+      "comment_url": "https://news.ycombinator.com/item?id=50219697",
+      "excerpt": "The author has some great in-depth docs about the design, and how they managed to make a fairly lively-seeming simulation fit into a machine with an 8 MHz 8-bit processor.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50194536",
+  "id": "2026-10-25:city-design-documentation:50194536",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "city-design-documentation",
+  "rank": 7,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50194536",
+  "source_story_title": "How to run a city builder on 16 MHz"
+}

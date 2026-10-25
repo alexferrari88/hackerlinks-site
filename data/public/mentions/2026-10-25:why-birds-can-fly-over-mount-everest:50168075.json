@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter loves the essay's first-principles explanation and praises its funny, light writing.",
+  "evidence_sources": [
+    {
+      "author": "williamdclt",
+      "comment_id": "50220146",
+      "comment_url": "https://news.ycombinator.com/item?id=50220146",
+      "excerpt": "I love this blog article which explains \"Why Birds Can Fly Over Mount Everest\" from ~first principles starting 450 million years ago, involving the appearance of lignin and the lack of biological processes to break it down. Very funnily and lightly written, just lovely overall:",
+      "kind": "recommendation",
+      "parent_comment_id": "50219967"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50168075",
+  "id": "2026-10-25:why-birds-can-fly-over-mount-everest:50168075",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "why-birds-can-fly-over-mount-everest",
+  "rank": 10,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50168075",
+  "source_story_title": "Rise of collagen-eating microbes may help explain gaps in the fossil record"
+}

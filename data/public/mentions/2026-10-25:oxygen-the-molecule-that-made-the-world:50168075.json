@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Nick Lane's Oxygen a favorite.",
+  "evidence_sources": [
+    {
+      "author": "vibrio",
+      "comment_id": "50220601",
+      "comment_url": "https://news.ycombinator.com/item?id=50220601",
+      "excerpt": "Nick Lane\u2019s book \u201cOxygen\u201c is a favorite.",
+      "kind": "recommendation",
+      "parent_comment_id": "50220146"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50168075",
+  "id": "2026-10-25:oxygen-the-molecule-that-made-the-world:50168075",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "oxygen-the-molecule-that-made-the-world",
+  "rank": 9,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50168075",
+  "source_story_title": "Rise of collagen-eating microbes may help explain gaps in the fossil record"
+}

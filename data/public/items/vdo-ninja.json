@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "vdo-ninja",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:vdo-ninja:50218430",
+  "mention_ids": [
+    "2026-10-25:vdo-ninja:50218430"
+  ],
+  "name": "VDO.ninja",
+  "slug": "vdo-ninja",
+  "summary": "Browser-based low-latency video links for phone webcams, remote watch parties, and calls.",
+  "thing_url": "https://vdo.ninja/",
+  "times_seen": 1,
+  "why_included": "An unsolicited first-hand endorsement covered several practical uses beyond OBS."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises Catlike Coding as a good resource over a long period.",
+  "evidence_sources": [
+    {
+      "author": "coinfused",
+      "comment_id": "50220873",
+      "comment_url": "https://news.ycombinator.com/item?id=50220873",
+      "excerpt": "Catlike coding is such a good resource and has been for a long time. Thanks Jasper Flick!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50180251",
+  "id": "2026-10-25:catlike-coding:50180251",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "catlike-coding",
+  "rank": 8,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50180251",
+  "source_story_title": "Tiling Noise \u2013 Procedural GPU Patterns"
+}

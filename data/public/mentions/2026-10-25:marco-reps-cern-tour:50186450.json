@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Marco Reps' tour and supplies a timestamp for the antimatter factory segment.",
+  "evidence_sources": [
+    {
+      "author": "CamperBob2",
+      "comment_id": "50224215",
+      "comment_url": "https://news.ycombinator.com/item?id=50224215",
+      "excerpt": "Got a couple of hours? Check out Marco Reps' tour:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50186450",
+  "id": "2026-10-25:marco-reps-cern-tour:50186450",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "marco-reps-cern-tour",
+  "rank": 11,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50186450",
+  "source_story_title": "Physicists trap a single antimatter particle for a month"
+}

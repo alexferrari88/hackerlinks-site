@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "dagger",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:dagger:50222622",
+  "mention_ids": [
+    "2026-10-25:dagger:50222622"
+  ],
+  "name": "Dagger",
+  "slug": "dagger",
+  "summary": "Container workflow SDK; praised for matching local and CI runs with remote caching.",
+  "thing_url": "https://dagger.io/blog/dagger-10-beta/",
+  "times_seen": 1,
+  "why_included": "A hands-on user explained concrete benefits beyond container builds."
+}

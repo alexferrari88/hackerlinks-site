@@ -1,0 +1,23 @@
+{
+  "evidence": "A Dagger user praises consistent local and CI workflows, remote caching, and reusable SDKs.",
+  "evidence_sources": [
+    {
+      "author": "verdverm",
+      "comment_id": "50223585",
+      "comment_url": "https://news.ycombinator.com/item?id=50223585",
+      "context": "first_hand_use",
+      "excerpt": "Yes, I use Dagger, it's much more than building containers - Container based workflows are the same in CI and locally (you can run containers too), they become one-liners - Remote caching out of the box without extra steps - Multiple language SDKs, unlocks the DAG in BuildKit and containers, real reuse",
+      "kind": "recommendation",
+      "parent_comment_id": "50223516"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50222622",
+  "id": "2026-10-25:dagger:50222622",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "dagger",
+  "rank": 2,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50222622",
+  "source_story_title": "Roku developer repositories moved from GitHub to GitLab"
+}

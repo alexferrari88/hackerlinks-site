@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter used GhidraSQL in a reverse-engineering benchmark and argues its virtual-table interface deserves more attention.",
+  "evidence_sources": [
+    {
+      "author": "nekitamo",
+      "comment_id": "50220395",
+      "comment_url": "https://news.ycombinator.com/item?id=50220395",
+      "context": "evaluated",
+      "excerpt": "I think representing tools for AI as virtual SQL tables is much better than traditional MCP servers, and that this approach deserves a lot more attention. Props to Elias Bachaalany for thinking out of the box and putting it together",
+      "kind": "recommendation",
+      "parent_comment_id": "50219903"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50218633",
+  "id": "2026-10-25:ghidrasql:50218633",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "ghidrasql",
+  "rank": 3,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50218633",
+  "source_story_title": "Root shell on Samsung TV"
+}

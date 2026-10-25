@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "run_date": "2026-10-25",
+  "generated_at": "2026-10-25T04:16:23+00:00",
+  "summary": "Eleven comment-endorsed tools, game-development resources, and science reads from a verified full-tree crawl.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-25.json",
+    "sha256": "8ce4754bacb8b81726befab2db9bad5d0aeb04b6f7f3818136166bfa49485005",
+    "bytes": 2447935,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4035,
+    "fetched_item_count": 4065,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "rqlite",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://rqlite.io/docs/features",
+      "hn_url": "https://news.ycombinator.com/item?id=50217500",
+      "source_story_title": "Twelve years of distributed SQLite",
+      "summary": "Distributed SQLite database; warmly recommended by a production control-plane user.",
+      "why_included": "An explicit production endorsement praised both the database and its maintainer.",
+      "evidence": "A production user chose rqlite for an observability control plane and warmly recommends it.",
+      "evidence_sources": [{"comment_id": "50219006", "comment_url": "https://news.ycombinator.com/item?id=50219006", "author": "joostdecock", "excerpt": "We use rqlite in production, it's the database we chose for (the control plane of) an open source observability solution we're building (morio.it). Just came here to say two things: - rqlite is amazing and warmly recommend", "kind": "recommendation", "context": "production_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Dagger",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://dagger.io/blog/dagger-10-beta/",
+      "hn_url": "https://news.ycombinator.com/item?id=50222622",
+      "source_story_title": "Roku developer repositories moved from GitHub to GitLab",
+      "summary": "Container workflow SDK; praised for matching local and CI runs with remote caching.",
+      "why_included": "A hands-on user explained concrete benefits beyond container builds.",
+      "evidence": "A Dagger user praises consistent local and CI workflows, remote caching, and reusable SDKs.",
+      "evidence_sources": [{"comment_id": "50223585", "comment_url": "https://news.ycombinator.com/item?id=50223585", "author": "verdverm", "excerpt": "Yes, I use Dagger, it's much more than building containers - Container based workflows are the same in CI and locally (you can run containers too), they become one-liners - Remote caching out of the box without extra steps - Multiple language SDKs, unlocks the DAG in BuildKit and containers, real reuse", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50223516"}]
+    },
+    {
+      "name": "GhidraSQL",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/0xeb/ghidrasql",
+      "hn_url": "https://news.ycombinator.com/item?id=50218633",
+      "source_story_title": "Root shell on Samsung TV",
+      "summary": "SQL interface to Ghidra; praised for exposing agent tools as virtual tables.",
+      "why_included": "A reverse-engineering experiment produced a specific endorsement of the tool-interface design.",
+      "evidence": "A commenter used GhidraSQL in a reverse-engineering benchmark and argues its virtual-table interface deserves more attention.",
+      "evidence_sources": [{"comment_id": "50220395", "comment_url": "https://news.ycombinator.com/item?id=50220395", "author": "nekitamo", "excerpt": "I think representing tools for AI as virtual SQL tables is much better than traditional MCP servers, and that this approach deserves a lot more attention. Props to Elias Bachaalany for thinking out of the box and putting it together", "kind": "recommendation", "context": "evaluated", "parent_comment_id": "50219903"}]
+    },
+    {
+      "name": "Performance Analysis and Tuning on Modern CPUs",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dendibakh/perf-book",
+      "hn_url": "https://news.ycombinator.com/item?id=50218195",
+      "source_story_title": "How close can pure functional programming get to C?",
+      "summary": "CPU performance book recommended for bridging software patterns and hardware behavior.",
+      "why_included": "A concrete book recommendation emerged from a discussion of memory-access performance.",
+      "evidence": "A commenter names Denis Bakhvalov's book as their best resource for bridging software and hardware.",
+      "evidence_sources": [{"comment_id": "50218780", "comment_url": "https://news.ycombinator.com/item?id=50218780", "author": "whilenot-dev", "excerpt": "The best one I can come up with is Performance Analysis and Tuning on Modern CPUs", "kind": "recommendation", "parent_comment_id": "50218599"}]
+    },
+    {
+      "name": "VDO.ninja",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://vdo.ninja/",
+      "hn_url": "https://news.ycombinator.com/item?id=50218430",
+      "source_story_title": "OBS Studio 33",
+      "summary": "Browser-based low-latency video links for phone webcams, remote watch parties, and calls.",
+      "why_included": "An unsolicited first-hand endorsement covered several practical uses beyond OBS.",
+      "evidence": "A user praises its lightweight browser video transport and describes using it for webcams, remote movies, calls, and screen streaming.",
+      "evidence_sources": [{"comment_id": "50221063", "comment_url": "https://news.ycombinator.com/item?id=50221063", "author": "NamTaf", "excerpt": "Adjacent to OBS, I want to give an unsolicited shoutout to VDO.ninja. It's a very lightweight way to push low latency video between devices via the browser. I've used it to turn my phone into a webcam, to jointly watch movies remotely (with simultaneous voice chat included), to make a multi-person video call, to stream my phone's screen to my desktop, etc All kinds of cool uses.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "func_godot",
+      "category": "Games & Systems",
+      "thing_url": "https://github.com/func-godot/func_godot_plugin",
+      "hn_url": "https://news.ycombinator.com/item?id=50193677",
+      "source_story_title": "The Quake Fan who built the map editor everybody uses",
+      "summary": "Godot map importer; praised for bringing TrenchBroom levels into playable prototypes.",
+      "why_included": "A first-hand user explicitly praised the import workflow for rapid prototyping.",
+      "evidence": "A user reports successful imports of triggers, lights, materials, and sounds, and calls the workflow awesome for prototyping.",
+      "evidence_sources": [{"comment_id": "50218729", "comment_url": "https://news.ycombinator.com/item?id=50218729", "author": "paczki", "excerpt": "func_godot works better than I expected it to the first time I used it, properly imports and compiles triggers, lights, materials, sounds, etc straight from trenchbroom so you really can do 90% of your work in trenchbroom. It's awesome for prototyping!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50218559"}]
+    },
+    {
+      "name": "µCity design documentation",
+      "category": "Games & Systems",
+      "thing_url": "https://github.com/AntonioND/ucity/blob/master/docs/index.rst",
+      "hn_url": "https://news.ycombinator.com/item?id=50194536",
+      "source_story_title": "How to run a city builder on 16 MHz",
+      "summary": "Game Boy Color city-builder design notes praised for explaining constrained simulation.",
+      "why_included": "The recommendation points to substantive implementation documentation rather than a passing game mention.",
+      "evidence": "A commenter praises the in-depth documentation explaining how a lively city simulation fits an 8-bit machine.",
+      "evidence_sources": [{"comment_id": "50219697", "comment_url": "https://news.ycombinator.com/item?id=50219697", "author": "retrac", "excerpt": "The author has some great in-depth docs about the design, and how they managed to make a fairly lively-seeming simulation fit into a machine with an 8 MHz 8-bit processor.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Catlike Coding",
+      "category": "Watch & Learn",
+      "thing_url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "hn_url": "https://news.ycombinator.com/item?id=50180251",
+      "source_story_title": "Tiling Noise – Procedural GPU Patterns",
+      "summary": "Graphics-programming tutorials; independently praised as a consistently good learning resource.",
+      "why_included": "A comment independently endorses the tutorial resource rather than merely repeating the story subject.",
+      "evidence": "A commenter praises Catlike Coding as a good resource over a long period.",
+      "evidence_sources": [{"comment_id": "50220873", "comment_url": "https://news.ycombinator.com/item?id=50220873", "author": "coinfused", "excerpt": "Catlike coding is such a good resource and has been for a long time. Thanks Jasper Flick!", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Oxygen: The Molecule That Made the World",
+      "category": "Watch & Learn",
+      "thing_url": "https://nick-lane.net/books/oxygen-the-molecule-that-made-the-world",
+      "hn_url": "https://news.ycombinator.com/item?id=50168075",
+      "source_story_title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "summary": "Nick Lane's science book about oxygen and life; named a reader favorite.",
+      "why_included": "An explicit favorite-book endorsement adds a substantial science read to the tool-heavy intake.",
+      "evidence": "A commenter calls Nick Lane's Oxygen a favorite.",
+      "evidence_sources": [{"comment_id": "50220601", "comment_url": "https://news.ycombinator.com/item?id=50220601", "author": "vibrio", "excerpt": "Nick Lane’s book “Oxygen“ is a favorite.", "kind": "recommendation", "parent_comment_id": "50220146"}]
+    },
+    {
+      "name": "Why Birds Can Fly Over Mount Everest",
+      "category": "Watch & Learn",
+      "thing_url": "https://nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "hn_url": "https://news.ycombinator.com/item?id=50168075",
+      "source_story_title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "summary": "Science essay connecting high-altitude birds to deep evolutionary history; praised for lively writing.",
+      "why_included": "A specific, enthusiastic reading recommendation offers an accessible evolutionary rabbit hole.",
+      "evidence": "A commenter loves the essay's first-principles explanation and praises its funny, light writing.",
+      "evidence_sources": [{"comment_id": "50220146", "comment_url": "https://news.ycombinator.com/item?id=50220146", "author": "williamdclt", "excerpt": "I love this blog article which explains \"Why Birds Can Fly Over Mount Everest\" from ~first principles starting 450 million years ago, involving the appearance of lignin and the lack of biological processes to break it down. Very funnily and lightly written, just lovely overall:", "kind": "recommendation", "parent_comment_id": "50219967"}]
+    },
+    {
+      "name": "Marco Reps' CERN tour",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=Yibef6nLCv8",
+      "hn_url": "https://news.ycombinator.com/item?id=50186450",
+      "source_story_title": "Physicists trap a single antimatter particle for a month",
+      "summary": "Long-form CERN video tour recommended for a closer look at the antimatter factory.",
+      "why_included": "A direct watch recommendation provides a concrete follow-up to the antimatter discussion.",
+      "evidence": "A commenter recommends Marco Reps' tour and supplies a timestamp for the antimatter factory segment.",
+      "evidence_sources": [{"comment_id": "50224215", "comment_url": "https://news.ycombinator.com/item?id=50224215", "author": "CamperBob2", "excerpt": "Got a couple of hours? Check out Marco Reps' tour:", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

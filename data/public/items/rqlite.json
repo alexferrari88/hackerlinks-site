@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-25T04:16:23+00:00",
+  "id": "rqlite",
+  "last_seen_at": "2026-10-25T04:16:23+00:00",
+  "latest_mention_id": "2026-10-25:rqlite:50217500",
+  "mention_ids": [
+    "2026-10-25:rqlite:50217500"
+  ],
+  "name": "rqlite",
+  "slug": "rqlite",
+  "summary": "Distributed SQLite database; warmly recommended by a production control-plane user.",
+  "thing_url": "https://rqlite.io/docs/features",
+  "times_seen": 1,
+  "why_included": "An explicit production endorsement praised both the database and its maintainer."
+}

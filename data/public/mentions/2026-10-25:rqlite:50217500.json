@@ -1,0 +1,23 @@
+{
+  "evidence": "A production user chose rqlite for an observability control plane and warmly recommends it.",
+  "evidence_sources": [
+    {
+      "author": "joostdecock",
+      "comment_id": "50219006",
+      "comment_url": "https://news.ycombinator.com/item?id=50219006",
+      "context": "production_use",
+      "excerpt": "We use rqlite in production, it's the database we chose for (the control plane of) an open source observability solution we're building (morio.it). Just came here to say two things: - rqlite is amazing and warmly recommend",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50217500",
+  "id": "2026-10-25:rqlite:50217500",
+  "is_repeat": false,
+  "issue_id": "2026-10-25",
+  "item_id": "rqlite",
+  "rank": 1,
+  "seen_at": "2026-10-25T04:16:23+00:00",
+  "source_story_id": "50217500",
+  "source_story_title": "Twelve years of distributed SQLite"
+}
