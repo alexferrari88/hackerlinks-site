@@ -1,0 +1,22 @@
+{
+  "evidence": "talon8635 calls PJ Library a good service for Jewish-themed books.",
+  "evidence_sources": [
+    {
+      "author": "talon8635",
+      "comment_id": "50236089",
+      "comment_url": "https://news.ycombinator.com/item?id=50236089",
+      "excerpt": "For jewish themed books, PJ Library is a similar good service",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50234474",
+  "id": "2026-10-26:pj-library:50234474",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "pj-library",
+  "rank": 5,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50234474",
+  "source_story_title": "Dolly Parton's Imagination Library"
+}

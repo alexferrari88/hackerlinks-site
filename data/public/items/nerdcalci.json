@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-26T04:18:13Z",
+  "id": "nerdcalci",
+  "last_seen_at": "2026-10-26T04:18:13Z",
+  "latest_mention_id": "2026-10-26:nerdcalci:50224210",
+  "mention_ids": [
+    "2026-10-26:nerdcalci:50224210"
+  ],
+  "name": "NerdCalci",
+  "slug": "nerdcalci",
+  "summary": "Offline Android calculator with line-by-line calculations and file-based sessions.",
+  "thing_url": "https://github.com/vishaltelangre/NerdCalci",
+  "times_seen": 1,
+  "why_included": "Direct praise highlights a simple scratchpad workflow rather than a neutral calculator comparison."
+}

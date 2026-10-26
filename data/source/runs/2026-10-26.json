@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-10-26",
+  "generated_at": "2026-10-26T04:18:13Z",
+  "summary": "Nine comment-endorsed discoveries spanning calculators, alternative networking, children's books, strategy games, and nuclear history.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-26.json",
+    "sha256": "0750f0f2c55d2858df9a1b767124c52d00dc0c71ad3e98e1f0d1747216eee548",
+    "bytes": 2748815,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4410,
+    "fetched_item_count": 4440,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 prior-day front-page stories processed | 4,410 comments | history + run artifact updated",
+  "items": [
+    {
+      "name": "NerdCalci",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/vishaltelangre/NerdCalci",
+      "hn_url": "https://news.ycombinator.com/item?id=50224210",
+      "source_story_title": "SpeedCrunch 1.1",
+      "summary": "Offline Android calculator with line-by-line calculations and file-based sessions.",
+      "why_included": "Direct praise highlights a simple scratchpad workflow rather than a neutral calculator comparison.",
+      "evidence": "CarlJW loves NerdCalci and praises its simple, line-by-line, file-based format.",
+      "evidence_sources": [{"comment_id": "50236052", "comment_url": "https://news.ycombinator.com/item?id=50236052", "author": "CarlJW", "excerpt": "I absolutely love NerdCalci! It's simple and gives the same line by line file-based format.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50228879"}]
+    },
+    {
+      "name": "Numbat",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://numbat.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50224210",
+      "source_story_title": "SpeedCrunch 1.1",
+      "summary": "Scientific calculation language with physical units; praised for easy custom-unit definitions.",
+      "why_included": "A user explains a concrete reason for switching: custom units help prevent calculation mistakes.",
+      "evidence": "faldor20 switched from SpeedCrunch to Numbat after surveying alternatives and values defining units on the fly.",
+      "evidence_sources": [{"comment_id": "50231532", "comment_url": "https://news.ycombinator.com/item?id=50231532", "author": "faldor20", "excerpt": "However after surveying the options a while back I switched to numbat. The main advantage is that it's easy to define your own units on the fly.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "SpeedCrunch",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.speedcrunch.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50224210",
+      "source_story_title": "SpeedCrunch 1.1",
+      "summary": "Free desktop scientific calculator; a longtime user praises its equation-scratchpad workflow.",
+      "why_included": "The submitted product independently earns explicit, long-term first-hand approval in the comments.",
+      "evidence": "sammy2255 calls SpeedCrunch a beloved, years-long taskbar fixture and a go-to equation scratchpad.",
+      "evidence_sources": [{"comment_id": "50227001", "comment_url": "https://news.ycombinator.com/item?id=50227001", "author": "sammy2255", "excerpt": "Love speedcrunch it has been sitting on my taskbar for many years always my go-to for quick scratchpad for equations, etc.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Dolly Parton's Imagination Library",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://imaginationlibrary.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50234474",
+      "source_story_title": "Dolly Parton's Imagination Library",
+      "summary": "Free children's book-gifting program, available through participating local partners in supported countries.",
+      "why_included": "A parent gives direct, enthusiastic approval from their family's experience.",
+      "evidence": "talon8635 says their family uses the program and calls it a wonderful service.",
+      "evidence_sources": [{"comment_id": "50236089", "comment_url": "https://news.ycombinator.com/item?id=50236089", "author": "talon8635", "excerpt": "We use it and my son always screen “Dolly!” When we get to her picture in the back jacket. Wonderful service from one of the best Americans to have ever lived.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "PJ Library",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://pjlibrary.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50234474",
+      "source_story_title": "Dolly Parton's Imagination Library",
+      "summary": "Free Jewish children's book program delivering age-appropriate stories to eligible families.",
+      "why_included": "A reply explicitly endorses a named book-gifting alternative rather than merely linking it.",
+      "evidence": "talon8635 calls PJ Library a good service for Jewish-themed books.",
+      "evidence_sources": [{"comment_id": "50236089", "comment_url": "https://news.ycombinator.com/item?id=50236089", "author": "talon8635", "excerpt": "For jewish themed books, PJ Library is a similar good service", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Reticulum-Go",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/Quad4-Software/Reticulum-Go",
+      "hn_url": "https://news.ycombinator.com/item?id=50226577",
+      "source_story_title": "Why Gopher in 2026?",
+      "summary": "Go implementation of the Reticulum networking stack, endorsed after successful use.",
+      "why_included": "A reply offers a specific implementation with successful first-hand use, answering a request for a Go port.",
+      "evidence": "nullwarp reports successfully using the linked Go port of Reticulum.",
+      "evidence_sources": [{"comment_id": "50232242", "comment_url": "https://news.ycombinator.com/item?id=50232242", "author": "nullwarp", "excerpt": "There is a go port of reticulum which I've used with success", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50226913"}]
+    },
+    {
+      "name": "rettui",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/zevaryx/rettui",
+      "hn_url": "https://news.ycombinator.com/item?id=50226577",
+      "source_story_title": "Why Gopher in 2026?",
+      "summary": "Reticulum terminal and web interface, recommended as a NomadNet replacement.",
+      "why_included": "A commenter explicitly likes the linked project for a concrete alternative-networking workflow.",
+      "evidence": "nullwarp says they like rettui as a full NomadNet replacement.",
+      "evidence_sources": [{"comment_id": "50232242", "comment_url": "https://news.ycombinator.com/item?id=50232242", "author": "nullwarp", "excerpt": "(i like https://github.com/zevaryx/rettui for a full nomadnet replacement)", "kind": "recommendation", "parent_comment_id": "50226913"}]
+    },
+    {
+      "name": "The Battle for Wesnoth",
+      "category": "Games & Systems",
+      "thing_url": "https://www.wesnoth.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50230384",
+      "source_story_title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "summary": "Turn-based strategy game praised for terrain, day/night cycles, and tactical advantages.",
+      "why_included": "A nested reply supplies specific, first-hand praise for a concrete alternative game.",
+      "evidence": "pennomi recommends Wesnoth for exploiting situational advantages and calls it exceptionally tactical in their experience.",
+      "evidence_sources": [{"comment_id": "50233323", "comment_url": "https://news.ycombinator.com/item?id=50233323", "author": "pennomi", "excerpt": "Wesnoth is great if you like games where you have to create and exploit situational advantages. Using advantageous terrain, the day/night cycle, and varied unit types makes it one of the most tactical games I’ve played.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50232655"}]
+    },
+    {
+      "name": "Russian Strategic Nuclear Forces",
+      "category": "Watch & Learn",
+      "thing_url": "https://mitpress.mit.edu/9780262661812/russian-strategic-nuclear-forces",
+      "hn_url": "https://news.ycombinator.com/item?id=50224422",
+      "source_story_title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "summary": "Reference book on Soviet and Russian nuclear forces, edited by Pavel Podvig.",
+      "why_included": "A technical discussion explicitly recommends a named reference book rather than an incidental source host.",
+      "evidence": "Animats describes Russian Strategic Nuclear Forces as apparently definitive and says good sources cite it.",
+      "evidence_sources": [{"comment_id": "50234141", "comment_url": "https://news.ycombinator.com/item?id=50234141", "author": "Animats", "excerpt": "The definitive book on this seems to be \"Russian Strategic Nuclear Forces\"", "kind": "recommendation", "parent_comment_id": "50231902"}]
+    }
+  ]
+}

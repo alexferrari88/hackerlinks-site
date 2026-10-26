@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-26T04:18:13Z",
+  "id": "reticulum-go",
+  "last_seen_at": "2026-10-26T04:18:13Z",
+  "latest_mention_id": "2026-10-26:reticulum-go:50226577",
+  "mention_ids": [
+    "2026-10-26:reticulum-go:50226577"
+  ],
+  "name": "Reticulum-Go",
+  "slug": "reticulum-go",
+  "summary": "Go implementation of the Reticulum networking stack, endorsed after successful use.",
+  "thing_url": "https://github.com/Quad4-Software/Reticulum-Go",
+  "times_seen": 1,
+  "why_included": "A reply offers a specific implementation with successful first-hand use, answering a request for a Go port."
+}

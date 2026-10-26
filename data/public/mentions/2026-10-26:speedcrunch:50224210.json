@@ -1,0 +1,23 @@
+{
+  "evidence": "sammy2255 calls SpeedCrunch a beloved, years-long taskbar fixture and a go-to equation scratchpad.",
+  "evidence_sources": [
+    {
+      "author": "sammy2255",
+      "comment_id": "50227001",
+      "comment_url": "https://news.ycombinator.com/item?id=50227001",
+      "context": "first_hand_use",
+      "excerpt": "Love speedcrunch it has been sitting on my taskbar for many years always my go-to for quick scratchpad for equations, etc.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50224210",
+  "id": "2026-10-26:speedcrunch:50224210",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "speedcrunch",
+  "rank": 3,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50224210",
+  "source_story_title": "SpeedCrunch 1.1"
+}

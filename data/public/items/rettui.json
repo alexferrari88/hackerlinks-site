@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-26T04:18:13Z",
+  "id": "rettui",
+  "last_seen_at": "2026-10-26T04:18:13Z",
+  "latest_mention_id": "2026-10-26:rettui:50226577",
+  "mention_ids": [
+    "2026-10-26:rettui:50226577"
+  ],
+  "name": "rettui",
+  "slug": "rettui",
+  "summary": "Reticulum terminal and web interface, recommended as a NomadNet replacement.",
+  "thing_url": "https://github.com/zevaryx/rettui",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly likes the linked project for a concrete alternative-networking workflow."
+}

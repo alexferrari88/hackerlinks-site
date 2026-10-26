@@ -1,0 +1,23 @@
+{
+  "evidence": "faldor20 switched from SpeedCrunch to Numbat after surveying alternatives and values defining units on the fly.",
+  "evidence_sources": [
+    {
+      "author": "faldor20",
+      "comment_id": "50231532",
+      "comment_url": "https://news.ycombinator.com/item?id=50231532",
+      "context": "first_hand_use",
+      "excerpt": "However after surveying the options a while back I switched to numbat. The main advantage is that it's easy to define your own units on the fly.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50224210",
+  "id": "2026-10-26:numbat:50224210",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "numbat",
+  "rank": 2,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50224210",
+  "source_story_title": "SpeedCrunch 1.1"
+}

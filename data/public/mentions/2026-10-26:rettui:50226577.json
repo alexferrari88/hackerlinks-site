@@ -1,0 +1,22 @@
+{
+  "evidence": "nullwarp says they like rettui as a full NomadNet replacement.",
+  "evidence_sources": [
+    {
+      "author": "nullwarp",
+      "comment_id": "50232242",
+      "comment_url": "https://news.ycombinator.com/item?id=50232242",
+      "excerpt": "(i like https://github.com/zevaryx/rettui for a full nomadnet replacement)",
+      "kind": "recommendation",
+      "parent_comment_id": "50226913"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50226577",
+  "id": "2026-10-26:rettui:50226577",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "rettui",
+  "rank": 7,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50226577",
+  "source_story_title": "Why Gopher in 2026?"
+}

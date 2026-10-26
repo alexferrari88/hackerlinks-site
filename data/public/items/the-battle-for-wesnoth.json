@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-26T04:18:13Z",
+  "id": "the-battle-for-wesnoth",
+  "last_seen_at": "2026-10-26T04:18:13Z",
+  "latest_mention_id": "2026-10-26:the-battle-for-wesnoth:50230384",
+  "mention_ids": [
+    "2026-10-26:the-battle-for-wesnoth:50230384"
+  ],
+  "name": "The Battle for Wesnoth",
+  "slug": "the-battle-for-wesnoth",
+  "summary": "Turn-based strategy game praised for terrain, day/night cycles, and tactical advantages.",
+  "thing_url": "https://www.wesnoth.org/",
+  "times_seen": 1,
+  "why_included": "A nested reply supplies specific, first-hand praise for a concrete alternative game."
+}

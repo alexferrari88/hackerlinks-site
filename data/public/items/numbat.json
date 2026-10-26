@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-26T04:18:13Z",
+  "id": "numbat",
+  "last_seen_at": "2026-10-26T04:18:13Z",
+  "latest_mention_id": "2026-10-26:numbat:50224210",
+  "mention_ids": [
+    "2026-10-26:numbat:50224210"
+  ],
+  "name": "Numbat",
+  "slug": "numbat",
+  "summary": "Scientific calculation language with physical units; praised for easy custom-unit definitions.",
+  "thing_url": "https://numbat.dev/",
+  "times_seen": 1,
+  "why_included": "A user explains a concrete reason for switching: custom units help prevent calculation mistakes."
+}

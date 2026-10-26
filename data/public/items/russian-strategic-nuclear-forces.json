@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-26T04:18:13Z",
+  "id": "russian-strategic-nuclear-forces",
+  "last_seen_at": "2026-10-26T04:18:13Z",
+  "latest_mention_id": "2026-10-26:russian-strategic-nuclear-forces:50224422",
+  "mention_ids": [
+    "2026-10-26:russian-strategic-nuclear-forces:50224422"
+  ],
+  "name": "Russian Strategic Nuclear Forces",
+  "slug": "russian-strategic-nuclear-forces",
+  "summary": "Reference book on Soviet and Russian nuclear forces, edited by Pavel Podvig.",
+  "thing_url": "https://mitpress.mit.edu/9780262661812/russian-strategic-nuclear-forces",
+  "times_seen": 1,
+  "why_included": "A technical discussion explicitly recommends a named reference book rather than an incidental source host."
+}

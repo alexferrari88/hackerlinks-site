@@ -1,0 +1,23 @@
+{
+  "evidence": "CarlJW loves NerdCalci and praises its simple, line-by-line, file-based format.",
+  "evidence_sources": [
+    {
+      "author": "CarlJW",
+      "comment_id": "50236052",
+      "comment_url": "https://news.ycombinator.com/item?id=50236052",
+      "context": "first_hand_use",
+      "excerpt": "I absolutely love NerdCalci! It's simple and gives the same line by line file-based format.",
+      "kind": "recommendation",
+      "parent_comment_id": "50228879"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50224210",
+  "id": "2026-10-26:nerdcalci:50224210",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "nerdcalci",
+  "rank": 1,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50224210",
+  "source_story_title": "SpeedCrunch 1.1"
+}

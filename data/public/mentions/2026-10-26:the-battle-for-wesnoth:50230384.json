@@ -1,0 +1,23 @@
+{
+  "evidence": "pennomi recommends Wesnoth for exploiting situational advantages and calls it exceptionally tactical in their experience.",
+  "evidence_sources": [
+    {
+      "author": "pennomi",
+      "comment_id": "50233323",
+      "comment_url": "https://news.ycombinator.com/item?id=50233323",
+      "context": "first_hand_use",
+      "excerpt": "Wesnoth is great if you like games where you have to create and exploit situational advantages. Using advantageous terrain, the day/night cycle, and varied unit types makes it one of the most tactical games I\u2019ve played.",
+      "kind": "recommendation",
+      "parent_comment_id": "50232655"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50230384",
+  "id": "2026-10-26:the-battle-for-wesnoth:50230384",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "the-battle-for-wesnoth",
+  "rank": 8,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50230384",
+  "source_story_title": "fheroes2: A recreation of Heroes of Might and Magic II game engine"
+}

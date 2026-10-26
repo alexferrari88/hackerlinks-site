@@ -1,0 +1,23 @@
+{
+  "evidence": "nullwarp reports successfully using the linked Go port of Reticulum.",
+  "evidence_sources": [
+    {
+      "author": "nullwarp",
+      "comment_id": "50232242",
+      "comment_url": "https://news.ycombinator.com/item?id=50232242",
+      "context": "first_hand_use",
+      "excerpt": "There is a go port of reticulum which I've used with success",
+      "kind": "recommendation",
+      "parent_comment_id": "50226913"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50226577",
+  "id": "2026-10-26:reticulum-go:50226577",
+  "is_repeat": false,
+  "issue_id": "2026-10-26",
+  "item_id": "reticulum-go",
+  "rank": 6,
+  "seen_at": "2026-10-26T04:18:13Z",
+  "source_story_id": "50226577",
+  "source_story_title": "Why Gopher in 2026?"
+}
