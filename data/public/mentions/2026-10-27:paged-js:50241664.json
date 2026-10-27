@@ -1,0 +1,31 @@
+{
+  "evidence": "One commenter calls Paged.js a good polyfill; a reply identifies it as their go-to for CSS paged media.",
+  "evidence_sources": [
+    {
+      "author": "tingletech",
+      "comment_id": "50246491",
+      "comment_url": "https://news.ycombinator.com/item?id=50246491",
+      "excerpt": "https://pagedjs.org is a pretty good polyfill for [1]",
+      "kind": "recommendation",
+      "parent_comment_id": "50245890"
+    },
+    {
+      "author": "lopsotronic",
+      "comment_id": "50247188",
+      "comment_url": "https://news.ycombinator.com/item?id=50247188",
+      "context": "first_hand_use",
+      "excerpt": "Yeah Paged is my go-to for CSS PMM at the moment.",
+      "kind": "recommendation",
+      "parent_comment_id": "50246491"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50241664",
+  "id": "2026-10-27:paged-js:50241664",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "paged-js",
+  "rank": 3,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50241664",
+  "source_story_title": "Websites Should Be Printable"
+}

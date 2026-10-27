@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter directly links the swissALTI3D elevation model and calls it an excellent resource.",
+  "evidence_sources": [
+    {
+      "author": "stabbles",
+      "comment_id": "50241335",
+      "comment_url": "https://news.ycombinator.com/item?id=50241335",
+      "excerpt": "See https://www.swisstopo.admin.ch/en/height-model-swissalti3d, which is an excellent resource.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50240922",
+  "id": "2026-10-27:swissalti3d:50240922",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "swissalti3d",
+  "rank": 7,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50240922",
+  "source_story_title": "Switzerland. Block by block. At 1:1 scale"
+}

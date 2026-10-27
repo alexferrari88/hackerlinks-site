@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter finished the audiobook and describes it as fascinating and highly recommended.",
+  "evidence_sources": [
+    {
+      "author": "seemaze",
+      "comment_id": "50238509",
+      "comment_url": "https://news.ycombinator.com/item?id=50238509",
+      "context": "first_hand_use",
+      "excerpt": "I just finished listening to the audiobook of Mark Kurlanskys Salt: A World History[0]. Fascinating and highly recommended.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50200957",
+  "id": "2026-10-27:salt-a-world-history:50200957",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "salt-a-world-history",
+  "rank": 9,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50200957",
+  "source_story_title": "Iron Age salt-mining complex found beneath Hallstatt in Austria"
+}

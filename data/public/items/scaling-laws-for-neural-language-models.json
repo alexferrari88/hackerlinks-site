@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "scaling-laws-for-neural-language-models",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:scaling-laws-for-neural-language-models:50237224",
+  "mention_ids": [
+    "2026-10-27:scaling-laws-for-neural-language-models:50237224"
+  ],
+  "name": "Scaling Laws for Neural Language Models",
+  "slug": "scaling-laws-for-neural-language-models",
+  "summary": "A research paper exploring how compute, data, and model size affect performance.",
+  "thing_url": "https://arxiv.org/html/2001.08361v1",
+  "times_seen": 1,
+  "why_included": "An explicit must-read recommendation provides a foundation for understanding LLM scaling."
+}

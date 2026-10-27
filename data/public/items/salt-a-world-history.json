@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "salt-a-world-history",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:salt-a-world-history:50200957",
+  "mention_ids": [
+    "2026-10-27:salt-a-world-history:50200957"
+  ],
+  "name": "Salt: A World History",
+  "slug": "salt-a-world-history",
+  "summary": "Mark Kurlansky\u2019s history of salt, enthusiastically recommended after an audiobook listen.",
+  "thing_url": "https://www.markkurlansky.com/books/salt-a-world-history/",
+  "times_seen": 1,
+  "why_included": "A completed first-hand listen is followed by an unambiguous recommendation."
+}

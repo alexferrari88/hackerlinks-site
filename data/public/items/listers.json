@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "listers",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:listers:50215997",
+  "mention_ids": [
+    "2026-10-27:listers:50215997"
+  ],
+  "name": "Listers",
+  "slug": "listers",
+  "summary": "A birdwatching film praised for revealing the competitive side of the hobby.",
+  "thing_url": "https://www.youtube.com/watch?v=zl-wAqplQAo",
+  "times_seen": 1,
+  "why_included": "A direct viewing recommendation adds an accessible, non-software discovery."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "paged-js",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:paged-js:50241664",
+  "mention_ids": [
+    "2026-10-27:paged-js:50241664"
+  ],
+  "name": "Paged.js",
+  "slug": "paged-js",
+  "summary": "A JavaScript library turning HTML and CSS into print-ready paginated documents.",
+  "thing_url": "https://pagedjs.org",
+  "times_seen": 1,
+  "why_included": "Direct first-hand endorsement makes it a practical lead for HTML-to-print workflows."
+}

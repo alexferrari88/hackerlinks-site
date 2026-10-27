@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the paper a must-read in a discussion of model training efficiency.",
+  "evidence_sources": [
+    {
+      "author": "dannyw",
+      "comment_id": "50240553",
+      "comment_url": "https://news.ycombinator.com/item?id=50240553",
+      "excerpt": "See \u201cScaling Laws for Neural Language Models\u201d, a must read IMO",
+      "kind": "recommendation",
+      "parent_comment_id": "50238176"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50237224",
+  "id": "2026-10-27:scaling-laws-for-neural-language-models:50237224",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "scaling-laws-for-neural-language-models",
+  "rank": 2,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50237224",
+  "source_story_title": "Attention Is Not What You Need (2025)"
+}

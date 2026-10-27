@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T04:15:44+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-10-27",
+  "id": "2026-10-27",
+  "mention_ids": [
+    "2026-10-27:nanochat:50237224",
+    "2026-10-27:scaling-laws-for-neural-language-models:50237224",
+    "2026-10-27:paged-js:50241664",
+    "2026-10-27:titleart:50238708",
+    "2026-10-27:keybytes:50228115",
+    "2026-10-27:whobird:50215997",
+    "2026-10-27:swissalti3d:50240922",
+    "2026-10-27:listers:50215997",
+    "2026-10-27:salt-a-world-history:50200957",
+    "2026-10-27:parisians-an-adventure-history-of-paris:50200152"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

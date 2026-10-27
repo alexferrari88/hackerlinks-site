@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the project inspiring after discussing alternative pin arrangements and staggered key layouts.",
+  "evidence_sources": [
+    {
+      "author": "schiffern",
+      "comment_id": "50246577",
+      "comment_url": "https://news.ycombinator.com/item?id=50246577",
+      "excerpt": "Very inspiring project, thanks for sharing.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50228115",
+  "id": "2026-10-27:keybytes:50228115",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "keybytes",
+  "rank": 5,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50228115",
+  "source_story_title": "Show HN: A Truly Modular Keyboard"
+}

@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "run_date": "2026-10-27",
+  "generated_at": "2026-10-27T04:15:44+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning AI experiments, web tools, hardware, birdwatching, maps, and history.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-27.json",
+    "sha256": "ac99adc06814848e5f097e94b80ac97d3f7929da60105ae3e855449e1c07f160",
+    "bytes": 4225250,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 7038,
+    "fetched_item_count": 7068,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 HN /front stories fully crawled | history + run artifact updated",
+  "items": [
+    {
+      "name": "nanochat",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/karpathy/nanochat",
+      "hn_url": "https://news.ycombinator.com/item?id=50237224",
+      "source_story_title": "Attention Is Not What You Need (2025)",
+      "summary": "A compact LLM training harness recommended for hands-on architecture experiments.",
+      "why_included": "A commenter explicitly recommends experimenting with its minimal training code.",
+      "evidence": "A commenter encourages trying nanochat and making architectural tweaks to learn through experimentation.",
+      "evidence_sources": [{"comment_id": "50240553", "comment_url": "https://news.ycombinator.com/item?id=50240553", "author": "dannyw", "excerpt": "If you find this fascinating and want to dive more, I encourage checking out nanochat (solid GPT-2 repro; minimal LoC); and trying to make architectural tweaks with a coding agent.", "kind": "recommendation", "parent_comment_id": "50238176"}]
+    },
+    {
+      "name": "Scaling Laws for Neural Language Models",
+      "category": "AI & Local Models",
+      "thing_url": "https://arxiv.org/html/2001.08361v1",
+      "hn_url": "https://news.ycombinator.com/item?id=50237224",
+      "source_story_title": "Attention Is Not What You Need (2025)",
+      "summary": "A research paper exploring how compute, data, and model size affect performance.",
+      "why_included": "An explicit must-read recommendation provides a foundation for understanding LLM scaling.",
+      "evidence": "A commenter calls the paper a must-read in a discussion of model training efficiency.",
+      "evidence_sources": [{"comment_id": "50240553", "comment_url": "https://news.ycombinator.com/item?id=50240553", "author": "dannyw", "excerpt": "See “Scaling Laws for Neural Language Models”, a must read IMO", "kind": "recommendation", "parent_comment_id": "50238176"}]
+    },
+    {
+      "name": "Paged.js",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pagedjs.org",
+      "hn_url": "https://news.ycombinator.com/item?id=50241664",
+      "source_story_title": "Websites Should Be Printable",
+      "summary": "A JavaScript library turning HTML and CSS into print-ready paginated documents.",
+      "why_included": "Direct first-hand endorsement makes it a practical lead for HTML-to-print workflows.",
+      "evidence": "One commenter calls Paged.js a good polyfill; a reply identifies it as their go-to for CSS paged media.",
+      "evidence_sources": [
+        {"comment_id": "50246491", "comment_url": "https://news.ycombinator.com/item?id=50246491", "author": "tingletech", "excerpt": "https://pagedjs.org is a pretty good polyfill for [1]", "kind": "recommendation", "parent_comment_id": "50245890"},
+        {"comment_id": "50247188", "comment_url": "https://news.ycombinator.com/item?id=50247188", "author": "lopsotronic", "excerpt": "Yeah Paged is my go-to for CSS PMM at the moment.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50246491"}
+      ]
+    },
+    {
+      "name": "TitleArt",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://titleart.dvy.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50238708",
+      "source_story_title": "Show HN: TitleArt – Make text like it's 1997",
+      "summary": "A retro text-effects editor delivering WordArt-style lettering without flattening text into images.",
+      "why_included": "Independent comment praise highlights a concrete benefit beyond nostalgia.",
+      "evidence": "A commenter praises the nostalgic WordArt look and retaining text rather than converting it into an image.",
+      "evidence_sources": [{"comment_id": "50249981", "comment_url": "https://news.ycombinator.com/item?id=50249981", "author": "marcellosso", "excerpt": "This is great. I used to mess around with WordArt a lot when I was younger and this brought that back. Nice that you can get that look without turning the text into an image.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Keybytes",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/notaroomba/keybytes",
+      "hn_url": "https://news.ycombinator.com/item?id=50228115",
+      "source_story_title": "Show HN: A Truly Modular Keyboard",
+      "summary": "A modular keyboard project exploring individually connected keys and customizable layouts.",
+      "why_included": "A technically engaged commenter independently praises the project and explores layout extensions.",
+      "evidence": "A commenter calls the project inspiring after discussing alternative pin arrangements and staggered key layouts.",
+      "evidence_sources": [{"comment_id": "50246577", "comment_url": "https://news.ycombinator.com/item?id=50246577", "author": "schiffern", "excerpt": "Very inspiring project, thanks for sharing.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "whoBIRD",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/woheller69/whoBIRD",
+      "hn_url": "https://news.ycombinator.com/item?id=50215997",
+      "source_story_title": "Birdwatching rewires the brain and slows cognitive decline",
+      "summary": "An Android app identifying birds from their calls in real time.",
+      "why_included": "An explicit app endorsement supplies a concrete discovery within the birdwatching discussion.",
+      "evidence": "A reply to a bird-identification app recommendation links whoBIRD and calls it a great app.",
+      "evidence_sources": [{"comment_id": "50242350", "comment_url": "https://news.ycombinator.com/item?id=50242350", "author": "72deluxe", "excerpt": "This is also a great app: https://github.com/woheller69/whoBIRD", "kind": "recommendation", "parent_comment_id": "50241467"}]
+    },
+    {
+      "name": "swissALTI3D",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.swisstopo.admin.ch/en/height-model-swissalti3d",
+      "hn_url": "https://news.ycombinator.com/item?id=50240922",
+      "source_story_title": "Switzerland. Block by block. At 1:1 scale",
+      "summary": "A high-precision Swiss terrain dataset for mapping, 3D visualization, and simulations.",
+      "why_included": "An explicit resource endorsement reveals useful geodata behind a Minecraft mapping discussion.",
+      "evidence": "A commenter directly links the swissALTI3D elevation model and calls it an excellent resource.",
+      "evidence_sources": [{"comment_id": "50241335", "comment_url": "https://news.ycombinator.com/item?id=50241335", "author": "stabbles", "excerpt": "See https://www.swisstopo.admin.ch/en/height-model-swissalti3d, which is an excellent resource.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Listers",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=zl-wAqplQAo",
+      "hn_url": "https://news.ycombinator.com/item?id=50215997",
+      "source_story_title": "Birdwatching rewires the brain and slows cognitive decline",
+      "summary": "A birdwatching film praised for revealing the competitive side of the hobby.",
+      "why_included": "A direct viewing recommendation adds an accessible, non-software discovery.",
+      "evidence": "A commenter recommends Listers as a great glimpse into competitive rather than casual birdwatching.",
+      "evidence_sources": [{"comment_id": "50241397", "comment_url": "https://news.ycombinator.com/item?id=50241397", "author": "bob778", "excerpt": "If you haven’t seen it, Listers (https://www.youtube.com/watch?v=zl-wAqplQAo) provides a great glimpse into what competitive birdwatching looks like.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Salt: A World History",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.markkurlansky.com/books/salt-a-world-history/",
+      "hn_url": "https://news.ycombinator.com/item?id=50200957",
+      "source_story_title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "summary": "Mark Kurlansky’s history of salt, enthusiastically recommended after an audiobook listen.",
+      "why_included": "A completed first-hand listen is followed by an unambiguous recommendation.",
+      "evidence": "A commenter finished the audiobook and describes it as fascinating and highly recommended.",
+      "evidence_sources": [{"comment_id": "50238509", "comment_url": "https://news.ycombinator.com/item?id=50238509", "author": "seemaze", "excerpt": "I just finished listening to the audiobook of Mark Kurlanskys Salt: A World History[0]. Fascinating and highly recommended.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Parisians: An Adventure History of Paris",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.panmacmillan.com/authors/graham-robb/parisians/9780330452458",
+      "hn_url": "https://news.ycombinator.com/item?id=50200152",
+      "source_story_title": "Blaise Pascal invented fixed route public transport (2024)",
+      "summary": "Graham Robb’s narrative history of Paris, praised for accessible stories including the metro.",
+      "why_included": "A personal reading endorsement connects transport history to an approachable book.",
+      "evidence": "A commenter enjoyed the book and praises its accessible, entertaining history, including metro construction.",
+      "evidence_sources": [{"comment_id": "50245773", "comment_url": "https://news.ycombinator.com/item?id=50245773", "author": "atourgates", "excerpt": "If you're traveling to or interested in Paris and its history, I really enjoyed \"Parisians: An Adventure History of Paris\" by Graham Robb. Has some good, accessible and entertaining history relating to (among other things) the construction of the metro.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    }
+  ]
+}

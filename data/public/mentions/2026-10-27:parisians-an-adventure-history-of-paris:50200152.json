@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter enjoyed the book and praises its accessible, entertaining history, including metro construction.",
+  "evidence_sources": [
+    {
+      "author": "atourgates",
+      "comment_id": "50245773",
+      "comment_url": "https://news.ycombinator.com/item?id=50245773",
+      "context": "first_hand_use",
+      "excerpt": "If you're traveling to or interested in Paris and its history, I really enjoyed \"Parisians: An Adventure History of Paris\" by Graham Robb. Has some good, accessible and entertaining history relating to (among other things) the construction of the metro.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50200152",
+  "id": "2026-10-27:parisians-an-adventure-history-of-paris:50200152",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "parisians-an-adventure-history-of-paris",
+  "rank": 10,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50200152",
+  "source_story_title": "Blaise Pascal invented fixed route public transport (2024)"
+}

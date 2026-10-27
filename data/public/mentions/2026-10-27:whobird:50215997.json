@@ -1,0 +1,22 @@
+{
+  "evidence": "A reply to a bird-identification app recommendation links whoBIRD and calls it a great app.",
+  "evidence_sources": [
+    {
+      "author": "72deluxe",
+      "comment_id": "50242350",
+      "comment_url": "https://news.ycombinator.com/item?id=50242350",
+      "excerpt": "This is also a great app: https://github.com/woheller69/whoBIRD",
+      "kind": "recommendation",
+      "parent_comment_id": "50241467"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50215997",
+  "id": "2026-10-27:whobird:50215997",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "whobird",
+  "rank": 6,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50215997",
+  "source_story_title": "Birdwatching rewires the brain and slows cognitive decline"
+}

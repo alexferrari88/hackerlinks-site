@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "keybytes",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:keybytes:50228115",
+  "mention_ids": [
+    "2026-10-27:keybytes:50228115"
+  ],
+  "name": "Keybytes",
+  "slug": "keybytes",
+  "summary": "A modular keyboard project exploring individually connected keys and customizable layouts.",
+  "thing_url": "https://github.com/notaroomba/keybytes",
+  "times_seen": 1,
+  "why_included": "A technically engaged commenter independently praises the project and explores layout extensions."
+}

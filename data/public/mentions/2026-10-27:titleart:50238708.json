@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises the nostalgic WordArt look and retaining text rather than converting it into an image.",
+  "evidence_sources": [
+    {
+      "author": "marcellosso",
+      "comment_id": "50249981",
+      "comment_url": "https://news.ycombinator.com/item?id=50249981",
+      "excerpt": "This is great. I used to mess around with WordArt a lot when I was younger and this brought that back. Nice that you can get that look without turning the text into an image.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50238708",
+  "id": "2026-10-27:titleart:50238708",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "titleart",
+  "rank": 4,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50238708",
+  "source_story_title": "Show HN: TitleArt \u2013 Make text like it's 1997"
+}

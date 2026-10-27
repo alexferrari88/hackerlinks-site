@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "titleart",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:titleart:50238708",
+  "mention_ids": [
+    "2026-10-27:titleart:50238708"
+  ],
+  "name": "TitleArt",
+  "slug": "titleart",
+  "summary": "A retro text-effects editor delivering WordArt-style lettering without flattening text into images.",
+  "thing_url": "https://titleart.dvy.io/",
+  "times_seen": 1,
+  "why_included": "Independent comment praise highlights a concrete benefit beyond nostalgia."
+}

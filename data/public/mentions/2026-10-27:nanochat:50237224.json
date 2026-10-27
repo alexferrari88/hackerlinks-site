@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter encourages trying nanochat and making architectural tweaks to learn through experimentation.",
+  "evidence_sources": [
+    {
+      "author": "dannyw",
+      "comment_id": "50240553",
+      "comment_url": "https://news.ycombinator.com/item?id=50240553",
+      "excerpt": "If you find this fascinating and want to dive more, I encourage checking out nanochat (solid GPT-2 repro; minimal LoC); and trying to make architectural tweaks with a coding agent.",
+      "kind": "recommendation",
+      "parent_comment_id": "50238176"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50237224",
+  "id": "2026-10-27:nanochat:50237224",
+  "is_repeat": false,
+  "issue_id": "2026-10-27",
+  "item_id": "nanochat",
+  "rank": 1,
+  "seen_at": "2026-10-27T04:15:44+00:00",
+  "source_story_id": "50237224",
+  "source_story_title": "Attention Is Not What You Need (2025)"
+}

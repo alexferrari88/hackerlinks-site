@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "swissalti3d",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:swissalti3d:50240922",
+  "mention_ids": [
+    "2026-10-27:swissalti3d:50240922"
+  ],
+  "name": "swissALTI3D",
+  "slug": "swissalti3d",
+  "summary": "A high-precision Swiss terrain dataset for mapping, 3D visualization, and simulations.",
+  "thing_url": "https://www.swisstopo.admin.ch/en/height-model-swissalti3d",
+  "times_seen": 1,
+  "why_included": "An explicit resource endorsement reveals useful geodata behind a Minecraft mapping discussion."
+}

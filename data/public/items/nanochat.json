@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-27T04:15:44+00:00",
+  "id": "nanochat",
+  "last_seen_at": "2026-10-27T04:15:44+00:00",
+  "latest_mention_id": "2026-10-27:nanochat:50237224",
+  "mention_ids": [
+    "2026-10-27:nanochat:50237224"
+  ],
+  "name": "nanochat",
+  "slug": "nanochat",
+  "summary": "A compact LLM training harness recommended for hands-on architecture experiments.",
+  "thing_url": "https://github.com/karpathy/nanochat",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly recommends experimenting with its minimal training code."
+}
