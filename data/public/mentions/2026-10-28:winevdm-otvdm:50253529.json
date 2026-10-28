@@ -1,0 +1,31 @@
+{
+  "evidence": "mschuster91 praises the project as legitimate work; NetMageSCW reports years of use with a Fluke voltage recorder's 16-bit application.",
+  "evidence_sources": [
+    {
+      "author": "mschuster91",
+      "comment_id": "50257082",
+      "comment_url": "https://news.ycombinator.com/item?id=50257082",
+      "excerpt": "but this is actually legit and dates back years before slop was even a thing. Nice work.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "NetMageSCW",
+      "comment_id": "50267668",
+      "comment_url": "https://news.ycombinator.com/item?id=50267668",
+      "context": "first_hand_use",
+      "excerpt": "I\u2019ve used WineVDM (otvdm) to run my Fluke 16-bit application to talk to my VR101 Voltage Event Recorder on 64-bit Windows for a few years now.",
+      "kind": "incidental",
+      "parent_comment_id": "50256161"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50253529",
+  "id": "2026-10-28:winevdm-otvdm:50253529",
+  "is_repeat": false,
+  "issue_id": "2026-10-28",
+  "item_id": "winevdm-otvdm",
+  "rank": 4,
+  "seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "source_story_id": "50253529",
+  "source_story_title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows"
+}

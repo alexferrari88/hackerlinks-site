@@ -1,0 +1,23 @@
+{
+  "evidence": "NorthSouthNorth praises their wife's Studio Display over their work LG UltraFine, while noting the LG costs about half as much.",
+  "evidence_sources": [
+    {
+      "author": "NorthSouthNorth",
+      "comment_id": "50264247",
+      "comment_url": "https://news.ycombinator.com/item?id=50264247",
+      "context": "first_hand_use",
+      "excerpt": "I use my wife's Studio Display sometimes and it's a real, real nice piece of hardware. I have a 5k LG ultrafine at work that's spec for spec similar but it feels like a toy in comparison (it's also like half the price though so).",
+      "kind": "recommendation",
+      "parent_comment_id": "50262029"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50258538",
+  "id": "2026-10-28:apple-studio-display:50258538",
+  "is_repeat": false,
+  "issue_id": "2026-10-28",
+  "item_id": "apple-studio-display",
+  "rank": 7,
+  "seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "source_story_id": "50258538",
+  "source_story_title": "New iMac with M6"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "pcblues chose Ghostty after trying several terminals and says it works perfectly, while expressing reluctance to upgrade a working setup.",
+  "evidence_sources": [
+    {
+      "author": "pcblues",
+      "comment_id": "50269026",
+      "comment_url": "https://news.ycombinator.com/item?id=50269026",
+      "context": "first_hand_use",
+      "excerpt": "I have an interesting reason to not upgrade: I use ghostty as my go-to terminal on my linux devices. I chose it after trying four or so with the way I work. It just works perfectly for me.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50261998",
+  "id": "2026-10-28:ghostty:50261998",
+  "is_repeat": true,
+  "issue_id": "2026-10-28",
+  "item_id": "ghostty",
+  "rank": 3,
+  "seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "source_story_id": "50261998",
+  "source_story_title": "Ghostty 1.4"
+}

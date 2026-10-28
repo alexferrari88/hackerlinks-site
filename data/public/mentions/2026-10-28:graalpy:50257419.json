@@ -1,0 +1,22 @@
+{
+  "evidence": "mike_hearn recommends GraalPy, highlighting its JIT and language interoperability; the commenter discloses sitting next to people working on it.",
+  "evidence_sources": [
+    {
+      "author": "mike_hearn",
+      "comment_id": "50258601",
+      "comment_url": "https://news.ycombinator.com/item?id=50258601",
+      "excerpt": "That implementation is called GraalPy and it builds on the JVM: https://graalpy.org/ A bit like Chrome there's a fully open source version and a proprietary version with a few extra bells and whistles, but the latter is entirely free for both open and commercial usage (you can't redistribute it for a fee). So you may as well use it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50257419",
+  "id": "2026-10-28:graalpy:50257419",
+  "is_repeat": false,
+  "issue_id": "2026-10-28",
+  "item_id": "graalpy",
+  "rank": 1,
+  "seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "source_story_id": "50257419",
+  "source_story_title": "Python's experimental JIT to be removed"
+}

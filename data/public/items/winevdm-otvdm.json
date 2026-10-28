@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "id": "winevdm-otvdm",
+  "last_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "latest_mention_id": "2026-10-28:winevdm-otvdm:50253529",
+  "mention_ids": [
+    "2026-10-28:winevdm-otvdm:50253529"
+  ],
+  "name": "WineVDM (otvdm)",
+  "slug": "winevdm-otvdm",
+  "summary": "A compatibility layer for running 16-bit Windows applications on 64-bit Windows.",
+  "thing_url": "https://github.com/otya128/winevdm",
+  "times_seen": 1,
+  "why_included": "Comments supply both explicit praise and a years-long legacy-instrument use case."
+}

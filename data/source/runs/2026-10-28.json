@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "run_date": "2026-10-28",
+  "generated_at": "2026-10-28T04:15:50.887761+00:00",
+  "summary": "Eight comment-endorsed discoveries across developer tools, local AI, chat, hardware, and books.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-28.json",
+    "sha256": "3760b61f6ede203a0614da474215522c376d5704e142702c0b4049e038c1cbc5",
+    "bytes": 3595281,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5938,
+    "fetched_item_count": 5968,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 HN /front stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "GraalPy",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://graalpy.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50257419",
+      "source_story_title": "Python's experimental JIT to be removed",
+      "summary": "A JIT-powered Python runtime with JVM interoperability and single-binary packaging.",
+      "why_included": "A concrete alternative recommended in the CPython JIT discussion, with an affiliation disclosure.",
+      "evidence": "mike_hearn recommends GraalPy, highlighting its JIT and language interoperability; the commenter discloses sitting next to people working on it.",
+      "evidence_sources": [
+        {"comment_id": "50258601", "comment_url": "https://news.ycombinator.com/item?id=50258601", "author": "mike_hearn", "excerpt": "That implementation is called GraalPy and it builds on the JVM: https://graalpy.org/ A bit like Chrome there's a fully open source version and a proprietary version with a few extra bells and whistles, but the latter is entirely free for both open and commercial usage (you can't redistribute it for a fee). So you may as well use it.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Herdr",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://herdr.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319",
+      "source_story_title": "Genie 4",
+      "summary": "A persistent terminal multiplexer for coding agents, praised for everyday terminal use.",
+      "why_included": "First-hand approval extends beyond the project's agent-focused pitch; its previous appearance is outside cooldown.",
+      "evidence": "Zambyte says they really like Herdr even for normal terminal multiplexing.",
+      "evidence_sources": [{"comment_id": "50268877", "comment_url": "https://news.ycombinator.com/item?id=50268877", "author": "Zambyte", "excerpt": "Herdr is designed for AI usage, but I actually really like it even for just normal terminal multiplexing.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50268788"}]
+    },
+    {
+      "name": "Ghostty",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://ghostty.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261998",
+      "source_story_title": "Ghostty 1.4",
+      "summary": "A terminal emulator endorsed by a Linux user after comparing several alternatives.",
+      "why_included": "Independent first-hand endorsement, not merely a release announcement; its earlier appearance is outside cooldown.",
+      "evidence": "pcblues chose Ghostty after trying several terminals and says it works perfectly, while expressing reluctance to upgrade a working setup.",
+      "evidence_sources": [{"comment_id": "50269026", "comment_url": "https://news.ycombinator.com/item?id=50269026", "author": "pcblues", "excerpt": "I have an interesting reason to not upgrade: I use ghostty as my go-to terminal on my linux devices. I chose it after trying four or so with the way I work. It just works perfectly for me.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "WineVDM (otvdm)",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/otya128/winevdm",
+      "hn_url": "https://news.ycombinator.com/item?id=50253529",
+      "source_story_title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "summary": "A compatibility layer for running 16-bit Windows applications on 64-bit Windows.",
+      "why_included": "Comments supply both explicit praise and a years-long legacy-instrument use case.",
+      "evidence": "mschuster91 praises the project as legitimate work; NetMageSCW reports years of use with a Fluke voltage recorder's 16-bit application.",
+      "evidence_sources": [
+        {"comment_id": "50257082", "comment_url": "https://news.ycombinator.com/item?id=50257082", "author": "mschuster91", "excerpt": "but this is actually legit and dates back years before slop was even a thing. Nice work.", "kind": "recommendation", "parent_comment_id": null},
+        {"comment_id": "50267668", "comment_url": "https://news.ycombinator.com/item?id=50267668", "author": "NetMageSCW", "excerpt": "I’ve used WineVDM (otvdm) to run my Fluke 16-bit application to talk to my VR101 Voltage Event Recorder on 64-bit Windows for a few years now.", "kind": "incidental", "context": "first_hand_use", "parent_comment_id": "50256161"}
+      ]
+    },
+    {
+      "name": "Strata",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/niko1221/strata",
+      "hn_url": "https://news.ycombinator.com/item?id=50258538",
+      "source_story_title": "New iMac with M6",
+      "summary": "A local LLM inference engine praised for running larger, less-quantized models.",
+      "why_included": "A first-hand comparison identifies a concrete local-inference tool rather than endorsing local models generically.",
+      "evidence": "plqbfbv recommends Strata after testing it and reports better results with larger, less-quantized models; the same commenter still favors a hosted Claude subscription for occasional coding.",
+      "evidence_sources": [{"comment_id": "50262022", "comment_url": "https://news.ycombinator.com/item?id=50262022", "author": "plqbfbv", "excerpt": "I then tested Strata ( https://github.com/niko1221/strata ) and the results are not even close. You can basically ignore everything in that table and use Strata instead, you can use bigger/less-quantized models and have way better results.", "kind": "recommendation", "context": "evaluated", "parent_comment_id": "50260088"}]
+    },
+    {
+      "name": "Fluxer",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://fluxer.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319",
+      "source_story_title": "Genie 4",
+      "summary": "An open-source chat app with voice, video, screen sharing, and self-hosting.",
+      "why_included": "Strong comparative praise emerges from a broader discussion of useful AI-built software.",
+      "evidence": "Zambyte endorses Fluxer as a Discord competitor that avoids the usual feature-gap objection.",
+      "evidence_sources": [{"comment_id": "50268877", "comment_url": "https://news.ycombinator.com/item?id=50268877", "author": "Zambyte", "excerpt": "Fluxer is the first Discord competitor that when you show to someone they can't say \"well Discord does X better\", and it was largely made using AI.", "kind": "recommendation", "parent_comment_id": "50268788"}]
+    },
+    {
+      "name": "Apple Studio Display",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.apple.com/studio-display/",
+      "hn_url": "https://news.ycombinator.com/item?id=50258538",
+      "source_story_title": "New iMac with M6",
+      "summary": "A 5K desktop monitor praised by someone using both Apple and LG displays.",
+      "why_included": "Direct hands-on approval provides a concrete hardware recommendation beyond the submitted iMac story.",
+      "evidence": "NorthSouthNorth praises their wife's Studio Display over their work LG UltraFine, while noting the LG costs about half as much.",
+      "evidence_sources": [{"comment_id": "50264247", "comment_url": "https://news.ycombinator.com/item?id=50264247", "author": "NorthSouthNorth", "excerpt": "I use my wife's Studio Display sometimes and it's a real, real nice piece of hardware. I have a 5k LG ultrafine at work that's spec for spec similar but it feels like a toy in comparison (it's also like half the price though so).", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50262029"}]
+    },
+    {
+      "name": "The Reverse Centaur's Guide to Life After AI",
+      "category": "Watch & Learn",
+      "thing_url": "https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai",
+      "hn_url": "https://news.ycombinator.com/item?id=50257325",
+      "source_story_title": "AI promised less work. I've never worked more",
+      "summary": "Cory Doctorow's book on when AI assists people—and when people serve machines.",
+      "why_included": "An explicit reading recommendation connects the book to increased AI-era workload.",
+      "evidence": "Amorymeltzer calls Doctorow's book excellent and says everyone should read it.",
+      "evidence_sources": [{"comment_id": "50260866", "comment_url": "https://news.ycombinator.com/item?id=50260866", "author": "Amorymeltzer", "excerpt": "this is basically the entire premise of Cory Doctorow's excellent The Reverse Centaur's Guide To Life After AI, which everyone should read.", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

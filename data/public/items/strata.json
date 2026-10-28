@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "id": "strata",
+  "last_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "latest_mention_id": "2026-10-28:strata:50258538",
+  "mention_ids": [
+    "2026-10-28:strata:50258538"
+  ],
+  "name": "Strata",
+  "slug": "strata",
+  "summary": "A local LLM inference engine praised for running larger, less-quantized models.",
+  "thing_url": "https://github.com/niko1221/strata",
+  "times_seen": 1,
+  "why_included": "A first-hand comparison identifies a concrete local-inference tool rather than endorsing local models generically."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "id": "fluxer",
+  "last_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "latest_mention_id": "2026-10-28:fluxer:50261319",
+  "mention_ids": [
+    "2026-10-28:fluxer:50261319"
+  ],
+  "name": "Fluxer",
+  "slug": "fluxer",
+  "summary": "An open-source chat app with voice, video, screen sharing, and self-hosting.",
+  "thing_url": "https://fluxer.app/",
+  "times_seen": 1,
+  "why_included": "Strong comparative praise emerges from a broader discussion of useful AI-built software."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "Zambyte says they really like Herdr even for normal terminal multiplexing.",
+  "evidence_sources": [
+    {
+      "author": "Zambyte",
+      "comment_id": "50268877",
+      "comment_url": "https://news.ycombinator.com/item?id=50268877",
+      "context": "first_hand_use",
+      "excerpt": "Herdr is designed for AI usage, but I actually really like it even for just normal terminal multiplexing.",
+      "kind": "recommendation",
+      "parent_comment_id": "50268788"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50261319",
+  "id": "2026-10-28:herdr:50261319",
+  "is_repeat": true,
+  "issue_id": "2026-10-28",
+  "item_id": "herdr",
+  "rank": 2,
+  "seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "source_story_id": "50261319",
+  "source_story_title": "Genie 4"
+}

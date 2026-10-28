@@ -3,6 +3,42 @@
   "cooldown_days": 90,
   "products": [
     {
+      "name": "GraalPy",
+      "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "WineVDM (otvdm)",
+      "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Strata",
+      "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fluxer",
+      "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Apple Studio Display",
+      "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Reverse Centaur's Guide to Life After AI",
+      "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "NerdCalci",
       "first_reported_at": "2026-10-26T04:18:13Z",
       "last_reported_at": "2026-10-26T04:18:13Z",
@@ -3941,8 +3977,8 @@
     {
       "name": "Ghostty",
       "first_reported_at": "2026-05-11T21:14:25Z",
-      "last_reported_at": "2026-05-11T21:14:25Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 2
     },
     {
       "name": "GigaToken",
@@ -4349,8 +4385,8 @@
     {
       "name": "Herdr",
       "first_reported_at": "2026-07-07T21:24:40Z",
-      "last_reported_at": "2026-07-07T21:24:40Z",
-      "times_reported": 1
+      "last_reported_at": "2026-10-28T04:15:50.887761+00:00",
+      "times_reported": 2
     },
     {
       "name": "Hermes Agent",

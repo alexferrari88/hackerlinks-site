@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-07-07T21:24:40Z",
   "id": "herdr",
-  "last_seen_at": "2026-07-07T21:24:40Z",
-  "latest_mention_id": "2026-07-07:herdr:48756578",
+  "last_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "latest_mention_id": "2026-10-28:herdr:50261319",
   "mention_ids": [
-    "2026-07-07:herdr:48756578"
+    "2026-07-07:herdr:48756578",
+    "2026-10-28:herdr:50261319"
   ],
   "name": "Herdr",
   "slug": "herdr",
-  "summary": "Terminal for running and reconnecting to AI agent sessions.",
+  "summary": "A persistent terminal multiplexer for coding agents, praised for everyday terminal use.",
   "thing_url": "https://herdr.dev/",
-  "times_seen": 1,
-  "why_included": "Commenters said they already use it for multi-agent workflows."
+  "times_seen": 2,
+  "why_included": "First-hand approval extends beyond the project's agent-focused pitch; its previous appearance is outside cooldown."
 }

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "id": "apple-studio-display",
+  "last_seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "latest_mention_id": "2026-10-28:apple-studio-display:50258538",
+  "mention_ids": [
+    "2026-10-28:apple-studio-display:50258538"
+  ],
+  "name": "Apple Studio Display",
+  "slug": "apple-studio-display",
+  "summary": "A 5K desktop monitor praised by someone using both Apple and LG displays.",
+  "thing_url": "https://www.apple.com/studio-display/",
+  "times_seen": 1,
+  "why_included": "Direct hands-on approval provides a concrete hardware recommendation beyond the submitted iMac story."
+}

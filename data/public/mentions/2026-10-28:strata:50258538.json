@@ -1,0 +1,23 @@
+{
+  "evidence": "plqbfbv recommends Strata after testing it and reports better results with larger, less-quantized models; the same commenter still favors a hosted Claude subscription for occasional coding.",
+  "evidence_sources": [
+    {
+      "author": "plqbfbv",
+      "comment_id": "50262022",
+      "comment_url": "https://news.ycombinator.com/item?id=50262022",
+      "context": "evaluated",
+      "excerpt": "I then tested Strata ( https://github.com/niko1221/strata ) and the results are not even close. You can basically ignore everything in that table and use Strata instead, you can use bigger/less-quantized models and have way better results.",
+      "kind": "recommendation",
+      "parent_comment_id": "50260088"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50258538",
+  "id": "2026-10-28:strata:50258538",
+  "is_repeat": false,
+  "issue_id": "2026-10-28",
+  "item_id": "strata",
+  "rank": 5,
+  "seen_at": "2026-10-28T04:15:50.887761+00:00",
+  "source_story_id": "50258538",
+  "source_story_title": "New iMac with M6"
+}
