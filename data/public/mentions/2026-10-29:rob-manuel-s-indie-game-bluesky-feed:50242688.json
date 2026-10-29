@@ -1,0 +1,22 @@
+{
+  "evidence": "yoz praises the quality of Rob Manuel's links to new indie games on Bluesky.",
+  "evidence_sources": [
+    {
+      "author": "yoz",
+      "comment_id": "50268558",
+      "comment_url": "https://news.ycombinator.com/item?id=50268558",
+      "excerpt": "He also has a BlueSky account, where he posts lots of good links to new indie games:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50242688",
+  "id": "2026-10-29:rob-manuel-s-indie-game-bluesky-feed:50242688",
+  "is_repeat": false,
+  "issue_id": "2026-10-29",
+  "item_id": "rob-manuel-s-indie-game-bluesky-feed",
+  "rank": 7,
+  "seen_at": "2026-10-29T04:16:26+00:00",
+  "source_story_id": "50242688",
+  "source_story_title": "Jokes for the ZX81"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "cyrialize says they heavily rely on beorg to organize personal-life files.",
+  "evidence_sources": [
+    {
+      "author": "cyrialize",
+      "comment_id": "50274094",
+      "comment_url": "https://news.ycombinator.com/item?id=50274094",
+      "context": "first_hand_use",
+      "excerpt": "I have various files to help organize my personal life - I heavily rely on Beorg [2] for that.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50273171",
+  "id": "2026-10-29:beorg:50273171",
+  "is_repeat": false,
+  "issue_id": "2026-10-29",
+  "item_id": "beorg",
+  "rank": 3,
+  "seen_at": "2026-10-29T04:16:26+00:00",
+  "source_story_id": "50273171",
+  "source_story_title": "Emacs Turns 50"
+}

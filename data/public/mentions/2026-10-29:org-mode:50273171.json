@@ -1,0 +1,23 @@
+{
+  "evidence": "cyrialize says Org-mode works best after trying several alternatives and uses it daily for work logs and recurring tasks.",
+  "evidence_sources": [
+    {
+      "author": "cyrialize",
+      "comment_id": "50274094",
+      "comment_url": "https://news.ycombinator.com/item?id=50274094",
+      "context": "first_hand_use",
+      "excerpt": "I sometimes venture out to other apps (like Joplin, Obsidian, Apple Notes, Apple Reminders, etc), but Org-mode just works best for me.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50273171",
+  "id": "2026-10-29:org-mode:50273171",
+  "is_repeat": false,
+  "issue_id": "2026-10-29",
+  "item_id": "org-mode",
+  "rank": 2,
+  "seen_at": "2026-10-29T04:16:26+00:00",
+  "source_story_id": "50273171",
+  "source_story_title": "Emacs Turns 50"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-29T04:16:26+00:00",
+  "id": "panasonic-toughbook-fz-40",
+  "last_seen_at": "2026-10-29T04:16:26+00:00",
+  "latest_mention_id": "2026-10-29:panasonic-toughbook-fz-40:50276940",
+  "mention_ids": [
+    "2026-10-29:panasonic-toughbook-fz-40:50276940"
+  ],
+  "name": "Panasonic Toughbook FZ-40",
+  "slug": "panasonic-toughbook-fz-40",
+  "summary": "Rugged Windows laptop whose touchscreen earns approval from a regular Mac user.",
+  "thing_url": "https://connect.na.panasonic.com/toughbook/rugged-laptops-tablets/toughbook-40",
+  "times_seen": 1,
+  "why_included": "A first-hand owner supplies a concrete counterpoint to abstract laptop-touchscreen debates."
+}

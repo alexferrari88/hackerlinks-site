@@ -1,0 +1,187 @@
+{
+  "version": 2,
+  "run_date": "2026-10-29",
+  "generated_at": "2026-10-29T04:16:26+00:00",
+  "summary": "Eight comment-endorsed finds spanning coding agents, plain-text organization, electronics, rugged hardware, community services, and microscopy.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 /front stories processed · 6,650 comments | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-29.json",
+    "sha256": "08d1fefb6012530d0046ec438f179c7ed430170262e71aa4ad7b83e812661107",
+    "bytes": 3964933,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6650,
+    "fetched_item_count": 6680,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Oh My Pi",
+      "category": "AI & Agent Workflows",
+      "thing_url": "https://github.com/can1357/oh-my-pi",
+      "hn_url": "https://news.ycombinator.com/item?id=50273731",
+      "source_story_title": "The Agent SDK",
+      "summary": "Open-source coding-agent harness praised for easy setup and built-in memory and context tools.",
+      "why_included": "An explicit recommendation names useful out-of-the-box capabilities rather than merely advertising a harness.",
+      "evidence": "duckqlz recommends the harness for newcomers, praising its memory and context-management tools and straightforward setup.",
+      "evidence_sources": [
+        {
+          "comment_id": "50280492",
+          "comment_url": "https://news.ycombinator.com/item?id=50280492",
+          "author": "duckqlz",
+          "excerpt": "I would recommend oh-mi-pi for anyone who wants to get started with using an open source harness as it has very good memory and context management tools that ship with it and are extremely easy to set up.",
+          "kind": "recommendation",
+          "parent_comment_id": "50274644"
+        }
+      ]
+    },
+    {
+      "name": "Org-mode",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://orgmode.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50273171",
+      "source_story_title": "Emacs Turns 50",
+      "summary": "Plain-text Emacs organizer praised for daily work logs, recurring tasks, and keyboard-driven editing.",
+      "why_included": "A long-term user explains why the organizer keeps winning over dedicated note and task apps.",
+      "evidence": "cyrialize says Org-mode works best after trying several alternatives and uses it daily for work logs and recurring tasks.",
+      "evidence_sources": [
+        {
+          "comment_id": "50274094",
+          "comment_url": "https://news.ycombinator.com/item?id=50274094",
+          "author": "cyrialize",
+          "excerpt": "I sometimes venture out to other apps (like Joplin, Obsidian, Apple Notes, Apple Reminders, etc), but Org-mode just works best for me.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "beorg",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.beorgapp.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50273171",
+      "source_story_title": "Emacs Turns 50",
+      "summary": "Org-compatible iPhone and iPad task manager relied on for personal organization.",
+      "why_included": "A concrete mobile companion receives a direct first-hand endorsement rather than a neutral mention.",
+      "evidence": "cyrialize says they heavily rely on beorg to organize personal-life files.",
+      "evidence_sources": [
+        {
+          "comment_id": "50274094",
+          "comment_url": "https://news.ycombinator.com/item?id=50274094",
+          "author": "cyrialize",
+          "excerpt": "I have various files to help organize my personal life - I heavily rely on Beorg [2] for that.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "SDF Public Access UNIX System",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://sdf.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50219275",
+      "source_story_title": "A Love Letter to the Super Dimension Fortress",
+      "summary": "Community UNIX shell and email service whose membership earns a direct user recommendation.",
+      "why_included": "A user recommends supporting the service and identifies email as sufficient personal value.",
+      "evidence": "rustyhancock suggests lifetime ARPA memberships for SDF and its European counterpart, saying the email alone is worth it.",
+      "evidence_sources": [
+        {
+          "comment_id": "50270539",
+          "comment_url": "https://news.ycombinator.com/item?id=50270539",
+          "author": "rustyhancock",
+          "excerpt": "If anyone has the money to spare I'd suggest using $36 to get lifetime ARPA level membership to both SDF.org and SDF-EU.org (so a total of $72). Even if it sits idle. As a way to support the service to continue running. For me the email alone is worth it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "OpenPnP",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://openpnp.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50243060",
+      "source_story_title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "summary": "Open-source PCB pick-and-place system a working manufacturer would choose for a new assembly line.",
+      "why_included": "An electronics manufacturer's conditional recommendation offers a practical alternative to commercial assembly equipment.",
+      "evidence": "Ccecil runs used commercial assembly equipment and says an OpenPnP-based machine would likely be their choice without it; this is not a claim of first-hand OpenPnP use.",
+      "evidence_sources": [
+        {
+          "comment_id": "50255092",
+          "comment_url": "https://news.ycombinator.com/item?id=50255092",
+          "author": "Ccecil",
+          "excerpt": "I run some used Manncorp/Autotronik equipment. Pnp, oven, bunch of hand tools and such for rework (Metcal irons). If I didn't have this I would likely build a line using an openpnp based machine.",
+          "kind": "recommendation",
+          "parent_comment_id": "50254557"
+        }
+      ]
+    },
+    {
+      "name": "Panasonic Toughbook FZ-40",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://connect.na.panasonic.com/toughbook/rugged-laptops-tablets/toughbook-40",
+      "hn_url": "https://news.ycombinator.com/item?id=50276940",
+      "source_story_title": "MacBook Pro with PROLED XDR Display and Touch",
+      "summary": "Rugged Windows laptop whose touchscreen earns approval from a regular Mac user.",
+      "why_included": "A first-hand owner supplies a concrete counterpoint to abstract laptop-touchscreen debates.",
+      "evidence": "jgrahamc uses a Panasonic Toughbook alongside a Mac and finds its touchscreen useful; the linked owner article identifies the model as the FZ-40.",
+      "evidence_sources": [
+        {
+          "comment_id": "50277181",
+          "comment_url": "https://news.ycombinator.com/item?id=50277181",
+          "author": "jgrahamc",
+          "excerpt": "and it has a touch screen display and I find it's a useful addition to how I interact with it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50277005"
+        }
+      ]
+    },
+    {
+      "name": "Rob Manuel's indie-game Bluesky feed",
+      "category": "Watch & Learn",
+      "thing_url": "https://bsky.app/profile/robmanuel.b3ta.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50242688",
+      "source_story_title": "Jokes for the ZX81",
+      "summary": "Curated Bluesky feed recommended for discovering good links to new indie games.",
+      "why_included": "A commenter endorses a specific discovery source beyond the submitted book.",
+      "evidence": "yoz praises the quality of Rob Manuel's links to new indie games on Bluesky.",
+      "evidence_sources": [
+        {
+          "comment_id": "50268558",
+          "comment_url": "https://news.ycombinator.com/item?id=50268558",
+          "author": "yoz",
+          "excerpt": "He also has a BlueSky account, where he posts lots of good links to new indie games:",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Neurons in an expanded mouse brain",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.nikonsmallworld.com/galleries/2026-photomicrography-competition/neurons-in-an-expanded-mouse-brain",
+      "hn_url": "https://news.ycombinator.com/item?id=50234796",
+      "source_story_title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "summary": "Prize-winning microscopy image of mouse-brain neurons singled out as stunning by a commenter.",
+      "why_included": "Explicit praise points to a concrete visual discovery beyond the headline's winning image.",
+      "evidence": "yhjc2692 calls the third-place mouse-brain neuron image stunning and expresses surprise at the brain's appearance.",
+      "evidence_sources": [
+        {
+          "comment_id": "50268524",
+          "comment_url": "https://news.ycombinator.com/item?id=50268524",
+          "author": "yhjc2692",
+          "excerpt": "\"Neurons in an expanded mouse brain\" (3rd place) is also stunning:",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    }
+  ]
+}

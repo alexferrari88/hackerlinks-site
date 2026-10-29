@@ -1,0 +1,22 @@
+{
+  "evidence": "Ccecil runs used commercial assembly equipment and says an OpenPnP-based machine would likely be their choice without it; this is not a claim of first-hand OpenPnP use.",
+  "evidence_sources": [
+    {
+      "author": "Ccecil",
+      "comment_id": "50255092",
+      "comment_url": "https://news.ycombinator.com/item?id=50255092",
+      "excerpt": "I run some used Manncorp/Autotronik equipment. Pnp, oven, bunch of hand tools and such for rework (Metcal irons). If I didn't have this I would likely build a line using an openpnp based machine.",
+      "kind": "recommendation",
+      "parent_comment_id": "50254557"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50243060",
+  "id": "2026-10-29:openpnp:50243060",
+  "is_repeat": false,
+  "issue_id": "2026-10-29",
+  "item_id": "openpnp",
+  "rank": 5,
+  "seen_at": "2026-10-29T04:16:26+00:00",
+  "source_story_id": "50243060",
+  "source_story_title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand"
+}

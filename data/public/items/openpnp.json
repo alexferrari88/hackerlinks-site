@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-29T04:16:26+00:00",
+  "id": "openpnp",
+  "last_seen_at": "2026-10-29T04:16:26+00:00",
+  "latest_mention_id": "2026-10-29:openpnp:50243060",
+  "mention_ids": [
+    "2026-10-29:openpnp:50243060"
+  ],
+  "name": "OpenPnP",
+  "slug": "openpnp",
+  "summary": "Open-source PCB pick-and-place system a working manufacturer would choose for a new assembly line.",
+  "thing_url": "https://openpnp.org/",
+  "times_seen": 1,
+  "why_included": "An electronics manufacturer's conditional recommendation offers a practical alternative to commercial assembly equipment."
+}

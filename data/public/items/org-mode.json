@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-29T04:16:26+00:00",
+  "id": "org-mode",
+  "last_seen_at": "2026-10-29T04:16:26+00:00",
+  "latest_mention_id": "2026-10-29:org-mode:50273171",
+  "mention_ids": [
+    "2026-10-29:org-mode:50273171"
+  ],
+  "name": "Org-mode",
+  "slug": "org-mode",
+  "summary": "Plain-text Emacs organizer praised for daily work logs, recurring tasks, and keyboard-driven editing.",
+  "thing_url": "https://orgmode.org/",
+  "times_seen": 1,
+  "why_included": "A long-term user explains why the organizer keeps winning over dedicated note and task apps."
+}

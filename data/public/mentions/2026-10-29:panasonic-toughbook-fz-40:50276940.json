@@ -1,0 +1,23 @@
+{
+  "evidence": "jgrahamc uses a Panasonic Toughbook alongside a Mac and finds its touchscreen useful; the linked owner article identifies the model as the FZ-40.",
+  "evidence_sources": [
+    {
+      "author": "jgrahamc",
+      "comment_id": "50277181",
+      "comment_url": "https://news.ycombinator.com/item?id=50277181",
+      "context": "first_hand_use",
+      "excerpt": "and it has a touch screen display and I find it's a useful addition to how I interact with it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50277005"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50276940",
+  "id": "2026-10-29:panasonic-toughbook-fz-40:50276940",
+  "is_repeat": false,
+  "issue_id": "2026-10-29",
+  "item_id": "panasonic-toughbook-fz-40",
+  "rank": 6,
+  "seen_at": "2026-10-29T04:16:26+00:00",
+  "source_story_id": "50276940",
+  "source_story_title": "MacBook Pro with PROLED XDR Display and Touch"
+}

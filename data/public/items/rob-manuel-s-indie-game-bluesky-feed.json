@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-29T04:16:26+00:00",
+  "id": "rob-manuel-s-indie-game-bluesky-feed",
+  "last_seen_at": "2026-10-29T04:16:26+00:00",
+  "latest_mention_id": "2026-10-29:rob-manuel-s-indie-game-bluesky-feed:50242688",
+  "mention_ids": [
+    "2026-10-29:rob-manuel-s-indie-game-bluesky-feed:50242688"
+  ],
+  "name": "Rob Manuel's indie-game Bluesky feed",
+  "slug": "rob-manuel-s-indie-game-bluesky-feed",
+  "summary": "Curated Bluesky feed recommended for discovering good links to new indie games.",
+  "thing_url": "https://bsky.app/profile/robmanuel.b3ta.com",
+  "times_seen": 1,
+  "why_included": "A commenter endorses a specific discovery source beyond the submitted book."
+}

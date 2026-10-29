@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-29T04:16:26+00:00",
+  "id": "sdf-public-access-unix-system",
+  "last_seen_at": "2026-10-29T04:16:26+00:00",
+  "latest_mention_id": "2026-10-29:sdf-public-access-unix-system:50219275",
+  "mention_ids": [
+    "2026-10-29:sdf-public-access-unix-system:50219275"
+  ],
+  "name": "SDF Public Access UNIX System",
+  "slug": "sdf-public-access-unix-system",
+  "summary": "Community UNIX shell and email service whose membership earns a direct user recommendation.",
+  "thing_url": "https://sdf.org/",
+  "times_seen": 1,
+  "why_included": "A user recommends supporting the service and identifies email as sufficient personal value."
+}
