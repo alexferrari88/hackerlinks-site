@@ -1,0 +1,22 @@
+{
+  "evidence": "Tuna-Fish suggests starting with the linked DeepLearning.AI course when learning how LLMs work.",
+  "evidence_sources": [
+    {
+      "author": "Tuna-Fish",
+      "comment_id": "50284576",
+      "comment_url": "https://news.ycombinator.com/item?id=50284576",
+      "excerpt": "If interested, maybe start here: https://www.deeplearning.ai/courses/how-transformer-llms-wor...",
+      "kind": "recommendation",
+      "parent_comment_id": "50283405"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50282838",
+  "id": "2026-10-30:how-transformer-llms-work:50282838",
+  "is_repeat": false,
+  "issue_id": "2026-10-30",
+  "item_id": "how-transformer-llms-work",
+  "rank": 5,
+  "seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "source_story_id": "50282838",
+  "source_story_title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5"
+}

@@ -11683,6 +11683,54 @@
       "first_reported_at": "2026-10-29T04:16:26+00:00",
       "last_reported_at": "2026-10-29T04:16:26+00:00",
       "times_reported": 1
+    },
+    {
+      "name": "codex-thread-bridge",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Fast Division",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DuckDuckGo NoAI",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Torus",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "How Transformer LLMs Work",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Data and Picard — Pogo",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "BYD Sealion 5 DM-i",
+      "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
     }
   ]
 }

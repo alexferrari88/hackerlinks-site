@@ -1,0 +1,23 @@
+{
+  "evidence": "throwaway8451 fondly endorses Torus and its garbage mode, while recalling high CPU usage.",
+  "evidence_sources": [
+    {
+      "author": "throwaway8451",
+      "comment_id": "50295350",
+      "comment_url": "https://news.ycombinator.com/item?id=50295350",
+      "context": "first_hand_use",
+      "excerpt": "I used to love his Torus Tetris (garbage mode rocked). I also remembering that it took quite some cpu% and wondered if that could have been improved by current web tech.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50256409",
+  "id": "2026-10-30:torus:50256409",
+  "is_repeat": false,
+  "issue_id": "2026-10-30",
+  "item_id": "torus",
+  "rank": 4,
+  "seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "source_story_id": "50256409",
+  "source_story_title": "A new faster algorithm to compute 64-bit signed floor division"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "id": "forging-a-microsoft-edge-full-chain-with-logic-bugs-only",
+  "last_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "latest_mention_id": "2026-10-30:forging-a-microsoft-edge-full-chain-with-logic-bugs-only:50285319",
+  "mention_ids": [
+    "2026-10-30:forging-a-microsoft-edge-full-chain-with-logic-bugs-only:50285319"
+  ],
+  "name": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+  "slug": "forging-a-microsoft-edge-full-chain-with-logic-bugs-only",
+  "summary": "Browser-exploitation writeup praised for explaining an impressive logic-bug-only attack chain.",
+  "thing_url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+  "times_seen": 1,
+  "why_included": "Independent comment praise specifically endorses the technical writeup\u2019s clarity and attack construction."
+}

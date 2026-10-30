@@ -1,0 +1,23 @@
+{
+  "evidence": "jitl uses the bridge to delegate across models and says the workflow largely resolved a tokens-per-output issue, while acknowledging inefficiency.",
+  "evidence_sources": [
+    {
+      "author": "jitl",
+      "comment_id": "50284894",
+      "comment_url": "https://news.ycombinator.com/item?id=50284894",
+      "context": "first_hand_use",
+      "excerpt": "these days i\u2019m experimenting with opus using luna as \u201chands\u201d and it\u2019s largely resolved the tokens per output issue with my Anthropic subscription. \u00af\\_(\u30c4)_/\u00af it\u2019s not efficient but yeah it\u2019s the best",
+      "kind": "recommendation",
+      "parent_comment_id": "50284877"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50284255",
+  "id": "2026-10-30:codex-thread-bridge:50284255",
+  "is_repeat": false,
+  "issue_id": "2026-10-30",
+  "item_id": "codex-thread-bridge",
+  "rank": 1,
+  "seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "source_story_id": "50284255",
+  "source_story_title": "Claude Code regularly sends each background agent\u2019s transcript to its model"
+}

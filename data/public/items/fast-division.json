@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "id": "fast-division",
+  "last_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "latest_mention_id": "2026-10-30:fast-division:50256409",
+  "mention_ids": [
+    "2026-10-30:fast-division:50256409"
+  ],
+  "name": "Fast Division",
+  "slug": "fast-division",
+  "summary": "Daniel Lemire\u2019s C++ benchmarks for exploring fast integer-division algorithms.",
+  "thing_url": "https://github.com/lemire/fast_division",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly points readers to a concrete resource for investigating division optimizations."
+}

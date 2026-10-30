@@ -1,0 +1,23 @@
+{
+  "evidence": "abixb reports great results using DuckDuckGo\u2019s NoAI version as a fallback, especially for personal blogs and forum discussions.",
+  "evidence_sources": [
+    {
+      "author": "abixb",
+      "comment_id": "50293368",
+      "comment_url": "https://news.ycombinator.com/item?id=50293368",
+      "context": "first_hand_use",
+      "excerpt": "I've been using DuckDuckGo's NoAI version as a fallback, and I've had great results so far; brings me back to the web I remembered growing up -- personal blogs, random forum discussions, and whatnot -- with just a fraction of the page bloat.",
+      "kind": "recommendation",
+      "parent_comment_id": "50293301"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50291945",
+  "id": "2026-10-30:duckduckgo-noai:50291945",
+  "is_repeat": false,
+  "issue_id": "2026-10-30",
+  "item_id": "duckduckgo-noai",
+  "rank": 3,
+  "seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "source_story_id": "50291945",
+  "source_story_title": "Google Search is now less than half of Alphabet\u2019s revenue"
+}

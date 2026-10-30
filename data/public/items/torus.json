@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "id": "torus",
+  "last_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "latest_mention_id": "2026-10-30:torus:50256409",
+  "mention_ids": [
+    "2026-10-30:torus:50256409"
+  ],
+  "name": "Torus",
+  "slug": "torus",
+  "summary": "Cylindrical Tetris browser game; a returning player loved its garbage mode.",
+  "thing_url": "https://www.benjoffe.com/code/games/torus",
+  "times_seen": 1,
+  "why_included": "An unrelated algorithm discussion yielded a specific, enthusiastically endorsed browser game."
+}

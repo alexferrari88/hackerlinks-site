@@ -1,0 +1,187 @@
+{
+  "version": 2,
+  "run_date": "2026-10-30",
+  "generated_at": "2026-10-30T04:15:46.814199+00:00",
+  "summary": "Eight comment-endorsed discoveries spanning developer tools, search, learning, entertainment, and a plug-in hybrid.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-30.json",
+    "sha256": "899d23165e742e5620a60584d15633cfb9a9803e1b17960ace6d2f19a7521e8a",
+    "bytes": 4581338,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 7591,
+    "fetched_item_count": 7621,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 HN /front stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "codex-thread-bridge",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/saidelike/codex-thread-bridge",
+      "hn_url": "https://news.ycombinator.com/item?id=50284255",
+      "source_story_title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "summary": "MCP bridge for coordinating Codex sessions; praised for cross-model delegation.",
+      "why_included": "A user describes a concrete delegation workflow that improved their subscription token usage.",
+      "evidence": "jitl uses the bridge to delegate across models and says the workflow largely resolved a tokens-per-output issue, while acknowledging inefficiency.",
+      "evidence_sources": [
+        {
+          "comment_id": "50284894",
+          "comment_url": "https://news.ycombinator.com/item?id=50284894",
+          "author": "jitl",
+          "excerpt": "these days i’m experimenting with opus using luna as “hands” and it’s largely resolved the tokens per output issue with my Anthropic subscription. ¯\\_(ツ)_/¯ it’s not efficient but yeah it’s the best",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50284877"
+        }
+      ]
+    },
+    {
+      "name": "Fast Division",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/lemire/fast_division",
+      "hn_url": "https://news.ycombinator.com/item?id=50256409",
+      "source_story_title": "A new faster algorithm to compute 64-bit signed floor division",
+      "summary": "Daniel Lemire’s C++ benchmarks for exploring fast integer-division algorithms.",
+      "why_included": "A commenter explicitly points readers to a concrete resource for investigating division optimizations.",
+      "evidence": "nkurz recommends Lemire’s Fast Division as a resource, explicitly noting they have not compared the algorithms.",
+      "evidence_sources": [
+        {
+          "comment_id": "50288528",
+          "comment_url": "https://news.ycombinator.com/item?id=50288528",
+          "author": "nkurz",
+          "excerpt": "I don't have time to compare them, but another resource you might look at is Daniel Lemire's \"Fast Division\":",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "DuckDuckGo NoAI",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://noai.duckduckgo.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50291945",
+      "source_story_title": "Google Search is now less than half of Alphabet’s revenue",
+      "summary": "Search without AI features; a user praises blog and forum discovery.",
+      "why_included": "Clear first-hand approval of a specific search variant rather than a generic search-engine mention.",
+      "evidence": "abixb reports great results using DuckDuckGo’s NoAI version as a fallback, especially for personal blogs and forum discussions.",
+      "evidence_sources": [
+        {
+          "comment_id": "50293368",
+          "comment_url": "https://news.ycombinator.com/item?id=50293368",
+          "author": "abixb",
+          "excerpt": "I've been using DuckDuckGo's NoAI version as a fallback, and I've had great results so far; brings me back to the web I remembered growing up -- personal blogs, random forum discussions, and whatnot -- with just a fraction of the page bloat.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50293301"
+        }
+      ]
+    },
+    {
+      "name": "Torus",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.benjoffe.com/code/games/torus",
+      "hn_url": "https://news.ycombinator.com/item?id=50256409",
+      "source_story_title": "A new faster algorithm to compute 64-bit signed floor division",
+      "summary": "Cylindrical Tetris browser game; a returning player loved its garbage mode.",
+      "why_included": "An unrelated algorithm discussion yielded a specific, enthusiastically endorsed browser game.",
+      "evidence": "throwaway8451 fondly endorses Torus and its garbage mode, while recalling high CPU usage.",
+      "evidence_sources": [
+        {
+          "comment_id": "50295350",
+          "comment_url": "https://news.ycombinator.com/item?id=50295350",
+          "author": "throwaway8451",
+          "excerpt": "I used to love his Torus Tetris (garbage mode rocked). I also remembering that it took quite some cpu% and wondered if that could have been improved by current web tech.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "How Transformer LLMs Work",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.deeplearning.ai/courses/how-transformer-llms-work",
+      "hn_url": "https://news.ycombinator.com/item?id=50282838",
+      "source_story_title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "summary": "Beginner course covering tokenization, embeddings, attention, and transformer architecture.",
+      "why_included": "A reply explicitly recommends the course to someone seeking to understand LLM internals.",
+      "evidence": "Tuna-Fish suggests starting with the linked DeepLearning.AI course when learning how LLMs work.",
+      "evidence_sources": [
+        {
+          "comment_id": "50284576",
+          "comment_url": "https://news.ycombinator.com/item?id=50284576",
+          "author": "Tuna-Fish",
+          "excerpt": "If interested, maybe start here: https://www.deeplearning.ai/courses/how-transformer-llms-wor...",
+          "kind": "recommendation",
+          "parent_comment_id": "50283405"
+        }
+      ]
+    },
+    {
+      "name": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "category": "Watch & Learn",
+      "thing_url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "hn_url": "https://news.ycombinator.com/item?id=50285319",
+      "source_story_title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "summary": "Browser-exploitation writeup praised for explaining an impressive logic-bug-only attack chain.",
+      "why_included": "Independent comment praise specifically endorses the technical writeup’s clarity and attack construction.",
+      "evidence": "darkamaul calls the chain extremely impressive and praises its understandable explanation without memory-corruption techniques.",
+      "evidence_sources": [
+        {
+          "comment_id": "50286550",
+          "comment_url": "https://news.ycombinator.com/item?id=50286550",
+          "author": "darkamaul",
+          "excerpt": "Orange is a legend and this chain is extremely impressive here. No memory corruptions, no heap shenanigans, just pure logic bugs, almost made easy to understand for the reader.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Data and Picard — Pogo",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=AZn6c4CeJCc",
+      "hn_url": "https://news.ycombinator.com/item?id=50294702",
+      "source_story_title": "Patrick Stewart has died",
+      "summary": "Musical remix of Picard dialogue; recommended as a beautiful Patrick Stewart tribute.",
+      "why_included": "A concrete music recommendation adds serendipity beyond software and hardware.",
+      "evidence": "_fw recommends Pogo’s Data and Picard as a beautiful track assembled from Stewart’s Picard performances.",
+      "evidence_sources": [
+        {
+          "comment_id": "50295551",
+          "comment_url": "https://news.ycombinator.com/item?id=50295551",
+          "author": "_fw",
+          "excerpt": "The tribute that springs to mind best first is Pogo’s Data and Picard: a beautiful track made from Stewart performing as Picard.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "BYD Sealion 5 DM-i",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.byd.com/za/hybrid-cars/sealion-5-dmi",
+      "hn_url": "https://news.ycombinator.com/item?id=50290668",
+      "source_story_title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "summary": "Plug-in hybrid SUV; a happy owner reports minor software glitches.",
+      "why_included": "Specific owner approval includes concrete drawbacks rather than ungrounded brand enthusiasm.",
+      "evidence": "jonathanlydall says they are very happy with their Sealion 5, while reporting two minor software issues involving a parking indicator and wireless CarPlay.",
+      "evidence_sources": [
+        {
+          "comment_id": "50292034",
+          "comment_url": "https://news.ycombinator.com/item?id=50292034",
+          "author": "jonathanlydall",
+          "excerpt": "I’ve been super happy with my Sealion 5 (PHEV) I bought in May, tank is still over half full since last filling it up mid July and having done about 4,500km since. I have had two minor software issues. One time the one parking sensor warning indicator kind of got stuck on the centre screen (no noise though). The other was my wireless CarPlay refusing to connect.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50291316"
+        }
+      ]
+    }
+  ]
+}

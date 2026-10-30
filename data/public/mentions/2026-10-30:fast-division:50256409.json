@@ -1,0 +1,22 @@
+{
+  "evidence": "nkurz recommends Lemire\u2019s Fast Division as a resource, explicitly noting they have not compared the algorithms.",
+  "evidence_sources": [
+    {
+      "author": "nkurz",
+      "comment_id": "50288528",
+      "comment_url": "https://news.ycombinator.com/item?id=50288528",
+      "excerpt": "I don't have time to compare them, but another resource you might look at is Daniel Lemire's \"Fast Division\":",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50256409",
+  "id": "2026-10-30:fast-division:50256409",
+  "is_repeat": false,
+  "issue_id": "2026-10-30",
+  "item_id": "fast-division",
+  "rank": 2,
+  "seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "source_story_id": "50256409",
+  "source_story_title": "A new faster algorithm to compute 64-bit signed floor division"
+}

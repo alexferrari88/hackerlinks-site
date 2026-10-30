@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "id": "data-and-picard-pogo",
+  "last_seen_at": "2026-10-30T04:15:46.814199+00:00",
+  "latest_mention_id": "2026-10-30:data-and-picard-pogo:50294702",
+  "mention_ids": [
+    "2026-10-30:data-and-picard-pogo:50294702"
+  ],
+  "name": "Data and Picard \u2014 Pogo",
+  "slug": "data-and-picard-pogo",
+  "summary": "Musical remix of Picard dialogue; recommended as a beautiful Patrick Stewart tribute.",
+  "thing_url": "https://www.youtube.com/watch?v=AZn6c4CeJCc",
+  "times_seen": 1,
+  "why_included": "A concrete music recommendation adds serendipity beyond software and hardware."
+}
