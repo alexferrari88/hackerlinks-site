@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter praises the flowers and reports converting the project into an Obsidian extension seeded by note filenames.",
+  "evidence_sources": [
+    {
+      "author": "ClaraForm",
+      "comment_id": "50308699",
+      "comment_url": "https://news.ycombinator.com/item?id=50308699",
+      "context": "first_hand_use",
+      "excerpt": "This is beautiful, thank you! I just asked Deepseek 4.1 Flash to convert it to an Obsidian extension that uses the file-name as the seed, and the result [1] is exactly something I've been dreaming of for so many years while I take daily notes.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50305637",
+  "id": "2026-10-31:florilegium:50305637",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "florilegium",
+  "rank": 3,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50305637",
+  "source_story_title": "Florilegium: Procedural Flowers in LaTeX"
+}

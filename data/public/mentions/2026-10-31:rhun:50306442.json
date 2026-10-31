@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter calls the assembly editor good and minimalist, and says they use their scratchpad fork daily.",
+  "evidence_sources": [
+    {
+      "author": "Imustaskforhelp",
+      "comment_id": "50307145",
+      "comment_url": "https://news.ycombinator.com/item?id=50307145",
+      "context": "first_hand_use",
+      "excerpt": "This is an genuinely good minimalist good editor that is created in mostly assembly that was created with the help of AI[0] I maintain a fork of it which basically adds scratchpad ability to it and is something that I use daily myself for what it's worth[1]",
+      "kind": "recommendation",
+      "parent_comment_id": "50306919"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50306442",
+  "id": "2026-10-31:rhun:50306442",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "rhun",
+  "rank": 2,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50306442",
+  "source_story_title": "Show HN: A working Nintendo in ~1GB of Qwen weights"
+}

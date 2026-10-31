@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter installed Astroterm as an Omarchy screensaver, says it tracks their local sky, and calls it awesome.",
+  "evidence_sources": [
+    {
+      "author": "jubalizer",
+      "comment_id": "50302625",
+      "comment_url": "https://news.ycombinator.com/item?id=50302625",
+      "context": "first_hand_use",
+      "excerpt": "This is really cool. I've managed to set this up as my default screensaver in Omarchy. It tracks the sky from my house. Awesome!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50270651",
+  "id": "2026-10-31:astroterm:50270651",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "astroterm",
+  "rank": 4,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50270651",
+  "source_story_title": "Astroterm: A Planetarium for Your Terminal"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter names MapTap their personal favorite daily game and praises the author's notes and geographic facts.",
+  "evidence_sources": [
+    {
+      "author": "vavooom",
+      "comment_id": "50305361",
+      "comment_url": "https://news.ycombinator.com/item?id=50305361",
+      "context": "first_hand_use",
+      "excerpt": "I love daily games. https://maptap.gg/ is my personal favorite! I love the author's little notes and asides as he discusses fun facts from around the world.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50301462",
+  "id": "2026-10-31:maptap:50301462",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "maptap",
+  "rank": 7,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50301462",
+  "source_story_title": "elect.horse"
+}

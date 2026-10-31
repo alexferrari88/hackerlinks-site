@@ -2,6 +2,16 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name":"amazing-sandbox","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"rhun","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"Florilegium","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"Astroterm","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"DreamCoder","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"PCSX2","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"MapTap","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"Sir Gawain and the Green Knight (Simon Armitage / Bill Wallis)","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"In Our Time: Epic of Gilgamesh","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {"name":"Museo Galileo","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
     {
       "name": "GraalPy",
       "first_reported_at": "2026-10-28T04:15:50.887761+00:00",

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "in-our-time-epic-of-gilgamesh",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:in-our-time-epic-of-gilgamesh:50263127",
+  "mention_ids": [
+    "2026-10-31:in-our-time-epic-of-gilgamesh:50263127"
+  ],
+  "name": "In Our Time: Epic of Gilgamesh",
+  "slug": "in-our-time-epic-of-gilgamesh",
+  "summary": "A BBC discussion of the ancient Mesopotamian epic, explicitly recommended in the comments.",
+  "thing_url": "https://www.bbc.co.uk/programmes/b080wbrq",
+  "times_seen": 1,
+  "why_included": "The commenter directly recommends a specific episode, not merely the podcast series."
+}

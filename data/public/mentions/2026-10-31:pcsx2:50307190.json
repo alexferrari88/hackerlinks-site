@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter calls PCSX2 a great emulator and praises the PS2 library, mods, and texture packs.",
+  "evidence_sources": [
+    {
+      "author": "mrandish",
+      "comment_id": "50312298",
+      "comment_url": "https://news.ycombinator.com/item?id=50312298",
+      "excerpt": "The huge, diverse game library spanning >10 years, a great emulator in PCSX2 and tons of community mods and HD texture packs make it amazing.",
+      "kind": "recommendation",
+      "parent_comment_id": "50309410"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50307190",
+  "id": "2026-10-31:pcsx2:50307190",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "pcsx2",
+  "rank": 6,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50307190",
+  "source_story_title": "My favourite PowerMac is a Nintendo Wii"
+}

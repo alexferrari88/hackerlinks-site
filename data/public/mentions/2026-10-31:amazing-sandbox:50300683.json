@@ -1,0 +1,23 @@
+{
+  "evidence": "The commenter runs the sandbox with access to the working directory and says it drastically limits the attack radius.",
+  "evidence_sources": [
+    {
+      "author": "ashishb",
+      "comment_id": "50304408",
+      "comment_url": "https://news.ycombinator.com/item?id=50304408",
+      "context": "first_hand_use",
+      "excerpt": "I run it in an ephemeral container sandbox (https://github.com/ashishb/amazing-sandbox) which has access to the current working directory and it drastically limits the attack radius.",
+      "kind": "recommendation",
+      "parent_comment_id": "50304313"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50300683",
+  "id": "2026-10-31:amazing-sandbox:50300683",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "amazing-sandbox",
+  "rank": 1,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50300683",
+  "source_story_title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace"
+}

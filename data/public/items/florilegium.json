@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "florilegium",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:florilegium:50305637",
+  "mention_ids": [
+    "2026-10-31:florilegium:50305637"
+  ],
+  "name": "Florilegium",
+  "slug": "florilegium",
+  "summary": "A procedural flower generator for LaTeX, inspiring a commenter's seeded daily-note decorations.",
+  "thing_url": "https://github.com/kevinraymond/florilegium",
+  "times_seen": 1,
+  "why_included": "The endorsement includes a concrete creative adaptation rather than a bare project mention."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter names DreamCoder as one of their favorite machine-learning papers and links the paper.",
+  "evidence_sources": [
+    {
+      "author": "macleginn",
+      "comment_id": "50296277",
+      "comment_url": "https://news.ycombinator.com/item?id=50296277",
+      "excerpt": "Reminds me of one of my favourite ML papers, DreamCoder:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50272479",
+  "id": "2026-10-31:dreamcoder:50272479",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "dreamcoder",
+  "rank": 5,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50272479",
+  "source_story_title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning"
+}

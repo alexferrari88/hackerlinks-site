@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "astroterm",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:astroterm:50270651",
+  "mention_ids": [
+    "2026-10-31:astroterm:50270651"
+  ],
+  "name": "Astroterm",
+  "slug": "astroterm",
+  "summary": "A terminal planetarium that one user made into a location-aware screensaver.",
+  "thing_url": "https://github.com/da-luce/astroterm",
+  "times_seen": 1,
+  "why_included": "A working screensaver setup supplies unusually tangible first-hand praise."
+}

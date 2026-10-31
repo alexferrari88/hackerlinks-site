@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-10-31",
+  "generated_at": "2026-10-31T04:16:27.751758+00:00",
+  "summary": "Ten comment-endorsed discoveries spanning developer tools, machine learning, games, literature, and scientific instruments.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 front-page stories fully crawled | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-10-31.json",
+    "sha256": "207a112257ba35ea27e0548277ba0690f34809636d4cbedd8ef23c2bf602bba5",
+    "bytes": 2708351,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4418,
+    "fetched_item_count": 4448,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "amazing-sandbox",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/ashishb/amazing-sandbox",
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "source_story_title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "summary": "An ephemeral container sandbox for coding agents, endorsed for limiting filesystem exposure.",
+      "why_included": "A concrete first-hand sandbox recommendation emerged from the extension-compromise discussion.",
+      "evidence": "The commenter runs the sandbox with access to the working directory and says it drastically limits the attack radius.",
+      "evidence_sources": [{"comment_id":"50304408","comment_url":"https://news.ycombinator.com/item?id=50304408","author":"ashishb","excerpt":"I run it in an ephemeral container sandbox (https://github.com/ashishb/amazing-sandbox) which has access to the current working directory and it drastically limits the attack radius.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50304313"}]
+    },
+    {
+      "name": "rhun",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://rhun.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50306442",
+      "source_story_title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "summary": "A lightweight code editor written in assembly, praised by a daily fork user.",
+      "why_included": "The commenter explicitly praises the editor and distinguishes their scratchpad fork from the upstream project.",
+      "evidence": "The commenter calls the assembly editor good and minimalist, and says they use their scratchpad fork daily.",
+      "evidence_sources": [{"comment_id":"50307145","comment_url":"https://news.ycombinator.com/item?id=50307145","author":"Imustaskforhelp","excerpt":"This is an genuinely good minimalist good editor that is created in mostly assembly that was created with the help of AI[0] I maintain a fork of it which basically adds scratchpad ability to it and is something that I use daily myself for what it's worth[1]","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50306919"}]
+    },
+    {
+      "name": "Florilegium",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/kevinraymond/florilegium",
+      "hn_url": "https://news.ycombinator.com/item?id=50305637",
+      "source_story_title": "Florilegium: Procedural Flowers in LaTeX",
+      "summary": "A procedural flower generator for LaTeX, inspiring a commenter's seeded daily-note decorations.",
+      "why_included": "The endorsement includes a concrete creative adaptation rather than a bare project mention.",
+      "evidence": "The commenter praises the flowers and reports converting the project into an Obsidian extension seeded by note filenames.",
+      "evidence_sources": [{"comment_id":"50308699","comment_url":"https://news.ycombinator.com/item?id=50308699","author":"ClaraForm","excerpt":"This is beautiful, thank you! I just asked Deepseek 4.1 Flash to convert it to an Obsidian extension that uses the file-name as the seed, and the result [1] is exactly something I've been dreaming of for so many years while I take daily notes.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Astroterm",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/da-luce/astroterm",
+      "hn_url": "https://news.ycombinator.com/item?id=50270651",
+      "source_story_title": "Astroterm: A Planetarium for Your Terminal",
+      "summary": "A terminal planetarium that one user made into a location-aware screensaver.",
+      "why_included": "A working screensaver setup supplies unusually tangible first-hand praise.",
+      "evidence": "The commenter installed Astroterm as an Omarchy screensaver, says it tracks their local sky, and calls it awesome.",
+      "evidence_sources": [{"comment_id":"50302625","comment_url":"https://news.ycombinator.com/item?id=50302625","author":"jubalizer","excerpt":"This is really cool. I've managed to set this up as my default screensaver in Omarchy. It tracks the sky from my house. Awesome!","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "DreamCoder",
+      "category": "AI & Local Models",
+      "thing_url": "https://dl.acm.org/doi/10.1145/3453483.3454080",
+      "hn_url": "https://news.ycombinator.com/item?id=50272479",
+      "source_story_title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "summary": "A program-synthesis paper on wake-sleep library learning, singled out as a favorite.",
+      "why_included": "An explicit favorite-paper endorsement offers a concrete research rabbit hole beyond the submitted story.",
+      "evidence": "The commenter names DreamCoder as one of their favorite machine-learning papers and links the paper.",
+      "evidence_sources": [{"comment_id":"50296277","comment_url":"https://news.ycombinator.com/item?id=50296277","author":"macleginn","excerpt":"Reminds me of one of my favourite ML papers, DreamCoder:","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "PCSX2",
+      "category": "Games & Systems",
+      "thing_url": "https://pcsx2.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=50307190",
+      "source_story_title": "My favourite PowerMac is a Nintendo Wii",
+      "summary": "A PlayStation 2 emulator praised alongside community mods and HD texture packs.",
+      "why_included": "A retro-computing thread yields an explicit emulator endorsement rather than hardware nostalgia alone.",
+      "evidence": "The commenter calls PCSX2 a great emulator and praises the PS2 library, mods, and texture packs.",
+      "evidence_sources": [{"comment_id":"50312298","comment_url":"https://news.ycombinator.com/item?id=50312298","author":"mrandish","excerpt":"The huge, diverse game library spanning >10 years, a great emulator in PCSX2 and tons of community mods and HD texture packs make it amazing.","kind":"recommendation","parent_comment_id":"50309410"}]
+    },
+    {
+      "name": "MapTap",
+      "category": "Games & Systems",
+      "thing_url": "https://maptap.gg/",
+      "hn_url": "https://news.ycombinator.com/item?id=50301462",
+      "source_story_title": "elect.horse",
+      "summary": "A daily geography game recommended for its author's entertaining notes and world facts.",
+      "why_included": "An unambiguous personal-favorite recommendation identifies a playful alternative in the discussion.",
+      "evidence": "The commenter names MapTap their personal favorite daily game and praises the author's notes and geographic facts.",
+      "evidence_sources": [{"comment_id":"50305361","comment_url":"https://news.ycombinator.com/item?id=50305361","author":"vavooom","excerpt":"I love daily games. https://maptap.gg/ is my personal favorite! I love the author's little notes and asides as he discusses fun facts from around the world.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Sir Gawain and the Green Knight (Simon Armitage / Bill Wallis)",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.audible.com/pd/Sir-Gawain-and-the-Green-Knight-Audiobook/B002VA92MY",
+      "hn_url": "https://news.ycombinator.com/item?id=50263127",
+      "source_story_title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "summary": "An Arthurian-poem audiobook pairing Simon Armitage's translation with Bill Wallis's family-favorite performance.",
+      "why_included": "The recommendation specifies both a praised translation and a beloved audio performance.",
+      "evidence": "The commenter calls Armitage's translation exceptional, prefers it to Tolkien's, and names Wallis's performance a family favorite.",
+      "evidence_sources": [{"comment_id":"50303373","comment_url":"https://news.ycombinator.com/item?id=50303373","author":"simonsarris","excerpt":"Simon Armitage's translation of Sir Gawain and the Green Knight is exceptional, much better IMO than the Tolkien translation. So I'm very excited for this. The audio performance of it by Bill Wallis is also a family favorite:","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "In Our Time: Epic of Gilgamesh",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.bbc.co.uk/programmes/b080wbrq",
+      "hn_url": "https://news.ycombinator.com/item?id=50263127",
+      "source_story_title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "summary": "A BBC discussion of the ancient Mesopotamian epic, explicitly recommended in the comments.",
+      "why_included": "The commenter directly recommends a specific episode, not merely the podcast series.",
+      "evidence": "The commenter highly recommends the linked BBC In Our Time episode.",
+      "evidence_sources": [{"comment_id":"50302839","comment_url":"https://news.ycombinator.com/item?id=50302839","author":"fguerraz","excerpt":"I highly recommend this episode of BBC In Our Time:","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Museo Galileo",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.museogalileo.it/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=50267380",
+      "source_story_title": "Historical Scientific Instruments",
+      "summary": "A Florence science museum recommended for its astrolabes, astronomical clocks, and historic instruments.",
+      "why_included": "An enthusiastic visit recommendation adds a physical destination to the software-heavy selection.",
+      "evidence": "The commenter recommends visiting the Florence museum, calls it heaven for science nerds, and lists its historical instruments.",
+      "evidence_sources": [{"comment_id":"50299587","comment_url":"https://news.ycombinator.com/item?id=50299587","author":"makmanalp","excerpt":"People who love this should consider visiting the Institute and Museum of the History of Science in Florence (now rebranded the Galileo Museum for what I assume are marketing reasons :P). It's heaven for science nerds.","kind":"recommendation","parent_comment_id":null}]
+    }
+  ]
+}

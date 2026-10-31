@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "rhun",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:rhun:50306442",
+  "mention_ids": [
+    "2026-10-31:rhun:50306442"
+  ],
+  "name": "rhun",
+  "slug": "rhun",
+  "summary": "A lightweight code editor written in assembly, praised by a daily fork user.",
+  "thing_url": "https://rhun.app/",
+  "times_seen": 1,
+  "why_included": "The commenter explicitly praises the editor and distinguishes their scratchpad fork from the upstream project."
+}

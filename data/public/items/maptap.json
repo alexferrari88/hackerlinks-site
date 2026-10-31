@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "maptap",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:maptap:50301462",
+  "mention_ids": [
+    "2026-10-31:maptap:50301462"
+  ],
+  "name": "MapTap",
+  "slug": "maptap",
+  "summary": "A daily geography game recommended for its author's entertaining notes and world facts.",
+  "thing_url": "https://maptap.gg/",
+  "times_seen": 1,
+  "why_included": "An unambiguous personal-favorite recommendation identifies a playful alternative in the discussion."
+}

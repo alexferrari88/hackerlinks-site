@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "pcsx2",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:pcsx2:50307190",
+  "mention_ids": [
+    "2026-10-31:pcsx2:50307190"
+  ],
+  "name": "PCSX2",
+  "slug": "pcsx2",
+  "summary": "A PlayStation 2 emulator praised alongside community mods and HD texture packs.",
+  "thing_url": "https://pcsx2.net/",
+  "times_seen": 1,
+  "why_included": "A retro-computing thread yields an explicit emulator endorsement rather than hardware nostalgia alone."
+}

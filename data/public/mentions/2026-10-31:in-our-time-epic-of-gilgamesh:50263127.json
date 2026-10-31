@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter highly recommends the linked BBC In Our Time episode.",
+  "evidence_sources": [
+    {
+      "author": "fguerraz",
+      "comment_id": "50302839",
+      "comment_url": "https://news.ycombinator.com/item?id=50302839",
+      "excerpt": "I highly recommend this episode of BBC In Our Time:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50263127",
+  "id": "2026-10-31:in-our-time-epic-of-gilgamesh:50263127",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "in-our-time-epic-of-gilgamesh",
+  "rank": 9,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50263127",
+  "source_story_title": "Gilgamesh by Simon Armitage review \u2013 an ancient epic is brilliantly translated"
+}

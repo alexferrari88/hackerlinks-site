@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "dreamcoder",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:dreamcoder:50272479",
+  "mention_ids": [
+    "2026-10-31:dreamcoder:50272479"
+  ],
+  "name": "DreamCoder",
+  "slug": "dreamcoder",
+  "summary": "A program-synthesis paper on wake-sleep library learning, singled out as a favorite.",
+  "thing_url": "https://dl.acm.org/doi/10.1145/3453483.3454080",
+  "times_seen": 1,
+  "why_included": "An explicit favorite-paper endorsement offers a concrete research rabbit hole beyond the submitted story."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "amazing-sandbox",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:amazing-sandbox:50300683",
+  "mention_ids": [
+    "2026-10-31:amazing-sandbox:50300683"
+  ],
+  "name": "amazing-sandbox",
+  "slug": "amazing-sandbox",
+  "summary": "An ephemeral container sandbox for coding agents, endorsed for limiting filesystem exposure.",
+  "thing_url": "https://github.com/ashishb/amazing-sandbox",
+  "times_seen": 1,
+  "why_included": "A concrete first-hand sandbox recommendation emerged from the extension-compromise discussion."
+}

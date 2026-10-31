@@ -1,0 +1,22 @@
+{
+  "evidence": "The commenter recommends visiting the Florence museum, calls it heaven for science nerds, and lists its historical instruments.",
+  "evidence_sources": [
+    {
+      "author": "makmanalp",
+      "comment_id": "50299587",
+      "comment_url": "https://news.ycombinator.com/item?id=50299587",
+      "excerpt": "People who love this should consider visiting the Institute and Museum of the History of Science in Florence (now rebranded the Galileo Museum for what I assume are marketing reasons :P). It's heaven for science nerds.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50267380",
+  "id": "2026-10-31:museo-galileo:50267380",
+  "is_repeat": false,
+  "issue_id": "2026-10-31",
+  "item_id": "museo-galileo",
+  "rank": 10,
+  "seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "source_story_id": "50267380",
+  "source_story_title": "Historical Scientific Instruments"
+}

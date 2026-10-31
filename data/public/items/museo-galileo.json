@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "id": "museo-galileo",
+  "last_seen_at": "2026-10-31T04:16:27.751758+00:00",
+  "latest_mention_id": "2026-10-31:museo-galileo:50267380",
+  "mention_ids": [
+    "2026-10-31:museo-galileo:50267380"
+  ],
+  "name": "Museo Galileo",
+  "slug": "museo-galileo",
+  "summary": "A Florence science museum recommended for its astrolabes, astronomical clocks, and historic instruments.",
+  "thing_url": "https://www.museogalileo.it/en/",
+  "times_seen": 1,
+  "why_included": "An enthusiastic visit recommendation adds a physical destination to the software-heavy selection."
+}
