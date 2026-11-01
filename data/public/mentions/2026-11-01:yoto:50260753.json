@@ -1,0 +1,23 @@
+{
+  "evidence": "A Yoto owner praises the flexibility of Make Your Own cards and expresses confidence in the company.",
+  "evidence_sources": [
+    {
+      "author": "mpolichette",
+      "comment_id": "50319872",
+      "comment_url": "https://news.ycombinator.com/item?id=50319872",
+      "context": "first_hand_use",
+      "excerpt": "Agree, we have Yoto and while I have bought some cards\u2026 their \u201cmake your own cards\u201d system is pretty much open to whatever you want to do. They seem like a solid company",
+      "kind": "recommendation",
+      "parent_comment_id": "50318158"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50260753",
+  "id": "2026-11-01:yoto:50260753",
+  "is_repeat": false,
+  "issue_id": "2026-11-01",
+  "item_id": "yoto",
+  "rank": 10,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50260753",
+  "source_story_title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32"
+}

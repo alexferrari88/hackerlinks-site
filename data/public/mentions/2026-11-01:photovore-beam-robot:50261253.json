@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends building a photovore with a small solar cell and a few analog components, linking a video.",
+  "evidence_sources": [
+    {
+      "author": "gfat",
+      "comment_id": "50322616",
+      "comment_url": "https://news.ycombinator.com/item?id=50322616",
+      "excerpt": "Highly recommend the photovore BEAM robot if you\u2019ve got a soldering iron. It requires a small solar cell and a few analog components from online suppliers like Digikey.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50261253",
+  "id": "2026-11-01:photovore-beam-robot:50261253",
+  "is_repeat": false,
+  "issue_id": "2026-11-01",
+  "item_id": "photovore-beam-robot",
+  "rank": 7,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50261253",
+  "source_story_title": "Simple circuits can create complex behaviors"
+}

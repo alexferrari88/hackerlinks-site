@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "id": "antennapod",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:antennapod:50313661",
+  "mention_ids": [
+    "2026-11-01:antennapod:50313661"
+  ],
+  "name": "AntennaPod",
+  "slug": "antennapod",
+  "summary": "Android podcast player praised for exposing a listener to worthwhile topics.",
+  "thing_url": "https://antennapod.org/download/",
+  "times_seen": 1,
+  "why_included": "The recommendation highlights useful listening rather than attention-grabbing feeds."
+}

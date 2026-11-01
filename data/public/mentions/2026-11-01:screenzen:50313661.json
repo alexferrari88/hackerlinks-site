@@ -1,0 +1,23 @@
+{
+  "evidence": "A user configures several five-minute sessions daily and says the interruptions help break addictive news and social-media use.",
+  "evidence_sources": [
+    {
+      "author": "liorgrossman",
+      "comment_id": "50315614",
+      "comment_url": "https://news.ycombinator.com/item?id=50315614",
+      "context": "first_hand_use",
+      "excerpt": "I use ScreenZen to enforce limited short session for a short list of harmful apps and websites (socials & news), and I configured it to allow a few 5-min-long sessions per day. The short sessions being cut in the middle help me stay informed but break the addictive nature of socials/news.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50313661",
+  "id": "2026-11-01:screenzen:50313661",
+  "is_repeat": true,
+  "issue_id": "2026-11-01",
+  "item_id": "screenzen",
+  "rank": 4,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50313661",
+  "source_story_title": "Digital minimalism"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Lamport's linked book and describes state-machine specifications as approachable but deep.",
+  "evidence_sources": [
+    {
+      "author": "johnbender",
+      "comment_id": "50315623",
+      "comment_url": "https://news.ycombinator.com/item?id=50315623",
+      "excerpt": "Lamport\u2019s book and or Hillel Wayne\u2019s are both good. State machines as a specification language has always been pretty approachable and also relatively deep.",
+      "kind": "recommendation",
+      "parent_comment_id": "50315069"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50290652",
+  "id": "2026-11-01:specifying-systems:50290652",
+  "is_repeat": false,
+  "issue_id": "2026-11-01",
+  "item_id": "specifying-systems",
+  "rank": 5,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50290652",
+  "source_story_title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A listener strongly values the information and interesting topics encountered through AntennaPod.",
+  "evidence_sources": [
+    {
+      "author": "Flere-Imsaho",
+      "comment_id": "50320438",
+      "comment_url": "https://news.ycombinator.com/item?id=50320438",
+      "context": "first_hand_use",
+      "excerpt": "AntennaPod: the wealth of information and interesting topics I've been exposed to via podcasts is hard to overstate.",
+      "kind": "recommendation",
+      "parent_comment_id": "50318628"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50313661",
+  "id": "2026-11-01:antennapod:50313661",
+  "is_repeat": false,
+  "issue_id": "2026-11-01",
+  "item_id": "antennapod",
+  "rank": 3,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50313661",
+  "source_story_title": "Digital minimalism"
+}

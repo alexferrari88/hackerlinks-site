@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "id": "specifying-systems",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:specifying-systems:50290652",
+  "mention_ids": [
+    "2026-11-01:specifying-systems:50290652"
+  ],
+  "name": "Specifying Systems",
+  "slug": "specifying-systems",
+  "summary": "Leslie Lamport's TLA+ book for learning state-machine specifications and system modeling.",
+  "thing_url": "https://lamport.azurewebsites.net/tla/book.html",
+  "times_seen": 1,
+  "why_included": "An explicit book recommendation answers a reader asking how to learn formal modeling."
+}

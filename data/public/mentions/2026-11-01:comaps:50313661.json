@@ -1,0 +1,23 @@
+{
+  "evidence": "A walker says CoMaps revealed remote paths they would not otherwise have known about.",
+  "evidence_sources": [
+    {
+      "author": "Flere-Imsaho",
+      "comment_id": "50320438",
+      "comment_url": "https://news.ycombinator.com/item?id=50320438",
+      "context": "first_hand_use",
+      "excerpt": "I found some remote paths on CoMaps in the UK which I walked recently, without the aid of the app I would have not known about these.",
+      "kind": "recommendation",
+      "parent_comment_id": "50318628"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50313661",
+  "id": "2026-11-01:comaps:50313661",
+  "is_repeat": true,
+  "issue_id": "2026-11-01",
+  "item_id": "comaps",
+  "rank": 2,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50313661",
+  "source_story_title": "Digital minimalism"
+}

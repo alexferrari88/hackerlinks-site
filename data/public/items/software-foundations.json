@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "id": "software-foundations",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:software-foundations:50290652",
+  "mention_ids": [
+    "2026-11-01:software-foundations:50290652"
+  ],
+  "name": "Software Foundations",
+  "slug": "software-foundations",
+  "summary": "Interactive Rocq textbooks teaching logic, proof assistants, and reliable software foundations.",
+  "thing_url": "https://softwarefoundations.cis.upenn.edu/",
+  "times_seen": 1,
+  "why_included": "An explicit recommendation gives proof-assistant newcomers a concrete learning resource."
+}

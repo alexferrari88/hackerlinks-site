@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "id": "grey-walter-s-robot-turtles-video",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:grey-walter-s-robot-turtles-video:50261253",
+  "mention_ids": [
+    "2026-11-01:grey-walter-s-robot-turtles-video:50261253"
+  ],
+  "name": "Grey Walter's robot turtles video",
+  "slug": "grey-walter-s-robot-turtles-video",
+  "summary": "Archival robot demonstration showing complex behavior from simple light-and-touch sensing circuits.",
+  "thing_url": "https://www.youtube.com/watch?v=lLULRlmXkKo",
+  "times_seen": 1,
+  "why_included": "A direct watch recommendation adds historical context to analog robotics experiments."
+}

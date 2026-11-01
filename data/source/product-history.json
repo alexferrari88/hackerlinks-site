@@ -2,6 +2,15 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name":"Grayjay","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"AntennaPod","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"Specifying Systems","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"Software Foundations","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"Photovore BEAM robot","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"Grey Walter's robot turtles video","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"ESPuino","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"Yoto","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
+    {"name":"Casio AE-1200","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
     {"name":"amazing-sandbox","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
     {"name":"rhun","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
     {"name":"Florilegium","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
@@ -2505,8 +2514,8 @@
     {
       "name": "CoMaps",
       "first_reported_at": "2026-07-05T21:17:49Z",
-      "last_reported_at": "2026-07-05T21:17:49Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 2
     },
     {
       "name": "Combating Cult Mind Control",
@@ -8181,8 +8190,8 @@
     {
       "name": "ScreenZen",
       "first_reported_at": "2026-06-01T21:20:14Z",
-      "last_reported_at": "2026-06-01T21:20:14Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 2
     },
     {
       "name": "ScrollPrize",

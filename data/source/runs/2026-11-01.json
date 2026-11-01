@@ -1,0 +1,249 @@
+{
+  "version": 2,
+  "run_date": "2026-11-01",
+  "generated_at": "2026-11-01T04:15:59.894802+00:00",
+  "summary": "11 comment-endorsed recommendations spanning focused apps, formal verification, screenless audio, watches, and analog robotics.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-01.json",
+    "sha256": "0dbdc38ff28890fde3cfc66176710737e029b437659f9502b96c28db4b0f4ae8",
+    "bytes": 2127589,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3521,
+    "fetched_item_count": 3551,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "11 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Grayjay",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://grayjay.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50319510",
+      "source_story_title": "HackerTube: YouTube built from videos recommended by HN",
+      "summary": "Android video aggregator for following creators through subscriptions rather than recommendation feeds.",
+      "why_included": "A first-hand endorsement offers a practical alternative to algorithmic video browsing.",
+      "evidence": "A user praises the mobile app and describes subscription groups, but reports problems with the desktop version.",
+      "evidence_sources": [
+        {
+          "comment_id": "50320328",
+          "comment_url": "https://news.ycombinator.com/item?id=50320328",
+          "author": "0fflineuser",
+          "excerpt": "I first started by moving all my subscriptions to grayjay(where I also disabled the home page), that way I just click the subscriptions tab and there is everything there, you can even create subscription groups if needed. Then as I had some issues with grayjay desktop(not the mobile app which works great)",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50319949"
+        }
+      ]
+    },
+    {
+      "name": "CoMaps",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.comaps.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50313661",
+      "source_story_title": "Digital minimalism",
+      "summary": "Offline navigation app; a walker credits it with discovering remote UK paths.",
+      "why_included": "A concrete outdoor discovery makes the endorsement more useful than generic app praise.",
+      "evidence": "A walker says CoMaps revealed remote paths they would not otherwise have known about.",
+      "evidence_sources": [
+        {
+          "comment_id": "50320438",
+          "comment_url": "https://news.ycombinator.com/item?id=50320438",
+          "author": "Flere-Imsaho",
+          "excerpt": "I found some remote paths on CoMaps in the UK which I walked recently, without the aid of the app I would have not known about these.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50318628"
+        }
+      ]
+    },
+    {
+      "name": "AntennaPod",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://antennapod.org/download/",
+      "hn_url": "https://news.ycombinator.com/item?id=50313661",
+      "source_story_title": "Digital minimalism",
+      "summary": "Android podcast player praised for exposing a listener to worthwhile topics.",
+      "why_included": "The recommendation highlights useful listening rather than attention-grabbing feeds.",
+      "evidence": "A listener strongly values the information and interesting topics encountered through AntennaPod.",
+      "evidence_sources": [
+        {
+          "comment_id": "50320438",
+          "comment_url": "https://news.ycombinator.com/item?id=50320438",
+          "author": "Flere-Imsaho",
+          "excerpt": "AntennaPod: the wealth of information and interesting topics I've been exposed to via podcasts is hard to overstate.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50318628"
+        }
+      ]
+    },
+    {
+      "name": "ScreenZen",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://screenzen.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=50313661",
+      "source_story_title": "Digital minimalism",
+      "summary": "App and website limiter; short timed sessions help interrupt compulsive scrolling.",
+      "why_included": "A specific five-minute-session workflow supports resurfacing after the publication cooldown.",
+      "evidence": "A user configures several five-minute sessions daily and says the interruptions help break addictive news and social-media use.",
+      "evidence_sources": [
+        {
+          "comment_id": "50315614",
+          "comment_url": "https://news.ycombinator.com/item?id=50315614",
+          "author": "liorgrossman",
+          "excerpt": "I use ScreenZen to enforce limited short session for a short list of harmful apps and websites (socials & news), and I configured it to allow a few 5-min-long sessions per day. The short sessions being cut in the middle help me stay informed but break the addictive nature of socials/news.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Specifying Systems",
+      "category": "Watch & Learn",
+      "thing_url": "https://lamport.azurewebsites.net/tla/book.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50290652",
+      "source_story_title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "summary": "Leslie Lamport's TLA+ book for learning state-machine specifications and system modeling.",
+      "why_included": "An explicit book recommendation answers a reader asking how to learn formal modeling.",
+      "evidence": "A commenter recommends Lamport's linked book and describes state-machine specifications as approachable but deep.",
+      "evidence_sources": [
+        {
+          "comment_id": "50315623",
+          "comment_url": "https://news.ycombinator.com/item?id=50315623",
+          "author": "johnbender",
+          "excerpt": "Lamport’s book and or Hillel Wayne’s are both good. State machines as a specification language has always been pretty approachable and also relatively deep.",
+          "kind": "recommendation",
+          "parent_comment_id": "50315069"
+        }
+      ]
+    },
+    {
+      "name": "Software Foundations",
+      "category": "Watch & Learn",
+      "thing_url": "https://softwarefoundations.cis.upenn.edu/",
+      "hn_url": "https://news.ycombinator.com/item?id=50290652",
+      "source_story_title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "summary": "Interactive Rocq textbooks teaching logic, proof assistants, and reliable software foundations.",
+      "why_included": "An explicit recommendation gives proof-assistant newcomers a concrete learning resource.",
+      "evidence": "A commenter calls Software Foundations great for entering proof assistants and suggests Rocq knowledge transfers to Lean.",
+      "evidence_sources": [
+        {
+          "comment_id": "50315623",
+          "comment_url": "https://news.ycombinator.com/item?id=50315623",
+          "author": "johnbender",
+          "excerpt": "If you want to get in to proof assistants Software Foundations is great and the delta to understanding Lean from Rocq is pretty small.",
+          "kind": "recommendation",
+          "parent_comment_id": "50315069"
+        }
+      ]
+    },
+    {
+      "name": "Photovore BEAM robot",
+      "category": "Watch & Learn",
+      "thing_url": "https://youtube.com/watch?v=wi2lpRLfsd8",
+      "hn_url": "https://news.ycombinator.com/item?id=50261253",
+      "source_story_title": "Simple circuits can create complex behaviors",
+      "summary": "Solar-powered analog robot build using a soldering iron and a few components.",
+      "why_included": "An enthusiastic hands-on recommendation offers a small physical robotics project.",
+      "evidence": "A commenter highly recommends building a photovore with a small solar cell and a few analog components, linking a video.",
+      "evidence_sources": [
+        {
+          "comment_id": "50322616",
+          "comment_url": "https://news.ycombinator.com/item?id=50322616",
+          "author": "gfat",
+          "excerpt": "Highly recommend the photovore BEAM robot if you’ve got a soldering iron. It requires a small solar cell and a few analog components from online suppliers like Digikey.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "Grey Walter's robot turtles video",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=lLULRlmXkKo",
+      "hn_url": "https://news.ycombinator.com/item?id=50261253",
+      "source_story_title": "Simple circuits can create complex behaviors",
+      "summary": "Archival robot demonstration showing complex behavior from simple light-and-touch sensing circuits.",
+      "why_included": "A direct watch recommendation adds historical context to analog robotics experiments.",
+      "evidence": "A commenter recommends the footage as impressive for its era, while noting limits of purely reactive robotics when inertia matters.",
+      "evidence_sources": [
+        {
+          "comment_id": "50318463",
+          "comment_url": "https://news.ycombinator.com/item?id=50318463",
+          "author": "Animats",
+          "excerpt": "Watch the video.[2] It's very impressive for 1948 and tube technology. If you've seen an original Roomba, you've seen a similar level of intelligence. Rod Brooks went down this road. But it didn't go very far. There are severe limits to purely reactive robotics. It doesn't work well for anything that moves fast enough that inertia matters.",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "ESPuino",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/biologist79/ESPuino",
+      "hn_url": "https://news.ycombinator.com/item?id=50260753",
+      "source_story_title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "summary": "Open-source ESP32 music player controlled by RFID cards, suitable for screenless audio.",
+      "why_included": "A recommended alternative in a kids' story-box thread points directly to buildable hardware.",
+      "evidence": "A commenter recommends ESPuino as worth a look and believes custom PCBs remain available.",
+      "evidence_sources": [
+        {
+          "comment_id": "50316380",
+          "comment_url": "https://news.ycombinator.com/item?id=50316380",
+          "author": "flowingfocus",
+          "excerpt": "Another one worth a look is ESPuino (also a german project). Custom PCBs are still available for that one afaik.",
+          "kind": "recommendation",
+          "parent_comment_id": "50314682"
+        }
+      ]
+    },
+    {
+      "name": "Yoto",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://us.yotoplay.com/make-your-own",
+      "hn_url": "https://news.ycombinator.com/item?id=50260753",
+      "source_story_title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "summary": "Children's card-based audio player; an owner praises its flexible custom-audio cards.",
+      "why_included": "An owner's endorsement highlights a commercial screenless-audio option that accommodates personal content.",
+      "evidence": "A Yoto owner praises the flexibility of Make Your Own cards and expresses confidence in the company.",
+      "evidence_sources": [
+        {
+          "comment_id": "50319872",
+          "comment_url": "https://news.ycombinator.com/item?id=50319872",
+          "author": "mpolichette",
+          "excerpt": "Agree, we have Yoto and while I have bought some cards… their “make your own cards” system is pretty much open to whatever you want to do. They seem like a solid company",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50318158"
+        }
+      ]
+    },
+    {
+      "name": "Casio AE-1200",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.casio.com/us/watches/casio/about/ae-1200",
+      "hn_url": "https://news.ycombinator.com/item?id=50317363",
+      "source_story_title": "Casio Watches of the 1980s",
+      "summary": "Affordable world-time watch; a traveler values its long battery life and low stakes.",
+      "why_included": "A detailed long-term ownership account explains why inexpensive hardware can beat luxury alternatives.",
+      "evidence": "A traveler calls the AE1200 the perfect choice, citing its ten-year battery and low replacement cost after three years of happy ownership.",
+      "evidence_sources": [
+        {
+          "comment_id": "50318168",
+          "comment_url": "https://news.ycombinator.com/item?id=50318168",
+          "author": "al_borland",
+          "excerpt": "I then stumbled across the Casio AE1200, their world timer. As I thought about it, this was the perfect choice. With a 10 year battery, I could just grab it and go (changing the battery whenever I renew my passport), I didn't have to deal with setting a bunch of complications, because the quartz movement just kept it going all the time. It solved the IST problem. The low cost meant that I could travel without having to worry about my watch... if something happened, oh well, get another one. Along with that, I wouldn't make me a target for pickpockets. I had been so caught up in watch culture that I didn't realize being cheap could be a feature in the right context. I've had it for about 3 years now and still smile every time I wear it.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50317925"
+        }
+      ]
+    }
+  ]
+}

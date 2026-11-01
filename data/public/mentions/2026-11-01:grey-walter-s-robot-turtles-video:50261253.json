@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the footage as impressive for its era, while noting limits of purely reactive robotics when inertia matters.",
+  "evidence_sources": [
+    {
+      "author": "Animats",
+      "comment_id": "50318463",
+      "comment_url": "https://news.ycombinator.com/item?id=50318463",
+      "excerpt": "Watch the video.[2] It's very impressive for 1948 and tube technology. If you've seen an original Roomba, you've seen a similar level of intelligence. Rod Brooks went down this road. But it didn't go very far. There are severe limits to purely reactive robotics. It doesn't work well for anything that moves fast enough that inertia matters.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50261253",
+  "id": "2026-11-01:grey-walter-s-robot-turtles-video:50261253",
+  "is_repeat": false,
+  "issue_id": "2026-11-01",
+  "item_id": "grey-walter-s-robot-turtles-video",
+  "rank": 8,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50261253",
+  "source_story_title": "Simple circuits can create complex behaviors"
+}

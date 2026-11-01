@@ -1,0 +1,23 @@
+{
+  "evidence": "A user praises the mobile app and describes subscription groups, but reports problems with the desktop version.",
+  "evidence_sources": [
+    {
+      "author": "0fflineuser",
+      "comment_id": "50320328",
+      "comment_url": "https://news.ycombinator.com/item?id=50320328",
+      "context": "first_hand_use",
+      "excerpt": "I first started by moving all my subscriptions to grayjay(where I also disabled the home page), that way I just click the subscriptions tab and there is everything there, you can even create subscription groups if needed. Then as I had some issues with grayjay desktop(not the mobile app which works great)",
+      "kind": "recommendation",
+      "parent_comment_id": "50319949"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50319510",
+  "id": "2026-11-01:grayjay:50319510",
+  "is_repeat": false,
+  "issue_id": "2026-11-01",
+  "item_id": "grayjay",
+  "rank": 1,
+  "seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "source_story_id": "50319510",
+  "source_story_title": "HackerTube: YouTube built from videos recommended by HN"
+}

@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-06-01T21:20:14Z",
   "id": "screenzen",
-  "last_seen_at": "2026-06-01T21:20:14Z",
-  "latest_mention_id": "2026-06-01:screenzen:48312443",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:screenzen:50313661",
   "mention_ids": [
-    "2026-06-01:screenzen:48312443"
+    "2026-06-01:screenzen:48312443",
+    "2026-11-01:screenzen:50313661"
   ],
   "name": "ScreenZen",
   "slug": "screenzen",
-  "summary": "ScreenZen \u2014 donation-supported screen-time blocker with mindful app-opening prompts.",
+  "summary": "App and website limiter; short timed sessions help interrupt compulsive scrolling.",
   "thing_url": "https://screenzen.co/",
-  "times_seen": 1,
-  "why_included": "Readers preferred its lower-friction pricing and behavior-changing prompts over rigid blockers."
+  "times_seen": 2,
+  "why_included": "A specific five-minute-session workflow supports resurfacing after the publication cooldown."
 }

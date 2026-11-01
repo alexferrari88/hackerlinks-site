@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "id": "espuino",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:espuino:50260753",
+  "mention_ids": [
+    "2026-11-01:espuino:50260753"
+  ],
+  "name": "ESPuino",
+  "slug": "espuino",
+  "summary": "Open-source ESP32 music player controlled by RFID cards, suitable for screenless audio.",
+  "thing_url": "https://github.com/biologist79/ESPuino",
+  "times_seen": 1,
+  "why_included": "A recommended alternative in a kids' story-box thread points directly to buildable hardware."
+}

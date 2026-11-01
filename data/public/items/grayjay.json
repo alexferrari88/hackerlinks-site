@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "id": "grayjay",
+  "last_seen_at": "2026-11-01T04:15:59.894802+00:00",
+  "latest_mention_id": "2026-11-01:grayjay:50319510",
+  "mention_ids": [
+    "2026-11-01:grayjay:50319510"
+  ],
+  "name": "Grayjay",
+  "slug": "grayjay",
+  "summary": "Android video aggregator for following creators through subscriptions rather than recommendation feeds.",
+  "thing_url": "https://grayjay.app/",
+  "times_seen": 1,
+  "why_included": "A first-hand endorsement offers a practical alternative to algorithmic video browsing."
+}
