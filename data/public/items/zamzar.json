@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "zamzar",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:zamzar:50303984",
+  "mention_ids": [
+    "2026-11-02:zamzar:50303984"
+  ],
+  "name": "Zamzar",
+  "slug": "zamzar",
+  "summary": "Online file converter praised by a regular user for EPUB-to-PDF results.",
+  "thing_url": "https://www.zamzar.com/",
+  "times_seen": 1,
+  "why_included": "A returning user's specific conversion use case independently endorses the submitted product."
+}

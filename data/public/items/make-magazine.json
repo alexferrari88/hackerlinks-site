@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "make-magazine",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:make-magazine:50321048",
+  "mention_ids": [
+    "2026-11-02:make-magazine:50321048"
+  ],
+  "name": "Make: Magazine",
+  "slug": "make-magazine",
+  "summary": "DIY magazine whose hands-on electronics projects helped hook a commenter on making.",
+  "thing_url": "https://makezine.com/",
+  "times_seen": 1,
+  "why_included": "A specific recollection of building a magazine project supports the enthusiastic endorsement."
+}

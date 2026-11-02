@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "outcrop",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:outcrop:50290533",
+  "mention_ids": [
+    "2026-11-02:outcrop:50290533"
+  ],
+  "name": "Outcrop",
+  "slug": "outcrop",
+  "summary": "Camera-based geology app praised by a commenter who tried the Android version.",
+  "thing_url": "https://outcrop.rocks/",
+  "times_seen": 1,
+  "why_included": "The story subject receives independent positive feedback from an actual app trial."
+}

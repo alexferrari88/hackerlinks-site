@@ -1,0 +1,22 @@
+{
+  "evidence": "msy recommends Sontag's book as a considered treatment of framing and neutrality.",
+  "evidence_sources": [
+    {
+      "author": "msy",
+      "comment_id": "50323524",
+      "comment_url": "https://news.ycombinator.com/item?id=50323524",
+      "excerpt": "See Susan Sontag\u2019s On Phototography for a deeply considered read on this.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50304718",
+  "id": "2026-11-02:on-photography-susan-sontag:50304718",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "on-photography-susan-sontag",
+  "rank": 9,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50304718",
+  "source_story_title": "A 1580 Map Shows Why Data Visualization Is Never Neutral"
+}

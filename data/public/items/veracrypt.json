@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "veracrypt",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:veracrypt:50326099",
+  "mention_ids": [
+    "2026-11-02:veracrypt:50326099"
+  ],
+  "name": "VeraCrypt",
+  "slug": "veracrypt",
+  "summary": "Open-source disk encryption explicitly recommended for personal use over dedicated encrypted hardware.",
+  "thing_url": "https://veracrypt.io/en/Home.html",
+  "times_seen": 1,
+  "why_included": "A hardware-encryption user draws a useful distinction between institutional and personal needs."
+}

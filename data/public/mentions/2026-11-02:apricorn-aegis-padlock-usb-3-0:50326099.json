@@ -1,0 +1,23 @@
+{
+  "evidence": "OptionOfT says their organization used these drives successfully because device allowlisting and mandatory encryption procedures became simpler.",
+  "evidence_sources": [
+    {
+      "author": "OptionOfT",
+      "comment_id": "50327740",
+      "comment_url": "https://news.ycombinator.com/item?id=50327740",
+      "context": "first_hand_use",
+      "excerpt": "They work well in high security environments because you can allowlist the vendor and product id of only these hard drives, and you don't have to set up procedures where people HAVE to encrypt their drives before use.",
+      "kind": "recommendation",
+      "parent_comment_id": "50326344"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50326099",
+  "id": "2026-11-02:apricorn-aegis-padlock-usb-3-0:50326099",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "apricorn-aegis-padlock-usb-3-0",
+  "rank": 6,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50326099",
+  "source_story_title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case"
+}

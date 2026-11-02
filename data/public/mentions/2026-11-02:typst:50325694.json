@@ -1,0 +1,23 @@
+{
+  "evidence": "tmoertel switched from a Pandoc/LuaLaTeX pipeline taking several seconds to a Typst workflow described as effectively instant.",
+  "evidence_sources": [
+    {
+      "author": "tmoertel",
+      "comment_id": "50326743",
+      "comment_url": "https://news.ycombinator.com/item?id=50326743",
+      "context": "first_hand_use",
+      "excerpt": "But that took several seconds. Now, I use Typst to go straight from Markdown to PDF files. It\u2019s pretty much instant.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50325694",
+  "id": "2026-11-02:typst:50325694",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "typst",
+  "rank": 1,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50325694",
+  "source_story_title": "Novellas with Groff"
+}

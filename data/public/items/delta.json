@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "delta",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:delta:50325253",
+  "mention_ids": [
+    "2026-11-02:delta:50325253"
+  ],
+  "name": "Delta",
+  "slug": "delta",
+  "summary": "Git diff pager praised for readable character-level highlighting and straightforward package installation.",
+  "thing_url": "https://github.com/dandavison/delta",
+  "times_seen": 1,
+  "why_included": "Specific praise for an established alternative surfaced inside a new diff-tool launch thread."
+}

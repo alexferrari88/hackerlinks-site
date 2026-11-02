@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-11-02",
+  "generated_at": "2026-11-02T05:17:25+01:00",
+  "summary": "Ten comment-endorsed discoveries across developer tools, encryption, geology, publishing, and reading.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-02.json",
+    "sha256": "71c2cace56668d6122f6d9cbffb857dd2b51caf8dfbbe921f42bc4f619caf68c",
+    "bytes": 2119199,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3479,
+    "fetched_item_count": 3509,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 /front stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Typst",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/typst/typst",
+      "hn_url": "https://news.ycombinator.com/item?id=50325694",
+      "source_story_title": "Novellas with Groff",
+      "summary": "Typesetting system praised for near-instant PDF generation in a fiction-writing workflow.",
+      "why_included": "A fiction writer describes a concrete speed improvement in their publishing pipeline.",
+      "evidence": "tmoertel switched from a Pandoc/LuaLaTeX pipeline taking several seconds to a Typst workflow described as effectively instant.",
+      "evidence_sources": [{"comment_id":"50326743","comment_url":"https://news.ycombinator.com/item?id=50326743","author":"tmoertel","excerpt":"But that took several seconds. Now, I use Typst to go straight from Markdown to PDF files. It’s pretty much instant.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Delta",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dandavison/delta",
+      "hn_url": "https://news.ycombinator.com/item?id=50325253",
+      "source_story_title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "summary": "Git diff pager praised for readable character-level highlighting and straightforward package installation.",
+      "why_included": "Specific praise for an established alternative surfaced inside a new diff-tool launch thread.",
+      "evidence": "nickjj praises Delta's character-level highlighting and its availability through standard package managers.",
+      "evidence_sources": [{"comment_id":"50328043","comment_url":"https://news.ycombinator.com/item?id=50328043","author":"nickjj","excerpt":"Delta has a really nice way to show diffs with its diff-so-fancy mode, it's more similar to GitHub's UI where not only the line is colored up differently but there's a different shade of color to highlight the characters.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "phoria2",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://kevs3d.co.uk/phoria2/",
+      "hn_url": "https://news.ycombinator.com/item?id=50314508",
+      "source_story_title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "summary": "Small WebGL 2 library whose demos impressed a commenter with 120-FPS phone performance.",
+      "why_included": "A commenter tested the demos on a phone and supplied both praise and a concrete caveat.",
+      "evidence": "taylor-tg reports 120-FPS demos on a phone, but says hover interactions do not behave well on mobile.",
+      "evidence_sources": [{"comment_id":"50326650","comment_url":"https://news.ycombinator.com/item?id=50326650","author":"taylor-tg","excerpt":"This is super cool, and I loved seeing the FPS stay locked at 120 on my phone. I didn't see this on the website, but do you have any docs that detail how your library compares to other popular options such as Three, Babylon, etc? Definitely giving this a try today. One thing I noticed is that the \"hover\" functionality in most of the demos doesn't behave well on mobile.","kind":"recommendation","context":"evaluated","parent_comment_id":null}]
+    },
+    {
+      "name": "Evergreen ILS",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://evergreen-ils.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50326821",
+      "source_story_title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "summary": "Open-source library software with a discovery API praised by an experienced user.",
+      "why_included": "A practical API recommendation emerged from a discussion about searching local library holdings.",
+      "evidence": "sheepjumpmoons calls Evergreen's API robust and says they have used it extensively for discovery.",
+      "evidence_sources": [{"comment_id":"50327976","comment_url":"https://news.ycombinator.com/item?id=50327976","author":"sheepjumpmoons","excerpt":"Many use the open source Evergreen ILS. It has a very robust API that I've used quite a bit for discovery.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50327971"}]
+    },
+    {
+      "name": "VeraCrypt",
+      "category": "Privacy & Networking",
+      "thing_url": "https://veracrypt.io/en/Home.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50326099",
+      "source_story_title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "summary": "Open-source disk encryption explicitly recommended for personal use over dedicated encrypted hardware.",
+      "why_included": "A hardware-encryption user draws a useful distinction between institutional and personal needs.",
+      "evidence": "OptionOfT recommends VeraCrypt or BitLocker for personal use after describing institutional use of Apricorn drives.",
+      "evidence_sources": [{"comment_id":"50327740","comment_url":"https://news.ycombinator.com/item?id=50327740","author":"OptionOfT","excerpt":"But for personal use? BitLocker / VeraCrypt all the way.","kind":"recommendation","parent_comment_id":"50326344"}]
+    },
+    {
+      "name": "Apricorn Aegis Padlock USB 3.0",
+      "category": "Privacy & Networking",
+      "thing_url": "https://apricorn.com/aegis-padlock-usb3",
+      "hn_url": "https://news.ycombinator.com/item?id=50326099",
+      "source_story_title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "summary": "Hardware-encrypted USB drive praised for simplifying device allowlisting in high-security workplaces.",
+      "why_included": "A first-hand recommendation explains the operational case rather than asserting unverified cryptographic strength.",
+      "evidence": "OptionOfT says their organization used these drives successfully because device allowlisting and mandatory encryption procedures became simpler.",
+      "evidence_sources": [{"comment_id":"50327740","comment_url":"https://news.ycombinator.com/item?id=50327740","author":"OptionOfT","excerpt":"They work well in high security environments because you can allowlist the vendor and product id of only these hard drives, and you don't have to set up procedures where people HAVE to encrypt their drives before use.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50326344"}]
+    },
+    {
+      "name": "Outcrop",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://outcrop.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=50290533",
+      "source_story_title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "summary": "Camera-based geology app praised by a commenter who tried the Android version.",
+      "why_included": "The story subject receives independent positive feedback from an actual app trial.",
+      "evidence": "StepWeiwu says they tried the Android app and found it functional and interesting.",
+      "evidence_sources": [{"comment_id":"50331986","comment_url":"https://news.ycombinator.com/item?id=50331986","author":"StepWeiwu","excerpt":"Super cool, congrats! I've played around with the android app, works great and it's really interesting!","kind":"recommendation","context":"evaluated","parent_comment_id":null}]
+    },
+    {
+      "name": "Zamzar",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.zamzar.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50303984",
+      "source_story_title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "summary": "Online file converter praised by a regular user for EPUB-to-PDF results.",
+      "why_included": "A returning user's specific conversion use case independently endorses the submitted product.",
+      "evidence": "andai regularly uses Zamzar for EPUB-to-PDF conversion and preferred its output to their Pandoc attempt.",
+      "evidence_sources": [{"comment_id":"50323768","comment_url":"https://news.ycombinator.com/item?id=50323768","author":"andai","excerpt":"I use this all the time, especially for epub to pdf. Tried doing it with pandoc and the result was similar but less good.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "On Photography — Susan Sontag",
+      "category": "Watch & Learn",
+      "thing_url": "https://us.macmillan.com/books/9781429957113/onphotography",
+      "hn_url": "https://news.ycombinator.com/item?id=50304718",
+      "source_story_title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "summary": "Essay collection recommended for understanding how framing shapes supposedly neutral images.",
+      "why_included": "A concrete book recommendation bridges data visualization and the choices embedded in photography.",
+      "evidence": "msy recommends Sontag's book as a considered treatment of framing and neutrality.",
+      "evidence_sources": [{"comment_id":"50323524","comment_url":"https://news.ycombinator.com/item?id=50323524","author":"msy","excerpt":"See Susan Sontag’s On Phototography for a deeply considered read on this.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Make: Magazine",
+      "category": "Watch & Learn",
+      "thing_url": "https://makezine.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50321048",
+      "source_story_title": "Altoids Project",
+      "summary": "DIY magazine whose hands-on electronics projects helped hook a commenter on making.",
+      "why_included": "A specific recollection of building a magazine project supports the enthusiastic endorsement.",
+      "evidence": "wildzzz built a dice roller from Make and fondly endorses its approachable electronics projects.",
+      "evidence_sources": [{"comment_id":"50322448","comment_url":"https://news.ycombinator.com/item?id=50322448","author":"wildzzz","excerpt":"I loved the little projects in Make magazine, I thought it was so cool that you could just build your own electronics.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    }
+  ]
+}

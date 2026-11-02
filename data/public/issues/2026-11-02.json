@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T05:17:25+01:00",
+  "headline": "10 interesting things surfaced from HN on 2026-11-02",
+  "id": "2026-11-02",
+  "mention_ids": [
+    "2026-11-02:typst:50325694",
+    "2026-11-02:delta:50325253",
+    "2026-11-02:phoria2:50314508",
+    "2026-11-02:evergreen-ils:50326821",
+    "2026-11-02:veracrypt:50326099",
+    "2026-11-02:apricorn-aegis-padlock-usb-3-0:50326099",
+    "2026-11-02:outcrop:50290533",
+    "2026-11-02:zamzar:50303984",
+    "2026-11-02:on-photography-susan-sontag:50304718",
+    "2026-11-02:make-magazine:50321048"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

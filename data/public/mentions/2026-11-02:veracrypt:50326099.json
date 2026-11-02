@@ -1,0 +1,22 @@
+{
+  "evidence": "OptionOfT recommends VeraCrypt or BitLocker for personal use after describing institutional use of Apricorn drives.",
+  "evidence_sources": [
+    {
+      "author": "OptionOfT",
+      "comment_id": "50327740",
+      "comment_url": "https://news.ycombinator.com/item?id=50327740",
+      "excerpt": "But for personal use? BitLocker / VeraCrypt all the way.",
+      "kind": "recommendation",
+      "parent_comment_id": "50326344"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50326099",
+  "id": "2026-11-02:veracrypt:50326099",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "veracrypt",
+  "rank": 5,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50326099",
+  "source_story_title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "apricorn-aegis-padlock-usb-3-0",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:apricorn-aegis-padlock-usb-3-0:50326099",
+  "mention_ids": [
+    "2026-11-02:apricorn-aegis-padlock-usb-3-0:50326099"
+  ],
+  "name": "Apricorn Aegis Padlock USB 3.0",
+  "slug": "apricorn-aegis-padlock-usb-3-0",
+  "summary": "Hardware-encrypted USB drive praised for simplifying device allowlisting in high-security workplaces.",
+  "thing_url": "https://apricorn.com/aegis-padlock-usb3",
+  "times_seen": 1,
+  "why_included": "A first-hand recommendation explains the operational case rather than asserting unverified cryptographic strength."
+}

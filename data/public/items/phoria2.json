@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "phoria2",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:phoria2:50314508",
+  "mention_ids": [
+    "2026-11-02:phoria2:50314508"
+  ],
+  "name": "phoria2",
+  "slug": "phoria2",
+  "summary": "Small WebGL 2 library whose demos impressed a commenter with 120-FPS phone performance.",
+  "thing_url": "https://kevs3d.co.uk/phoria2/",
+  "times_seen": 1,
+  "why_included": "A commenter tested the demos on a phone and supplied both praise and a concrete caveat."
+}

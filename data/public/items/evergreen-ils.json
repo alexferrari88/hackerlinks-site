@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "evergreen-ils",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:evergreen-ils:50326821",
+  "mention_ids": [
+    "2026-11-02:evergreen-ils:50326821"
+  ],
+  "name": "Evergreen ILS",
+  "slug": "evergreen-ils",
+  "summary": "Open-source library software with a discovery API praised by an experienced user.",
+  "thing_url": "https://evergreen-ils.org/",
+  "times_seen": 1,
+  "why_included": "A practical API recommendation emerged from a discussion about searching local library holdings."
+}

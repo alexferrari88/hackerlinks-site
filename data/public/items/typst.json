@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "typst",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:typst:50325694",
+  "mention_ids": [
+    "2026-11-02:typst:50325694"
+  ],
+  "name": "Typst",
+  "slug": "typst",
+  "summary": "Typesetting system praised for near-instant PDF generation in a fiction-writing workflow.",
+  "thing_url": "https://github.com/typst/typst",
+  "times_seen": 1,
+  "why_included": "A fiction writer describes a concrete speed improvement in their publishing pipeline."
+}

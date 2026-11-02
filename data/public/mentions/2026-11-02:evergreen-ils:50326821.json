@@ -1,0 +1,23 @@
+{
+  "evidence": "sheepjumpmoons calls Evergreen's API robust and says they have used it extensively for discovery.",
+  "evidence_sources": [
+    {
+      "author": "sheepjumpmoons",
+      "comment_id": "50327976",
+      "comment_url": "https://news.ycombinator.com/item?id=50327976",
+      "context": "first_hand_use",
+      "excerpt": "Many use the open source Evergreen ILS. It has a very robust API that I've used quite a bit for discovery.",
+      "kind": "recommendation",
+      "parent_comment_id": "50327971"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50326821",
+  "id": "2026-11-02:evergreen-ils:50326821",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "evergreen-ils",
+  "rank": 4,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50326821",
+  "source_story_title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN"
+}

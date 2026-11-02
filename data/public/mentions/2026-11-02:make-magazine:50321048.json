@@ -1,0 +1,23 @@
+{
+  "evidence": "wildzzz built a dice roller from Make and fondly endorses its approachable electronics projects.",
+  "evidence_sources": [
+    {
+      "author": "wildzzz",
+      "comment_id": "50322448",
+      "comment_url": "https://news.ycombinator.com/item?id=50322448",
+      "context": "first_hand_use",
+      "excerpt": "I loved the little projects in Make magazine, I thought it was so cool that you could just build your own electronics.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50321048",
+  "id": "2026-11-02:make-magazine:50321048",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "make-magazine",
+  "rank": 10,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50321048",
+  "source_story_title": "Altoids Project"
+}

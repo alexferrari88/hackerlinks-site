@@ -1,0 +1,23 @@
+{
+  "evidence": "StepWeiwu says they tried the Android app and found it functional and interesting.",
+  "evidence_sources": [
+    {
+      "author": "StepWeiwu",
+      "comment_id": "50331986",
+      "comment_url": "https://news.ycombinator.com/item?id=50331986",
+      "context": "evaluated",
+      "excerpt": "Super cool, congrats! I've played around with the android app, works great and it's really interesting!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50290533",
+  "id": "2026-11-02:outcrop:50290533",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "outcrop",
+  "rank": 7,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50290533",
+  "source_story_title": "Show HN: Point your camera at a landscape to learn about its geology"
+}

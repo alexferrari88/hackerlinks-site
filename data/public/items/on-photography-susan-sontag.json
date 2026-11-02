@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-02T05:17:25+01:00",
+  "id": "on-photography-susan-sontag",
+  "last_seen_at": "2026-11-02T05:17:25+01:00",
+  "latest_mention_id": "2026-11-02:on-photography-susan-sontag:50304718",
+  "mention_ids": [
+    "2026-11-02:on-photography-susan-sontag:50304718"
+  ],
+  "name": "On Photography \u2014 Susan Sontag",
+  "slug": "on-photography-susan-sontag",
+  "summary": "Essay collection recommended for understanding how framing shapes supposedly neutral images.",
+  "thing_url": "https://us.macmillan.com/books/9781429957113/onphotography",
+  "times_seen": 1,
+  "why_included": "A concrete book recommendation bridges data visualization and the choices embedded in photography."
+}

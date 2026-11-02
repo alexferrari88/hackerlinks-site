@@ -1,0 +1,23 @@
+{
+  "evidence": "nickjj praises Delta's character-level highlighting and its availability through standard package managers.",
+  "evidence_sources": [
+    {
+      "author": "nickjj",
+      "comment_id": "50328043",
+      "comment_url": "https://news.ycombinator.com/item?id=50328043",
+      "context": "first_hand_use",
+      "excerpt": "Delta has a really nice way to show diffs with its diff-so-fancy mode, it's more similar to GitHub's UI where not only the line is colored up differently but there's a different shade of color to highlight the characters.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50325253",
+  "id": "2026-11-02:delta:50325253",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "delta",
+  "rank": 2,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50325253",
+  "source_story_title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust"
+}

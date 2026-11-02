@@ -1,0 +1,23 @@
+{
+  "evidence": "andai regularly uses Zamzar for EPUB-to-PDF conversion and preferred its output to their Pandoc attempt.",
+  "evidence_sources": [
+    {
+      "author": "andai",
+      "comment_id": "50323768",
+      "comment_url": "https://news.ycombinator.com/item?id=50323768",
+      "context": "first_hand_use",
+      "excerpt": "I use this all the time, especially for epub to pdf. Tried doing it with pandoc and the result was similar but less good.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50303984",
+  "id": "2026-11-02:zamzar:50303984",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "zamzar",
+  "rank": 8,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50303984",
+  "source_story_title": "Running a bootstrapped SaaS for 20 years with my brother"
+}

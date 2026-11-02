@@ -1,0 +1,23 @@
+{
+  "evidence": "taylor-tg reports 120-FPS demos on a phone, but says hover interactions do not behave well on mobile.",
+  "evidence_sources": [
+    {
+      "author": "taylor-tg",
+      "comment_id": "50326650",
+      "comment_url": "https://news.ycombinator.com/item?id=50326650",
+      "context": "evaluated",
+      "excerpt": "This is super cool, and I loved seeing the FPS stay locked at 120 on my phone. I didn't see this on the website, but do you have any docs that detail how your library compares to other popular options such as Three, Babylon, etc? Definitely giving this a try today. One thing I noticed is that the \"hover\" functionality in most of the demos doesn't behave well on mobile.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50314508",
+  "id": "2026-11-02:phoria2:50314508",
+  "is_repeat": false,
+  "issue_id": "2026-11-02",
+  "item_id": "phoria2",
+  "rank": 3,
+  "seen_at": "2026-11-02T05:17:25+01:00",
+  "source_story_id": "50314508",
+  "source_story_title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2"
+}

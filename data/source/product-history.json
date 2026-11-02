@@ -2,25 +2,120 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
-    {"name":"Grayjay","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"AntennaPod","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"Specifying Systems","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"Software Foundations","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"Photovore BEAM robot","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"Grey Walter's robot turtles video","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"ESPuino","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"Yoto","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"Casio AE-1200","first_reported_at":"2026-11-01T04:15:59.894802+00:00","last_reported_at":"2026-11-01T04:15:59.894802+00:00","times_reported":1},
-    {"name":"amazing-sandbox","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"rhun","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"Florilegium","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"Astroterm","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"DreamCoder","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"PCSX2","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"MapTap","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"Sir Gawain and the Green Knight (Simon Armitage / Bill Wallis)","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"In Our Time: Epic of Gilgamesh","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
-    {"name":"Museo Galileo","first_reported_at":"2026-10-31T04:16:27.751758+00:00","last_reported_at":"2026-10-31T04:16:27.751758+00:00","times_reported":1},
+    {
+      "name": "Grayjay",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AntennaPod",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Specifying Systems",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Software Foundations",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Photovore BEAM robot",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Grey Walter's robot turtles video",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ESPuino",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Yoto",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Casio AE-1200",
+      "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "last_reported_at": "2026-11-01T04:15:59.894802+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "amazing-sandbox",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "rhun",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Florilegium",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Astroterm",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "DreamCoder",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PCSX2",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MapTap",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Sir Gawain and the Green Knight (Simon Armitage / Bill Wallis)",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "In Our Time: Epic of Gilgamesh",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Museo Galileo",
+      "first_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "last_reported_at": "2026-10-31T04:16:27.751758+00:00",
+      "times_reported": 1
+    },
     {
       "name": "GraalPy",
       "first_reported_at": "2026-10-28T04:15:50.887761+00:00",
@@ -11749,6 +11844,66 @@
       "name": "BYD Sealion 5 DM-i",
       "first_reported_at": "2026-10-30T04:15:46.814199+00:00",
       "last_reported_at": "2026-10-30T04:15:46.814199+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Typst",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Delta",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "phoria2",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Evergreen ILS",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "VeraCrypt",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Apricorn Aegis Padlock USB 3.0",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Outcrop",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Zamzar",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "On Photography — Susan Sontag",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Make: Magazine",
+      "first_reported_at": "2026-11-02T05:17:25+01:00",
+      "last_reported_at": "2026-11-02T05:17:25+01:00",
       "times_reported": 1
     }
   ]
