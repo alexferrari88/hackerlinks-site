@@ -1,0 +1,22 @@
+{
+  "evidence": "moebrowne calls Practical Engineering's linked video on power-grid black starts great.",
+  "evidence_sources": [
+    {
+      "author": "moebrowne",
+      "comment_id": "50337342",
+      "comment_url": "https://news.ycombinator.com/item?id=50337342",
+      "excerpt": "Practical Engineering did a great video on power grid black starts:",
+      "kind": "recommendation",
+      "parent_comment_id": "50335034"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50315217",
+  "id": "2026-11-03:practical-engineering-power-grid-black-starts:50315217",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "practical-engineering-power-grid-black-starts",
+  "rank": 9,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50315217",
+  "source_story_title": "Mystery of 60-Second Fluctuations in Power Grids Solved"
+}

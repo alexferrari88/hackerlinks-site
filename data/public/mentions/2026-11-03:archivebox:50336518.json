@@ -1,0 +1,32 @@
+{
+  "evidence": "drpfenderson highly recommends ArchiveBox after years of successful use. flippant also praises years of use but says self-hosting and maintenance become annoying.",
+  "evidence_sources": [
+    {
+      "author": "drpfenderson",
+      "comment_id": "50338928",
+      "comment_url": "https://news.ycombinator.com/item?id=50338928",
+      "context": "first_hand_use",
+      "excerpt": "If you're making archiving a more involved part of your workflow, I highly recommend ArchiveBox. It can save pretty much every type of file from everywhere, in almost every format you can imagine, while building a searchable index of the archives. Been using it successfully for many years:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "flippant",
+      "comment_id": "50339538",
+      "comment_url": "https://news.ycombinator.com/item?id=50339538",
+      "context": "first_hand_use",
+      "excerpt": "I used ArchiveBox for years. It's really good. The self-hosting and maintenance gets annoying after a while though.",
+      "kind": "caveat",
+      "parent_comment_id": "50338928"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50336518",
+  "id": "2026-11-03:archivebox:50336518",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "archivebox",
+  "rank": 4,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50336518",
+  "source_story_title": "If you love a website, back it up"
+}

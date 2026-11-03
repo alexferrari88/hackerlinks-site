@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-03T04:18:00+00:00",
+  "id": "linkding",
+  "last_seen_at": "2026-11-03T04:18:00+00:00",
+  "latest_mention_id": "2026-11-03:linkding:50336518",
+  "mention_ids": [
+    "2026-11-03:linkding:50336518"
+  ],
+  "name": "Linkding",
+  "slug": "linkding",
+  "summary": "Self-hosted bookmark manager; recommended with SingleFile for capturing important pages.",
+  "thing_url": "https://linkding.link/archiving/#using-the-singlefile-browser-extension",
+  "times_seen": 1,
+  "why_included": "An explicit first-hand workflow recommendation connects bookmarking with keeping local copies."
+}

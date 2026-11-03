@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-03T04:18:00+00:00",
+  "id": "raindrop-io",
+  "last_seen_at": "2026-11-03T04:18:00+00:00",
+  "latest_mention_id": "2026-11-03:raindrop-io:50333339",
+  "mention_ids": [
+    "2026-11-03:raindrop-io:50333339"
+  ],
+  "name": "Raindrop.io",
+  "slug": "raindrop-io",
+  "summary": "Cross-platform bookmark manager for organizing saved links; an active user calls it amazing.",
+  "thing_url": "https://raindrop.io/",
+  "times_seen": 1,
+  "why_included": "Clear first-hand praise offers a hosted bookmarking option alongside the self-hosted picks."
+}

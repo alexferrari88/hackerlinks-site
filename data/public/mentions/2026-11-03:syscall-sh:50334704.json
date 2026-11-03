@@ -1,0 +1,22 @@
+{
+  "evidence": "wg0 calls the submitted Linux system-call resource really great before asking about architecture differences.",
+  "evidence_sources": [
+    {
+      "author": "wg0",
+      "comment_id": "50335902",
+      "comment_url": "https://news.ycombinator.com/item?id=50335902",
+      "excerpt": "This is really great resource, didn't know about it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50334704",
+  "id": "2026-11-03:syscall-sh:50334704",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "syscall-sh",
+  "rank": 3,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50334704",
+  "source_story_title": "Show HN: I've updated my Linux System Call website and API"
+}

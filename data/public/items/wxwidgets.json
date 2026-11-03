@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-03T04:18:00+00:00",
+  "id": "wxwidgets",
+  "last_seen_at": "2026-11-03T04:18:00+00:00",
+  "latest_mention_id": "2026-11-03:wxwidgets:50337558",
+  "mention_ids": [
+    "2026-11-03:wxwidgets:50337558"
+  ],
+  "name": "wxWidgets",
+  "slug": "wxwidgets",
+  "summary": "Cross-platform native C++ GUI toolkit; endorsed as a long-used Electron alternative.",
+  "thing_url": "https://wxwidgets.org/",
+  "times_seen": 1,
+  "why_included": "A developer points to two decades of actual use rather than a hypothetical framework comparison."
+}

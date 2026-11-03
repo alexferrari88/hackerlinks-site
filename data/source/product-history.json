@@ -8477,8 +8477,8 @@
     {
       "name": "SingleFile",
       "first_reported_at": "2026-06-14T21:10:20.514906Z",
-      "last_reported_at": "2026-06-14T21:10:20.514906Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 2
     },
     {
       "name": "skills-sdlc",
@@ -11904,6 +11904,60 @@
       "name": "Make: Magazine",
       "first_reported_at": "2026-11-02T05:17:25+01:00",
       "last_reported_at": "2026-11-02T05:17:25+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "APIkulture",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "wxWidgets",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "syscall.sh",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ArchiveBox",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Linkding",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Raindrop.io",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "F/OSS Comics",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Practical Engineering: Power Grid Black Starts",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The American Way of Death",
+      "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
+      "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
       "times_reported": 1
     }
   ]

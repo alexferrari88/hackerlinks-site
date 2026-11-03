@@ -1,0 +1,23 @@
+{
+  "evidence": "FireInsight highly recommends Linkding paired with SingleFile to bookmark and archive important pages.",
+  "evidence_sources": [
+    {
+      "author": "FireInsight",
+      "comment_id": "50340121",
+      "comment_url": "https://news.ycombinator.com/item?id=50340121",
+      "context": "first_hand_use",
+      "excerpt": "I'm using Linkding hooked up with SingleFile to bookmark+archive all important pages. Highly recommend!",
+      "kind": "recommendation",
+      "parent_comment_id": "50338928"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50336518",
+  "id": "2026-11-03:linkding:50336518",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "linkding",
+  "rank": 6,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50336518",
+  "source_story_title": "If you love a website, back it up"
+}

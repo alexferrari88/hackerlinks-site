@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-11-03",
+  "generated_at": "2026-11-03T04:18:00+00:00",
+  "summary": "Ten comment-endorsed picks spanning native development, web archiving, bookmarks, computing history, power grids, and books.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 HN /front stories fully crawled | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-03.json",
+    "sha256": "c56288a2f7322605c25a2622c20d2875eae41c501ae0f1f8155eff53b4adaab1",
+    "bytes": 3858021,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6395,
+    "fetched_item_count": 6425,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "APIkulture",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.apikulture.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50337558",
+      "source_story_title": "We halved DNS build delay and cut memory use by 85%",
+      "summary": "Native REST API client; a daily user praises its speed over Bruno.",
+      "why_included": "A concrete daily-use recommendation surfaced inside an unrelated DNS discussion.",
+      "evidence": "Shorel says they use APIKulture every day and find it much faster than Bruno, while conceding its appearance is less polished.",
+      "evidence_sources": [
+        {"comment_id": "50347440", "comment_url": "https://news.ycombinator.com/item?id=50347440", "author": "Shorel", "excerpt": "I use it everyday now, it is called APIKulture. It may not look as pretty, but it is insanely faster than Bruno.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50347305"}
+      ]
+    },
+    {
+      "name": "wxWidgets",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://wxwidgets.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50337558",
+      "source_story_title": "We halved DNS build delay and cut memory use by 85%",
+      "summary": "Cross-platform native C++ GUI toolkit; endorsed as a long-used Electron alternative.",
+      "why_included": "A developer points to two decades of actual use rather than a hypothetical framework comparison.",
+      "evidence": "Shorel identifies wxWidgets as the toolkit they used and their Electron alternative for two decades.",
+      "evidence_sources": [
+        {"comment_id": "50347751", "comment_url": "https://news.ycombinator.com/item?id=50347751", "author": "Shorel", "excerpt": "In that case the toolkit I used is called wxWidgets. It has been my Electron alternative for two decades.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50347667"}
+      ]
+    },
+    {
+      "name": "syscall.sh",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://syscall.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=50334704",
+      "source_story_title": "Show HN: I've updated my Linux System Call website and API",
+      "summary": "Linux system-call reference website and API, independently praised as a useful resource.",
+      "why_included": "The submission receives explicit independent praise, not just its author's description.",
+      "evidence": "wg0 calls the submitted Linux system-call resource really great before asking about architecture differences.",
+      "evidence_sources": [
+        {"comment_id": "50335902", "comment_url": "https://news.ycombinator.com/item?id=50335902", "author": "wg0", "excerpt": "This is really great resource, didn't know about it.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "ArchiveBox",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://archivebox.io",
+      "hn_url": "https://news.ycombinator.com/item?id=50336518",
+      "source_story_title": "If you love a website, back it up",
+      "summary": "Self-hosted searchable web archive; long-term users praise it but flag maintenance overhead.",
+      "why_included": "A direct long-term recommendation comes with a specific operational caveat.",
+      "evidence": "drpfenderson highly recommends ArchiveBox after years of successful use. flippant also praises years of use but says self-hosting and maintenance become annoying.",
+      "evidence_sources": [
+        {"comment_id": "50338928", "comment_url": "https://news.ycombinator.com/item?id=50338928", "author": "drpfenderson", "excerpt": "If you're making archiving a more involved part of your workflow, I highly recommend ArchiveBox. It can save pretty much every type of file from everywhere, in almost every format you can imagine, while building a searchable index of the archives. Been using it successfully for many years:", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null},
+        {"comment_id": "50339538", "comment_url": "https://news.ycombinator.com/item?id=50339538", "author": "flippant", "excerpt": "I used ArchiveBox for years. It's really good. The self-hosting and maintenance gets annoying after a while though.", "kind": "caveat", "context": "first_hand_use", "parent_comment_id": "50338928"}
+      ]
+    },
+    {
+      "name": "SingleFile",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.getsinglefile.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50336518",
+      "source_story_title": "If you love a website, back it up",
+      "summary": "Browser extension saving pages as self-contained HTML; praised for simple, portable archives.",
+      "why_included": "Outside its cooldown, fresh first-hand praise and a Linkding integration make resurfacing useful.",
+      "evidence": "revolvingthrow praises SingleFile's single-page captures and simple output, reporting success on over 90% of webpages. FireInsight recommends using SingleFile with Linkding for bookmarking and archiving.",
+      "evidence_sources": [
+        {"comment_id": "50339423", "comment_url": "https://news.ycombinator.com/item?id=50339423", "author": "revolvingthrow", "excerpt": "SingleFile is great for single pages. All the tweaking I do is enable or disable saving scripts, and it works for >90% of webpages. Output being a single file (heh) simplifies things enormously", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50338928"},
+        {"comment_id": "50340121", "comment_url": "https://news.ycombinator.com/item?id=50340121", "author": "FireInsight", "excerpt": "I'm using Linkding hooked up with SingleFile to bookmark+archive all important pages. Highly recommend!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50338928"}
+      ]
+    },
+    {
+      "name": "Linkding",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://linkding.link/archiving/#using-the-singlefile-browser-extension",
+      "hn_url": "https://news.ycombinator.com/item?id=50336518",
+      "source_story_title": "If you love a website, back it up",
+      "summary": "Self-hosted bookmark manager; recommended with SingleFile for capturing important pages.",
+      "why_included": "An explicit first-hand workflow recommendation connects bookmarking with keeping local copies.",
+      "evidence": "FireInsight highly recommends Linkding paired with SingleFile to bookmark and archive important pages.",
+      "evidence_sources": [
+        {"comment_id": "50340121", "comment_url": "https://news.ycombinator.com/item?id=50340121", "author": "FireInsight", "excerpt": "I'm using Linkding hooked up with SingleFile to bookmark+archive all important pages. Highly recommend!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50338928"}
+      ]
+    },
+    {
+      "name": "Raindrop.io",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://raindrop.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50333339",
+      "source_story_title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "summary": "Cross-platform bookmark manager for organizing saved links; an active user calls it amazing.",
+      "why_included": "Clear first-hand praise offers a hosted bookmarking option alongside the self-hosted picks.",
+      "evidence": "lifeisloving says they use raindrop.io for bookmarks and calls it amazing.",
+      "evidence_sources": [
+        {"comment_id": "50336607", "comment_url": "https://news.ycombinator.com/item?id=50336607", "author": "lifeisloving", "excerpt": "I use raindrop.io for bookmarks, its amazing.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50335558"}
+      ]
+    },
+    {
+      "name": "F/OSS Comics",
+      "category": "Watch & Learn",
+      "thing_url": "https://fosscomics.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50332163",
+      "source_story_title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "summary": "Illustrated computing and open-source history; a reader praises the entire series.",
+      "why_included": "Independent praise explicitly extends beyond the submitted chapter to the broader series.",
+      "evidence": "lioeters praises the illustrations and classic computing stories, saying they are reading the entire series and finding it great.",
+      "evidence_sources": [
+        {"comment_id": "50333911", "comment_url": "https://news.ycombinator.com/item?id=50333911", "author": "lioeters", "excerpt": "Love this. The human touch of illustration, and classic stories from computer history. I'm going through the entire series up to now, it's great.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Practical Engineering: Power Grid Black Starts",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=uOSnQM1Zu4w",
+      "hn_url": "https://news.ycombinator.com/item?id=50315217",
+      "source_story_title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "summary": "Video explaining power-grid black starts: restoring electricity after a widespread shutdown.",
+      "why_included": "A specific educational video receives an explicit recommendation within the grid discussion.",
+      "evidence": "moebrowne calls Practical Engineering's linked video on power-grid black starts great.",
+      "evidence_sources": [
+        {"comment_id": "50337342", "comment_url": "https://news.ycombinator.com/item?id=50337342", "author": "moebrowne", "excerpt": "Practical Engineering did a great video on power grid black starts:", "kind": "recommendation", "parent_comment_id": "50335034"}
+      ]
+    },
+    {
+      "name": "The American Way of Death",
+      "category": "Watch & Learn",
+      "thing_url": "https://en.wikipedia.org/wiki/The_American_Way_of_Death",
+      "hn_url": "https://news.ycombinator.com/item?id=50303088",
+      "source_story_title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "summary": "Jessica Mitford's investigative book examining commercialization and abuses in America's funeral industry.",
+      "why_included": "An explicit reading recommendation adds a nontechnical discovery with direct relevance to the discussion.",
+      "evidence": "Papazsazsa directly recommends reading Jessica Mitford's The American Way of Death.",
+      "evidence_sources": [
+        {"comment_id": "50333166", "comment_url": "https://news.ycombinator.com/item?id=50333166", "author": "Papazsazsa", "excerpt": "Read Jessica Mitford's \"The American Way of Death\"", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    }
+  ]
+}

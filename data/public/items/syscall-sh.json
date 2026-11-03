@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-03T04:18:00+00:00",
+  "id": "syscall-sh",
+  "last_seen_at": "2026-11-03T04:18:00+00:00",
+  "latest_mention_id": "2026-11-03:syscall-sh:50334704",
+  "mention_ids": [
+    "2026-11-03:syscall-sh:50334704"
+  ],
+  "name": "syscall.sh",
+  "slug": "syscall-sh",
+  "summary": "Linux system-call reference website and API, independently praised as a useful resource.",
+  "thing_url": "https://syscall.sh/",
+  "times_seen": 1,
+  "why_included": "The submission receives explicit independent praise, not just its author's description."
+}

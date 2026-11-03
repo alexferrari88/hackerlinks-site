@@ -1,0 +1,23 @@
+{
+  "evidence": "Shorel identifies wxWidgets as the toolkit they used and their Electron alternative for two decades.",
+  "evidence_sources": [
+    {
+      "author": "Shorel",
+      "comment_id": "50347751",
+      "comment_url": "https://news.ycombinator.com/item?id=50347751",
+      "context": "first_hand_use",
+      "excerpt": "In that case the toolkit I used is called wxWidgets. It has been my Electron alternative for two decades.",
+      "kind": "recommendation",
+      "parent_comment_id": "50347667"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50337558",
+  "id": "2026-11-03:wxwidgets:50337558",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "wxwidgets",
+  "rank": 2,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50337558",
+  "source_story_title": "We halved DNS build delay and cut memory use by 85%"
+}

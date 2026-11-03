@@ -1,0 +1,32 @@
+{
+  "evidence": "revolvingthrow praises SingleFile's single-page captures and simple output, reporting success on over 90% of webpages. FireInsight recommends using SingleFile with Linkding for bookmarking and archiving.",
+  "evidence_sources": [
+    {
+      "author": "revolvingthrow",
+      "comment_id": "50339423",
+      "comment_url": "https://news.ycombinator.com/item?id=50339423",
+      "context": "first_hand_use",
+      "excerpt": "SingleFile is great for single pages. All the tweaking I do is enable or disable saving scripts, and it works for >90% of webpages. Output being a single file (heh) simplifies things enormously",
+      "kind": "recommendation",
+      "parent_comment_id": "50338928"
+    },
+    {
+      "author": "FireInsight",
+      "comment_id": "50340121",
+      "comment_url": "https://news.ycombinator.com/item?id=50340121",
+      "context": "first_hand_use",
+      "excerpt": "I'm using Linkding hooked up with SingleFile to bookmark+archive all important pages. Highly recommend!",
+      "kind": "recommendation",
+      "parent_comment_id": "50338928"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50336518",
+  "id": "2026-11-03:singlefile:50336518",
+  "is_repeat": true,
+  "issue_id": "2026-11-03",
+  "item_id": "singlefile",
+  "rank": 5,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50336518",
+  "source_story_title": "If you love a website, back it up"
+}

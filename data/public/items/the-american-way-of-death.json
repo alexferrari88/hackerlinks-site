@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-03T04:18:00+00:00",
+  "id": "the-american-way-of-death",
+  "last_seen_at": "2026-11-03T04:18:00+00:00",
+  "latest_mention_id": "2026-11-03:the-american-way-of-death:50303088",
+  "mention_ids": [
+    "2026-11-03:the-american-way-of-death:50303088"
+  ],
+  "name": "The American Way of Death",
+  "slug": "the-american-way-of-death",
+  "summary": "Jessica Mitford's investigative book examining commercialization and abuses in America's funeral industry.",
+  "thing_url": "https://en.wikipedia.org/wiki/The_American_Way_of_Death",
+  "times_seen": 1,
+  "why_included": "An explicit reading recommendation adds a nontechnical discovery with direct relevance to the discussion."
+}

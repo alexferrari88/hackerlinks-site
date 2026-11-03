@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-03T04:18:00+00:00",
+  "id": "f-oss-comics",
+  "last_seen_at": "2026-11-03T04:18:00+00:00",
+  "latest_mention_id": "2026-11-03:f-oss-comics:50332163",
+  "mention_ids": [
+    "2026-11-03:f-oss-comics:50332163"
+  ],
+  "name": "F/OSS Comics",
+  "slug": "f-oss-comics",
+  "summary": "Illustrated computing and open-source history; a reader praises the entire series.",
+  "thing_url": "https://fosscomics.com/",
+  "times_seen": 1,
+  "why_included": "Independent praise explicitly extends beyond the submitted chapter to the broader series."
+}

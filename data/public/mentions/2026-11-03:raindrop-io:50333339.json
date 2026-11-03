@@ -1,0 +1,23 @@
+{
+  "evidence": "lifeisloving says they use raindrop.io for bookmarks and calls it amazing.",
+  "evidence_sources": [
+    {
+      "author": "lifeisloving",
+      "comment_id": "50336607",
+      "comment_url": "https://news.ycombinator.com/item?id=50336607",
+      "context": "first_hand_use",
+      "excerpt": "I use raindrop.io for bookmarks, its amazing.",
+      "kind": "recommendation",
+      "parent_comment_id": "50335558"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50333339",
+  "id": "2026-11-03:raindrop-io:50333339",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "raindrop-io",
+  "rank": 7,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50333339",
+  "source_story_title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN"
+}

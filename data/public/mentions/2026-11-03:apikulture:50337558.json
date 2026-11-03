@@ -1,0 +1,23 @@
+{
+  "evidence": "Shorel says they use APIKulture every day and find it much faster than Bruno, while conceding its appearance is less polished.",
+  "evidence_sources": [
+    {
+      "author": "Shorel",
+      "comment_id": "50347440",
+      "comment_url": "https://news.ycombinator.com/item?id=50347440",
+      "context": "first_hand_use",
+      "excerpt": "I use it everyday now, it is called APIKulture. It may not look as pretty, but it is insanely faster than Bruno.",
+      "kind": "recommendation",
+      "parent_comment_id": "50347305"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50337558",
+  "id": "2026-11-03:apikulture:50337558",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "apikulture",
+  "rank": 1,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50337558",
+  "source_story_title": "We halved DNS build delay and cut memory use by 85%"
+}

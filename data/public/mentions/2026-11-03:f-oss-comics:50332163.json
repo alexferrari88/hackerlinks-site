@@ -1,0 +1,23 @@
+{
+  "evidence": "lioeters praises the illustrations and classic computing stories, saying they are reading the entire series and finding it great.",
+  "evidence_sources": [
+    {
+      "author": "lioeters",
+      "comment_id": "50333911",
+      "comment_url": "https://news.ycombinator.com/item?id=50333911",
+      "context": "first_hand_use",
+      "excerpt": "Love this. The human touch of illustration, and classic stories from computer history. I'm going through the entire series up to now, it's great.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50332163",
+  "id": "2026-11-03:f-oss-comics:50332163",
+  "is_repeat": false,
+  "issue_id": "2026-11-03",
+  "item_id": "f-oss-comics",
+  "rank": 8,
+  "seen_at": "2026-11-03T04:18:00+00:00",
+  "source_story_id": "50332163",
+  "source_story_title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix"
+}
