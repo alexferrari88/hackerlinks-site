@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-11-04",
+  "generated_at": "2026-11-04T04:16:47Z",
+  "summary": "Ten comment-endorsed finds spanning API clients, backups, embedded programming, CAD, security, hardware and books.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 stories fully crawled; 4,689 comments | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-04.json",
+    "sha256": "46be8885fd1d6f5777eb7fd0d28c1530353c38fd20e194a042038dc7123a3ac5",
+    "bytes": 2752937,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4689,
+    "fetched_item_count": 4719,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "RESTer",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://addons.mozilla.org/en-US/firefox/addon/rester/",
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "source_story_title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "Firefox API-testing extension; a user prefers its lightweight, browser-native approach.",
+      "why_included": "A direct first-hand alternative to installing a desktop API client.",
+      "evidence": "A RESTer user describes testing APIs in Firefox and prefers the lighter browser-based workflow.",
+      "evidence_sources": [{"comment_id": "50358918", "comment_url": "https://news.ycombinator.com/item?id=50358918", "author": "wackget", "excerpt": "I much prefer the approach of being able to use the browser for things like this. It feels much more lightweight than installing a piece of desktop software.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Yaak",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://yaak.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "source_story_title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "API client recommended for restoring a simple workflow after Insomnia's account push.",
+      "why_included": "An explicit recommendation grounded in a user's switch from Insomnia.",
+      "evidence": "An Insomnia user switched to Yaak for a simpler API-client experience and strongly recommends it.",
+      "evidence_sources": [{"comment_id": "50355427", "comment_url": "https://news.ycombinator.com/item?id=50355427", "author": "amflare", "excerpt": "I've switched to Yaak to get back to that feel of a simple API client that prompted me to switch to Insomia in the first place. 100% recommend.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50355212"}]
+    },
+    {
+      "name": "rustic",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://rustic.cli.rs/docs/commands/init/cold_storage.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50336918",
+      "source_story_title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "Backup tool with Glacier Deep Archive support; recommended for secondary, rarely restored backups.",
+      "why_included": "A year-long user and contributor offers a concrete alternative to buying tape hardware.",
+      "evidence": "A rustic user and contributor recommends Glacier Deep Archive cold storage, explicitly advising secondary-backup use rather than routine restores.",
+      "evidence_sources": [{"comment_id": "50356684", "comment_url": "https://news.ycombinator.com/item?id=50356684", "author": "pmw", "excerpt": "I heartily recommend rustic's cold storage support for Amazon S3 Glacier Deep Archive. It ends up being $1/TB/month, as long as you plan to not restore from it. (Use it as a secondary backup, and plan to restore from your primary.) I have been using rustic+GDA for about a year now, and I contributed some enhancements to this software ecosystem to make this path smooth for others.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Toit",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://toit.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50321605",
+      "source_story_title": "Toit v2.0.0",
+      "summary": "ESP32 programming language; a repeat user praises its clean syntax and working tools.",
+      "why_included": "Concrete project experience supports the praise, with a disclosed family connection to a developer.",
+      "evidence": "A user praises Toit's language and tooling across projects and reports no performance problems, while disclosing that floitsch is their brother.",
+      "evidence_sources": [{"comment_id": "50350880", "comment_url": "https://news.ycombinator.com/item?id=50350880", "author": "close2", "excerpt": "I have used toit in a lot of my projects. It is a really nice language and so much cleaner than all the alternatives I have tried (Arduino, Python, Lua). The tools just work and I got used to the language really quickly. I did hate that it was bytecode. It just felt wrong to run bytecode on an ESP32. OTOH it just works, and I have never noticed any performance problems. My latest project is a controller for a slave-clock: https://gitlab.com/close2/nebenuhr-toit (There is also a Garmin repository that allows me to control the clock using my Garmin watch.) Full disclosure: I had to use toit (floitsch is my brother), but it really is a nice language and development environment.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Waterfall CAD",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://hackage.haskell.org/package/waterfall-cad",
+      "hn_url": "https://news.ycombinator.com/item?id=50334363",
+      "source_story_title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "summary": "Declarative Haskell solid-modeling library built on OpenCASCADE; explicitly recommended in the CAD discussion.",
+      "why_included": "A targeted raw-thread review uncovered a clear recommendation missed by the bounded queue.",
+      "evidence": "A commenter links the waterfall-cad package and explicitly highly recommends it.",
+      "evidence_sources": [{"comment_id": "50357621", "comment_url": "https://news.ycombinator.com/item?id=50357621", "author": "rafaelRiv", "excerpt": "I'll add to your list this one https://hackage.haskell.org/package/waterfall-cad . I highly recommend it", "kind": "recommendation", "parent_comment_id": "50353913"}]
+    },
+    {
+      "name": "NCSC self-employed and sole traders guidance",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.ncsc.gov.uk/section/advice-guidance/self-employed-sole-traders",
+      "hn_url": "https://news.ycombinator.com/item?id=50340619",
+      "source_story_title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "summary": "Cybersecurity guidance for sole traders; praised as more approachable than NIST's document.",
+      "why_included": "A specific practical resource earns an explicit favorable comparison rather than a neutral link.",
+      "evidence": "A commenter describes the UK NCSC guidance as substantially more approachable than the NIST document.",
+      "evidence_sources": [{"comment_id": "50351802", "comment_url": "https://news.ycombinator.com/item?id=50351802", "author": "entuno", "excerpt": "It's not perfect, but the UK NCSC has a load of guidance for individuals and small businesses that's a hell of a lot more approachable than the NIST document:", "kind": "recommendation", "parent_comment_id": "50351017"}]
+    },
+    {
+      "name": "Flipper Zero",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://flipper.net/products/flipper-zero",
+      "hn_url": "https://news.ycombinator.com/item?id=50356994",
+      "source_story_title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "summary": "Portable electronics multitool; an owner praises hands-on signal experiments and NFC learning with kids.",
+      "why_included": "The existing Flipper Zero receives concrete ownership praise, distinct from preorder enthusiasm for Flipper One.",
+      "evidence": "A Flipper Zero owner describes frequent signal experiments and enjoyable NFC-based educational activities with children.",
+      "evidence_sources": [{"comment_id": "50357689", "comment_url": "https://news.ycombinator.com/item?id=50357689", "author": "vr46", "excerpt": "My F0 is always close at hand, doing everything from being my go-to trigger for whatever random thing I'm playing with, to being an instant output for any signal I'm trying to read. Plus it's a really fun educational tool for myself and various kids around - I keep a load of little NFC 216 tags around, in my bag, in a pouch attached to my Mac, and showing both young and old how to use them, and read them with the phone, leads to conversations about treasure hunts, hiding them in the pub, showing counters with amusing messages...", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "RockAuto",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.rockauto.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50339288",
+      "source_story_title": "Jailbreaking my car's navigation system just so I can change the time",
+      "summary": "Car-parts retailer; a New Zealand buyer recommends its selection and landed prices.",
+      "why_included": "A concrete purchasing recommendation adds useful serendipity beyond software.",
+      "evidence": "A New Zealand customer recommends RockAuto for Japanese-car parts, citing availability and lower prices even with international shipping.",
+      "evidence_sources": [{"comment_id": "50359003", "comment_url": "https://news.ycombinator.com/item?id=50359003", "author": "EdwardDiego", "excerpt": "when it comes to getting parts for Japanese cars, I thoroughly recommend rockauto.com, a US colleague put me onto it, and I use it from NZ because a) it has parts I struggle to find in NZ and b) even with the international shipping, parts are cheaper from there than locally.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50358761"}]
+    },
+    {
+      "name": "The Little Book of Deep Learning",
+      "category": "Watch & Learn",
+      "thing_url": "https://fleuret.org/francois/lbdl.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "source_story_title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary": "François Fleuret's compact deep-learning book; named a commenter's favorite little book.",
+      "why_included": "An independently recommended reading alternative, not merely the submitted book.",
+      "evidence": "A commenter names François Fleuret's The Little Book of Deep Learning as their favorite little book.",
+      "evidence_sources": [{"comment_id": "50358746", "comment_url": "https://news.ycombinator.com/item?id=50358746", "author": "prideout", "excerpt": "My favorite little book is François Fleuret's: The Little Book of Deep Learning", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Dungeon Crawler Carl",
+      "category": "Watch & Learn",
+      "thing_url": "https://mattdinniman.com/books/",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "source_story_title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary": "Matt Dinniman's apocalyptic dungeon-crawl novels; a commenter gives the series an enthusiastic endorsement.",
+      "why_included": "A strong concrete fiction recommendation supplies a worthwhile nontechnical detour.",
+      "evidence": "A commenter enthusiastically recommends Dungeon Crawler Carl as one of the greatest book series of their generation.",
+      "evidence_sources": [{"comment_id": "50359958", "comment_url": "https://news.ycombinator.com/item?id=50359958", "author": "Daklone", "excerpt": "Let me tell you about one of the greatest book series of our generation: Dungeon Crawler Carl, By Matt Dinniman", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

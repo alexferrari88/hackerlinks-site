@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-04T04:16:47Z",
+  "id": "toit",
+  "last_seen_at": "2026-11-04T04:16:47Z",
+  "latest_mention_id": "2026-11-04:toit:50321605",
+  "mention_ids": [
+    "2026-11-04:toit:50321605"
+  ],
+  "name": "Toit",
+  "slug": "toit",
+  "summary": "ESP32 programming language; a repeat user praises its clean syntax and working tools.",
+  "thing_url": "https://toit.io/",
+  "times_seen": 1,
+  "why_included": "Concrete project experience supports the praise, with a disclosed family connection to a developer."
+}

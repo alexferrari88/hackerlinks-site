@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter links the waterfall-cad package and explicitly highly recommends it.",
+  "evidence_sources": [
+    {
+      "author": "rafaelRiv",
+      "comment_id": "50357621",
+      "comment_url": "https://news.ycombinator.com/item?id=50357621",
+      "excerpt": "I'll add to your list this one https://hackage.haskell.org/package/waterfall-cad . I highly recommend it",
+      "kind": "recommendation",
+      "parent_comment_id": "50353913"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50334363",
+  "id": "2026-11-04:waterfall-cad:50334363",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "waterfall-cad",
+  "rank": 5,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50334363",
+  "source_story_title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)"
+}

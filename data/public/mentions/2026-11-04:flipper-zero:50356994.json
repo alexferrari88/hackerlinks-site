@@ -1,0 +1,23 @@
+{
+  "evidence": "A Flipper Zero owner describes frequent signal experiments and enjoyable NFC-based educational activities with children.",
+  "evidence_sources": [
+    {
+      "author": "vr46",
+      "comment_id": "50357689",
+      "comment_url": "https://news.ycombinator.com/item?id=50357689",
+      "context": "first_hand_use",
+      "excerpt": "My F0 is always close at hand, doing everything from being my go-to trigger for whatever random thing I'm playing with, to being an instant output for any signal I'm trying to read. Plus it's a really fun educational tool for myself and various kids around - I keep a load of little NFC 216 tags around, in my bag, in a pouch attached to my Mac, and showing both young and old how to use them, and read them with the phone, leads to conversations about treasure hunts, hiding them in the pub, showing counters with amusing messages...",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50356994",
+  "id": "2026-11-04:flipper-zero:50356994",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "flipper-zero",
+  "rank": 7,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50356994",
+  "source_story_title": "Preparing for the Flipper One Kickstarter and opening pre-orders"
+}

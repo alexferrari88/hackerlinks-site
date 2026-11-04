@@ -1,0 +1,23 @@
+{
+  "evidence": "A user praises Toit's language and tooling across projects and reports no performance problems, while disclosing that floitsch is their brother.",
+  "evidence_sources": [
+    {
+      "author": "close2",
+      "comment_id": "50350880",
+      "comment_url": "https://news.ycombinator.com/item?id=50350880",
+      "context": "first_hand_use",
+      "excerpt": "I have used toit in a lot of my projects. It is a really nice language and so much cleaner than all the alternatives I have tried (Arduino, Python, Lua). The tools just work and I got used to the language really quickly. I did hate that it was bytecode. It just felt wrong to run bytecode on an ESP32. OTOH it just works, and I have never noticed any performance problems. My latest project is a controller for a slave-clock: https://gitlab.com/close2/nebenuhr-toit (There is also a Garmin repository that allows me to control the clock using my Garmin watch.) Full disclosure: I had to use toit (floitsch is my brother), but it really is a nice language and development environment.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50321605",
+  "id": "2026-11-04:toit:50321605",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "toit",
+  "rank": 4,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50321605",
+  "source_story_title": "Toit v2.0.0"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter describes the UK NCSC guidance as substantially more approachable than the NIST document.",
+  "evidence_sources": [
+    {
+      "author": "entuno",
+      "comment_id": "50351802",
+      "comment_url": "https://news.ycombinator.com/item?id=50351802",
+      "excerpt": "It's not perfect, but the UK NCSC has a load of guidance for individuals and small businesses that's a hell of a lot more approachable than the NIST document:",
+      "kind": "recommendation",
+      "parent_comment_id": "50351017"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50340619",
+  "id": "2026-11-04:ncsc-self-employed-and-sole-traders-guidance:50340619",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "ncsc-self-employed-and-sole-traders-guidance",
+  "rank": 6,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50340619",
+  "source_story_title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You"
+}

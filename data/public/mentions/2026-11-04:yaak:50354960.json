@@ -1,0 +1,23 @@
+{
+  "evidence": "An Insomnia user switched to Yaak for a simpler API-client experience and strongly recommends it.",
+  "evidence_sources": [
+    {
+      "author": "amflare",
+      "comment_id": "50355427",
+      "comment_url": "https://news.ycombinator.com/item?id=50355427",
+      "context": "first_hand_use",
+      "excerpt": "I've switched to Yaak to get back to that feel of a simple API client that prompted me to switch to Insomia in the first place. 100% recommend.",
+      "kind": "recommendation",
+      "parent_comment_id": "50355212"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50354960",
+  "id": "2026-11-04:yaak:50354960",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "yaak",
+  "rank": 2,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50354960",
+  "source_story_title": "Postman silently auto-installs AI plugins and attempts to share all API data"
+}

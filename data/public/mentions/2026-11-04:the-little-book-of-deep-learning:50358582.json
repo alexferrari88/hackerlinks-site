@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter names Fran\u00e7ois Fleuret's The Little Book of Deep Learning as their favorite little book.",
+  "evidence_sources": [
+    {
+      "author": "prideout",
+      "comment_id": "50358746",
+      "comment_url": "https://news.ycombinator.com/item?id=50358746",
+      "excerpt": "My favorite little book is Fran\u00e7ois Fleuret's: The Little Book of Deep Learning",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50358582",
+  "id": "2026-11-04:the-little-book-of-deep-learning:50358582",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "the-little-book-of-deep-learning",
+  "rank": 9,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50358582",
+  "source_story_title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+}

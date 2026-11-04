@@ -1,0 +1,23 @@
+{
+  "evidence": "A rustic user and contributor recommends Glacier Deep Archive cold storage, explicitly advising secondary-backup use rather than routine restores.",
+  "evidence_sources": [
+    {
+      "author": "pmw",
+      "comment_id": "50356684",
+      "comment_url": "https://news.ycombinator.com/item?id=50356684",
+      "context": "first_hand_use",
+      "excerpt": "I heartily recommend rustic's cold storage support for Amazon S3 Glacier Deep Archive. It ends up being $1/TB/month, as long as you plan to not restore from it. (Use it as a secondary backup, and plan to restore from your primary.) I have been using rustic+GDA for about a year now, and I contributed some enhancements to this software ecosystem to make this path smooth for others.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50336918",
+  "id": "2026-11-04:rustic:50336918",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "rustic",
+  "rank": 3,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50336918",
+  "source_story_title": "Fujifilm to boost tape production 5x as AI fuels archiving demand"
+}

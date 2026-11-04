@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter enthusiastically recommends Dungeon Crawler Carl as one of the greatest book series of their generation.",
+  "evidence_sources": [
+    {
+      "author": "Daklone",
+      "comment_id": "50359958",
+      "comment_url": "https://news.ycombinator.com/item?id=50359958",
+      "excerpt": "Let me tell you about one of the greatest book series of our generation: Dungeon Crawler Carl, By Matt Dinniman",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50358582",
+  "id": "2026-11-04:dungeon-crawler-carl:50358582",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "dungeon-crawler-carl",
+  "rank": 10,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50358582",
+  "source_story_title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-04T04:16:47Z",
+  "id": "waterfall-cad",
+  "last_seen_at": "2026-11-04T04:16:47Z",
+  "latest_mention_id": "2026-11-04:waterfall-cad:50334363",
+  "mention_ids": [
+    "2026-11-04:waterfall-cad:50334363"
+  ],
+  "name": "Waterfall CAD",
+  "slug": "waterfall-cad",
+  "summary": "Declarative Haskell solid-modeling library built on OpenCASCADE; explicitly recommended in the CAD discussion.",
+  "thing_url": "https://hackage.haskell.org/package/waterfall-cad",
+  "times_seen": 1,
+  "why_included": "A targeted raw-thread review uncovered a clear recommendation missed by the bounded queue."
+}

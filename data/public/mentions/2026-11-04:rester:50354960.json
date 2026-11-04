@@ -1,0 +1,23 @@
+{
+  "evidence": "A RESTer user describes testing APIs in Firefox and prefers the lighter browser-based workflow.",
+  "evidence_sources": [
+    {
+      "author": "wackget",
+      "comment_id": "50358918",
+      "comment_url": "https://news.ycombinator.com/item?id=50358918",
+      "context": "first_hand_use",
+      "excerpt": "I much prefer the approach of being able to use the browser for things like this. It feels much more lightweight than installing a piece of desktop software.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50354960",
+  "id": "2026-11-04:rester:50354960",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "rester",
+  "rank": 1,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50354960",
+  "source_story_title": "Postman silently auto-installs AI plugins and attempts to share all API data"
+}

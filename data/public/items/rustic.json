@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-04T04:16:47Z",
+  "id": "rustic",
+  "last_seen_at": "2026-11-04T04:16:47Z",
+  "latest_mention_id": "2026-11-04:rustic:50336918",
+  "mention_ids": [
+    "2026-11-04:rustic:50336918"
+  ],
+  "name": "rustic",
+  "slug": "rustic",
+  "summary": "Backup tool with Glacier Deep Archive support; recommended for secondary, rarely restored backups.",
+  "thing_url": "https://rustic.cli.rs/docs/commands/init/cold_storage.html",
+  "times_seen": 1,
+  "why_included": "A year-long user and contributor offers a concrete alternative to buying tape hardware."
+}

@@ -11959,6 +11959,16 @@
       "first_reported_at": "2026-11-03T04:20:50.671248+00:00",
       "last_reported_at": "2026-11-03T04:20:50.671248+00:00",
       "times_reported": 1
-    }
+    },
+    {"name": "RESTer", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "Yaak", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "rustic", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "Toit", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "Waterfall CAD", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "NCSC self-employed and sole traders guidance", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "Flipper Zero", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "RockAuto", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "The Little Book of Deep Learning", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1},
+    {"name": "Dungeon Crawler Carl", "first_reported_at": "2026-11-04T04:16:47Z", "last_reported_at": "2026-11-04T04:16:47Z", "times_reported": 1}
   ]
 }

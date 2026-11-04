@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-04T04:16:47Z",
+  "id": "flipper-zero",
+  "last_seen_at": "2026-11-04T04:16:47Z",
+  "latest_mention_id": "2026-11-04:flipper-zero:50356994",
+  "mention_ids": [
+    "2026-11-04:flipper-zero:50356994"
+  ],
+  "name": "Flipper Zero",
+  "slug": "flipper-zero",
+  "summary": "Portable electronics multitool; an owner praises hands-on signal experiments and NFC learning with kids.",
+  "thing_url": "https://flipper.net/products/flipper-zero",
+  "times_seen": 1,
+  "why_included": "The existing Flipper Zero receives concrete ownership praise, distinct from preorder enthusiasm for Flipper One."
+}

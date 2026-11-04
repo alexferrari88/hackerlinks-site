@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-04T04:16:47Z",
+  "id": "rester",
+  "last_seen_at": "2026-11-04T04:16:47Z",
+  "latest_mention_id": "2026-11-04:rester:50354960",
+  "mention_ids": [
+    "2026-11-04:rester:50354960"
+  ],
+  "name": "RESTer",
+  "slug": "rester",
+  "summary": "Firefox API-testing extension; a user prefers its lightweight, browser-native approach.",
+  "thing_url": "https://addons.mozilla.org/en-US/firefox/addon/rester/",
+  "times_seen": 1,
+  "why_included": "A direct first-hand alternative to installing a desktop API client."
+}

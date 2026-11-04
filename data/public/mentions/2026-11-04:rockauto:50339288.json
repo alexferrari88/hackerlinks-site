@@ -1,0 +1,23 @@
+{
+  "evidence": "A New Zealand customer recommends RockAuto for Japanese-car parts, citing availability and lower prices even with international shipping.",
+  "evidence_sources": [
+    {
+      "author": "EdwardDiego",
+      "comment_id": "50359003",
+      "comment_url": "https://news.ycombinator.com/item?id=50359003",
+      "context": "first_hand_use",
+      "excerpt": "when it comes to getting parts for Japanese cars, I thoroughly recommend rockauto.com, a US colleague put me onto it, and I use it from NZ because a) it has parts I struggle to find in NZ and b) even with the international shipping, parts are cheaper from there than locally.",
+      "kind": "recommendation",
+      "parent_comment_id": "50358761"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50339288",
+  "id": "2026-11-04:rockauto:50339288",
+  "is_repeat": false,
+  "issue_id": "2026-11-04",
+  "item_id": "rockauto",
+  "rank": 8,
+  "seen_at": "2026-11-04T04:16:47Z",
+  "source_story_id": "50339288",
+  "source_story_title": "Jailbreaking my car's navigation system just so I can change the time"
+}
