@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter remains excited about Stringman after an earlier sighting, but says rental-wall constraints make buying it unlikely.",
+  "evidence_sources": [
+    {
+      "author": "jauntywundrkind",
+      "comment_id": "50358278",
+      "comment_url": "https://news.ycombinator.com/item?id=50358278",
+      "excerpt": "I saw Stringman here a couple of weeks ago & it's been hard to not thing about it! I don't own though, so, seems unlikely I'd commit, as alas the walls are not a simple white I can easily patch & paint. But so cool!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50354358",
+  "id": "2026-11-05:stringman:50354358",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "stringman",
+  "rank": 7,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50354358",
+  "source_story_title": "Stringman, an $800 open-source room scale gripper robot"
+}

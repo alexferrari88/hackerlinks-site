@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "yori",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:yori:50362980",
+  "mention_ids": [
+    "2026-11-05:yori:50362980"
+  ],
+  "name": "Yori",
+  "slug": "yori",
+  "summary": "Windows command shell with classic styling and Unix-inspired conveniences, including autocomplete.",
+  "thing_url": "http://www.malsmith.net/yori/",
+  "times_seen": 1,
+  "why_included": "A first-hand user calls its deliberately modest Windows experience a joy to use."
+}

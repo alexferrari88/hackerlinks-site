@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "jsontext",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:jsontext:50369106",
+  "mention_ids": [
+    "2026-11-05:jsontext:50369106"
+  ],
+  "name": "jsontext",
+  "slug": "jsontext",
+  "summary": "Go's JSON token parser; praised for fast parsing with precise error reporting.",
+  "thing_url": "https://pkg.go.dev/encoding/json/jsontext",
+  "times_seen": 1,
+  "why_included": "A production user explicitly recommends it for non-straightforward parsing."
+}

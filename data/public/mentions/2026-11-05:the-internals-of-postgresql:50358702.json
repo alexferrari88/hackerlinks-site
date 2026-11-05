@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the HOT update section, followed by zHeap and TOAST notes, to develop a mental model of PostgreSQL.",
+  "evidence_sources": [
+    {
+      "author": "gopalv",
+      "comment_id": "50359266",
+      "comment_url": "https://news.ycombinator.com/item?id=50359266",
+      "excerpt": "If you are just skimming this doc, The HoT update path is the section I would jump to. Understand HoT and then read the zHeap implementation notes (also of TOAST) puts a good mental model of what postgres does and what it doesn't do.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50358702",
+  "id": "2026-11-05:the-internals-of-postgresql:50358702",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "the-internals-of-postgresql",
+  "rank": 8,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50358702",
+  "source_story_title": "The Internals of PostgreSQL"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "hackertv",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:hackertv:50346755",
+  "mention_ids": [
+    "2026-11-05:hackertv:50346755"
+  ],
+  "name": "HackerTV",
+  "slug": "hackertv",
+  "summary": "HN-recommended YouTube videos arranged as live TV channels for serendipitous viewing.",
+  "thing_url": "https://hackertv.org",
+  "times_seen": 1,
+  "why_included": "A hands-on viewer explicitly prefers channel surfing to choosing individual videos."
+}

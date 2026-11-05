@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports reliable local builds, roughly 2,000 builds last year, and no breakage despite update churn; hosted builds were too costly for their large CUDA containers.",
+  "evidence_sources": [
+    {
+      "author": "karolist",
+      "comment_id": "50368255",
+      "comment_url": "https://news.ycombinator.com/item?id=50368255",
+      "context": "production_use",
+      "excerpt": "Same for me, ssh access was intermittent, but at least I have reliable local builds when GitHub actions is out but access works. With AI running Jenkins is not that hard. I build large cuda containers so cost alone ruled out hosted builds for my usecase. There's a bit of update churn but nothing broke so far. I ran around 2000 builds last year.",
+      "kind": "recommendation",
+      "parent_comment_id": "50368093"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50363378",
+  "id": "2026-11-05:jenkins:50363378",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "jenkins",
+  "rank": 5,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50363378",
+  "source_story_title": "Incident with Pull Requests, Git Operations and Issues"
+}

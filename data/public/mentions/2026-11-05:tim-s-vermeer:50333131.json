@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter heartily recommends Tim's Vermeer and links its trailer.",
+  "evidence_sources": [
+    {
+      "author": "7373737373",
+      "comment_id": "50360357",
+      "comment_url": "https://news.ycombinator.com/item?id=50360357",
+      "excerpt": "I heartily recommend \"Tim's Vermeer\":",
+      "kind": "recommendation",
+      "parent_comment_id": "50358210"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50333131",
+  "id": "2026-11-05:tim-s-vermeer:50333131",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "tim-s-vermeer",
+  "rank": 10,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50333131",
+  "source_story_title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026"
+}

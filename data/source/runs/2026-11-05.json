@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "run_date": "2026-11-05",
+  "generated_at": "2026-11-05T04:17:08Z",
+  "summary": "Ten comment-endorsed discoveries spanning developer tools, open AI, robotics, and viewing.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-05.json",
+    "sha256": "3978820426487ce1207fff6e3af9f238ecd7c300353bbdd9f2b6f4e869eb510c",
+    "bytes": 2835197,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4685,
+    "fetched_item_count": 4715,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 stories processed · 4,685 comments | history + run artifact updated",
+  "items": [
+    {
+      "name": "jsontext",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pkg.go.dev/encoding/json/jsontext",
+      "hn_url": "https://news.ycombinator.com/item?id=50369106",
+      "source_story_title": "A new Go API for JSON",
+      "summary": "Go's JSON token parser; praised for fast parsing with precise error reporting.",
+      "why_included": "A production user explicitly recommends it for non-straightforward parsing.",
+      "evidence": "A company user praises its speed and recommends jsontext for challenging parsing requirements.",
+      "evidence_sources": [{"comment_id": "50372538", "comment_url": "https://news.ycombinator.com/item?id=50372538", "author": "txomon", "excerpt": "There is no introspection and speed is superb. I would definitely recommend jsontext as a parser for anything non-straightforward.", "kind": "recommendation", "context": "production_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Yori",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "http://www.malsmith.net/yori/",
+      "hn_url": "https://news.ycombinator.com/item?id=50362980",
+      "source_story_title": "Kitty 0.50",
+      "summary": "Windows command shell with classic styling and Unix-inspired conveniences, including autocomplete.",
+      "why_included": "A first-hand user calls its deliberately modest Windows experience a joy to use.",
+      "evidence": "A user enjoys Yori's polished Windows 2000 feel and autocomplete while noting it is less featureful than Kitty.",
+      "evidence_sources": [{"comment_id": "50370317", "comment_url": "https://news.ycombinator.com/item?id=50370317", "author": "marttt", "excerpt": "I've been using Yori [1]. Not comparable at all to Kitty in terms of features, but a joy to use if you like a polished \"Win2k feel\" with only a handful of added unix-isms like decent autocomplete etc.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50363178"}]
+    },
+    {
+      "name": "Crystal",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://crystal-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50369106",
+      "source_story_title": "A new Go API for JSON",
+      "summary": "Compiled programming language; a new user praises the pleasure of building with it.",
+      "why_included": "Enthusiastic hands-on approval emerged in a JSON discussion rather than a language launch.",
+      "evidence": "A user says building in Crystal is great fun, while explicitly withholding a production-readiness judgment.",
+      "evidence_sources": [{"comment_id": "50373897", "comment_url": "https://news.ycombinator.com/item?id=50373897", "author": "alexfortin", "excerpt": "It's really great fun to build stuff in Crystal, I don't have anything prod-grade yet to say how it scores there but the community seems to be happy about that too.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50372246"}]
+    },
+    {
+      "name": "Gitea",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://gitea.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50363378",
+      "source_story_title": "Incident with Pull Requests, Git Operations and Issues",
+      "summary": "Self-hosted Git forge; a longtime user praises easy setup, deployment webhooks, and API tooling.",
+      "why_included": "Concrete multi-year approval supports resurfacing after the 90-day cooldown.",
+      "evidence": "One commenter calls Gitea amazing; a replying longtime user endorses easy setup, testing and deployment webhooks, and its API browser.",
+      "evidence_sources": [
+        {"comment_id": "50363739", "comment_url": "https://news.ycombinator.com/item?id=50363739", "author": "import", "excerpt": "gitea is amazing.", "kind": "recommendation", "parent_comment_id": "50363553"},
+        {"comment_id": "50364098", "comment_url": "https://news.ycombinator.com/item?id=50364098", "author": "raddan", "excerpt": "Seconded. Also very easy to set up. I’ve been running it for years, along with webhooks to kick off testing and website deployment jobs. I especially like the swagger browser that generate API calls for you to try in curl.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50363739"}
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.jenkins.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50363378",
+      "source_story_title": "Incident with Pull Requests, Git Operations and Issues",
+      "summary": "Self-hosted CI server; a CUDA-container builder values reliable local builds and lower costs.",
+      "why_included": "A substantial real build workload offers a specific reason to choose local CI.",
+      "evidence": "A user reports reliable local builds, roughly 2,000 builds last year, and no breakage despite update churn; hosted builds were too costly for their large CUDA containers.",
+      "evidence_sources": [{"comment_id": "50368255", "comment_url": "https://news.ycombinator.com/item?id=50368255", "author": "karolist", "excerpt": "Same for me, ssh access was intermittent, but at least I have reliable local builds when GitHub actions is out but access works. With AI running Jenkins is not that hard. I build large cuda containers so cost alone ruled out hosted builds for my usecase. There's a bit of update churn but nothing broke so far. I ran around 2000 builds last year.", "kind": "recommendation", "context": "production_use", "parent_comment_id": "50368093"}]
+    },
+    {
+      "name": "Marin",
+      "category": "AI & Local Models",
+      "thing_url": "https://marin.community/",
+      "hn_url": "https://news.ycombinator.com/item?id=50352641",
+      "source_story_title": "There is no posttraining data commons",
+      "summary": "Open AI research project sharing training code, data sources, weights, and experiments.",
+      "why_included": "A commenter explicitly praises a concrete effort toward open AI infrastructure.",
+      "evidence": "A commenter calls Marin promising and cool in a discussion of shared posttraining infrastructure.",
+      "evidence_sources": [{"comment_id": "50360511", "comment_url": "https://news.ycombinator.com/item?id=50360511", "author": "mindwok", "excerpt": "The Marin project from Stanford (and I believe now ran by Openathena, the authors of this blog post) is really promising and cool:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Stringman",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://neufangled.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50354358",
+      "source_story_title": "Stringman, an $800 open-source room scale gripper robot",
+      "summary": "Open-source room-scale gripper robot suspended from ceiling cables; an inventive robotics rabbit hole.",
+      "why_included": "Independent comment enthusiasm supports inclusion beyond the submitted product announcement.",
+      "evidence": "A commenter remains excited about Stringman after an earlier sighting, but says rental-wall constraints make buying it unlikely.",
+      "evidence_sources": [{"comment_id": "50358278", "comment_url": "https://news.ycombinator.com/item?id=50358278", "author": "jauntywundrkind", "excerpt": "I saw Stringman here a couple of weeks ago & it's been hard to not thing about it! I don't own though, so, seems unlikely I'd commit, as alas the walls are not a simple white I can easily patch & paint. But so cool!", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Internals of PostgreSQL",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.interdb.jp/pg/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50358702",
+      "source_story_title": "The Internals of PostgreSQL",
+      "summary": "Free PostgreSQL internals guide; a commenter recommends starting with heap-only tuple updates.",
+      "why_included": "A specific reading recommendation supplies a useful entry point into a substantial technical guide.",
+      "evidence": "A commenter recommends the HOT update section, followed by zHeap and TOAST notes, to develop a mental model of PostgreSQL.",
+      "evidence_sources": [{"comment_id": "50359266", "comment_url": "https://news.ycombinator.com/item?id=50359266", "author": "gopalv", "excerpt": "If you are just skimming this doc, The HoT update path is the section I would jump to. Understand HoT and then read the zHeap implementation notes (also of TOAST) puts a good mental model of what postgres does and what it doesn't do.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "HackerTV",
+      "category": "Watch & Learn",
+      "thing_url": "https://hackertv.org",
+      "hn_url": "https://news.ycombinator.com/item?id=50346755",
+      "source_story_title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "summary": "HN-recommended YouTube videos arranged as live TV channels for serendipitous viewing.",
+      "why_included": "A hands-on viewer explicitly prefers channel surfing to choosing individual videos.",
+      "evidence": "A viewer calls HackerTV cooler than expected and says channel surfing is more enjoyable than picking videos.",
+      "evidence_sources": [{"comment_id": "50361060", "comment_url": "https://news.ycombinator.com/item?id=50361060", "author": "5555watch", "excerpt": "Oh damn this is much cooler than I expected! For some reason skimming through channels is more enjoyable than click a video I'd probably wouldn't click on", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Tim's Vermeer",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.sonyclassics.com/timsvermeer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50333131",
+      "source_story_title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "summary": "Documentary following inventor Tim Jenison's attempt to recreate Vermeer's painting techniques.",
+      "why_included": "An unambiguous film recommendation surfaced unexpectedly in a Halloween-costume thread.",
+      "evidence": "A commenter heartily recommends Tim's Vermeer and links its trailer.",
+      "evidence_sources": [{"comment_id": "50360357", "comment_url": "https://news.ycombinator.com/item?id=50360357", "author": "7373737373", "excerpt": "I heartily recommend \"Tim's Vermeer\":", "kind": "recommendation", "parent_comment_id": "50358210"}]
+    }
+  ]
+}

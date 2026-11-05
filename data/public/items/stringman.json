@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "stringman",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:stringman:50354358",
+  "mention_ids": [
+    "2026-11-05:stringman:50354358"
+  ],
+  "name": "Stringman",
+  "slug": "stringman",
+  "summary": "Open-source room-scale gripper robot suspended from ceiling cables; an inventive robotics rabbit hole.",
+  "thing_url": "https://neufangled.com/",
+  "times_seen": 1,
+  "why_included": "Independent comment enthusiasm supports inclusion beyond the submitted product announcement."
+}

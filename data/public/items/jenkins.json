@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "jenkins",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:jenkins:50363378",
+  "mention_ids": [
+    "2026-11-05:jenkins:50363378"
+  ],
+  "name": "Jenkins",
+  "slug": "jenkins",
+  "summary": "Self-hosted CI server; a CUDA-container builder values reliable local builds and lower costs.",
+  "thing_url": "https://www.jenkins.io/",
+  "times_seen": 1,
+  "why_included": "A substantial real build workload offers a specific reason to choose local CI."
+}

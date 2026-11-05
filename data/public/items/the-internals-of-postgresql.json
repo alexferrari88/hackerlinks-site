@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "the-internals-of-postgresql",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:the-internals-of-postgresql:50358702",
+  "mention_ids": [
+    "2026-11-05:the-internals-of-postgresql:50358702"
+  ],
+  "name": "The Internals of PostgreSQL",
+  "slug": "the-internals-of-postgresql",
+  "summary": "Free PostgreSQL internals guide; a commenter recommends starting with heap-only tuple updates.",
+  "thing_url": "https://www.interdb.jp/pg/index.html",
+  "times_seen": 1,
+  "why_included": "A specific reading recommendation supplies a useful entry point into a substantial technical guide."
+}

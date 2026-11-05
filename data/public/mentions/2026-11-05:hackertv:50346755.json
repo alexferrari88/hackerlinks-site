@@ -1,0 +1,23 @@
+{
+  "evidence": "A viewer calls HackerTV cooler than expected and says channel surfing is more enjoyable than picking videos.",
+  "evidence_sources": [
+    {
+      "author": "5555watch",
+      "comment_id": "50361060",
+      "comment_url": "https://news.ycombinator.com/item?id=50361060",
+      "context": "first_hand_use",
+      "excerpt": "Oh damn this is much cooler than I expected! For some reason skimming through channels is more enjoyable than click a video I'd probably wouldn't click on",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50346755",
+  "id": "2026-11-05:hackertv:50346755",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "hackertv",
+  "rank": 9,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50346755",
+  "source_story_title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A user enjoys Yori's polished Windows 2000 feel and autocomplete while noting it is less featureful than Kitty.",
+  "evidence_sources": [
+    {
+      "author": "marttt",
+      "comment_id": "50370317",
+      "comment_url": "https://news.ycombinator.com/item?id=50370317",
+      "context": "first_hand_use",
+      "excerpt": "I've been using Yori [1]. Not comparable at all to Kitty in terms of features, but a joy to use if you like a polished \"Win2k feel\" with only a handful of added unix-isms like decent autocomplete etc.",
+      "kind": "recommendation",
+      "parent_comment_id": "50363178"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50362980",
+  "id": "2026-11-05:yori:50362980",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "yori",
+  "rank": 2,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50362980",
+  "source_story_title": "Kitty 0.50"
+}

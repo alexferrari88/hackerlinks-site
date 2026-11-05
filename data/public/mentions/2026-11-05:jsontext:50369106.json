@@ -1,0 +1,23 @@
+{
+  "evidence": "A company user praises its speed and recommends jsontext for challenging parsing requirements.",
+  "evidence_sources": [
+    {
+      "author": "txomon",
+      "comment_id": "50372538",
+      "comment_url": "https://news.ycombinator.com/item?id=50372538",
+      "context": "production_use",
+      "excerpt": "There is no introspection and speed is superb. I would definitely recommend jsontext as a parser for anything non-straightforward.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50369106",
+  "id": "2026-11-05:jsontext:50369106",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "jsontext",
+  "rank": 1,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50369106",
+  "source_story_title": "A new Go API for JSON"
+}

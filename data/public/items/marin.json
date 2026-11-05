@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "marin",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:marin:50352641",
+  "mention_ids": [
+    "2026-11-05:marin:50352641"
+  ],
+  "name": "Marin",
+  "slug": "marin",
+  "summary": "Open AI research project sharing training code, data sources, weights, and experiments.",
+  "thing_url": "https://marin.community/",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly praises a concrete effort toward open AI infrastructure."
+}

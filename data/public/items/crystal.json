@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-05T04:17:08Z",
+  "id": "crystal",
+  "last_seen_at": "2026-11-05T04:17:08Z",
+  "latest_mention_id": "2026-11-05:crystal:50369106",
+  "mention_ids": [
+    "2026-11-05:crystal:50369106"
+  ],
+  "name": "Crystal",
+  "slug": "crystal",
+  "summary": "Compiled programming language; a new user praises the pleasure of building with it.",
+  "thing_url": "https://crystal-lang.org/",
+  "times_seen": 1,
+  "why_included": "Enthusiastic hands-on approval emerged in a JSON discussion rather than a language launch."
+}

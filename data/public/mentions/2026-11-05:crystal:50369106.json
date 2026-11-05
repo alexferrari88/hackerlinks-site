@@ -1,0 +1,23 @@
+{
+  "evidence": "A user says building in Crystal is great fun, while explicitly withholding a production-readiness judgment.",
+  "evidence_sources": [
+    {
+      "author": "alexfortin",
+      "comment_id": "50373897",
+      "comment_url": "https://news.ycombinator.com/item?id=50373897",
+      "context": "first_hand_use",
+      "excerpt": "It's really great fun to build stuff in Crystal, I don't have anything prod-grade yet to say how it scores there but the community seems to be happy about that too.",
+      "kind": "recommendation",
+      "parent_comment_id": "50372246"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50369106",
+  "id": "2026-11-05:crystal:50369106",
+  "is_repeat": false,
+  "issue_id": "2026-11-05",
+  "item_id": "crystal",
+  "rank": 3,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50369106",
+  "source_story_title": "A new Go API for JSON"
+}

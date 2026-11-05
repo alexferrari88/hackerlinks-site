@@ -1,0 +1,31 @@
+{
+  "evidence": "One commenter calls Gitea amazing; a replying longtime user endorses easy setup, testing and deployment webhooks, and its API browser.",
+  "evidence_sources": [
+    {
+      "author": "import",
+      "comment_id": "50363739",
+      "comment_url": "https://news.ycombinator.com/item?id=50363739",
+      "excerpt": "gitea is amazing.",
+      "kind": "recommendation",
+      "parent_comment_id": "50363553"
+    },
+    {
+      "author": "raddan",
+      "comment_id": "50364098",
+      "comment_url": "https://news.ycombinator.com/item?id=50364098",
+      "context": "first_hand_use",
+      "excerpt": "Seconded. Also very easy to set up. I\u2019ve been running it for years, along with webhooks to kick off testing and website deployment jobs. I especially like the swagger browser that generate API calls for you to try in curl.",
+      "kind": "recommendation",
+      "parent_comment_id": "50363739"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50363378",
+  "id": "2026-11-05:gitea:50363378",
+  "is_repeat": true,
+  "issue_id": "2026-11-05",
+  "item_id": "gitea",
+  "rank": 4,
+  "seen_at": "2026-11-05T04:17:08Z",
+  "source_story_id": "50363378",
+  "source_story_title": "Incident with Pull Requests, Git Operations and Issues"
+}
