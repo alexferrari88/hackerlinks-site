@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Bricolage_Grotesque, Public_Sans, Space_Mono } from "next/font/google";
+import localFont from "next/font/local";
 
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
@@ -9,22 +9,28 @@ import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site-config";
 
 import "./globals.css";
 
-const display = Bricolage_Grotesque({
-  subsets: ["latin"],
+// Keep builds independent of Google Fonts responses (Next.js issue #99114).
+const display = localFont({
+  src: "./fonts/BricolageGrotesque[opsz,wdth,wght].ttf",
   variable: "--font-display",
-  weight: ["200", "300", "400", "500", "600", "700", "800"],
+  weight: "200 800",
+  display: "swap",
 });
 
-const body = Public_Sans({
-  subsets: ["latin"],
+const body = localFont({
+  src: "./fonts/PublicSans[wght].ttf",
   variable: "--font-body",
-  weight: ["400", "500", "600", "700"],
+  weight: "100 900",
+  display: "swap",
 });
 
-const mono = Space_Mono({
-  subsets: ["latin"],
+const mono = localFont({
+  src: [
+    { path: "./fonts/SpaceMono-Regular.ttf", weight: "400", style: "normal" },
+    { path: "./fonts/SpaceMono-Bold.ttf", weight: "700", style: "normal" },
+  ],
   variable: "--font-mono",
-  weight: ["400", "700"],
+  display: "swap",
 });
 
 const baseMetadata = buildPageMetadata({

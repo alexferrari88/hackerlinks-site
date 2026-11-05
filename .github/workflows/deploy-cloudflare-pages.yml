@@ -70,6 +70,10 @@ jobs:
         if: steps.preflight.outputs.deploy_enabled == 'true'
         run: PYTHONPATH=src python -m hackerlinks.normalize
 
+      - name: Test frontend
+        if: steps.preflight.outputs.deploy_enabled == 'true'
+        run: npm test
+
       - name: Build static site
         if: steps.preflight.outputs.deploy_enabled == 'true'
         env:
