@@ -1,0 +1,31 @@
+{
+  "evidence": "One commenter explicitly loves the window sweaters; the creator says they use the app every day but acknowledges it is not polished.",
+  "evidence_sources": [
+    {
+      "author": "nico",
+      "comment_id": "50383201",
+      "comment_url": "https://news.ycombinator.com/item?id=50383201",
+      "excerpt": "So cool, thank you for the context. And love the window sweaters!",
+      "kind": "recommendation",
+      "parent_comment_id": "50382961"
+    },
+    {
+      "author": "gordic_sara",
+      "comment_id": "50383076",
+      "comment_url": "https://news.ycombinator.com/item?id=50383076",
+      "context": "author_or_maintainer",
+      "excerpt": "It\u2019s not a polished product, but I use it every day and I\u2019m still fixing things when I can.",
+      "kind": "caveat",
+      "parent_comment_id": "50382646"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50381383",
+  "id": "2026-11-06:window-sweaters:50381383",
+  "is_repeat": false,
+  "issue_id": "2026-11-06",
+  "item_id": "window-sweaters",
+  "rank": 6,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50381383",
+  "source_story_title": "Window Sweaters"
+}

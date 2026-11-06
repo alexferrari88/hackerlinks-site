@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "editor-code-assistant",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:editor-code-assistant:50366117",
+  "mention_ids": [
+    "2026-11-06:editor-code-assistant:50366117"
+  ],
+  "name": "Editor Code Assistant",
+  "slug": "editor-code-assistant",
+  "summary": "An editor-agnostic AI coding assistant; an Emacs user calls it their go-to harness.",
+  "thing_url": "https://eca.dev/",
+  "times_seen": 1,
+  "why_included": "A clear first-hand preference for an editor-native harness rather than a bare project mention."
+}

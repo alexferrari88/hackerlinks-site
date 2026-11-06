@@ -1,0 +1,23 @@
+{
+  "evidence": "An Emacs user prefers Editor Code Assistant as their go-to harness; connecting OpenCode required some fiddling but now works.",
+  "evidence_sources": [
+    {
+      "author": "eamonnsullivan",
+      "comment_id": "50378067",
+      "comment_url": "https://news.ycombinator.com/item?id=50378067",
+      "context": "first_hand_use",
+      "excerpt": "I mostly use Editor Code Assistant [2] with Emacs as my go-to harness. I've set up ECA to use OpenCode as a provider, which was a little fiddly compared with more mainstream options, but it's working now.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50366117",
+  "id": "2026-11-06:editor-code-assistant:50366117",
+  "is_repeat": false,
+  "issue_id": "2026-11-06",
+  "item_id": "editor-code-assistant",
+  "rank": 2,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50366117",
+  "source_story_title": "Ask HN: What's your current AI agentic setup?"
+}

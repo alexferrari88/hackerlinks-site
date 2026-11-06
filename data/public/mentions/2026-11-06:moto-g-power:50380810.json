@@ -1,0 +1,23 @@
+{
+  "evidence": "An owner calls Moto G Power their favorite phone, praises its price, durability and battery life, and says their 2024 model is still going strong; they wish it were smaller.",
+  "evidence_sources": [
+    {
+      "author": "unregistereddev",
+      "comment_id": "50382677",
+      "comment_url": "https://news.ycombinator.com/item?id=50382677",
+      "context": "first_hand_use",
+      "excerpt": "Moto G Power is my favorite phone. Cheap enough I don't bother with a case. Durable enough that I haven't regretted not buying a case. The extra battery life allows me to keep using the phone long after the battery starts to degrade. I've run a g power for 4 years straight, only replacing it because the phone had become unusably slow. My current 2024 model is still going strong and I have no plans to replace it. But man I wish it were smaller.",
+      "kind": "recommendation",
+      "parent_comment_id": "50381704"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50380810",
+  "id": "2026-11-06:moto-g-power:50380810",
+  "is_repeat": false,
+  "issue_id": "2026-11-06",
+  "item_id": "moto-g-power",
+  "rank": 7,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50380810",
+  "source_story_title": "Motorola Signature 27 with GrapheneOS support"
+}

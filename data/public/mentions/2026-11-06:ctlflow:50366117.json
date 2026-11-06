@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports running dozens of agents for tasks such as equity analysis and finding the information surfaced from large datasets surprising.",
+  "evidence_sources": [
+    {
+      "author": "jeswin",
+      "comment_id": "50373324",
+      "comment_url": "https://news.ycombinator.com/item?id=50373324",
+      "context": "first_hand_use",
+      "excerpt": "For non coding usecases, I use https://www.ctlflow.com. This lets me run dozens of agents on tasks like equity analysis. The information a swarm of agents can surface from a large data store can be quite surprising.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50366117",
+  "id": "2026-11-06:ctlflow:50366117",
+  "is_repeat": false,
+  "issue_id": "2026-11-06",
+  "item_id": "ctlflow",
+  "rank": 3,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50366117",
+  "source_story_title": "Ask HN: What's your current AI agentic setup?"
+}

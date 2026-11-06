@@ -6713,8 +6713,8 @@
     {
       "name": "Omarchy",
       "first_reported_at": "2026-04-25T21:08:06Z",
-      "last_reported_at": "2026-04-25T21:08:06Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 2
     },
     {
       "name": "oMLX",
@@ -12072,6 +12072,48 @@
       "name": "Tim's Vermeer",
       "first_reported_at": "2026-11-05T04:17:08Z",
       "last_reported_at": "2026-11-05T04:17:08Z",
+      "times_reported": 1
+    },
+    {
+      "name": "Remuda",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Editor Code Assistant",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ctlflow",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "SUB/WAVE",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ecosia",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Window Sweaters",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Moto G Power",
+      "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
       "times_reported": 1
     }
   ]

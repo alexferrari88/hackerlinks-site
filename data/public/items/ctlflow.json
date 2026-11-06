@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "ctlflow",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:ctlflow:50366117",
+  "mention_ids": [
+    "2026-11-06:ctlflow:50366117"
+  ],
+  "name": "ctlflow",
+  "slug": "ctlflow",
+  "summary": "A Matrix-connected agent fleet system; a user praises its large-data research capabilities.",
+  "thing_url": "https://ctlflow.com/",
+  "times_seen": 1,
+  "why_included": "A first-hand account identifies useful non-coding research work rather than merely advertising an agent framework."
+}

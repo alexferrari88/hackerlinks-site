@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "ecosia",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:ecosia:50383740",
+  "mention_ids": [
+    "2026-11-06:ecosia:50383740"
+  ],
+  "name": "Ecosia",
+  "slug": "ecosia",
+  "summary": "A European search engine; a former Kagi user reports a satisfying switch.",
+  "thing_url": "https://www.ecosia.org/",
+  "times_seen": 1,
+  "why_included": "A direct comparison grounded in personal use makes this search alternative more than a topical mention."
+}

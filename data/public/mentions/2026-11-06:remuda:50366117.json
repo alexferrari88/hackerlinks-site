@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator describes the workflow as light and hackable, says it works well, and has felt little need to switch.",
+  "evidence_sources": [
+    {
+      "author": "dgunay",
+      "comment_id": "50375407",
+      "comment_url": "https://news.ycombinator.com/item?id=50375407",
+      "context": "author_or_maintainer",
+      "excerpt": "It's not nearly as polished as some of the software factory setups and fancy GUI orchestrators I'm seeing, but it's light, hackable, and so far the bitter lesson has kept this working really well for me so I haven't felt much of a need to try anything else.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50366117",
+  "id": "2026-11-06:remuda:50366117",
+  "is_repeat": false,
+  "issue_id": "2026-11-06",
+  "item_id": "remuda",
+  "rank": 1,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50366117",
+  "source_story_title": "Ask HN: What's your current AI agentic setup?"
+}

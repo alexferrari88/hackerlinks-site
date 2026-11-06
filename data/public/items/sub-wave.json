@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "sub-wave",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:sub-wave:50378942",
+  "mention_ids": [
+    "2026-11-06:sub-wave:50378942"
+  ],
+  "name": "SUB/WAVE",
+  "slug": "sub-wave",
+  "summary": "A self-hosted radio station with an AI DJ, playing your own music collection.",
+  "thing_url": "https://www.getsubwave.com/",
+  "times_seen": 1,
+  "why_included": "An enthusiastic first-hand endorsement offers a concrete alternative to opaque streaming recommendations."
+}

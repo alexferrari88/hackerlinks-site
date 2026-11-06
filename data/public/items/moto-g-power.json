@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "moto-g-power",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:moto-g-power:50380810",
+  "mention_ids": [
+    "2026-11-06:moto-g-power:50380810"
+  ],
+  "name": "Moto G Power",
+  "slug": "moto-g-power",
+  "summary": "A budget Android phone praised for durability and battery life, not compactness.",
+  "thing_url": "https://en-us.support.motorola.com/app/answers/detail/a_id/178714/~/specifications---moto-g-power-5g---2024",
+  "times_seen": 1,
+  "why_included": "A strong ownership-based endorsement of an affordable phone surfaced inside a flagship discussion."
+}

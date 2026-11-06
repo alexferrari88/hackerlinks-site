@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "remuda",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:remuda:50366117",
+  "mention_ids": [
+    "2026-11-06:remuda:50366117"
+  ],
+  "name": "Remuda",
+  "slug": "remuda",
+  "summary": "A CLI for launching coding agents; its creator praises a lightweight, hackable workflow.",
+  "thing_url": "https://github.com/yendo-eng/remuda",
+  "times_seen": 1,
+  "why_included": "A concrete agent launcher backed by an explicitly positive account of sustained use from its creator."
+}

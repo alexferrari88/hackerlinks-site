@@ -1,0 +1,23 @@
+{
+  "evidence": "A former Kagi user says Ecosia has not been frustrating and cannot call it worse than Kagi, while wishing for a paid option instead of ads.",
+  "evidence_sources": [
+    {
+      "author": "palata",
+      "comment_id": "50385289",
+      "comment_url": "https://news.ycombinator.com/item?id=50385289",
+      "context": "first_hand_use",
+      "excerpt": "Ecosia hasn't been frustrating though, and I cannot say that it's worse than my experience with Kagi. I just wish I could pay Ecosia instead of having ads (which my browser seems to block anyway).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50383740",
+  "id": "2026-11-06:ecosia:50383740",
+  "is_repeat": false,
+  "issue_id": "2026-11-06",
+  "item_id": "ecosia",
+  "rank": 5,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50383740",
+  "source_story_title": "Search for everyone"
+}

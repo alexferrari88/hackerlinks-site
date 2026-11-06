@@ -1,0 +1,31 @@
+{
+  "evidence": "A MacBook user says Omarchy works great and reports working TouchID and speakers; a reply quotes documentation saying M-series installation is not directly supported.",
+  "evidence_sources": [
+    {
+      "author": "gorilla_fight",
+      "comment_id": "50386596",
+      "comment_url": "https://news.ycombinator.com/item?id=50386596",
+      "context": "first_hand_use",
+      "excerpt": "TouchID is already supported on Omarchy, I use it on my daily driver MacBook works great. The speaker too.",
+      "kind": "recommendation",
+      "parent_comment_id": "50386016"
+    },
+    {
+      "author": "justauserid",
+      "comment_id": "50387993",
+      "comment_url": "https://news.ycombinator.com/item?id=50387993",
+      "excerpt": "Please note that installing on an M-series Mac is not directly supported at this time.",
+      "kind": "caveat",
+      "parent_comment_id": "50386596"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50383057",
+  "id": "2026-11-06:omarchy:50383057",
+  "is_repeat": true,
+  "issue_id": "2026-11-06",
+  "item_id": "omarchy",
+  "rank": 8,
+  "seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "source_story_id": "50383057",
+  "source_story_title": "The Hackintosh Reborn"
+}

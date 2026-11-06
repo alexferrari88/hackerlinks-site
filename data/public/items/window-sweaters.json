@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "id": "window-sweaters",
+  "last_seen_at": "2026-11-06T04:17:30.579606+00:00",
+  "latest_mention_id": "2026-11-06:window-sweaters:50381383",
+  "mention_ids": [
+    "2026-11-06:window-sweaters:50381383"
+  ],
+  "name": "Window Sweaters",
+  "slug": "window-sweaters",
+  "summary": "A macOS menu-bar app that adds knitted window borders; charming, but still unpolished.",
+  "thing_url": "https://github.com/saragordic/window-sweaters",
+  "times_seen": 1,
+  "why_included": "Independent comment praise and creator-reported daily use support a playful desktop discovery, with its rough edges made explicit."
+}
