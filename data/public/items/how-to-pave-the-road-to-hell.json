@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "how-to-pave-the-road-to-hell",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:how-to-pave-the-road-to-hell:50389222",
+  "mention_ids": [
+    "2026-11-07:how-to-pave-the-road-to-hell:50389222"
+  ],
+  "name": "How to Pave the Road to Hell",
+  "slug": "how-to-pave-the-road-to-hell",
+  "summary": "Freakonomics podcast episode exploring salary transparency and its potentially unintended effects.",
+  "thing_url": "https://freakonomics.com/podcast/how-to-pave-the-road-to-hell/",
+  "times_seen": 1,
+  "why_included": "An explicitly praised episode adds research context to the salary-disclosure debate."
+}

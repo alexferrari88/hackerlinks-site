@@ -1,0 +1,22 @@
+{
+  "evidence": "An active OpenStreetMap contributor praises the game and asks its creator to improve the attribution placement.",
+  "evidence_sources": [
+    {
+      "author": "vfosnar",
+      "comment_id": "50389635",
+      "comment_url": "https://news.ycombinator.com/item?id=50389635",
+      "excerpt": "as an active osm contributor and community member and io games enjoyer i love this. if the author is readin this by any chance pretty please improve the attribution placement",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50389420",
+  "id": "2026-11-07:world-strike:50389420",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "world-strike",
+  "rank": 9,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50389420",
+  "source_story_title": "Multiplayer tanks that demolish real buildings from OpenStreetMap"
+}

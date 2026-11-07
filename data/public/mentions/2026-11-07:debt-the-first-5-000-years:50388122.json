@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends Graeber's book in response to a claim that barter preceded money.",
+  "evidence_sources": [
+    {
+      "author": "M95D",
+      "comment_id": "50389845",
+      "comment_url": "https://news.ycombinator.com/item?id=50389845",
+      "excerpt": "I recommend reading \"Debt: The First 5,000 Years\" by David Graeber.",
+      "kind": "recommendation",
+      "parent_comment_id": "50389290"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50388122",
+  "id": "2026-11-07:debt-the-first-5-000-years:50388122",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "debt-the-first-5-000-years",
+  "rank": 7,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50388122",
+  "source_story_title": "From Linux to Wikipedia: How Volunteers Build the Internet"
+}

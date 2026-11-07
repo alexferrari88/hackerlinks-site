@@ -1,0 +1,23 @@
+{
+  "evidence": "A startup user calls PostHog a backbone of the business and says the team has never paid for it.",
+  "evidence_sources": [
+    {
+      "author": "ceuk",
+      "comment_id": "50396423",
+      "comment_url": "https://news.ycombinator.com/item?id=50396423",
+      "context": "production_use",
+      "excerpt": "We use it at a startup I'm involved in (~5k MAU) and we have never paid a penny which I am constantly surprised by since it's such a backbone for us.",
+      "kind": "recommendation",
+      "parent_comment_id": "50392226"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50391145",
+  "id": "2026-11-07:posthog:50391145",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "posthog",
+  "rank": 1,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50391145",
+  "source_story_title": "We've built an open-source feature flag server for 11 years"
+}

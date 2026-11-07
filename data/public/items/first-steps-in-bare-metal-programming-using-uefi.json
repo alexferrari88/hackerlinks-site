@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "first-steps-in-bare-metal-programming-using-uefi",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:first-steps-in-bare-metal-programming-using-uefi:50394855",
+  "mention_ids": [
+    "2026-11-07:first-steps-in-bare-metal-programming-using-uefi:50394855"
+  ],
+  "name": "First steps in bare-metal programming using UEFI",
+  "slug": "first-steps-in-bare-metal-programming-using-uefi",
+  "summary": "UEFI programming guide endorsed by a developer building a Zig bootloader.",
+  "thing_url": "https://kevinboone.me/efitest_index.html",
+  "times_seen": 1,
+  "why_included": "A concrete learning resource with a first-hand account of practical use."
+}

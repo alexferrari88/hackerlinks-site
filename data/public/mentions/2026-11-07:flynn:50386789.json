@@ -1,0 +1,23 @@
+{
+  "evidence": "A user thanks Flynn's creator, reports near-daily use, and credits it with inspiring 68k development patterns.",
+  "evidence_sources": [
+    {
+      "author": "marcusbasant",
+      "comment_id": "50392267",
+      "comment_url": "https://news.ycombinator.com/item?id=50392267",
+      "context": "first_hand_use",
+      "excerpt": "Thanks (again) for Flynn! I use it just about daily now, and it's been inspirational to my agents in developing patterns for 68k dev.",
+      "kind": "recommendation",
+      "parent_comment_id": "50388094"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50386789",
+  "id": "2026-11-07:flynn:50386789",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "flynn",
+  "rank": 3,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50386789",
+  "source_story_title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs"
+}

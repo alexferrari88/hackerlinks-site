@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "ing",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:ing:50390124",
+  "mention_ids": [
+    "2026-11-07:ing:50390124"
+  ],
+  "name": "ING",
+  "slug": "ing",
+  "summary": "Banking app praised for working on one user's rooted LineageOS tablet.",
+  "thing_url": "https://www.ing.nl/",
+  "times_seen": 1,
+  "why_included": "Locally relevant first-hand compatibility praise, without generalizing to all devices or ING regions."
+}

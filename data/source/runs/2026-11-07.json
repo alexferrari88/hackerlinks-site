@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-11-07",
+  "generated_at": "2026-11-07T05:17:02+01:00",
+  "summary": "Nine comment-endorsed discoveries across developer tools, everyday apps, reading, and games.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 front-page stories fully crawled | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-07.json",
+    "sha256": "af0fbb180e4393aa3e186cfdc15fdfa4f960c1a7dbbc3b5f6cbdda962293e64d",
+    "bytes": 3588316,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6047,
+    "fetched_item_count": 6077,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "PostHog",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://posthog.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50391145",
+      "source_story_title": "We've built an open-source feature flag server for 11 years",
+      "summary": "Product analytics platform; a startup user praises its generous free tier.",
+      "why_included": "Specific operational praise from a startup using it at roughly 5,000 monthly active users.",
+      "evidence": "A startup user calls PostHog a backbone of the business and says the team has never paid for it.",
+      "evidence_sources": [{"comment_id": "50396423", "comment_url": "https://news.ycombinator.com/item?id=50396423", "author": "ceuk", "excerpt": "We use it at a startup I'm involved in (~5k MAU) and we have never paid a penny which I am constantly surprised by since it's such a backbone for us.", "kind": "recommendation", "context": "production_use", "parent_comment_id": "50392226"}]
+    },
+    {
+      "name": "First steps in bare-metal programming using UEFI",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://kevinboone.me/efitest_index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50394855",
+      "source_story_title": "First steps in bare-metal programming using UEFI",
+      "summary": "UEFI programming guide endorsed by a developer building a Zig bootloader.",
+      "why_included": "A concrete learning resource with a first-hand account of practical use.",
+      "evidence": "A developer praises the guide as a starting point and used it when building a Zig bootloader, while noting UEFI's sharp edges.",
+      "evidence_sources": [{"comment_id": "50396790", "comment_url": "https://news.ycombinator.com/item?id=50396790", "author": "edoceo", "excerpt": "This guide is fantastic for getting rolling in the UEFI space. I used this as one of the references when building a bootloader with Zig. Has its own set of issue, especially that 16bit character situation.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Flynn",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://ecliptik.github.io/flynn",
+      "hn_url": "https://news.ycombinator.com/item?id=50386789",
+      "source_story_title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "summary": "Telnet and Finger client for classic Macs, praised by a daily user.",
+      "why_included": "An independently endorsed retro-computing tool discovered in a related networking thread.",
+      "evidence": "A user thanks Flynn's creator, reports near-daily use, and credits it with inspiring 68k development patterns.",
+      "evidence_sources": [{"comment_id": "50392267", "comment_url": "https://news.ycombinator.com/item?id=50392267", "author": "marcusbasant", "excerpt": "Thanks (again) for Flynn! I use it just about daily now, and it's been inspirational to my agents in developing patterns for 68k dev.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50388094"}]
+    },
+    {
+      "name": "Photoflare",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://photoflare.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50389333",
+      "source_story_title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "summary": "Cross-platform image editor recommended for straightforward cropping, drawing, and small edits.",
+      "why_included": "A direct usability recommendation answering a request for a simple Linux image editor.",
+      "evidence": "A commenter answering a request for Paint-like editing calls Photoflare the most usable option they have found.",
+      "evidence_sources": [{"comment_id": "50391377", "comment_url": "https://news.ycombinator.com/item?id=50391377", "author": "graynk", "excerpt": "https://photoflare.io/ is the one I've found to be most usable.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50390291"}]
+    },
+    {
+      "name": "Metrolist",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/MetrolistGroup/Metrolist",
+      "hn_url": "https://news.ycombinator.com/item?id=50392118",
+      "source_story_title": "Gemini Omni 1.2 Flash",
+      "summary": "YouTube Music client for Android, adopted as a replacement for Google's app.",
+      "why_included": "A clear first-hand switch to a concrete alternative, not a neutral app mention.",
+      "evidence": "A commenter says they uninstalled Google's music app and now use Metrolist exclusively.",
+      "evidence_sources": [{"comment_id": "50392943", "comment_url": "https://news.ycombinator.com/item?id=50392943", "author": "e12e", "excerpt": "Ironically google music is so terrible I've uninstalled it and use Metrolist exclusively.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50392649"}]
+    },
+    {
+      "name": "ING",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.ing.nl/",
+      "hn_url": "https://news.ycombinator.com/item?id=50390124",
+      "source_story_title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "summary": "Banking app praised for working on one user's rooted LineageOS tablet.",
+      "why_included": "Locally relevant first-hand compatibility praise, without generalizing to all devices or ING regions.",
+      "evidence": "A user explicitly praises ING and reports full app functionality on a rooted custom-ROM tablet, with periodic security warnings.",
+      "evidence_sources": [{"comment_id": "50393084", "comment_url": "https://news.ycombinator.com/item?id=50393084", "author": "agilob", "excerpt": "No other issues, it's not blocking me from doing anything, not forcing any updates, doesn't limit any functionality of the app.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Debt: The First 5,000 Years",
+      "category": "Watch & Learn",
+      "thing_url": "https://mhpbooks.com/books/debt",
+      "hn_url": "https://news.ycombinator.com/item?id=50388122",
+      "source_story_title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "summary": "David Graeber's history of debt, recommended against the familiar barter-origin story.",
+      "why_included": "An explicit book recommendation emerging from a discussion of volunteer work and exchange.",
+      "evidence": "A commenter recommends Graeber's book in response to a claim that barter preceded money.",
+      "evidence_sources": [{"comment_id": "50389845", "comment_url": "https://news.ycombinator.com/item?id=50389845", "author": "M95D", "excerpt": "I recommend reading \"Debt: The First 5,000 Years\" by David Graeber.", "kind": "recommendation", "parent_comment_id": "50389290"}]
+    },
+    {
+      "name": "How to Pave the Road to Hell",
+      "category": "Watch & Learn",
+      "thing_url": "https://freakonomics.com/podcast/how-to-pave-the-road-to-hell/",
+      "hn_url": "https://news.ycombinator.com/item?id=50389222",
+      "source_story_title": "Britain to make salary disclosure in job ads mandatory",
+      "summary": "Freakonomics podcast episode exploring salary transparency and its potentially unintended effects.",
+      "why_included": "An explicitly praised episode adds research context to the salary-disclosure debate.",
+      "evidence": "A commenter calls the Freakonomics episode good and notes that it features an author of the paper under discussion.",
+      "evidence_sources": [{"comment_id": "50389900", "comment_url": "https://news.ycombinator.com/item?id=50389900", "author": "trio8453", "excerpt": "Freakonomics have a good episode including one of the authors of that paper", "kind": "recommendation", "parent_comment_id": "50389559"}]
+    },
+    {
+      "name": "World Strike",
+      "category": "Games",
+      "thing_url": "https://worldstrike.fun/",
+      "hn_url": "https://news.ycombinator.com/item?id=50389420",
+      "source_story_title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "summary": "Multiplayer browser tank game with destructible cities built from OpenStreetMap data.",
+      "why_included": "An OpenStreetMap contributor explicitly loves the game while requesting better attribution placement.",
+      "evidence": "An active OpenStreetMap contributor praises the game and asks its creator to improve the attribution placement.",
+      "evidence_sources": [{"comment_id": "50389635", "comment_url": "https://news.ycombinator.com/item?id=50389635", "author": "vfosnar", "excerpt": "as an active osm contributor and community member and io games enjoyer i love this. if the author is readin this by any chance pretty please improve the attribution placement", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the Freakonomics episode good and notes that it features an author of the paper under discussion.",
+  "evidence_sources": [
+    {
+      "author": "trio8453",
+      "comment_id": "50389900",
+      "comment_url": "https://news.ycombinator.com/item?id=50389900",
+      "excerpt": "Freakonomics have a good episode including one of the authors of that paper",
+      "kind": "recommendation",
+      "parent_comment_id": "50389559"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50389222",
+  "id": "2026-11-07:how-to-pave-the-road-to-hell:50389222",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "how-to-pave-the-road-to-hell",
+  "rank": 8,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50389222",
+  "source_story_title": "Britain to make salary disclosure in job ads mandatory"
+}

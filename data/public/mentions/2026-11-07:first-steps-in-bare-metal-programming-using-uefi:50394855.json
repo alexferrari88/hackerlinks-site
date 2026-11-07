@@ -1,0 +1,23 @@
+{
+  "evidence": "A developer praises the guide as a starting point and used it when building a Zig bootloader, while noting UEFI's sharp edges.",
+  "evidence_sources": [
+    {
+      "author": "edoceo",
+      "comment_id": "50396790",
+      "comment_url": "https://news.ycombinator.com/item?id=50396790",
+      "context": "first_hand_use",
+      "excerpt": "This guide is fantastic for getting rolling in the UEFI space. I used this as one of the references when building a bootloader with Zig. Has its own set of issue, especially that 16bit character situation.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50394855",
+  "id": "2026-11-07:first-steps-in-bare-metal-programming-using-uefi:50394855",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "first-steps-in-bare-metal-programming-using-uefi",
+  "rank": 2,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50394855",
+  "source_story_title": "First steps in bare-metal programming using UEFI"
+}

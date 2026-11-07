@@ -1,0 +1,23 @@
+{
+  "evidence": "A user explicitly praises ING and reports full app functionality on a rooted custom-ROM tablet, with periodic security warnings.",
+  "evidence_sources": [
+    {
+      "author": "agilob",
+      "comment_id": "50393084",
+      "comment_url": "https://news.ycombinator.com/item?id=50393084",
+      "context": "first_hand_use",
+      "excerpt": "No other issues, it's not blocking me from doing anything, not forcing any updates, doesn't limit any functionality of the app.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50390124",
+  "id": "2026-11-07:ing:50390124",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "ing",
+  "rank": 6,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50390124",
+  "source_story_title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS"
+}

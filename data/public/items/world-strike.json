@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "world-strike",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:world-strike:50389420",
+  "mention_ids": [
+    "2026-11-07:world-strike:50389420"
+  ],
+  "name": "World Strike",
+  "slug": "world-strike",
+  "summary": "Multiplayer browser tank game with destructible cities built from OpenStreetMap data.",
+  "thing_url": "https://worldstrike.fun/",
+  "times_seen": 1,
+  "why_included": "An OpenStreetMap contributor explicitly loves the game while requesting better attribution placement."
+}

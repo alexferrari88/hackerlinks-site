@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "flynn",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:flynn:50386789",
+  "mention_ids": [
+    "2026-11-07:flynn:50386789"
+  ],
+  "name": "Flynn",
+  "slug": "flynn",
+  "summary": "Telnet and Finger client for classic Macs, praised by a daily user.",
+  "thing_url": "https://ecliptik.github.io/flynn",
+  "times_seen": 1,
+  "why_included": "An independently endorsed retro-computing tool discovered in a related networking thread."
+}

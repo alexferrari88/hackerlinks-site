@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "posthog",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:posthog:50391145",
+  "mention_ids": [
+    "2026-11-07:posthog:50391145"
+  ],
+  "name": "PostHog",
+  "slug": "posthog",
+  "summary": "Product analytics platform; a startup user praises its generous free tier.",
+  "thing_url": "https://posthog.com/",
+  "times_seen": 1,
+  "why_included": "Specific operational praise from a startup using it at roughly 5,000 monthly active users."
+}

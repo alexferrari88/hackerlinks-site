@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter answering a request for Paint-like editing calls Photoflare the most usable option they have found.",
+  "evidence_sources": [
+    {
+      "author": "graynk",
+      "comment_id": "50391377",
+      "comment_url": "https://news.ycombinator.com/item?id=50391377",
+      "context": "first_hand_use",
+      "excerpt": "https://photoflare.io/ is the one I've found to be most usable.",
+      "kind": "recommendation",
+      "parent_comment_id": "50390291"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50389333",
+  "id": "2026-11-07:photoflare:50389333",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "photoflare",
+  "rank": 4,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50389333",
+  "source_story_title": "Blender's UI and Runtime: Much Faster Than GPUI"
+}

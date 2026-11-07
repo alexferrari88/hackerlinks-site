@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-07T05:17:02+01:00",
+  "id": "photoflare",
+  "last_seen_at": "2026-11-07T05:17:02+01:00",
+  "latest_mention_id": "2026-11-07:photoflare:50389333",
+  "mention_ids": [
+    "2026-11-07:photoflare:50389333"
+  ],
+  "name": "Photoflare",
+  "slug": "photoflare",
+  "summary": "Cross-platform image editor recommended for straightforward cropping, drawing, and small edits.",
+  "thing_url": "https://photoflare.io/",
+  "times_seen": 1,
+  "why_included": "A direct usability recommendation answering a request for a simple Linux image editor."
+}

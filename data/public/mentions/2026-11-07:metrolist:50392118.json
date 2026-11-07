@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says they uninstalled Google's music app and now use Metrolist exclusively.",
+  "evidence_sources": [
+    {
+      "author": "e12e",
+      "comment_id": "50392943",
+      "comment_url": "https://news.ycombinator.com/item?id=50392943",
+      "context": "first_hand_use",
+      "excerpt": "Ironically google music is so terrible I've uninstalled it and use Metrolist exclusively.",
+      "kind": "recommendation",
+      "parent_comment_id": "50392649"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50392118",
+  "id": "2026-11-07:metrolist:50392118",
+  "is_repeat": false,
+  "issue_id": "2026-11-07",
+  "item_id": "metrolist",
+  "rank": 5,
+  "seen_at": "2026-11-07T05:17:02+01:00",
+  "source_story_id": "50392118",
+  "source_story_title": "Gemini Omni 1.2 Flash"
+}
