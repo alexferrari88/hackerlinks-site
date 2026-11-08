@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "museum-of-prehistoric-thera",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:museum-of-prehistoric-thera:50360810",
+  "mention_ids": [
+    "2026-11-08:museum-of-prehistoric-thera:50360810"
+  ],
+  "name": "Museum of Prehistoric Thera",
+  "slug": "museum-of-prehistoric-thera",
+  "summary": "Santorini museum of prehistoric artifacts and frescoes; a visitor calls it worth visiting.",
+  "thing_url": "https://cyclades.culture.gov.gr/en/location/the-museum-of-prehistoric-thera",
+  "times_seen": 1,
+  "why_included": "Specific visitor praise makes this a concrete travel discovery, not merely a place-name mention."
+}

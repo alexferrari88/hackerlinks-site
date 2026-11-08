@@ -1,0 +1,23 @@
+{
+  "evidence": "A lawyer using Linux for legal work says Okular handles digital signatures well and provides annotation features.",
+  "evidence_sources": [
+    {
+      "author": "sombragris",
+      "comment_id": "50410068",
+      "comment_url": "https://news.ycombinator.com/item?id=50410068",
+      "context": "production_use",
+      "excerpt": "For PDFs I use Okular, which handles digital signatures well and also offers a bunch of annotation features.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50403066",
+  "id": "2026-11-08:okular:50403066",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "okular",
+  "rank": 3,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50403066",
+  "source_story_title": "Running a law firm on Free software"
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T05:17:51+01:00",
+  "headline": "10 interesting things surfaced from HN on 2026-11-08",
+  "id": "2026-11-08",
+  "mention_ids": [
+    "2026-11-08:ghostel:50399933",
+    "2026-11-08:erpnext:50403066",
+    "2026-11-08:okular:50403066",
+    "2026-11-08:writing-a-c-compiler:50352701",
+    "2026-11-08:the-little-schemer:50406319",
+    "2026-11-08:programmers-at-work:50406319",
+    "2026-11-08:flash-boys-2-0:50399991",
+    "2026-11-08:unitree-g1-supply-chain-visualization:50400597",
+    "2026-11-08:in-our-time-plato-s-atlantis:50360810",
+    "2026-11-08:museum-of-prehistoric-thera:50360810"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

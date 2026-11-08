@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "okular",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:okular:50403066",
+  "mention_ids": [
+    "2026-11-08:okular:50403066"
+  ],
+  "name": "Okular",
+  "slug": "okular",
+  "summary": "KDE document viewer; a practicing lawyer praises PDF signatures and annotation features.",
+  "thing_url": "https://apps.kde.org/okular/",
+  "times_seen": 1,
+  "why_included": "A specific professional workflow endorsement makes this more useful than a neutral PDF-reader mention."
+}

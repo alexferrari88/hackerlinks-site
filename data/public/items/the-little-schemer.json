@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "the-little-schemer",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:the-little-schemer:50406319",
+  "mention_ids": [
+    "2026-11-08:the-little-schemer:50406319"
+  ],
+  "name": "The Little Schemer",
+  "slug": "the-little-schemer",
+  "summary": "Scheme-based introduction to recursive thinking; a reader bought two extra copies to lend.",
+  "thing_url": "https://mitpress.mit.edu/9780262560993/the-little-schemer/",
+  "times_seen": 1,
+  "why_included": "Buying additional copies to share is a particularly clear reader endorsement."
+}

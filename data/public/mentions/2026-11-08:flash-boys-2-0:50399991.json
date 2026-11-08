@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls Flash Boys 2.0 extremely interesting while explaining competition among automated arbitrage bots.",
+  "evidence_sources": [
+    {
+      "author": "markasoftware",
+      "comment_id": "50401970",
+      "comment_url": "https://news.ycombinator.com/item?id=50401970",
+      "excerpt": "Reminds me of the extremely interesting paper https://arxiv.org/abs/1904.05234 Flash Boys 2.0",
+      "kind": "recommendation",
+      "parent_comment_id": "50401721"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50399991",
+  "id": "2026-11-08:flash-boys-2-0:50399991",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "flash-boys-2-0",
+  "rank": 7,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50399991",
+  "source_story_title": "RealPage rent-pricing case wraps with nearly $360M to renters"
+}

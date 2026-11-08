@@ -1,0 +1,211 @@
+{
+  "version": 2,
+  "run_date": "2026-11-08",
+  "generated_at": "2026-11-08T05:17:51+01:00",
+  "summary": "Ten comment-endorsed finds spanning Emacs terminals, self-hosted business software, programming books, robotics, and ancient history.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-08.json",
+    "sha256": "8a14173a01234e9ec4f6b51a7040379cba9717aeea217886659d14d4b07c6d2b",
+    "bytes": 2260135,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3640,
+    "fetched_item_count": 3670,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 past front-page stories processed · 3,640 comments | history + run artifact updated",
+  "items": [
+    {
+      "name": "Ghostel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/dakra/ghostel",
+      "hn_url": "https://news.ycombinator.com/item?id=50399933",
+      "source_story_title": "Libghostty 1.0",
+      "summary": "Libghostty-powered Emacs terminal; praised for running multiple Claude Code and Codex sessions.",
+      "why_included": "A concrete first-hand endorsement of reliable agent sessions inside Emacs; eligible to resurface after its July appearance.",
+      "evidence": "An Emacs user praises Ghostel's speed and reliability while running multiple Claude Code and Codex sessions.",
+      "evidence_sources": [{
+        "comment_id": "50403453",
+        "comment_url": "https://news.ycombinator.com/item?id=50403453",
+        "author": "jwr",
+        "excerpt": "Thanks to libghostty and the efforts of many wonderful people, I can use ghostel in Emacs to have fast and reliable terminal emulation. I use that mostly to run multiple Claude Code and Codex sessions and it works great!",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "ERPNext",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/frappe/erpnext",
+      "hn_url": "https://news.ycombinator.com/item?id=50403066",
+      "source_story_title": "Running a law firm on Free software",
+      "summary": "Open-source business suite powering a software co-op's timesheets, invoices, and accounting.",
+      "why_included": "A real business deployment with custom automation is stronger evidence than a generic SaaS-alternative list.",
+      "evidence": "A software co-op operator uses ERPNext for core business operations and has built modules to automate them.",
+      "evidence_sources": [{
+        "comment_id": "50405521",
+        "comment_url": "https://news.ycombinator.com/item?id=50405521",
+        "author": "komali2",
+        "excerpt": "The bulk of it is run through ERPnext, which handles timesheets, invoices (client and member side), and accounting. We built some modules for ERPnext to make that as automated as possible, some of which I've finally got together this week:",
+        "kind": "recommendation",
+        "context": "production_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Okular",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://apps.kde.org/okular/",
+      "hn_url": "https://news.ycombinator.com/item?id=50403066",
+      "source_story_title": "Running a law firm on Free software",
+      "summary": "KDE document viewer; a practicing lawyer praises PDF signatures and annotation features.",
+      "why_included": "A specific professional workflow endorsement makes this more useful than a neutral PDF-reader mention.",
+      "evidence": "A lawyer using Linux for legal work says Okular handles digital signatures well and provides annotation features.",
+      "evidence_sources": [{
+        "comment_id": "50410068",
+        "comment_url": "https://news.ycombinator.com/item?id=50410068",
+        "author": "sombragris",
+        "excerpt": "For PDFs I use Okular, which handles digital signatures well and also offers a bunch of annotation features.",
+        "kind": "recommendation",
+        "context": "production_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Writing a C Compiler",
+      "category": "Watch & Learn",
+      "thing_url": "https://norasandler.com/book",
+      "hn_url": "https://news.ycombinator.com/item?id=50352701",
+      "source_story_title": "The Flash C Compiler",
+      "summary": "Hands-on compiler-building book; a reader implemented the exercises in Zig and loved it.",
+      "why_included": "A reader completed the work and explicitly found it enlightening and fun.",
+      "evidence": "A reader worked through the book using Zig and describes the experience as enlightening and fun.",
+      "evidence_sources": [{
+        "comment_id": "50405760",
+        "comment_url": "https://news.ycombinator.com/item?id=50405760",
+        "author": "small_model",
+        "excerpt": "Agree, I worked through 'Writing a C Compiler' book (I used Zig) and it was enlightening and fun.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "50405078"
+      }]
+    },
+    {
+      "name": "The Little Schemer",
+      "category": "Watch & Learn",
+      "thing_url": "https://mitpress.mit.edu/9780262560993/the-little-schemer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50406319",
+      "source_story_title": "Five memorable books about programming (2008)",
+      "summary": "Scheme-based introduction to recursive thinking; a reader bought two extra copies to lend.",
+      "why_included": "Buying additional copies to share is a particularly clear reader endorsement.",
+      "evidence": "A reader liked The Little Schemer enough to buy two more copies specifically to lend to others.",
+      "evidence_sources": [{
+        "comment_id": "50408463",
+        "comment_url": "https://news.ycombinator.com/item?id=50408463",
+        "author": "bigfishrunning",
+        "excerpt": "After reading the little schemer, I bought two more copies just to lend out to people. It's that good.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "50406801"
+      }]
+    },
+    {
+      "name": "Programmers at Work",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.programmersatwork.net/the-book",
+      "hn_url": "https://news.ycombinator.com/item?id=50406319",
+      "source_story_title": "Five memorable books about programming (2008)",
+      "summary": "Susan Lammers's interviews with pioneering programmers; a used-copy buyer calls it a great book.",
+      "why_included": "Direct reader praise supports a book focused on how programmers think, not just syntax.",
+      "evidence": "A commenter bought a used copy of Programmers at Work and calls it a great book.",
+      "evidence_sources": [{
+        "comment_id": "50408045",
+        "comment_url": "https://news.ycombinator.com/item?id=50408045",
+        "author": "jrmg",
+        "excerpt": "Programmers at work: I bought a used copy of it - probably after reading this the first time it was posted. Great book, if you can find it.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Flash Boys 2.0",
+      "category": "Watch & Learn",
+      "thing_url": "https://arxiv.org/abs/1904.05234",
+      "hn_url": "https://news.ycombinator.com/item?id=50399991",
+      "source_story_title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "summary": "Research paper on decentralized-exchange frontrunning and arbitrage bots; recommended as extremely interesting.",
+      "why_included": "An explicitly praised research paper surfaced unexpectedly in a rent-pricing discussion.",
+      "evidence": "A commenter calls Flash Boys 2.0 extremely interesting while explaining competition among automated arbitrage bots.",
+      "evidence_sources": [{
+        "comment_id": "50401970",
+        "comment_url": "https://news.ycombinator.com/item?id=50401970",
+        "author": "markasoftware",
+        "excerpt": "Reminds me of the extremely interesting paper https://arxiv.org/abs/1904.05234 Flash Boys 2.0",
+        "kind": "recommendation",
+        "parent_comment_id": "50401721"
+      }]
+    },
+    {
+      "name": "Unitree G1 Supply Chain Visualization",
+      "category": "Watch & Learn",
+      "thing_url": "https://robodienst.com/supply-chain/unitree-g1",
+      "hn_url": "https://news.ycombinator.com/item?id=50400597",
+      "source_story_title": "I toured Unitree's factory. I'm more bullish on the West",
+      "summary": "Unitree G1 component-sourcing visualization; shared as useful by an unaffiliated commenter.",
+      "why_included": "A concrete robotics resource with explicit usefulness, rather than another opinion about manufacturing.",
+      "evidence": "An unaffiliated commenter shares the Unitree G1 supply-chain visualization and says they found it useful.",
+      "evidence_sources": [{
+        "comment_id": "50401129",
+        "comment_url": "https://news.ycombinator.com/item?id=50401129",
+        "author": "iamanatom",
+        "excerpt": "(I'm not affiliated with the site in any way; I just found it useful and thought I'd share it here.)",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "In Our Time: Plato's Atlantis",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.bbc.co.uk/programmes/m001c6t3",
+      "hn_url": "https://news.ycombinator.com/item?id=50360810",
+      "source_story_title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "summary": "BBC discussion of Plato's Atlantis; linked by a commenter praising the podcast.",
+      "why_included": "An explicitly praised podcast supplies a historical rabbit hole beyond the submitted article.",
+      "evidence": "A commenter cites the Atlantis episode and describes BBC's In Our Time as an excellent podcast.",
+      "evidence_sources": [{
+        "comment_id": "50403496",
+        "comment_url": "https://news.ycombinator.com/item?id=50403496",
+        "author": "mablopoule",
+        "excerpt": "There was an episode on it in the excellent podcast 'In Our Time' by the BBC",
+        "kind": "recommendation",
+        "parent_comment_id": "50403020"
+      }]
+    },
+    {
+      "name": "Museum of Prehistoric Thera",
+      "category": "Watch & Learn",
+      "thing_url": "https://cyclades.culture.gov.gr/en/location/the-museum-of-prehistoric-thera",
+      "hn_url": "https://news.ycombinator.com/item?id=50360810",
+      "source_story_title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "summary": "Santorini museum of prehistoric artifacts and frescoes; a visitor calls it worth visiting.",
+      "why_included": "Specific visitor praise makes this a concrete travel discovery, not merely a place-name mention.",
+      "evidence": "A visitor recommends the small museum, praising its well-preserved artifacts and stunning frescoes.",
+      "evidence_sources": [{
+        "comment_id": "50401229",
+        "comment_url": "https://news.ycombinator.com/item?id=50401229",
+        "author": "zetazzed",
+        "excerpt": "The museum of prehistoric Thera is also worth a visit if you make it there! It is fairly small but contains some incredibly well-preserved artifacts. The frescoes are stunning.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    }
+  ]
+}

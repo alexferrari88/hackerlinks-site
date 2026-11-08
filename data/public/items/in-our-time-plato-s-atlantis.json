@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "in-our-time-plato-s-atlantis",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:in-our-time-plato-s-atlantis:50360810",
+  "mention_ids": [
+    "2026-11-08:in-our-time-plato-s-atlantis:50360810"
+  ],
+  "name": "In Our Time: Plato's Atlantis",
+  "slug": "in-our-time-plato-s-atlantis",
+  "summary": "BBC discussion of Plato's Atlantis; linked by a commenter praising the podcast.",
+  "thing_url": "https://www.bbc.co.uk/programmes/m001c6t3",
+  "times_seen": 1,
+  "why_included": "An explicitly praised podcast supplies a historical rabbit hole beyond the submitted article."
+}

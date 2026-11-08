@@ -2,15 +2,60 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
-    {"name": "PostHog", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "First steps in bare-metal programming using UEFI", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "Flynn", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "Photoflare", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "Metrolist", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "ING", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "Debt: The First 5,000 Years", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "How to Pave the Road to Hell", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
-    {"name": "World Strike", "first_reported_at": "2026-11-07T05:17:02+01:00", "last_reported_at": "2026-11-07T05:17:02+01:00", "times_reported": 1},
+    {
+      "name": "PostHog",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "First steps in bare-metal programming using UEFI",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Flynn",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Photoflare",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Metrolist",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ING",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Debt: The First 5,000 Years",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "How to Pave the Road to Hell",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "World Strike",
+      "first_reported_at": "2026-11-07T05:17:02+01:00",
+      "last_reported_at": "2026-11-07T05:17:02+01:00",
+      "times_reported": 1
+    },
     {
       "name": "Grayjay",
       "first_reported_at": "2026-11-01T04:15:59.894802+00:00",
@@ -4094,8 +4139,8 @@
     {
       "name": "Ghostel",
       "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 2
     },
     {
       "name": "Ghostty",
@@ -12123,6 +12168,60 @@
       "name": "Moto G Power",
       "first_reported_at": "2026-11-06T04:17:30.579606+00:00",
       "last_reported_at": "2026-11-06T04:17:30.579606+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ERPNext",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Okular",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Writing a C Compiler",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Little Schemer",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Programmers at Work",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Flash Boys 2.0",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Unitree G1 Supply Chain Visualization",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "In Our Time: Plato's Atlantis",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Museum of Prehistoric Thera",
+      "first_reported_at": "2026-11-08T05:17:51+01:00",
+      "last_reported_at": "2026-11-08T05:17:51+01:00",
       "times_reported": 1
     }
   ]

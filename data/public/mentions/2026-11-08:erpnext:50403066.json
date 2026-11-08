@@ -1,0 +1,23 @@
+{
+  "evidence": "A software co-op operator uses ERPNext for core business operations and has built modules to automate them.",
+  "evidence_sources": [
+    {
+      "author": "komali2",
+      "comment_id": "50405521",
+      "comment_url": "https://news.ycombinator.com/item?id=50405521",
+      "context": "production_use",
+      "excerpt": "The bulk of it is run through ERPnext, which handles timesheets, invoices (client and member side), and accounting. We built some modules for ERPnext to make that as automated as possible, some of which I've finally got together this week:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50403066",
+  "id": "2026-11-08:erpnext:50403066",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "erpnext",
+  "rank": 2,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50403066",
+  "source_story_title": "Running a law firm on Free software"
+}

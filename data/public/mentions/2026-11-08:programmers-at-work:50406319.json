@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter bought a used copy of Programmers at Work and calls it a great book.",
+  "evidence_sources": [
+    {
+      "author": "jrmg",
+      "comment_id": "50408045",
+      "comment_url": "https://news.ycombinator.com/item?id=50408045",
+      "context": "first_hand_use",
+      "excerpt": "Programmers at work: I bought a used copy of it - probably after reading this the first time it was posted. Great book, if you can find it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50406319",
+  "id": "2026-11-08:programmers-at-work:50406319",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "programmers-at-work",
+  "rank": 6,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50406319",
+  "source_story_title": "Five memorable books about programming (2008)"
+}

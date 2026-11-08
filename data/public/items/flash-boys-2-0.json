@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "flash-boys-2-0",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:flash-boys-2-0:50399991",
+  "mention_ids": [
+    "2026-11-08:flash-boys-2-0:50399991"
+  ],
+  "name": "Flash Boys 2.0",
+  "slug": "flash-boys-2-0",
+  "summary": "Research paper on decentralized-exchange frontrunning and arbitrage bots; recommended as extremely interesting.",
+  "thing_url": "https://arxiv.org/abs/1904.05234",
+  "times_seen": 1,
+  "why_included": "An explicitly praised research paper surfaced unexpectedly in a rent-pricing discussion."
+}

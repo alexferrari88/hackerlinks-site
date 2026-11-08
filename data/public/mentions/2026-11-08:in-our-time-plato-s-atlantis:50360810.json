@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter cites the Atlantis episode and describes BBC's In Our Time as an excellent podcast.",
+  "evidence_sources": [
+    {
+      "author": "mablopoule",
+      "comment_id": "50403496",
+      "comment_url": "https://news.ycombinator.com/item?id=50403496",
+      "excerpt": "There was an episode on it in the excellent podcast 'In Our Time' by the BBC",
+      "kind": "recommendation",
+      "parent_comment_id": "50403020"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50360810",
+  "id": "2026-11-08:in-our-time-plato-s-atlantis:50360810",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "in-our-time-plato-s-atlantis",
+  "rank": 9,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50360810",
+  "source_story_title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "erpnext",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:erpnext:50403066",
+  "mention_ids": [
+    "2026-11-08:erpnext:50403066"
+  ],
+  "name": "ERPNext",
+  "slug": "erpnext",
+  "summary": "Open-source business suite powering a software co-op's timesheets, invoices, and accounting.",
+  "thing_url": "https://github.com/frappe/erpnext",
+  "times_seen": 1,
+  "why_included": "A real business deployment with custom automation is stronger evidence than a generic SaaS-alternative list."
+}

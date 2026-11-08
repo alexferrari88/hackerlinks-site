@@ -1,0 +1,23 @@
+{
+  "evidence": "An unaffiliated commenter shares the Unitree G1 supply-chain visualization and says they found it useful.",
+  "evidence_sources": [
+    {
+      "author": "iamanatom",
+      "comment_id": "50401129",
+      "comment_url": "https://news.ycombinator.com/item?id=50401129",
+      "context": "first_hand_use",
+      "excerpt": "(I'm not affiliated with the site in any way; I just found it useful and thought I'd share it here.)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50400597",
+  "id": "2026-11-08:unitree-g1-supply-chain-visualization:50400597",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "unitree-g1-supply-chain-visualization",
+  "rank": 8,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50400597",
+  "source_story_title": "I toured Unitree's factory. I'm more bullish on the West"
+}

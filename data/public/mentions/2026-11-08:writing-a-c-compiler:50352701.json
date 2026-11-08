@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader worked through the book using Zig and describes the experience as enlightening and fun.",
+  "evidence_sources": [
+    {
+      "author": "small_model",
+      "comment_id": "50405760",
+      "comment_url": "https://news.ycombinator.com/item?id=50405760",
+      "context": "first_hand_use",
+      "excerpt": "Agree, I worked through 'Writing a C Compiler' book (I used Zig) and it was enlightening and fun.",
+      "kind": "recommendation",
+      "parent_comment_id": "50405078"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50352701",
+  "id": "2026-11-08:writing-a-c-compiler:50352701",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "writing-a-c-compiler",
+  "rank": 4,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50352701",
+  "source_story_title": "The Flash C Compiler"
+}

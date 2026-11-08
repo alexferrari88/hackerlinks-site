@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "writing-a-c-compiler",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:writing-a-c-compiler:50352701",
+  "mention_ids": [
+    "2026-11-08:writing-a-c-compiler:50352701"
+  ],
+  "name": "Writing a C Compiler",
+  "slug": "writing-a-c-compiler",
+  "summary": "Hands-on compiler-building book; a reader implemented the exercises in Zig and loved it.",
+  "thing_url": "https://norasandler.com/book",
+  "times_seen": 1,
+  "why_included": "A reader completed the work and explicitly found it enlightening and fun."
+}

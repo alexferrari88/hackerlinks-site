@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-08T05:17:51+01:00",
+  "id": "programmers-at-work",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:programmers-at-work:50406319",
+  "mention_ids": [
+    "2026-11-08:programmers-at-work:50406319"
+  ],
+  "name": "Programmers at Work",
+  "slug": "programmers-at-work",
+  "summary": "Susan Lammers's interviews with pioneering programmers; a used-copy buyer calls it a great book.",
+  "thing_url": "https://www.programmersatwork.net/the-book",
+  "times_seen": 1,
+  "why_included": "Direct reader praise supports a book focused on how programmers think, not just syntax."
+}

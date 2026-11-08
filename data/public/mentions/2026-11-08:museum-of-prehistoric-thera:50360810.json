@@ -1,0 +1,23 @@
+{
+  "evidence": "A visitor recommends the small museum, praising its well-preserved artifacts and stunning frescoes.",
+  "evidence_sources": [
+    {
+      "author": "zetazzed",
+      "comment_id": "50401229",
+      "comment_url": "https://news.ycombinator.com/item?id=50401229",
+      "context": "first_hand_use",
+      "excerpt": "The museum of prehistoric Thera is also worth a visit if you make it there! It is fairly small but contains some incredibly well-preserved artifacts. The frescoes are stunning.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50360810",
+  "id": "2026-11-08:museum-of-prehistoric-thera:50360810",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "museum-of-prehistoric-thera",
+  "rank": 10,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50360810",
+  "source_story_title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE"
+}

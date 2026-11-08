@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-07-12T21:08:26Z",
   "id": "ghostel",
-  "last_seen_at": "2026-07-12T21:08:26Z",
-  "latest_mention_id": "2026-07-12:ghostel:48879504",
+  "last_seen_at": "2026-11-08T05:17:51+01:00",
+  "latest_mention_id": "2026-11-08:ghostel:50399933",
   "mention_ids": [
-    "2026-07-12:ghostel:48879504"
+    "2026-07-12:ghostel:48879504",
+    "2026-11-08:ghostel:50399933"
   ],
   "name": "Ghostel",
   "slug": "ghostel",
-  "summary": "An Emacs terminal emulator built on libghostty-vt for responsive integrated terminals.",
+  "summary": "Libghostty-powered Emacs terminal; praised for running multiple Claude Code and Codex sessions.",
   "thing_url": "https://github.com/dakra/ghostel",
-  "times_seen": 1,
-  "why_included": "The project received detailed daily-driver praise from Emacs users and maintainers."
+  "times_seen": 2,
+  "why_included": "A concrete first-hand endorsement of reliable agent sessions inside Emacs; eligible to resurface after its July appearance."
 }

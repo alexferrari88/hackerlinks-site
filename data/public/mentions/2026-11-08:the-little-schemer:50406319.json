@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader liked The Little Schemer enough to buy two more copies specifically to lend to others.",
+  "evidence_sources": [
+    {
+      "author": "bigfishrunning",
+      "comment_id": "50408463",
+      "comment_url": "https://news.ycombinator.com/item?id=50408463",
+      "context": "first_hand_use",
+      "excerpt": "After reading the little schemer, I bought two more copies just to lend out to people. It's that good.",
+      "kind": "recommendation",
+      "parent_comment_id": "50406801"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50406319",
+  "id": "2026-11-08:the-little-schemer:50406319",
+  "is_repeat": false,
+  "issue_id": "2026-11-08",
+  "item_id": "the-little-schemer",
+  "rank": 5,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50406319",
+  "source_story_title": "Five memorable books about programming (2008)"
+}

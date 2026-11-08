@@ -1,0 +1,23 @@
+{
+  "evidence": "An Emacs user praises Ghostel's speed and reliability while running multiple Claude Code and Codex sessions.",
+  "evidence_sources": [
+    {
+      "author": "jwr",
+      "comment_id": "50403453",
+      "comment_url": "https://news.ycombinator.com/item?id=50403453",
+      "context": "first_hand_use",
+      "excerpt": "Thanks to libghostty and the efforts of many wonderful people, I can use ghostel in Emacs to have fast and reliable terminal emulation. I use that mostly to run multiple Claude Code and Codex sessions and it works great!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50399933",
+  "id": "2026-11-08:ghostel:50399933",
+  "is_repeat": true,
+  "issue_id": "2026-11-08",
+  "item_id": "ghostel",
+  "rank": 1,
+  "seen_at": "2026-11-08T05:17:51+01:00",
+  "source_story_id": "50399933",
+  "source_story_title": "Libghostty 1.0"
+}
