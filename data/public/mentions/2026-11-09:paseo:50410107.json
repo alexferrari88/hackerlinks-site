@@ -1,0 +1,23 @@
+{
+  "evidence": "sergiotapia recommends Paseo, praising its diff view and phone control of home-hosted agents, and reports rapid team adoption.",
+  "evidence_sources": [
+    {
+      "author": "sergiotapia",
+      "comment_id": "50414272",
+      "comment_url": "https://news.ycombinator.com/item?id=50414272",
+      "context": "first_hand_use",
+      "excerpt": "It works really well, has the nice code diff view which what I used to open vs code for, and it lets you drive from your phone. All the beefy work happens on my machine at home with big hardware and .env secrets, etc. And from my phone I'm able to run multiple threads with multiple models/thinking modes. I think a testament of how useful it is, is everybody on my team switched over to Paseo pretty much in a week.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50410107",
+  "id": "2026-11-09:paseo:50410107",
+  "is_repeat": true,
+  "issue_id": "2026-11-09",
+  "item_id": "paseo",
+  "rank": 1,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50410107",
+  "source_story_title": "Goodbye Claude, hello Pi"
+}

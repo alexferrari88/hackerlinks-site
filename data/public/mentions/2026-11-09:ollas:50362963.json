@@ -1,0 +1,23 @@
+{
+  "evidence": "Joakal reports an efficient, inexpensive, electricity-free olla setup made with terracotta pots and silicone, with irrigation fittings connected to a tank.",
+  "evidence_sources": [
+    {
+      "author": "Joakal",
+      "comment_id": "50419213",
+      "comment_url": "https://news.ycombinator.com/item?id=50419213",
+      "context": "first_hand_use",
+      "excerpt": "I found an ancient solution that worked incredibly efficient and required no electricity and far cheaper than spending hundreds on electronics. Ollas. The science is called capillary action. I went a step further as an engineer, and did DIY terracotta pots + silicone. Added a testing stage, of course. Filled pots and sealed it over night. If leaking from seal, more silicone. For filling them up, I used irrigation fittings hooked up to a tank.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50362963",
+  "id": "2026-11-09:ollas:50362963",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "ollas",
+  "rank": 10,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50362963",
+  "source_story_title": "Show HN: Vegetable Gardening for Engineers"
+}

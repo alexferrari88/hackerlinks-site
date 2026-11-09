@@ -1,0 +1,22 @@
+{
+  "evidence": "ggm recommends a trip to the Rietveld Schr\u00f6derhuis, explicitly distinguishing its De Stijl architecture from the Amsterdam School.",
+  "evidence_sources": [
+    {
+      "author": "ggm",
+      "comment_id": "50410689",
+      "comment_url": "https://news.ycombinator.com/item?id=50410689",
+      "excerpt": "If you like this kind of thing, the Rietveld Schr\u00f6derhuis in Utrecht is well worth a trip. It's de Stijl not Amsterdam school but also fascinating.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50351954",
+  "id": "2026-11-09:rietveld-schroderhuis:50351954",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "rietveld-schroderhuis",
+  "rank": 9,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50351954",
+  "source_story_title": "Amsterdam School"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "id": "person-of-interest",
+  "last_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "latest_mention_id": "2026-11-09:person-of-interest:50412318",
+  "mention_ids": [
+    "2026-11-09:person-of-interest:50412318"
+  ],
+  "name": "Person of Interest",
+  "slug": "person-of-interest",
+  "summary": "An AI-surveillance crime drama that inspired a commenter to pursue an AI career.",
+  "thing_url": "https://www.warnerbros.com/tv/person-interest-season-1",
+  "times_seen": 1,
+  "why_included": "A personal account connects the show's appeal to a real study and career decision."
+}

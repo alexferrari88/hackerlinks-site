@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "id": "scheme-rs",
+  "last_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "latest_mention_id": "2026-11-09:scheme-rs:50366902",
+  "mention_ids": [
+    "2026-11-09:scheme-rs:50366902"
+  ],
+  "name": "scheme-rs",
+  "slug": "scheme-rs",
+  "summary": "An embeddable Scheme implementation for Rust, praised for flexible scripting and hot reloading.",
+  "thing_url": "https://github.com/maplant/scheme-rs",
+  "times_seen": 1,
+  "why_included": "A first-hand endorsement surfaces a useful alternative beyond the submitted Clojure project."
+}

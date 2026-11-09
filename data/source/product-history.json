@@ -3,6 +3,54 @@
   "cooldown_days": 90,
   "products": [
     {
+      "name": "scheme-rs",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "VictoriaMetrics",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dux Modular Shell",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Winter Fortress",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Person of Interest",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Museum Het Schip",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Rietveld Schröderhuis",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ollas",
+      "first_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 1
+    },
+    {
       "name": "PostHog",
       "first_reported_at": "2026-11-07T05:17:02+01:00",
       "last_reported_at": "2026-11-07T05:17:02+01:00",
@@ -6953,8 +7001,8 @@
     {
       "name": "OpenSpec",
       "first_reported_at": "2026-07-29T03:18:28Z",
-      "last_reported_at": "2026-07-29T03:18:28Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 2
     },
     {
       "name": "OpenSpeedTest",
@@ -7235,8 +7283,8 @@
     {
       "name": "Paseo",
       "first_reported_at": "2026-07-21T04:50:22Z",
-      "last_reported_at": "2026-07-21T04:50:22Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-09T04:17:56.678062+00:00",
+      "times_reported": 2
     },
     {
       "name": "Pass4Wallet",

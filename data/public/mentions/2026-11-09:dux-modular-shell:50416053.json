@@ -1,0 +1,23 @@
+{
+  "evidence": "mariocesar uses Dux daily and is happy with a workflow built around Niri and custom QML widgets, while noting a learning curve from GNOME Shell.",
+  "evidence_sources": [
+    {
+      "author": "mariocesar",
+      "comment_id": "50416769",
+      "comment_url": "https://news.ycombinator.com/item?id=50416769",
+      "context": "first_hand_use",
+      "excerpt": "I use it daily. There was a learning curve since I was used to GNOME Shell, but Niri and the ability to build my own widgets with QML ended up being the killer features for me. I've built several custom widgets and small apps, and I'm happy with my workflow",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50416053",
+  "id": "2026-11-09:dux-modular-shell:50416053",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "dux-modular-shell",
+  "rank": 5,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50416053",
+  "source_story_title": "Dux: Free, open-source Wayland desktop shell with file manager and theming"
+}

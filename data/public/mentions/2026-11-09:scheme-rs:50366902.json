@@ -1,0 +1,23 @@
+{
+  "evidence": "sshine calls scheme-rs a favorite crate, uses it whenever dynamic scripting is needed, and praises flexible hot reloading.",
+  "evidence_sources": [
+    {
+      "author": "sshine",
+      "comment_id": "50411667",
+      "comment_url": "https://news.ycombinator.com/item?id=50411667",
+      "context": "first_hand_use",
+      "excerpt": "I'm already a big fan of the scheme-rs crate. I use it any time I need a dynamic scripting language. It allows for more flexible hot-reloading of parts of a program.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50366902",
+  "id": "2026-11-09:scheme-rs:50366902",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "scheme-rs",
+  "rank": 3,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50366902",
+  "source_story_title": "Clj.rs \u2013 a Clojure dialect implemented in Rust"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "id": "dux-modular-shell",
+  "last_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "latest_mention_id": "2026-11-09:dux-modular-shell:50416053",
+  "mention_ids": [
+    "2026-11-09:dux-modular-shell:50416053"
+  ],
+  "name": "Dux Modular Shell",
+  "slug": "dux-modular-shell",
+  "summary": "A customizable Wayland desktop shell, praised by a daily user for QML widgets.",
+  "thing_url": "https://duxlabs.dev/",
+  "times_seen": 1,
+  "why_included": "The submitted project has an independent daily-use endorsement with a concrete customization benefit."
+}

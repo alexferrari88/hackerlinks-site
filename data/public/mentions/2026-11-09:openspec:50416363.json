@@ -1,0 +1,23 @@
+{
+  "evidence": "driverdan uses OpenSpec with PRs at proposal, apply, and archive stages, and values its retrospective specifications and task checklist.",
+  "evidence_sources": [
+    {
+      "author": "driverdan",
+      "comment_id": "50420738",
+      "comment_url": "https://news.ycombinator.com/item?id=50420738",
+      "context": "first_hand_use",
+      "excerpt": "I use the OpenSpec[1] workflow with PRs at each step, proposal, apply, archive. I have the LLM do those steps but I review the results and have it make changes as needed. OpenSpec specs make it easy to look back at what it was supposed to do if necessary, including a checklist of tasks.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50416363",
+  "id": "2026-11-09:openspec:50416363",
+  "is_repeat": true,
+  "issue_id": "2026-11-09",
+  "item_id": "openspec",
+  "rank": 2,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50416363",
+  "source_story_title": "How I Fight AI Brain Fry"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "id": "victoriametrics",
+  "last_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "latest_mention_id": "2026-11-09:victoriametrics:50406670",
+  "mention_ids": [
+    "2026-11-09:victoriametrics:50406670"
+  ],
+  "name": "VictoriaMetrics",
+  "slug": "victoriametrics",
+  "summary": "A time-series monitoring database, praised for a small footprint at home and work.",
+  "thing_url": "https://victoriametrics.com/products/victoriametrics",
+  "times_seen": 1,
+  "why_included": "A user running hundreds of work servers provides specific praise for storage efficiency."
+}

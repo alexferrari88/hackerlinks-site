@@ -1,0 +1,23 @@
+{
+  "evidence": "InsidiousWombat uses VictoriaMetrics at home and across a few hundred work servers, calling it excellent, small, and economical on disk.",
+  "evidence_sources": [
+    {
+      "author": "InsidiousWombat",
+      "comment_id": "50412758",
+      "comment_url": "https://news.ycombinator.com/item?id=50412758",
+      "context": "production_use",
+      "excerpt": "I use it for a while now both for work (few hundred servers) and for home stuff and it is excellent, small and low on disk storage (yes that sounds like PR, no, it is not, I'm just very happy user)",
+      "kind": "recommendation",
+      "parent_comment_id": "50407423"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50406670",
+  "id": "2026-11-09:victoriametrics:50406670",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "victoriametrics",
+  "rank": 4,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50406670",
+  "source_story_title": "What I run on my $10 USD OpenStick homelab"
+}

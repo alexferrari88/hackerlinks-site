@@ -1,0 +1,23 @@
+{
+  "evidence": "mauvehaus calls The Winter Fortress one of their favorite books and describes repeatedly rereading its Norwegian sabotage story.",
+  "evidence_sources": [
+    {
+      "author": "mauvehaus",
+      "comment_id": "50409585",
+      "comment_url": "https://news.ycombinator.com/item?id=50409585",
+      "context": "first_hand_use",
+      "excerpt": "Since Norsk Hydro was mentioned in the article, I have to mention in turn one of my favorite books ever: The Winter Fortress by Neil Bascomb. It's the true story of the Norwegian commando sabotage of the heavy water plant. Short version: after a failed attempt by the English, some locals who'd fled to England and received training parachuted in, blew it up, and then skied to neutral Sweden. Legends, the lot of them: they froze their balls off and didn't have enough to eat, but they pulled it off. Every time I re-read it, it makes me want to take up nordic skiing.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50377661",
+  "id": "2026-11-09:the-winter-fortress:50377661",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "the-winter-fortress",
+  "rank": 6,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50377661",
+  "source_story_title": "Uranium cubes reveal why the German nuclear project failed"
+}

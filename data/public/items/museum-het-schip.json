@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "id": "museum-het-schip",
+  "last_seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "latest_mention_id": "2026-11-09:museum-het-schip:50351954",
+  "mention_ids": [
+    "2026-11-09:museum-het-schip:50351954"
+  ],
+  "name": "Museum Het Schip",
+  "slug": "museum-het-schip",
+  "summary": "An Amsterdam School architecture museum, recommended for its guided tour and workers' housing.",
+  "thing_url": "https://www.hetschip.nl/en/visitors/locations-opening-hours/het-schip",
+  "times_seen": 1,
+  "why_included": "A specific, locally accessible museum receives direct tour praise rather than a bare mention."
+}

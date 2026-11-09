@@ -1,0 +1,32 @@
+{
+  "evidence": "scrollaway credits Person of Interest with inspiring an AI study and career path; ghaff enjoyed it initially but lost interest over time.",
+  "evidence_sources": [
+    {
+      "author": "scrollaway",
+      "comment_id": "50413722",
+      "comment_url": "https://news.ycombinator.com/item?id=50413722",
+      "context": "first_hand_use",
+      "excerpt": "I watched the show in 2014 and it drove my interest to study and work in the AI sector (today I run an AI lab, whose name comes from that tv show).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "ghaff",
+      "comment_id": "50413542",
+      "comment_url": "https://news.ycombinator.com/item?id=50413542",
+      "context": "first_hand_use",
+      "excerpt": "I enjoyed it for a bit but it was one of those shows that just didn't grab me after a while.",
+      "kind": "caveat",
+      "parent_comment_id": "50412969"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50412318",
+  "id": "2026-11-09:person-of-interest:50412318",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "person-of-interest",
+  "rank": 7,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50412318",
+  "source_story_title": "Person of Interest"
+}

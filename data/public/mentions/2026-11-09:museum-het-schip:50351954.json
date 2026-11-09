@@ -1,0 +1,23 @@
+{
+  "evidence": "ggm calls the Het Schip museum tour fantastic and well worth it.",
+  "evidence_sources": [
+    {
+      "author": "ggm",
+      "comment_id": "50410689",
+      "comment_url": "https://news.ycombinator.com/item?id=50410689",
+      "context": "first_hand_use",
+      "excerpt": "Bit of a cheat putting Zaanstraat and Hembrugstraat in without noting they're both part of \"Het Schip\" and basically opposite ends of the same development. The museum tour is fantastic. Well worth it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50351954",
+  "id": "2026-11-09:museum-het-schip:50351954",
+  "is_repeat": false,
+  "issue_id": "2026-11-09",
+  "item_id": "museum-het-schip",
+  "rank": 8,
+  "seen_at": "2026-11-09T04:17:56.678062+00:00",
+  "source_story_id": "50351954",
+  "source_story_title": "Amsterdam School"
+}
