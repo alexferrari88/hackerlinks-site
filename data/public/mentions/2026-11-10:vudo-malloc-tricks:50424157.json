@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter highly recommends Michel Kaempf's 2001 Phrack article Vudo malloc tricks.",
+  "evidence_sources": [
+    {
+      "author": "gebt",
+      "comment_id": "50432371",
+      "comment_url": "https://news.ycombinator.com/item?id=50432371",
+      "excerpt": "This phrack article on malloc is highly recommended: Vudo malloc tricks by Michel \"MaXX\" Kaempf (2001)",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50424157",
+  "id": "2026-11-10:vudo-malloc-tricks:50424157",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "vudo-malloc-tricks",
+  "rank": 8,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50424157",
+  "source_story_title": "What is malloc doing, anyway?"
+}

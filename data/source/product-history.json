@@ -2,6 +2,14 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "Clay", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "WPE WebKit", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "Kopia", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "FreeAgent", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "Watched.earth", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "Mystic paper airplane", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "Harvard CS61", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
+    {"name": "Vudo malloc tricks", "first_reported_at": "2026-11-10T05:17:17+01:00", "last_reported_at": "2026-11-10T05:17:17+01:00", "times_reported": 1},
     {
       "name": "scheme-rs",
       "first_reported_at": "2026-11-09T04:17:56.678062+00:00",

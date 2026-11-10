@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter promotes Clay as a beautiful piece of engineering.",
+  "evidence_sources": [
+    {
+      "author": "mllev15",
+      "comment_id": "50433843",
+      "comment_url": "https://news.ycombinator.com/item?id=50433843",
+      "excerpt": "I will now use this opportunity to promote Clay (not mine obviously), which is absolutely loaded with heart and soul, and is a beautiful piece of engineering:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50430621",
+  "id": "2026-11-10:clay:50430621",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "clay",
+  "rank": 1,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50430621",
+  "source_story_title": "CUI \u2013 Native UI components for C"
+}

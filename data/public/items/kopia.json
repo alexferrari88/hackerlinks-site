@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-10T05:17:17+01:00",
+  "id": "kopia",
+  "last_seen_at": "2026-11-10T05:17:17+01:00",
+  "latest_mention_id": "2026-11-10:kopia:50429426",
+  "mention_ids": [
+    "2026-11-10:kopia:50429426"
+  ],
+  "name": "Kopia",
+  "slug": "kopia",
+  "summary": "Encrypted backup software used for scheduled offsite backups with client-side encryption.",
+  "thing_url": "https://kopia.io/",
+  "times_seen": 1,
+  "why_included": "A first-hand workflow supplies a concrete alternative to trusting cloud providers with plaintext."
+}

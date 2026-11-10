@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-10T05:17:17+01:00",
+  "id": "vudo-malloc-tricks",
+  "last_seen_at": "2026-11-10T05:17:17+01:00",
+  "latest_mention_id": "2026-11-10:vudo-malloc-tricks:50424157",
+  "mention_ids": [
+    "2026-11-10:vudo-malloc-tricks:50424157"
+  ],
+  "name": "Vudo malloc tricks",
+  "slug": "vudo-malloc-tricks",
+  "summary": "Classic Phrack article on malloc internals and exploitation, explicitly recommended in the comments.",
+  "thing_url": "https://phrack.org/issues/57/vudo-malloc-tricks",
+  "times_seen": 1,
+  "why_included": "A specific named technical article receives an unambiguous recommendation."
+}

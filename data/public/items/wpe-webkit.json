@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-10T05:17:17+01:00",
+  "id": "wpe-webkit",
+  "last_seen_at": "2026-11-10T05:17:17+01:00",
+  "latest_mention_id": "2026-11-10:wpe-webkit:50426207",
+  "mention_ids": [
+    "2026-11-10:wpe-webkit:50426207"
+  ],
+  "name": "WPE WebKit",
+  "slug": "wpe-webkit",
+  "summary": "Embedded web engine recommended for lighter deployments; developer experience and compatibility have trade-offs.",
+  "thing_url": "https://wpewebkit.org/about/faq.html",
+  "times_seen": 1,
+  "why_included": "The recommendation names a practical Chromium alternative and states when it fits."
+}

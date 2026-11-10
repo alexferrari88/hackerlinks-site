@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls WPE WebKit a worthwhile lightweight Chrome/CEF alternative when content can be tailored, while noting worse developer experience and web compatibility.",
+  "evidence_sources": [
+    {
+      "author": "torginus",
+      "comment_id": "50428704",
+      "comment_url": "https://news.ycombinator.com/item?id=50428704",
+      "excerpt": "It's a fairly significantly more lightweight option to Chrome/CEF, that does suffer from a somewhat worse DX and compat with web content, but if you can tailor your content to it, rather than looking for a flawless ootb experience, it's a worthwhile choice.",
+      "kind": "recommendation",
+      "parent_comment_id": "50426692"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50426207",
+  "id": "2026-11-10:wpe-webkit:50426207",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "wpe-webkit",
+  "rank": 2,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50426207",
+  "source_story_title": "Zebkit \u2013 Chromium as an embeddable library"
+}

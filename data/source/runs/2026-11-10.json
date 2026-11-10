@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "run_date": "2026-11-10",
+  "generated_at": "2026-11-10T05:17:17+01:00",
+  "summary": "Eight comment-endorsed finds spanning C development, backups, accounting, satellite imagery, paper airplanes, and systems learning.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 /front stories processed, 4,983 comments | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-10.json",
+    "sha256": "457b7db2b7f18eafd3823dbd63c37af9cf65085efd7474c0841f52bba455e5db",
+    "bytes": 3152887,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4983,
+    "fetched_item_count": 5013,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Clay",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.nicbarker.com/clay",
+      "hn_url": "https://news.ycombinator.com/item?id=50430621",
+      "source_story_title": "CUI – Native UI components for C",
+      "summary": "C UI layout library praised for its engineering in a native-interface discussion.",
+      "why_included": "A named alternative receives explicit praise rather than a bare comparison.",
+      "evidence": "A commenter promotes Clay as a beautiful piece of engineering.",
+      "evidence_sources": [{"comment_id": "50433843", "comment_url": "https://news.ycombinator.com/item?id=50433843", "author": "mllev15", "excerpt": "I will now use this opportunity to promote Clay (not mine obviously), which is absolutely loaded with heart and soul, and is a beautiful piece of engineering:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "WPE WebKit",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://wpewebkit.org/about/faq.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50426207",
+      "source_story_title": "Zebkit – Chromium as an embeddable library",
+      "summary": "Embedded web engine recommended for lighter deployments; developer experience and compatibility have trade-offs.",
+      "why_included": "The recommendation names a practical Chromium alternative and states when it fits.",
+      "evidence": "A commenter calls WPE WebKit a worthwhile lightweight Chrome/CEF alternative when content can be tailored, while noting worse developer experience and web compatibility.",
+      "evidence_sources": [{"comment_id": "50428704", "comment_url": "https://news.ycombinator.com/item?id=50428704", "author": "torginus", "excerpt": "It's a fairly significantly more lightweight option to Chrome/CEF, that does suffer from a somewhat worse DX and compat with web content, but if you can tailor your content to it, rather than looking for a flawless ootb experience, it's a worthwhile choice.", "kind": "recommendation", "parent_comment_id": "50426692"}]
+    },
+    {
+      "name": "Kopia",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://kopia.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50429426",
+      "source_story_title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary": "Encrypted backup software used for scheduled offsite backups with client-side encryption.",
+      "why_included": "A first-hand workflow supplies a concrete alternative to trusting cloud providers with plaintext.",
+      "evidence": "A commenter uses Kopia to encrypt and schedule offsite backups to MEGA, describing the resulting setup as well encrypted.",
+      "evidence_sources": [{"comment_id": "50435678", "comment_url": "https://news.ycombinator.com/item?id=50435678", "author": "mapontosevenths", "excerpt": "I use Kopia to perform (and encrypt) the backups, so they never get anything other than the raw data and it's all done on a schedule.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50433130"}]
+    },
+    {
+      "name": "FreeAgent",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.freeagent.com/en",
+      "hn_url": "https://news.ycombinator.com/item?id=50420035",
+      "source_story_title": "RIP, Harvest",
+      "summary": "Small-business accounting software endorsed by a former self-employed UK user.",
+      "why_included": "Direct positive first-hand experience stands out in a thread about software price increases.",
+      "evidence": "A former self-employed UK user says FreeAgent worked very well.",
+      "evidence_sources": [{"comment_id": "50423549", "comment_url": "https://news.ycombinator.com/item?id=50423549", "author": "gadders", "excerpt": "When I was self-employed in the UK, I used Freeagent which worked very well.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Watched.earth",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.watched.earth",
+      "hn_url": "https://news.ycombinator.com/item?id=50428907",
+      "source_story_title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "summary": "Satellite imagery explorer praised for easy access and usefulness when planning backpacking trips.",
+      "why_included": "Independent comments endorse both practical usefulness and interface quality.",
+      "evidence": "One commenter praises backpacking-trip planning and easier access than Copernicus; another praises the interface while linking a San Francisco Bay image.",
+      "evidence_sources": [{"comment_id": "50430479", "comment_url": "https://news.ycombinator.com/item?id=50430479", "author": "wnissen", "excerpt": "This is great for planning backpacking trips. I have been using Copernicus but you have a lot more and it's much easier to access. Very nice!", "kind": "recommendation", "parent_comment_id": null}, {"comment_id": "50432009", "comment_url": "https://news.ycombinator.com/item?id=50432009", "author": "creeble", "excerpt": "Um, wow. Amazing UI. This photo of the SF Bay this morning is a great representation of the fog that settles in over the area:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Mystic paper airplane",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.foldableflight.com/planes/mystic",
+      "hn_url": "https://news.ycombinator.com/item?id=50424581",
+      "source_story_title": "Foldable Flight: The Best Paper Airplanes",
+      "summary": "Quick A4 paper-airplane tutorial; commenters folded it and praised its smooth flight.",
+      "why_included": "Two hands-on reports make this a low-friction family experiment, not just a nostalgic mention.",
+      "evidence": "A commenter follows the A4 tutorial and calls the result their best-performing paper airplane; a reply reports making one and praises its smooth flight.",
+      "evidence_sources": [{"comment_id": "50426720", "comment_url": "https://news.ycombinator.com/item?id=50426720", "author": "literallyanythi", "excerpt": "As someone who only knew the \"naive\" way to make paper airplanes from A4 paper, this is the best performing and prettiest paper airplane I've made in my life!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}, {"comment_id": "50427344", "comment_url": "https://news.ycombinator.com/item?id=50427344", "author": "andai", "excerpt": "Wow, just made one. She flies very smooth!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50426720"}]
+    },
+    {
+      "name": "Harvard CS61",
+      "category": "Watch & Learn",
+      "thing_url": "https://cs61.seas.harvard.edu/site/2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50424157",
+      "source_story_title": "What is malloc doing, anyway?",
+      "summary": "Systems-programming course recommended for learning memory allocation and related low-level topics.",
+      "why_included": "An explicit learning-resource recommendation offers a deeper path beyond the submitted article.",
+      "evidence": "A commenter links the 2026 CS61 course and calls it a good learning resource for malloc and related topics.",
+      "evidence_sources": [{"comment_id": "50428699", "comment_url": "https://news.ycombinator.com/item?id=50428699", "author": "projectileboy", "excerpt": "Good learning resource for this (and related) topics:", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Vudo malloc tricks",
+      "category": "Watch & Learn",
+      "thing_url": "https://phrack.org/issues/57/vudo-malloc-tricks",
+      "hn_url": "https://news.ycombinator.com/item?id=50424157",
+      "source_story_title": "What is malloc doing, anyway?",
+      "summary": "Classic Phrack article on malloc internals and exploitation, explicitly recommended in the comments.",
+      "why_included": "A specific named technical article receives an unambiguous recommendation.",
+      "evidence": "A commenter highly recommends Michel Kaempf's 2001 Phrack article Vudo malloc tricks.",
+      "evidence_sources": [{"comment_id": "50432371", "comment_url": "https://news.ycombinator.com/item?id=50432371", "author": "gebt", "excerpt": "This phrack article on malloc is highly recommended: Vudo malloc tricks by Michel \"MaXX\" Kaempf (2001)", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

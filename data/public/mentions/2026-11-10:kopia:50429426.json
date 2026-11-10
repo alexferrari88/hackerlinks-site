@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses Kopia to encrypt and schedule offsite backups to MEGA, describing the resulting setup as well encrypted.",
+  "evidence_sources": [
+    {
+      "author": "mapontosevenths",
+      "comment_id": "50435678",
+      "comment_url": "https://news.ycombinator.com/item?id=50435678",
+      "context": "first_hand_use",
+      "excerpt": "I use Kopia to perform (and encrypt) the backups, so they never get anything other than the raw data and it's all done on a schedule.",
+      "kind": "recommendation",
+      "parent_comment_id": "50433130"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50429426",
+  "id": "2026-11-10:kopia:50429426",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "kopia",
+  "rank": 3,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50429426",
+  "source_story_title": "Google Gemini routes personal Drive files and emails to human annotators"
+}

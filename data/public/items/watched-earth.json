@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-10T05:17:17+01:00",
+  "id": "watched-earth",
+  "last_seen_at": "2026-11-10T05:17:17+01:00",
+  "latest_mention_id": "2026-11-10:watched-earth:50428907",
+  "mention_ids": [
+    "2026-11-10:watched-earth:50428907"
+  ],
+  "name": "Watched.earth",
+  "slug": "watched-earth",
+  "summary": "Satellite imagery explorer praised for easy access and usefulness when planning backpacking trips.",
+  "thing_url": "https://www.watched.earth",
+  "times_seen": 1,
+  "why_included": "Independent comments endorse both practical usefulness and interface quality."
+}

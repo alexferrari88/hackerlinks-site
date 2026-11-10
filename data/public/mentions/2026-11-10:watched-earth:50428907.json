@@ -1,0 +1,30 @@
+{
+  "evidence": "One commenter praises backpacking-trip planning and easier access than Copernicus; another praises the interface while linking a San Francisco Bay image.",
+  "evidence_sources": [
+    {
+      "author": "wnissen",
+      "comment_id": "50430479",
+      "comment_url": "https://news.ycombinator.com/item?id=50430479",
+      "excerpt": "This is great for planning backpacking trips. I have been using Copernicus but you have a lot more and it's much easier to access. Very nice!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "creeble",
+      "comment_id": "50432009",
+      "comment_url": "https://news.ycombinator.com/item?id=50432009",
+      "excerpt": "Um, wow. Amazing UI. This photo of the SF Bay this morning is a great representation of the fog that settles in over the area:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50428907",
+  "id": "2026-11-10:watched-earth:50428907",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "watched-earth",
+  "rank": 5,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50428907",
+  "source_story_title": "Show HN: Every satellite that passed over any place this week, and its photos"
+}

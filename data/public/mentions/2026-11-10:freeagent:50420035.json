@@ -1,0 +1,23 @@
+{
+  "evidence": "A former self-employed UK user says FreeAgent worked very well.",
+  "evidence_sources": [
+    {
+      "author": "gadders",
+      "comment_id": "50423549",
+      "comment_url": "https://news.ycombinator.com/item?id=50423549",
+      "context": "first_hand_use",
+      "excerpt": "When I was self-employed in the UK, I used Freeagent which worked very well.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50420035",
+  "id": "2026-11-10:freeagent:50420035",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "freeagent",
+  "rank": 4,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50420035",
+  "source_story_title": "RIP, Harvest"
+}

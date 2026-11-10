@@ -1,0 +1,32 @@
+{
+  "evidence": "A commenter follows the A4 tutorial and calls the result their best-performing paper airplane; a reply reports making one and praises its smooth flight.",
+  "evidence_sources": [
+    {
+      "author": "literallyanythi",
+      "comment_id": "50426720",
+      "comment_url": "https://news.ycombinator.com/item?id=50426720",
+      "context": "first_hand_use",
+      "excerpt": "As someone who only knew the \"naive\" way to make paper airplanes from A4 paper, this is the best performing and prettiest paper airplane I've made in my life!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "andai",
+      "comment_id": "50427344",
+      "comment_url": "https://news.ycombinator.com/item?id=50427344",
+      "context": "first_hand_use",
+      "excerpt": "Wow, just made one. She flies very smooth!",
+      "kind": "recommendation",
+      "parent_comment_id": "50426720"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50424581",
+  "id": "2026-11-10:mystic-paper-airplane:50424581",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "mystic-paper-airplane",
+  "rank": 6,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50424581",
+  "source_story_title": "Foldable Flight: The Best Paper Airplanes"
+}

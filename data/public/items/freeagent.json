@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-10T05:17:17+01:00",
+  "id": "freeagent",
+  "last_seen_at": "2026-11-10T05:17:17+01:00",
+  "latest_mention_id": "2026-11-10:freeagent:50420035",
+  "mention_ids": [
+    "2026-11-10:freeagent:50420035"
+  ],
+  "name": "FreeAgent",
+  "slug": "freeagent",
+  "summary": "Small-business accounting software endorsed by a former self-employed UK user.",
+  "thing_url": "https://www.freeagent.com/en",
+  "times_seen": 1,
+  "why_included": "Direct positive first-hand experience stands out in a thread about software price increases."
+}

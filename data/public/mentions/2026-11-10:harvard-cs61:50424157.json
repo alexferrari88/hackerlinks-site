@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter links the 2026 CS61 course and calls it a good learning resource for malloc and related topics.",
+  "evidence_sources": [
+    {
+      "author": "projectileboy",
+      "comment_id": "50428699",
+      "comment_url": "https://news.ycombinator.com/item?id=50428699",
+      "excerpt": "Good learning resource for this (and related) topics:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50424157",
+  "id": "2026-11-10:harvard-cs61:50424157",
+  "is_repeat": false,
+  "issue_id": "2026-11-10",
+  "item_id": "harvard-cs61",
+  "rank": 7,
+  "seen_at": "2026-11-10T05:17:17+01:00",
+  "source_story_id": "50424157",
+  "source_story_title": "What is malloc doing, anyway?"
+}

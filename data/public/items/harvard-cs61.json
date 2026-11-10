@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-10T05:17:17+01:00",
+  "id": "harvard-cs61",
+  "last_seen_at": "2026-11-10T05:17:17+01:00",
+  "latest_mention_id": "2026-11-10:harvard-cs61:50424157",
+  "mention_ids": [
+    "2026-11-10:harvard-cs61:50424157"
+  ],
+  "name": "Harvard CS61",
+  "slug": "harvard-cs61",
+  "summary": "Systems-programming course recommended for learning memory allocation and related low-level topics.",
+  "thing_url": "https://cs61.seas.harvard.edu/site/2026/",
+  "times_seen": 1,
+  "why_included": "An explicit learning-resource recommendation offers a deeper path beyond the submitted article."
+}
