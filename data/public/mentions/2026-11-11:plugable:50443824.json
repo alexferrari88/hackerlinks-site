@@ -1,0 +1,23 @@
+{
+  "evidence": "Marsymars praises Plugable and calls it their go-to for essentially any dongle the company manufactures.",
+  "evidence_sources": [
+    {
+      "author": "Marsymars",
+      "comment_id": "50448601",
+      "comment_url": "https://news.ycombinator.com/item?id=50448601",
+      "context": "first_hand_use",
+      "excerpt": "Plugable does great stuff - they're my go-to for basically any type of dongle they manufacture.",
+      "kind": "recommendation",
+      "parent_comment_id": "50445532"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50443824",
+  "id": "2026-11-11:plugable:50443824",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "plugable",
+  "rank": 8,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50443824",
+  "source_story_title": "Synaptics patent claims stop work on DisplayLink drivers"
+}

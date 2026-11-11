@@ -1,0 +1,23 @@
+{
+  "evidence": "bradknowles uses iStat Menus and praises the breadth of its Mac monitoring tools.",
+  "evidence_sources": [
+    {
+      "author": "bradknowles",
+      "comment_id": "50446110",
+      "comment_url": "https://news.ycombinator.com/item?id=50446110",
+      "context": "first_hand_use",
+      "excerpt": "I use iStat Menus for this. An excellent series of tools that lets you monitor just about everything that can be monitored on your Mac.",
+      "kind": "recommendation",
+      "parent_comment_id": "50445151"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50433216",
+  "id": "2026-11-11:istat-menus:50433216",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "istat-menus",
+  "rank": 4,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50433216",
+  "source_story_title": "Process Explorer for macOS"
+}

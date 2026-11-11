@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "nodebpy",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:nodebpy:50442426",
+  "mention_ids": [
+    "2026-11-11:nodebpy:50442426"
+  ],
+  "name": "nodebpy",
+  "slug": "nodebpy",
+  "summary": "A Python library for building Blender node trees more elegantly in code.",
+  "thing_url": "https://github.com/BradyAJohnston/nodebpy",
+  "times_seen": 1,
+  "why_included": "An explicit endorsement points to a focused improvement for programmatic node workflows."
+}

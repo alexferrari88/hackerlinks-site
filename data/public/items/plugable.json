@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "plugable",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:plugable:50443824",
+  "mention_ids": [
+    "2026-11-11:plugable:50443824"
+  ],
+  "name": "Plugable",
+  "slug": "plugable",
+  "summary": "A docking-station and adapter brand; a commenter\u2019s go-to for dongles.",
+  "thing_url": "https://plugable.com/collections/docking-stations",
+  "times_seen": 1,
+  "why_included": "A clear brand recommendation emerged from a discussion of display-dock frustrations."
+}

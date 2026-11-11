@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "databpy",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:databpy:50442426",
+  "mention_ids": [
+    "2026-11-11:databpy:50442426"
+  ],
+  "name": "databpy",
+  "slug": "databpy",
+  "summary": "Data-oriented Python wrappers for Blender; a workflow user calls the library indispensable.",
+  "thing_url": "https://github.com/BradyAJohnston/databpy",
+  "times_seen": 1,
+  "why_included": "A concrete supporting library surfaced through practical Blender workflow praise."
+}

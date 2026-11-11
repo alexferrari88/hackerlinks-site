@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "renoise",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:renoise:50439695",
+  "mention_ids": [
+    "2026-11-11:renoise:50439695"
+  ],
+  "name": "Renoise",
+  "slug": "renoise",
+  "summary": "A tracker-based music workstation; recommended for sample-driven genres such as breakbeat.",
+  "thing_url": "https://www.renoise.com/",
+  "times_seen": 1,
+  "why_included": "The comment offers a specific workflow-based recommendation rather than a bare competitor mention."
+}

@@ -1,0 +1,231 @@
+{
+  "version": 2,
+  "run_date": "2026-11-11",
+  "generated_at": "2026-11-11T05:18:44+01:00",
+  "summary": "Ten comment-endorsed finds spanning database tools, Blender scripting, Mac utilities, hardware, music and science fiction.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 past-front-page stories processed | history + run artifact updated",
+  "intake_status": {
+    "state": "complete"
+  },
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-11.json",
+    "sha256": "9e256d7c0c527087a3ee68e8157c6083daf61a0d7eab274cf3a8dcb7eb0a8f85",
+    "bytes": 3736830,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6026,
+    "fetched_item_count": 6056,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Ultorg",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.ultorg.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50435898",
+      "source_story_title": "Ultorg: The User Interface for Relational Databases",
+      "summary": "A spreadsheet-like database UI with editable nested relationships; praised after a trial.",
+      "why_included": "A trial user's enthusiastic endorsement makes the unusual relational interface worth exploring.",
+      "evidence": "Skeime enjoyed the trial and called Ultorg great, but found its license unsuitable for occasional personal projects.",
+      "evidence_sources": [
+        {
+          "comment_id": "50438090",
+          "comment_url": "https://news.ycombinator.com/item?id=50438090",
+          "author": "Skeime",
+          "excerpt": "and it was tons of fun to use. Ultorg is great. I wish I had discovered it right at the start of that small project. Unfortunately, I do not have a regular use case for this, and for personal use and occasional unpaid hobby projects, Ultorg's license is not a good fit.",
+          "kind": "recommendation",
+          "context": "evaluated",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "databpy",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/BradyAJohnston/databpy",
+      "hn_url": "https://news.ycombinator.com/item?id=50442426",
+      "source_story_title": "Blender 5.3 released with Gaussian Splat support",
+      "summary": "Data-oriented Python wrappers for Blender; a workflow user calls the library indispensable.",
+      "why_included": "A concrete supporting library surfaced through practical Blender workflow praise.",
+      "evidence": "mturk calls databpy and nodebpy indispensable and says they make Blender and nodes nicer to use.",
+      "evidence_sources": [
+        {
+          "comment_id": "50442743",
+          "comment_url": "https://news.ycombinator.com/item?id=50442743",
+          "author": "mturk",
+          "excerpt": "Also, should out to databpy and nodebpy, both of which are indispensable and make using nodes and blender so much nicer:",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "nodebpy",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/BradyAJohnston/nodebpy",
+      "hn_url": "https://news.ycombinator.com/item?id=50442426",
+      "source_story_title": "Blender 5.3 released with Gaussian Splat support",
+      "summary": "A Python library for building Blender node trees more elegantly in code.",
+      "why_included": "An explicit endorsement points to a focused improvement for programmatic node workflows.",
+      "evidence": "mturk names nodebpy alongside databpy as indispensable for making nodes and Blender nicer to use.",
+      "evidence_sources": [
+        {
+          "comment_id": "50442743",
+          "comment_url": "https://news.ycombinator.com/item?id=50442743",
+          "author": "mturk",
+          "excerpt": "Also, should out to databpy and nodebpy, both of which are indispensable and make using nodes and blender so much nicer:",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "iStat Menus",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://bjango.com/mac/istatmenus",
+      "hn_url": "https://news.ycombinator.com/item?id=50433216",
+      "source_story_title": "Process Explorer for macOS",
+      "summary": "A Mac menu-bar system monitor; endorsed for its broad hardware and resource visibility.",
+      "why_included": "A first-hand recommendation offers a practical alternative from a process-monitoring discussion.",
+      "evidence": "bradknowles uses iStat Menus and praises the breadth of its Mac monitoring tools.",
+      "evidence_sources": [
+        {
+          "comment_id": "50446110",
+          "comment_url": "https://news.ycombinator.com/item?id=50446110",
+          "author": "bradknowles",
+          "excerpt": "I use iStat Menus for this. An excellent series of tools that lets you monitor just about everything that can be monitored on your Mac.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50445151"
+        }
+      ]
+    },
+    {
+      "name": "App Tamer",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.stclairsoft.com/AppTamer",
+      "hn_url": "https://news.ycombinator.com/item?id=50433216",
+      "source_story_title": "Process Explorer for macOS",
+      "summary": "A Mac CPU-management utility that slows or pauses resource-hungry applications.",
+      "why_included": "A user's explicit endorsement connects process visibility with actual CPU control.",
+      "evidence": "bradknowles credits App Tamer and iStat Menus with making a MacBook Air tolerable as a primary laptop.",
+      "evidence_sources": [
+        {
+          "comment_id": "50446110",
+          "comment_url": "https://news.ycombinator.com/item?id=50446110",
+          "author": "bradknowles",
+          "excerpt": "The combo of iStat Menus and App Tamer is what makes it tolerable for me to have a MacBook Air as the primary laptop I use these days.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50445151"
+        }
+      ]
+    },
+    {
+      "name": "Renoise",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.renoise.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50439695",
+      "source_story_title": "Ableton Live 13",
+      "summary": "A tracker-based music workstation; recommended for sample-driven genres such as breakbeat.",
+      "why_included": "The comment offers a specific workflow-based recommendation rather than a bare competitor mention.",
+      "evidence": "soundworlds recommends Renoise for tracker workflows and sampling genres such as breakbeat in response to a Linux DAW question.",
+      "evidence_sources": [
+        {
+          "comment_id": "50446082",
+          "comment_url": "https://news.ycombinator.com/item?id=50446082",
+          "author": "soundworlds",
+          "excerpt": "ReNoise if you're interested in the \"tracker\" workflow and sampling genres like breakbeat.",
+          "kind": "recommendation",
+          "parent_comment_id": "50440293"
+        }
+      ]
+    },
+    {
+      "name": "Hubitat",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://hubitat.com/home-automation/hubitat-hubs",
+      "hn_url": "https://news.ycombinator.com/item?id=50441707",
+      "source_story_title": "Smart home devices should work without the internet",
+      "summary": "A local home-automation hub; a Zigbee/Z-Wave user reports years of reliable automations.",
+      "why_included": "Long-term first-hand reliability is stronger evidence than a generic local-first claim.",
+      "evidence": "seabre reports an extremely reliable Hubitat setup using Z-Wave and Zigbee, with automations running for years without problems.",
+      "evidence_sources": [
+        {
+          "comment_id": "50445989",
+          "comment_url": "https://news.ycombinator.com/item?id=50445989",
+          "author": "seabre",
+          "excerpt": "I have been using Hubitat for a very long time with the same personal policy of Zwave and Zigbee only. My setup has been extremely reliable to the point where I have had the same automations running for years at this point and have had no problems.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50445579"
+        }
+      ]
+    },
+    {
+      "name": "Plugable",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://plugable.com/collections/docking-stations",
+      "hn_url": "https://news.ycombinator.com/item?id=50443824",
+      "source_story_title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "summary": "A docking-station and adapter brand; a commenter’s go-to for dongles.",
+      "why_included": "A clear brand recommendation emerged from a discussion of display-dock frustrations.",
+      "evidence": "Marsymars praises Plugable and calls it their go-to for essentially any dongle the company manufactures.",
+      "evidence_sources": [
+        {
+          "comment_id": "50448601",
+          "comment_url": "https://news.ycombinator.com/item?id=50448601",
+          "author": "Marsymars",
+          "excerpt": "Plugable does great stuff - they're my go-to for basically any type of dongle they manufacture.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50445532"
+        }
+      ]
+    },
+    {
+      "name": "Nova Swing",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.hachette.co.uk/titles/m-john-harrison/nova-swing/9780575079694/",
+      "hn_url": "https://news.ycombinator.com/item?id=50437242",
+      "source_story_title": "M John Harrison becomes first science fiction author to win the Booker",
+      "summary": "M. John Harrison’s science-fiction noir novel; an enthusiast reports roughly six rereads.",
+      "why_included": "Repeated reading paired with explicit praise is a strong, unusually personal endorsement.",
+      "evidence": "Eric_WVGG enthusiastically praises Nova Swing and says they have probably read it six times.",
+      "evidence_sources": [
+        {
+          "comment_id": "50446017",
+          "comment_url": "https://news.ycombinator.com/item?id=50446017",
+          "author": "Eric_WVGG",
+          "excerpt": "So, so good. I’ve probably read Nova Swing six times by now…",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50444415"
+        }
+      ]
+    },
+    {
+      "name": "Death Sentence: M. John Harrison — Light",
+      "category": "Watch & Learn",
+      "thing_url": "https://soundcloud.com/death-sentence-pod/m-john-harrison-light",
+      "hn_url": "https://news.ycombinator.com/item?id=50437242",
+      "source_story_title": "M John Harrison becomes first science fiction author to win the Booker",
+      "summary": "A podcast episode discussing Light; recommended as an introduction to Harrison’s fiction.",
+      "why_included": "A specific episode recommendation supplies a concrete entry point into Harrison's work.",
+      "evidence": "Eric_WVGG calls the episode a very good discussion and introduction to Harrison and his work.",
+      "evidence_sources": [
+        {
+          "comment_id": "50446017",
+          "comment_url": "https://news.ycombinator.com/item?id=50446017",
+          "author": "Eric_WVGG",
+          "excerpt": "The Death Sentence episode on Light is a very good discussion and introduction to Harrison and his work.",
+          "kind": "recommendation",
+          "parent_comment_id": "50444415"
+        }
+      ]
+    }
+  ]
+}

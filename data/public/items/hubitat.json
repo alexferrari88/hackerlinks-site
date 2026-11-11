@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "hubitat",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:hubitat:50441707",
+  "mention_ids": [
+    "2026-11-11:hubitat:50441707"
+  ],
+  "name": "Hubitat",
+  "slug": "hubitat",
+  "summary": "A local home-automation hub; a Zigbee/Z-Wave user reports years of reliable automations.",
+  "thing_url": "https://hubitat.com/home-automation/hubitat-hubs",
+  "times_seen": 1,
+  "why_included": "Long-term first-hand reliability is stronger evidence than a generic local-first claim."
+}

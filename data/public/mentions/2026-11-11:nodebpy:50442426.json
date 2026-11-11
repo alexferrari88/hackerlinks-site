@@ -1,0 +1,22 @@
+{
+  "evidence": "mturk names nodebpy alongside databpy as indispensable for making nodes and Blender nicer to use.",
+  "evidence_sources": [
+    {
+      "author": "mturk",
+      "comment_id": "50442743",
+      "comment_url": "https://news.ycombinator.com/item?id=50442743",
+      "excerpt": "Also, should out to databpy and nodebpy, both of which are indispensable and make using nodes and blender so much nicer:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50442426",
+  "id": "2026-11-11:nodebpy:50442426",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "nodebpy",
+  "rank": 3,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50442426",
+  "source_story_title": "Blender 5.3 released with Gaussian Splat support"
+}

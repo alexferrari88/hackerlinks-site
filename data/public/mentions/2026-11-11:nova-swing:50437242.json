@@ -1,0 +1,23 @@
+{
+  "evidence": "Eric_WVGG enthusiastically praises Nova Swing and says they have probably read it six times.",
+  "evidence_sources": [
+    {
+      "author": "Eric_WVGG",
+      "comment_id": "50446017",
+      "comment_url": "https://news.ycombinator.com/item?id=50446017",
+      "context": "first_hand_use",
+      "excerpt": "So, so good. I\u2019ve probably read Nova Swing six times by now\u2026",
+      "kind": "recommendation",
+      "parent_comment_id": "50444415"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50437242",
+  "id": "2026-11-11:nova-swing:50437242",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "nova-swing",
+  "rank": 9,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50437242",
+  "source_story_title": "M John Harrison becomes first science fiction author to win the Booker"
+}

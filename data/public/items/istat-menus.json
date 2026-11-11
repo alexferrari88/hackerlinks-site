@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "istat-menus",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:istat-menus:50433216",
+  "mention_ids": [
+    "2026-11-11:istat-menus:50433216"
+  ],
+  "name": "iStat Menus",
+  "slug": "istat-menus",
+  "summary": "A Mac menu-bar system monitor; endorsed for its broad hardware and resource visibility.",
+  "thing_url": "https://bjango.com/mac/istatmenus",
+  "times_seen": 1,
+  "why_included": "A first-hand recommendation offers a practical alternative from a process-monitoring discussion."
+}

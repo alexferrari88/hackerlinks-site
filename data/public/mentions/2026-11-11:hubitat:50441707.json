@@ -1,0 +1,23 @@
+{
+  "evidence": "seabre reports an extremely reliable Hubitat setup using Z-Wave and Zigbee, with automations running for years without problems.",
+  "evidence_sources": [
+    {
+      "author": "seabre",
+      "comment_id": "50445989",
+      "comment_url": "https://news.ycombinator.com/item?id=50445989",
+      "context": "first_hand_use",
+      "excerpt": "I have been using Hubitat for a very long time with the same personal policy of Zwave and Zigbee only. My setup has been extremely reliable to the point where I have had the same automations running for years at this point and have had no problems.",
+      "kind": "recommendation",
+      "parent_comment_id": "50445579"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50441707",
+  "id": "2026-11-11:hubitat:50441707",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "hubitat",
+  "rank": 7,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50441707",
+  "source_story_title": "Smart home devices should work without the internet"
+}

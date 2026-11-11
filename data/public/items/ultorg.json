@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "ultorg",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:ultorg:50435898",
+  "mention_ids": [
+    "2026-11-11:ultorg:50435898"
+  ],
+  "name": "Ultorg",
+  "slug": "ultorg",
+  "summary": "A spreadsheet-like database UI with editable nested relationships; praised after a trial.",
+  "thing_url": "https://www.ultorg.com/",
+  "times_seen": 1,
+  "why_included": "A trial user's enthusiastic endorsement makes the unusual relational interface worth exploring."
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T05:18:44+01:00",
+  "headline": "10 interesting things surfaced from HN on 2026-11-11",
+  "id": "2026-11-11",
+  "mention_ids": [
+    "2026-11-11:ultorg:50435898",
+    "2026-11-11:databpy:50442426",
+    "2026-11-11:nodebpy:50442426",
+    "2026-11-11:istat-menus:50433216",
+    "2026-11-11:app-tamer:50433216",
+    "2026-11-11:renoise:50439695",
+    "2026-11-11:hubitat:50441707",
+    "2026-11-11:plugable:50443824",
+    "2026-11-11:nova-swing:50437242",
+    "2026-11-11:death-sentence-m-john-harrison-light:50437242"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

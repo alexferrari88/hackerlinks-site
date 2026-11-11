@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-11T05:18:44+01:00",
+  "id": "app-tamer",
+  "last_seen_at": "2026-11-11T05:18:44+01:00",
+  "latest_mention_id": "2026-11-11:app-tamer:50433216",
+  "mention_ids": [
+    "2026-11-11:app-tamer:50433216"
+  ],
+  "name": "App Tamer",
+  "slug": "app-tamer",
+  "summary": "A Mac CPU-management utility that slows or pauses resource-hungry applications.",
+  "thing_url": "https://www.stclairsoft.com/AppTamer",
+  "times_seen": 1,
+  "why_included": "A user's explicit endorsement connects process visibility with actual CPU control."
+}

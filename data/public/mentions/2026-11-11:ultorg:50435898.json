@@ -1,0 +1,23 @@
+{
+  "evidence": "Skeime enjoyed the trial and called Ultorg great, but found its license unsuitable for occasional personal projects.",
+  "evidence_sources": [
+    {
+      "author": "Skeime",
+      "comment_id": "50438090",
+      "comment_url": "https://news.ycombinator.com/item?id=50438090",
+      "context": "evaluated",
+      "excerpt": "and it was tons of fun to use. Ultorg is great. I wish I had discovered it right at the start of that small project. Unfortunately, I do not have a regular use case for this, and for personal use and occasional unpaid hobby projects, Ultorg's license is not a good fit.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50435898",
+  "id": "2026-11-11:ultorg:50435898",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "ultorg",
+  "rank": 1,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50435898",
+  "source_story_title": "Ultorg: The User Interface for Relational Databases"
+}

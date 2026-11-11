@@ -1,0 +1,22 @@
+{
+  "evidence": "soundworlds recommends Renoise for tracker workflows and sampling genres such as breakbeat in response to a Linux DAW question.",
+  "evidence_sources": [
+    {
+      "author": "soundworlds",
+      "comment_id": "50446082",
+      "comment_url": "https://news.ycombinator.com/item?id=50446082",
+      "excerpt": "ReNoise if you're interested in the \"tracker\" workflow and sampling genres like breakbeat.",
+      "kind": "recommendation",
+      "parent_comment_id": "50440293"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50439695",
+  "id": "2026-11-11:renoise:50439695",
+  "is_repeat": false,
+  "issue_id": "2026-11-11",
+  "item_id": "renoise",
+  "rank": 6,
+  "seen_at": "2026-11-11T05:18:44+01:00",
+  "source_story_id": "50439695",
+  "source_story_title": "Ableton Live 13"
+}
