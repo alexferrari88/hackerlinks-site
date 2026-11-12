@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "id": "pharo",
+  "last_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "latest_mention_id": "2026-11-12:pharo:50453763",
+  "mention_ids": [
+    "2026-11-12:pharo:50453763"
+  ],
+  "name": "Pharo",
+  "slug": "pharo",
+  "summary": "Live Smalltalk-family programming environment; a returning user praises its sense of computational delight.",
+  "thing_url": "https://pharo.org/",
+  "times_seen": 1,
+  "why_included": "A former user's explicit affection adds a playful programming discovery beyond the AI-heavy threads."
+}

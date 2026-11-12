@@ -1,0 +1,23 @@
+{
+  "evidence": "A user describes llama.app as a desktop interface built on llama.cpp and praises its clean, elegant, intuitive design.",
+  "evidence_sources": [
+    {
+      "author": "thibsrn",
+      "comment_id": "50451240",
+      "comment_url": "https://news.ycombinator.com/item?id=50451240",
+      "context": "first_hand_use",
+      "excerpt": "I have been using llama.app, which is the desktop interface built on top of llama.cpp by the same people. It is an alternative to Ollama that might interest people who want to switch given Ollama's reputation and previous decisions. Llama.app has a really clean design, an elegant and intuitive interface.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50446520",
+  "id": "2026-11-12:llama-app:50446520",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "llama-app",
+  "rank": 2,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50446520",
+  "source_story_title": "Apple has new Mac app coming to make running local AI models easy"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A former user says Pharo evokes fond memories and exemplifies the delight of programming and computation.",
+  "evidence_sources": [
+    {
+      "author": "lynndotpy",
+      "comment_id": "50455705",
+      "comment_url": "https://news.ycombinator.com/item?id=50455705",
+      "context": "first_hand_use",
+      "excerpt": "I upvoted it because I have fond feelings and memories of Pharo. The warm fuzzies aside, even if someone hasn't used it, it's one of those places that remind us of the delight of programming and computation.",
+      "kind": "recommendation",
+      "parent_comment_id": "50454001"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50453763",
+  "id": "2026-11-12:pharo:50453763",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "pharo",
+  "rank": 6,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50453763",
+  "source_story_title": "Pharo in the Browser with WebAssembly"
+}

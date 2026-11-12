@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "id": "sand",
+  "last_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "latest_mention_id": "2026-11-12:sand:50453288",
+  "mention_ids": [
+    "2026-11-12:sand:50453288"
+  ],
+  "name": "Sand",
+  "slug": "sand",
+  "summary": "Browser sand simulator with touch, tilt, and sound; praised as joyful to play with.",
+  "thing_url": "https://av.github.io/safe-sand/",
+  "times_seen": 1,
+  "why_included": "A hands-on comment praises the sensory experience rather than merely reacting to the headline."
+}

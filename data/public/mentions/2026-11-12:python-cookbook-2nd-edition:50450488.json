@@ -1,0 +1,23 @@
+{
+  "evidence": "A reader fondly recalls the second edition's approachable walkthroughs of programming intricacies and insights.",
+  "evidence_sources": [
+    {
+      "author": "lumpa",
+      "comment_id": "50452365",
+      "comment_url": "https://news.ycombinator.com/item?id=50452365",
+      "context": "first_hand_use",
+      "excerpt": "Another thing that made me feel close to him was his work on the Python Cookbook 2nd Edition, in which he (and other big names in the community) delightfully talks the reader through intricacies and insights of programming, \"We read Knuth so you don't have to\".",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50450488",
+  "id": "2026-11-12:python-cookbook-2nd-edition:50450488",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "python-cookbook-2nd-edition",
+  "rank": 9,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50450488",
+  "source_story_title": "Tim Peters has died"
+}

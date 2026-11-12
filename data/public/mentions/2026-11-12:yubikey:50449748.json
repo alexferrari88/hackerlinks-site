@@ -1,0 +1,23 @@
+{
+  "evidence": "A decade-long user is very happy with YubiKeys after choosing hardware independent of their computer vendor and movable between locations.",
+  "evidence_sources": [
+    {
+      "author": "jwr",
+      "comment_id": "50452858",
+      "comment_url": "https://news.ycombinator.com/item?id=50452858",
+      "context": "first_hand_use",
+      "excerpt": "I decided years ago that I want to protect my keys with a hardware device that is independent of the vendor of the machine that I'm currently using. I also want to have backup keys and I want to be able to freely move them around various physical locations. Or have a backup shipped to me across the world if necessary. YubiKeys were the only solution that fit these requirements, so I went with those. I have been using them for the last ten years or so and I've been very happy with this solution.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50449748",
+  "id": "2026-11-12:yubikey:50449748",
+  "is_repeat": true,
+  "issue_id": "2026-11-12",
+  "item_id": "yubikey",
+  "rank": 5,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50449748",
+  "source_story_title": "Protecting SSH Keys with macOS Secure Enclave"
+}

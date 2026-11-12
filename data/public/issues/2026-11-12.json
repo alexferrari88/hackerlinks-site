@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T04:17:08.536909+00:00",
+  "headline": "10 interesting things surfaced from HN on 2026-11-12",
+  "id": "2026-11-12",
+  "mention_ids": [
+    "2026-11-12:pi:50452455",
+    "2026-11-12:llama-app:50446520",
+    "2026-11-12:mlx-serve:50446520",
+    "2026-11-12:switcheroo:50453637",
+    "2026-11-12:yubikey:50449748",
+    "2026-11-12:pharo:50453763",
+    "2026-11-12:dxvk:50449891",
+    "2026-11-12:sand:50453288",
+    "2026-11-12:python-cookbook-2nd-edition:50450488",
+    "2026-11-12:the-thermodynamics-of-trading:50455394"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

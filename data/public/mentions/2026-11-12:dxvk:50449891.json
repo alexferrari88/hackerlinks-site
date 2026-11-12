@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter credits DXVK with skipping substantial work when getting Fallout: New Vegas running on Asahi Linux.",
+  "evidence_sources": [
+    {
+      "author": "cornedor",
+      "comment_id": "50453837",
+      "comment_url": "https://news.ycombinator.com/item?id=50453837",
+      "context": "first_hand_use",
+      "excerpt": "I've used to same technique to get Fallout: New Vegas running on Asahi Linux on MacOS. Its quite a step, but https://github.com/doitsujin/dxvk makes it possible to skip a lot of work and get the game running in day.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50449891",
+  "id": "2026-11-12:dxvk:50449891",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "dxvk",
+  "rank": 7,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50449891",
+  "source_story_title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS"
+}

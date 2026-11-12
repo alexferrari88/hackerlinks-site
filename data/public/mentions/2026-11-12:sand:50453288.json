@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter finds the simulator's sand-dependent sound highly effective and calls the experience joyful to play with.",
+  "evidence_sources": [
+    {
+      "author": "rybosome",
+      "comment_id": "50459520",
+      "comment_url": "https://news.ycombinator.com/item?id=50459520",
+      "context": "first_hand_use",
+      "excerpt": "Still, it\u2019s highly effective; something like the fine, silty desert sand is noticeably brighter and sounds more like a hiss as it pours and flows than the rocky volcanic sand. Very cool effect, this is joyful to play with.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50453288",
+  "id": "2026-11-12:sand:50453288",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "sand",
+  "rank": 8,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50453288",
+  "source_story_title": "Hyper-Realistic Sand with WebGL2"
+}

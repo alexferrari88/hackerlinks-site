@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "id": "dxvk",
+  "last_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "latest_mention_id": "2026-11-12:dxvk:50449891",
+  "mention_ids": [
+    "2026-11-12:dxvk:50449891"
+  ],
+  "name": "DXVK",
+  "slug": "dxvk",
+  "summary": "Direct3D-to-Vulkan translation layer; a hobbyist credits it with accelerating a Fallout port.",
+  "thing_url": "https://github.com/doitsujin/dxvk",
+  "times_seen": 1,
+  "why_included": "A concrete hands-on porting account explains how the tool saved work."
+}

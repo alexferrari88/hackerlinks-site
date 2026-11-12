@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "id": "python-cookbook-2nd-edition",
+  "last_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "latest_mention_id": "2026-11-12:python-cookbook-2nd-edition:50450488",
+  "mention_ids": [
+    "2026-11-12:python-cookbook-2nd-edition:50450488"
+  ],
+  "name": "Python Cookbook, 2nd Edition",
+  "slug": "python-cookbook-2nd-edition",
+  "summary": "Classic Python recipe collection; a reader fondly praises its explanations and programming insights.",
+  "thing_url": "https://www.oreilly.com/library/view/python-cookbook-2nd/0596007973",
+  "times_seen": 1,
+  "why_included": "A reader independently endorses a specific book in a memorial thread; this is historical reading, not current Python documentation."
+}

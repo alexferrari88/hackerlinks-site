@@ -1,0 +1,23 @@
+{
+  "evidence": "A user strongly recommends Pi and values its separation of harness and model, with user-supplied subscriptions or keys.",
+  "evidence_sources": [
+    {
+      "author": "hermannj314",
+      "comment_id": "50454536",
+      "comment_url": "https://news.ycombinator.com/item?id=50454536",
+      "context": "first_hand_use",
+      "excerpt": "I highly recommend pi.dev for doing anything creative with agents and harnesses. It separates the harness from the model, so you need to BYOM keys and subscriptions.",
+      "kind": "recommendation",
+      "parent_comment_id": "50454388"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50452455",
+  "id": "2026-11-12:pi:50452455",
+  "is_repeat": true,
+  "issue_id": "2026-11-12",
+  "item_id": "pi",
+  "rank": 1,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50452455",
+  "source_story_title": "My AI agents found an unmapped Maya site?"
+}

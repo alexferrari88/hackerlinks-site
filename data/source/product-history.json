@@ -2,6 +2,14 @@
   "version": 2,
   "cooldown_days": 90,
   "products": [
+    {"name": "llama.app", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "mlx-serve", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "Switcheroo", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "Pharo", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "DXVK", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "Sand", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "Python Cookbook, 2nd Edition", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
+    {"name": "The Thermodynamics of Trading", "first_reported_at": "2026-11-12T04:17:08.536909+00:00", "last_reported_at": "2026-11-12T04:17:08.536909+00:00", "times_reported": 1},
     {"name": "Ultorg", "first_reported_at": "2026-11-11T05:18:44+01:00", "last_reported_at": "2026-11-11T05:18:44+01:00", "times_reported": 1},
     {"name": "databpy", "first_reported_at": "2026-11-11T05:18:44+01:00", "last_reported_at": "2026-11-11T05:18:44+01:00", "times_reported": 1},
     {"name": "nodebpy", "first_reported_at": "2026-11-11T05:18:44+01:00", "last_reported_at": "2026-11-11T05:18:44+01:00", "times_reported": 1},
@@ -7457,8 +7465,8 @@
     {
       "name": "Pi",
       "first_reported_at": "2026-07-12T21:08:26Z",
-      "last_reported_at": "2026-07-12T21:08:26Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-12T04:17:08.536909+00:00",
+      "times_reported": 2
     },
     {
       "name": "Pi Agent",
@@ -10607,8 +10615,8 @@
     {
       "name": "YubiKey",
       "first_reported_at": "2026-05-29T21:09:53Z",
-      "last_reported_at": "2026-05-29T21:09:53Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-12T04:17:08.536909+00:00",
+      "times_reported": 2
     },
     {
       "name": "Z-Jail",

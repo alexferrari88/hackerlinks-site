@@ -1,0 +1,212 @@
+{
+  "version": 2,
+  "run_date": "2026-11-12",
+  "generated_at": "2026-11-12T04:17:08.536909+00:00",
+  "summary": "Ten comment-endorsed discoveries: configurable agents, local AI, hardware-backed SSH, live programming, games, and learning.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-12.json",
+    "sha256": "8aada9fdb6cfc10b3752c5b5efc30abc938a6102076d909ed97d2a4a79234860",
+    "bytes": 2757164,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4585,
+    "fetched_item_count": 4615,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 past-front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "Pi",
+      "category": "AI & Local Models",
+      "thing_url": "https://pi.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "source_story_title": "My AI agents found an unmapped Maya site?",
+      "summary": "Customizable terminal coding agent; bring your own models and shape the harness.",
+      "why_included": "A first-hand user explicitly recommends Pi for creative agent and harness work.",
+      "evidence": "A user strongly recommends Pi and values its separation of harness and model, with user-supplied subscriptions or keys.",
+      "evidence_sources": [{
+        "comment_id": "50454536",
+        "comment_url": "https://news.ycombinator.com/item?id=50454536",
+        "author": "hermannj314",
+        "excerpt": "I highly recommend pi.dev for doing anything creative with agents and harnesses. It separates the harness from the model, so you need to BYOM keys and subscriptions.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "50454388"
+      }]
+    },
+    {
+      "name": "llama.app",
+      "category": "AI & Local Models",
+      "thing_url": "https://llama.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50446520",
+      "source_story_title": "Apple has new Mac app coming to make running local AI models easy",
+      "summary": "Local-model desktop app from the llama.cpp team; praised for its clean, intuitive interface.",
+      "why_included": "An existing user supplies specific interface praise rather than launch speculation.",
+      "evidence": "A user describes llama.app as a desktop interface built on llama.cpp and praises its clean, elegant, intuitive design.",
+      "evidence_sources": [{
+        "comment_id": "50451240",
+        "comment_url": "https://news.ycombinator.com/item?id=50451240",
+        "author": "thibsrn",
+        "excerpt": "I have been using llama.app, which is the desktop interface built on top of llama.cpp by the same people. It is an alternative to Ollama that might interest people who want to switch given Ollama's reputation and previous decisions. Llama.app has a really clean design, an elegant and intuitive interface.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "mlx-serve",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/ddalcu/mlx-serve",
+      "hn_url": "https://news.ycombinator.com/item?id=50446520",
+      "source_story_title": "Apple has new Mac app coming to make running local AI models easy",
+      "summary": "Apple Silicon inference server with CLI and GUI; a user praises its nimble interface.",
+      "why_included": "A user explicitly endorses the linked project and disclaims affiliation.",
+      "evidence": "A user calls the linked CLI/GUI app excellent and its GUI surprisingly nimble, while stating they use it without project affiliation.",
+      "evidence_sources": [{
+        "comment_id": "50451424",
+        "comment_url": "https://news.ycombinator.com/item?id=50451424",
+        "author": "crossroadsguy",
+        "excerpt": "There are excellent cli apps/GUI apps like this https://github.com/ddalcu/mlx-serve - they are both cli and gui – and even its gui surprisingly nimble (I use this, but I am not related to the project).",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Switcheroo",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/FTCHD/switcheroo",
+      "hn_url": "https://news.ycombinator.com/item?id=50453637",
+      "source_story_title": "Atuin Threads: All your agent sessions on every machine",
+      "summary": "Account switcher for Claude Code, Codex, and other CLIs; creator reports months of use.",
+      "why_included": "The creator describes an established personal workflow and preference, not just a project URL.",
+      "evidence": "The creator prefers native coding harnesses with multiple accounts and says Switcheroo has handled account switching for two to three months.",
+      "evidence_sources": [{
+        "comment_id": "50455529",
+        "comment_url": "https://news.ycombinator.com/item?id=50455529",
+        "author": "ftchd",
+        "excerpt": "I've gone a different route and prefer using the native harnesses (Claude, Codex), but with multiple accounts due to the limits. In order to easily switch between accounts I've build Switcheroo, which I've been using for the past 2-3 months now.",
+        "kind": "recommendation",
+        "context": "author_or_maintainer",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "YubiKey",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://developers.yubico.com/SSH/",
+      "hn_url": "https://news.ycombinator.com/item?id=50449748",
+      "source_story_title": "Protecting SSH Keys with macOS Secure Enclave",
+      "summary": "Hardware security key for SSH; a decade-long user values portable, vendor-independent key protection.",
+      "why_included": "Long-term satisfaction supports a practical hardware alternative to machine-bound SSH keys, beyond the cooldown.",
+      "evidence": "A decade-long user is very happy with YubiKeys after choosing hardware independent of their computer vendor and movable between locations.",
+      "evidence_sources": [{
+        "comment_id": "50452858",
+        "comment_url": "https://news.ycombinator.com/item?id=50452858",
+        "author": "jwr",
+        "excerpt": "I decided years ago that I want to protect my keys with a hardware device that is independent of the vendor of the machine that I'm currently using. I also want to have backup keys and I want to be able to freely move them around various physical locations. Or have a backup shipped to me across the world if necessary. YubiKeys were the only solution that fit these requirements, so I went with those. I have been using them for the last ten years or so and I've been very happy with this solution.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Pharo",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://pharo.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453763",
+      "source_story_title": "Pharo in the Browser with WebAssembly",
+      "summary": "Live Smalltalk-family programming environment; a returning user praises its sense of computational delight.",
+      "why_included": "A former user's explicit affection adds a playful programming discovery beyond the AI-heavy threads.",
+      "evidence": "A former user says Pharo evokes fond memories and exemplifies the delight of programming and computation.",
+      "evidence_sources": [{
+        "comment_id": "50455705",
+        "comment_url": "https://news.ycombinator.com/item?id=50455705",
+        "author": "lynndotpy",
+        "excerpt": "I upvoted it because I have fond feelings and memories of Pharo. The warm fuzzies aside, even if someone hasn't used it, it's one of those places that remind us of the delight of programming and computation.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": "50454001"
+      }]
+    },
+    {
+      "name": "DXVK",
+      "category": "Games & Experiments",
+      "thing_url": "https://github.com/doitsujin/dxvk",
+      "hn_url": "https://news.ycombinator.com/item?id=50449891",
+      "source_story_title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "summary": "Direct3D-to-Vulkan translation layer; a hobbyist credits it with accelerating a Fallout port.",
+      "why_included": "A concrete hands-on porting account explains how the tool saved work.",
+      "evidence": "A commenter credits DXVK with skipping substantial work when getting Fallout: New Vegas running on Asahi Linux.",
+      "evidence_sources": [{
+        "comment_id": "50453837",
+        "comment_url": "https://news.ycombinator.com/item?id=50453837",
+        "author": "cornedor",
+        "excerpt": "I've used to same technique to get Fallout: New Vegas running on Asahi Linux on MacOS. Its quite a step, but https://github.com/doitsujin/dxvk makes it possible to skip a lot of work and get the game running in day.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Sand",
+      "category": "Games & Experiments",
+      "thing_url": "https://av.github.io/safe-sand/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453288",
+      "source_story_title": "Hyper-Realistic Sand with WebGL2",
+      "summary": "Browser sand simulator with touch, tilt, and sound; praised as joyful to play with.",
+      "why_included": "A hands-on comment praises the sensory experience rather than merely reacting to the headline.",
+      "evidence": "A commenter finds the simulator's sand-dependent sound highly effective and calls the experience joyful to play with.",
+      "evidence_sources": [{
+        "comment_id": "50459520",
+        "comment_url": "https://news.ycombinator.com/item?id=50459520",
+        "author": "rybosome",
+        "excerpt": "Still, it’s highly effective; something like the fine, silty desert sand is noticeably brighter and sounds more like a hiss as it pours and flows than the rocky volcanic sand. Very cool effect, this is joyful to play with.",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "Python Cookbook, 2nd Edition",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.oreilly.com/library/view/python-cookbook-2nd/0596007973",
+      "hn_url": "https://news.ycombinator.com/item?id=50450488",
+      "source_story_title": "Tim Peters has died",
+      "summary": "Classic Python recipe collection; a reader fondly praises its explanations and programming insights.",
+      "why_included": "A reader independently endorses a specific book in a memorial thread; this is historical reading, not current Python documentation.",
+      "evidence": "A reader fondly recalls the second edition's approachable walkthroughs of programming intricacies and insights.",
+      "evidence_sources": [{
+        "comment_id": "50452365",
+        "comment_url": "https://news.ycombinator.com/item?id=50452365",
+        "author": "lumpa",
+        "excerpt": "Another thing that made me feel close to him was his work on the Python Cookbook 2nd Edition, in which he (and other big names in the community) delightfully talks the reader through intricacies and insights of programming, \"We read Knuth so you don't have to\".",
+        "kind": "recommendation",
+        "context": "first_hand_use",
+        "parent_comment_id": null
+      }]
+    },
+    {
+      "name": "The Thermodynamics of Trading",
+      "category": "Watch & Learn",
+      "thing_url": "https://signalsandthreads.com/the-thermodynamics-of-trading/",
+      "hn_url": "https://news.ycombinator.com/item?id=50455394",
+      "source_story_title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "summary": "Signals and Threads podcast episode exploring Jane Street's datacenters, cooling, and physical engineering.",
+      "why_included": "An explicit listening recommendation connects the datacenter incident to deeper facilities engineering context.",
+      "evidence": "A commenter recommends the episode in which Ron explores Jane Street's datacenter and office facilities.",
+      "evidence_sources": [{
+        "comment_id": "50456424",
+        "comment_url": "https://news.ycombinator.com/item?id=50456424",
+        "author": "jddj",
+        "excerpt": "The episode of their podcast where Ron explores the facilities side of their data centers and offices is worth a listen too",
+        "kind": "recommendation",
+        "parent_comment_id": null
+      }]
+    }
+  ]
+}

@@ -1,15 +1,16 @@
 {
   "first_seen_at": "2026-05-29T21:09:53Z",
   "id": "yubikey",
-  "last_seen_at": "2026-05-29T21:09:53Z",
-  "latest_mention_id": "2026-05-29:yubikey:48323869",
+  "last_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "latest_mention_id": "2026-11-12:yubikey:50449748",
   "mention_ids": [
-    "2026-05-29:yubikey:48323869"
+    "2026-05-29:yubikey:48323869",
+    "2026-11-12:yubikey:50449748"
   ],
   "name": "YubiKey",
   "slug": "yubikey",
-  "summary": "YubiKey \u2014 hardware security key that replaces a lot of laptop auth friction.",
-  "thing_url": "https://www.yubico.com/products/yubikey-5-overview/",
-  "times_seen": 1,
-  "why_included": "The discussion used it as a practical replacement for the laptop\u2019s touch ID."
+  "summary": "Hardware security key for SSH; a decade-long user values portable, vendor-independent key protection.",
+  "thing_url": "https://developers.yubico.com/SSH/",
+  "times_seen": 2,
+  "why_included": "Long-term satisfaction supports a practical hardware alternative to machine-bound SSH keys, beyond the cooldown."
 }

@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the episode in which Ron explores Jane Street's datacenter and office facilities.",
+  "evidence_sources": [
+    {
+      "author": "jddj",
+      "comment_id": "50456424",
+      "comment_url": "https://news.ycombinator.com/item?id=50456424",
+      "excerpt": "The episode of their podcast where Ron explores the facilities side of their data centers and offices is worth a listen too",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50455394",
+  "id": "2026-11-12:the-thermodynamics-of-trading:50455394",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "the-thermodynamics-of-trading",
+  "rank": 10,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50455394",
+  "source_story_title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter"
+}

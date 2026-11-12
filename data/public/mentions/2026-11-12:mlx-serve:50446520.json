@@ -1,0 +1,23 @@
+{
+  "evidence": "A user calls the linked CLI/GUI app excellent and its GUI surprisingly nimble, while stating they use it without project affiliation.",
+  "evidence_sources": [
+    {
+      "author": "crossroadsguy",
+      "comment_id": "50451424",
+      "comment_url": "https://news.ycombinator.com/item?id=50451424",
+      "context": "first_hand_use",
+      "excerpt": "There are excellent cli apps/GUI apps like this https://github.com/ddalcu/mlx-serve - they are both cli and gui \u2013 and even its gui surprisingly nimble (I use this, but I am not related to the project).",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50446520",
+  "id": "2026-11-12:mlx-serve:50446520",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "mlx-serve",
+  "rank": 3,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50446520",
+  "source_story_title": "Apple has new Mac app coming to make running local AI models easy"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "id": "llama-app",
+  "last_seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "latest_mention_id": "2026-11-12:llama-app:50446520",
+  "mention_ids": [
+    "2026-11-12:llama-app:50446520"
+  ],
+  "name": "llama.app",
+  "slug": "llama-app",
+  "summary": "Local-model desktop app from the llama.cpp team; praised for its clean, intuitive interface.",
+  "thing_url": "https://llama.app/",
+  "times_seen": 1,
+  "why_included": "An existing user supplies specific interface praise rather than launch speculation."
+}

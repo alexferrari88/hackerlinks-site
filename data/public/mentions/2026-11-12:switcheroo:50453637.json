@@ -1,0 +1,23 @@
+{
+  "evidence": "The creator prefers native coding harnesses with multiple accounts and says Switcheroo has handled account switching for two to three months.",
+  "evidence_sources": [
+    {
+      "author": "ftchd",
+      "comment_id": "50455529",
+      "comment_url": "https://news.ycombinator.com/item?id=50455529",
+      "context": "author_or_maintainer",
+      "excerpt": "I've gone a different route and prefer using the native harnesses (Claude, Codex), but with multiple accounts due to the limits. In order to easily switch between accounts I've build Switcheroo, which I've been using for the past 2-3 months now.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50453637",
+  "id": "2026-11-12:switcheroo:50453637",
+  "is_repeat": false,
+  "issue_id": "2026-11-12",
+  "item_id": "switcheroo",
+  "rank": 4,
+  "seen_at": "2026-11-12T04:17:08.536909+00:00",
+  "source_story_id": "50453637",
+  "source_story_title": "Atuin Threads: All your agent sessions on every machine"
+}
