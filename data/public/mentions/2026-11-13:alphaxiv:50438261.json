@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter recommends alphaXiv to someone seeking help understanding papers and describes it as a better PDF reader for arXiv.",
+  "evidence_sources": [
+    {
+      "author": "lucrbvi",
+      "comment_id": "50465710",
+      "comment_url": "https://news.ycombinator.com/item?id=50465710",
+      "context": "first_hand_use",
+      "excerpt": "You should probably try [AlphaXiv](https://www.alphaxiv.org/), they are building what you want. I use it as a better PDF reader for arxiv paper but they are going all in on AI teaching/explaining things.",
+      "kind": "recommendation",
+      "parent_comment_id": "50465672"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50438261",
+  "id": "2026-11-13:alphaxiv:50438261",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "alphaxiv",
+  "rank": 5,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50438261",
+  "source_story_title": "Socratic Tutor"
+}

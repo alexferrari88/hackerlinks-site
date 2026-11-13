@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "alphaxiv",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:alphaxiv:50438261",
+  "mention_ids": [
+    "2026-11-13:alphaxiv:50438261"
+  ],
+  "name": "alphaXiv",
+  "slug": "alphaxiv",
+  "summary": "AI-assisted research-paper reader, recommended for reading and understanding arXiv papers.",
+  "thing_url": "https://www.alphaxiv.org/",
+  "times_seen": 1,
+  "why_included": "A reader explicitly recommends the service and explains their own use."
+}

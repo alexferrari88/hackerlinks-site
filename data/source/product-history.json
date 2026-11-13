@@ -12297,6 +12297,54 @@
       "first_reported_at": "2026-11-08T05:17:51+01:00",
       "last_reported_at": "2026-11-08T05:17:51+01:00",
       "times_reported": 1
+    },
+    {
+      "name": "actions-up",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "mr boxington",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ParkyTowers: Repurposing Thin Clients",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Socratic Tutor",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "alphaXiv",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "tldraw",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Efficient CSV Parsing: On the Complexity of Simple Things",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The habitable epoch of the early Universe",
+      "first_reported_at": "2026-11-13T05:17:16+01:00",
+      "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
     }
   ]
 }

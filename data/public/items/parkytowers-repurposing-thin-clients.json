@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "parkytowers-repurposing-thin-clients",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:parkytowers-repurposing-thin-clients:50468888",
+  "mention_ids": [
+    "2026-11-13:parkytowers-repurposing-thin-clients:50468888"
+  ],
+  "name": "ParkyTowers: Repurposing Thin Clients",
+  "slug": "parkytowers-repurposing-thin-clients",
+  "summary": "Hardware reference for repurposing old thin clients into quiet homelab servers.",
+  "thing_url": "https://www.parkytowers.me.uk/thin/",
+  "times_seen": 1,
+  "why_included": "The linked reference is backed by a reader's concrete server-hardware use case."
+}

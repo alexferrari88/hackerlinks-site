@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls tldraw neat and reports using its line-drawing library in projects.",
+  "evidence_sources": [
+    {
+      "author": "rpastuszak",
+      "comment_id": "50474044",
+      "comment_url": "https://news.ycombinator.com/item?id=50474044",
+      "context": "first_hand_use",
+      "excerpt": "Tldraw is also neat, I used their line drawing library in some of my projects.",
+      "kind": "recommendation",
+      "parent_comment_id": "50473471"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50468944",
+  "id": "2026-11-13:tldraw:50468944",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "tldraw",
+  "rank": 6,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50468944",
+  "source_story_title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS"
+}

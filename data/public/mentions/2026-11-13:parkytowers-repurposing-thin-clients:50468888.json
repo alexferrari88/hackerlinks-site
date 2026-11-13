@@ -1,0 +1,23 @@
+{
+  "evidence": "A reply to the ParkyTowers link reports using that website to find passively cooled server hardware.",
+  "evidence_sources": [
+    {
+      "author": "NortySpock",
+      "comment_id": "50471963",
+      "comment_url": "https://news.ycombinator.com/item?id=50471963",
+      "context": "first_hand_use",
+      "excerpt": "Funny, I use that exact website to find passively cooled hardware to use as a server.",
+      "kind": "recommendation",
+      "parent_comment_id": "50470112"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50468888",
+  "id": "2026-11-13:parkytowers-repurposing-thin-clients:50468888",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "parkytowers-repurposing-thin-clients",
+  "rank": 3,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50468888",
+  "source_story_title": "I'm making LLMs work on small and old devices"
+}

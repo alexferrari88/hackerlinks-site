@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "socratic-tutor",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:socratic-tutor:50438261",
+  "mention_ids": [
+    "2026-11-13:socratic-tutor:50438261"
+  ],
+  "name": "Socratic Tutor",
+  "slug": "socratic-tutor",
+  "summary": "Jane Street's tutoring skill makes LLMs question your reasoning instead of spoon-feeding answers.",
+  "thing_url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+  "times_seen": 1,
+  "why_included": "Two users independently praise the skill's effect on learning and independent thought."
+}

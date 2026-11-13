@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the linked paper a favorite while explicitly describing the proposal as unlikely.",
+  "evidence_sources": [
+    {
+      "author": "exe34",
+      "comment_id": "50466274",
+      "comment_url": "https://news.ycombinator.com/item?id=50466274",
+      "excerpt": "My favourite (unlikely one) -",
+      "kind": "recommendation",
+      "parent_comment_id": "50464319"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50428619",
+  "id": "2026-11-13:the-habitable-epoch-of-the-early-universe:50428619",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "the-habitable-epoch-of-the-early-universe",
+  "rank": 8,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50428619",
+  "source_story_title": "Did Life Begin in an RNA World?"
+}

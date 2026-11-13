@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reports using mr boxington for several weeks and finding it a big help.",
+  "evidence_sources": [
+    {
+      "author": "jonstewart",
+      "comment_id": "50473135",
+      "comment_url": "https://news.ycombinator.com/item?id=50473135",
+      "context": "first_hand_use",
+      "excerpt": "I've been using \"mr boxington\" (mbx) the past several weeks and it's been a big help.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50458849",
+  "id": "2026-11-13:mr-boxington:50458849",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "mr-boxington",
+  "rank": 2,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50458849",
+  "source_story_title": "Relax: JIT compiler for Rust to reduce build times"
+}

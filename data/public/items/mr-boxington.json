@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "mr-boxington",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:mr-boxington:50458849",
+  "mention_ids": [
+    "2026-11-13:mr-boxington:50458849"
+  ],
+  "name": "mr boxington",
+  "slug": "mr-boxington",
+  "summary": "Shared Cargo build cache that reuses compiler work across projects and worktrees.",
+  "thing_url": "https://mr-boxington.jdx.dev/",
+  "times_seen": 1,
+  "why_included": "Several weeks of positive first-hand use support this Rust-build alternative."
+}

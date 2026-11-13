@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommends the linked video as a great explanation of making CSV fast and its flaws.",
+  "evidence_sources": [
+    {
+      "author": "hilariously",
+      "comment_id": "50463605",
+      "comment_url": "https://news.ycombinator.com/item?id=50463605",
+      "excerpt": "this is a great video on how to make it fast, and how its pretty bad",
+      "kind": "recommendation",
+      "parent_comment_id": "50463563"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50459745",
+  "id": "2026-11-13:efficient-csv-parsing-on-the-complexity-of-simple-things:50459745",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "efficient-csv-parsing-on-the-complexity-of-simple-things",
+  "rank": 7,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50459745",
+  "source_story_title": "93% of paint splatters are valid Perl programs (2019)"
+}

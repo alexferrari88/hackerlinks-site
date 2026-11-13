@@ -1,0 +1,197 @@
+{
+  "version": 2,
+  "run_date": "2026-11-13",
+  "generated_at": "2026-11-13T05:17:16+01:00",
+  "summary": "Eight comment-endorsed discoveries: safer GitHub Actions, faster Rust builds, Socratic learning, research reading, thin-client hardware, drawing, CSV parsing, and speculative cosmology.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-13.json",
+    "sha256": "a507cef71a948ff8d734cafa28bf4c7ab1159ff56b865bfd785c5e1d99a2f9cd",
+    "bytes": 5295614,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 9135,
+    "fetched_item_count": 9165,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "8 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "items": [
+    {
+      "name": "actions-up",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/azat-io/actions-up",
+      "hn_url": "https://news.ycombinator.com/item?id=50459485",
+      "source_story_title": "Lock Your GitHub Actions",
+      "summary": "CLI for updating GitHub Actions while pinning dependencies to commit hashes.",
+      "why_included": "A direct endorsement identifies a practical tool for safer workflow updates.",
+      "evidence": "A commenter calls themselves a big fan of actions-up in the workflow-locking discussion.",
+      "evidence_sources": [
+        {
+          "comment_id": "50462207",
+          "comment_url": "https://news.ycombinator.com/item?id=50462207",
+          "author": "transitivebs",
+          "excerpt": "big fan of actions-up for doing this:",
+          "kind": "recommendation",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "mr boxington",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://mr-boxington.jdx.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458849",
+      "source_story_title": "Relax: JIT compiler for Rust to reduce build times",
+      "summary": "Shared Cargo build cache that reuses compiler work across projects and worktrees.",
+      "why_included": "Several weeks of positive first-hand use support this Rust-build alternative.",
+      "evidence": "A commenter reports using mr boxington for several weeks and finding it a big help.",
+      "evidence_sources": [
+        {
+          "comment_id": "50473135",
+          "comment_url": "https://news.ycombinator.com/item?id=50473135",
+          "author": "jonstewart",
+          "excerpt": "I've been using \"mr boxington\" (mbx) the past several weeks and it's been a big help.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "ParkyTowers: Repurposing Thin Clients",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.parkytowers.me.uk/thin/",
+      "hn_url": "https://news.ycombinator.com/item?id=50468888",
+      "source_story_title": "I'm making LLMs work on small and old devices",
+      "summary": "Hardware reference for repurposing old thin clients into quiet homelab servers.",
+      "why_included": "The linked reference is backed by a reader's concrete server-hardware use case.",
+      "evidence": "A reply to the ParkyTowers link reports using that website to find passively cooled server hardware.",
+      "evidence_sources": [
+        {
+          "comment_id": "50471963",
+          "comment_url": "https://news.ycombinator.com/item?id=50471963",
+          "author": "NortySpock",
+          "excerpt": "Funny, I use that exact website to find passively cooled hardware to use as a server.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50470112"
+        }
+      ]
+    },
+    {
+      "name": "Socratic Tutor",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "hn_url": "https://news.ycombinator.com/item?id=50438261",
+      "source_story_title": "Socratic Tutor",
+      "summary": "Jane Street's tutoring skill makes LLMs question your reasoning instead of spoon-feeding answers.",
+      "why_included": "Two users independently praise the skill's effect on learning and independent thought.",
+      "evidence": "Commenters prefer the skill's reduced handholding and report thinking more independently; they note that a simple prompt may reproduce the effect.",
+      "evidence_sources": [
+        {
+          "comment_id": "50464352",
+          "comment_url": "https://news.ycombinator.com/item?id=50464352",
+          "author": "arshxyz",
+          "excerpt": "I've used the same model for learning before and I definitely prefer using this skill because it stops the model from the usual handholding.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "50464688",
+          "comment_url": "https://news.ycombinator.com/item?id=50464688",
+          "author": "Imanari",
+          "excerpt": "Socratic tutoring with LLMs works great for me and I have used this skill and it also works great (can you do the same with a simple prompt? probably) Using LLMs this way was really refreshing, I could really feel how I started to think on my own again.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "name": "alphaXiv",
+      "category": "AI & Local Models",
+      "thing_url": "https://www.alphaxiv.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438261",
+      "source_story_title": "Socratic Tutor",
+      "summary": "AI-assisted research-paper reader, recommended for reading and understanding arXiv papers.",
+      "why_included": "A reader explicitly recommends the service and explains their own use.",
+      "evidence": "A commenter recommends alphaXiv to someone seeking help understanding papers and describes it as a better PDF reader for arXiv.",
+      "evidence_sources": [
+        {
+          "comment_id": "50465710",
+          "comment_url": "https://news.ycombinator.com/item?id=50465710",
+          "author": "lucrbvi",
+          "excerpt": "You should probably try [AlphaXiv](https://www.alphaxiv.org/), they are building what you want. I use it as a better PDF reader for arxiv paper but they are going all in on AI teaching/explaining things.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50465672"
+        }
+      ]
+    },
+    {
+      "name": "tldraw",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.tldraw.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50468944",
+      "source_story_title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "summary": "Collaborative whiteboard with drawing libraries praised by a developer who used them.",
+      "why_included": "The endorsement names a concrete alternative and includes hands-on library use.",
+      "evidence": "A commenter calls tldraw neat and reports using its line-drawing library in projects.",
+      "evidence_sources": [
+        {
+          "comment_id": "50474044",
+          "comment_url": "https://news.ycombinator.com/item?id=50474044",
+          "author": "rpastuszak",
+          "excerpt": "Tldraw is also neat, I used their line drawing library in some of my projects.",
+          "kind": "recommendation",
+          "context": "first_hand_use",
+          "parent_comment_id": "50473471"
+        }
+      ]
+    },
+    {
+      "name": "Efficient CSV Parsing: On the Complexity of Simple Things",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=YrqSp8m7fmk",
+      "hn_url": "https://news.ycombinator.com/item?id=50459745",
+      "source_story_title": "93% of paint splatters are valid Perl programs (2019)",
+      "summary": "Pedro Holanda's talk explains fast CSV parsing and the format's surprising complexity.",
+      "why_included": "A direct video recommendation turns a programming-joke thread into practical technical viewing.",
+      "evidence": "A commenter recommends the linked video as a great explanation of making CSV fast and its flaws.",
+      "evidence_sources": [
+        {
+          "comment_id": "50463605",
+          "comment_url": "https://news.ycombinator.com/item?id=50463605",
+          "author": "hilariously",
+          "excerpt": "this is a great video on how to make it fast, and how its pretty bad",
+          "kind": "recommendation",
+          "parent_comment_id": "50463563"
+        }
+      ]
+    },
+    {
+      "name": "The habitable epoch of the early Universe",
+      "category": "Watch & Learn",
+      "thing_url": "https://lweb.cfa.harvard.edu/~loeb/habitable.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50428619",
+      "source_story_title": "Did Life Begin in an RNA World?",
+      "summary": "A speculative paper exploring whether the early universe briefly offered life-friendly temperatures.",
+      "why_included": "A reader's explicitly qualified favorite offers a distinctive cosmology rabbit hole.",
+      "evidence": "A commenter calls the linked paper a favorite while explicitly describing the proposal as unlikely.",
+      "evidence_sources": [
+        {
+          "comment_id": "50466274",
+          "comment_url": "https://news.ycombinator.com/item?id=50466274",
+          "author": "exe34",
+          "excerpt": "My favourite (unlikely one) -",
+          "kind": "recommendation",
+          "parent_comment_id": "50464319"
+        }
+      ]
+    }
+  ]
+}

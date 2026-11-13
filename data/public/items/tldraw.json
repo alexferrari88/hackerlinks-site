@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "tldraw",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:tldraw:50468944",
+  "mention_ids": [
+    "2026-11-13:tldraw:50468944"
+  ],
+  "name": "tldraw",
+  "slug": "tldraw",
+  "summary": "Collaborative whiteboard with drawing libraries praised by a developer who used them.",
+  "thing_url": "https://www.tldraw.com/",
+  "times_seen": 1,
+  "why_included": "The endorsement names a concrete alternative and includes hands-on library use."
+}

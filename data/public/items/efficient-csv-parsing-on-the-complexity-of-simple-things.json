@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "efficient-csv-parsing-on-the-complexity-of-simple-things",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:efficient-csv-parsing-on-the-complexity-of-simple-things:50459745",
+  "mention_ids": [
+    "2026-11-13:efficient-csv-parsing-on-the-complexity-of-simple-things:50459745"
+  ],
+  "name": "Efficient CSV Parsing: On the Complexity of Simple Things",
+  "slug": "efficient-csv-parsing-on-the-complexity-of-simple-things",
+  "summary": "Pedro Holanda's talk explains fast CSV parsing and the format's surprising complexity.",
+  "thing_url": "https://www.youtube.com/watch?v=YrqSp8m7fmk",
+  "times_seen": 1,
+  "why_included": "A direct video recommendation turns a programming-joke thread into practical technical viewing."
+}

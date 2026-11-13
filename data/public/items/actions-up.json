@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-13T05:17:16+01:00",
+  "id": "actions-up",
+  "last_seen_at": "2026-11-13T05:17:16+01:00",
+  "latest_mention_id": "2026-11-13:actions-up:50459485",
+  "mention_ids": [
+    "2026-11-13:actions-up:50459485"
+  ],
+  "name": "actions-up",
+  "slug": "actions-up",
+  "summary": "CLI for updating GitHub Actions while pinning dependencies to commit hashes.",
+  "thing_url": "https://github.com/azat-io/actions-up",
+  "times_seen": 1,
+  "why_included": "A direct endorsement identifies a practical tool for safer workflow updates."
+}

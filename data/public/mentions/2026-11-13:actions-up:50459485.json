@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls themselves a big fan of actions-up in the workflow-locking discussion.",
+  "evidence_sources": [
+    {
+      "author": "transitivebs",
+      "comment_id": "50462207",
+      "comment_url": "https://news.ycombinator.com/item?id=50462207",
+      "excerpt": "big fan of actions-up for doing this:",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50459485",
+  "id": "2026-11-13:actions-up:50459485",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "actions-up",
+  "rank": 1,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50459485",
+  "source_story_title": "Lock Your GitHub Actions"
+}

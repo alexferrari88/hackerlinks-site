@@ -1,0 +1,32 @@
+{
+  "evidence": "Commenters prefer the skill's reduced handholding and report thinking more independently; they note that a simple prompt may reproduce the effect.",
+  "evidence_sources": [
+    {
+      "author": "arshxyz",
+      "comment_id": "50464352",
+      "comment_url": "https://news.ycombinator.com/item?id=50464352",
+      "context": "first_hand_use",
+      "excerpt": "I've used the same model for learning before and I definitely prefer using this skill because it stops the model from the usual handholding.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "Imanari",
+      "comment_id": "50464688",
+      "comment_url": "https://news.ycombinator.com/item?id=50464688",
+      "context": "first_hand_use",
+      "excerpt": "Socratic tutoring with LLMs works great for me and I have used this skill and it also works great (can you do the same with a simple prompt? probably) Using LLMs this way was really refreshing, I could really feel how I started to think on my own again.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50438261",
+  "id": "2026-11-13:socratic-tutor:50438261",
+  "is_repeat": false,
+  "issue_id": "2026-11-13",
+  "item_id": "socratic-tutor",
+  "rank": 4,
+  "seen_at": "2026-11-13T05:17:16+01:00",
+  "source_story_id": "50438261",
+  "source_story_title": "Socratic Tutor"
+}
