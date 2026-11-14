@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the map their favorite and says it captures their former SoMa apartment and nearby Caltrain wonderfully.",
+  "evidence_sources": [
+    {
+      "author": "va3ndf",
+      "comment_id": "50489051",
+      "comment_url": "https://news.ycombinator.com/item?id=50489051",
+      "excerpt": "This is my favorite one yet! I used to live in SoMa and this captured my apartment and the nearby Caltrain wonderfully!",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50487228",
+  "id": "2026-11-14:isometric-sf:50487228",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "isometric-sf",
+  "rank": 5,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50487228",
+  "source_story_title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "After trying multiple tiling window managers, a commenter says IceWM suits their applications best and helps them focus.",
+  "evidence_sources": [
+    {
+      "author": "inatreecrown2",
+      "comment_id": "50479141",
+      "comment_url": "https://news.ycombinator.com/item?id=50479141",
+      "context": "first_hand_use",
+      "excerpt": "A simple floating wm like IceWM works best for the apps I use: basic tools like terminal and Thunar, Reaper, windows apps via wine. Really happy I found out about it. It lets me concentrate on the things that matter.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50478515",
+  "id": "2026-11-14:icewm:50478515",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "icewm",
+  "rank": 1,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50478515",
+  "source_story_title": "IceWM"
+}

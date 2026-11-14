@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "icewm",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:icewm:50478515",
+  "mention_ids": [
+    "2026-11-14:icewm:50478515"
+  ],
+  "name": "IceWM",
+  "slug": "icewm",
+  "summary": "Lightweight floating window manager; a switcher found it less distracting than tiling desktops.",
+  "thing_url": "https://ice-wm.org/",
+  "times_seen": 1,
+  "why_included": "A recent switcher explicitly credits IceWM with letting them concentrate on their work."
+}

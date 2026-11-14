@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "run_date": "2026-11-14",
+  "generated_at": "2026-11-14T05:17:50+01:00",
+  "summary": "Ten comment-endorsed discoveries spanning desktop apps, musical hardware, maps, books and computing history.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 prior-day front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-14.json",
+    "sha256": "0e78e24e0b54b388052d588773c41f2079f67c6d5397fc2d6ca83b90c50c9a80",
+    "bytes": 3539870,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 6272,
+    "fetched_item_count": 6302,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "IceWM",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://ice-wm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50478515",
+      "source_story_title": "IceWM",
+      "summary": "Lightweight floating window manager; a switcher found it less distracting than tiling desktops.",
+      "why_included": "A recent switcher explicitly credits IceWM with letting them concentrate on their work.",
+      "evidence": "After trying multiple tiling window managers, a commenter says IceWM suits their applications best and helps them focus.",
+      "evidence_sources": [
+        {"comment_id": "50479141", "comment_url": "https://news.ycombinator.com/item?id=50479141", "author": "inatreecrown2", "excerpt": "A simple floating wm like IceWM works best for the apps I use: basic tools like terminal and Thunar, Reaper, windows apps via wine. Really happy I found out about it. It lets me concentrate on the things that matter.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "GIMP",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.gimp.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50486482",
+      "source_story_title": "LibreOffice actually works 365 days a year",
+      "summary": "Free image editor used for exhibition artwork; expect some tinkering.",
+      "why_included": "The praise is backed by an artist using GIMP for three exhibitions.",
+      "evidence": "A commenter calls GIMP excellent and reports editing exhibition artwork with it, while noting that getting results takes tinkering.",
+      "evidence_sources": [
+        {"comment_id": "50488559", "comment_url": "https://news.ycombinator.com/item?id=50488559", "author": "nephihaha", "excerpt": "GIMP is excellent, but you have to tinker around with it to get results. I have used GIMP to edit mg artwork for three exhibitions so far.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50486761"}
+      ]
+    },
+    {
+      "name": "GrapheneOS",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://grapheneos.org/features#secure-paste",
+      "hn_url": "https://news.ycombinator.com/item?id=50487605",
+      "source_story_title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "summary": "Privacy-focused Android OS whose Secure Paste feature restricts apps' access to clipboard contents.",
+      "why_included": "Resurfaced beyond the 90-day cooldown for a specific clipboard-control feature explicitly endorsed in the comments.",
+      "evidence": "In reply to a Secure Paste link, a commenter praises GrapheneOS's clipboard protection and urges users to enable its global setting after leaving TickTick over repeated clipboard reads.",
+      "evidence_sources": [
+        {"comment_id": "50491363", "comment_url": "https://news.ycombinator.com/item?id=50491363", "author": "prism56", "excerpt": "I used to use TickTick as my to-do list. I moved away from it because it read my clipboard constantly. Likely, it wasn't nefarious at all, but there was no way for me to audit it... The app is closed source, and the permission is granted regardless. I'm so glad GrapheneOS supports this. P.S. If you're on GrapheneOS, this isn't enabled by default, but it is a global toggle - Please enable it.", "kind": "recommendation", "parent_comment_id": "50488973"},
+        {"comment_id": "50488973", "comment_url": "https://news.ycombinator.com/item?id=50488973", "author": "iloveyoutwo", "excerpt": "GrapheneOS recently added secure paste:", "kind": "incidental", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Dino",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://dino.im/",
+      "hn_url": "https://news.ycombinator.com/item?id=50484007",
+      "source_story_title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "summary": "Desktop XMPP chat client; a user rates it nearly as highly as Conversations.",
+      "why_included": "A firsthand endorsement answers the thread's request for a polished desktop XMPP client.",
+      "evidence": "A desktop user reports that Dino's experience has been almost as good as Conversations on mobile.",
+      "evidence_sources": [
+        {"comment_id": "50488906", "comment_url": "https://news.ycombinator.com/item?id=50488906", "author": "KAMSPioneer", "excerpt": "I use Dino on the desktop and the experience has been almost as good as Conversations on mobile. For what it's worth.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50488242"}
+      ]
+    },
+    {
+      "name": "Isometric SF",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://isometricsf.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50487228",
+      "source_story_title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "summary": "Interactive pixel-art Bay Area map; a former resident praises its neighborhood detail.",
+      "why_included": "A former SoMa resident explicitly praises recognizable details rather than merely acknowledging the launch.",
+      "evidence": "A commenter calls the map their favorite and says it captures their former SoMa apartment and nearby Caltrain wonderfully.",
+      "evidence_sources": [
+        {"comment_id": "50489051", "comment_url": "https://news.ycombinator.com/item?id=50489051", "author": "va3ndf", "excerpt": "This is my favorite one yet! I used to live in SoMa and this captured my apartment and the nearby Caltrain wonderfully!", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "OberVave",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/zvenson/obervave",
+      "hn_url": "https://news.ycombinator.com/item?id=50488325",
+      "source_story_title": "FM-1 Workbench",
+      "summary": "Open-source firmware turning the M-VAVE FM-1 into an eight-voice analog-style polysynth.",
+      "why_included": "An FM-1 owner singles out this specific firmware as their preferred choice and praises its sound.",
+      "evidence": "A commenter bought two FM-1 units for firmware experimentation and settled on OberVave as their current preference, praising its sound.",
+      "evidence_sources": [
+        {"comment_id": "50490948", "comment_url": "https://news.ycombinator.com/item?id=50490948", "author": "wazoox", "excerpt": "I bought two, one to try firmwares and one to stick with the one I prefer : at the time, it's the mighty OBERVAVE. Sounds huge !", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Palmfrets",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://palmfrets.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50484650",
+      "source_story_title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "summary": "Guitar invention changes bass notes with your picking-hand palm; retail availability remains pending.",
+      "why_included": "A guitarist expresses explicit purchase interest, while another commenter identifies a concrete musical use and limitation.",
+      "evidence": "One guitarist calls Palmfrets neat and wants a ready-to-install version; another sees fingerpicking-drone potential but warns about intonation when combined with normal frets.",
+      "evidence_sources": [
+        {"comment_id": "50492502", "comment_url": "https://news.ycombinator.com/item?id=50492502", "author": "SwellJoe", "excerpt": "I think it's quite neat, and look forward to seeing it come to market as a ready-to-install product, hopefully from a good manufacturer that already does this kind of thing like Gotoh or Allparts or Hipshot, etc.", "kind": "recommendation", "parent_comment_id": null},
+        {"comment_id": "50485294", "comment_url": "https://news.ycombinator.com/item?id=50485294", "author": "adzm", "excerpt": "I can see this being pretty useful for drones when fingerpicking. Though combining this with normal frets on the top string will necessarily be inaccurate because it shortens the string length, so the normal frets will be slightly misplaced.", "kind": "caveat", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "More Everything Forever",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.hachettebookgroup.com/titles/adam-becker/more-everything-forever/9781541619593/",
+      "hn_url": "https://news.ycombinator.com/item?id=50482379",
+      "source_story_title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "summary": "Adam Becker's book critiques Silicon Valley's utopian and apocalyptic technology ideologies.",
+      "why_included": "A reader explicitly recommends the book as context for the assumptions behind technological doomsday narratives.",
+      "evidence": "A commenter calls Becker's book great and credits it with explaining faulty assumptions behind Silicon Valley's apocalyptic and utopian ideologies.",
+      "evidence_sources": [
+        {"comment_id": "50488420", "comment_url": "https://news.ycombinator.com/item?id=50488420", "author": "dansitu", "excerpt": "I read about this paper in a great book called \"More Everything Forever\", by Adam Becker, which outlines the faulty assumptions baked into the apocalyptic/utopian tech ideologies that have a good percentage of silicon valley mistaking a sigmoidal curve for an exponential.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50482601"}
+      ]
+    },
+    {
+      "name": "Math's Fundamental Flaw",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+      "hn_url": "https://news.ycombinator.com/item?id=50486748",
+      "source_story_title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "Veritasium video connecting Gödel's incompleteness theorems, the halting problem and mathematical foundations.",
+      "why_included": "A viewer explicitly praises this specific video as an explanation of Gödel's incompleteness theorems.",
+      "evidence": "A commenter calls the video really good and praises its connections between the halting problem, undecidable systems and Gödel's incompleteness theorems.",
+      "evidence_sources": [
+        {"comment_id": "50490604", "comment_url": "https://news.ycombinator.com/item?id=50490604", "author": "Muhammad523", "excerpt": "it's around 30 minutes but a really good video. It's from the time before Veritasium became slop. The video talks about many things that are interconnected, like the halting problem, undecidable systems like the game of life, Hilbert's dream of a finite set of axioms to prove all mathematics, and, of course, a perfect explanation of Gödel's incompleteness theorems", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "-2000 Lines Of Code",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50477714",
+      "source_story_title": "Switcher (2004)",
+      "summary": "Andy Hertzfeld's short computing-history story about why lines-of-code metrics miss the point.",
+      "why_included": "A commenter explicitly singles out this named story as Folklore.org's best account of lines-of-code measurement.",
+      "evidence": "A commenter calls the linked story Folklore.org's best story on lines of code.",
+      "evidence_sources": [
+        {"comment_id": "50482408", "comment_url": "https://news.ycombinator.com/item?id=50482408", "author": "WillAdams", "excerpt": "The best Folklore.org story on LoC is of course:", "kind": "recommendation", "parent_comment_id": "50478548"}
+      ]
+    }
+  ]
+}

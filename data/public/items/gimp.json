@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "gimp",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:gimp:50486482",
+  "mention_ids": [
+    "2026-11-14:gimp:50486482"
+  ],
+  "name": "GIMP",
+  "slug": "gimp",
+  "summary": "Free image editor used for exhibition artwork; expect some tinkering.",
+  "thing_url": "https://www.gimp.org/",
+  "times_seen": 1,
+  "why_included": "The praise is backed by an artist using GIMP for three exhibitions."
+}

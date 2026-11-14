@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter bought two FM-1 units for firmware experimentation and settled on OberVave as their current preference, praising its sound.",
+  "evidence_sources": [
+    {
+      "author": "wazoox",
+      "comment_id": "50490948",
+      "comment_url": "https://news.ycombinator.com/item?id=50490948",
+      "context": "first_hand_use",
+      "excerpt": "I bought two, one to try firmwares and one to stick with the one I prefer : at the time, it's the mighty OBERVAVE. Sounds huge !",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50488325",
+  "id": "2026-11-14:obervave:50488325",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "obervave",
+  "rank": 6,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50488325",
+  "source_story_title": "FM-1 Workbench"
+}

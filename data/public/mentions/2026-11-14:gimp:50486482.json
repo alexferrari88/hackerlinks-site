@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls GIMP excellent and reports editing exhibition artwork with it, while noting that getting results takes tinkering.",
+  "evidence_sources": [
+    {
+      "author": "nephihaha",
+      "comment_id": "50488559",
+      "comment_url": "https://news.ycombinator.com/item?id=50488559",
+      "context": "first_hand_use",
+      "excerpt": "GIMP is excellent, but you have to tinker around with it to get results. I have used GIMP to edit mg artwork for three exhibitions so far.",
+      "kind": "recommendation",
+      "parent_comment_id": "50486761"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50486482",
+  "id": "2026-11-14:gimp:50486482",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "gimp",
+  "rank": 2,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50486482",
+  "source_story_title": "LibreOffice actually works 365 days a year"
+}

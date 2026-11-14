@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "2000-lines-of-code",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:2000-lines-of-code:50477714",
+  "mention_ids": [
+    "2026-11-14:2000-lines-of-code:50477714"
+  ],
+  "name": "-2000 Lines Of Code",
+  "slug": "2000-lines-of-code",
+  "summary": "Andy Hertzfeld's short computing-history story about why lines-of-code metrics miss the point.",
+  "thing_url": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
+  "times_seen": 1,
+  "why_included": "A commenter explicitly singles out this named story as Folklore.org's best account of lines-of-code measurement."
+}

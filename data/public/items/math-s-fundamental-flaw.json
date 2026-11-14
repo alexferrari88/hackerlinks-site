@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "math-s-fundamental-flaw",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:math-s-fundamental-flaw:50486748",
+  "mention_ids": [
+    "2026-11-14:math-s-fundamental-flaw:50486748"
+  ],
+  "name": "Math's Fundamental Flaw",
+  "slug": "math-s-fundamental-flaw",
+  "summary": "Veritasium video connecting G\u00f6del's incompleteness theorems, the halting problem and mathematical foundations.",
+  "thing_url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+  "times_seen": 1,
+  "why_included": "A viewer explicitly praises this specific video as an explanation of G\u00f6del's incompleteness theorems."
+}

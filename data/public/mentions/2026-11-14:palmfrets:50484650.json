@@ -1,0 +1,30 @@
+{
+  "evidence": "One guitarist calls Palmfrets neat and wants a ready-to-install version; another sees fingerpicking-drone potential but warns about intonation when combined with normal frets.",
+  "evidence_sources": [
+    {
+      "author": "SwellJoe",
+      "comment_id": "50492502",
+      "comment_url": "https://news.ycombinator.com/item?id=50492502",
+      "excerpt": "I think it's quite neat, and look forward to seeing it come to market as a ready-to-install product, hopefully from a good manufacturer that already does this kind of thing like Gotoh or Allparts or Hipshot, etc.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    },
+    {
+      "author": "adzm",
+      "comment_id": "50485294",
+      "comment_url": "https://news.ycombinator.com/item?id=50485294",
+      "excerpt": "I can see this being pretty useful for drones when fingerpicking. Though combining this with normal frets on the top string will necessarily be inaccurate because it shortens the string length, so the normal frets will be slightly misplaced.",
+      "kind": "caveat",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50484650",
+  "id": "2026-11-14:palmfrets:50484650",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "palmfrets",
+  "rank": 7,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50484650",
+  "source_story_title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord"
+}

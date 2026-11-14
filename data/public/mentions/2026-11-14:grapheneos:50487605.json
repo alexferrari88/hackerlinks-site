@@ -1,0 +1,30 @@
+{
+  "evidence": "In reply to a Secure Paste link, a commenter praises GrapheneOS's clipboard protection and urges users to enable its global setting after leaving TickTick over repeated clipboard reads.",
+  "evidence_sources": [
+    {
+      "author": "prism56",
+      "comment_id": "50491363",
+      "comment_url": "https://news.ycombinator.com/item?id=50491363",
+      "excerpt": "I used to use TickTick as my to-do list. I moved away from it because it read my clipboard constantly. Likely, it wasn't nefarious at all, but there was no way for me to audit it... The app is closed source, and the permission is granted regardless. I'm so glad GrapheneOS supports this. P.S. If you're on GrapheneOS, this isn't enabled by default, but it is a global toggle - Please enable it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50488973"
+    },
+    {
+      "author": "iloveyoutwo",
+      "comment_id": "50488973",
+      "comment_url": "https://news.ycombinator.com/item?id=50488973",
+      "excerpt": "GrapheneOS recently added secure paste:",
+      "kind": "incidental",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50487605",
+  "id": "2026-11-14:grapheneos:50487605",
+  "is_repeat": true,
+  "issue_id": "2026-11-14",
+  "item_id": "grapheneos",
+  "rank": 3,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50487605",
+  "source_story_title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures"
+}

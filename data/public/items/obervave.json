@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "obervave",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:obervave:50488325",
+  "mention_ids": [
+    "2026-11-14:obervave:50488325"
+  ],
+  "name": "OberVave",
+  "slug": "obervave",
+  "summary": "Open-source firmware turning the M-VAVE FM-1 into an eight-voice analog-style polysynth.",
+  "thing_url": "https://github.com/zvenson/obervave",
+  "times_seen": 1,
+  "why_included": "An FM-1 owner singles out this specific firmware as their preferred choice and praises its sound."
+}

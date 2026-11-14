@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "dino",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:dino:50484007",
+  "mention_ids": [
+    "2026-11-14:dino:50484007"
+  ],
+  "name": "Dino",
+  "slug": "dino",
+  "summary": "Desktop XMPP chat client; a user rates it nearly as highly as Conversations.",
+  "thing_url": "https://dino.im/",
+  "times_seen": 1,
+  "why_included": "A firsthand endorsement answers the thread's request for a polished desktop XMPP client."
+}

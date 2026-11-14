@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the linked story Folklore.org's best story on lines of code.",
+  "evidence_sources": [
+    {
+      "author": "WillAdams",
+      "comment_id": "50482408",
+      "comment_url": "https://news.ycombinator.com/item?id=50482408",
+      "excerpt": "The best Folklore.org story on LoC is of course:",
+      "kind": "recommendation",
+      "parent_comment_id": "50478548"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50477714",
+  "id": "2026-11-14:2000-lines-of-code:50477714",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "2000-lines-of-code",
+  "rank": 10,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50477714",
+  "source_story_title": "Switcher (2004)"
+}

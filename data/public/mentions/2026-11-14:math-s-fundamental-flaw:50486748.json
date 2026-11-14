@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls the video really good and praises its connections between the halting problem, undecidable systems and G\u00f6del's incompleteness theorems.",
+  "evidence_sources": [
+    {
+      "author": "Muhammad523",
+      "comment_id": "50490604",
+      "comment_url": "https://news.ycombinator.com/item?id=50490604",
+      "context": "first_hand_use",
+      "excerpt": "it's around 30 minutes but a really good video. It's from the time before Veritasium became slop. The video talks about many things that are interconnected, like the halting problem, undecidable systems like the game of life, Hilbert's dream of a finite set of axioms to prove all mathematics, and, of course, a perfect explanation of G\u00f6del's incompleteness theorems",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50486748",
+  "id": "2026-11-14:math-s-fundamental-flaw:50486748",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "math-s-fundamental-flaw",
+  "rank": 9,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50486748",
+  "source_story_title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems"
+}

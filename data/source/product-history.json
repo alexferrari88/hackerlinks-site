@@ -4489,8 +4489,8 @@
     {
       "name": "GrapheneOS",
       "first_reported_at": "2026-05-09T21:20:22Z",
-      "last_reported_at": "2026-05-09T21:20:22Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 2
     },
     {
       "name": "Gravity",
@@ -12344,6 +12344,60 @@
       "name": "The habitable epoch of the early Universe",
       "first_reported_at": "2026-11-13T05:17:16+01:00",
       "last_reported_at": "2026-11-13T05:17:16+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "IceWM",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "GIMP",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dino",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Isometric SF",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "OberVave",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Palmfrets",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "More Everything Forever",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Math's Fundamental Flaw",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "-2000 Lines Of Code",
+      "first_reported_at": "2026-11-14T05:17:50+01:00",
+      "last_reported_at": "2026-11-14T05:17:50+01:00",
       "times_reported": 1
     }
   ]

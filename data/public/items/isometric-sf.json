@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-14T05:17:50+01:00",
+  "id": "isometric-sf",
+  "last_seen_at": "2026-11-14T05:17:50+01:00",
+  "latest_mention_id": "2026-11-14:isometric-sf:50487228",
+  "mention_ids": [
+    "2026-11-14:isometric-sf:50487228"
+  ],
+  "name": "Isometric SF",
+  "slug": "isometric-sf",
+  "summary": "Interactive pixel-art Bay Area map; a former resident praises its neighborhood detail.",
+  "thing_url": "https://isometricsf.com/",
+  "times_seen": 1,
+  "why_included": "A former SoMa resident explicitly praises recognizable details rather than merely acknowledging the launch."
+}

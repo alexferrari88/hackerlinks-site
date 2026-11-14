@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter calls Becker's book great and credits it with explaining faulty assumptions behind Silicon Valley's apocalyptic and utopian ideologies.",
+  "evidence_sources": [
+    {
+      "author": "dansitu",
+      "comment_id": "50488420",
+      "comment_url": "https://news.ycombinator.com/item?id=50488420",
+      "context": "first_hand_use",
+      "excerpt": "I read about this paper in a great book called \"More Everything Forever\", by Adam Becker, which outlines the faulty assumptions baked into the apocalyptic/utopian tech ideologies that have a good percentage of silicon valley mistaking a sigmoidal curve for an exponential.",
+      "kind": "recommendation",
+      "parent_comment_id": "50482601"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50482379",
+  "id": "2026-11-14:more-everything-forever:50482379",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "more-everything-forever",
+  "rank": 8,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50482379",
+  "source_story_title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)"
+}

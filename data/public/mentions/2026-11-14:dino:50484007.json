@@ -1,0 +1,23 @@
+{
+  "evidence": "A desktop user reports that Dino's experience has been almost as good as Conversations on mobile.",
+  "evidence_sources": [
+    {
+      "author": "KAMSPioneer",
+      "comment_id": "50488906",
+      "comment_url": "https://news.ycombinator.com/item?id=50488906",
+      "context": "first_hand_use",
+      "excerpt": "I use Dino on the desktop and the experience has been almost as good as Conversations on mobile. For what it's worth.",
+      "kind": "recommendation",
+      "parent_comment_id": "50488242"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50484007",
+  "id": "2026-11-14:dino:50484007",
+  "is_repeat": false,
+  "issue_id": "2026-11-14",
+  "item_id": "dino",
+  "rank": 4,
+  "seen_at": "2026-11-14T05:17:50+01:00",
+  "source_story_id": "50484007",
+  "source_story_title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust"
+}
