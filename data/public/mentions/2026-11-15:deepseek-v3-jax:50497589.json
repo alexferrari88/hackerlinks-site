@@ -1,0 +1,23 @@
+{
+  "evidence": "A Fedora user calls the project their first successful end-to-end training run on an RX 7600 XT and welcomes the starting point.",
+  "evidence_sources": [
+    {
+      "author": "joebarbere",
+      "comment_id": "50500124",
+      "comment_url": "https://news.ycombinator.com/item?id=50500124",
+      "context": "first_hand_use",
+      "excerpt": "Thanks for this! I've been trying to get local training working on Fedora with ROCm for a while now, and this is the first project that ran end-to-end on my RX 7600 XT 16GB.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50497589",
+  "id": "2026-11-15:deepseek-v3-jax:50497589",
+  "is_repeat": false,
+  "issue_id": "2026-11-15",
+  "item_id": "deepseek-v3-jax",
+  "rank": 3,
+  "seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "source_story_id": "50497589",
+  "source_story_title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax"
+}

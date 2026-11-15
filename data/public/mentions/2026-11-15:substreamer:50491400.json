@@ -1,0 +1,23 @@
+{
+  "evidence": "A listener praises Substreamer in their Navidrome setup because it supports offline playlist syncing.",
+  "evidence_sources": [
+    {
+      "author": "sandreas",
+      "comment_id": "50493501",
+      "comment_url": "https://news.ycombinator.com/item?id=50493501",
+      "context": "first_hand_use",
+      "excerpt": "for music I found navidrome with smart playlists[2] and Substreamer[3] / DSub[4] to be a great way to listen to local music, since Substreamer supports OFFLINE sync for playlists.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50491400",
+  "id": "2026-11-15:substreamer:50491400",
+  "is_repeat": false,
+  "issue_id": "2026-11-15",
+  "item_id": "substreamer",
+  "rank": 6,
+  "seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "source_story_id": "50491400",
+  "source_story_title": "How Not to Build a Music Player"
+}

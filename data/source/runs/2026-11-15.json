@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-11-15",
+  "generated_at": "2026-11-15T04:17:31.152943+00:00",
+  "summary": "Ten comment-endorsed picks: terminal interfaces, local AI, home media, and interactive learning.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-15.json",
+    "sha256": "59813645db140b9a1308cdafc459f8a730c18a27fee6c72813db3fd02aa03675",
+    "bytes": 2581007,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 4173,
+    "fetched_item_count": 4203,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Ratatui",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://ratatui.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=50491423",
+      "source_story_title": "Terminal borders that don't cost a cell",
+      "summary": "Rust library for terminal interfaces, praised by a former Alacritty maintainer.",
+      "why_included": "A terminal maintainer explicitly endorses the library while using it for Markdown rendering.",
+      "evidence": "A former Alacritty maintainer says they love Ratatui and are building ratmark, while noting a need for link support.",
+      "evidence_sources": [{"comment_id": "50494092", "comment_url": "https://news.ycombinator.com/item?id=50494092", "author": "nixpulvis", "excerpt": "BTW, love ratatui. I've been building ratmark lately, for markdown rendering. But I really need link support ;)", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50494013"}]
+    },
+    {
+      "name": "llama.cpp",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/ggml-org/llama.cpp",
+      "hn_url": "https://news.ycombinator.com/item?id=50493062",
+      "source_story_title": "Ggml v1.0.0",
+      "summary": "Local inference engine; a CPU-only user praises speed gains from upgrades.",
+      "why_included": "Resurfaced after the cooldown for specific long-term CPU-use evidence rather than a release headline.",
+      "evidence": "A user running llama.cpp on a CPU-only machine for over a year praises performance improvements from upgrades.",
+      "evidence_sources": [{"comment_id": "50494985", "comment_url": "https://news.ycombinator.com/item?id=50494985", "author": "owlmem", "excerpt": "I've been running llama.cpp on a plain CPU-only box for local work for over a year now, and the thing that keeps surprising me is how often an upgrade is just free performance.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "DeepSeek V3 JAX",
+      "category": "AI & Local Models",
+      "thing_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "hn_url": "https://news.ycombinator.com/item?id=50497589",
+      "source_story_title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "summary": "Compact DeepSeek architecture implementation; a Radeon user reports successful end-to-end training.",
+      "why_included": "Independent hands-on success makes this more than a creator's educational demo.",
+      "evidence": "A Fedora user calls the project their first successful end-to-end training run on an RX 7600 XT and welcomes the starting point.",
+      "evidence_sources": [{"comment_id": "50500124", "comment_url": "https://news.ycombinator.com/item?id=50500124", "author": "joebarbere", "excerpt": "Thanks for this! I've been trying to get local training working on Fedora with ROCm for a while now, and this is the first project that ran end-to-end on my RX 7600 XT 16GB.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Plasma Bigscreen",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://plasma-bigscreen.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50496976",
+      "source_story_title": "KDE: The documentary [video]",
+      "summary": "Linux TV interface; a mini-PC user loves phone control through KDE Connect.",
+      "why_included": "A recent home-theater installation earns direct praise for ease of use.",
+      "evidence": "A user installed Plasma Bigscreen on a cheap mini-HTPC, used KDE Connect as a phone remote, and found it easier and preferable to Android TV.",
+      "evidence_sources": [{"comment_id": "50501687", "comment_url": "https://news.ycombinator.com/item?id=50501687", "author": "brnt", "excerpt": "A week ago I bought a cheap mini-htpc and put Plasma Bigscreen on it, using a phone with KDEconnect as remote. So easy to use! So much better than AndroidTV let alone proprietary crap.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50498458"}]
+    },
+    {
+      "name": "Navidrome",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.navidrome.org/docs/usage/features/smart-playlists/",
+      "hn_url": "https://news.ycombinator.com/item?id=50491400",
+      "source_story_title": "How Not to Build a Music Player",
+      "summary": "Self-hosted music server; smart playlists underpin a listener's offline music routine.",
+      "why_included": "An actual listening workflow gives the recommendation practical specificity.",
+      "evidence": "A listener endorses Navidrome smart playlists with Substreamer or DSub as a great local-music setup, highlighting offline playlist syncing.",
+      "evidence_sources": [{"comment_id": "50493501", "comment_url": "https://news.ycombinator.com/item?id=50493501", "author": "sandreas", "excerpt": "for music I found navidrome with smart playlists[2] and Substreamer[3] / DSub[4] to be a great way to listen to local music, since Substreamer supports OFFLINE sync for playlists.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Substreamer",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://substreamer.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50491400",
+      "source_story_title": "How Not to Build a Music Player",
+      "summary": "Music-server client praised for syncing smart playlists for offline listening.",
+      "why_included": "Explicit first-hand praise identifies offline playlist sync as the useful feature.",
+      "evidence": "A listener praises Substreamer in their Navidrome setup because it supports offline playlist syncing.",
+      "evidence_sources": [{"comment_id": "50493501", "comment_url": "https://news.ycombinator.com/item?id=50493501", "author": "sandreas", "excerpt": "for music I found navidrome with smart playlists[2] and Substreamer[3] / DSub[4] to be a great way to listen to local music, since Substreamer supports OFFLINE sync for playlists.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Symfonium",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://symfonium.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50491400",
+      "source_story_title": "How Not to Build a Music Player",
+      "summary": "Android music player recommended for Plex libraries and automatic DJ playlists.",
+      "why_included": "A direct recommendation points to a specific Plex music-player alternative.",
+      "evidence": "A commenter explicitly recommends the Android app, spelling it Symphonium, and praises its Plex connection, Smart Flow playlists, and appearance; the official product is Symfonium.",
+      "evidence_sources": [{"comment_id": "50494402", "comment_url": "https://news.ycombinator.com/item?id=50494402", "author": "sourweasel", "excerpt": "If you're on Android, I highly recommend trying the app Symphonium. It can connect to your Plex music library and the \"Smart Flow\" playlist bring all the auto DJ modes from Plex amp and add a few more options. It also looks far better imho.", "kind": "recommendation", "parent_comment_id": "50492900"}]
+    },
+    {
+      "name": "Auxio",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://github.com/OxygenCobalt/Auxio",
+      "hn_url": "https://news.ycombinator.com/item?id=50491400",
+      "source_story_title": "How Not to Build a Music Player",
+      "summary": "Android music player praised for tagged libraries and reshuffling on demand.",
+      "why_included": "A first-hand endorsement names concrete library-handling and shuffle behavior.",
+      "evidence": "A commenter says Auxio is excellent for well-tagged libraries and creates a new shuffle order whenever its shuffle button is clicked.",
+      "evidence_sources": [{"comment_id": "50494367", "comment_url": "https://news.ycombinator.com/item?id=50494367", "author": "Springtime", "excerpt": "Auxio music player[1] for Android shuffles a new order each time the shuffle button is clicked (and ime is excellent for handling well-tagged libraries).", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50492444"}]
+    },
+    {
+      "name": "CultRepo",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.cultrepo.com/films",
+      "hn_url": "https://news.ycombinator.com/item?id=50496976",
+      "source_story_title": "KDE: The documentary [video]",
+      "summary": "Free software-history documentaries; a viewer particularly recommends the Java film.",
+      "why_included": "A viewer explicitly recommends the catalogue and singles out a film they enjoyed.",
+      "evidence": "A fan recommends CultRepo's free documentary catalogue and particularly enjoyed the Java film's treatment of the Sun and Oracle eras.",
+      "evidence_sources": [{"comment_id": "50498293", "comment_url": "https://news.ycombinator.com/item?id=50498293", "author": "vlowrian", "excerpt": "I particularly enjoyed the Java documentary, which offered fascinating insights into the differences between the Sun and Oracle eras, many of which I never would have expected.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "How Brains Learn",
+      "category": "Watch & Learn",
+      "thing_url": "https://aatishb.com/myriad/how-brains-learn/",
+      "hn_url": "https://news.ycombinator.com/item?id=50496885",
+      "source_story_title": "A visual explanation of reinforcement learning",
+      "summary": "Interactive reinforcement-learning explainer praised for its clear, helpful visualization.",
+      "why_included": "An independent reader explicitly praises the explanation rather than merely linking it.",
+      "evidence": "A reader calls the visualization helpful and clear.",
+      "evidence_sources": [{"comment_id": "50499639", "comment_url": "https://news.ycombinator.com/item?id=50499639", "author": "bobosha", "excerpt": "Love it! It's a very helpful and clear visualization.", "kind": "recommendation", "parent_comment_id": null}]
+    }
+  ]
+}

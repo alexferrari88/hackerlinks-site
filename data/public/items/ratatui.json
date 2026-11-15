@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "ratatui",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:ratatui:50491423",
+  "mention_ids": [
+    "2026-11-15:ratatui:50491423"
+  ],
+  "name": "Ratatui",
+  "slug": "ratatui",
+  "summary": "Rust library for terminal interfaces, praised by a former Alacritty maintainer.",
+  "thing_url": "https://ratatui.rs/",
+  "times_seen": 1,
+  "why_included": "A terminal maintainer explicitly endorses the library while using it for Markdown rendering."
+}

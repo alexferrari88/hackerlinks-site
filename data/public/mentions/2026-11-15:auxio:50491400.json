@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter says Auxio is excellent for well-tagged libraries and creates a new shuffle order whenever its shuffle button is clicked.",
+  "evidence_sources": [
+    {
+      "author": "Springtime",
+      "comment_id": "50494367",
+      "comment_url": "https://news.ycombinator.com/item?id=50494367",
+      "context": "first_hand_use",
+      "excerpt": "Auxio music player[1] for Android shuffles a new order each time the shuffle button is clicked (and ime is excellent for handling well-tagged libraries).",
+      "kind": "recommendation",
+      "parent_comment_id": "50492444"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50491400",
+  "id": "2026-11-15:auxio:50491400",
+  "is_repeat": false,
+  "issue_id": "2026-11-15",
+  "item_id": "auxio",
+  "rank": 8,
+  "seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "source_story_id": "50491400",
+  "source_story_title": "How Not to Build a Music Player"
+}

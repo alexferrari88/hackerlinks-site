@@ -1,0 +1,23 @@
+{
+  "evidence": "A former Alacritty maintainer says they love Ratatui and are building ratmark, while noting a need for link support.",
+  "evidence_sources": [
+    {
+      "author": "nixpulvis",
+      "comment_id": "50494092",
+      "comment_url": "https://news.ycombinator.com/item?id=50494092",
+      "context": "first_hand_use",
+      "excerpt": "BTW, love ratatui. I've been building ratmark lately, for markdown rendering. But I really need link support ;)",
+      "kind": "recommendation",
+      "parent_comment_id": "50494013"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50491423",
+  "id": "2026-11-15:ratatui:50491423",
+  "is_repeat": false,
+  "issue_id": "2026-11-15",
+  "item_id": "ratatui",
+  "rank": 1,
+  "seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "source_story_id": "50491423",
+  "source_story_title": "Terminal borders that don't cost a cell"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "deepseek-v3-jax",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:deepseek-v3-jax:50497589",
+  "mention_ids": [
+    "2026-11-15:deepseek-v3-jax:50497589"
+  ],
+  "name": "DeepSeek V3 JAX",
+  "slug": "deepseek-v3-jax",
+  "summary": "Compact DeepSeek architecture implementation; a Radeon user reports successful end-to-end training.",
+  "thing_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+  "times_seen": 1,
+  "why_included": "Independent hands-on success makes this more than a creator's educational demo."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "plasma-bigscreen",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:plasma-bigscreen:50496976",
+  "mention_ids": [
+    "2026-11-15:plasma-bigscreen:50496976"
+  ],
+  "name": "Plasma Bigscreen",
+  "slug": "plasma-bigscreen",
+  "summary": "Linux TV interface; a mini-PC user loves phone control through KDE Connect.",
+  "thing_url": "https://plasma-bigscreen.org/",
+  "times_seen": 1,
+  "why_included": "A recent home-theater installation earns direct praise for ease of use."
+}

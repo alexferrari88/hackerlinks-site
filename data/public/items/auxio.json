@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "auxio",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:auxio:50491400",
+  "mention_ids": [
+    "2026-11-15:auxio:50491400"
+  ],
+  "name": "Auxio",
+  "slug": "auxio",
+  "summary": "Android music player praised for tagged libraries and reshuffling on demand.",
+  "thing_url": "https://github.com/OxygenCobalt/Auxio",
+  "times_seen": 1,
+  "why_included": "A first-hand endorsement names concrete library-handling and shuffle behavior."
+}

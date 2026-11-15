@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "substreamer",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:substreamer:50491400",
+  "mention_ids": [
+    "2026-11-15:substreamer:50491400"
+  ],
+  "name": "Substreamer",
+  "slug": "substreamer",
+  "summary": "Music-server client praised for syncing smart playlists for offline listening.",
+  "thing_url": "https://substreamer.org/",
+  "times_seen": 1,
+  "why_included": "Explicit first-hand praise identifies offline playlist sync as the useful feature."
+}

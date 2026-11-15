@@ -1,0 +1,23 @@
+{
+  "evidence": "A fan recommends CultRepo's free documentary catalogue and particularly enjoyed the Java film's treatment of the Sun and Oracle eras.",
+  "evidence_sources": [
+    {
+      "author": "vlowrian",
+      "comment_id": "50498293",
+      "comment_url": "https://news.ycombinator.com/item?id=50498293",
+      "context": "first_hand_use",
+      "excerpt": "I particularly enjoyed the Java documentary, which offered fascinating insights into the differences between the Sun and Oracle eras, many of which I never would have expected.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50496976",
+  "id": "2026-11-15:cultrepo:50496976",
+  "is_repeat": false,
+  "issue_id": "2026-11-15",
+  "item_id": "cultrepo",
+  "rank": 9,
+  "seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "source_story_id": "50496976",
+  "source_story_title": "KDE: The documentary [video]"
+}

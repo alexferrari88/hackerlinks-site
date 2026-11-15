@@ -1,0 +1,22 @@
+{
+  "evidence": "A reader calls the visualization helpful and clear.",
+  "evidence_sources": [
+    {
+      "author": "bobosha",
+      "comment_id": "50499639",
+      "comment_url": "https://news.ycombinator.com/item?id=50499639",
+      "excerpt": "Love it! It's a very helpful and clear visualization.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50496885",
+  "id": "2026-11-15:how-brains-learn:50496885",
+  "is_repeat": false,
+  "issue_id": "2026-11-15",
+  "item_id": "how-brains-learn",
+  "rank": 10,
+  "seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "source_story_id": "50496885",
+  "source_story_title": "A visual explanation of reinforcement learning"
+}

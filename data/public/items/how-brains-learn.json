@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "how-brains-learn",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:how-brains-learn:50496885",
+  "mention_ids": [
+    "2026-11-15:how-brains-learn:50496885"
+  ],
+  "name": "How Brains Learn",
+  "slug": "how-brains-learn",
+  "summary": "Interactive reinforcement-learning explainer praised for its clear, helpful visualization.",
+  "thing_url": "https://aatishb.com/myriad/how-brains-learn/",
+  "times_seen": 1,
+  "why_included": "An independent reader explicitly praises the explanation rather than merely linking it."
+}

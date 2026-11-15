@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "id": "navidrome",
+  "last_seen_at": "2026-11-15T04:17:31.152943+00:00",
+  "latest_mention_id": "2026-11-15:navidrome:50491400",
+  "mention_ids": [
+    "2026-11-15:navidrome:50491400"
+  ],
+  "name": "Navidrome",
+  "slug": "navidrome",
+  "summary": "Self-hosted music server; smart playlists underpin a listener's offline music routine.",
+  "thing_url": "https://www.navidrome.org/docs/usage/features/smart-playlists/",
+  "times_seen": 1,
+  "why_included": "An actual listening workflow gives the recommendation practical specificity."
+}

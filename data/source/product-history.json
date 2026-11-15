@@ -5659,8 +5659,8 @@
     {
       "name": "llama.cpp",
       "first_reported_at": "2026-06-01T21:20:14Z",
-      "last_reported_at": "2026-06-01T21:20:14Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-15T04:17:31.152943+00:00",
+      "times_reported": 2
     },
     {
       "name": "LLM Attention Visualizer",
@@ -12399,6 +12399,15 @@
       "first_reported_at": "2026-11-14T05:17:50+01:00",
       "last_reported_at": "2026-11-14T05:17:50+01:00",
       "times_reported": 1
-    }
+    },
+    {"name": "Ratatui", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "DeepSeek V3 JAX", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "Plasma Bigscreen", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "Navidrome", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "Substreamer", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "Symfonium", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "Auxio", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "CultRepo", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1},
+    {"name": "How Brains Learn", "first_reported_at": "2026-11-15T04:17:31.152943+00:00", "last_reported_at": "2026-11-15T04:17:31.152943+00:00", "times_reported": 1}
   ]
 }
