@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "skald",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:skald:50506588",
+  "mention_ids": [
+    "2026-11-16:skald:50506588"
+  ],
+  "name": "Skald",
+  "slug": "skald",
+  "summary": "Declarative GUI framework for Odin; praised for performance, though not fully featured.",
+  "thing_url": "https://github.com/BuLEEto/Skald",
+  "times_seen": 1,
+  "why_included": "First-hand use supports a promising niche GUI framework, with its immaturity made explicit."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "norlan-whisky-glass",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:norlan-whisky-glass:50486880",
+  "mention_ids": [
+    "2026-11-16:norlan-whisky-glass:50486880"
+  ],
+  "name": "Norlan Whisky Glass",
+  "slug": "norlan-whisky-glass",
+  "summary": "Double-walled whisky glass; a former owner praises it but balks at replacement cost.",
+  "thing_url": "https://norlanglass.com/products/norlan-whisky-glass",
+  "times_seen": 1,
+  "why_included": "First-hand praise comes with a concrete value caveat rather than unqualified product hype."
+}

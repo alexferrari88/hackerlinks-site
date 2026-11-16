@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "emacs-for-mac-os-x",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:emacs-for-mac-os-x:50507553",
+  "mention_ids": [
+    "2026-11-16:emacs-for-mac-os-x:50507553"
+  ],
+  "name": "Emacs For Mac OS X",
+  "slug": "emacs-for-mac-os-x",
+  "summary": "Ready-to-install macOS Emacs builds; a user praises the straightforward DMG experience.",
+  "thing_url": "https://emacsformacosx.com/",
+  "times_seen": 1,
+  "why_included": "A specific distribution earns direct first-hand praise rather than a generic editor mention."
+}

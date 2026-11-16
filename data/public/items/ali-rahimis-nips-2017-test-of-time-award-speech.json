@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "ali-rahimis-nips-2017-test-of-time-award-speech",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:ali-rahimis-nips-2017-test-of-time-award-speech:50506376",
+  "mention_ids": [
+    "2026-11-16:ali-rahimis-nips-2017-test-of-time-award-speech:50506376"
+  ],
+  "name": "Ali Rahimi\u2019s NIPS 2017 Test of Time Award speech",
+  "slug": "ali-rahimis-nips-2017-test-of-time-award-speech",
+  "summary": "Machine-learning talk challenging alchemy-like experimentation; explicitly recommended in the positional-embeddings discussion.",
+  "thing_url": "https://www.youtube.com/watch?v=x7psGHgatGM",
+  "times_seen": 1,
+  "why_included": "A clear recommendation points to a concrete talk about the gap between ML practice and understanding."
+}

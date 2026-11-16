@@ -1,0 +1,23 @@
+{
+  "evidence": "epiccoleman praises the Norlan glasses they owned, but says replacing them is too expensive for their current interest in whisky.",
+  "evidence_sources": [
+    {
+      "author": "epiccoleman",
+      "comment_id": "50513779",
+      "comment_url": "https://news.ycombinator.com/item?id=50513779",
+      "context": "first_hand_use",
+      "excerpt": "$32 for one glass is too much for me to stomach given my middling level of interest in whiskey these days, and a rocks glass is good enough. But they were damn fine glasses.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50486880",
+  "id": "2026-11-16:norlan-whisky-glass:50486880",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "norlan-whisky-glass",
+  "rank": 10,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50486880",
+  "source_story_title": "A quest to create the perfect whiskey glass"
+}

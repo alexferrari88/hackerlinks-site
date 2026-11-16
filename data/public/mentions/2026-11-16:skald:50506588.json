@@ -1,0 +1,23 @@
+{
+  "evidence": "christophilus used Skald and finds it performant and relatively light on resources, but not fully featured.",
+  "evidence_sources": [
+    {
+      "author": "christophilus",
+      "comment_id": "50509596",
+      "comment_url": "https://news.ycombinator.com/item?id=50509596",
+      "context": "first_hand_use",
+      "excerpt": "For the record, the library I used was Skald[0]. It's decent. Not 100% fully featured yet, but performant and fairly low resource, especially compared to Quickshell.",
+      "kind": "recommendation",
+      "parent_comment_id": "50507703"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50506588",
+  "id": "2026-11-16:skald:50506588",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "skald",
+  "rank": 2,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50506588",
+  "source_story_title": "A NES emulator written in Odin"
+}

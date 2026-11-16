@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T05:16:44.748751+01:00",
+  "headline": "10 interesting things surfaced from HN on 2026-11-16",
+  "id": "2026-11-16",
+  "mention_ids": [
+    "2026-11-16:protomaps:50509837",
+    "2026-11-16:skald:50506588",
+    "2026-11-16:emacs-for-mac-os-x:50507553",
+    "2026-11-16:veriexec:50504277",
+    "2026-11-16:500-lines-or-less:50483431",
+    "2026-11-16:making-a-3d-modeler-in-c-in-a-week:50483431",
+    "2026-11-16:ali-rahimis-nips-2017-test-of-time-award-speech:50506376",
+    "2026-11-16:witch-n-wiz:50503465",
+    "2026-11-16:little-sisyphus:50503465",
+    "2026-11-16:norlan-whisky-glass:50486880"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "jasonjmcghee calls Daniel Hooper\u2019s ShapeUp write-up a great read and highlights the small implementation and week-long build.",
+  "evidence_sources": [
+    {
+      "author": "jasonjmcghee",
+      "comment_id": "50504318",
+      "comment_url": "https://news.ycombinator.com/item?id=50504318",
+      "excerpt": "Another great read is Daniel Hooper\u2019s write up on his SDF 3D modeler ShapeUp.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50483431",
+  "id": "2026-11-16:making-a-3d-modeler-in-c-in-a-week:50483431",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "making-a-3d-modeler-in-c-in-a-week",
+  "rank": 6,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50483431",
+  "source_story_title": "500 Lines or Less A 3D Modeller"
+}

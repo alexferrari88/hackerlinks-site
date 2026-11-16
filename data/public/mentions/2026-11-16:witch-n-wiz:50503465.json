@@ -1,0 +1,23 @@
+{
+  "evidence": "sourceror calls Witch \u2018n Wiz a favorite, compares it to Catrap, and highly recommends it for puzzle-game fans.",
+  "evidence_sources": [
+    {
+      "author": "sourceror",
+      "comment_id": "50507885",
+      "comment_url": "https://news.ycombinator.com/item?id=50507885",
+      "context": "first_hand_use",
+      "excerpt": "Highly recommend it if you\u2019re into puzzle games. I\u2019d say that in retrospect, this is the game that is responsible for starting my interest in retro-emulation.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50503465",
+  "id": "2026-11-16:witch-n-wiz:50503465",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "witch-n-wiz",
+  "rank": 8,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50503465",
+  "source_story_title": "My favourite modern NES games"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "LordGrey uses these Emacs builds and reports an up-to-date, easy DMG installation and a great experience.",
+  "evidence_sources": [
+    {
+      "author": "LordGrey",
+      "comment_id": "50509299",
+      "comment_url": "https://news.ycombinator.com/item?id=50509299",
+      "context": "first_hand_use",
+      "excerpt": "I use Emacs For Mac OS X. Up to date and installs via a .dmg. Great experience.",
+      "kind": "recommendation",
+      "parent_comment_id": "50509212"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50507553",
+  "id": "2026-11-16:emacs-for-mac-os-x:50507553",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "emacs-for-mac-os-x",
+  "rank": 3,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50507553",
+  "source_story_title": "Emacs Is My Browser"
+}

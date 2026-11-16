@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "little-sisyphus",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:little-sisyphus:50503465",
+  "mention_ids": [
+    "2026-11-16:little-sisyphus:50503465"
+  ],
+  "name": "Little Sisyphus",
+  "slug": "little-sisyphus",
+  "summary": "Physics-based NES platformer about hauling a ball up a mountain; playable in-browser.",
+  "thing_url": "https://pubbygames.itch.io/little-sisyphus",
+  "times_seen": 1,
+  "why_included": "An explicit alternative-game recommendation leads to a directly playable creator page."
+}

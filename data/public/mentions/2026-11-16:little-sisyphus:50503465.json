@@ -1,0 +1,22 @@
+{
+  "evidence": "SandmanDP highly recommends Little Sisyphus among modern NES games omitted from the article\u2019s list.",
+  "evidence_sources": [
+    {
+      "author": "SandmanDP",
+      "comment_id": "50504707",
+      "comment_url": "https://news.ycombinator.com/item?id=50504707",
+      "excerpt": "Two modern NES games not on this list that I would also highly recommend: Little Sisyphus",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50503465",
+  "id": "2026-11-16:little-sisyphus:50503465",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "little-sisyphus",
+  "rank": 9,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50503465",
+  "source_story_title": "My favourite modern NES games"
+}

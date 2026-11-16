@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-11-16",
+  "generated_at": "2026-11-16T05:16:44.748751+01:00",
+  "summary": "Ten comment-endorsed discoveries spanning developer tools, practical programming reading, NES games, and whisky glassware.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 front-page stories fully crawled | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-16.json",
+    "sha256": "b1a2910f31e392245e3f5bfd3c387f6797ecac698eceaeac0d5e7a694ce4d841",
+    "bytes": 2161211,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 3464,
+    "fetched_item_count": 3494,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "Protomaps",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://protomaps.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50509837",
+      "source_story_title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "summary": "Open-source, self-hosted maps; a user praises low running costs and easy theming.",
+      "why_included": "A concrete migration away from an unexpectedly large Google Maps bill backs the recommendation.",
+      "evidence": "joshstrange switched from Google Maps and praises Protomaps for low cost, theming, and ease of use.",
+      "evidence_sources": [{"comment_id": "50511971", "comment_url": "https://news.ycombinator.com/item?id=50511971", "author": "joshstrange", "excerpt": "I use Protomaps and absolutely love it. After getting hit with a Google Maps bill that was larger than I ever would have expected, I swapped it out for Protomaps instead and I’ve loved it ever since. Dirt cheap to run, theme-able, easy to use.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Skald",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/BuLEEto/Skald",
+      "hn_url": "https://news.ycombinator.com/item?id=50506588",
+      "source_story_title": "A NES emulator written in Odin",
+      "summary": "Declarative GUI framework for Odin; praised for performance, though not fully featured.",
+      "why_included": "First-hand use supports a promising niche GUI framework, with its immaturity made explicit.",
+      "evidence": "christophilus used Skald and finds it performant and relatively light on resources, but not fully featured.",
+      "evidence_sources": [{"comment_id": "50509596", "comment_url": "https://news.ycombinator.com/item?id=50509596", "author": "christophilus", "excerpt": "For the record, the library I used was Skald[0]. It's decent. Not 100% fully featured yet, but performant and fairly low resource, especially compared to Quickshell.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50507703"}]
+    },
+    {
+      "name": "Emacs For Mac OS X",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://emacsformacosx.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50507553",
+      "source_story_title": "Emacs Is My Browser",
+      "summary": "Ready-to-install macOS Emacs builds; a user praises the straightforward DMG experience.",
+      "why_included": "A specific distribution earns direct first-hand praise rather than a generic editor mention.",
+      "evidence": "LordGrey uses these Emacs builds and reports an up-to-date, easy DMG installation and a great experience.",
+      "evidence_sources": [{"comment_id": "50509299", "comment_url": "https://news.ycombinator.com/item?id=50509299", "author": "LordGrey", "excerpt": "I use Emacs For Mac OS X. Up to date and installs via a .dmg. Great experience.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50509212"}]
+    },
+    {
+      "name": "veriexec",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://man.netbsd.org/veriexec.8",
+      "hn_url": "https://news.ycombinator.com/item?id=50504277",
+      "source_story_title": "Disk encryption on NetBSD – achieving secrecy",
+      "summary": "NetBSD executable-verification subsystem; a user reports that pre-execution checks work well.",
+      "why_included": "A practical, first-hand recommendation surfaces an overlooked operating-system security feature.",
+      "evidence": "jmclnx recommends veriexec for validating executables before they start and says it worked in personal use.",
+      "evidence_sources": [{"comment_id": "50506830", "comment_url": "https://news.ycombinator.com/item?id=50506830", "author": "jmclnx", "excerpt": "You can use veriexec to validate executables prior them starting. I have used it and it works fine.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50506718"}]
+    },
+    {
+      "name": "500 Lines or Less",
+      "category": "Watch & Learn",
+      "thing_url": "https://aosabook.org/en/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50483431",
+      "source_story_title": "500 Lines or Less A 3D Modeller",
+      "summary": "Programming book walking through compact projects, from initial design to implementation.",
+      "why_included": "An independent comment endorses the whole book beyond the submitted 3D-modeller chapter.",
+      "evidence": "forgotpwd16 praises the Architecture of Open Source Applications collection and singles out 500 Lines or Less as the most enjoyable.",
+      "evidence_sources": [{"comment_id": "50508393", "comment_url": "https://news.ycombinator.com/item?id=50508393", "author": "forgotpwd16", "excerpt": "The entire \"Architecture of Open Source Applications\" is amazing, and among those \"500 Lines or Less\" is imo the most enjoyable.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Making a 3D Modeler, in C, in a Week",
+      "category": "Watch & Learn",
+      "thing_url": "https://danielchasehooper.com/posts/shapeup/",
+      "hn_url": "https://news.ycombinator.com/item?id=50483431",
+      "source_story_title": "500 Lines or Less A 3D Modeller",
+      "summary": "Daniel Hooper’s ShapeUp write-up explains building an SDF-based 3D modeler in a week.",
+      "why_included": "The comment explicitly recommends the engineering write-up, not merely the modeler it describes.",
+      "evidence": "jasonjmcghee calls Daniel Hooper’s ShapeUp write-up a great read and highlights the small implementation and week-long build.",
+      "evidence_sources": [{"comment_id": "50504318", "comment_url": "https://news.ycombinator.com/item?id=50504318", "author": "jasonjmcghee", "excerpt": "Another great read is Daniel Hooper’s write up on his SDF 3D modeler ShapeUp.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Ali Rahimi’s NIPS 2017 Test of Time Award speech",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=x7psGHgatGM",
+      "hn_url": "https://news.ycombinator.com/item?id=50506376",
+      "source_story_title": "Understanding Positional Embeddings in Modern LLMs",
+      "summary": "Machine-learning talk challenging alchemy-like experimentation; explicitly recommended in the positional-embeddings discussion.",
+      "why_included": "A clear recommendation points to a concrete talk about the gap between ML practice and understanding.",
+      "evidence": "nsagent identifies Rahimi’s award speech, recalls its machine-learning-as-alchemy argument, and highly recommends watching it.",
+      "evidence_sources": [{"comment_id": "50512032", "comment_url": "https://news.ycombinator.com/item?id=50512032", "author": "nsagent", "excerpt": "I presume your comment is in reference to this speech, as he famously states: \"Machine Learning has become alchemy\" in it. For anyone who has some time and hasn't watched it, I'd highly recommend it.", "kind": "recommendation", "parent_comment_id": "50511400"}]
+    },
+    {
+      "name": "Witch n' Wiz",
+      "category": "Games & Experiments",
+      "thing_url": "https://mhughson.itch.io/witch-n-wiz",
+      "hn_url": "https://news.ycombinator.com/item?id=50503465",
+      "source_story_title": "My favourite modern NES games",
+      "summary": "Modern NES puzzle-platformer; a fan calls it a favorite and recommends it to puzzle lovers.",
+      "why_included": "An enthusiastic, specific player recommendation emerged from a targeted raw-thread pass.",
+      "evidence": "sourceror calls Witch ‘n Wiz a favorite, compares it to Catrap, and highly recommends it for puzzle-game fans.",
+      "evidence_sources": [{"comment_id": "50507885", "comment_url": "https://news.ycombinator.com/item?id=50507885", "author": "sourceror", "excerpt": "Highly recommend it if you’re into puzzle games. I’d say that in retrospect, this is the game that is responsible for starting my interest in retro-emulation.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    },
+    {
+      "name": "Little Sisyphus",
+      "category": "Games & Experiments",
+      "thing_url": "https://pubbygames.itch.io/little-sisyphus",
+      "hn_url": "https://news.ycombinator.com/item?id=50503465",
+      "source_story_title": "My favourite modern NES games",
+      "summary": "Physics-based NES platformer about hauling a ball up a mountain; playable in-browser.",
+      "why_included": "An explicit alternative-game recommendation leads to a directly playable creator page.",
+      "evidence": "SandmanDP highly recommends Little Sisyphus among modern NES games omitted from the article’s list.",
+      "evidence_sources": [{"comment_id": "50504707", "comment_url": "https://news.ycombinator.com/item?id=50504707", "author": "SandmanDP", "excerpt": "Two modern NES games not on this list that I would also highly recommend: Little Sisyphus", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Norlan Whisky Glass",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://norlanglass.com/products/norlan-whisky-glass",
+      "hn_url": "https://news.ycombinator.com/item?id=50486880",
+      "source_story_title": "A quest to create the perfect whiskey glass",
+      "summary": "Double-walled whisky glass; a former owner praises it but balks at replacement cost.",
+      "why_included": "First-hand praise comes with a concrete value caveat rather than unqualified product hype.",
+      "evidence": "epiccoleman praises the Norlan glasses they owned, but says replacing them is too expensive for their current interest in whisky.",
+      "evidence_sources": [{"comment_id": "50513779", "comment_url": "https://news.ycombinator.com/item?id=50513779", "author": "epiccoleman", "excerpt": "$32 for one glass is too much for me to stomach given my middling level of interest in whiskey these days, and a rocks glass is good enough. But they were damn fine glasses.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "forgotpwd16 praises the Architecture of Open Source Applications collection and singles out 500 Lines or Less as the most enjoyable.",
+  "evidence_sources": [
+    {
+      "author": "forgotpwd16",
+      "comment_id": "50508393",
+      "comment_url": "https://news.ycombinator.com/item?id=50508393",
+      "excerpt": "The entire \"Architecture of Open Source Applications\" is amazing, and among those \"500 Lines or Less\" is imo the most enjoyable.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50483431",
+  "id": "2026-11-16:500-lines-or-less:50483431",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "500-lines-or-less",
+  "rank": 5,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50483431",
+  "source_story_title": "500 Lines or Less A 3D Modeller"
+}

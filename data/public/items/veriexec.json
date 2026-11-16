@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "veriexec",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:veriexec:50504277",
+  "mention_ids": [
+    "2026-11-16:veriexec:50504277"
+  ],
+  "name": "veriexec",
+  "slug": "veriexec",
+  "summary": "NetBSD executable-verification subsystem; a user reports that pre-execution checks work well.",
+  "thing_url": "https://man.netbsd.org/veriexec.8",
+  "times_seen": 1,
+  "why_included": "A practical, first-hand recommendation surfaces an overlooked operating-system security feature."
+}

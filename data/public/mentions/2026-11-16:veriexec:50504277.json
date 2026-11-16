@@ -1,0 +1,23 @@
+{
+  "evidence": "jmclnx recommends veriexec for validating executables before they start and says it worked in personal use.",
+  "evidence_sources": [
+    {
+      "author": "jmclnx",
+      "comment_id": "50506830",
+      "comment_url": "https://news.ycombinator.com/item?id=50506830",
+      "context": "first_hand_use",
+      "excerpt": "You can use veriexec to validate executables prior them starting. I have used it and it works fine.",
+      "kind": "recommendation",
+      "parent_comment_id": "50506718"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50504277",
+  "id": "2026-11-16:veriexec:50504277",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "veriexec",
+  "rank": 4,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50504277",
+  "source_story_title": "Disk encryption on NetBSD \u2013 achieving secrecy"
+}

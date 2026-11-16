@@ -1,0 +1,23 @@
+{
+  "evidence": "joshstrange switched from Google Maps and praises Protomaps for low cost, theming, and ease of use.",
+  "evidence_sources": [
+    {
+      "author": "joshstrange",
+      "comment_id": "50511971",
+      "comment_url": "https://news.ycombinator.com/item?id=50511971",
+      "context": "first_hand_use",
+      "excerpt": "I use Protomaps and absolutely love it. After getting hit with a Google Maps bill that was larger than I ever would have expected, I swapped it out for Protomaps instead and I\u2019ve loved it ever since. Dirt cheap to run, theme-able, easy to use.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50509837",
+  "id": "2026-11-16:protomaps:50509837",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "protomaps",
+  "rank": 1,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50509837",
+  "source_story_title": "Protomaps: Self-hosting map tiles has gotten cheap and easy"
+}

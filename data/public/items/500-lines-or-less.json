@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "500-lines-or-less",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:500-lines-or-less:50483431",
+  "mention_ids": [
+    "2026-11-16:500-lines-or-less:50483431"
+  ],
+  "name": "500 Lines or Less",
+  "slug": "500-lines-or-less",
+  "summary": "Programming book walking through compact projects, from initial design to implementation.",
+  "thing_url": "https://aosabook.org/en/index.html",
+  "times_seen": 1,
+  "why_included": "An independent comment endorses the whole book beyond the submitted 3D-modeller chapter."
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "nsagent identifies Rahimi\u2019s award speech, recalls its machine-learning-as-alchemy argument, and highly recommends watching it.",
+  "evidence_sources": [
+    {
+      "author": "nsagent",
+      "comment_id": "50512032",
+      "comment_url": "https://news.ycombinator.com/item?id=50512032",
+      "excerpt": "I presume your comment is in reference to this speech, as he famously states: \"Machine Learning has become alchemy\" in it. For anyone who has some time and hasn't watched it, I'd highly recommend it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50511400"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50506376",
+  "id": "2026-11-16:ali-rahimis-nips-2017-test-of-time-award-speech:50506376",
+  "is_repeat": false,
+  "issue_id": "2026-11-16",
+  "item_id": "ali-rahimis-nips-2017-test-of-time-award-speech",
+  "rank": 7,
+  "seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "source_story_id": "50506376",
+  "source_story_title": "Understanding Positional Embeddings in Modern LLMs"
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "making-a-3d-modeler-in-c-in-a-week",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:making-a-3d-modeler-in-c-in-a-week:50483431",
+  "mention_ids": [
+    "2026-11-16:making-a-3d-modeler-in-c-in-a-week:50483431"
+  ],
+  "name": "Making a 3D Modeler, in C, in a Week",
+  "slug": "making-a-3d-modeler-in-c-in-a-week",
+  "summary": "Daniel Hooper\u2019s ShapeUp write-up explains building an SDF-based 3D modeler in a week.",
+  "thing_url": "https://danielchasehooper.com/posts/shapeup/",
+  "times_seen": 1,
+  "why_included": "The comment explicitly recommends the engineering write-up, not merely the modeler it describes."
+}

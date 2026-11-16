@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "id": "protomaps",
+  "last_seen_at": "2026-11-16T05:16:44.748751+01:00",
+  "latest_mention_id": "2026-11-16:protomaps:50509837",
+  "mention_ids": [
+    "2026-11-16:protomaps:50509837"
+  ],
+  "name": "Protomaps",
+  "slug": "protomaps",
+  "summary": "Open-source, self-hosted maps; a user praises low running costs and easy theming.",
+  "thing_url": "https://protomaps.com/",
+  "times_seen": 1,
+  "why_included": "A concrete migration away from an unexpectedly large Google Maps bill backs the recommendation."
+}
