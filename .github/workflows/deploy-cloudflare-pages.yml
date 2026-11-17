@@ -15,7 +15,8 @@ concurrency:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    # Match the available Python 3.14.3 binaries; ubuntu-latest can move ahead.
+    runs-on: ubuntu-24.04
     steps:
       - name: Preflight Cloudflare config
         id: preflight
