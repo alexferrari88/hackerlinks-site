@@ -15,8 +15,7 @@ concurrency:
 
 jobs:
   deploy:
-    # Match the available Python 3.14.3 binaries; ubuntu-latest can move ahead.
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     steps:
       - name: Preflight Cloudflare config
         id: preflight
@@ -52,9 +51,21 @@ jobs:
 
       - name: Setup Python
         if: steps.preflight.outputs.deploy_enabled == 'true'
-        uses: actions/setup-python@v6
+        # Portable managed builds do not depend on Ubuntu-specific toolcache releases.
+        uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
+        env:
+          UV_MANAGED_PYTHON: "true"
         with:
-          python-version-file: .python-version
+          version: "0.13.8"
+          activate-environment: true
+          enable-cache: false
+
+      - name: Verify deployment runtime
+        if: steps.preflight.outputs.deploy_enabled == 'true'
+        run: |
+          . /etc/os-release
+          test "$ID" = ubuntu && test "$VERSION_ID" = 26.04
+          python -c 'import pathlib, platform, sys; expected = pathlib.Path(".python-version").read_text().strip(); actual = platform.python_version(); assert actual == expected, (actual, expected); assert sys.prefix != sys.base_prefix, "Expected managed virtual environment"; print(f"Ubuntu 26.04 / Python {actual} / {sys.executable}")'
 
       - name: Setup Node
         if: steps.preflight.outputs.deploy_enabled == 'true'
@@ -74,6 +85,10 @@ jobs:
       - name: Test frontend
         if: steps.preflight.outputs.deploy_enabled == 'true'
         run: npm test
+
+      - name: Test Python
+        if: steps.preflight.outputs.deploy_enabled == 'true'
+        run: PYTHONPATH=src python -m unittest discover -s tests
 
       - name: Build static site
         if: steps.preflight.outputs.deploy_enabled == 'true'
