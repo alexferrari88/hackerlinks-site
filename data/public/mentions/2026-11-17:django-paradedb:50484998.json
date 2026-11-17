@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praises ParadeDB's Django integration for BM25 scoring, fuzzy matching, hybrid search and avoiding a separate search engine.",
+  "evidence_sources": [
+    {
+      "author": "anon373839",
+      "comment_id": "50514108",
+      "comment_url": "https://news.ycombinator.com/item?id=50514108",
+      "excerpt": "ParadeDB is the best! I really like the Django integration (https://github.com/paradedb/django-paradedb). You get proper BM25 scoring, fuzzy matching, hybrid search, metadata filtering while still just using QuerySets.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50484998",
+  "id": "2026-11-17:django-paradedb:50484998",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "django-paradedb",
+  "rank": 1,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50484998",
+  "source_story_title": "Do we still have to denormalize? Have your schema and search it too"
+}

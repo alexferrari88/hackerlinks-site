@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter calls the linked spline-continuity video amazing.",
+  "evidence_sources": [
+    {
+      "author": "ivanjermakov",
+      "comment_id": "50526028",
+      "comment_url": "https://news.ycombinator.com/item?id=50526028",
+      "excerpt": "Amazing video on spline continuity:",
+      "kind": "recommendation",
+      "parent_comment_id": "50523972"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50515151",
+  "id": "2026-11-17:the-continuity-of-splines:50515151",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "the-continuity-of-splines",
+  "rank": 9,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50515151",
+  "source_story_title": "Squircles"
+}

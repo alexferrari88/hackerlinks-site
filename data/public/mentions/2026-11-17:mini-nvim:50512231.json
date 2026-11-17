@@ -1,0 +1,23 @@
+{
+  "evidence": "A user reports using four mini plugins in a ten-plugin setup and being happy with their functionality.",
+  "evidence_sources": [
+    {
+      "author": "eikenberry",
+      "comment_id": "50512754",
+      "comment_url": "https://news.ycombinator.com/item?id=50512754",
+      "context": "first_hand_use",
+      "excerpt": "I currently use 4 mini.* plugins out of the 10 plugins I use and am happy with what they do.",
+      "kind": "recommendation",
+      "parent_comment_id": "50512720"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50512231",
+  "id": "2026-11-17:mini-nvim:50512231",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "mini-nvim",
+  "rank": 3,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50512231",
+  "source_story_title": "Mini.nvim Is Now on Tangled"
+}

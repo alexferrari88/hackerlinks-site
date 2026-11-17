@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "oos",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:oos:50490159",
+  "mention_ids": [
+    "2026-11-17:oos:50490159"
+  ],
+  "name": "OOS",
+  "slug": "oos",
+  "summary": "Open operating system for Rigol oscilloscopes, praised for its ambitious hardware integration.",
+  "thing_url": "https://github.com/dekajoule/oos",
+  "times_seen": 1,
+  "why_included": "Independent praise goes beyond curiosity to a specific hardware-buying recommendation."
+}

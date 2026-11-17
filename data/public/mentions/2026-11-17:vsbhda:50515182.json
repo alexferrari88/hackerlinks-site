@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter explicitly prefers VSBHDA for sound and encourages contributing relevant fixes there.",
+  "evidence_sources": [
+    {
+      "author": "vkaku",
+      "comment_id": "50526865",
+      "comment_url": "https://news.ycombinator.com/item?id=50526865",
+      "excerpt": "I'd prefer using VSBHDA driver for Sound though. If you have any fixes for those cards see if you can land them there.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50515182",
+  "id": "2026-11-17:vsbhda:50515182",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "vsbhda",
+  "rank": 6,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50515182",
+  "source_story_title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME"
+}

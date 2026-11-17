@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter describes OOS as impressive and says its availability makes a Rigol worth choosing over competing brands.",
+  "evidence_sources": [
+    {
+      "author": "pseudohadamard",
+      "comment_id": "50504761",
+      "comment_url": "https://news.ycombinator.com/item?id=50504761",
+      "excerpt": "it's actually worth getting a Rigol over other similar brands just for this.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50490159",
+  "id": "2026-11-17:oos:50490159",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "oos",
+  "rank": 5,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50490159",
+  "source_story_title": "OOS \u2013 an open operating system for the Rigol Scopes"
+}

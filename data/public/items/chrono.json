@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "chrono",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:chrono:50519744",
+  "mention_ids": [
+    "2026-11-17:chrono:50519744"
+  ],
+  "name": "Chrono",
+  "slug": "chrono",
+  "summary": "Rust date-and-time library praised for dependable standard-library and embedded use.",
+  "thing_url": "https://github.com/chronotope/chrono",
+  "times_seen": 1,
+  "why_included": "Strong first-hand endorsement of a concrete alternative in the Jiff discussion."
+}

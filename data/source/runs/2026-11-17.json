@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "run_date": "2026-11-17",
+  "generated_at": "2026-11-17T05:17:20.024005+01:00",
+  "summary": "Nine comment-endorsed discoveries spanning developer tools, electronics, books and visual mathematics.",
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 past front-page stories processed | history + run artifact updated",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-17.json",
+    "sha256": "bf488c80c1efa84fcbad6e726070c864221be80fece5c67ebe52e5fe948d2492",
+    "bytes": 3225934,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5281,
+    "fetched_item_count": 5311,
+    "fetch_error_count": 0
+  },
+  "items": [
+    {
+      "name": "django-paradedb",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/paradedb/django-paradedb",
+      "hn_url": "https://news.ycombinator.com/item?id=50484998",
+      "source_story_title": "Do we still have to denormalize? Have your schema and search it too",
+      "summary": "Django integration bringing ranked, fuzzy and hybrid search to PostgreSQL QuerySets.",
+      "why_included": "Direct praise for keeping search inside the existing database and ORM.",
+      "evidence": "A commenter praises ParadeDB's Django integration for BM25 scoring, fuzzy matching, hybrid search and avoiding a separate search engine.",
+      "evidence_sources": [{"comment_id": "50514108", "comment_url": "https://news.ycombinator.com/item?id=50514108", "author": "anon373839", "excerpt": "ParadeDB is the best! I really like the Django integration (https://github.com/paradedb/django-paradedb). You get proper BM25 scoring, fuzzy matching, hybrid search, metadata filtering while still just using QuerySets.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "Chrono",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/chronotope/chrono",
+      "hn_url": "https://news.ycombinator.com/item?id=50519744",
+      "source_story_title": "Jiff 1.0: A datetime library for Rust",
+      "summary": "Rust date-and-time library praised for dependable standard-library and embedded use.",
+      "why_included": "Strong first-hand endorsement of a concrete alternative in the Jiff discussion.",
+      "evidence": "A user calls Chrono the best datetime library they have used; its original author acknowledges shortcomings in the API.",
+      "evidence_sources": [{"comment_id": "50523762", "comment_url": "https://news.ycombinator.com/item?id=50523762", "author": "the__alchemist", "excerpt": "Chrono is by far, the best datetime library I've used.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50522354"}, {"comment_id": "50522354", "comment_url": "https://news.ycombinator.com/item?id=50522354", "author": "lifthrasiir", "excerpt": "that's why the API is not very good, despite my best efforts", "kind": "caveat", "context": "author_or_maintainer", "parent_comment_id": "50521423"}]
+    },
+    {
+      "name": "mini.nvim",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "hn_url": "https://news.ycombinator.com/item?id=50512231",
+      "source_story_title": "Mini.nvim Is Now on Tangled",
+      "summary": "Independent Neovim Lua modules you can pick individually rather than installing wholesale.",
+      "why_included": "An existing user explicitly endorses the modular pick-and-choose approach.",
+      "evidence": "A user reports using four mini plugins in a ten-plugin setup and being happy with their functionality.",
+      "evidence_sources": [{"comment_id": "50512754", "comment_url": "https://news.ycombinator.com/item?id=50512754", "author": "eikenberry", "excerpt": "I currently use 4 mini.* plugins out of the 10 plugins I use and am happy with what they do.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50512720"}]
+    },
+    {
+      "name": "reTerminal E1004",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.seeedstudio.com/reTerminal-E1004-p-6692.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50519354",
+      "source_story_title": "Frame – 31.5\" color ePaper display",
+      "summary": "Framed 13.3-inch color e-paper display endorsed as a battery-powered family calendar.",
+      "why_included": "A practical family-dashboard recommendation with first-hand battery-life evidence.",
+      "evidence": "An owner uses the E1004 for a family calendar, praises the displays and reports one to two months of battery life.",
+      "evidence_sources": [{"comment_id": "50521861", "comment_url": "https://news.ycombinator.com/item?id=50521861", "author": "kimos", "excerpt": "I’ve been using a couple of the ReTerminal displays and they’re great. I use the e1004 13” for a family calendar/schedule board. It comes framed and the battery lasts a month or two.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50521748"}]
+    },
+    {
+      "name": "OOS",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/dekajoule/oos",
+      "hn_url": "https://news.ycombinator.com/item?id=50490159",
+      "source_story_title": "OOS – an open operating system for the Rigol Scopes",
+      "summary": "Open operating system for Rigol oscilloscopes, praised for its ambitious hardware integration.",
+      "why_included": "Independent praise goes beyond curiosity to a specific hardware-buying recommendation.",
+      "evidence": "A commenter describes OOS as impressive and says its availability makes a Rigol worth choosing over competing brands.",
+      "evidence_sources": [{"comment_id": "50504761", "comment_url": "https://news.ycombinator.com/item?id=50504761", "author": "pseudohadamard", "excerpt": "it's actually worth getting a Rigol over other similar brands just for this.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "VSBHDA",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/Baron-von-Riedesel/VSBHDA",
+      "hn_url": "https://news.ycombinator.com/item?id=50515182",
+      "source_story_title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "summary": "Sound Blaster emulation for DOS, recommended for retro-computing sound-driver needs.",
+      "why_included": "A specific preferred driver surfaced inside an unrelated optical-disc driver thread.",
+      "evidence": "A commenter explicitly prefers VSBHDA for sound and encourages contributing relevant fixes there.",
+      "evidence_sources": [{"comment_id": "50526865", "comment_url": "https://news.ycombinator.com/item?id=50526865", "author": "vkaku", "excerpt": "I'd prefer using VSBHDA driver for Sound though. If you have any fixes for those cards see if you can land them there.", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Secret Life of Circuits",
+      "category": "Watch & Learn",
+      "thing_url": "https://nostarch.com/secret-life-of-circuits",
+      "hn_url": "https://news.ycombinator.com/item?id=50514470",
+      "source_story_title": "How to make almost anything",
+      "summary": "Michal Zalewski’s illustrated electronics book, enthusiastically recommended for engaging circuit-design teaching.",
+      "why_included": "An unambiguous reading recommendation with a verified publisher link.",
+      "evidence": "A commenter calls the book an exceptionally engaging electronics read and urges readers to thank its author.",
+      "evidence_sources": [{"comment_id": "50519442", "comment_url": "https://news.ycombinator.com/item?id=50519442", "author": "laxisOp", "excerpt": "I cant recommend any better and engaging electronics book than this .", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "A Seventh Man",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.versobooks.com/products/2167-a-seventh-man",
+      "hn_url": "https://news.ycombinator.com/item?id=50462816",
+      "source_story_title": "The Lasting Influence of John Berger",
+      "summary": "John Berger and Jean Mohr’s illustrated exploration of migrant workers’ lives in Europe.",
+      "why_included": "A concrete book singled out as Berger's best work, not merely a mention of the author.",
+      "evidence": "A commenter ranks A Seventh Man as Berger's best work and quotes its argument about understanding others' constrained choices.",
+      "evidence_sources": [{"comment_id": "50517107", "comment_url": "https://news.ycombinator.com/item?id=50517107", "author": "zero_k", "excerpt": "John Berger is amazing, and his \"Seventh Man\" (title based on an amazing Hungarian poem) is IMO his best work", "kind": "recommendation", "parent_comment_id": null}]
+    },
+    {
+      "name": "The Continuity of Splines",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+      "hn_url": "https://news.ycombinator.com/item?id=50515151",
+      "source_story_title": "Squircles",
+      "summary": "Freya Holmér’s visual explanation of splines and the mathematics behind smooth curves.",
+      "why_included": "A directly recommended learning resource from a discussion of geometric smoothness.",
+      "evidence": "A commenter calls the linked spline-continuity video amazing.",
+      "evidence_sources": [{"comment_id": "50526028", "comment_url": "https://news.ycombinator.com/item?id=50526028", "author": "ivanjermakov", "excerpt": "Amazing video on spline continuity:", "kind": "recommendation", "parent_comment_id": "50523972"}]
+    }
+  ]
+}

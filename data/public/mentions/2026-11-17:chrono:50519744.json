@@ -1,0 +1,32 @@
+{
+  "evidence": "A user calls Chrono the best datetime library they have used; its original author acknowledges shortcomings in the API.",
+  "evidence_sources": [
+    {
+      "author": "the__alchemist",
+      "comment_id": "50523762",
+      "comment_url": "https://news.ycombinator.com/item?id=50523762",
+      "context": "first_hand_use",
+      "excerpt": "Chrono is by far, the best datetime library I've used.",
+      "kind": "recommendation",
+      "parent_comment_id": "50522354"
+    },
+    {
+      "author": "lifthrasiir",
+      "comment_id": "50522354",
+      "comment_url": "https://news.ycombinator.com/item?id=50522354",
+      "context": "author_or_maintainer",
+      "excerpt": "that's why the API is not very good, despite my best efforts",
+      "kind": "caveat",
+      "parent_comment_id": "50521423"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50519744",
+  "id": "2026-11-17:chrono:50519744",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "chrono",
+  "rank": 2,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50519744",
+  "source_story_title": "Jiff 1.0: A datetime library for Rust"
+}

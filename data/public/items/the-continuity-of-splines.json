@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "the-continuity-of-splines",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:the-continuity-of-splines:50515151",
+  "mention_ids": [
+    "2026-11-17:the-continuity-of-splines:50515151"
+  ],
+  "name": "The Continuity of Splines",
+  "slug": "the-continuity-of-splines",
+  "summary": "Freya Holm\u00e9r\u2019s visual explanation of splines and the mathematics behind smooth curves.",
+  "thing_url": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+  "times_seen": 1,
+  "why_included": "A directly recommended learning resource from a discussion of geometric smoothness."
+}

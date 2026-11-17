@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "vsbhda",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:vsbhda:50515182",
+  "mention_ids": [
+    "2026-11-17:vsbhda:50515182"
+  ],
+  "name": "VSBHDA",
+  "slug": "vsbhda",
+  "summary": "Sound Blaster emulation for DOS, recommended for retro-computing sound-driver needs.",
+  "thing_url": "https://github.com/Baron-von-Riedesel/VSBHDA",
+  "times_seen": 1,
+  "why_included": "A specific preferred driver surfaced inside an unrelated optical-disc driver thread."
+}

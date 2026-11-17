@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:17:20.024005+01:00",
+  "headline": "9 interesting things surfaced from HN on 2026-11-17",
+  "id": "2026-11-17",
+  "mention_ids": [
+    "2026-11-17:django-paradedb:50484998",
+    "2026-11-17:chrono:50519744",
+    "2026-11-17:mini-nvim:50512231",
+    "2026-11-17:reterminal-e1004:50519354",
+    "2026-11-17:oos:50490159",
+    "2026-11-17:vsbhda:50515182",
+    "2026-11-17:the-secret-life-of-circuits:50514470",
+    "2026-11-17:a-seventh-man:50462816",
+    "2026-11-17:the-continuity-of-splines:50515151"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

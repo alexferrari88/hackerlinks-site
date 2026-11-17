@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "reterminal-e1004",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:reterminal-e1004:50519354",
+  "mention_ids": [
+    "2026-11-17:reterminal-e1004:50519354"
+  ],
+  "name": "reTerminal E1004",
+  "slug": "reterminal-e1004",
+  "summary": "Framed 13.3-inch color e-paper display endorsed as a battery-powered family calendar.",
+  "thing_url": "https://www.seeedstudio.com/reTerminal-E1004-p-6692.html",
+  "times_seen": 1,
+  "why_included": "A practical family-dashboard recommendation with first-hand battery-life evidence."
+}

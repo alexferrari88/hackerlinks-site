@@ -1,0 +1,23 @@
+{
+  "evidence": "An owner uses the E1004 for a family calendar, praises the displays and reports one to two months of battery life.",
+  "evidence_sources": [
+    {
+      "author": "kimos",
+      "comment_id": "50521861",
+      "comment_url": "https://news.ycombinator.com/item?id=50521861",
+      "context": "first_hand_use",
+      "excerpt": "I\u2019ve been using a couple of the ReTerminal displays and they\u2019re great. I use the e1004 13\u201d for a family calendar/schedule board. It comes framed and the battery lasts a month or two.",
+      "kind": "recommendation",
+      "parent_comment_id": "50521748"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50519354",
+  "id": "2026-11-17:reterminal-e1004:50519354",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "reterminal-e1004",
+  "rank": 4,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50519354",
+  "source_story_title": "Frame \u2013 31.5\" color ePaper display"
+}

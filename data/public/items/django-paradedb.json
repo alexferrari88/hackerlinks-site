@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "django-paradedb",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:django-paradedb:50484998",
+  "mention_ids": [
+    "2026-11-17:django-paradedb:50484998"
+  ],
+  "name": "django-paradedb",
+  "slug": "django-paradedb",
+  "summary": "Django integration bringing ranked, fuzzy and hybrid search to PostgreSQL QuerySets.",
+  "thing_url": "https://github.com/paradedb/django-paradedb",
+  "times_seen": 1,
+  "why_included": "Direct praise for keeping search inside the existing database and ORM."
+}

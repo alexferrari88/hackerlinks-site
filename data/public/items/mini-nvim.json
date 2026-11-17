@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "id": "mini-nvim",
+  "last_seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "latest_mention_id": "2026-11-17:mini-nvim:50512231",
+  "mention_ids": [
+    "2026-11-17:mini-nvim:50512231"
+  ],
+  "name": "mini.nvim",
+  "slug": "mini-nvim",
+  "summary": "Independent Neovim Lua modules you can pick individually rather than installing wholesale.",
+  "thing_url": "https://tangled.org/nvim-mini.org/mini.nvim",
+  "times_seen": 1,
+  "why_included": "An existing user explicitly endorses the modular pick-and-choose approach."
+}

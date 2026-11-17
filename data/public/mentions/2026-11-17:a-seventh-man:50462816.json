@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter ranks A Seventh Man as Berger's best work and quotes its argument about understanding others' constrained choices.",
+  "evidence_sources": [
+    {
+      "author": "zero_k",
+      "comment_id": "50517107",
+      "comment_url": "https://news.ycombinator.com/item?id=50517107",
+      "excerpt": "John Berger is amazing, and his \"Seventh Man\" (title based on an amazing Hungarian poem) is IMO his best work",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50462816",
+  "id": "2026-11-17:a-seventh-man:50462816",
+  "is_repeat": false,
+  "issue_id": "2026-11-17",
+  "item_id": "a-seventh-man",
+  "rank": 8,
+  "seen_at": "2026-11-17T05:17:20.024005+01:00",
+  "source_story_id": "50462816",
+  "source_story_title": "The Lasting Influence of John Berger"
+}
