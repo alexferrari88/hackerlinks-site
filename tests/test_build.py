@@ -14,15 +14,20 @@ FIXTURES = Path(__file__).parent / "fixtures"
 
 class BuildTests(unittest.TestCase):
     def test_npm_executable_falls_back_to_node_sibling_when_npm_missing_on_path(self) -> None:
-        with patch("hackerlinks.build.shutil.which") as mock_which:
-            mock_which.side_effect = lambda name: {
-                "npm": None,
-                "node": "/home/alex/.nvm/versions/node/v25.6.0/bin/node",
-            }.get(name)
+        with tempfile.TemporaryDirectory() as tmpdir:
+            bin_dir = Path(tmpdir) / "bin"
+            bin_dir.mkdir()
+            (bin_dir / "node").write_text("node")
+            (bin_dir / "npm").write_text("npm")
+            with patch("hackerlinks.build.shutil.which") as mock_which:
+                mock_which.side_effect = lambda name: {
+                    "npm": None,
+                    "node": str(bin_dir / "node"),
+                }.get(name)
 
-            resolved = build_module._npm_executable()
+                resolved = build_module._npm_executable()
 
-        self.assertEqual(resolved, "/home/alex/.nvm/versions/node/v25.6.0/bin/npm")
+            self.assertEqual(resolved, str(bin_dir / "npm"))
 
     def test_npm_executable_resolves_real_node_path_when_node_on_path_is_symlink(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
