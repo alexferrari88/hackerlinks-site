@@ -12697,6 +12697,60 @@
       "first_reported_at": "2026-11-17T05:17:20.024005+01:00",
       "last_reported_at": "2026-11-17T05:17:20.024005+01:00",
       "times_reported": 1
+    },
+    {
+      "name": "tinyre",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "AFL++",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "kdb+",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gamma FAQ — Charles Poynton",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Physics Explained — measuring the speed of light",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Destin Sandlin's American-made grill scrubber video",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "What comes after lithium-ion batteries?",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The 2000 SSH1 exploit history — Phrack",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lightspeed — John C. H. Spence",
+      "first_reported_at": "2026-11-18T05:18:02+01:00",
+      "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
     }
   ]
 }

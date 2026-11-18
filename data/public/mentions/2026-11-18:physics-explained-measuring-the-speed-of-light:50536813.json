@@ -1,0 +1,22 @@
+{
+  "evidence": "ibizaman recommends a Physics Explained video as a better explanation of the discovery.",
+  "evidence_sources": [
+    {
+      "author": "ibizaman",
+      "comment_id": "50538319",
+      "comment_url": "https://news.ycombinator.com/item?id=50538319",
+      "excerpt": "There was a much better explained video from Physics Explained about this",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50536813",
+  "id": "2026-11-18:physics-explained-measuring-the-speed-of-light:50536813",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "physics-explained-measuring-the-speed-of-light",
+  "rank": 5,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50536813",
+  "source_story_title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed"
+}

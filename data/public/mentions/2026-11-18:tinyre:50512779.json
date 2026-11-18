@@ -1,0 +1,22 @@
+{
+  "evidence": "netbioserror says tinyre fills their need for a small regex engine and should be the default.",
+  "evidence_sources": [
+    {
+      "author": "netbioserror",
+      "comment_id": "50537258",
+      "comment_url": "https://news.ycombinator.com/item?id=50537258",
+      "excerpt": "the tinyre package fills this need, and I think it should be the default",
+      "kind": "recommendation",
+      "parent_comment_id": "50536531"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50512779",
+  "id": "2026-11-18:tinyre:50512779",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "tinyre",
+  "rank": 1,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50512779",
+  "source_story_title": "Nimony: A New Compiler for Nim"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "clarkmoody calls Lightspeed fascinating and highly recommends it to history-of-science readers.",
+  "evidence_sources": [
+    {
+      "author": "clarkmoody",
+      "comment_id": "50540254",
+      "comment_url": "https://news.ycombinator.com/item?id=50540254",
+      "excerpt": "Lightspeed[0] is a fascinating book that documents the scientists and experiments that built up to the modern measurement of the speed of light.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50536813",
+  "id": "2026-11-18:lightspeed-john-c-h-spence:50536813",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "lightspeed-john-c-h-spence",
+  "rank": 9,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50536813",
+  "source_story_title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed"
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": "thelastgallon points to the video as an example of cool visualizations in a discussion of molecular geometry.",
+  "evidence_sources": [
+    {
+      "author": "thelastgallon",
+      "comment_id": "50527090",
+      "comment_url": "https://news.ycombinator.com/item?id=50527090",
+      "excerpt": "For example, this video shows cool visualizations: What comes after lithium-ion batteries?",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50522643",
+  "id": "2026-11-18:what-comes-after-lithium-ion-batteries:50522643",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "what-comes-after-lithium-ion-batteries",
+  "rank": 7,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50522643",
+  "source_story_title": "Chemistry is Actually Geometry"
+}

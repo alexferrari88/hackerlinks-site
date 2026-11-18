@@ -1,0 +1,22 @@
+{
+  "evidence": "ronfriedhaber calls kdb+ their preferred columnar implementation and praises its simplicity and transparent data layout.",
+  "evidence_sources": [
+    {
+      "author": "ronfriedhaber",
+      "comment_id": "50531979",
+      "comment_url": "https://news.ycombinator.com/item?id=50531979",
+      "excerpt": "KDB+ is the best implementation of a columnar DB in my opinion. Simple C, and one can understand how the data is stored down to the DRAM cells.",
+      "kind": "recommendation",
+      "parent_comment_id": "50530608"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50470523",
+  "id": "2026-11-18:kdb:50470523",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "kdb",
+  "rank": 3,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50470523",
+  "source_story_title": "Rows vs. Columns: How different are they, really?"
+}

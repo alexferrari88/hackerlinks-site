@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-18T05:18:02+01:00",
+  "id": "tinyre",
+  "last_seen_at": "2026-11-18T05:18:02+01:00",
+  "latest_mention_id": "2026-11-18:tinyre:50512779",
+  "mention_ids": [
+    "2026-11-18:tinyre:50512779"
+  ],
+  "name": "tinyre",
+  "slug": "tinyre",
+  "summary": "Compact regex library for Nim, recommended as an alternative to the PCRE-dependent default.",
+  "thing_url": "https://github.com/khchen/tinyre",
+  "times_seen": 1,
+  "why_included": "An explicit package recommendation buried in a compiler discussion."
+}

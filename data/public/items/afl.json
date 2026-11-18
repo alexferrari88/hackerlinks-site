@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-18T05:18:02+01:00",
+  "id": "afl",
+  "last_seen_at": "2026-11-18T05:18:02+01:00",
+  "latest_mention_id": "2026-11-18:afl:50538240",
+  "mention_ids": [
+    "2026-11-18:afl:50538240"
+  ],
+  "name": "AFL++",
+  "slug": "afl",
+  "summary": "Fuzzing toolkit credited with finding kernel bugs while an LLM handled glue code.",
+  "thing_url": "https://github.com/AFLplusplus/AFLplusplus",
+  "times_seen": 1,
+  "why_included": "A concrete first-hand account of useful AI-assisted security work."
+}

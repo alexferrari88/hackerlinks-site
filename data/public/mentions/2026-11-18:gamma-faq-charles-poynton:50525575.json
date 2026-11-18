@@ -1,0 +1,22 @@
+{
+  "evidence": "stateoff recommends Poynton's site and books as good reading on the topic, linking the Gamma FAQ specifically.",
+  "evidence_sources": [
+    {
+      "author": "stateoff",
+      "comment_id": "50529882",
+      "comment_url": "https://news.ycombinator.com/item?id=50529882",
+      "excerpt": "Good read on the topic is Charles Poynton site and books, e.g. https://www.poynton.ca/pdf/GammaFAQ.pdf",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50525575",
+  "id": "2026-11-18:gamma-faq-charles-poynton:50525575",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "gamma-faq-charles-poynton",
+  "rank": 4,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50525575",
+  "source_story_title": "Why 3dfx 1 cards had such a washed out color output?"
+}

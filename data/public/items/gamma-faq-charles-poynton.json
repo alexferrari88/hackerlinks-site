@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-18T05:18:02+01:00",
+  "id": "gamma-faq-charles-poynton",
+  "last_seen_at": "2026-11-18T05:18:02+01:00",
+  "latest_mention_id": "2026-11-18:gamma-faq-charles-poynton:50525575",
+  "mention_ids": [
+    "2026-11-18:gamma-faq-charles-poynton:50525575"
+  ],
+  "name": "Gamma FAQ \u2014 Charles Poynton",
+  "slug": "gamma-faq-charles-poynton",
+  "summary": "Technical gamma FAQ recommended for understanding display brightness and washed-out graphics.",
+  "thing_url": "https://www.poynton.ca/pdf/GammaFAQ.pdf",
+  "times_seen": 1,
+  "why_included": "A directly recommended reference that turns retro-GPU nostalgia into useful reading."
+}

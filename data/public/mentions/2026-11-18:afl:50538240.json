@@ -1,0 +1,23 @@
+{
+  "evidence": "eru reports discovering Linux kernel problems and credits AFL++ with the substantive fuzzing work, while Kimi wrote glue code.",
+  "evidence_sources": [
+    {
+      "author": "eru",
+      "comment_id": "50539972",
+      "comment_url": "https://news.ycombinator.com/item?id=50539972",
+      "context": "first_hand_use",
+      "excerpt": "I used Kimi to drive the fuzzer. The model didn't have to do anything smart, just do the tedious work of writing the glue code to make the fuzzing work. AFL++ did the 'smart' parts, and I had the idea to kick it off and oversaw the patches.",
+      "kind": "recommendation",
+      "parent_comment_id": "50539855"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50538240",
+  "id": "2026-11-18:afl:50538240",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "afl",
+  "rank": 2,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50538240",
+  "source_story_title": "Java4Shell: RCE in OpenJDK when processing Base64"
+}

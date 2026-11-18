@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T05:18:02+01:00",
+  "headline": "9 interesting things surfaced from HN on 2026-11-18",
+  "id": "2026-11-18",
+  "mention_ids": [
+    "2026-11-18:tinyre:50512779",
+    "2026-11-18:afl:50538240",
+    "2026-11-18:kdb:50470523",
+    "2026-11-18:gamma-faq-charles-poynton:50525575",
+    "2026-11-18:physics-explained-measuring-the-speed-of-light:50536813",
+    "2026-11-18:destin-sandlin-s-american-made-grill-scrubber-video:50535208",
+    "2026-11-18:what-comes-after-lithium-ion-batteries:50522643",
+    "2026-11-18:the-2000-ssh1-exploit-history-phrack:50535992",
+    "2026-11-18:lightspeed-john-c-h-spence:50536813"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

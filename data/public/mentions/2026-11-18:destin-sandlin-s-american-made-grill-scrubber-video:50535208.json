@@ -1,0 +1,22 @@
+{
+  "evidence": "pj_mukh says they especially loved Sandlin's grill-scrubber manufacturing attempt and found it illuminating.",
+  "evidence_sources": [
+    {
+      "author": "pj_mukh",
+      "comment_id": "50539495",
+      "comment_url": "https://news.ycombinator.com/item?id=50539495",
+      "excerpt": "I especially loved Destin Sandlin's attempt at making a simple grill scrubber in America:",
+      "kind": "recommendation",
+      "parent_comment_id": "50537914"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50535208",
+  "id": "2026-11-18:destin-sandlin-s-american-made-grill-scrubber-video:50535208",
+  "is_repeat": false,
+  "issue_id": "2026-11-18",
+  "item_id": "destin-sandlin-s-american-made-grill-scrubber-video",
+  "rank": 6,
+  "seen_at": "2026-11-18T05:18:02+01:00",
+  "source_story_id": "50535208",
+  "source_story_title": "Who Builds the Machines That Build the Machines?"
+}
