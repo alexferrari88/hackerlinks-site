@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "voyager-1-interactive-teardown",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:voyager-1-interactive-teardown:50548161",
+  "mention_ids": [
+    "2026-11-19:voyager-1-interactive-teardown:50548161"
+  ],
+  "name": "Voyager 1 Interactive Teardown",
+  "slug": "voyager-1-interactive-teardown",
+  "summary": "An interactive teardown of Voyager 1, from the spacecraft down to a memory chip.",
+  "thing_url": "https://rshekhar.com/voyager/",
+  "times_seen": 1,
+  "why_included": "The interactive format makes spacecraft architecture explorable at component level."
+}

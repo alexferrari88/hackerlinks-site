@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "lessons-in-3d-jonathan-t-barron",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:lessons-in-3d-jonathan-t-barron:50550415",
+  "mention_ids": [
+    "2026-11-19:lessons-in-3d-jonathan-t-barron:50550415"
+  ],
+  "name": "Lessons in 3D \u2014 Jonathan T. Barron",
+  "slug": "lessons-in-3d-jonathan-t-barron",
+  "summary": "A CVPR talk on how far the Bitter Lesson applies to 3D computer vision.",
+  "thing_url": "https://www.youtube.com/watch?v=1J2iN6I0gCQ",
+  "times_seen": 1,
+  "why_included": "A researcher-led talk offers technical context beyond the product launch."
+}

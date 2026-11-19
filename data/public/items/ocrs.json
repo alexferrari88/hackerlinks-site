@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "ocrs",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:ocrs:50539610",
+  "mention_ids": [
+    "2026-11-19:ocrs:50539610"
+  ],
+  "name": "Ocrs",
+  "slug": "ocrs",
+  "summary": "Rust library and command-line tool for extracting text from images.",
+  "thing_url": "https://github.com/robertknight/ocrs",
+  "times_seen": 1,
+  "why_included": "A real mobile OCR workload makes the recommendation more useful than a benchmark alone."
+}

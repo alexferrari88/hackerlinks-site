@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reported buying many classical MP3s from Hyperion at a decent price and without problems.",
+  "evidence_sources": [
+    {
+      "author": "bemtevi",
+      "comment_id": "50552818",
+      "comment_url": "https://news.ycombinator.com/item?id=50552818",
+      "context": "first_hand_use",
+      "excerpt": "Hyperion does it for music. I've bought lots of MP3s there of classical music without any problems and it's a decent price.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50545958",
+  "id": "2026-11-19:hyperion-records:50545958",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "hyperion-records",
+  "rank": 8,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50545958",
+  "source_story_title": "DNS resolvers are the wrong place to fight piracy"
+}

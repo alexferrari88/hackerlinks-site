@@ -10943,8 +10943,8 @@
     {
       "name": "Zulip",
       "first_reported_at": "2026-05-15T21:17:01Z",
-      "last_reported_at": "2026-05-15T21:17:01Z",
-      "times_reported": 1
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 2
     },
     {
       "name": "Qwen Image 2.1",
@@ -12750,6 +12750,54 @@
       "name": "Lightspeed — John C. H. Spence",
       "first_reported_at": "2026-11-18T05:18:02+01:00",
       "last_reported_at": "2026-11-18T05:18:02+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Ocrs",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "A86",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Patchwork",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Who Is Fourier? A Mathematical Adventure",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Voyager 1 Interactive Teardown",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Lessons in 3D — Jonathan T. Barron",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Hyperion Records",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Type Fighter 2",
+      "first_reported_at": "2026-11-19T05:17:13+01:00",
+      "last_reported_at": "2026-11-19T05:17:13+01:00",
       "times_reported": 1
     }
   ]

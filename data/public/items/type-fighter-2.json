@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "type-fighter-2",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:type-fighter-2:50544821",
+  "mention_ids": [
+    "2026-11-19:type-fighter-2:50544821"
+  ],
+  "name": "Type Fighter 2",
+  "slug": "type-fighter-2",
+  "summary": "A browser game for learning touch typing through letter drills and word levels.",
+  "thing_url": "https://typefighter2.com/",
+  "times_seen": 1,
+  "why_included": "A self-described hunt-and-peck typist enjoyed it and saw a path to learning."
+}

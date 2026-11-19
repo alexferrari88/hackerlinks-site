@@ -1,0 +1,32 @@
+{
+  "evidence": "One commenter praised Zulip's design while using it for company communications; another preferred its quieter, forum-like conversations to Slack but found the interface less polished than it could be.",
+  "evidence_sources": [
+    {
+      "author": "lexx",
+      "comment_id": "50554430",
+      "comment_url": "https://news.ycombinator.com/item?id=50554430",
+      "context": "production_use",
+      "excerpt": "Zulip is incredible. My company uses it for comms. I love the design.",
+      "kind": "recommendation",
+      "parent_comment_id": "50548737"
+    },
+    {
+      "author": "l9o",
+      "comment_id": "50549452",
+      "comment_url": "https://news.ycombinator.com/item?id=50549452",
+      "context": "first_hand_use",
+      "excerpt": "Overall it's a nice experience and I like how communication is more asynchronous like forums and not as noisy as something like Slack. The UI could be a bit more polished, but it's good enough.",
+      "kind": "recommendation",
+      "parent_comment_id": "50548737"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50547980",
+  "id": "2026-11-19:zulip:50547980",
+  "is_repeat": true,
+  "issue_id": "2026-11-19",
+  "item_id": "zulip",
+  "rank": 3,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50547980",
+  "source_story_title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365"
+}

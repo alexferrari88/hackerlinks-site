@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended Barron's video as a good resource in the Genie discussion.",
+  "evidence_sources": [
+    {
+      "author": "akozak",
+      "comment_id": "50551567",
+      "comment_url": "https://news.ycombinator.com/item?id=50551567",
+      "excerpt": "There is a good video about this topic from a Google researcher here:",
+      "kind": "recommendation",
+      "parent_comment_id": "50551132"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50550415",
+  "id": "2026-11-19:lessons-in-3d-jonathan-t-barron:50550415",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "lessons-in-3d-jonathan-t-barron",
+  "rank": 7,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50550415",
+  "source_story_title": "Genie 4 is now available"
+}

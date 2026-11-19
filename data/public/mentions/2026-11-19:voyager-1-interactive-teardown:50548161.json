@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter praised the teardown and said they learned new things from it.",
+  "evidence_sources": [
+    {
+      "author": "iJohnDoe",
+      "comment_id": "50551042",
+      "comment_url": "https://news.ycombinator.com/item?id=50551042",
+      "context": "first_hand_use",
+      "excerpt": "Really amazing! This is cool and learned some new things.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50548161",
+  "id": "2026-11-19:voyager-1-interactive-teardown:50548161",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "voyager-1-interactive-teardown",
+  "rank": 6,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50548161",
+  "source_story_title": "Show HN: Take Voyager 1 apart, down to a single memory chip"
+}

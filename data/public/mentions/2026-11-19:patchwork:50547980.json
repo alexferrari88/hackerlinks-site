@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praised Patchwork's UX as unusually inventive but warned that the research prototype lacked permission management.",
+  "evidence_sources": [
+    {
+      "author": "iFreilicht",
+      "comment_id": "50552664",
+      "comment_url": "https://news.ycombinator.com/item?id=50552664",
+      "excerpt": "Patchwork is so awesome! It feels to me like it solves so many problems people aren't even aware of, it's one of the most innovative and important projects in terms of UX I've seen in years. But it's research-grade and the entire security story is basically non-existent right now; there's no permission management at all.",
+      "kind": "recommendation",
+      "parent_comment_id": "50549733"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50547980",
+  "id": "2026-11-19:patchwork:50547980",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "patchwork",
+  "rank": 4,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50547980",
+  "source_story_title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365"
+}

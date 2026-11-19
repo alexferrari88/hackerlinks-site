@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who couldn't touch-type enjoyed the game and liked practicing which finger goes with each home-row key.",
+  "evidence_sources": [
+    {
+      "author": "butlike",
+      "comment_id": "50549763",
+      "comment_url": "https://news.ycombinator.com/item?id=50549763",
+      "context": "first_hand_use",
+      "excerpt": "I'm not a touch typer and I enjoyed the game. I was literally thinking to myself 'maybe I could finally learn touch-typing with this.\" The random strings didn't bother me. I liked that I was getting used to the 'asdf' 'jkl;' based on which finger it was on.",
+      "kind": "recommendation",
+      "parent_comment_id": "50548066"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50544821",
+  "id": "2026-11-19:type-fighter-2:50544821",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "type-fighter-2",
+  "rank": 9,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50544821",
+  "source_story_title": "Show HN: Type Fighter 2"
+}

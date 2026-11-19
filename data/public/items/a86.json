@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "a86",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:a86:50546967",
+  "mention_ids": [
+    "2026-11-19:a86:50546967"
+  ],
+  "name": "A86",
+  "slug": "a86",
+  "summary": "A DOS-era x86 assembler that can produce runnable COM files directly.",
+  "thing_url": "http://www.eji.com/a86",
+  "times_seen": 1,
+  "why_included": "The original assembler is still downloadable from its author's site."
+}

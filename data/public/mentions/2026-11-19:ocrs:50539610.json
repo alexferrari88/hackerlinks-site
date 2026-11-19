@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter used the library to read device serial numbers on a phone and found it responsive and faster than tesseractjs in a web worker in their setup.",
+  "evidence_sources": [
+    {
+      "author": "robjam",
+      "comment_id": "50544082",
+      "comment_url": "https://news.ycombinator.com/item?id=50544082",
+      "context": "first_hand_use",
+      "excerpt": "I've used your library ocr to read serial numbers on an IoT device on a mobile phone. It was really responsive and faster than tesseractjs in a web worker.",
+      "kind": "recommendation",
+      "parent_comment_id": "50543994"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50539610",
+  "id": "2026-11-19:ocrs:50539610",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "ocrs",
+  "rank": 1,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50539610",
+  "source_story_title": "Microsoft's ONNX Runtime has disappeared from GitHub"
+}

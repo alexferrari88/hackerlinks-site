@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T05:17:13+01:00",
+  "headline": "9 interesting things surfaced from HN on 2026-11-19",
+  "id": "2026-11-19",
+  "mention_ids": [
+    "2026-11-19:ocrs:50539610",
+    "2026-11-19:a86:50546967",
+    "2026-11-19:zulip:50547980",
+    "2026-11-19:patchwork:50547980",
+    "2026-11-19:who-is-fourier-a-mathematical-adventure:50546922",
+    "2026-11-19:voyager-1-interactive-teardown:50548161",
+    "2026-11-19:lessons-in-3d-jonathan-t-barron:50550415",
+    "2026-11-19:hyperion-records:50545958",
+    "2026-11-19:type-fighter-2:50544821"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

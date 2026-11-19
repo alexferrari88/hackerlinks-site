@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "patchwork",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:patchwork:50547980",
+  "mention_ids": [
+    "2026-11-19:patchwork:50547980"
+  ],
+  "name": "Patchwork",
+  "slug": "patchwork",
+  "summary": "Ink & Switch's experimental workspace brings branching to writing and collaboration.",
+  "thing_url": "https://www.inkandswitch.com/project/patchwork",
+  "times_seen": 1,
+  "why_included": "A research prototype worth seeing for its interface ideas, not deploying as a team workspace."
+}

@@ -1,0 +1,32 @@
+{
+  "evidence": "One reader called its presentation of Fourier series the best they'd encountered; both commenters said they bought the print edition.",
+  "evidence_sources": [
+    {
+      "author": "stuxnet79",
+      "comment_id": "50549228",
+      "comment_url": "https://news.ycombinator.com/item?id=50549228",
+      "context": "first_hand_use",
+      "excerpt": "I'm not a younger learner but I found the presentation of Fourier Series in this book to be the best that I've encountered so far. I loved reading this so much I bought a physical copy.",
+      "kind": "recommendation",
+      "parent_comment_id": "50548523"
+    },
+    {
+      "author": "j9feng",
+      "comment_id": "50554602",
+      "comment_url": "https://news.ycombinator.com/item?id=50554602",
+      "context": "first_hand_use",
+      "excerpt": "Same, I bought the physical copy too. It\u2019s the best!",
+      "kind": "recommendation",
+      "parent_comment_id": "50549228"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50546922",
+  "id": "2026-11-19:who-is-fourier-a-mathematical-adventure:50546922",
+  "is_repeat": false,
+  "issue_id": "2026-11-19",
+  "item_id": "who-is-fourier-a-mathematical-adventure",
+  "rank": 5,
+  "seen_at": "2026-11-19T05:17:13+01:00",
+  "source_story_id": "50546922",
+  "source_story_title": "A Primer on Fourier Series (2025)"
+}

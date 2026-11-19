@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-19T05:17:13+01:00",
+  "id": "hyperion-records",
+  "last_seen_at": "2026-11-19T05:17:13+01:00",
+  "latest_mention_id": "2026-11-19:hyperion-records:50545958",
+  "mention_ids": [
+    "2026-11-19:hyperion-records:50545958"
+  ],
+  "name": "Hyperion Records",
+  "slug": "hyperion-records",
+  "summary": "A classical record label selling CDs, MP3s, and lossless downloads directly.",
+  "thing_url": "https://www.hyperion-records.co.uk/",
+  "times_seen": 1,
+  "why_included": "A repeat buyer vouched for the price and the download experience."
+}

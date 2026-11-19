@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "run_date": "2026-11-19",
+  "generated_at": "2026-11-19T05:17:13+01:00",
+  "summary": "Nine HN comment recommendations, from Rust OCR and a DOS assembler to an interactive Voyager teardown.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-19.json",
+    "sha256": "423686554b0a83ae1db755b6174976c026dbce5364cac64e6430f9e03c41a23c",
+    "bytes": 3319121,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 5586,
+    "fetched_item_count": 5616,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 stories processed; 5,586 comments | history + run artifact updated",
+  "items": [
+    {
+      "name": "Ocrs",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://github.com/robertknight/ocrs",
+      "hn_url": "https://news.ycombinator.com/item?id=50539610",
+      "source_story_title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "summary": "Rust library and command-line tool for extracting text from images.",
+      "why_included": "A real mobile OCR workload makes the recommendation more useful than a benchmark alone.",
+      "evidence": "A commenter used the library to read device serial numbers on a phone and found it responsive and faster than tesseractjs in a web worker in their setup.",
+      "evidence_sources": [
+        {"comment_id": "50544082", "comment_url": "https://news.ycombinator.com/item?id=50544082", "author": "robjam", "excerpt": "I've used your library ocr to read serial numbers on an IoT device on a mobile phone. It was really responsive and faster than tesseractjs in a web worker.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50543994"}
+      ]
+    },
+    {
+      "name": "A86",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "http://www.eji.com/a86",
+      "hn_url": "https://news.ycombinator.com/item?id=50546967",
+      "source_story_title": "The x86 CPU: From 4004 to 486",
+      "summary": "A DOS-era x86 assembler that can produce runnable COM files directly.",
+      "why_included": "The original assembler is still downloadable from its author's site.",
+      "evidence": "A commenter who used A86 remembered it fondly as a great little assembler.",
+      "evidence_sources": [
+        {"comment_id": "50552648", "comment_url": "https://news.ycombinator.com/item?id=50552648", "author": "bananaboy", "excerpt": "I used A86! That was a great little assembler!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50551978"}
+      ]
+    },
+    {
+      "name": "Zulip",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://zulip.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50547980",
+      "source_story_title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "summary": "Open-source team chat that organizes channel traffic into named topics.",
+      "why_included": "Workplace and open-source users explain why topic-based chat is worth revisiting.",
+      "evidence": "One commenter praised Zulip's design while using it for company communications; another preferred its quieter, forum-like conversations to Slack but found the interface less polished than it could be.",
+      "evidence_sources": [
+        {"comment_id": "50554430", "comment_url": "https://news.ycombinator.com/item?id=50554430", "author": "lexx", "excerpt": "Zulip is incredible. My company uses it for comms. I love the design.", "kind": "recommendation", "context": "production_use", "parent_comment_id": "50548737"},
+        {"comment_id": "50549452", "comment_url": "https://news.ycombinator.com/item?id=50549452", "author": "l9o", "excerpt": "Overall it's a nice experience and I like how communication is more asynchronous like forums and not as noisy as something like Slack. The UI could be a bit more polished, but it's good enough.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50548737"}
+      ]
+    },
+    {
+      "name": "Patchwork",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.inkandswitch.com/project/patchwork",
+      "hn_url": "https://news.ycombinator.com/item?id=50547980",
+      "source_story_title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "summary": "Ink & Switch's experimental workspace brings branching to writing and collaboration.",
+      "why_included": "A research prototype worth seeing for its interface ideas, not deploying as a team workspace.",
+      "evidence": "A commenter praised Patchwork's UX as unusually inventive but warned that the research prototype lacked permission management.",
+      "evidence_sources": [
+        {"comment_id": "50552664", "comment_url": "https://news.ycombinator.com/item?id=50552664", "author": "iFreilicht", "excerpt": "Patchwork is so awesome! It feels to me like it solves so many problems people aren't even aware of, it's one of the most innovative and important projects in terms of UX I've seen in years. But it's research-grade and the entire security story is basically non-existent right now; there's no permission management at all.", "kind": "recommendation", "parent_comment_id": "50549733"}
+      ]
+    },
+    {
+      "name": "Who Is Fourier? A Mathematical Adventure",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.lexlrf.org/store/p82/who-is-fourier.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50546922",
+      "source_story_title": "A Primer on Fourier Series (2025)",
+      "summary": "An approachable book that builds from basic trigonometry to the fast Fourier transform.",
+      "why_included": "Two readers liked the presentation enough to buy physical copies.",
+      "evidence": "One reader called its presentation of Fourier series the best they'd encountered; both commenters said they bought the print edition.",
+      "evidence_sources": [
+        {"comment_id": "50549228", "comment_url": "https://news.ycombinator.com/item?id=50549228", "author": "stuxnet79", "excerpt": "I'm not a younger learner but I found the presentation of Fourier Series in this book to be the best that I've encountered so far. I loved reading this so much I bought a physical copy.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50548523"},
+        {"comment_id": "50554602", "comment_url": "https://news.ycombinator.com/item?id=50554602", "author": "j9feng", "excerpt": "Same, I bought the physical copy too. It’s the best!", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50549228"}
+      ]
+    },
+    {
+      "name": "Voyager 1 Interactive Teardown",
+      "category": "Watch & Learn",
+      "thing_url": "https://rshekhar.com/voyager/",
+      "hn_url": "https://news.ycombinator.com/item?id=50548161",
+      "source_story_title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "summary": "An interactive teardown of Voyager 1, from the spacecraft down to a memory chip.",
+      "why_included": "The interactive format makes spacecraft architecture explorable at component level.",
+      "evidence": "A commenter praised the teardown and said they learned new things from it.",
+      "evidence_sources": [
+        {"comment_id": "50551042", "comment_url": "https://news.ycombinator.com/item?id=50551042", "author": "iJohnDoe", "excerpt": "Really amazing! This is cool and learned some new things.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Lessons in 3D — Jonathan T. Barron",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.youtube.com/watch?v=1J2iN6I0gCQ",
+      "hn_url": "https://news.ycombinator.com/item?id=50550415",
+      "source_story_title": "Genie 4 is now available",
+      "summary": "A CVPR talk on how far the Bitter Lesson applies to 3D computer vision.",
+      "why_included": "A researcher-led talk offers technical context beyond the product launch.",
+      "evidence": "A commenter recommended Barron's video as a good resource in the Genie discussion.",
+      "evidence_sources": [
+        {"comment_id": "50551567", "comment_url": "https://news.ycombinator.com/item?id=50551567", "author": "akozak", "excerpt": "There is a good video about this topic from a Google researcher here:", "kind": "recommendation", "parent_comment_id": "50551132"}
+      ]
+    },
+    {
+      "name": "Hyperion Records",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.hyperion-records.co.uk/",
+      "hn_url": "https://news.ycombinator.com/item?id=50545958",
+      "source_story_title": "DNS resolvers are the wrong place to fight piracy",
+      "summary": "A classical record label selling CDs, MP3s, and lossless downloads directly.",
+      "why_included": "A repeat buyer vouched for the price and the download experience.",
+      "evidence": "A commenter reported buying many classical MP3s from Hyperion at a decent price and without problems.",
+      "evidence_sources": [
+        {"comment_id": "50552818", "comment_url": "https://news.ycombinator.com/item?id=50552818", "author": "bemtevi", "excerpt": "Hyperion does it for music. I've bought lots of MP3s there of classical music without any problems and it's a decent price.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Type Fighter 2",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://typefighter2.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50544821",
+      "source_story_title": "Show HN: Type Fighter 2",
+      "summary": "A browser game for learning touch typing through letter drills and word levels.",
+      "why_included": "A self-described hunt-and-peck typist enjoyed it and saw a path to learning.",
+      "evidence": "A commenter who couldn't touch-type enjoyed the game and liked practicing which finger goes with each home-row key.",
+      "evidence_sources": [
+        {"comment_id": "50549763", "comment_url": "https://news.ycombinator.com/item?id=50549763", "author": "butlike", "excerpt": "I'm not a touch typer and I enjoyed the game. I was literally thinking to myself 'maybe I could finally learn touch-typing with this.\" The random strings didn't bother me. I liked that I was getting used to the 'asdf' 'jkl;' based on which finger it was on.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50548066"}
+      ]
+    }
+  ]
+}
