@@ -1,0 +1,31 @@
+{
+  "evidence": "In a discussion of compiling regex-driven parsers into embeddable code, a commenter said they had used Ragel extensively and liked it.",
+  "evidence_sources": [
+    {
+      "author": "wiml",
+      "comment_id": "50567868",
+      "comment_url": "https://news.ycombinator.com/item?id=50567868",
+      "context": "first_hand_use",
+      "excerpt": "In the past I've used Ragel extensively for this kind of thing - really a nice tool in the same space.",
+      "kind": "recommendation",
+      "parent_comment_id": "50556238"
+    },
+    {
+      "author": "Spivak",
+      "comment_id": "50556238",
+      "comment_url": "https://news.ycombinator.com/item?id=50556238",
+      "excerpt": "What you're describing is using a parser generator to take a regex and turn it into code you can embed into your project.",
+      "kind": "incidental",
+      "parent_comment_id": "50554702"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50554038",
+  "id": "2026-11-20:ragel:50554038",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "ragel",
+  "rank": 4,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50554038",
+  "source_story_title": "Multiple vulnerabilities in Regexp and String case conversion"
+}

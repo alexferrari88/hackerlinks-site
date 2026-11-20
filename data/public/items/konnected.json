@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "konnected",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:konnected:50519231",
+  "mention_ids": [
+    "2026-11-20:konnected:50519231"
+  ],
+  "name": "Konnected",
+  "slug": "konnected",
+  "summary": "Garage-door retrofit controllers that integrate with Home Assistant and can bridge into Apple Home.",
+  "thing_url": "https://konnected.io/collections/smart-garage-door-openers",
+  "times_seen": 1,
+  "why_included": "A first-hand report confirms the Home Assistant-to-Apple Home path on one opener."
+}

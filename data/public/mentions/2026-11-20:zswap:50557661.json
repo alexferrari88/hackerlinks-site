@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter who uses zswap on most of their systems said they generally find it beneficial.",
+  "evidence_sources": [
+    {
+      "author": "rustyhancock",
+      "comment_id": "50558816",
+      "comment_url": "https://news.ycombinator.com/item?id=50558816",
+      "context": "first_hand_use",
+      "excerpt": "I've used zswap on most of my systems and generally find it beneficial especially as (de)compression can be very fast these days.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50557661",
+  "id": "2026-11-20:zswap:50557661",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "zswap",
+  "rank": 5,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50557661",
+  "source_story_title": "Do not buy RAM, compress"
+}

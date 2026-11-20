@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter recommended the episode and highlighted its discussion of ad sellers\u2019 incentive to oversell effectiveness.",
+  "evidence_sources": [
+    {
+      "author": "hackthemack",
+      "comment_id": "50567784",
+      "comment_url": "https://news.ycombinator.com/item?id=50567784",
+      "excerpt": "It is worth checking out. Here is a relevant couple of quotes... HWANG: I think a second thing is, a little bit like in the subprime-mortgage crisis, you do have people who have very perverse incentives, I think, to push the effectiveness of online ads. That\u2019s the ad agencies, the ad platforms themselves, the people who run ad technology.",
+      "kind": "recommendation",
+      "parent_comment_id": "50566036"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50564159",
+  "id": "2026-11-20:does-advertising-actually-work-part-2-digital:50564159",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "does-advertising-actually-work-part-2-digital",
+  "rank": 10,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50564159",
+  "source_story_title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter used Konnected with a Chamberlain opener and said it worked well with Home Assistant and Apple Home bridging.",
+  "evidence_sources": [
+    {
+      "author": "philips",
+      "comment_id": "50561141",
+      "comment_url": "https://news.ycombinator.com/item?id=50561141",
+      "context": "first_hand_use",
+      "excerpt": "I have used https://konnected.io with my newish Chamberlin. It works great with HomeAssistant and bridging it into Apple Home.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50519231",
+  "id": "2026-11-20:konnected:50519231",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "konnected",
+  "rank": 7,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50519231",
+  "source_story_title": "Garage Door Spam"
+}

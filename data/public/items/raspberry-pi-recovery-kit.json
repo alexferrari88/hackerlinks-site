@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "raspberry-pi-recovery-kit",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:raspberry-pi-recovery-kit:50560822",
+  "mention_ids": [
+    "2026-11-20:raspberry-pi-recovery-kit:50560822"
+  ],
+  "name": "Raspberry Pi Recovery Kit",
+  "slug": "raspberry-pi-recovery-kit",
+  "summary": "Jay Doscher\u2019s DIY rugged Raspberry Pi computer for keeping references accessible offline.",
+  "thing_url": "https://www.doscher.com/work-recovery-kit/",
+  "times_seen": 1,
+  "why_included": "It's a documented build with a parts list for a tangible offline-computing project."
+}

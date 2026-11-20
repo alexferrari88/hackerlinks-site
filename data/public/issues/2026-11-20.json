@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T05:17:55+01:00",
+  "headline": "10 interesting things surfaced from HN on 2026-11-20",
+  "id": "2026-11-20",
+  "mention_ids": [
+    "2026-11-20:bookbinder-js:50559719",
+    "2026-11-20:open-source-ecology:50560822",
+    "2026-11-20:rector:50557870",
+    "2026-11-20:ragel:50554038",
+    "2026-11-20:zswap:50557661",
+    "2026-11-20:hcpbridgemqtt:50525260",
+    "2026-11-20:konnected:50519231",
+    "2026-11-20:raspberry-pi-recovery-kit:50560822",
+    "2026-11-20:lord-of-the-io-uring:50556533",
+    "2026-11-20:does-advertising-actually-work-part-2-digital:50564159"
+  ],
+  "summary": {
+    "items_surfaced": 10,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "lord-of-the-io-uring",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:lord-of-the-io-uring:50556533",
+  "mention_ids": [
+    "2026-11-20:lord-of-the-io-uring:50556533"
+  ],
+  "name": "Lord of the io_uring",
+  "slug": "lord-of-the-io-uring",
+  "summary": "Guide to asynchronous Linux I/O, from epoll fundamentals to services built with io_uring.",
+  "thing_url": "https://unixism.net/loti/index.html",
+  "times_seen": 1,
+  "why_included": "It teaches the earlier I/O model before introducing the newer interface."
+}

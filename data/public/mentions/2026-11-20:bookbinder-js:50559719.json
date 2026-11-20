@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter uses it regularly to print booklets for their kids and confirms it handles the single-sheet zine fold.",
+  "evidence_sources": [
+    {
+      "author": "drunkboxer",
+      "comment_id": "50568022",
+      "comment_url": "https://news.ycombinator.com/item?id=50568022",
+      "context": "first_hand_use",
+      "excerpt": "Bookbinder js is the best. I use it to print multi-page booklets for my kids often. It does cover this exact folding algorithm as well.",
+      "kind": "recommendation",
+      "parent_comment_id": "50562196"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50559719",
+  "id": "2026-11-20:bookbinder-js:50559719",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "bookbinder-js",
+  "rank": 1,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50559719",
+  "source_story_title": "Making 8-page foldable zines from a single A4 sheet in the browser"
+}

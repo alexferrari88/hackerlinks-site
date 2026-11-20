@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praised Doscher\u2019s portable Pi build and pointed readers back to its original 2019 appearance on HN.",
+  "evidence_sources": [
+    {
+      "author": "pugworthy",
+      "comment_id": "50564226",
+      "comment_url": "https://news.ycombinator.com/item?id=50564226",
+      "excerpt": "Jay Doscher has been building and evolving his Recovery Kit for a while. It's a portable RPi loaded with lots of useful content to load on it. Pretty neat build. First shared here in 2019...",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50560822",
+  "id": "2026-11-20:raspberry-pi-recovery-kit:50560822",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "raspberry-pi-recovery-kit",
+  "rank": 8,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50560822",
+  "source_story_title": "Everything you need to survive and rebuild society"
+}

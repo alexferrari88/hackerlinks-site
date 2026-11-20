@@ -1,0 +1,32 @@
+{
+  "evidence": "Commenters credited Rector with helping them move from PHP 7.4 to 8.3 and 8.4; one still needed manual fixes and reported one breakage.",
+  "evidence_sources": [
+    {
+      "author": "nticompass",
+      "comment_id": "50560412",
+      "comment_url": "https://news.ycombinator.com/item?id=50560412",
+      "context": "first_hand_use",
+      "excerpt": "Rector is great! It's what I used to help migrate from PHP 7.4 to 8.3. I did still have to manually fix things and there was one spot where Rector broke the code, but I don't know what I'd've done without it.",
+      "kind": "recommendation",
+      "parent_comment_id": "50560159"
+    },
+    {
+      "author": "asimovDev",
+      "comment_id": "50560159",
+      "comment_url": "https://news.ycombinator.com/item?id=50560159",
+      "context": "first_hand_use",
+      "excerpt": "Don't forget to use Rector[0] if you haven't already. Helped me tremendously when going 7.4 > 8.4",
+      "kind": "recommendation",
+      "parent_comment_id": "50559440"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50557870",
+  "id": "2026-11-20:rector:50557870",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "rector",
+  "rank": 3,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50557870",
+  "source_story_title": "What's New in PHP 8.6"
+}

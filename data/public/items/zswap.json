@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "zswap",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:zswap:50557661",
+  "mention_ids": [
+    "2026-11-20:zswap:50557661"
+  ],
+  "name": "zswap",
+  "slug": "zswap",
+  "summary": "Linux kernel feature that caches compressed swap pages in RAM to reduce disk I/O.",
+  "thing_url": "https://docs.kernel.org/admin-guide/mm/zswap.html",
+  "times_seen": 1,
+  "why_included": "It's a built-in Linux tuning option backed by a recommendation from someone running it on several systems."
+}

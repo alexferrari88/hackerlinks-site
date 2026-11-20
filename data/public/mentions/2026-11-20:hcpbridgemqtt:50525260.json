@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reported about a year of reliable use with their setup.",
+  "evidence_sources": [
+    {
+      "author": "blutack",
+      "comment_id": "50559313",
+      "comment_url": "https://news.ycombinator.com/item?id=50559313",
+      "context": "first_hand_use",
+      "excerpt": "I use this one: https://github.com/Gifford47/HCPBridgeMqtt and it's been rock solid for about a year now.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50525260",
+  "id": "2026-11-20:hcpbridgemqtt:50525260",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "hcpbridgemqtt",
+  "rank": 6,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50525260",
+  "source_story_title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline"
+}

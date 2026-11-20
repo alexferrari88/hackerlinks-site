@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "bookbinder-js",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:bookbinder-js:50559719",
+  "mention_ids": [
+    "2026-11-20:bookbinder-js:50559719"
+  ],
+  "name": "Bookbinder JS",
+  "slug": "bookbinder-js",
+  "summary": "Browser tool that rearranges PDF pages for printing foldable zines and booklets.",
+  "thing_url": "https://momijizukamori.github.io/bookbinder-js",
+  "times_seen": 1,
+  "why_included": "A recurring use case for home printing makes this more than a folding demo."
+}

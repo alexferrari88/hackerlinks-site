@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "run_date": "2026-11-20",
+  "generated_at": "2026-11-20T05:17:55+01:00",
+  "summary": "Ten HN comment recommendations, from browser-based booklet printing to local garage controls and a rugged Raspberry Pi build.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-20.json",
+    "sha256": "effdc68da17317e554e78ab899fc565c44cefab63c52e7f6e26cec80b94b5dab",
+    "bytes": 4497106,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 7330,
+    "fetched_item_count": 7360,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "10 items surfaced | 30/30 stories processed; 7,330 comments | history + run artifact updated",
+  "items": [
+    {
+      "name": "Bookbinder JS",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://momijizukamori.github.io/bookbinder-js",
+      "hn_url": "https://news.ycombinator.com/item?id=50559719",
+      "source_story_title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "summary": "Browser tool that rearranges PDF pages for printing foldable zines and booklets.",
+      "why_included": "A recurring use case for home printing makes this more than a folding demo.",
+      "evidence": "A commenter uses it regularly to print booklets for their kids and confirms it handles the single-sheet zine fold.",
+      "evidence_sources": [{"comment_id":"50568022","comment_url":"https://news.ycombinator.com/item?id=50568022","author":"drunkboxer","excerpt":"Bookbinder js is the best. I use it to print multi-page booklets for my kids often. It does cover this exact folding algorithm as well.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50562196"}]
+    },
+    {
+      "name": "Open Source Ecology",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://www.opensourceecology.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50560822",
+      "source_story_title": "Everything you need to survive and rebuild society",
+      "summary": "Open blueprints for building industrial machines and homes yourself.",
+      "why_included": "It takes open design beyond desktop projects and into community infrastructure.",
+      "evidence": "A commenter praised the project's ambition, pointing to homes and bulldozers as examples of the scale involved.",
+      "evidence_sources": [{"comment_id":"50561561","comment_url":"https://news.ycombinator.com/item?id=50561561","author":"jmathai","excerpt":"A related project is Open Source Ecology (terrible name), which aims to make the tools necessary to rebuild society accessible to everyone. Think houses and bulldozers, not hammers...impressive stuff.","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Rector",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://getrector.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50557870",
+      "source_story_title": "What's New in PHP 8.6",
+      "summary": "Automated PHP upgrades and refactoring; still review the changes before merging.",
+      "why_included": "Two independent reports give concrete examples of the legacy PHP upgrades it can help with.",
+      "evidence": "Commenters credited Rector with helping them move from PHP 7.4 to 8.3 and 8.4; one still needed manual fixes and reported one breakage.",
+      "evidence_sources": [{"comment_id":"50560412","comment_url":"https://news.ycombinator.com/item?id=50560412","author":"nticompass","excerpt":"Rector is great! It's what I used to help migrate from PHP 7.4 to 8.3. I did still have to manually fix things and there was one spot where Rector broke the code, but I don't know what I'd've done without it.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50560159"},{"comment_id":"50560159","comment_url":"https://news.ycombinator.com/item?id=50560159","author":"asimovDev","excerpt":"Don't forget to use Rector[0] if you haven't already. Helped me tremendously when going 7.4 > 8.4","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50559440"}]
+    },
+    {
+      "name": "Ragel",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://www.colm.net/open-source/ragel/",
+      "hn_url": "https://news.ycombinator.com/item?id=50554038",
+      "source_story_title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "summary": "State-machine compiler that turns regular expressions into embeddable parser code.",
+      "why_included": "It's a practical option when a parser needs named actions rather than just matching text.",
+      "evidence": "In a discussion of compiling regex-driven parsers into embeddable code, a commenter said they had used Ragel extensively and liked it.",
+      "evidence_sources": [{"comment_id":"50567868","comment_url":"https://news.ycombinator.com/item?id=50567868","author":"wiml","excerpt":"In the past I've used Ragel extensively for this kind of thing - really a nice tool in the same space.","kind":"recommendation","context":"first_hand_use","parent_comment_id":"50556238"},{"comment_id":"50556238","comment_url":"https://news.ycombinator.com/item?id=50556238","author":"Spivak","excerpt":"What you're describing is using a parser generator to take a regex and turn it into code you can embed into your project.","kind":"incidental","parent_comment_id":"50554702"}]
+    },
+    {
+      "name": "zswap",
+      "category": "Dev Tools & Workflows",
+      "thing_url": "https://docs.kernel.org/admin-guide/mm/zswap.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50557661",
+      "source_story_title": "Do not buy RAM, compress",
+      "summary": "Linux kernel feature that caches compressed swap pages in RAM to reduce disk I/O.",
+      "why_included": "It's a built-in Linux tuning option backed by a recommendation from someone running it on several systems.",
+      "evidence": "A commenter who uses zswap on most of their systems said they generally find it beneficial.",
+      "evidence_sources": [{"comment_id":"50558816","comment_url":"https://news.ycombinator.com/item?id=50558816","author":"rustyhancock","excerpt":"I've used zswap on most of my systems and generally find it beneficial especially as (de)compression can be very fast these days.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "HCPBridgeMqtt",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://github.com/Gifford47/HCPBridgeMqtt",
+      "hn_url": "https://news.ycombinator.com/item?id=50525260",
+      "source_story_title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "summary": "ESP32 bridge for controlling compatible Hörmann garage doors locally over MQTT.",
+      "why_included": "The recommendation comes from sustained use, not a quick bench test.",
+      "evidence": "A commenter reported about a year of reliable use with their setup.",
+      "evidence_sources": [{"comment_id":"50559313","comment_url":"https://news.ycombinator.com/item?id=50559313","author":"blutack","excerpt":"I use this one: https://github.com/Gifford47/HCPBridgeMqtt and it's been rock solid for about a year now.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Konnected",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://konnected.io/collections/smart-garage-door-openers",
+      "hn_url": "https://news.ycombinator.com/item?id=50519231",
+      "source_story_title": "Garage Door Spam",
+      "summary": "Garage-door retrofit controllers that integrate with Home Assistant and can bridge into Apple Home.",
+      "why_included": "A first-hand report confirms the Home Assistant-to-Apple Home path on one opener.",
+      "evidence": "A commenter used Konnected with a Chamberlain opener and said it worked well with Home Assistant and Apple Home bridging.",
+      "evidence_sources": [{"comment_id":"50561141","comment_url":"https://news.ycombinator.com/item?id=50561141","author":"philips","excerpt":"I have used https://konnected.io with my newish Chamberlin. It works great with HomeAssistant and bridging it into Apple Home.","kind":"recommendation","context":"first_hand_use","parent_comment_id":null}]
+    },
+    {
+      "name": "Raspberry Pi Recovery Kit",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://www.doscher.com/work-recovery-kit/",
+      "hn_url": "https://news.ycombinator.com/item?id=50560822",
+      "source_story_title": "Everything you need to survive and rebuild society",
+      "summary": "Jay Doscher’s DIY rugged Raspberry Pi computer for keeping references accessible offline.",
+      "why_included": "It's a documented build with a parts list for a tangible offline-computing project.",
+      "evidence": "A commenter praised Doscher’s portable Pi build and pointed readers back to its original 2019 appearance on HN.",
+      "evidence_sources": [{"comment_id":"50564226","comment_url":"https://news.ycombinator.com/item?id=50564226","author":"pugworthy","excerpt":"Jay Doscher has been building and evolving his Recovery Kit for a while. It's a portable RPi loaded with lots of useful content to load on it. Pretty neat build. First shared here in 2019...","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Lord of the io_uring",
+      "category": "Watch & Learn",
+      "thing_url": "https://unixism.net/loti/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50556533",
+      "source_story_title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "summary": "Guide to asynchronous Linux I/O, from epoll fundamentals to services built with io_uring.",
+      "why_included": "It teaches the earlier I/O model before introducing the newer interface.",
+      "evidence": "A commenter recommended the series for its walkthrough from epoll and kqueue to asynchronous services with io_uring.",
+      "evidence_sources": [{"comment_id":"50565728","comment_url":"https://news.ycombinator.com/item?id=50565728","author":"gavinray","excerpt":"If you enjoyed this post, you might also like the \"Lord of the io_uring\" series which walks through how epoll/kqueue work and then onto async services with io_uring:","kind":"recommendation","parent_comment_id":null}]
+    },
+    {
+      "name": "Does Advertising Actually Work? (Part 2: Digital)",
+      "category": "Watch & Learn",
+      "thing_url": "https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/",
+      "hn_url": "https://news.ycombinator.com/item?id=50564159",
+      "source_story_title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "summary": "Freakonomics Radio episode on measuring online ads and who benefits from overstating their impact.",
+      "why_included": "It brings measurement and incentives into a conversation often dominated by ad-platform metrics.",
+      "evidence": "A commenter recommended the episode and highlighted its discussion of ad sellers’ incentive to oversell effectiveness.",
+      "evidence_sources": [{"comment_id":"50567784","comment_url":"https://news.ycombinator.com/item?id=50567784","author":"hackthemack","excerpt":"It is worth checking out. Here is a relevant couple of quotes... HWANG: I think a second thing is, a little bit like in the subprime-mortgage crisis, you do have people who have very perverse incentives, I think, to push the effectiveness of online ads. That’s the ad agencies, the ad platforms themselves, the people who run ad technology.","kind":"recommendation","parent_comment_id":"50566036"}]
+    }
+  ]
+}

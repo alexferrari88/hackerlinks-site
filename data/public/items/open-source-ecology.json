@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "open-source-ecology",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:open-source-ecology:50560822",
+  "mention_ids": [
+    "2026-11-20:open-source-ecology:50560822"
+  ],
+  "name": "Open Source Ecology",
+  "slug": "open-source-ecology",
+  "summary": "Open blueprints for building industrial machines and homes yourself.",
+  "thing_url": "https://www.opensourceecology.org/",
+  "times_seen": 1,
+  "why_included": "It takes open design beyond desktop projects and into community infrastructure."
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "ragel",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:ragel:50554038",
+  "mention_ids": [
+    "2026-11-20:ragel:50554038"
+  ],
+  "name": "Ragel",
+  "slug": "ragel",
+  "summary": "State-machine compiler that turns regular expressions into embeddable parser code.",
+  "thing_url": "https://www.colm.net/open-source/ragel/",
+  "times_seen": 1,
+  "why_included": "It's a practical option when a parser needs named actions rather than just matching text."
+}

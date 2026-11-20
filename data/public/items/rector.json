@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "rector",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:rector:50557870",
+  "mention_ids": [
+    "2026-11-20:rector:50557870"
+  ],
+  "name": "Rector",
+  "slug": "rector",
+  "summary": "Automated PHP upgrades and refactoring; still review the changes before merging.",
+  "thing_url": "https://getrector.com/",
+  "times_seen": 1,
+  "why_included": "Two independent reports give concrete examples of the legacy PHP upgrades it can help with."
+}

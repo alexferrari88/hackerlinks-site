@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praised the project's ambition, pointing to homes and bulldozers as examples of the scale involved.",
+  "evidence_sources": [
+    {
+      "author": "jmathai",
+      "comment_id": "50561561",
+      "comment_url": "https://news.ycombinator.com/item?id=50561561",
+      "excerpt": "A related project is Open Source Ecology (terrible name), which aims to make the tools necessary to rebuild society accessible to everyone. Think houses and bulldozers, not hammers...impressive stuff.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50560822",
+  "id": "2026-11-20:open-source-ecology:50560822",
+  "is_repeat": false,
+  "issue_id": "2026-11-20",
+  "item_id": "open-source-ecology",
+  "rank": 2,
+  "seen_at": "2026-11-20T05:17:55+01:00",
+  "source_story_id": "50560822",
+  "source_story_title": "Everything you need to survive and rebuild society"
+}

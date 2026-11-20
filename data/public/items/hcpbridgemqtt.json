@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-20T05:17:55+01:00",
+  "id": "hcpbridgemqtt",
+  "last_seen_at": "2026-11-20T05:17:55+01:00",
+  "latest_mention_id": "2026-11-20:hcpbridgemqtt:50525260",
+  "mention_ids": [
+    "2026-11-20:hcpbridgemqtt:50525260"
+  ],
+  "name": "HCPBridgeMqtt",
+  "slug": "hcpbridgemqtt",
+  "summary": "ESP32 bridge for controlling compatible H\u00f6rmann garage doors locally over MQTT.",
+  "thing_url": "https://github.com/Gifford47/HCPBridgeMqtt",
+  "times_seen": 1,
+  "why_included": "The recommendation comes from sustained use, not a quick bench test."
+}
