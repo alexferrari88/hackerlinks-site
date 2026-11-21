@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T05:17:39+01:00",
+  "headline": "9 interesting things surfaced from HN on 2026-11-21",
+  "id": "2026-11-21",
+  "mention_ids": [
+    "2026-11-21:ovenlight:50575644",
+    "2026-11-21:dettato:50526023",
+    "2026-11-21:muscriptor:50526023",
+    "2026-11-21:postgresql-19:50569890",
+    "2026-11-21:gyans-ffmpeg-builds:50569998",
+    "2026-11-21:ratgdo:50525260",
+    "2026-11-21:framework-laptop-13-amd:50576855",
+    "2026-11-21:oxygene:50572822",
+    "2026-11-21:the-old-man-in-the-cave:50581084"
+  ],
+  "summary": {
+    "items_surfaced": 9,
+    "stories_attempted": null,
+    "stories_processed": null
+  }
+}

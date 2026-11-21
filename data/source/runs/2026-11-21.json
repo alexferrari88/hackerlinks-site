@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "run_date": "2026-11-21",
+  "generated_at": "2026-11-21T05:17:39+01:00",
+  "summary": "Nine HN comment recommendations, from audio-to-MIDI transcription and private app sharing to a synth classic.",
+  "intake_status": {"state": "complete"},
+  "comment_packet": {
+    "frontpage_url": "https://news.ycombinator.com/front",
+    "path": "/home/alex/.hermes/hn-scout/comment-packets/2026-11-21.json",
+    "sha256": "bfe49159c9fec0a5b9e5af04f30ff6f9bdc3d759b85c184f891929bbf95132db",
+    "bytes": 4954586,
+    "crawl_complete": true,
+    "story_count": 30,
+    "comment_count": 8008,
+    "fetched_item_count": 8038,
+    "fetch_error_count": 0
+  },
+  "stories_scraped": 30,
+  "stories_total": 30,
+  "telegram_footer": "9 items surfaced | 30/30 stories processed; 8,008 comments | history + run artifact updated",
+  "items": [
+    {
+      "name": "Ovenlight",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://ovenlight.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50575644",
+      "source_story_title": "Why there are still no non-WebKit browsers on iOS",
+      "summary": "Open-source launcher for sharing self-hosted web apps privately on iOS and Android.",
+      "why_included": "Sharing one home-hosted app without sharing the host is a useful distinction.",
+      "evidence": "A commenter liked that they could share a single app with someone without sharing their whole computer.",
+      "evidence_sources": [
+        {"comment_id": "50580131", "comment_url": "https://news.ycombinator.com/item?id=50580131", "author": "theturtletalks", "excerpt": "Yes I really like how you allow me sharing the app with one person without sharing my whole computer.", "kind": "recommendation", "parent_comment_id": "50579142"}
+      ]
+    },
+    {
+      "name": "Dettato",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://kobi.music/research/dettato",
+      "hn_url": "https://news.ycombinator.com/item?id=50526023",
+      "source_story_title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "summary": "Compact audio-to-MIDI model that transcribes multiple instruments, including drums.",
+      "why_included": "A real recording test shows what it gets right and where instrument labels can go wrong.",
+      "evidence": "A commenter reported near note-for-note transcription, including drums, but said high electric-bass notes were sometimes labeled electric guitar.",
+      "evidence_sources": [
+        {"comment_id": "50583053", "comment_url": "https://news.ycombinator.com/item?id=50583053", "author": "lachlan_gray", "excerpt": "And it pretty much nailed it note for note, including drums. Only fault is some mix up of instruments, e.g. electric bass turns into electric guitar in higher registers which is totally excusable.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "MuScriptor",
+      "category": "Apps & Side Projects",
+      "thing_url": "https://muscriptor.kyutai.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50526023",
+      "source_story_title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "summary": "Music transcription tool that turns recordings into MIDI, sheet music, and guitar tabs.",
+      "why_included": "Turning guitar recordings into reusable phrases is a concrete creative use.",
+      "evidence": "A commenter praised MuScriptor after using it to transcribe their own playing for a guitar-solo generator at a conference talk.",
+      "evidence_sources": [
+        {"comment_id": "50575463", "comment_url": "https://news.ycombinator.com/item?id=50575463", "author": "epiccoleman", "excerpt": "I was very impressed with muscriptor when I used it in a recent project (a conference talk I gave). It was an AI talk with a musical component, and the final \"scene\" in the talk involved my own guitar playing. I used Muscriptor to transcribe that playing for categorization as part of a \"guitar solo generator\" that recut a new solo out of my stock phrases each time.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "PostgreSQL 19",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://www.postgresql.org/docs/release/19.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=50569890",
+      "source_story_title": "PostgreSQL 19",
+      "summary": "Database release with concurrent table repacking and built-in waits for replica replay.",
+      "why_included": "The release adds concrete fixes for table bloat and stale reads from replicas.",
+      "evidence": "A commenter praised concurrent repacking, logical replication of sequences, and WAIT FOR LSN for reads routed to replicas.",
+      "evidence_sources": [
+        {"comment_id": "50573468", "comment_url": "https://news.ycombinator.com/item?id=50573468", "author": "dbgobrrr", "excerpt": "Amazing release, really exciting features: - REPACK CONCURRENTLY to reclaim disk space, which also affects performance. - Logical replication of sequences - Fantastic addition. This is a missing piece in the major-version upgrade story which required extra scripting, and enable additional usecases. - WAIT FOR LSN is a game-changer for read-replicas.", "kind": "recommendation", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "Gyan’s FFmpeg Builds",
+      "category": "Dev Tools & Infrastructure",
+      "thing_url": "https://www.gyan.dev/ffmpeg/builds/",
+      "hn_url": "https://news.ycombinator.com/item?id=50569998",
+      "source_story_title": "FFmpeg 9.1 'Gauss'",
+      "summary": "Ready-to-run Windows binaries for FFmpeg, FFprobe, and FFplay.",
+      "why_included": "The endorsement singles out a practical distribution of FFmpeg, not just the upstream release.",
+      "evidence": "A commenter thanked Gyan and said many of the things they use and build on Windows depend directly on these binaries.",
+      "evidence_sources": [
+        {"comment_id": "50573029", "comment_url": "https://news.ycombinator.com/item?id=50573029", "author": "HAL9500TURBO", "excerpt": "Thanks for your builds gyan, at this point a lot of stuff I use and build on Windows depend directly on it.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "ratgdo",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://ratcloud.llc/",
+      "hn_url": "https://news.ycombinator.com/item?id=50525260",
+      "source_story_title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "summary": "Local Wi-Fi garage-door controller; Chamberlain Security+ 3.0 openers aren’t supported.",
+      "why_included": "Local control is appealing, but opener compatibility is a reason to check before buying.",
+      "evidence": "One commenter recommended adding ratgdo to a basic opener; a reply pointed out that Chamberlain Security+ 3.0 openers are unsupported.",
+      "evidence_sources": [
+        {"comment_id": "50554482", "comment_url": "https://news.ycombinator.com/item?id=50554482", "author": "ninkendo", "excerpt": "The correct answer is to just let your garage door opener be dumb, and buy a RatGDO", "kind": "recommendation", "parent_comment_id": "50554368"},
+        {"comment_id": "50554826", "comment_url": "https://news.ycombinator.com/item?id=50554826", "author": "graton", "excerpt": "Unfortunately Chamberlain Security + 3.0 openers are not supported.", "kind": "caveat", "parent_comment_id": "50554482"}
+      ]
+    },
+    {
+      "name": "Framework Laptop 13 (AMD)",
+      "category": "Hardware & Mobile",
+      "thing_url": "https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen",
+      "hn_url": "https://news.ycombinator.com/item?id=50576855",
+      "source_story_title": "I'll never buy Framework hardware again",
+      "summary": "Modular Ryzen laptop with user-replaceable parts; one owner fixed a failed keyboard for $40.",
+      "why_included": "A specific out-of-warranty-style repair illustrates the upside of selling replacement parts directly.",
+      "evidence": "An owner praised the design and described replacing a failing keyboard for $40 after two years.",
+      "evidence_sources": [
+        {"comment_id": "50580678", "comment_url": "https://news.ycombinator.com/item?id=50580678", "author": "ploxiln", "excerpt": "I love the Framework mission and product design, I bought a FW13 AMD about 3 years ago and it's been great. It's been great for me because I never want to talk to \"support\", I love that there is an official place to buy replacement parts for fair prices, and fix it myself. Some keys on the keyboard failed after 2 years, got replacement keyboard for $40, fixed, nice.", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": "50577614"}
+      ]
+    },
+    {
+      "name": "Oxygène",
+      "category": "Watch & Learn",
+      "thing_url": "https://jeanmicheljarre.com/music/oxygene",
+      "hn_url": "https://news.ycombinator.com/item?id=50572822",
+      "source_story_title": "The Making of Oxygene",
+      "summary": "Jean-Michel Jarre’s 1976 synth album, recorded in his Paris apartment.",
+      "why_included": "The recommendation makes it an approachable entry point into early electronic music.",
+      "evidence": "A commenter called it a great album and recalled their mum’s vinyl copy as probably their first exposure to electronic music.",
+      "evidence_sources": [
+        {"comment_id": "50581411", "comment_url": "https://news.ycombinator.com/item?id=50581411", "author": "tomduncalf", "excerpt": "This album was probably my first contact with electronic music, now I think about it - my mum had it on vinyl. She wasn’t an electronic music fan but I believe it was very successful and almost a pop record in Europe. I used to find the cover art terrifying haha. But a great album", "kind": "recommendation", "context": "first_hand_use", "parent_comment_id": null}
+      ]
+    },
+    {
+      "name": "The Old Man in the Cave",
+      "category": "Watch & Learn",
+      "thing_url": "https://www.paramountplus.com/shows/video/ZYOKBwMPSFIyocTdS8zcvcfWUVage5pG/",
+      "hn_url": "https://news.ycombinator.com/item?id=50581084",
+      "source_story_title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "summary": "Classic Twilight Zone episode about a town that relies on a mysterious guardian.",
+      "why_included": "A concise sci-fi detour from a debate about trusting opaque authority.",
+      "evidence": "A commenter called the episode great and suggested it as a parallel to trusting an authority you can’t independently check.",
+      "evidence_sources": [
+        {"comment_id": "50585459", "comment_url": "https://news.ycombinator.com/item?id=50585459", "author": "CamperBob2", "excerpt": "There was a great Twilight Zone original-series episode that was basically just that:", "kind": "recommendation", "parent_comment_id": "50582204"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "postgresql-19",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:postgresql-19:50569890",
+  "mention_ids": [
+    "2026-11-21:postgresql-19:50569890"
+  ],
+  "name": "PostgreSQL 19",
+  "slug": "postgresql-19",
+  "summary": "Database release with concurrent table repacking and built-in waits for replica replay.",
+  "thing_url": "https://www.postgresql.org/docs/release/19.0/",
+  "times_seen": 1,
+  "why_included": "The release adds concrete fixes for table bloat and stale reads from replicas."
+}

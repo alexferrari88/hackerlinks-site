@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "dettato",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:dettato:50526023",
+  "mention_ids": [
+    "2026-11-21:dettato:50526023"
+  ],
+  "name": "Dettato",
+  "slug": "dettato",
+  "summary": "Compact audio-to-MIDI model that transcribes multiple instruments, including drums.",
+  "thing_url": "https://kobi.music/research/dettato",
+  "times_seen": 1,
+  "why_included": "A real recording test shows what it gets right and where instrument labels can go wrong."
+}

@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter praised MuScriptor after using it to transcribe their own playing for a guitar-solo generator at a conference talk.",
+  "evidence_sources": [
+    {
+      "author": "epiccoleman",
+      "comment_id": "50575463",
+      "comment_url": "https://news.ycombinator.com/item?id=50575463",
+      "context": "first_hand_use",
+      "excerpt": "I was very impressed with muscriptor when I used it in a recent project (a conference talk I gave). It was an AI talk with a musical component, and the final \"scene\" in the talk involved my own guitar playing. I used Muscriptor to transcribe that playing for categorization as part of a \"guitar solo generator\" that recut a new solo out of my stock phrases each time.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50526023",
+  "id": "2026-11-21:muscriptor:50526023",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "muscriptor",
+  "rank": 3,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50526023",
+  "source_story_title": "Show HN: I made an audio-to-MIDI model 60x more efficient"
+}

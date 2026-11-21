@@ -1,0 +1,30 @@
+{
+  "evidence": "One commenter recommended adding ratgdo to a basic opener; a reply pointed out that Chamberlain Security+ 3.0 openers are unsupported.",
+  "evidence_sources": [
+    {
+      "author": "ninkendo",
+      "comment_id": "50554482",
+      "comment_url": "https://news.ycombinator.com/item?id=50554482",
+      "excerpt": "The correct answer is to just let your garage door opener be dumb, and buy a RatGDO",
+      "kind": "recommendation",
+      "parent_comment_id": "50554368"
+    },
+    {
+      "author": "graton",
+      "comment_id": "50554826",
+      "comment_url": "https://news.ycombinator.com/item?id=50554826",
+      "excerpt": "Unfortunately Chamberlain Security + 3.0 openers are not supported.",
+      "kind": "caveat",
+      "parent_comment_id": "50554482"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50525260",
+  "id": "2026-11-21:ratgdo:50525260",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "ratgdo",
+  "rank": 6,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50525260",
+  "source_story_title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline"
+}

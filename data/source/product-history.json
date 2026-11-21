@@ -12859,6 +12859,60 @@
       "first_reported_at": "2026-11-20T05:17:55+01:00",
       "last_reported_at": "2026-11-20T05:17:55+01:00",
       "times_reported": 1
+    },
+    {
+      "name": "Ovenlight",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Dettato",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "MuScriptor",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "PostgreSQL 19",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Gyan’s FFmpeg Builds",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "ratgdo",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Framework Laptop 13 (AMD)",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "Oxygène",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
+    },
+    {
+      "name": "The Old Man in the Cave",
+      "first_reported_at": "2026-11-21T05:17:39+01:00",
+      "last_reported_at": "2026-11-21T05:17:39+01:00",
+      "times_reported": 1
     }
   ]
 }

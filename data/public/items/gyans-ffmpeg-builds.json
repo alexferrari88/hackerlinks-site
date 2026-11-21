@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "gyans-ffmpeg-builds",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:gyans-ffmpeg-builds:50569998",
+  "mention_ids": [
+    "2026-11-21:gyans-ffmpeg-builds:50569998"
+  ],
+  "name": "Gyan\u2019s FFmpeg Builds",
+  "slug": "gyans-ffmpeg-builds",
+  "summary": "Ready-to-run Windows binaries for FFmpeg, FFprobe, and FFplay.",
+  "thing_url": "https://www.gyan.dev/ffmpeg/builds/",
+  "times_seen": 1,
+  "why_included": "The endorsement singles out a practical distribution of FFmpeg, not just the upstream release."
+}

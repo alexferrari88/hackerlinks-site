@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "muscriptor",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:muscriptor:50526023",
+  "mention_ids": [
+    "2026-11-21:muscriptor:50526023"
+  ],
+  "name": "MuScriptor",
+  "slug": "muscriptor",
+  "summary": "Music transcription tool that turns recordings into MIDI, sheet music, and guitar tabs.",
+  "thing_url": "https://muscriptor.kyutai.org/",
+  "times_seen": 1,
+  "why_included": "Turning guitar recordings into reusable phrases is a concrete creative use."
+}

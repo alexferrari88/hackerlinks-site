@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter reported near note-for-note transcription, including drums, but said high electric-bass notes were sometimes labeled electric guitar.",
+  "evidence_sources": [
+    {
+      "author": "lachlan_gray",
+      "comment_id": "50583053",
+      "comment_url": "https://news.ycombinator.com/item?id=50583053",
+      "context": "first_hand_use",
+      "excerpt": "And it pretty much nailed it note for note, including drums. Only fault is some mix up of instruments, e.g. electric bass turns into electric guitar in higher registers which is totally excusable.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50526023",
+  "id": "2026-11-21:dettato:50526023",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "dettato",
+  "rank": 2,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50526023",
+  "source_story_title": "Show HN: I made an audio-to-MIDI model 60x more efficient"
+}

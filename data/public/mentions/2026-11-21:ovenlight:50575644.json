@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter liked that they could share a single app with someone without sharing their whole computer.",
+  "evidence_sources": [
+    {
+      "author": "theturtletalks",
+      "comment_id": "50580131",
+      "comment_url": "https://news.ycombinator.com/item?id=50580131",
+      "excerpt": "Yes I really like how you allow me sharing the app with one person without sharing my whole computer.",
+      "kind": "recommendation",
+      "parent_comment_id": "50579142"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50575644",
+  "id": "2026-11-21:ovenlight:50575644",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "ovenlight",
+  "rank": 1,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50575644",
+  "source_story_title": "Why there are still no non-WebKit browsers on iOS"
+}

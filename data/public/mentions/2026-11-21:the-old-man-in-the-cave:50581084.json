@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter called the episode great and suggested it as a parallel to trusting an authority you can\u2019t independently check.",
+  "evidence_sources": [
+    {
+      "author": "CamperBob2",
+      "comment_id": "50585459",
+      "comment_url": "https://news.ycombinator.com/item?id=50585459",
+      "excerpt": "There was a great Twilight Zone original-series episode that was basically just that:",
+      "kind": "recommendation",
+      "parent_comment_id": "50582204"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50581084",
+  "id": "2026-11-21:the-old-man-in-the-cave:50581084",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "the-old-man-in-the-cave",
+  "rank": 9,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50581084",
+  "source_story_title": "The stochastic parrots have apparently proved the Riemann Hypothesis"
+}

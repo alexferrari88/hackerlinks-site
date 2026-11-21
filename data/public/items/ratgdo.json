@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "ratgdo",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:ratgdo:50525260",
+  "mention_ids": [
+    "2026-11-21:ratgdo:50525260"
+  ],
+  "name": "ratgdo",
+  "slug": "ratgdo",
+  "summary": "Local Wi-Fi garage-door controller; Chamberlain Security+ 3.0 openers aren\u2019t supported.",
+  "thing_url": "https://ratcloud.llc/",
+  "times_seen": 1,
+  "why_included": "Local control is appealing, but opener compatibility is a reason to check before buying."
+}

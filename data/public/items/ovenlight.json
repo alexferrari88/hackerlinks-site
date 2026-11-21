@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "ovenlight",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:ovenlight:50575644",
+  "mention_ids": [
+    "2026-11-21:ovenlight:50575644"
+  ],
+  "name": "Ovenlight",
+  "slug": "ovenlight",
+  "summary": "Open-source launcher for sharing self-hosted web apps privately on iOS and Android.",
+  "thing_url": "https://ovenlight.app/",
+  "times_seen": 1,
+  "why_included": "Sharing one home-hosted app without sharing the host is a useful distinction."
+}

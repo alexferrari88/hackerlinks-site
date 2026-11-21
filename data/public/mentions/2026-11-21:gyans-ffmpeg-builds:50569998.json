@@ -1,0 +1,23 @@
+{
+  "evidence": "A commenter thanked Gyan and said many of the things they use and build on Windows depend directly on these binaries.",
+  "evidence_sources": [
+    {
+      "author": "HAL9500TURBO",
+      "comment_id": "50573029",
+      "comment_url": "https://news.ycombinator.com/item?id=50573029",
+      "context": "first_hand_use",
+      "excerpt": "Thanks for your builds gyan, at this point a lot of stuff I use and build on Windows depend directly on it.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50569998",
+  "id": "2026-11-21:gyans-ffmpeg-builds:50569998",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "gyans-ffmpeg-builds",
+  "rank": 5,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50569998",
+  "source_story_title": "FFmpeg 9.1 'Gauss'"
+}

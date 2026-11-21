@@ -1,0 +1,23 @@
+{
+  "evidence": "An owner praised the design and described replacing a failing keyboard for $40 after two years.",
+  "evidence_sources": [
+    {
+      "author": "ploxiln",
+      "comment_id": "50580678",
+      "comment_url": "https://news.ycombinator.com/item?id=50580678",
+      "context": "first_hand_use",
+      "excerpt": "I love the Framework mission and product design, I bought a FW13 AMD about 3 years ago and it's been great. It's been great for me because I never want to talk to \"support\", I love that there is an official place to buy replacement parts for fair prices, and fix it myself. Some keys on the keyboard failed after 2 years, got replacement keyboard for $40, fixed, nice.",
+      "kind": "recommendation",
+      "parent_comment_id": "50577614"
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50576855",
+  "id": "2026-11-21:framework-laptop-13-amd:50576855",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "framework-laptop-13-amd",
+  "rank": 7,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50576855",
+  "source_story_title": "I'll never buy Framework hardware again"
+}

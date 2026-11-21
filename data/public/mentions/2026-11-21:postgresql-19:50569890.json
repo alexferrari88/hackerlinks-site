@@ -1,0 +1,22 @@
+{
+  "evidence": "A commenter praised concurrent repacking, logical replication of sequences, and WAIT FOR LSN for reads routed to replicas.",
+  "evidence_sources": [
+    {
+      "author": "dbgobrrr",
+      "comment_id": "50573468",
+      "comment_url": "https://news.ycombinator.com/item?id=50573468",
+      "excerpt": "Amazing release, really exciting features: - REPACK CONCURRENTLY to reclaim disk space, which also affects performance. - Logical replication of sequences - Fantastic addition. This is a missing piece in the major-version upgrade story which required extra scripting, and enable additional usecases. - WAIT FOR LSN is a game-changer for read-replicas.",
+      "kind": "recommendation",
+      "parent_comment_id": null
+    }
+  ],
+  "hn_url": "https://news.ycombinator.com/item?id=50569890",
+  "id": "2026-11-21:postgresql-19:50569890",
+  "is_repeat": false,
+  "issue_id": "2026-11-21",
+  "item_id": "postgresql-19",
+  "rank": 4,
+  "seen_at": "2026-11-21T05:17:39+01:00",
+  "source_story_id": "50569890",
+  "source_story_title": "PostgreSQL 19"
+}

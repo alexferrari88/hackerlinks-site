@@ -1,0 +1,15 @@
+{
+  "first_seen_at": "2026-11-21T05:17:39+01:00",
+  "id": "framework-laptop-13-amd",
+  "last_seen_at": "2026-11-21T05:17:39+01:00",
+  "latest_mention_id": "2026-11-21:framework-laptop-13-amd:50576855",
+  "mention_ids": [
+    "2026-11-21:framework-laptop-13-amd:50576855"
+  ],
+  "name": "Framework Laptop 13 (AMD)",
+  "slug": "framework-laptop-13-amd",
+  "summary": "Modular Ryzen laptop with user-replaceable parts; one owner fixed a failed keyboard for $40.",
+  "thing_url": "https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen",
+  "times_seen": 1,
+  "why_included": "A specific out-of-warranty-style repair illustrates the upside of selling replacement parts directly."
+}
